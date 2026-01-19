@@ -1,0 +1,1099 @@
+[
+  {
+    "category": "SUV",
+    "models": [
+      {
+        "model_name": "BMW X1",
+        "modelos_url": "https://www.bmw.cl/modelos/x1",
+        "versions": [
+          {
+            "version_name": "X1 sDrive18i Comfort",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X1 sDrive18i Comfort",
+            "precio_lista_text": "$41.900.000",
+            "precio_lista": 41900000,
+            "bono_mes_text": "$3.000.000",
+            "bono_mes": 3000000
+          },
+          {
+            "version_name": "X1 sDrive18i Dynamic",
+            "version_value": "4",
+            "active_confirmed": true,
+            "version_title": "X1 sDrive18i Dynamic",
+            "precio_lista_text": "$46.900.000",
+            "precio_lista": 46900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X1 sDrive18d Dynamic",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "X1 sDrive18d Dynamic",
+            "precio_lista_text": "$48.900.000",
+            "precio_lista": 48900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X1 sDrive18i M Sport",
+            "version_value": "6",
+            "active_confirmed": true,
+            "version_title": "X1 sDrive18i M Sport",
+            "precio_lista_text": "$51.900.000",
+            "precio_lista": 51900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X1 sDrive18d M Sport",
+            "version_value": "7",
+            "active_confirmed": true,
+            "version_title": "X1 sDrive18d M Sport",
+            "precio_lista_text": "$53.900.000",
+            "precio_lista": 53900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X1 xDrive25e M Sport",
+            "version_value": "8",
+            "active_confirmed": true,
+            "version_title": "X1 xDrive25e M Sport",
+            "precio_lista_text": "$60.900.000",
+            "precio_lista": 60900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X1 xDrive25e Dynamic",
+            "version_value": "9",
+            "active_confirmed": true,
+            "version_title": "X1 xDrive25e Dynamic",
+            "precio_lista_text": "$53.900.000",
+            "precio_lista": 53900000,
+            "bono_mes_text": "$6.000.000",
+            "bono_mes": 6000000
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X1 Híbrido",
+        "modelos_url": "https://www.bmw.cl/modelos/x1-hibrido",
+        "versions": [
+          {
+            "version_name": "X1 xDrive25e Dynamic",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "X1 xDrive25e Dynamic",
+            "precio_lista_text": "$53.900.000",
+            "precio_lista": 53900000,
+            "bono_mes_text": "$6.000.000",
+            "bono_mes": 6000000
+          },
+          {
+            "version_name": "X1 xDrive25e M Sport",
+            "version_value": "4",
+            "active_confirmed": true,
+            "version_title": "X1 xDrive25e M Sport",
+            "precio_lista_text": "$60.900.000",
+            "precio_lista": 60900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X2",
+        "modelos_url": "https://www.bmw.cl/modelos/x2",
+        "versions": [
+          {
+            "version_name": "X2 sDrive20i M Sport",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X2 sDrive20i M Sport",
+            "precio_lista_text": "$55.900.000",
+            "precio_lista": 55900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X2 xDrive20d M Sport",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "X2 xDrive20d M Sport",
+            "precio_lista_text": "$58.900.000",
+            "precio_lista": 58900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X2 sDrive20i Dynamic",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "X2 sDrive20i Dynamic",
+            "precio_lista_text": "$49.900.000",
+            "precio_lista": 49900000,
+            "bono_mes_text": "$4.000.000",
+            "bono_mes": 4000000
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X2 M35i",
+        "modelos_url": "https://www.bmw.cl/modelos/x2-m35i",
+        "versions": [
+          {
+            "version_name": "X2 M35i xDrive",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X2 M35i xDrive",
+            "precio_lista_text": "$69.900.000",
+            "precio_lista": 69900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X3",
+        "modelos_url": "https://www.bmw.cl/modelos/x3",
+        "versions": [
+          {
+            "version_name": "X3 20 sDrive Heritage",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X3 20 sDrive Heritage",
+            "precio_lista_text": "$65.900.000",
+            "precio_lista": 65900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X3 M50 xDrive",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "X3 M50 xDrive",
+            "precio_lista_text": "$91.900.000",
+            "precio_lista": 91900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X3 20 sDrive Dynamic",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "X3 20 sDrive Dynamic",
+            "precio_lista_text": "$57.900.000",
+            "precio_lista": 57900000,
+            "bono_mes_text": "$8.000.000",
+            "bono_mes": 8000000
+          },
+          {
+            "version_name": "X3 20d xDrive Dynamic",
+            "version_value": "4",
+            "active_confirmed": true,
+            "version_title": "X3 20d xDrive Dynamic",
+            "precio_lista_text": "$62.900.000",
+            "precio_lista": 62900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X3 20 sDrive M Sport",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "X3 20 sDrive M Sport",
+            "precio_lista_text": "$65.900.000",
+            "precio_lista": 65900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X3 30e xDrive Heritage",
+            "version_value": "6",
+            "active_confirmed": true,
+            "version_title": "X3 30e xDrive Heritage",
+            "precio_lista_text": "$79.900.000",
+            "precio_lista": 79900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X3 Híbrido",
+        "modelos_url": "https://www.bmw.cl/modelos/x3-hibrido",
+        "versions": [
+          {
+            "version_name": "X3 30e xDrive Heritage",
+            "version_value": "6",
+            "active_confirmed": true,
+            "version_title": "X3 30e xDrive Heritage",
+            "precio_lista_text": "$79.900.000",
+            "precio_lista": 79900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X4",
+        "modelos_url": "https://www.bmw.cl/modelos/x4",
+        "versions": [
+          {
+            "version_name": "X4 xDrive20i Dynamic S LCI",
+            "version_value": "7",
+            "active_confirmed": true,
+            "version_title": "X4 xDrive20i Dynamic S LCI",
+            "precio_lista_text": "$59.900.000",
+            "precio_lista": 59900000,
+            "bono_mes_text": "$5.600.000",
+            "bono_mes": 5600000
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X5",
+        "modelos_url": "https://www.bmw.cl/modelos/x5",
+        "versions": [
+          {
+            "version_name": "X5 xDrive40i xLine LCI",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive40i xLine LCI",
+            "precio_lista_text": "$86.900.000",
+            "precio_lista": 86900000,
+            "bono_mes_text": "$5.000.000",
+            "bono_mes": 5000000
+          },
+          {
+            "version_name": "X5 xDrive30d xLine LCI",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive30d xLine LCI",
+            "precio_lista_text": "$88.900.000",
+            "precio_lista": 88900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X5 xDrive50e xLine LCI",
+            "version_value": "4",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive50e xLine LCI",
+            "precio_lista_text": "$104.900.000",
+            "precio_lista": 104900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X5 xDrive40i M Sport LCI",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive40i M Sport LCI",
+            "precio_lista_text": "$108.900.000",
+            "precio_lista": 108900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X5 xDrive30d M Sport LCI",
+            "version_value": "6",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive30d M Sport LCI",
+            "precio_lista_text": "$113.900.000",
+            "precio_lista": 113900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X5 xDrive50e M Sport LCI",
+            "version_value": "7",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive50e M Sport LCI",
+            "precio_lista_text": "$121.900.000",
+            "precio_lista": 121900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X5 M60i xDrive LCI",
+            "version_value": "8",
+            "active_confirmed": true,
+            "version_title": "X5 M60i xDrive LCI",
+            "precio_lista_text": "$138.900.000",
+            "precio_lista": 138900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X5 Híbrido",
+        "modelos_url": "https://www.bmw.cl/modelos/x5-hibrido",
+        "versions": [
+          {
+            "version_name": "X5 xDrive50e xLine LCI",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive50e xLine LCI",
+            "precio_lista_text": "$104.900.000",
+            "precio_lista": 104900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X5 xDrive50e M Sport LCI",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "X5 xDrive50e M Sport LCI",
+            "precio_lista_text": "$121.900.000",
+            "precio_lista": 121900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X6",
+        "modelos_url": "https://www.bmw.cl/modelos/x6",
+        "versions": [
+          {
+            "version_name": "X6 xDrive40i M Sport LCI",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X6 xDrive40i M Sport LCI",
+            "precio_lista_text": "$113.900.000",
+            "precio_lista": 113900000,
+            "bono_mes_text": "$9.000.000",
+            "bono_mes": 9000000
+          },
+          {
+            "version_name": "X6 xDrive30d M Sport LCI",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "X6 xDrive30d M Sport LCI",
+            "precio_lista_text": "$116.900.000",
+            "precio_lista": 116900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X6 M60i xDrive LCI",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "X6 M60i xDrive LCI",
+            "precio_lista_text": "$144.900.000",
+            "precio_lista": 144900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X7",
+        "modelos_url": "https://www.bmw.cl/modelos/x7",
+        "versions": [
+          {
+            "version_name": "X7 xDrive40i Pure Excellence LCI",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "X7 xDrive40i Pure Excellence LCI",
+            "precio_lista_text": "$136.900.000",
+            "precio_lista": 136900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X7 M60i xDrive LCI",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "X7 M60i xDrive LCI",
+            "precio_lista_text": "$173.900.000",
+            "precio_lista": 173900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X7 xDrive40d Pure Excellence LCI",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "X7 xDrive40d Pure Excellence LCI",
+            "precio_lista_text": "$139.900.000",
+            "precio_lista": 139900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "X7 xDrive40i M Sport LCI",
+            "version_value": "6",
+            "active_confirmed": true,
+            "version_title": "X7 xDrive40i M Sport LCI",
+            "precio_lista_text": "$114.900.000",
+            "precio_lista": 114900000,
+            "bono_mes_text": "$9.000.000",
+            "bono_mes": 9000000
+          },
+          {
+            "version_name": "X7 xDrive40d M Sport LCI",
+            "version_value": "7",
+            "active_confirmed": true,
+            "version_title": "X7 xDrive40d M Sport LCI",
+            "precio_lista_text": "$117.900.000",
+            "precio_lista": 117900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "HATCH",
+    "models": [
+      {
+        "model_name": "BMW Serie 1",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-1",
+        "versions": [
+          {
+            "version_name": "120 Hatch Dynamic",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "120 Hatch Dynamic",
+            "precio_lista_text": "$39.900.000",
+            "precio_lista": 39900000,
+            "bono_mes_text": "$8.000.000",
+            "bono_mes": 8000000
+          },
+          {
+            "version_name": "120 Hatch M Sport",
+            "version_value": "4",
+            "active_confirmed": true,
+            "version_title": "120 Hatch M Sport",
+            "precio_lista_text": "$44.900.000",
+            "precio_lista": 44900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "M135 Hatch xDrive",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "M135 Hatch xDrive",
+            "precio_lista_text": "$62.900.000",
+            "precio_lista": 62900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M135",
+        "modelos_url": "https://www.bmw.cl/modelos/m135i",
+        "versions": [
+          {
+            "version_name": "M135 xDrive Hatch",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "M135 xDrive Hatch",
+            "precio_lista_text": "$62.900.000",
+            "precio_lista": 62900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "SEDÁN",
+    "models": [
+      {
+        "model_name": "BMW Serie 3",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-3",
+        "versions": [
+          {
+            "version_name": "320i Berlina Urban LCI II",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "320i Berlina Urban LCI II",
+            "precio_lista_text": "47.900.000",
+            "precio_lista": 47900000,
+            "bono_mes_text": "$8.000.000",
+            "bono_mes": 8000000
+          },
+          {
+            "version_name": "330e Berlina Dynamic LCI II",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "330e Berlina Dynamic LCI II",
+            "precio_lista_text": "$65.900.000",
+            "precio_lista": 65900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "320i Berlina M Sport SE LCI II",
+            "version_value": "8",
+            "active_confirmed": true,
+            "version_title": "320i Berlina M Sport SE LCI II",
+            "precio_lista_text": "$53.900.000",
+            "precio_lista": 53900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "M340i xDrive Berlina LCI II 50th",
+            "version_value": "10",
+            "active_confirmed": true,
+            "version_title": "M340i xDrive Berlina LCI II 50th",
+            "precio_lista_text": "$79.900.000",
+            "precio_lista": 79900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 3 Híbrido",
+        "modelos_url": "https://www.bmw.cl/modelos/3-hibrido",
+        "versions": [
+          {
+            "version_name": "330e Berlina Dynamic LCI II",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "330e Berlina Dynamic LCI II",
+            "precio_lista_text": "$65.900.000",
+            "precio_lista": 65900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 5",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-5",
+        "versions": [
+          {
+            "version_name": "520i Berlina Heritage",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "520i Berlina Heritage",
+            "precio_lista_text": "$71.900.000",
+            "precio_lista": 71900000,
+            "bono_mes_text": "$4.500.000",
+            "bono_mes": 4500000
+          },
+          {
+            "version_name": "530e Berlina M Sport",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "530e Berlina M Sport",
+            "precio_lista_text": "$90.900.000",
+            "precio_lista": 90900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 5 Híbrido",
+        "modelos_url": "https://www.bmw.cl/modelos/5-hibrido",
+        "versions": [
+          {
+            "version_name": "530e Berlina M Sport",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "530e Berlina M Sport",
+            "precio_lista_text": "$90.900.000",
+            "precio_lista": 90900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 7 Híbrido",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-7",
+        "versions": [
+          {
+            "version_name": "750e Berlina Pure Excellence",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "750e Berlina Pure Excellence",
+            "precio_lista_text": "$175.900.000",
+            "precio_lista": 175900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "COUPÉ",
+    "models": [
+      {
+        "model_name": "BMW Serie 2 Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-2-coupe",
+        "versions": [
+          {
+            "version_name": "220i Coupé M Sport LCI",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "220i Coupé M Sport LCI",
+            "precio_lista_text": "$49.900.000",
+            "precio_lista": 49900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "M240i xDrive Coupé LCI",
+            "version_value": "4",
+            "active_confirmed": true,
+            "version_title": "M240i xDrive Coupé LCI",
+            "precio_lista_text": "$70.900.000",
+            "precio_lista": 70900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M240i",
+        "modelos_url": "https://www.bmw.cl/modelos/m240i",
+        "versions": [
+          {
+            "version_name": "M240i xDrive Coupé LCI",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "M240i xDrive Coupé LCI",
+            "precio_lista_text": "$70.900.000",
+            "precio_lista": 70900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 2 Gran Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-2-gran-coupe",
+        "versions": [
+          {
+            "version_name": "220 Gran Coupé Dynamic",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "220 Gran Coupé Dynamic",
+            "precio_lista_text": "$41.900.000",
+            "precio_lista": 41900000,
+            "bono_mes_text": "$5.000.000",
+            "bono_mes": 5000000
+          },
+          {
+            "version_name": "M235 xDrive Gran Coupé HEA",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "M235 xDrive Gran Coupé HEA",
+            "precio_lista_text": "$69.900.000",
+            "precio_lista": 69900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M235 Gran Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/m235-gran-coupe-xdrive",
+        "versions": [
+          {
+            "version_name": "M235 xDrive Gran Coupé HEA",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "M235 xDrive Gran Coupé HEA",
+            "precio_lista_text": "$69.900.000",
+            "precio_lista": 69900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 4 Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-4-coupe",
+        "versions": [
+          {
+            "version_name": "430i Coupé M Sport SE LCI II",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "430i Coupé M Sport SE LCI II",
+            "precio_lista_text": "$60.900.000",
+            "precio_lista": 60900000,
+            "bono_mes_text": "$6.000.000",
+            "bono_mes": 6000000
+          },
+          {
+            "version_name": "M440i xDrive Coupé LCI II",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "M440i xDrive Coupé LCI II",
+            "precio_lista_text": "$85.900.000",
+            "precio_lista": 85900000,
+            "bono_mes_text": "$4.500.000",
+            "bono_mes": 4500000
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 4 Gran Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-4-gran-coupe",
+        "versions": [
+          {
+            "version_name": "420i Gran Coupé Dynamic LCI II",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "420i Gran Coupé Dynamic LCI II",
+            "precio_lista_text": "$57.900.000",
+            "precio_lista": 57900000,
+            "bono_mes_text": "$9.000.000",
+            "bono_mes": 9000000
+          },
+          {
+            "version_name": "M440i xDrive Gran Coupé LCI II",
+            "version_value": "5",
+            "active_confirmed": true,
+            "version_title": "M440i xDrive Gran Coupé LCI II",
+            "precio_lista_text": "$86.900.000",
+            "precio_lista": 86900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M440i Gran Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/m440i-gran-coupe",
+        "versions": [
+          {
+            "version_name": "M440i xDrive Gran Coupé LCI II",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "M440i xDrive Gran Coupé LCI II",
+            "precio_lista_text": "$86.900.000",
+            "precio_lista": 86900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Serie 8 Coupé",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-8-coupe",
+        "versions": [
+          {
+            "version_name": "M850i xDrive Coupé",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "M850i xDrive Coupé",
+            "precio_lista_text": "$146.900.000",
+            "precio_lista": 146900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "CABRIO",
+    "models": [
+      {
+        "model_name": "BMW Serie 4 Convertible",
+        "modelos_url": "https://www.bmw.cl/modelos/serie-4-convertible",
+        "versions": [
+          {
+            "version_name": "420i Cabriolet Dynamic LCI II",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "420i Cabriolet Dynamic LCI II",
+            "precio_lista_text": "$62.900.000",
+            "precio_lista": 62900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "M440i xDrive Cabriolet LCI II",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "M440i xDrive Cabriolet LCI II",
+            "precio_lista_text": "$89.900.000",
+            "precio_lista": 89900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M4 Convertible",
+        "modelos_url": "https://www.bmw.cl/modelos/m4-convertible",
+        "versions": [
+          {
+            "version_name": "M4 Competition xDrive Cabriolet LCI II",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "M4 Competition xDrive Cabriolet LCI II",
+            "precio_lista_text": "$130.900.000",
+            "precio_lista": 130900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW Z4",
+        "modelos_url": "https://www.bmw.cl/modelos/z4",
+        "versions": [
+          {
+            "version_name": "Z4 M40i Roadster LCI",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "Z4 M40i Roadster LCI",
+            "precio_lista_text": "$91.900.000",
+            "precio_lista": 91900000,
+            "bono_mes_text": "$5.500.000",
+            "bono_mes": 5500000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "BMW M",
+    "models": [
+      {
+        "model_name": "BMW XM",
+        "modelos_url": "https://www.bmw.cl/modelos/xm",
+        "versions": [
+          {
+            "version_name": "XM",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "XM",
+            "precio_lista_text": "$232.900.000",
+            "precio_lista": 232900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M2",
+        "modelos_url": "https://www.bmw.cl/modelos/m2",
+        "versions": [
+          {
+            "version_name": "BMW M2 Coupé LCI",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "BMW M2 Coupé LCI",
+            "precio_lista_text": "$104.900.000",
+            "precio_lista": 104900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M3",
+        "modelos_url": "https://www.bmw.cl/modelos/m3",
+        "versions": [
+          {
+            "version_name": "M3 Competition xDrive Berlina LCI II",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "M3 Competition xDrive Berlina LCI II",
+            "precio_lista_text": "$125.900.000",
+            "precio_lista": 125900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M4",
+        "modelos_url": "https://www.bmw.cl/modelos/m4",
+        "versions": [
+          {
+            "version_name": "M4 xDrive Coupé LCI II",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "M4 xDrive Coupé LCI II",
+            "precio_lista_text": "$132.900.000",
+            "precio_lista": 132900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          },
+          {
+            "version_name": "M4 CS Coupe",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "M4 CS Coupe",
+            "precio_lista_text": "$199.900.000",
+            "precio_lista": 199900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW M5",
+        "modelos_url": "https://www.bmw.cl/modelos/m5",
+        "versions": [
+          {
+            "version_name": "M5 Berlina",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "M5 Berlina",
+            "precio_lista_text": "$173.900.000",
+            "precio_lista": 173900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X5 M",
+        "modelos_url": "https://www.bmw.cl/modelos/x5-m",
+        "versions": [
+          {
+            "version_name": "X5 M Competition LCI",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X5 M Competition LCI",
+            "precio_lista_text": "$194.900.000",
+            "precio_lista": 194900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW X6 M",
+        "modelos_url": "https://www.bmw.cl/modelos/x6-m",
+        "versions": [
+          {
+            "version_name": "X6 M Competition LCI",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "X6 M Competition LCI",
+            "precio_lista_text": "$197.900.000",
+            "precio_lista": 197900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ELÉCTRICOS",
+    "models": [
+      {
+        "model_name": "BMW i4",
+        "modelos_url": "https://www.bmw.cl/modelos/i4",
+        "versions": [
+          {
+            "version_name": "i4 eDrive40 Gran Coupé M Sport LCI II",
+            "version_value": "2",
+            "active_confirmed": true,
+            "version_title": "i4 eDrive40 Gran Coupé M Sport LCI II",
+            "precio_lista_text": "$87.900.000",
+            "precio_lista": 87900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW i5",
+        "modelos_url": "https://www.bmw.cl/modelos/i5",
+        "versions": [
+          {
+            "version_name": "i5 eDrive40 Berlina M Sport",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "i5 eDrive40 Berlina M Sport",
+            "precio_lista_text": "$104.900.000",
+            "precio_lista": 104900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW i7",
+        "modelos_url": "https://www.bmw.cl/modelos/i7",
+        "versions": [
+          {
+            "version_name": "i7 M70 xDrive Berlina",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "i7 M70 xDrive Berlina",
+            "precio_lista_text": "$203.900.000",
+            "precio_lista": 203900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW iX1",
+        "modelos_url": "https://www.bmw.cl/modelos/ix1",
+        "versions": [
+          {
+            "version_name": "iX1 eDrive 20 Comfort",
+            "version_value": "3",
+            "active_confirmed": true,
+            "version_title": "iX1 eDrive 20 Comfort",
+            "precio_lista_text": "$56.900.000",
+            "precio_lista": 56900000,
+            "bono_mes_text": "$4.500.000",
+            "bono_mes": 4500000
+          }
+        ]
+      },
+      {
+        "model_name": "BMW iX2",
+        "modelos_url": "https://www.bmw.cl/modelos/ix2",
+        "versions": [
+          {
+            "version_name": "iX2 xDrive30 M Sport",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "iX2 xDrive30 M Sport",
+            "precio_lista_text": "$81.900.000",
+            "precio_lista": 81900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      },
+      {
+        "model_name": "BMW iX",
+        "modelos_url": "https://www.bmw.cl/modelos/ix",
+        "versions": [
+          {
+            "version_name": "iX xDrive45 Atelier",
+            "version_value": "1",
+            "active_confirmed": true,
+            "version_title": "iX xDrive45 Atelier",
+            "precio_lista_text": "$108.900.000",
+            "precio_lista": 108900000,
+            "bono_mes_text": null,
+            "bono_mes": null
+          }
+        ]
+      }
+    ]
+  }
+]

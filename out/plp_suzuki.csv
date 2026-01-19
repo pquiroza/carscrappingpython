@@ -1,0 +1,35 @@
+marca_filtro,modelo_filtro,brand,model,version,discount_pct,price_main_text,price_main,price_lista,bono_marca,bono_financiamiento,consumo_urbano,traccion,pasajeros,url_modelo
+Suzuki,swift-sport,Suzuki,Swift Sport,1.4 DIT SPORT,9.6,$17.990.000*,17990000,19890000,1200000,700000,13.3,4x2 Delantera,5,https://www.dercocenter.cl/auto/suzuki/swift-sport
+Suzuki,swift-sport,Suzuki,Swift Sport,1.4 DIT AT SPORT,9.1,$19.090.000*,19090000,20990000,1200000,700000,12.9,4x2 Delantera,5,https://www.dercocenter.cl/auto/suzuki/swift-sport
+Suzuki,celerio,Suzuki,Celerio,GLX PLUS,15.7,$9.690.000*,9690000,11490000,1200000,600000,,,,https://www.dercocenter.cl/auto/suzuki/celerio
+Suzuki,celerio,Suzuki,Celerio,GLX AMT PLUS,14.6,$10.490.000*,10490000,12290000,1200000,600000,,,,https://www.dercocenter.cl/auto/suzuki/celerio
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GL MT,12.4,$11.990.000*,11990000,13690000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GL CVT,11.4,$13.190.000*,13190000,14890000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GLX MT,11.3,$13.390.000*,13390000,15090000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GLX CVT,10.7,$14.190.000*,14190000,15890000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,jimny,Suzuki,Jimny,1.5 GL 3P,8.5,$16.090.000*,16090000,17590000,900000,600000,,Si,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 GL 5P,9.0,$17.190.000*,17190000,18890000,1100000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 GL Winche 3P,7.3,$18.071.100*,18071100,19504100,833000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 GLX 5P,8.3,$18.790.000*,18790000,20490000,1100000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 AT GLX 3P,7.4,$18.890.000*,18890000,20390000,900000,600000,,Si,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 AT GLX 5P,7.7,$20.390.000*,20390000,22090000,1100000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,alto,Suzuki,ALTO,GL PLUS,12.8,$8.190.000*,8190000,9390000,800000,400000,,,,https://www.dercocenter.cl/auto/suzuki/alto
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GL Hybrid,14.1,$12.790.000*,12790000,14890000,1300000,800000,21.3,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GLX Hybrid,13.1,$13.990.000*,13990000,16090000,1300000,800000,21.3,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GL CVT Hybrid,12.8,$14.290.000*,14290000,16390000,1300000,800000,22.2,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GLX CVT Hybrid,11.9,$15.490.000*,15490000,17590000,1300000,800000,22.2,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,baleno,Suzuki,Baleno,1.5 GLS,13.5,$12.790.000*,12790000,14790000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,baleno,Suzuki,Baleno,1.5 AT GLS,12.0,$14.690.000*,14690000,16690000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,baleno,Suzuki,Baleno,1.5 GLX,11.8,$14.990.000*,14990000,16990000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,baleno,Suzuki,Baleno,1.5 AT GLX,10.9,$16.390.000*,16390000,18390000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,s-presso,Suzuki,S-presso,1.0 GLX,14.3,$8.990.000*,8990000,10490000,1000000,500000,,,,https://www.dercocenter.cl/auto/suzuki/s-presso
+Suzuki,s-presso,Suzuki,S-presso,1.0 AMT GLX,13.6,$9.490.000*,9490000,10990000,1000000,500000,,,,https://www.dercocenter.cl/auto/suzuki/s-presso
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GL MT 4X2,13.1,$17.890.000*,17890000,20590000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GL AT 4X2,12.5,$18.890.000*,18890000,21590000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GLX MT 4X2,12.2,$19.490.000*,19490000,22190000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GLX AT 4X2,11.3,$21.190.000*,21190000,23890000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,LIMITED AT 4X4,10.3,$23.490.000*,23490000,26190000,1700000,1000000,,AllGrip 4WD,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 GL,13.3,$14.990.000*,14990000,17290000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 AT GL,12.3,$16.390.000*,16390000,18690000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 GLX,12.2,$16.490.000*,16490000,18790000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 AT GLX,11.4,$17.890.000*,17890000,20190000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid

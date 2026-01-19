@@ -1,0 +1,13 @@
+marca_filtro,modelo_filtro,brand,model,version,discount_pct,price_main_text,price_main,price_lista,bono_marca,bono_financiamiento,consumo_urbano,traccion,pasajeros,url_modelo
+JAC,sunray-pasajeros,JAC,Sunray Pasajeros,16+1 Green Jet,10.7,$32.713.100*,32713100,36632100,3119000,800000,,,,https://www.dercocenter.cl/auto/jac/sunray-pasajeros
+JAC,refine-pasajeros-euro-6,JAC,Refine Pasajeros Euro 6,8+1 Executive,17.4,$27.120.100*,27120100,32832100,5236000,476000,,,,https://www.dercocenter.cl/auto/jac/refine-pasajeros-euro-6
+JAC,refine-pasajeros-euro-6,JAC,Refine Pasajeros Euro 6,10+1 Executive,15.4,$28.072.100*,28072100,33189100,4641000,476000,,,,https://www.dercocenter.cl/auto/jac/refine-pasajeros-euro-6
+JAC,js2,JAC,JS2,Comfort Smart,19.7,$8.990.000*,8990000,11190000,1400000,800000,,,,https://www.dercocenter.cl/auto/jac/js2
+JAC,js2,JAC,JS2,Luxury,20.9,$10.390.000*,10390000,13140000,1950000,800000,,,,https://www.dercocenter.cl/auto/jac/js2
+JAC,js2,JAC,JS2,CVT Luxury,16.2,$12.390.000*,12390000,14790000,1600000,800000,,,,https://www.dercocenter.cl/auto/jac/js2
+JAC,js8,JAC,JS8,Comfort CE 6MT,14.9,$15.990.000*,15990000,18790000,2000000,800000,,,,https://www.dercocenter.cl/auto/jac/js8
+JAC,js8,JAC,JS8,Advance XE DCT,26.4,$17.590.000*,17590000,23890000,5500000,800000,,,,https://www.dercocenter.cl/auto/jac/js8
+JAC,js6,JAC,JS6,Advance XE DCT,30.6,$16.990.000*,16990000,24490000,6700000,800000,,,,https://www.dercocenter.cl/auto/jac/js6
+JAC,e-js1,JAC,e-JS1,e-JS1 Luxury,31.3,$10.990.000*,10990000,15990000,4000000,1000000,,,,https://www.dercocenter.cl/auto/jac/e-js1
+JAC,e-js4,JAC,e-JS4,e-JS4 Luxury,25.9,$21.490.000*,21490000,28990000,6000000,1500000,,,,https://www.dercocenter.cl/auto/jac/e-js4
+JAC,refine-cargo-ev,JAC,Refine Cargo EV,Refine Cargo M3 EV,11.4,$35.890.000*,35890000,40490000,4000000,600000,,,,https://www.dercocenter.cl/auto/jac/refine-cargo-ev

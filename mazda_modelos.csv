@@ -1,0 +1,73 @@
+modelo_filtro,brand,model,version,precio_desde_texto,precio_desde,precio_lista,bono_directo,bono_financiamiento,cotizar_url
+MAZDA CX-90,MAZDA,MAZDA CX-90,PREMIUM 3.3 MILD HYBRID,$55.490.000*,55490000,56490000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-90&id_version=KDMKLAF
+MAZDA CX-90,MAZDA,MAZDA CX-90,SIGNATURE 3.3 MILD HYBRID,$59.490.000*,59490000,60490000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-90&id_version=KDMKLAG
+MAZDA CX-60,MAZDA,MAZDA CX-60,PRIME 2.5 GASOLINA,$39.990.000*,39990000,40990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KS1MLA6
+MAZDA CX-60,MAZDA,MAZDA CX-60,PREMIUM SPORT GASOLINA 3.3 MILD HYBRID,$47.990.000*,47990000,48990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KST8LA1
+MAZDA CX-60,MAZDA,MAZDA CX-60,PREMIUM SPORT 3.3 MILD HYBRID TAN,$47.990.000*,47990000,48990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KMGALA7
+MAZDA CX-60,MAZDA,MAZDA CX-90,PREMIUM 3.3 MILD HYBRID,$55.490.000*,55490000,56490000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-90&id_version=KDMKLAF
+MAZDA CX-60,MAZDA,MAZDA CX-60,SIGNATURE 2.5 HÍBRIDO ENCHUFABLE,$56.990.000*,56990000,59990000,2000000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KDPJLAJ
+MAZDA CX-60,MAZDA,MAZDA CX-60,SIGNATURE 2.5 HIBRIDO ENCHUFABLE TAN,$56.990.000*,56990000,59990000,2000000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KMFVLAF
+MAZDA CX-60,MAZDA,MAZDA CX-90,SIGNATURE 3.3 MILD HYBRID,$59.490.000*,59490000,60490000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-90&id_version=KDMKLAG
+MAZDA CX-5,MAZDA,MAZDA CX-5,CORE 2.0 2WD 6AT,$23.590.000*,23590000,24990000,400000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA CX-5,MAZDA,MAZDA CX-5,CORE 2.0 AWD 6AT,$26.290.000*,26290000,27490000,500000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAA
+MAZDA CX-5,MAZDA,MAZDA CX-5,CORE PLUS 2.0 AWD 6AT,$28.290.000*,28290000,29290000,300000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA CX-5,MAZDA,MAZDA CX-5,SPORT 2.5 AWD 6AT,$32.590.000*,32590000,33290000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KSN3LAF
+MAZDA CX-5,MAZDA,MAZDA CX-5,SIGNATURE 2.5T AWD 6AT,$34.490.000*,34490000,35190000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTVLAB
+MAZDA CX-5,MAZDA,MAZDA CX-60,PRIME 2.5 GASOLINA,$39.990.000*,39990000,40990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KS1MLA6
+MAZDA CX-5,MAZDA,MAZDA CX-60,PREMIUM SPORT GASOLINA 3.3 MILD HYBRID,$47.990.000*,47990000,48990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KST8LA1
+MAZDA CX-5,MAZDA,MAZDA CX-60,PREMIUM SPORT 3.3 MILD HYBRID TAN,$47.990.000*,47990000,48990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-60&id_version=KMGALA7
+MAZDA CX-5,MAZDA,MAZDA CX-90,PREMIUM 3.3 MILD HYBRID,$55.490.000*,55490000,56490000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-90&id_version=KDMKLAF
+MAZDA CX-30,MAZDA,MAZDA CX-30,ENTRY 2.0 2WD AT 7G,$22.290.000*,22290000,22990000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAF
+MAZDA CX-30,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6MT 7G,$22.690.000*,22690000,23390000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSABLAC
+MAZDA CX-30,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6AT 7G,$23.390.000*,23390000,24090000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAJ
+MAZDA CX-30,MAZDA,MAZDA CX-5,CORE 2.0 2WD 6AT,$23.590.000*,23590000,24990000,400000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA CX-30,MAZDA,MAZDA CX-30,CORE PLUS 2.0 2WD 6AT 7G,$25.190.000 *,25190000,25890000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAM
+MAZDA CX-30,MAZDA,MAZDA CX-5,CORE 2.0 AWD 6AT,$26.290.000*,26290000,27490000,500000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAA
+MAZDA CX-30,MAZDA,MAZDA CX-5,CORE PLUS 2.0 AWD 6AT,$28.290.000*,28290000,29290000,300000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA CX-30,MAZDA,MAZDA CX-30,HIGH 2.5 AWD 6AT 7G,$28.990.000*,28990000,29690000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSAKLAA
+MAZDA CX-30,MAZDA,MAZDA CX-5,SPORT 2.5 AWD 6AT,$32.590.000*,32590000,33290000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KSN3LAF
+MAZDA CX-3,MAZDA,MAZDA CX-3,CORE 2.0 MT,$18.990.000*,18990000,19790000,100000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHBLAA
+MAZDA CX-3,MAZDA,MAZDA CX-3,CORE 2.0 6AT,$19.490.000*,19490000,20590000,400000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHCLAU
+MAZDA CX-3,MAZDA,MAZDA CX-30,ENTRY 2.0 2WD AT 7G,$22.290.000*,22290000,22990000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAF
+MAZDA CX-3,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6MT 7G,$22.690.000*,22690000,23390000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSABLAC
+MAZDA CX-3,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6AT 7G,$23.390.000*,23390000,24090000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAJ
+MAZDA CX-3,MAZDA,MAZDA CX-5,CORE 2.0 2WD 6AT,$23.590.000*,23590000,24990000,400000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA CX-3,MAZDA,MAZDA CX-30,CORE PLUS 2.0 2WD 6AT 7G,$25.190.000 *,25190000,25890000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAM
+MAZDA CX-3,MAZDA,MAZDA CX-5,CORE 2.0 AWD 6AT,$26.290.000*,26290000,27490000,500000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAA
+MAZDA CX-3,MAZDA,MAZDA CX-5,CORE PLUS 2.0 AWD 6AT,$28.290.000*,28290000,29290000,300000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA 3 SPORT,MAZDA,MAZDA 3 SPORT,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20890000,1000000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAB
+MAZDA 3 SPORT,MAZDA,MAZDA CX-3,CORE 2.0 MT,$18.990.000*,18990000,19790000,100000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHBLAA
+MAZDA 3 SPORT,MAZDA,MAZDA CX-3,CORE 2.0 6AT,$19.490.000*,19490000,20590000,400000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHCLAU
+MAZDA 3 SPORT,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6MT,$21.390.000*,21390000,22590000,200000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAD
+MAZDA 3 SPORT,MAZDA,MAZDA CX-30,ENTRY 2.0 2WD AT 7G,$22.290.000*,22290000,22990000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAF
+MAZDA 3 SPORT,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6MT 7G,$22.690.000*,22690000,23390000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSABLAC
+MAZDA 3 SPORT,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6AT,$22.890.000*,22890000,24690000,800000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAJLAM
+MAZDA 3 SPORT,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6AT 7G,$23.390.000*,23390000,24090000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAJ
+MAZDA 3 SPORT,MAZDA,MAZDA CX-5,CORE 2.0 2WD 6AT,$23.590.000*,23590000,24990000,400000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-5&id_version=KGTJLAC
+MAZDA 3,MAZDA,MAZDA 3 SPORT,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20890000,1000000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAB
+MAZDA 3,MAZDA,MAZDA 3,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20490000,600000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SEDAN&id_version=BHVVLAB
+MAZDA 3,MAZDA,MAZDA CX-3,CORE 2.0 MT,$18.990.000*,18990000,19790000,100000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHBLAA
+MAZDA 3,MAZDA,MAZDA CX-3,CORE 2.0 6AT,$19.490.000*,19490000,20590000,400000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHCLAU
+MAZDA 3,MAZDA,MAZDA 3,CORE 2.0 7G 6MT,$20.990.000*,20990000,21990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SEDAN&id_version=BHVVLAD
+MAZDA 3,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6MT,$21.390.000*,21390000,22590000,200000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAD
+MAZDA 3,MAZDA,MAZDA CX-30,ENTRY 2.0 2WD AT 7G,$22.290.000*,22290000,22990000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAF
+MAZDA 3,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6MT 7G,$22.690.000*,22690000,23390000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSABLAC
+MAZDA 3,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6AT,$22.890.000*,22890000,24690000,800000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAJLAM
+MAZDA BT-50,MAZDA,MAZDA 3 SPORT,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20890000,1000000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAB
+MAZDA BT-50,MAZDA,MAZDA 3,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20490000,600000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SEDAN&id_version=BHVVLAB
+MAZDA BT-50,MAZDA,MAZDA CX-3,CORE 2.0 MT,$18.990.000*,18990000,19790000,100000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHBLAA
+MAZDA BT-50,MAZDA,MAZDA CX-3,CORE 2.0 6AT,$19.490.000*,19490000,20590000,400000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHCLAU
+MAZDA BT-50,MAZDA,MAZDA 3,CORE 2.0 7G 6MT,$20.990.000*,20990000,21990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SEDAN&id_version=BHVVLAD
+MAZDA BT-50,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6MT,$21.390.000*,21390000,22590000,200000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAD
+MAZDA BT-50,MAZDA,MAZDA CX-30,ENTRY 2.0 2WD AT 7G,$22.290.000*,22290000,22990000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAF
+MAZDA BT-50,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6MT 7G,$22.690.000*,22690000,23390000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSABLAC
+MAZDA BT-50,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6AT,$22.890.000*,22890000,24690000,800000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAJLAM
+MAZDA MX-5,MAZDA,MAZDA 3 SPORT,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20890000,1000000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAB
+MAZDA MX-5,MAZDA,MAZDA 3,ENTRY 2.0 7G 6MT,$18.890.000*,18890000,20490000,600000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SEDAN&id_version=BHVVLAB
+MAZDA MX-5,MAZDA,MAZDA CX-3,CORE 2.0 MT,$18.990.000*,18990000,19790000,100000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHBLAA
+MAZDA MX-5,MAZDA,MAZDA CX-3,CORE 2.0 6AT,$19.490.000*,19490000,20590000,400000,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DNHCLAU
+MAZDA MX-5,MAZDA,MAZDA 3,CORE 2.0 7G 6MT,$20.990.000*,20990000,21990000,,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SEDAN&id_version=BHVVLAD
+MAZDA MX-5,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6MT,$21.390.000*,21390000,22590000,200000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAELAD
+MAZDA MX-5,MAZDA,MAZDA CX-30,ENTRY 2.0 2WD AT 7G,$22.290.000*,22290000,22990000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSACLAF
+MAZDA MX-5,MAZDA,MAZDA CX-30,CORE 2.0 2WD 6MT 7G,$22.690.000*,22690000,23390000,,700000,https://www.mazda.cl/formulario/cotizacion/?id_model=CX-30&id_version=DSABLAC
+MAZDA MX-5,MAZDA,MAZDA 3 SPORT,CORE 2.0 7G 6AT,$22.890.000*,22890000,24690000,800000,1000000,https://www.mazda.cl/formulario/cotizacion/?id_model=3SPORT&id_version=BJAJLAM

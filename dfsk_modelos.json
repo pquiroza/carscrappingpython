@@ -1,0 +1,72 @@
+[
+  {
+    "modelo": "NEW PICK UP Z9",
+    "value": "NEW PICK UP Z9",
+    "li_id": "NEW PICK UP Z9"
+  },
+  {
+    "modelo": "600 PHEV",
+    "value": "600 PHEV",
+    "li_id": "600 PHEV"
+  },
+  {
+    "modelo": "PICK UP D1",
+    "value": "PICK UP D1",
+    "li_id": "PICK UP D1"
+  },
+  {
+    "modelo": "SUV 500",
+    "value": "SUV 500",
+    "li_id": "SUV 500"
+  },
+  {
+    "modelo": "SUV 600",
+    "value": "SUV 600",
+    "li_id": "SUV 600"
+  },
+  {
+    "modelo": "SUV 580",
+    "value": "SUV 580",
+    "li_id": "SUV 580"
+  },
+  {
+    "modelo": "SUV 560",
+    "value": "SUV 560",
+    "li_id": "SUV 560"
+  },
+  {
+    "modelo": "Cargo Van Eléctrico",
+    "value": "Cargo Van Eléctrico",
+    "li_id": "Cargo Van Eléctrico"
+  },
+  {
+    "modelo": "Truck Cabina Simple",
+    "value": "Truck Cabina Simple",
+    "li_id": "Truck Cabina Simple"
+  },
+  {
+    "modelo": "Truck Cabina Doble",
+    "value": "Truck Cabina Doble",
+    "li_id": "Truck Cabina Doble"
+  },
+  {
+    "modelo": "Cargo Box",
+    "value": "Cargo Box",
+    "li_id": "Cargo Box"
+  },
+  {
+    "modelo": "Cargo Van",
+    "value": "Cargo Van",
+    "li_id": "Cargo Van"
+  },
+  {
+    "modelo": "Refritruck",
+    "value": "Refritruck",
+    "li_id": "Refritruck"
+  },
+  {
+    "modelo": "SERES 3",
+    "value": "SERES 3",
+    "li_id": "SERES 3"
+  }
+]

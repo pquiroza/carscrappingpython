@@ -1,0 +1,56 @@
+marca_filtro,modelo_filtro,brand,model,version,discount_pct,price_main_text,price_main,price_lista,bono_marca,bono_financiamiento,consumo_urbano,traccion,pasajeros,url_modelo
+GWM,poer,GWM,Poer,Diésel 4x2 Elite Pant,11.6,$19.980.100*,19980100,22598100,1666000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer,GWM,Poer,Diésel 4x2 Deluxe,12.9,$20.813.100*,20813100,23907100,2142000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer,GWM,Poer,Diésel 4x4 Elite Pant,12.4,$21.765.100*,21765100,24859100,2142000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer,GWM,Poer,Diésel 4x4 Deluxe,12.8,$22.598.100*,22598100,25930100,2380000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer-plus-automatica,GWM,Poer Plus Automática,Diésel 4x2 Elite,11.5,$25.573.100*,25573100,28905100,2380000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer-plus-automatica
+GWM,poer-plus-automatica,GWM,Poer Plus Automática,Diésel 4x4 Elite,10.7,$26.763.100*,26763100,29976100,2261000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer-plus-automatica
+GWM,poer-plus-automatica,GWM,Poer Plus Automática,Diésel 4x4 Deluxe,15.4,$27.358.100*,27358100,32356100,4046000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer-plus-automatica
+GWM,tank-300,GWM,Tank 300,4WD,11.9,$29.490.000*,29490000,33490000,2500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/tank-300
+GWM,ora-03,GWM,ORA 03,SR,30.2,$18.490.000*,18490000,26490000,6500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/ora-03
+GWM,ora-03,GWM,ORA 03,GT,16.4,$27.990.000*,27990000,33490000,4000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/ora-03
+GWM,haval-h6,GWM,Haval H6,4x2 ACTIVE AT,20.8,$17.490.000*,17490000,22090000,3100000,1500000,,Si,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6,GWM,Haval H6,4x2 ELITE AT,23.4,$18.290.000*,18290000,23890000,4100000,1500000,,Si,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6,GWM,Haval H6,4x2 DELUXE AT,21.6,$19.990.000*,19990000,25490000,4000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6,GWM,Haval H6,4x4 DELUXE AT,17.3,$20.990.000*,20990000,25390000,2900000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6-gt,GWM,Haval H6 GT,4x2 ELITE,15.5,$21.790.000*,21790000,25790000,2500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-gt
+GWM,haval-h6-gt,GWM,Haval H6 GT,4x4 DELUXE,16.2,$24.790.000*,24790000,29590000,3300000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-gt
+GWM,haval-dargo,GWM,Haval Dargo,4x2 ELITE,22.1,$18.990.000*,18990000,24390000,3900000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-dargo
+GWM,haval-dargo,GWM,Haval Dargo,4x4 DELUXE,19.0,$22.990.000*,22990000,28390000,3900000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-dargo
+GWM,haval-dargo,GWM,Haval Dargo,4x4 DELUXE PLUS,20.8,$23.990.000*,23990000,30290000,4800000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-dargo
+GWM,haval-jolion-hibrido,GWM,Haval Jolion Híbrido,2WD ELITE AT HÍBRIDO,17.7,$19.990.000*,19990000,24290000,3100000,1200000,37,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-hibrido
+GWM,haval-jolion-hibrido,GWM,Haval Jolion Híbrido,2WD DELUXE AT HÍBRIDO,19.0,$21.690.000*,21690000,26790000,3900000,1200000,37,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-hibrido
+GWM,haval-h6-hibrido,GWM,Haval H6 Híbrido,2WD ELITE AT HÍBRIDO,14.3,$23.990.000*,23990000,27990000,2500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-hibrido
+GWM,haval-h6-hibrido,GWM,Haval H6 Híbrido,2WD DELUXE AT HÍBRIDO,16.0,$25.190.000*,25190000,29990000,3300000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-hibrido
+GWM,tank-500,GWM,Tank 500,4WD,9.1,$44.990.000*,44990000,49490000,3000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/tank-500
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 ACTIVE MT,26.6,$12.990.000*,12990000,17690000,3500000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 ELITE MT,23.5,$14.290.000*,14290000,18690000,3200000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 ELITE AT,21.3,$15.490.000*,15490000,19690000,3000000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 DELUXE AT,20.0,$16.790.000*,16790000,20990000,3000000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,4X2 ELITE AT,19.9,$16.490.000*,16490000,20590000,2900000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,4X2 DELUXE AT,19.6,$17.590.000*,17590000,21890000,3100000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,HÍBRIDO 4X2 ELITE AT,18.9,$21.490.000*,21490000,26490000,3800000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,HÍBRIDO 4X2 DELUXE AT,18.6,$23.190.000*,23190000,28490000,4100000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.0T Diésel 4x2 Elite,9.8,$26.168.100*,26168100,29024100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.0T Diésel 4x4 Elite,9.5,$27.358.100*,27358100,30214100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.4T Diésel 4x4 Elite,11.1,$29.500.100*,29500100,33189100,2737000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.0T Diésel 4x4 Deluxe,10.1,$29.738.100*,29738100,33070100,2380000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.4T Diésel 4x4 Deluxe,11.8,$31.999.100*,31999100,36283100,3332000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nuevo-haval-h7,GWM,Nuevo Haval H7,ELITE 2WD,11.5,$22.290.000*,22290000,25190000,1900000,1000000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h7
+GWM,nuevo-haval-h7,GWM,Nuevo Haval H7,DELUXE 4WD,9.9,$26.290.000*,26290000,29190000,1900000,1000000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h7
+GWM,nuevo-haval-h7,GWM,Nuevo Haval H7,DELUXE 2WD HÍBRIDA,11.7,$27.990.000*,27990000,31690000,2700000,1000000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h7
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x2 Elite,12.3,$21.170.100*,21170100,24145100,2023000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x2 Deluxe,11.4,$22.122.100*,22122100,24978100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x4 Elite,11.5,$22.955.100*,22955100,25930100,2023000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x4 Deluxe,10.7,$23.907.100*,23907100,26763100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,PHEV DELUXE 2WD,14.1,$27.490.000*,27490000,31990000,,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,PHEV DELUXE 4WD,13.2,$29.490.000*,29490000,33990000,,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,ELITE 2WD,14.0,$19.690.000*,19690000,22890000,2000000,1200000,,2WD,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,DELUXE 2WD,12.7,$22.090.000*,22090000,25290000,2000000,1200000,,2WD,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,DELUXE 4WD,11.9,$22.990.000*,22990000,26090000,1900000,1200000,,4WD,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Gasolina 4x2 Deluxe,16.3,$14.625.100*,14625100,17481100,2142000,714000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Gasolina 4x4 Deluxe,15.2,$16.648.100*,16648100,19623100,2261000,714000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Diésel 4x2 Deluxe,19.5,$17.243.100*,17243100,21408100,3213000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Diésel 4x4 Deluxe,18.0,$19.028.100*,19028100,23193100,3213000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-poer-p500,GWM,Nueva Poer P500,PHEV 4WD Deluxe,10.6,$49.968.100*,49968100,55918100,3570000,2380000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-p500
+GWM,nuevo-tank-300,GWM,Nuevo Tank 300,4WD LIMITED,10.5,$29.990.000*,29990000,33490000,2000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-tank-300

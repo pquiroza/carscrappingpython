@@ -1,0 +1,19 @@
+[
+  {
+    "marca": "Jetour",
+    "modelo": "T2 PHEV",
+    "version": "T2 1.5T PHEV LIMITED",
+    "precio_card_int": 34990000,
+    "bono_int": 2000000,
+    "precio_credito_inteligente_int": 34990000,
+    "precio_credito_convencional_int": 35990000,
+    "precio_todo_medio_pago_int": 36990000,
+    "precio_lista_int": 36990000,
+    "cc": 1500,
+    "combustible": "Híbrido",
+    "transmision": "Automática",
+    "potencia_hp": null,
+    "url_modelo": "https://www.difor.cl/jetour-t2-phev-chile",
+    "url_version": "https://www.difor.cl/jetour-dashing-chile/T2_1r5T_PHEV_LIMITED_DIFOR"
+  }
+]

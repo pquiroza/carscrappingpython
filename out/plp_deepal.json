@@ -1,0 +1,53 @@
+[
+  {
+    "brand": "Deepal",
+    "model": "S07",
+    "version": "S07 REEV",
+    "discount_pct": 6.3,
+    "price_main_text": "$29.990.000*",
+    "price_main": 29990000,
+    "price_lista": 31990000,
+    "bono_marca": 500000,
+    "bono_financiamiento": 1500000,
+    "consumo_urbano": null,
+    "traccion": null,
+    "pasajeros": null,
+    "url_modelo": "https://www.dercocenter.cl/auto/deepal/s07",
+    "marca_filtro": "Deepal",
+    "modelo_filtro": "s07"
+  },
+  {
+    "brand": "Deepal",
+    "model": "S07",
+    "version": "S07 BEV",
+    "discount_pct": 5.3,
+    "price_main_text": "$35.990.000*",
+    "price_main": 35990000,
+    "price_lista": 37990000,
+    "bono_marca": 500000,
+    "bono_financiamiento": 1500000,
+    "consumo_urbano": null,
+    "traccion": null,
+    "pasajeros": null,
+    "url_modelo": "https://www.dercocenter.cl/auto/deepal/s07",
+    "marca_filtro": "Deepal",
+    "modelo_filtro": "s07"
+  },
+  {
+    "brand": "Deepal",
+    "model": "S05",
+    "version": "REEV",
+    "discount_pct": 13.3,
+    "price_main_text": "$25.990.000*",
+    "price_main": 25990000,
+    "price_lista": 29990000,
+    "bono_marca": 2600000,
+    "bono_financiamiento": 1400000,
+    "consumo_urbano": null,
+    "traccion": null,
+    "pasajeros": null,
+    "url_modelo": "https://www.dercocenter.cl/auto/deepal/s05",
+    "marca_filtro": "Deepal",
+    "modelo_filtro": "s05"
+  }
+]

@@ -1,0 +1,60 @@
+jobs:
+    - id: astara
+      cmd: ["python3", "scripts/astara.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: bmw
+      cmd: ["python3", "scripts/bmw.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: carscrapper
+      cmd: ["python3", "scripts/carscrapper.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: chevrolet
+      cmd: ["python3", "scripts/chevrolet2.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: derco
+      cmd: ["python3", "scripts/derco2.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: difor
+      cmd: ["python3", "scripts/difor2.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: geely
+      cmd: ["python3", "scripts/geely.py"]
+      timeout_sec: 1800
+      retries: 2 
+    - id: kia
+      cmd: ["python3", "scripts/kia.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: mercedez
+      cmd: ["python3", "scripts/mercedez.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: mazda
+      cmd: ["python3", "scripts/play_mazda.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: subaru
+      cmd: ["python3", "scripts/play_subaru.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: valenzuela 
+      cmd: ["python3", "scripts/valenzuela2.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: volvo
+      cmd: ["python3", "scripts/volvo.py"]
+      timeout_sec: 1800
+      retries: 2
+    - id: zentrum
+      cmd: ["python3", "scripts/zentrum.py"]
+      timeout_sec: 1800
+      retries: 2
+      
+      
+      

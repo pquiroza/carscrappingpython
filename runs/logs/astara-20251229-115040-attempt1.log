@@ -1,0 +1,3 @@
+[START] job=astara attempt=1
+cmd=python3 scripts/astara.py
+

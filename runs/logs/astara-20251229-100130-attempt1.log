@@ -1,0 +1,611 @@
+[START] job=astara attempt=1
+cmd=python3 scripts/astara.py
+
+
+=== SsangYong ===
+[INFO] Modelos en SsangYong: 6
+  [1/6] : 2 versiones
+  [2/6] : 2 versiones
+  [3/6] : 2 versiones
+  [4/6] : 8 versiones
+  [5/6] : 5 versiones
+  [6/6] : 9 versiones
+
+=== JMC ===
+[INFO] Modelos en JMC: 10
+  [1/10] : 1 versiones
+  [2/10] : 4 versiones
+  [3/10] : 1 versiones
+  [4/10] : 2 versiones
+  [5/10] : 2 versiones
+  [6/10] : 2 versiones
+  [7/10] : 2 versiones
+  [8/10] : 1 versiones
+  [9/10] : 1 versiones
+  [10/10] : 2 versiones
+
+=== GAC ===
+[INFO] Modelos en GAC: 9
+  [1/9] : 4 versiones
+  [2/9] : 4 versiones
+  [3/9] : 4 versiones
+  [4/9] : 2 versiones
+  [5/9] : 1 versiones
+  [6/9] : 4 versiones
+  [7/9] : 1 versiones
+  [8/9] : 1 versiones
+  [9/9] : 1 versiones
+
+=== BYD ===
+[INFO] Modelos en BYD: 9
+  [1/9] : 1 versiones
+  [2/9] : 1 versiones
+  [3/9] : 2 versiones
+  [4/9] : 2 versiones
+  [5/9] : 2 versiones
+  [6/9] : 1 versiones
+  [7/9] : 1 versiones
+  [8/9] : 1 versiones
+  [9/9] : 1 versiones
+{'marca': 'SsangYong', 'modelo': 'ACTYON', 'modelDetail': 'GLX 1.5T 2WD 6AT', 'precio': [29990000, 30990000, 30990000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x104f1ae40>
+1kRz7xvFUg5In78G6id7
+{'marca': 'SsangYong', 'modelo': 'ACTYON', 'modelDetail': 'GLX 1.5T 2WD 6AT', 'precio': [29990000, 30990000, 30990000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '1kRz7xvFUg5In78G6id7', 'model': 'ACTYON', 'modelDetail': 'GLX 1.5T 2WD 6AT', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [29990000, 30990000, 30990000, 36390000], 'date_add': 1767013380, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'ACTYON', 'modelDetail': 'GLX 1.5T 2WD 6AT', 'precio': [29990000, 30990000, 30990000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'ACTYON', 'modelDetail': 'GLX', 'precio': [34390000, 36390000, 36390000, 38390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1056696d0>
+xj6x4a22aZ3Z35bysPYx
+{'marca': 'SsangYong', 'modelo': 'ACTYON', 'modelDetail': 'GLX', 'precio': [34390000, 36390000, 36390000, 38390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'xj6x4a22aZ3Z35bysPYx', 'model': 'ACTYON', 'modelDetail': 'GLX', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [34390000, 36390000, 36390000, 38390000], 'date_add': 1767013381, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'ACTYON', 'modelDetail': 'GLX', 'precio': [34390000, 36390000, 36390000, 38390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6MT', 'precio': [22990000, 25490000, 25490000, 25990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1056696d0>
+XadmEZxxkIC3ZJoNfLJF
+{'marca': 'SsangYong', 'modelo': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6MT', 'precio': [22990000, 25490000, 25490000, 25990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'XadmEZxxkIC3ZJoNfLJF', 'model': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6MT', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [22990000, 25490000, 25490000, 25990000], 'date_add': 1767013381, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6MT', 'precio': [22990000, 25490000, 25490000, 25990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6AT', 'precio': [24990000, 27490000, 27490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1054935c0>
+ra4fgVmZi2Bc65zK6wqp
+{'marca': 'SsangYong', 'modelo': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6AT', 'precio': [24990000, 27490000, 27490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'ra4fgVmZi2Bc65zK6wqp', 'model': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6AT', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [24990000, 27490000, 27490000, 27990000], 'date_add': 1767013382, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'TORRES', 'modelDetail': 'GLX 1.5 2WD 6AT', 'precio': [24990000, 27490000, 27490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'TORRES EVX', 'modelDetail': 'LIMITED', 'precio': [42990000, 43490000, 43490000, 43490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105493950>
+EvtR7VvXcAn87TvxpabB
+{'marca': 'SsangYong', 'modelo': 'TORRES EVX', 'modelDetail': 'LIMITED', 'precio': [42990000, 43490000, 43490000, 43490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'EvtR7VvXcAn87TvxpabB', 'model': 'TORRES EVX', 'modelDetail': 'LIMITED', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [42990000, 43490000, 43490000, 43490000], 'date_add': 1767013382, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'TORRES EVX', 'modelDetail': 'LIMITED', 'precio': [42990000, 43490000, 43490000, 43490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'TORRES EVX', 'modelDetail': 'LIMITED PLUS', 'precio': [45990000, 46490000, 46490000, 46490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1054320f0>
+eDBOuroi4crLnat9d49y
+{'marca': 'SsangYong', 'modelo': 'TORRES EVX', 'modelDetail': 'LIMITED PLUS', 'precio': [45990000, 46490000, 46490000, 46490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'eDBOuroi4crLnat9d49y', 'model': 'TORRES EVX', 'modelDetail': 'LIMITED PLUS', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [45990000, 46490000, 46490000, 46490000], 'date_add': 1767013383, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'TORRES EVX', 'modelDetail': 'LIMITED PLUS', 'precio': [45990000, 46490000, 46490000, 46490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LX 2.2TD 8AT 2WD 2AB (EURO 6C)', 'precio': [28990000, 30490000, 30490000, 31990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10553fce0>
+dKuqk2gwRNuZ2X6YqAM2
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LX 2.2TD 8AT 2WD 2AB (EURO 6C)', 'precio': [28990000, 30490000, 30490000, 31990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'dKuqk2gwRNuZ2X6YqAM2', 'model': 'REXTON', 'modelDetail': 'LX 2.2TD 8AT 2WD 2AB (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [28990000, 30490000, 30490000, 31990000], 'date_add': 1767013384, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LX 2.2TD 8AT 2WD 2AB (EURO 6C)', 'precio': [28990000, 30490000, 30490000, 31990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB (EURO 6C)', 'precio': [32990000, 34490000, 34490000, 36490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10553fdf0>
+eP1hsIxNyCtxRpVreDmR
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB (EURO 6C)', 'precio': [32990000, 34490000, 34490000, 36490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'eP1hsIxNyCtxRpVreDmR', 'model': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [32990000, 34490000, 34490000, 36490000], 'date_add': 1767013384, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB (EURO 6C)', 'precio': [32990000, 34490000, 34490000, 36490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB', 'precio': [33690000, 35190000, 35190000, 36190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10546cc50>
+d6zEuRpGHi7ASsY8Ii6N
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB', 'precio': [33690000, 35190000, 35190000, 36190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'd6zEuRpGHi7ASsY8Ii6N', 'model': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [33690000, 35190000, 35190000, 36190000], 'date_add': 1767013385, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 2WD 6AB', 'precio': [33690000, 35190000, 35190000, 36190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB', 'precio': [35690000, 37190000, 37190000, 38190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10546f950>
+HJLCLAaufuCiduejAIrH
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB', 'precio': [35690000, 37190000, 37190000, 38190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'HJLCLAaufuCiduejAIrH', 'model': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [35690000, 37190000, 37190000, 38190000], 'date_add': 1767013385, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB', 'precio': [35690000, 37190000, 37190000, 38190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB (EURO 6C)', 'precio': [36490000, 37990000, 37990000, 38990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10563caa0>
+geKPVoQtMYDQMwIhUExP
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB (EURO 6C)', 'precio': [36490000, 37990000, 37990000, 38990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'geKPVoQtMYDQMwIhUExP', 'model': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [36490000, 37990000, 37990000, 38990000], 'date_add': 1767013386, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'GLX 2.2 TD 8AT 4WD 6AB (EURO 6C)', 'precio': [36490000, 37990000, 37990000, 38990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LIMITED 2.2 TD 8AT 4WD 9AB', 'precio': [40690000, 42190000, 42190000, 42190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10563ce60>
+aaAL3z7uIUE49DYIKiF1
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LIMITED 2.2 TD 8AT 4WD 9AB', 'precio': [40690000, 42190000, 42190000, 42190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'aaAL3z7uIUE49DYIKiF1', 'model': 'REXTON', 'modelDetail': 'LIMITED 2.2 TD 8AT 4WD 9AB', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [40690000, 42190000, 42190000, 42190000], 'date_add': 1767013387, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LIMITED 2.2 TD 8AT 4WD 9AB', 'precio': [40690000, 42190000, 42190000, 42190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LIMITED PLUS 2.2 TD 8AT 4WD AB', 'precio': [46190000, 48190000, 48190000, 48190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1056b5a90>
+nyX66t2X24Ra7R1IzzQJ
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LIMITED PLUS 2.2 TD 8AT 4WD AB', 'precio': [46190000, 48190000, 48190000, 48190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'nyX66t2X24Ra7R1IzzQJ', 'model': 'REXTON', 'modelDetail': 'LIMITED PLUS 2.2 TD 8AT 4WD AB', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [46190000, 48190000, 48190000, 48190000], 'date_add': 1767013387, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'LIMITED PLUS 2.2 TD 8AT 4WD AB', 'precio': [46190000, 48190000, 48190000, 48190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'BLACK EDITION', 'precio': [46190000, 48190000, 48190000, 49190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1056b5b70>
+CqhxFz78YgvgH1yiVVu2
+{'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'BLACK EDITION', 'precio': [46190000, 48190000, 48190000, 49190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'CqhxFz78YgvgH1yiVVu2', 'model': 'REXTON', 'modelDetail': 'BLACK EDITION', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [46190000, 48190000, 48190000, 49190000], 'date_add': 1767013388, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'REXTON', 'modelDetail': 'BLACK EDITION', 'precio': [46190000, 48190000, 48190000, 49190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'precio': [27990000, 29490000, 29490000, 30490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105602a90>
+DukpPmGkz8ievlXWGo3v
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'precio': [27990000, 29490000, 29490000, 30490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'DukpPmGkz8ievlXWGo3v', 'model': 'MUSSO', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [27990000, 29490000, 29490000, 30490000], 'date_add': 1767013388, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'precio': [27990000, 29490000, 29490000, 30490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'precio': [31390000, 32390000, 32390000, 33390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x104f0f590>
+D33UUpJR7ArI9LS4Nro8
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'precio': [31390000, 32390000, 32390000, 33390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'D33UUpJR7ArI9LS4Nro8', 'model': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [31390000, 32390000, 32390000, 33390000], 'date_add': 1767013389, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'precio': [31390000, 32390000, 32390000, 33390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [32390000, 33390000, 33390000, 33390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x104824dd0>
+mMHYxmUqn8VbRdI52NSR
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [32390000, 33390000, 33390000, 33390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'mMHYxmUqn8VbRdI52NSR', 'model': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [32390000, 33390000, 33390000, 33390000], 'date_add': 1767013389, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [32390000, 33390000, 33390000, 33390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'precio': [33990000, 35490000, 35490000, 35490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105342c50>
+e8heChyuzLXG2kb4nJ5Q
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'precio': [33990000, 35490000, 35490000, 35490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'e8heChyuzLXG2kb4nJ5Q', 'model': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [33990000, 35490000, 35490000, 35490000], 'date_add': 1767013390, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'precio': [33990000, 35490000, 35490000, 35490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [34890000, 36390000, 36390000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105343280>
+XWOdAlVyG1n1DL3bjbYj
+{'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [34890000, 36390000, 36390000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'XWOdAlVyG1n1DL3bjbYj', 'model': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [34890000, 36390000, 36390000, 36390000], 'date_add': 1767013390, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [34890000, 36390000, 36390000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LX 2.2 TD 6MT 2WD', 'precio': [19990000, 22490000, 22490000, 24990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105130a50>
+BsQqKpThhcITSJjbp61W
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LX 2.2 TD 6MT 2WD', 'precio': [19990000, 22490000, 22490000, 24990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'BsQqKpThhcITSJjbp61W', 'model': 'MUSSO GRAND', 'modelDetail': 'LX 2.2 TD 6MT 2WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [19990000, 22490000, 22490000, 24990000], 'date_add': 1767013391, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LX 2.2 TD 6MT 2WD', 'precio': [19990000, 22490000, 22490000, 24990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 2WD', 'precio': [21490000, 24490000, 24490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1036636b0>
+YfFy0eg2FoYQPKnoFY3L
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 2WD', 'precio': [21490000, 24490000, 24490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'YfFy0eg2FoYQPKnoFY3L', 'model': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 2WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [21490000, 24490000, 24490000, 27990000], 'date_add': 1767013391, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 2WD', 'precio': [21490000, 24490000, 24490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'precio': [23490000, 25990000, 25990000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1054355b0>
+0Kba3cq0IYqRGc0DjQmj
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'precio': [23490000, 25990000, 25990000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '0Kba3cq0IYqRGc0DjQmj', 'model': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [23490000, 25990000, 25990000, 28990000], 'date_add': 1767013392, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6MT 4WD', 'precio': [23490000, 25990000, 25990000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD', 'precio': [25990000, 27490000, 27490000, 29290000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x10551bc50>
+OqMu5Gufi9tjWVrvTcGe
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD', 'precio': [25990000, 27490000, 27490000, 29290000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'OqMu5Gufi9tjWVrvTcGe', 'model': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [25990000, 27490000, 27490000, 29290000], 'date_add': 1767013393, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD', 'precio': [25990000, 27490000, 27490000, 29290000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD (EURO 6C)', 'precio': [26990000, 28490000, 28490000, 30190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105671f50>
+SgwMnTOUXRFwAQBWrKhD
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD (EURO 6C)', 'precio': [26990000, 28490000, 28490000, 30190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'SgwMnTOUXRFwAQBWrKhD', 'model': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [26990000, 28490000, 28490000, 30190000], 'date_add': 1767013393, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'GLX 2.2 TD 6AT 2WD (EURO 6C)', 'precio': [26990000, 28490000, 28490000, 30190000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [28990000, 29990000, 29990000, 32390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1054241a0>
+GLvROZRvCDJ5TM8ZFBhr
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [28990000, 29990000, 29990000, 32390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'GLvROZRvCDJ5TM8ZFBhr', 'model': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [28990000, 29990000, 29990000, 32390000], 'date_add': 1767013394, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [28990000, 29990000, 29990000, 32390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'precio': [31490000, 32490000, 32490000, 32490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x105425e80>
+LLnSZJL2FBf1RQoEDlvh
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'precio': [31490000, 32490000, 32490000, 32490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'LLnSZJL2FBf1RQoEDlvh', 'model': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [31490000, 32490000, 32490000, 32490000], 'date_add': 1767013394, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED 2.2 TD 6AT 4WD', 'precio': [31490000, 32490000, 32490000, 32490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'precio': [32990000, 34990000, 34990000, 34990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+nquPPj85sNt0amUPJxyP
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'precio': [32990000, 34990000, 34990000, 34990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'nquPPj85sNt0amUPJxyP', 'model': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [32990000, 34990000, 34990000, 34990000], 'date_add': 1767013395, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD', 'precio': [32990000, 34990000, 34990000, 34990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [33890000, 36390000, 36390000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+GbUgtRLEOwG48y0jTRLu
+{'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [33890000, 36390000, 36390000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'GbUgtRLEOwG48y0jTRLu', 'model': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'brandID': 36, 'marca': 'SsangYong', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [33890000, 36390000, 36390000, 36390000], 'date_add': 1767013395, 'fuente': 'astararetail.cl'}
+Guardando SsangYong {'marca': 'SsangYong', 'modelo': 'MUSSO GRAND', 'modelDetail': 'LIMITED PLUS 2.2 TD 6AT 4WD (EURO 6C)', 'precio': [33890000, 36390000, 36390000, 36390000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'NEW GRAND AVENUE PRO', 'modelDetail': '4X4 AT PRO', 'precio': [30990000, 31490000, 31490000, 33990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+14NQrDM0xSmnZXSfqxR1
+{'marca': 'JMC', 'modelo': 'NEW GRAND AVENUE PRO', 'modelDetail': '4X4 AT PRO', 'precio': [30990000, 31490000, 31490000, 33990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '14NQrDM0xSmnZXSfqxR1', 'model': 'NEW GRAND AVENUE PRO', 'modelDetail': '4X4 AT PRO', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [30990000, 31490000, 31490000, 33990000], 'date_add': 1767013396, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'NEW GRAND AVENUE PRO', 'modelDetail': '4X4 AT PRO', 'precio': [30990000, 31490000, 31490000, 33990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X2 MT', 'precio': [16990000, 17490000, 17490000, 20490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+8I4Say7X6h0j2mi6RbcF
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X2 MT', 'precio': [16990000, 17490000, 17490000, 20490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '8I4Say7X6h0j2mi6RbcF', 'model': 'GRAND AVENUE', 'modelDetail': '4X2 MT', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16990000, 17490000, 17490000, 20490000], 'date_add': 1767013397, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X2 MT', 'precio': [16990000, 17490000, 17490000, 20490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X4 MT', 'precio': [19490000, 19990000, 19990000, 21990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+5oTje9h8MCKqGuzUyIKy
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X4 MT', 'precio': [19490000, 19990000, 19990000, 21990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '5oTje9h8MCKqGuzUyIKy', 'model': 'GRAND AVENUE', 'modelDetail': '4X4 MT', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [19490000, 19990000, 19990000, 21990000], 'date_add': 1767013398, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X4 MT', 'precio': [19490000, 19990000, 19990000, 21990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X2 AT', 'precio': [19990000, 20490000, 20490000, 22990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+4XY4d4oEsvOiGU22Y5I2
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X2 AT', 'precio': [19990000, 20490000, 20490000, 22990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '4XY4d4oEsvOiGU22Y5I2', 'model': 'GRAND AVENUE', 'modelDetail': '4X2 AT', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [19990000, 20490000, 20490000, 22990000], 'date_add': 1767013398, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X2 AT', 'precio': [19990000, 20490000, 20490000, 22990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X4 AT', 'precio': [21490000, 21990000, 21990000, 24990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+iIDVaFy3jyhHO0W65OpH
+{'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X4 AT', 'precio': [21490000, 21990000, 21990000, 24990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'iIDVaFy3jyhHO0W65OpH', 'model': 'GRAND AVENUE', 'modelDetail': '4X4 AT', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [21490000, 21990000, 21990000, 24990000], 'date_add': 1767013399, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'GRAND AVENUE', 'modelDetail': '4X4 AT', 'precio': [21490000, 21990000, 21990000, 24990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'NEW GRAND AVENUE', 'modelDetail': '4X4 AT LIMITED', 'precio': [25990000, 26490000, 26490000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+dg8qQzhW1Wr6Wyx2J7ss
+{'marca': 'JMC', 'modelo': 'NEW GRAND AVENUE', 'modelDetail': '4X4 AT LIMITED', 'precio': [25990000, 26490000, 26490000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'dg8qQzhW1Wr6Wyx2J7ss', 'model': 'NEW GRAND AVENUE', 'modelDetail': '4X4 AT LIMITED', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [25990000, 26490000, 26490000, 28990000], 'date_add': 1767013399, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'NEW GRAND AVENUE', 'modelDetail': '4X4 AT LIMITED', 'precio': [25990000, 26490000, 26490000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'VIGUS WORK', 'modelDetail': '4X2 EURO 6', 'precio': [13990000, 14490000, 14490000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+HuwzRL52NJLFhFsWLxtT
+{'marca': 'JMC', 'modelo': 'VIGUS WORK', 'modelDetail': '4X2 EURO 6', 'precio': [13990000, 14490000, 14490000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'HuwzRL52NJLFhFsWLxtT', 'model': 'VIGUS WORK', 'modelDetail': '4X2 EURO 6', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [13990000, 14490000, 14490000, 16990000], 'date_add': 1767013400, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'VIGUS WORK', 'modelDetail': '4X2 EURO 6', 'precio': [13990000, 14490000, 14490000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'VIGUS WORK', 'modelDetail': '4X4 EURO 6', 'precio': [14490000, 15990000, 15990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+2H9hbA4jbykot3MnJcza
+{'marca': 'JMC', 'modelo': 'VIGUS WORK', 'modelDetail': '4X4 EURO 6', 'precio': [14490000, 15990000, 15990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '2H9hbA4jbykot3MnJcza', 'model': 'VIGUS WORK', 'modelDetail': '4X4 EURO 6', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [14490000, 15990000, 15990000, 17990000], 'date_add': 1767013400, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'VIGUS WORK', 'modelDetail': '4X4 EURO 6', 'precio': [14490000, 15990000, 15990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'VIGUS PLUS', 'modelDetail': '4X2 EURO 6', 'precio': [15740000, 16240000, 16240000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+AAkW3u04NICFRugcvLnV
+{'marca': 'JMC', 'modelo': 'VIGUS PLUS', 'modelDetail': '4X2 EURO 6', 'precio': [15740000, 16240000, 16240000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'AAkW3u04NICFRugcvLnV', 'model': 'VIGUS PLUS', 'modelDetail': '4X2 EURO 6', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [15740000, 16240000, 16240000, 18990000], 'date_add': 1767013401, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'VIGUS PLUS', 'modelDetail': '4X2 EURO 6', 'precio': [15740000, 16240000, 16240000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'VIGUS PLUS', 'modelDetail': '4X4 EURO 6', 'precio': [16740000, 17240000, 17240000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+ZCtspFSmsVqy5DoFSl3e
+{'marca': 'JMC', 'modelo': 'VIGUS PLUS', 'modelDetail': '4X4 EURO 6', 'precio': [16740000, 17240000, 17240000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'ZCtspFSmsVqy5DoFSl3e', 'model': 'VIGUS PLUS', 'modelDetail': '4X4 EURO 6', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16740000, 17240000, 17240000, 19990000], 'date_add': 1767013402, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'VIGUS PLUS', 'modelDetail': '4X4 EURO 6', 'precio': [16740000, 17240000, 17240000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X2 DIESEL', 'precio': [16490000, 16990000, 16990000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+XzlzIQDVegwowbCw7oBQ
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X2 DIESEL', 'precio': [16490000, 16990000, 16990000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'XzlzIQDVegwowbCw7oBQ', 'model': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X2 DIESEL', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16490000, 16990000, 16990000, 18990000], 'date_add': 1767013402, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X2 DIESEL', 'precio': [16490000, 16990000, 16990000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X4 DIESEL', 'precio': [17990000, 18490000, 18490000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+usiIbLHRnzCSC0cIzxRQ
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X4 DIESEL', 'precio': [17990000, 18490000, 18490000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'usiIbLHRnzCSC0cIzxRQ', 'model': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X4 DIESEL', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [17990000, 18490000, 18490000, 19990000], 'date_add': 1767013403, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'ALL NEW VIGUS PLUS', 'modelDetail': '4X4 DIESEL', 'precio': [17990000, 18490000, 18490000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS WORK', 'modelDetail': '4X2 DIESEL', 'precio': [13990000, 14990000, 14990000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+uXfPoqQvw3UjMkEozUh2
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS WORK', 'modelDetail': '4X2 DIESEL', 'precio': [13990000, 14990000, 14990000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'uXfPoqQvw3UjMkEozUh2', 'model': 'ALL NEW VIGUS WORK', 'modelDetail': '4X2 DIESEL', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [13990000, 14990000, 14990000, 16990000], 'date_add': 1767013403, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'ALL NEW VIGUS WORK', 'modelDetail': '4X2 DIESEL', 'precio': [13990000, 14990000, 14990000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS WORK', 'modelDetail': '4X4 DIESEL', 'precio': [15490000, 15990000, 15990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+yOgIPl2ANZbycIR34gY3
+{'marca': 'JMC', 'modelo': 'ALL NEW VIGUS WORK', 'modelDetail': '4X4 DIESEL', 'precio': [15490000, 15990000, 15990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'yOgIPl2ANZbycIR34gY3', 'model': 'ALL NEW VIGUS WORK', 'modelDetail': '4X4 DIESEL', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [15490000, 15990000, 15990000, 17990000], 'date_add': 1767013404, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'ALL NEW VIGUS WORK', 'modelDetail': '4X4 DIESEL', 'precio': [15490000, 15990000, 15990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'VIGUS EV', 'modelDetail': 'ELECTRICO', 'precio': [33990000, 34990000, 34990000, 42990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+DZSL9FbC7EszULMLw1yo
+{'marca': 'JMC', 'modelo': 'VIGUS EV', 'modelDetail': 'ELECTRICO', 'precio': [33990000, 34990000, 34990000, 42990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'DZSL9FbC7EszULMLw1yo', 'model': 'VIGUS EV', 'modelDetail': 'ELECTRICO', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [33990000, 34990000, 34990000, 42990000], 'date_add': 1767013404, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'VIGUS EV', 'modelDetail': 'ELECTRICO', 'precio': [33990000, 34990000, 34990000, 42990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'TOURING', 'modelDetail': 'MINIBUS', 'precio': [28990000, 29490000, 29490000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+BW61QscKOthIOloCMUWv
+{'marca': 'JMC', 'modelo': 'TOURING', 'modelDetail': 'MINIBUS', 'precio': [28990000, 29490000, 29490000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'BW61QscKOthIOloCMUWv', 'model': 'TOURING', 'modelDetail': 'MINIBUS', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [28990000, 29490000, 29490000, 30990000], 'date_add': 1767013405, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'TOURING', 'modelDetail': 'MINIBUS', 'precio': [28990000, 29490000, 29490000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'TOURING CARGO', 'modelDetail': 'L1H2', 'precio': [21990000, 22490000, 22490000, 23490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+FwcxTJgUgIz0pmmZSqVp
+{'marca': 'JMC', 'modelo': 'TOURING CARGO', 'modelDetail': 'L1H2', 'precio': [21990000, 22490000, 22490000, 23490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'FwcxTJgUgIz0pmmZSqVp', 'model': 'TOURING CARGO', 'modelDetail': 'L1H2', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [21990000, 22490000, 22490000, 23490000], 'date_add': 1767013405, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'TOURING CARGO', 'modelDetail': 'L1H2', 'precio': [21990000, 22490000, 22490000, 23490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'JMC', 'modelo': 'TOURING CARGO', 'modelDetail': 'L2H2', 'precio': [23990000, 24490000, 24490000, 25490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+661CMkNafgHECgQ0Wonv
+{'marca': 'JMC', 'modelo': 'TOURING CARGO', 'modelDetail': 'L2H2', 'precio': [23990000, 24490000, 24490000, 25490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '661CMkNafgHECgQ0Wonv', 'model': 'TOURING CARGO', 'modelDetail': 'L2H2', 'brandID': 37, 'marca': 'JMC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [23990000, 24490000, 24490000, 25490000], 'date_add': 1767013406, 'fuente': 'astararetail.cl'}
+Guardando JMC {'marca': 'JMC', 'modelo': 'TOURING CARGO', 'modelDetail': 'L2H2', 'precio': [23990000, 24490000, 24490000, 25490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 MT GS', 'precio': [10990000, 11990000, 11990000, 12990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+fkdXNtcgc6fUA3HX11tj
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 MT GS', 'precio': [10990000, 11990000, 11990000, 12990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'fkdXNtcgc6fUA3HX11tj', 'model': 'GS3 POWER', 'modelDetail': '1.5 MT GS', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [10990000, 11990000, 11990000, 12990000], 'date_add': 1767013406, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 MT GS', 'precio': [10990000, 11990000, 11990000, 12990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 AT GS', 'precio': [11990000, 12990000, 12990000, 14490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+dxpy1kRJVn7QfUTf6vux
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 AT GS', 'precio': [11990000, 12990000, 12990000, 14490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'dxpy1kRJVn7QfUTf6vux', 'model': 'GS3 POWER', 'modelDetail': '1.5 AT GS', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [11990000, 12990000, 12990000, 14490000], 'date_add': 1767013407, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 AT GS', 'precio': [11990000, 12990000, 12990000, 14490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 MT GB', 'precio': [12490000, 13490000, 13490000, 14490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+6TD7XvPJmlmFjAivLZ9N
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 MT GB', 'precio': [12490000, 13490000, 13490000, 14490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '6TD7XvPJmlmFjAivLZ9N', 'model': 'GS3 POWER', 'modelDetail': '1.5 MT GB', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [12490000, 13490000, 13490000, 14490000], 'date_add': 1767013408, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 MT GB', 'precio': [12490000, 13490000, 13490000, 14490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 AT GB', 'precio': [13490000, 14490000, 14490000, 15490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+FEYSQIIVtAJ9WpGW0fIz
+{'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 AT GB', 'precio': [13490000, 14490000, 14490000, 15490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'FEYSQIIVtAJ9WpGW0fIz', 'model': 'GS3 POWER', 'modelDetail': '1.5 AT GB', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [13490000, 14490000, 14490000, 15490000], 'date_add': 1767013408, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS3 POWER', 'modelDetail': '1.5 AT GB', 'precio': [13490000, 14490000, 14490000, 15490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'MT GB', 'precio': [14490000, 14990000, 14990000, 15990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+WcPc1adFrv4G43XwDLdb
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'MT GB', 'precio': [14490000, 14990000, 14990000, 15990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'WcPc1adFrv4G43XwDLdb', 'model': 'GS4 POWER', 'modelDetail': 'MT GB', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [14490000, 14990000, 14990000, 15990000], 'date_add': 1767013409, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'MT GB', 'precio': [14490000, 14990000, 14990000, 15990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GB', 'precio': [15990000, 16990000, 16990000, 18490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+gqTtKIbWeHSDAcI35Lod
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GB', 'precio': [15990000, 16990000, 16990000, 18490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'gqTtKIbWeHSDAcI35Lod', 'model': 'GS4 POWER', 'modelDetail': 'AT GB', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [15990000, 16990000, 16990000, 18490000], 'date_add': 1767013409, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GB', 'precio': [15990000, 16990000, 16990000, 18490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GE', 'precio': [15990000, 16990000, 16990000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+cEUEgZN3TuIxCVBoRana
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GE', 'precio': [15990000, 16990000, 16990000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'cEUEgZN3TuIxCVBoRana', 'model': 'GS4 POWER', 'modelDetail': 'AT GE', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [15990000, 16990000, 16990000, 18990000], 'date_add': 1767013410, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GE', 'precio': [15990000, 16990000, 16990000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GL', 'precio': [16490000, 16990000, 16990000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+IECBwS6bhtQNDHHjTZ0u
+{'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GL', 'precio': [16490000, 16990000, 16990000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'IECBwS6bhtQNDHHjTZ0u', 'model': 'GS4 POWER', 'modelDetail': 'AT GL', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16490000, 16990000, 16990000, 20990000], 'date_add': 1767013411, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS4 POWER', 'modelDetail': 'AT GL', 'precio': [16490000, 16990000, 16990000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '2WD GL', 'precio': [24990000, 25490000, 25490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+38bj9j8eKawHJwjxnR9L
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '2WD GL', 'precio': [24990000, 25490000, 25490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '38bj9j8eKawHJwjxnR9L', 'model': 'GS8', 'modelDetail': '2WD GL', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [24990000, 25490000, 25490000, 27990000], 'date_add': 1767013411, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '2WD GL', 'precio': [24990000, 25490000, 25490000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '2WD GT', 'precio': [26990000, 27490000, 27490000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+W5MuoOWzOansFbMcK6cn
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '2WD GT', 'precio': [26990000, 27490000, 27490000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'W5MuoOWzOansFbMcK6cn', 'model': 'GS8', 'modelDetail': '2WD GT', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [26990000, 27490000, 27490000, 30990000], 'date_add': 1767013412, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '2WD GT', 'precio': [26990000, 27490000, 27490000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '4WD GT', 'precio': [30290000, 30790000, 30790000, 34990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+GUJLBa6Z3r6fUN3iNOIY
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '4WD GT', 'precio': [30290000, 30790000, 30790000, 34990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'GUJLBa6Z3r6fUN3iNOIY', 'model': 'GS8', 'modelDetail': '4WD GT', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [30290000, 30790000, 30790000, 34990000], 'date_add': 1767013412, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '4WD GT', 'precio': [30290000, 30790000, 30790000, 34990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '4WD GX', 'precio': [32690000, 33190000, 33190000, 37990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+qvmlHobJtwPkq6wkxeI6
+{'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '4WD GX', 'precio': [32690000, 33190000, 33190000, 37990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'qvmlHobJtwPkq6wkxeI6', 'model': 'GS8', 'modelDetail': '4WD GX', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [32690000, 33190000, 33190000, 37990000], 'date_add': 1767013413, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'GS8', 'modelDetail': '4WD GX', 'precio': [32690000, 33190000, 33190000, 37990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMKOO', 'modelDetail': '1.5 GDI GE', 'precio': [16490000, 16990000, 16990000, 18490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+WJA25eq1QhcTzzvqpFlW
+{'marca': 'GAC', 'modelo': 'EMKOO', 'modelDetail': '1.5 GDI GE', 'precio': [16490000, 16990000, 16990000, 18490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'WJA25eq1QhcTzzvqpFlW', 'model': 'EMKOO', 'modelDetail': '1.5 GDI GE', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16490000, 16990000, 16990000, 18490000], 'date_add': 1767013413, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMKOO', 'modelDetail': '1.5 GDI GE', 'precio': [16490000, 16990000, 16990000, 18490000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMKOO', 'modelDetail': '1.5 GDI GL', 'precio': [19990000, 20490000, 20490000, 21990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+GBEy0dv0xolhFK7s7Ss1
+{'marca': 'GAC', 'modelo': 'EMKOO', 'modelDetail': '1.5 GDI GL', 'precio': [19990000, 20490000, 20490000, 21990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'GBEy0dv0xolhFK7s7Ss1', 'model': 'EMKOO', 'modelDetail': '1.5 GDI GL', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [19990000, 20490000, 20490000, 21990000], 'date_add': 1767013414, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMKOO', 'modelDetail': '1.5 GDI GL', 'precio': [19990000, 20490000, 20490000, 21990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMKOO HEV', 'modelDetail': 'EMKOO HEV', 'precio': [27990000, 28490000, 28490000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+a0hbE9FXpLaQri9VSyil
+{'marca': 'GAC', 'modelo': 'EMKOO HEV', 'modelDetail': 'EMKOO HEV', 'precio': [27990000, 28490000, 28490000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'a0hbE9FXpLaQri9VSyil', 'model': 'EMKOO HEV', 'modelDetail': 'EMKOO HEV', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [27990000, 28490000, 28490000, 28990000], 'date_add': 1767013414, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMKOO HEV', 'modelDetail': 'EMKOO HEV', 'precio': [27990000, 28490000, 28490000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GS', 'precio': [12990000, 13990000, 13990000, 15990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+WIrguNmCsGgjwFNkJXRm
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GS', 'precio': [12990000, 13990000, 13990000, 15990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'WIrguNmCsGgjwFNkJXRm', 'model': 'EMZOOM', 'modelDetail': '1.5T GS', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [12990000, 13990000, 13990000, 15990000], 'date_add': 1767013415, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GS', 'precio': [12990000, 13990000, 13990000, 15990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GB', 'precio': [14490000, 15490000, 15490000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+nr95BQsPlDgYBZTgNqxP
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GB', 'precio': [14490000, 15490000, 15490000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'nr95BQsPlDgYBZTgNqxP', 'model': 'EMZOOM', 'modelDetail': '1.5T GB', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [14490000, 15490000, 15490000, 16990000], 'date_add': 1767013416, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GB', 'precio': [14490000, 15490000, 15490000, 16990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GL', 'precio': [16490000, 16990000, 16990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+UlDeg38OXWZpQLaxfqym
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GL', 'precio': [16490000, 16990000, 16990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'UlDeg38OXWZpQLaxfqym', 'model': 'EMZOOM', 'modelDetail': '1.5T GL', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16490000, 16990000, 16990000, 17990000], 'date_add': 1767013416, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GL', 'precio': [16490000, 16990000, 16990000, 17990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GL R-STYLE', 'precio': [18490000, 18990000, 18990000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+smYSxS89wNJv9MCigxOp
+{'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GL R-STYLE', 'precio': [18490000, 18990000, 18990000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'smYSxS89wNJv9MCigxOp', 'model': 'EMZOOM', 'modelDetail': '1.5T GL R-STYLE', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [18490000, 18990000, 18990000, 19990000], 'date_add': 1767013417, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMZOOM', 'modelDetail': '1.5T GL R-STYLE', 'precio': [18490000, 18990000, 18990000, 19990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'EMPOW', 'modelDetail': '1.5T AT GE', 'precio': [18990000, 19490000, 19490000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+G2igxWVlwWGKdhNKNtCV
+{'marca': 'GAC', 'modelo': 'EMPOW', 'modelDetail': '1.5T AT GE', 'precio': [18990000, 19490000, 19490000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'G2igxWVlwWGKdhNKNtCV', 'model': 'EMPOW', 'modelDetail': '1.5T AT GE', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [18990000, 19490000, 19490000, 20990000], 'date_add': 1767013417, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'EMPOW', 'modelDetail': '1.5T AT GE', 'precio': [18990000, 19490000, 19490000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'AION Y', 'modelDetail': '', 'precio': [25500000, 26000000, 26000000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+WneioooohqkzWKDXM0GW
+{'marca': 'GAC', 'modelo': 'AION Y', 'modelDetail': '', 'precio': [25500000, 26000000, 26000000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'WneioooohqkzWKDXM0GW', 'model': 'AION Y', 'modelDetail': '', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [25500000, 26000000, 26000000, 30990000], 'date_add': 1767013418, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'AION Y', 'modelDetail': '', 'precio': [25500000, 26000000, 26000000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'GAC', 'modelo': 'AION ES', 'modelDetail': '', 'precio': [21490000, 21990000, 21990000, 25990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+XWTfO2KJqQV4TCssyJmX
+{'marca': 'GAC', 'modelo': 'AION ES', 'modelDetail': '', 'precio': [21490000, 21990000, 21990000, 25990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'XWTfO2KJqQV4TCssyJmX', 'model': 'AION ES', 'modelDetail': '', 'brandID': 38, 'marca': 'GAC', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [21490000, 21990000, 21990000, 25990000], 'date_add': 1767013418, 'fuente': 'astararetail.cl'}
+Guardando GAC {'marca': 'GAC', 'modelo': 'AION ES', 'modelDetail': '', 'precio': [21490000, 21990000, 21990000, 25990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'SHARK', 'modelDetail': 'GS', 'precio': [42990000, 43990000, 43990000, 45990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+xO90JMLgXgqzNaurgGAs
+{'marca': 'BYD', 'modelo': 'SHARK', 'modelDetail': 'GS', 'precio': [42990000, 43990000, 43990000, 45990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'xO90JMLgXgqzNaurgGAs', 'model': 'SHARK', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [42990000, 43990000, 43990000, 45990000], 'date_add': 1767013419, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'SHARK', 'modelDetail': 'GS', 'precio': [42990000, 43990000, 43990000, 45990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'YUAN PRO', 'modelDetail': 'GS', 'precio': [26990000, 27990000, 27990000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+qjT6FPJQMuX2p0FbDOAF
+{'marca': 'BYD', 'modelo': 'YUAN PRO', 'modelDetail': 'GS', 'precio': [26990000, 27990000, 27990000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'qjT6FPJQMuX2p0FbDOAF', 'model': 'YUAN PRO', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [26990000, 27990000, 27990000, 27990000], 'date_add': 1767013419, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'YUAN PRO', 'modelDetail': 'GS', 'precio': [26990000, 27990000, 27990000, 27990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'DOLPHIN MINI', 'modelDetail': 'GL', 'precio': [16490000, 17490000, 17490000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+geRKLQ3wcg4oXUKJnGx4
+{'marca': 'BYD', 'modelo': 'DOLPHIN MINI', 'modelDetail': 'GL', 'precio': [16490000, 17490000, 17490000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'geRKLQ3wcg4oXUKJnGx4', 'model': 'DOLPHIN MINI', 'modelDetail': 'GL', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [16490000, 17490000, 17490000, 18990000], 'date_add': 1767013420, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'DOLPHIN MINI', 'modelDetail': 'GL', 'precio': [16490000, 17490000, 17490000, 18990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'DOLPHIN MINI', 'modelDetail': 'GS', 'precio': [18490000, 19490000, 19490000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+2Z2lMpBYpRcTNASbO4l1
+{'marca': 'BYD', 'modelo': 'DOLPHIN MINI', 'modelDetail': 'GS', 'precio': [18490000, 19490000, 19490000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '2Z2lMpBYpRcTNASbO4l1', 'model': 'DOLPHIN MINI', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [18490000, 19490000, 19490000, 20990000], 'date_add': 1767013420, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'DOLPHIN MINI', 'modelDetail': 'GS', 'precio': [18490000, 19490000, 19490000, 20990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'SONG PLUS', 'modelDetail': 'GL', 'precio': [34490000, 35490000, 35490000, 36990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+IFvqiT0Hkw7hN47vAHT2
+{'marca': 'BYD', 'modelo': 'SONG PLUS', 'modelDetail': 'GL', 'precio': [34490000, 35490000, 35490000, 36990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'IFvqiT0Hkw7hN47vAHT2', 'model': 'SONG PLUS', 'modelDetail': 'GL', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [34490000, 35490000, 35490000, 36990000], 'date_add': 1767013421, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'SONG PLUS', 'modelDetail': 'GL', 'precio': [34490000, 35490000, 35490000, 36990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'SONG PLUS', 'modelDetail': 'GX', 'precio': [37490000, 38490000, 38490000, 39990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+BK1glpqzSn6EaUTow6Ea
+{'marca': 'BYD', 'modelo': 'SONG PLUS', 'modelDetail': 'GX', 'precio': [37490000, 38490000, 38490000, 39990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'BK1glpqzSn6EaUTow6Ea', 'model': 'SONG PLUS', 'modelDetail': 'GX', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [37490000, 38490000, 38490000, 39990000], 'date_add': 1767013421, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'SONG PLUS', 'modelDetail': 'GX', 'precio': [37490000, 38490000, 38490000, 39990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'SONG PRO', 'modelDetail': 'GL', 'precio': [25990000, 26990000, 26990000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+DZQML92rRvSRT89kIIKT
+{'marca': 'BYD', 'modelo': 'SONG PRO', 'modelDetail': 'GL', 'precio': [25990000, 26990000, 26990000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'DZQML92rRvSRT89kIIKT', 'model': 'SONG PRO', 'modelDetail': 'GL', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [25990000, 26990000, 26990000, 28990000], 'date_add': 1767013422, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'SONG PRO', 'modelDetail': 'GL', 'precio': [25990000, 26990000, 26990000, 28990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'SONG PRO', 'modelDetail': 'GS', 'precio': [27990000, 28990000, 28990000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+9cki9Ja9NTAANkz2PA1d
+{'marca': 'BYD', 'modelo': 'SONG PRO', 'modelDetail': 'GS', 'precio': [27990000, 28990000, 28990000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': '9cki9Ja9NTAANkz2PA1d', 'model': 'SONG PRO', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [27990000, 28990000, 28990000, 30990000], 'date_add': 1767013423, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'SONG PRO', 'modelDetail': 'GS', 'precio': [27990000, 28990000, 28990000, 30990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'YUAN PLUS', 'modelDetail': 'GS', 'precio': [31990000, 32990000, 32990000, 32990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+Fx6tKOuRvTm3diahX1FJ
+{'marca': 'BYD', 'modelo': 'YUAN PLUS', 'modelDetail': 'GS', 'precio': [31990000, 32990000, 32990000, 32990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'Fx6tKOuRvTm3diahX1FJ', 'model': 'YUAN PLUS', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [31990000, 32990000, 32990000, 32990000], 'date_add': 1767013423, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'YUAN PLUS', 'modelDetail': 'GS', 'precio': [31990000, 32990000, 32990000, 32990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'SEAL', 'modelDetail': 'EV', 'precio': [49990000, 50990000, 50990000, 50990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+UBTjS3bWwWkj40vtUJbJ
+{'marca': 'BYD', 'modelo': 'SEAL', 'modelDetail': 'EV', 'precio': [49990000, 50990000, 50990000, 50990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'UBTjS3bWwWkj40vtUJbJ', 'model': 'SEAL', 'modelDetail': 'EV', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [49990000, 50990000, 50990000, 50990000], 'date_add': 1767013424, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'SEAL', 'modelDetail': 'EV', 'precio': [49990000, 50990000, 50990000, 50990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'HAN', 'modelDetail': 'GS', 'precio': [61990000, 62990000, 62990000, 62990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f6ed0>
+rL5UXfxJRu41DBcLnr40
+{'marca': 'BYD', 'modelo': 'HAN', 'modelDetail': 'GS', 'precio': [61990000, 62990000, 62990000, 62990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'rL5UXfxJRu41DBcLnr40', 'model': 'HAN', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [61990000, 62990000, 62990000, 62990000], 'date_add': 1767013424, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'HAN', 'modelDetail': 'GS', 'precio': [61990000, 62990000, 62990000, 62990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'marca': 'BYD', 'modelo': 'NEW TANG EV', 'modelDetail': 'GS', 'precio': [69990000, 70990000, 70990000, 70990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+--------------------------------------------------
+<google.cloud.firestore_v1.document.DocumentReference object at 0x1055f5670>
+JHWmZGfOOcpOfkb1z9eS
+{'marca': 'BYD', 'modelo': 'NEW TANG EV', 'modelDetail': 'GS', 'precio': [69990000, 70990000, 70990000, 70990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+{'carID': 'JHWmZGfOOcpOfkb1z9eS', 'model': 'NEW TANG EV', 'modelDetail': 'GS', 'brandID': 39, 'marca': 'BYD', 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista'], 'precio': [69990000, 70990000, 70990000, 70990000], 'date_add': 1767013425, 'fuente': 'astararetail.cl'}
+Guardando BYD {'marca': 'BYD', 'modelo': 'NEW TANG EV', 'modelDetail': 'GS', 'precio': [69990000, 70990000, 70990000, 70990000], 'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']}
+
+[OK] astararetail_all_formato.json → 80 versiones totales

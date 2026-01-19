@@ -1,0 +1,3 @@
+[START] job=carscrapper attempt=2
+cmd=python3 scripts/carscrapper.py
+

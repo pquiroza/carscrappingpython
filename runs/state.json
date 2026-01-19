@@ -1,0 +1,142 @@
+{
+  "astara": {
+    "job_id": "astara",
+    "status": "failed",
+    "started_at": 1767019915.291229,
+    "finished_at": 1767019918.159296,
+    "attempt": 1,
+    "return_code": -2,
+    "error": null,
+    "log_file": "/Users/pedro/Downloads/carscrapper/runs/logs/astara-20251229-115155-attempt1.log"
+  },
+  "bmw": {
+    "job_id": "bmw",
+    "status": "failed",
+    "started_at": 1767017030.118457,
+    "finished_at": 1767017043.3571699,
+    "attempt": 3,
+    "return_code": -2,
+    "error": null,
+    "log_file": "/Users/pedro/Downloads/carscrapper/runs/logs/bmw-20251229-110350-attempt3.log"
+  },
+  "carscrapper": {
+    "job_id": "carscrapper",
+    "status": "running",
+    "started_at": 1767022352.319705,
+    "finished_at": null,
+    "attempt": 2,
+    "return_code": null,
+    "error": null,
+    "log_file": "/Users/pedro/Downloads/carscrapper/runs/logs/carscrapper-20251229-123232-attempt2.log"
+  },
+  "chevrolet": {
+    "job_id": "chevrolet",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "derco": {
+    "job_id": "derco",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "difor": {
+    "job_id": "difor",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "geely": {
+    "job_id": "geely",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "kia": {
+    "job_id": "kia",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "mercedez": {
+    "job_id": "mercedez",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "mazda": {
+    "job_id": "mazda",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "subaru": {
+    "job_id": "subaru",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "valenzuela": {
+    "job_id": "valenzuela",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "volvo": {
+    "job_id": "volvo",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  },
+  "zentrum": {
+    "job_id": "zentrum",
+    "status": "queued",
+    "started_at": null,
+    "finished_at": null,
+    "attempt": 0,
+    "return_code": null,
+    "error": null,
+    "log_file": null
+  }
+}

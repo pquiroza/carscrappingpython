@@ -486,21 +486,49 @@ def main():
             # guardar por marca
             slug = brand.lower().replace(" ", "_")
             json_path = os.path.join("out", f"plp_{slug}.json")
+
+
             for b in brand_rows:
-                tiposprecio = ['Crédito inteligente','Crédito convencional','Todo medio de pago','Precio de lista']
-                if(b['bono_marca']!=None):
-                    precio = [b['price_main'],b['price_lista']-b['bono_marca'],b['price_lista'],b['price_lista']]
+                # si la fila viene con error, sáltala
+                if b.get("_error"):
+                    print(f"[WARN] fila con error omitida: {b.get('_error')}")
+                    continue
+
+                tiposprecio = ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']
+
+                price_main = b.get("price_main")
+                price_lista = b.get("price_lista")
+                bono_marca = b.get("bono_marca")
+                
+                # si no hay price_lista, no puedes calcular “crédito convencional”; usa fallback
+                if price_lista is None:
+                    precio = [price_main, price_main, price_main, price_main]
                 else:
-                    precio = [b['price_main'],b['price_lista'],b['price_lista'],b['price_lista']]
+                    if bono_marca is not None:
+                        precio_conv = price_lista - bono_marca
+                    else:
+                        precio_conv = price_lista
+                    precio = [price_main, precio_conv, price_lista, price_lista]
+
                 datos = {
-                    'modelo': b['model'],
-                    'marca': b['brand'],
-                    'modelDetail': b['version'],
-                    'precio': precio,
-                    'tiposprecio': tiposprecio
+                    "modelo": b.get("model"),
+                    "marca": b.get("brand"),
+                    "modelDetail": b.get("version"),
+                    "precio": precio,
+                    "tiposprecio": tiposprecio
                 }
+
                 print(datos)
-                saveCar(b['brand'],datos,'www.dercocenter.cl')
+                # evita llamar saveCar si no tienes marca/modelo mínimos
+                if datos["marca"] and datos["modelo"]:
+                    saveCar(datos["marca"], datos, "www.dercocenter.cl")
+
+
+
+
+
+
+
             csv_path = os.path.join("out", f"plp_{slug}.csv")
             save_json(json_path, brand_rows)
             for b in brand_rows:
@@ -518,7 +546,7 @@ def main():
                     'precio': precio,
                     'tiposprecio': tiposprecio
                 }
-                # saveCar(b['brand'], datos, 'www.dercocenter.cl')
+                saveCar(b['brand'], datos, 'www.dercocenter.cl')
             save_csv(csv_path, brand_rows)
             print(f"→ Guardado {json_path} y {csv_path} ({len(brand_rows)} filas)")
 

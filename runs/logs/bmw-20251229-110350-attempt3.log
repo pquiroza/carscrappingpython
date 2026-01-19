@@ -1,0 +1,62 @@
+[START] job=bmw attempt=3
+cmd=python3 scripts/bmw.py
+
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/pedro/Downloads/carscrapper/scripts/bmw.py", line 308, in main
+    categories = await scrape_categories_and_models(page)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/pedro/Downloads/carscrapper/scripts/bmw.py", line 127, in scrape_categories_and_models
+    category_name, menu = await open_dropdown(page, cat)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/pedro/Downloads/carscrapper/scripts/bmw.py", line 76, in open_dropdown
+    await menu.wait_for(state="visible", timeout=900)
+  File "/Users/pedro/Downloads/carscrapper/.venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 17876, in wait_for
+    await self._impl_obj.wait_for(timeout=timeout, state=state)
+  File "/Users/pedro/Downloads/carscrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_locator.py", line 692, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "/Users/pedro/Downloads/carscrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "/Users/pedro/Downloads/carscrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/pedro/Downloads/carscrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 556, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "/Users/pedro/Downloads/carscrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/tasks.py", line 451, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/tasks.py", line 537, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pedro/Downloads/carscrapper/scripts/bmw.py", line 342, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

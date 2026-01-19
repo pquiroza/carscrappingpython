@@ -1,0 +1,154 @@
+marca_filtro,modelo_filtro,brand,model,version,discount_pct,price_main_text,price_main,price_lista,bono_marca,bono_financiamiento,consumo_urbano,traccion,pasajeros,url_modelo
+Suzuki,swift-sport,Suzuki,Swift Sport,1.4 DIT SPORT,9.6,$17.990.000*,17990000,19890000,1200000,700000,13.3,4x2 Delantera,5,https://www.dercocenter.cl/auto/suzuki/swift-sport
+Suzuki,swift-sport,Suzuki,Swift Sport,1.4 DIT AT SPORT,9.1,$19.090.000*,19090000,20990000,1200000,700000,12.9,4x2 Delantera,5,https://www.dercocenter.cl/auto/suzuki/swift-sport
+Suzuki,celerio,Suzuki,Celerio,GLX PLUS,15.7,$9.690.000*,9690000,11490000,1200000,600000,,,,https://www.dercocenter.cl/auto/suzuki/celerio
+Suzuki,celerio,Suzuki,Celerio,GLX AMT PLUS,14.6,$10.490.000*,10490000,12290000,1200000,600000,,,,https://www.dercocenter.cl/auto/suzuki/celerio
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GL MT,12.4,$11.990.000*,11990000,13690000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GL CVT,11.4,$13.190.000*,13190000,14890000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GLX MT,11.3,$13.390.000*,13390000,15090000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,dzire-hybrid,Suzuki,Dzire Hybrid,GLX CVT,10.7,$14.190.000*,14190000,15890000,1000000,700000,,,,https://www.dercocenter.cl/auto/suzuki/dzire-hybrid
+Suzuki,jimny,Suzuki,Jimny,1.5 GL 3P,8.5,$16.090.000*,16090000,17590000,900000,600000,,Si,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 GL 5P,9.0,$17.190.000*,17190000,18890000,1100000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 GL Winche 3P,7.3,$18.071.100*,18071100,19504100,833000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 GLX 5P,8.3,$18.790.000*,18790000,20490000,1100000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 AT GLX 3P,7.4,$18.890.000*,18890000,20390000,900000,600000,,Si,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,jimny,Suzuki,Jimny,1.5 AT GLX 5P,7.7,$20.390.000*,20390000,22090000,1100000,600000,,,,https://www.dercocenter.cl/auto/suzuki/jimny
+Suzuki,alto,Suzuki,ALTO,GL PLUS,12.8,$8.190.000*,8190000,9390000,800000,400000,,,,https://www.dercocenter.cl/auto/suzuki/alto
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GL Hybrid,14.1,$12.790.000*,12790000,14890000,1300000,800000,21.3,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GLX Hybrid,13.1,$13.990.000*,13990000,16090000,1300000,800000,21.3,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GL CVT Hybrid,12.8,$14.290.000*,14290000,16390000,1300000,800000,22.2,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,new-swift-hybrid,Suzuki,New Swift Hybrid,1.2 GLX CVT Hybrid,11.9,$15.490.000*,15490000,17590000,1300000,800000,22.2,,,https://www.dercocenter.cl/auto/suzuki/new-swift-hybrid
+Suzuki,baleno,Suzuki,Baleno,1.5 GLS,13.5,$12.790.000*,12790000,14790000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,baleno,Suzuki,Baleno,1.5 AT GLS,12.0,$14.690.000*,14690000,16690000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,baleno,Suzuki,Baleno,1.5 GLX,11.8,$14.990.000*,14990000,16990000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,baleno,Suzuki,Baleno,1.5 AT GLX,10.9,$16.390.000*,16390000,18390000,1200000,800000,,,,https://www.dercocenter.cl/auto/suzuki/baleno
+Suzuki,s-presso,Suzuki,S-presso,1.0 GLX,14.3,$8.990.000*,8990000,10490000,1000000,500000,,,,https://www.dercocenter.cl/auto/suzuki/s-presso
+Suzuki,s-presso,Suzuki,S-presso,1.0 AMT GLX,13.6,$9.490.000*,9490000,10990000,1000000,500000,,,,https://www.dercocenter.cl/auto/suzuki/s-presso
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GL MT 4X2,13.1,$17.890.000*,17890000,20590000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GL AT 4X2,12.5,$18.890.000*,18890000,21590000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GLX MT 4X2,12.2,$19.490.000*,19490000,22190000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,GLX AT 4X2,11.3,$21.190.000*,21190000,23890000,1700000,1000000,,,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,grand-vitara-hybrid,Suzuki,Grand Vitara Hybrid,LIMITED AT 4X4,10.3,$23.490.000*,23490000,26190000,1700000,1000000,,AllGrip 4WD,,https://www.dercocenter.cl/auto/suzuki/grand-vitara-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 GL,13.3,$14.990.000*,14990000,17290000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 AT GL,12.3,$16.390.000*,16390000,18690000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 GLX,12.2,$16.490.000*,16490000,18790000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+Suzuki,fronx-hybrid,Suzuki,Fronx Hybrid,1.5 AT GLX,11.4,$17.890.000*,17890000,20190000,1500000,800000,16.7,,,https://www.dercocenter.cl/auto/suzuki/fronx-hybrid
+GWM,poer,GWM,Poer,Diésel 4x2 Elite Pant,11.6,$19.980.100*,19980100,22598100,1666000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer,GWM,Poer,Diésel 4x2 Deluxe,12.9,$20.813.100*,20813100,23907100,2142000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer,GWM,Poer,Diésel 4x4 Elite Pant,12.4,$21.765.100*,21765100,24859100,2142000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer,GWM,Poer,Diésel 4x4 Deluxe,12.8,$22.598.100*,22598100,25930100,2380000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer
+GWM,poer-plus-automatica,GWM,Poer Plus Automática,Diésel 4x2 Elite,11.5,$25.573.100*,25573100,28905100,2380000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer-plus-automatica
+GWM,poer-plus-automatica,GWM,Poer Plus Automática,Diésel 4x4 Elite,10.7,$26.763.100*,26763100,29976100,2261000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer-plus-automatica
+GWM,poer-plus-automatica,GWM,Poer Plus Automática,Diésel 4x4 Deluxe,15.4,$27.358.100*,27358100,32356100,4046000,952000,,,,https://www.dercocenter.cl/auto/great-wall/poer-plus-automatica
+GWM,tank-300,GWM,Tank 300,4WD,11.9,$29.490.000*,29490000,33490000,2500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/tank-300
+GWM,ora-03,GWM,ORA 03,SR,30.2,$18.490.000*,18490000,26490000,6500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/ora-03
+GWM,ora-03,GWM,ORA 03,GT,16.4,$27.990.000*,27990000,33490000,4000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/ora-03
+GWM,haval-h6,GWM,Haval H6,4x2 ACTIVE AT,20.8,$17.490.000*,17490000,22090000,3100000,1500000,,Si,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6,GWM,Haval H6,4x2 ELITE AT,23.4,$18.290.000*,18290000,23890000,4100000,1500000,,Si,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6,GWM,Haval H6,4x2 DELUXE AT,21.6,$19.990.000*,19990000,25490000,4000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6,GWM,Haval H6,4x4 DELUXE AT,17.3,$20.990.000*,20990000,25390000,2900000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6
+GWM,haval-h6-gt,GWM,Haval H6 GT,4x2 ELITE,15.5,$21.790.000*,21790000,25790000,2500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-gt
+GWM,haval-h6-gt,GWM,Haval H6 GT,4x4 DELUXE,16.2,$24.790.000*,24790000,29590000,3300000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-gt
+GWM,haval-dargo,GWM,Haval Dargo,4x2 ELITE,22.1,$18.990.000*,18990000,24390000,3900000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-dargo
+GWM,haval-dargo,GWM,Haval Dargo,4x4 DELUXE,19.0,$22.990.000*,22990000,28390000,3900000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-dargo
+GWM,haval-dargo,GWM,Haval Dargo,4x4 DELUXE PLUS,20.8,$23.990.000*,23990000,30290000,4800000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-dargo
+GWM,haval-jolion-hibrido,GWM,Haval Jolion Híbrido,2WD ELITE AT HÍBRIDO,17.7,$19.990.000*,19990000,24290000,3100000,1200000,37,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-hibrido
+GWM,haval-jolion-hibrido,GWM,Haval Jolion Híbrido,2WD DELUXE AT HÍBRIDO,19.0,$21.690.000*,21690000,26790000,3900000,1200000,37,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-hibrido
+GWM,haval-h6-hibrido,GWM,Haval H6 Híbrido,2WD ELITE AT HÍBRIDO,14.3,$23.990.000*,23990000,27990000,2500000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-hibrido
+GWM,haval-h6-hibrido,GWM,Haval H6 Híbrido,2WD DELUXE AT HÍBRIDO,16.0,$25.190.000*,25190000,29990000,3300000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/haval-h6-hibrido
+GWM,tank-500,GWM,Tank 500,4WD,9.1,$44.990.000*,44990000,49490000,3000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/tank-500
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 ACTIVE MT,26.6,$12.990.000*,12990000,17690000,3500000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 ELITE MT,23.5,$14.290.000*,14290000,18690000,3200000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 ELITE AT,21.3,$15.490.000*,15490000,19690000,3000000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,nuevo-haval-jolion,GWM,Nuevo Haval Jolion,4x2 DELUXE AT,20.0,$16.790.000*,16790000,20990000,3000000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-jolion
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,4X2 ELITE AT,19.9,$16.490.000*,16490000,20590000,2900000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,4X2 DELUXE AT,19.6,$17.590.000*,17590000,21890000,3100000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,HÍBRIDO 4X2 ELITE AT,18.9,$21.490.000*,21490000,26490000,3800000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,haval-jolion-pro,GWM,Haval Jolion PRO,HÍBRIDO 4X2 DELUXE AT,18.6,$23.190.000*,23190000,28490000,4100000,1200000,,,,https://www.dercocenter.cl/auto/great-wall/haval-jolion-pro
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.0T Diésel 4x2 Elite,9.8,$26.168.100*,26168100,29024100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.0T Diésel 4x4 Elite,9.5,$27.358.100*,27358100,30214100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.4T Diésel 4x4 Elite,11.1,$29.500.100*,29500100,33189100,2737000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.0T Diésel 4x4 Deluxe,10.1,$29.738.100*,29738100,33070100,2380000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nueva-poer-plus-automatica,GWM,Nueva Poer Plus Automática,2.4T Diésel 4x4 Deluxe,11.8,$31.999.100*,31999100,36283100,3332000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-plus-automatica
+GWM,nuevo-haval-h7,GWM,Nuevo Haval H7,ELITE 2WD,11.5,$22.290.000*,22290000,25190000,1900000,1000000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h7
+GWM,nuevo-haval-h7,GWM,Nuevo Haval H7,DELUXE 4WD,9.9,$26.290.000*,26290000,29190000,1900000,1000000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h7
+GWM,nuevo-haval-h7,GWM,Nuevo Haval H7,DELUXE 2WD HÍBRIDA,11.7,$27.990.000*,27990000,31690000,2700000,1000000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h7
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x2 Elite,12.3,$21.170.100*,21170100,24145100,2023000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x2 Deluxe,11.4,$22.122.100*,22122100,24978100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x4 Elite,11.5,$22.955.100*,22955100,25930100,2023000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nueva-poer,GWM,Nueva Poer,2.0T Diésel 4x4 Deluxe,10.7,$23.907.100*,23907100,26763100,1904000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,PHEV DELUXE 2WD,14.1,$27.490.000*,27490000,31990000,,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,PHEV DELUXE 4WD,13.2,$29.490.000*,29490000,33990000,,1200000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,ELITE 2WD,14.0,$19.690.000*,19690000,22890000,2000000,1200000,,2WD,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,DELUXE 2WD,12.7,$22.090.000*,22090000,25290000,2000000,1200000,,2WD,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nuevo-haval-h6,GWM,Nuevo Haval H6,DELUXE 4WD,11.9,$22.990.000*,22990000,26090000,1900000,1200000,,4WD,,https://www.dercocenter.cl/auto/great-wall/nuevo-haval-h6
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Gasolina 4x2 Deluxe,16.3,$14.625.100*,14625100,17481100,2142000,714000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Gasolina 4x4 Deluxe,15.2,$16.648.100*,16648100,19623100,2261000,714000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Diésel 4x2 Deluxe,19.5,$17.243.100*,17243100,21408100,3213000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-wingle-7,GWM,Nueva Wingle 7,Diésel 4x4 Deluxe,18.0,$19.028.100*,19028100,23193100,3213000,952000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-wingle-7
+GWM,nueva-poer-p500,GWM,Nueva Poer P500,PHEV 4WD Deluxe,10.6,$49.968.100*,49968100,55918100,3570000,2380000,,,,https://www.dercocenter.cl/auto/great-wall/nueva-poer-p500
+GWM,nuevo-tank-300,GWM,Nuevo Tank 300,4WD LIMITED,10.5,$29.990.000*,29990000,33490000,2000000,1500000,,,,https://www.dercocenter.cl/auto/great-wall/nuevo-tank-300
+Renault,nuevo-duster,Renault,Nuevo Duster,ZEN 1.6 4X2 MT,27.1,$13.990.000*,13990000,19190000,4000000,1200000,11.2,,,https://www.dercocenter.cl/auto/renault/nuevo-duster
+Renault,nuevo-duster,Renault,Nuevo Duster,INTENS 1.6 MT 4X2,28.5,$14.790.000*,14790000,20690000,4700000,1200000,,,,https://www.dercocenter.cl/auto/renault/nuevo-duster
+Renault,nuevo-duster,Renault,Nuevo Duster,INTENS 1.6 CVT 4X2,27.7,$15.690.000*,15690000,21690000,4800000,1200000,11.2,,,https://www.dercocenter.cl/auto/renault/nuevo-duster
+Renault,nuevo-kwid-e-tech,Renault,Nuevo Kwid E-Tech,KWID E-TECH INTENS,21.8,$13.290.000*,13290000,16990000,2700000,1000000,,,,https://www.dercocenter.cl/auto/renault/nuevo-kwid-e-tech
+Renault,nuevo-renault-arkana,Renault,Nuevo Renault Arkana,ARKANA 1.3 4X2 AT INTENS MHEV,24.4,$22.990.000*,22990000,30390000,5600000,1800000,,,,https://www.dercocenter.cl/auto/renault/nuevo-renault-arkana
+Renault,nuevo-renault-arkana,Renault,Nuevo Renault Arkana,ARKANA 1.3 4X2 AT INTENS ALPINE MHEV,16.4,$27.490.000*,27490000,32890000,3600000,1800000,,,,https://www.dercocenter.cl/auto/renault/nuevo-renault-arkana
+Renault,nuevo-koleos,Renault,Nuevo Koleos,Nuevo Koleos Techno,15.7,$29.490.000*,29490000,34990000,3000000,2500000,,,,https://www.dercocenter.cl/auto/renault/nuevo-koleos
+Renault,nuevo-koleos,Renault,Nuevo Koleos,Nuevo Koleos Full hybrid,12.6,$37.990.000*,37990000,43490000,3500000,2000000,,,,https://www.dercocenter.cl/auto/renault/nuevo-koleos
+Renault,nueva-master,Renault,NUEVA MASTER,MASTER IV 2.3 DSL L2 FURGON MT,11.8,$35.688.100*,35688100,40448100,2380000,2380000,,,,https://www.dercocenter.cl/auto/renault/nueva-master
+Renault,nueva-master,Renault,NUEVA MASTER,MASTER IV 2.3 DSL L3 FURGON MT,11.4,$37.116.100*,37116100,41876100,2380000,2380000,,,,https://www.dercocenter.cl/auto/renault/nueva-master
+Renault,nueva-master,Renault,NUEVA MASTER,Nueva Master Pasajero,9.4,$45.803.100*,45803100,50563100,2380000,2380000,,,,https://www.dercocenter.cl/auto/renault/nueva-master
+Changan,cs15,Changan,CS15,Comfort,15.2,$9.490.000*,9490000,11190000,900000,800000,11.2,Delantera,5,https://www.dercocenter.cl/auto/changan/cs15
+Changan,md201-pick-up,Changan,MD201 Pick Up,Con Aire Con Dirección,14.9,$8.139.600*,8139600,9567600,833000,595000,,Trasera 2WD,2,https://www.dercocenter.cl/auto/changan/md201-pick-up
+Changan,md201-cargo-box,Changan,MD201 Cargo Box,Sin Aire con Dirección y Puerta Lateral,11.8,$8.853.600*,8853600,10043600,714000,476000,,Trasera 2WD,2,https://www.dercocenter.cl/auto/changan/md201-cargo-box
+Changan,ms201-pick-up,Changan,MS201 Pick Up,Sin Aire Con Dirección,11.7,$8.556.100*,8556100,9686600,535500,595000,,Trasera 2WD,5,https://www.dercocenter.cl/auto/changan/ms201-pick-up
+Changan,ms201-pick-up,Changan,MS201 Pick Up,Con Aire Con Dirección,13.7,$9.032.100*,9032100,10460100,773500,654500,,Trasera 2WD,5,https://www.dercocenter.cl/auto/changan/ms201-pick-up
+Changan,new-cs15,Changan,New CS15,Luxury MT,21.0,$9.790.000*,9790000,12390000,1800000,800000,,Si (TCS),5,https://www.dercocenter.cl/auto/changan/new-cs15
+Changan,new-cs15,Changan,New CS15,Elite MT,20.9,$10.190.000*,10190000,12890000,1800000,900000,,Si (TCS),5,https://www.dercocenter.cl/auto/changan/new-cs15
+Changan,hunter,Changan,Hunter,2.0T 2026 4X2 Comfort MT,18.7,$16.990.000*,16990000,20890000,2500000,1400000,,4X2,5,https://www.dercocenter.cl/auto/changan/hunter
+Changan,hunter,Changan,Hunter,2.0T 2026 4X2 Luxury MT,21.6,$17.790.000*,17790000,22690000,3700000,1200000,,4X2,5,https://www.dercocenter.cl/auto/changan/hunter
+Changan,hunter,Changan,Hunter,2.0T 2026 4X4 Comfort MT,23.3,$18.390.000*,18390000,23990000,4100000,1500000,,4x4,5,https://www.dercocenter.cl/auto/changan/hunter
+Changan,hunter,Changan,Hunter,2.0T 2026 4X4 Elite Sport MT,17.3,$21.090.000*,21090000,25490000,2900000,1500000,,4x4,5,https://www.dercocenter.cl/auto/changan/hunter
+Changan,alsvin,Changan,Alsvin,Comfort MT,14.3,$8.990.000*,8990000,10490000,900000,600000,12.2,,,https://www.dercocenter.cl/auto/changan/alsvin
+Changan,alsvin,Changan,Alsvin,Luxury MT,14.7,$9.290.000*,9290000,10890000,900000,700000,12.2,,,https://www.dercocenter.cl/auto/changan/alsvin
+Changan,alsvin,Changan,Alsvin,Elite AT,16.5,$10.590.000*,10590000,12690000,1400000,700000,10.7,,,https://www.dercocenter.cl/auto/changan/alsvin
+Changan,cs35-plus,Changan,CS35 Plus,New CS35 Plus Comfort AT,24.3,$12.790.000*,12790000,16890000,3300000,800000,,,,https://www.dercocenter.cl/auto/changan/cs35-plus
+Changan,cs35-plus,Changan,CS35 Plus,New CS35 Plus Luxury AT,22.7,$13.590.000*,13590000,17590000,3200000,800000,,,,https://www.dercocenter.cl/auto/changan/cs35-plus
+Changan,cs35-plus,Changan,CS35 Plus,New CS35 Plus Elite AT,20.6,$14.990.000*,14990000,18890000,2800000,1100000,,,,https://www.dercocenter.cl/auto/changan/cs35-plus
+Changan,uni-t,Changan,UNI-T,Elite,24.0,$19.990.000*,19990000,26290000,4800000,1500000,,,,https://www.dercocenter.cl/auto/changan/uni-t
+Changan,cs55-plus,Changan,CS55 Plus,CS55 Plus Luxury,18.2,$15.690.000*,15690000,19190000,2600000,900000,,,,https://www.dercocenter.cl/auto/changan/cs55-plus
+Changan,cs55-plus,Changan,CS55 Plus,CS55 Plus Elite,21.2,$17.490.000*,17490000,22190000,3800000,900000,,,,https://www.dercocenter.cl/auto/changan/cs55-plus
+Changan,x7-plus,Changan,X7 Plus,Luxury MT,23.9,$13.690.000*,13690000,17990000,3200000,1100000,,,,https://www.dercocenter.cl/auto/changan/x7-plus
+Changan,x7-plus,Changan,X7 Plus,Elite MT,18.9,$14.990.000*,14990000,18490000,2400000,1100000,,,,https://www.dercocenter.cl/auto/changan/x7-plus
+Changan,x7-plus,Changan,X7 Plus,Luxury AT,17.4,$15.690.000*,15690000,18990000,2300000,1000000,,,,https://www.dercocenter.cl/auto/changan/x7-plus
+Changan,x7-plus,Changan,X7 Plus,Elite AT,17.5,$16.490.000*,16490000,19990000,2300000,1200000,,,,https://www.dercocenter.cl/auto/changan/x7-plus
+Changan,uni-k,Changan,UNI-K,Luxury AT,14.8,$22.990.000*,22990000,26990000,2200000,1800000,,,,https://www.dercocenter.cl/auto/changan/uni-k
+Changan,uni-k,Changan,UNI-K,Elite AT,10.0,$26.990.000*,26990000,29990000,1000000,2000000,,,,https://www.dercocenter.cl/auto/changan/uni-k
+Changan,star-truck-plus,Changan,Star Truck Plus,MS301 Plus Pick-up doble cabina,31.8,$10.583.860*,10583860,15522360,4224500,714000,,,,https://www.dercocenter.cl/auto/changan/star-truck-plus
+Changan,star-truck-plus,Changan,Star Truck Plus,MD301 Plus Cargo Box,19.5,$11.543.000*,11543000,14339500,2082500,714000,,,,https://www.dercocenter.cl/auto/changan/star-truck-plus
+Changan,new-cs55-plus-idd,Changan,New CS55 Plus iDD,New CS55 Plus iDD Luxury,18.8,$19.490.000*,19490000,23990000,3300000,1200000,"76,9 km/L",,,https://www.dercocenter.cl/auto/changan/new-cs55-plus-idd
+Changan,new-cs55-plus-idd,Changan,New CS55 Plus iDD,New CS55 Plus iDD Elite,14.6,$22.190.000*,22190000,25990000,2300000,1500000,"76,9 km/L",,,https://www.dercocenter.cl/auto/changan/new-cs55-plus-idd
+Changan,hunter-e-reev,Changan,Hunter E REEV,REEV Luxury,9.1,$29.990.000*,29990000,32990000,1500000,1500000,,,,https://www.dercocenter.cl/auto/changan/hunter-e-reev
+Changan,hunter-e-reev,Changan,Hunter E REEV,REEV Elite,8.1,$33.990.000*,33990000,36990000,1000000,2000000,,,,https://www.dercocenter.cl/auto/changan/hunter-e-reev
+Changan,new-cs15-plus,Changan,New CS15 Plus,Comfort MT,11.5,$9.990.000*,9990000,11290000,600000,700000,,,,https://www.dercocenter.cl/auto/changan/new-cs15-plus
+Changan,new-cs15-plus,Changan,New CS15 Plus,Luxury MT,16.9,$10.290.000*,10290000,12390000,1400000,700000,,,,https://www.dercocenter.cl/auto/changan/new-cs15-plus
+Changan,new-cs15-plus,Changan,New CS15 Plus,Elite MT,15.5,$10.890.000*,10890000,12890000,1200000,800000,,,,https://www.dercocenter.cl/auto/changan/new-cs15-plus
+Changan,new-cs15-plus,Changan,New CS15 Plus,Elite AT,16.4,$11.990.000*,11990000,14340000,1550000,800000,,,,https://www.dercocenter.cl/auto/changan/new-cs15-plus
+Changan,eado-plus-idd,Changan,Eado Plus iDD,Luxury,17.4,$18.990.000*,18990000,22990000,2500000,1500000,,,,https://www.dercocenter.cl/auto/changan/eado-plus-idd
+Changan,eado-plus-idd,Changan,Eado Plus iDD,Elite,12.0,$21.990.000*,21990000,24990000,1300000,1700000,,,,https://www.dercocenter.cl/auto/changan/eado-plus-idd
+JAC,sunray-pasajeros,JAC,Sunray Pasajeros,16+1 Green Jet,10.7,$32.713.100*,32713100,36632100,3119000,800000,,,,https://www.dercocenter.cl/auto/jac/sunray-pasajeros
+JAC,refine-pasajeros-euro-6,JAC,Refine Pasajeros Euro 6,8+1 Executive,17.4,$27.120.100*,27120100,32832100,5236000,476000,,,,https://www.dercocenter.cl/auto/jac/refine-pasajeros-euro-6
+JAC,refine-pasajeros-euro-6,JAC,Refine Pasajeros Euro 6,10+1 Executive,15.4,$28.072.100*,28072100,33189100,4641000,476000,,,,https://www.dercocenter.cl/auto/jac/refine-pasajeros-euro-6
+JAC,js2,JAC,JS2,Comfort Smart,19.7,$8.990.000*,8990000,11190000,1400000,800000,,,,https://www.dercocenter.cl/auto/jac/js2
+JAC,js2,JAC,JS2,Luxury,20.9,$10.390.000*,10390000,13140000,1950000,800000,,,,https://www.dercocenter.cl/auto/jac/js2
+JAC,js2,JAC,JS2,CVT Luxury,16.2,$12.390.000*,12390000,14790000,1600000,800000,,,,https://www.dercocenter.cl/auto/jac/js2
+JAC,js8,JAC,JS8,Comfort CE 6MT,14.9,$15.990.000*,15990000,18790000,2000000,800000,,,,https://www.dercocenter.cl/auto/jac/js8
+JAC,js8,JAC,JS8,Advance XE DCT,26.4,$17.590.000*,17590000,23890000,5500000,800000,,,,https://www.dercocenter.cl/auto/jac/js8
+JAC,js6,JAC,JS6,Advance XE DCT,30.6,$16.990.000*,16990000,24490000,6700000,800000,,,,https://www.dercocenter.cl/auto/jac/js6
+JAC,e-js1,JAC,e-JS1,e-JS1 Luxury,31.3,$10.990.000*,10990000,15990000,4000000,1000000,,,,https://www.dercocenter.cl/auto/jac/e-js1
+JAC,e-js4,JAC,e-JS4,e-JS4 Luxury,25.9,$21.490.000*,21490000,28990000,6000000,1500000,,,,https://www.dercocenter.cl/auto/jac/e-js4
+JAC,refine-cargo-ev,JAC,Refine Cargo EV,Refine Cargo M3 EV,11.4,$35.890.000*,35890000,40490000,4000000,600000,,,,https://www.dercocenter.cl/auto/jac/refine-cargo-ev
+Deepal,s07,Deepal,S07,S07 REEV,6.3,$29.990.000*,29990000,31990000,500000,1500000,,,,https://www.dercocenter.cl/auto/deepal/s07
+Deepal,s07,Deepal,S07,S07 BEV,5.3,$35.990.000*,35990000,37990000,500000,1500000,,,,https://www.dercocenter.cl/auto/deepal/s07
+Deepal,s05,Deepal,S05,REEV,13.3,$25.990.000*,25990000,29990000,2600000,1400000,,,,https://www.dercocenter.cl/auto/deepal/s05

@@ -1,0 +1,911 @@
+[
+  {
+    "category": "Hatchback",
+    "model": "Clase A",
+    "model_id": "9811919",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-a",
+    "versions": [
+      {
+        "version": "A 200 Pure",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11262187/Ficha+T%C3%A9cnica_A200_Pure_digital.pdf/a271d7e2-29ba-3620-8610-fa4c2ec878a2?t=1747319673560",
+        "precios": {
+          "precio_desde_texto": "$53.900.000 *",
+          "precio_desde": 53900000,
+          "precio_lista_texto": "$64.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "A 200 Progressive",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11262187/Ficha_Tecnica_Clase_A_hatchback_digital.pdf/4782125f-2437-afa6-84f1-8fda3b50f8f4?t=1747319677716",
+        "precios": {
+          "precio_desde_texto": "$53.900.000 *",
+          "precio_desde": 53900000,
+          "precio_lista_texto": "$64.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "A 200 AMG",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11262187/Ficha_Tecnica_Clase_A_hatchback_digital.pdf/4782125f-2437-afa6-84f1-8fda3b50f8f4?t=1747319677716",
+        "precios": {
+          "precio_desde_texto": "$53.900.000 *",
+          "precio_desde": 53900000,
+          "precio_lista_texto": "$64.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "A 35 AMG",
+        "value": "caracteristicas4",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11262187/Ficha+Te%CC%81cnica+Clase+A+AMG+-+Digital.pdf/0c42851a-b1c6-c548-dca3-cf6e04c58a01?t=1747319671497",
+        "precios": {
+          "precio_desde_texto": "$53.900.000 *",
+          "precio_desde": 53900000,
+          "precio_lista_texto": "$64.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "A 45 S AMG 4MATIC+",
+        "value": "caracteristicas5",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11262187/Ficha+Te%CC%81cnica+Clase+A+AMG+-+Digital.pdf/0c42851a-b1c6-c548-dca3-cf6e04c58a01?t=1747319671497",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Hatchback",
+    "model": "Mercedes-AMGClase A",
+    "model_id": "9730690",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-a-amg",
+    "versions": [
+      {
+        "version": "A 35 AMG",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11259894/Ficha+Te%CC%81cnica+Clase+A+AMG+-+Digital.pdf/845afb40-46be-c6bf-f6a5-f7f23d5e91d2?t=1747343850570",
+        "precios": {
+          "precio_desde_texto": "$53.900.000 *",
+          "precio_desde": 53900000,
+          "precio_lista_texto": "$64.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "A 45 S AMG 4MATIC+",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11259894/Ficha+Te%CC%81cnica+Clase+A+AMG+-+Digital.pdf/845afb40-46be-c6bf-f6a5-f7f23d5e91d2?t=1747343850570",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Sedn",
+    "model": "Clase C",
+    "model_id": "9708879",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-c",
+    "versions": [
+      {
+        "version": "C 200 AMG",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11263829/Ficha_Te%CC%81cnica_C_200+AMG_digital.pdf/1d64fa19-a829-6312-22ff-b669d5fde7dd?t=1747332757920",
+        "precios": {
+          "precio_desde_texto": "$49.900.000 *",
+          "precio_desde": 49900000,
+          "precio_lista_texto": "$59.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "C 43 AMG",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11263829/Ficha_Te%CC%81cnica_C43_digital.pdf/a478ed21-510f-2f5e-4ff0-ccb5ca4a7302?t=1747332762611",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "C 63 S AMG E-PERFORMANCE 4MATIC +",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11263829/Ficha+Te%CC%81cnica+C63s+-+Digital.pdf/cf0e32a7-8bf4-d920-c7aa-990ee93bd29e?t=1747332756323",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Sedn",
+    "model": "Mercedes-AMGClase C",
+    "model_id": "9730745",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-c-amg",
+    "versions": [
+      {
+        "version": "C 43 AMG",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11268568/Ficha_Te%CC%81cnica_C43_digital.pdf/c9e31976-aa85-10ba-26ce-96c57c980f31?t=1747359848240",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "C 63 S AMG E-PERFORMANCE 4MATIC +",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11268568/Ficha+Te%CC%81cnica+C63s+-+Digital.pdf/1dbe1c11-6136-9cb2-f6d3-52849d08be9f?t=1747359846182",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Sedn",
+    "model": "Clase E",
+    "model_id": "11137018",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-e",
+    "versions": [
+      {
+        "version": "E 300",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11264640/Ficha+T%C3%A9cnica_E_300_digital.pdf/8ad10ec6-1bc4-9e81-870c-c7128fc5b70e?t=1747336800918",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "E 450 4MATIC",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11264640/Ficha+t%C3%A9cnica+Clase+E+450_Digital.pdf/3dc30309-3c70-01b6-7b56-ee40e9ed641d?t=1747336798232",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Sedn",
+    "model": "Clase S",
+    "model_id": "9726253",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-s",
+    "versions": [
+      {
+        "version": "S 450 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11266064/Ficha+tecnica_Clase+S450_digital.pdf/53d9c815-67c3-f558-c583-d107a169c39e?t=1747348321077",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "S 580 4MATIC",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11266064/Ficha_tecnica_Clase+S580_digital+%282%29.pdf/e10dbb2b-4bb3-8315-6d8a-38ca17f12006?t=1747348324105",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "GLA",
+    "model_id": "9724252",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gla",
+    "versions": [
+      {
+        "version": "GLA 200 Pure",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11271562/Ficha+t%C3%A9cnica+GLA+200+Pure+-+Digital_compressed.pdf/d42d24fd-d87f-4a90-a225-e31fb7294c08?t=1758721005350",
+        "precios": {
+          "precio_desde_texto": "$50.900.000 *",
+          "precio_desde": 50900000,
+          "precio_lista_texto": "$60.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLA 200 Progressive",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11271562/Ficha+T%C3%A9cnica+GLA+-+Digital.pdf/bfeeb46c-0de8-d64a-81a8-99466e23af4b?t=1747366221003",
+        "precios": {
+          "precio_desde_texto": "$50.900.000 *",
+          "precio_desde": 50900000,
+          "precio_lista_texto": "$60.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLA 200 AMG",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11271562/Ficha+T%C3%A9cnica+GLA+-+Digital.pdf/bfeeb46c-0de8-d64a-81a8-99466e23af4b?t=1747366221003",
+        "precios": {
+          "precio_desde_texto": "$50.900.000 *",
+          "precio_desde": 50900000,
+          "precio_lista_texto": "$60.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLA 220d 4MATIC AMG",
+        "value": "caracteristicas4",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11271562/Ficha+T%C3%A9cnica+GLA+-+Digital.pdf/bfeeb46c-0de8-d64a-81a8-99466e23af4b?t=1747366221003",
+        "precios": {
+          "precio_desde_texto": "$50.900.000 *",
+          "precio_desde": 50900000,
+          "precio_lista_texto": "$60.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLA 35 AMG 4MATIC",
+        "value": "caracteristicas5",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11271562/Ficha_Te%CC%81cnica_GLA+35+AMG_digital.pdf/552d14c9-4d29-4118-85f4-e08a299d3f1f?t=1747366222744",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "Mercedes-AMGGLA",
+    "model_id": "9726758",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gla-amg",
+    "versions": [
+      {
+        "version": "GLA 35 AMG 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11269827/Ficha_Te%CC%81cnica_GLA+35+AMG_digital_amg-gla.pdf/fbdcce9e-4525-ab2d-a0cf-f783de2cb4eb?t=1747445584016",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "GLC",
+    "model_id": "9724380",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/glc",
+    "versions": [
+      {
+        "version": "GLC 200 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11274500/Ficha_Te%CC%81cnica_glc200_250_Taman%CC%83o_Digital_NUEVO.pdf/b6f1d9d6-78b1-25af-2c72-64ba82421b40?t=1747398653143",
+        "precios": {
+          "precio_desde_texto": "$56.900.000 *",
+          "precio_desde": 56900000,
+          "precio_lista_texto": "$67.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 220d 4MATIC",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11274500/Ficha_Te%CC%81cnica_glc200_250_Taman%CC%83o_Digital_NUEVO.pdf/b6f1d9d6-78b1-25af-2c72-64ba82421b40?t=1747398653143",
+        "precios": {
+          "precio_desde_texto": "$56.900.000 *",
+          "precio_desde": 56900000,
+          "precio_lista_texto": "$67.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 220d 4MATIC AMG",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11274500/Ficha_Te%CC%81cnica_glc200_250_Taman%CC%83o_Digital_NUEVO.pdf/b6f1d9d6-78b1-25af-2c72-64ba82421b40?t=1747398653143",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "GLC Coupé",
+    "model_id": "9771813",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/glc-coupe",
+    "versions": [
+      {
+        "version": "GLC 200 Coupé",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11275991/Ficha_tecnica_glc_coupe_taman%CC%83o_digital.pdf/7bdf0a45-4241-83e7-bba4-fdb6079940e0?t=1747405576719",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 220d Coupé",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11275991/Ficha_tecnica_glc_coupe_taman%CC%83o_digital.pdf/7bdf0a45-4241-83e7-bba4-fdb6079940e0?t=1747405576719",
+        "precios": {
+          "precio_desde_texto": "$70.900.000 *",
+          "precio_desde": 70900000,
+          "precio_lista_texto": "$81.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 220d Coupé AMG",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11275991/Ficha_tecnica_glc_coupe_taman%CC%83o_digital.pdf/7bdf0a45-4241-83e7-bba4-fdb6079940e0?t=1747405576719",
+        "precios": {
+          "precio_desde_texto": "$70.900.000 *",
+          "precio_desde": 70900000,
+          "precio_lista_texto": "$81.900.000",
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 43 Coupé AMG 4MATIC",
+        "value": "caracteristicas4",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11275991/Ficha+Te%CC%81cnica_GLC_AMG_digital.pdf/9ef18962-78d5-61d6-b766-eef41ade2b59?t=1747405572292",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 63 S Coupé AMG E-PERFORMANCE",
+        "value": "caracteristicas5",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/8034300/Ficha+Tecnica_GLC_AMG_carta.pdf/5c212418-758b-4022-5aa0-a11d97b853a8?t=1720560522262",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "Mercedes-AMGGLC Coupé",
+    "model_id": "9730256",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/glc-coupe-amg",
+    "versions": [
+      {
+        "version": "GLC 43 Coupé AMG 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11275866/Ficha+Te%CC%81cnica_GLC_AMG_digital-coupe1.pdf/d8d2491f-7f15-eaac-9c87-3a7ea5d629d6?t=1747426818738",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLC 63 S Coupé AMG E-PERFORMANCE",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11275866/Ficha+Te%CC%81cnica_GLC_AMG_digital-coupe1.pdf/d8d2491f-7f15-eaac-9c87-3a7ea5d629d6?t=1747426818738",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "GLE",
+    "model_id": "9728124",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gle",
+    "versions": [
+      {
+        "version": "GLE 300d 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11276844/Ficha+Te%CC%81cnica+GLE+Facelift+-+Digital.pdf/73084bee-5b2a-86e4-7305-053760bfbe97?t=1747409331436",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLE 450 4MATIC",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11276844/Ficha+Te%CC%81cnica+GLE+Facelift+-+Digital.pdf/73084bee-5b2a-86e4-7305-053760bfbe97?t=1747409331436",
+        "precios": {
+          "precio_desde_texto": "$107.900.000 *",
+          "precio_desde": 107900000,
+          "precio_lista_texto": "USD 124.000",
+          "precio_lista_usd": 124000
+        }
+      },
+      {
+        "version": "GLE 450d 4MATIC",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11276844/Ficha+Te%CC%81cnica+GLE+Facelift+-+Digital.pdf/73084bee-5b2a-86e4-7305-053760bfbe97?t=1747409331436",
+        "precios": {
+          "precio_desde_texto": "$107.900.000 *",
+          "precio_desde": 107900000,
+          "precio_lista_texto": "USD 124.000",
+          "precio_lista_usd": 124000
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "GLE Coupé",
+    "model_id": "9732230",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gle-coupe",
+    "versions": [
+      {
+        "version": "GLE 300d 4MATIC Coupé",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11277742/Ficha+Te%C3%ACcnica+GLE+Coupe+-+Digital.pdf/c553c457-1302-346e-c31f-2278d333c91f?t=1750099241182",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLE 450d 4MATIC Coupé",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11277742/Ficha+Te%C3%ACcnica+GLE+Coupe+-+Digital.pdf/c553c457-1302-346e-c31f-2278d333c91f?t=1750099241182",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLE 53 Coupé AMG 4MATIC+",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11277742/Ficha+Te%CC%81cnica_GLE_53_63_digital.pdf/f157b1cf-523d-dc39-3684-50a30c3f1c06?t=1747412849181",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLE 63 S Coupé AMG 4MATIC+",
+        "value": "caracteristicas4",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11277742/Ficha+Te%CC%81cnica_GLE_53_63_digital.pdf/f157b1cf-523d-dc39-3684-50a30c3f1c06?t=1747412849181",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "Mercedes-AMGGLE Coupé",
+    "model_id": "9730327",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gle-coupe-amg",
+    "versions": [
+      {
+        "version": "GLE 53 Coupé AMG 4MATIC+",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11280442/Ficha+T%C3%A9cnica_GLE_53_63_digital_www.pdf/b3de439b-bfab-65e7-8904-ea2cecac3c23?t=1747437338547",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "GLE 63 S Coupé AMG 4MATIC+",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11280442/Ficha+T%C3%A9cnica_GLE_53_63_digital_www.pdf/b3de439b-bfab-65e7-8904-ea2cecac3c23?t=1747437338547",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "GLS",
+    "model_id": "9732001",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gls",
+    "versions": [
+      {
+        "version": "GLS 450d 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11281210/Ficha_Tecnica_GLS_450d_digital_wwa.pdf/0639654b-3406-f79a-a571-133563c3d478?t=1747436806235",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "Clase G",
+    "model_id": "9732338",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-g",
+    "versions": [
+      {
+        "version": "G 450d",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11259213/Ficha+T%C3%A9cnica_Nuevo_Clase_G_digital-suv-clase-g.pdf/c3018ae6-75d6-3a64-dedd-3981f9f9d15b?t=1747446512564",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "G 500",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11259213/Ficha+T%C3%A9cnica_Nuevo_Clase_G_digital-suv-clase-g.pdf/c3018ae6-75d6-3a64-dedd-3981f9f9d15b?t=1747446512564",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "G 63 AMG",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11259213/Ficha+T%C3%A9cnica_G63_AMG_Digital+%28Opci%C3%B3n+1%29-suv-clase-g.pdf/5f5bca22-6ed4-8a5e-d0d2-78de218f00d2?t=1747446511087",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "Mercedes-AMGClase G",
+    "model_id": "11138816",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/clase-g-amg",
+    "versions": [
+      {
+        "version": "G 63 AMG",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11287238/Ficha+T%C3%A9cnica_G63_AMG_Digital+%28Opci%C3%B3n+1%29a.pdf/4be1f60d-4128-0cbb-6778-da1b840ad756?t=1747427600011",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "model": "EQA",
+    "model_id": "9726354",
+    "electrico": true,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/eqa",
+    "versions": [
+      {
+        "version": "EQA 350 4MATIC",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11292712/Ficha+T%C3%A9cnica+Mercedes+EQA_Digital-veh-elec-eqa.pdf/7d6ba9d5-9034-036b-59dd-e99c64c9595c?t=1747434687092",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Coup",
+    "model": "CLA Coupé",
+    "model_id": "9732474",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/cla-coupe",
+    "versions": [
+      {
+        "version": "CLA 200 Progressive",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11267253/Ficha_Tecnica_CLA_200_digital.pdf/0a8256be-fcdc-c49d-6a06-a8e3e8672939?t=1747356091244",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "CLA 200 AMG",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11267253/Ficha_Tecnica_CLA_200_digital.pdf/0a8256be-fcdc-c49d-6a06-a8e3e8672939?t=1747356091244",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "CLA 45 S AMG 4MATIC Coupé",
+        "value": "caracteristicas3",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11267253/Ficha+Te%CC%81cnica_CLA_AMG_digitalv112.pdf/c6ce5515-976f-7052-62a6-17385d9bee61?t=1747675961121",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Coup",
+    "model": "Mercedes-AMGCLA Coupé",
+    "model_id": "9727155",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/cla-amg",
+    "versions": [
+      {
+        "version": "CLA 45 S AMG 4MATIC COUPÉ",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11269209/Ficha+Te%CC%81cnica_CLA_AMG_digital.pdf/caaafdd6-b51f-3101-2738-931c1767034d?t=1747364271579",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Coup",
+    "model": "CLE Coupé",
+    "model_id": "10202006",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/cle-coupe",
+    "versions": [
+      {
+        "version": "CLE 300 Coupe",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11270066/Ficha_Tecnica_CLE_300+4Matic_digital.pdf/fa11a216-a0bb-a021-83ca-5eed38a03a82?t=1747360102953",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "CLE 53 4MATIC+ Coupé",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11270066/Ficha_Tecnica_CLE+53+Coupe%CC%81+AMG_digital.pdf/9d9f92f0-63db-cd0e-014f-2c2f813163c0?t=1747360105781",
+        "precios": {
+          "precio_desde_texto": "$61.900.000 *",
+          "precio_desde": 61900000,
+          "precio_lista_texto": "$72.900.000",
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Coup",
+    "model": "Mercedes-AMGCLE Coupé",
+    "model_id": "11248523",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/cle-coupe-amg",
+    "versions": [
+      {
+        "version": "CLE 53 AMG 4MATIC+ Coupé",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11290960/Ficha_Tecnica_CLE+Coupe%CC%81+AMG_digital_llll.pdf/5065bd0a-ab4c-3897-d337-7d90345fe2ff?t=1747430877649",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Coup",
+    "model": "Mercedes-AMGGT",
+    "model_id": "11138943",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/gt-coupe-amg",
+    "versions": [
+      {
+        "version": "GT 63 4MATIC+ AMG",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11294302/Ficha+Te%CC%81cnica_GT_63_AMG_digital-amg-gt-coupe.pdf/19c45a19-1916-29fe-6c88-f676c1e0c566?t=1747438647340",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Cabrio",
+    "model": "CLE Cabrio",
+    "model_id": "10202009",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/cle-cabrio",
+    "versions": [
+      {
+        "version": "CLE 300 Cabriolet",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11270885/Ficha+Te%CC%81cnica_CLE_Cabrio_digital.pdf/13830871-491c-6616-6691-7536c6311aef?t=1747363661746",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      },
+      {
+        "version": "CLE 53 AMG Cabriolet",
+        "value": "caracteristicas2",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11270885/Ficha_t%C3%A9cnica_CLE+Cabriolet+AMG_digital.pdf/b071e0aa-d437-3f28-49e7-c9d6c2b3b1c3?t=1747363664640",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Cabrio",
+    "model": "Mercedes-AMGCLE Cabrio",
+    "model_id": "11138940",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/cle-cabrio-amg",
+    "versions": [
+      {
+        "version": "CLE 53 AMG Cabriolet",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11291550/Ficha_t%C3%A9cnica_CLE+Cabriolet+AMG_digital_ssssii.pdf/beb7d30d-41b2-5e2f-d932-7be899ad3657?t=1747433066415",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Cabrio",
+    "model": "Mercedes-AMGSL Roadster",
+    "model_id": "11138946",
+    "electrico": false,
+    "brand": "Mercedez Benz",
+    "detalle_url": "https://www.kaufmann.cl/automoviles/mercedes-benz/sl-roadster-amg",
+    "versions": [
+      {
+        "version": "SL 63 4MATIC+ AMG",
+        "value": "caracteristicas1",
+        "ficha_url": "https://www.kaufmann.cl/documents/68916/11290215/Ficha+Te%CC%81cnica_SL_63_AMG_digital_ssss.pdf/ac97b86a-4203-2ca3-c773-673ab7b1cfca?t=1747429001030",
+        "precios": {
+          "precio_desde_texto": null,
+          "precio_desde": null,
+          "precio_lista_texto": null,
+          "precio_lista_usd": null
+        }
+      }
+    ]
+  }
+]

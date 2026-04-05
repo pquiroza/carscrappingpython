@@ -1,0 +1,251 @@
+{
+    "vehiculo": {
+        "marca": "Opel",
+        "modelo": "New Mokka",
+        "año": null,
+        "versiones": [
+            "EDITION",
+            "EDITION_PLUS",
+            "GS"
+        ]
+    },
+    "motor": {
+        "tipo": "1.200 cc Turbo",
+        "cilindrada": "1.200 cc",
+        "potencia_hp": "130 HP @ 5.500 RPM",
+        "potencia_rpm": "5.500",
+        "torque_nm": "230 Nm",
+        "torque_rpm": "1.750",
+        "combustible": "Gasolina",
+        "transmision": {
+            "EDITION": "AT8",
+            "EDITION_PLUS": "MT6 | AT8",
+            "GS": "AT8"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de torsión Semi Independiente",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "EDITION": "215/60 R17 96H",
+            "EDITION_PLUS": "215/60 R17 96H",
+            "GS": "215/55 R18 99V"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4150,
+        "ancho_mm": 1987,
+        "alto_mm": 1535,
+        "distancia_ejes_mm": 2557,
+        "numero_plazas": 5,
+        "capacidad_maletero_lts": {
+            "min": 350,
+            "max": 1105
+        },
+        "capacidad_estanque_lts": 44,
+        "numero_cilindros": 3,
+        "norma_anticontaminacion": "Euro 6e",
+        "start_stop": "Si"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de Aleación",
+            "EDITION": "17\"",
+            "EDITION_PLUS": "17\"",
+            "GS": "18\" Bi-Tono"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Urbano (km/l)",
+            "EDITION": 15.9,
+            "EDITION_PLUS": "16.5 (MT) | 15.9 (AT)",
+            "GS": 15.9
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "EDITION": 18.5,
+            "EDITION_PLUS": "19.9 (MT) | 18.5 (AT)",
+            "GS": 18.5
+        },
+        {
+            "caracteristica": "Consumo Extraurbano (km/l)",
+            "EDITION": 20.8,
+            "EDITION_PLUS": "22.6 (MT) | 20.8 (AT)",
+            "GS": 20.8
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de Retroceso 180°",
+                "EDITION": true,
+                "EDITION_PLUS": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Sensor de colisión frontal",
+                "EDITION": true,
+                "EDITION_PLUS": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "EDITION": false,
+                "EDITION_PLUS": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Sensor de Punto Ciego",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Apertura y encendido sin llave",
+                "EDITION": false,
+                "EDITION_PLUS": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Apoya brazos delantero",
+                "EDITION": false,
+                "EDITION_PLUS": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "EDITION": false,
+                "EDITION_PLUS": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "EDITION": false,
+                "EDITION_PLUS": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Control Crucero y Limitador de Velocidad",
+                "EDITION": true,
+                "EDITION_PLUS": false,
+                "GS": false
+            },
+            {
+                "caracteristica": "Luz de ambiente",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Pedales deportivos",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero y calefaccionado",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Llantas de Aleación 17\" Bi-Tono",
+                "EDITION": true,
+                "EDITION_PLUS": false,
+                "GS": false
+            },
+            {
+                "caracteristica": "Llantas de Aleación 18\" Bi-Tono",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Logo frontal en negro brillante",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "EDITION": false,
+                "EDITION_PLUS": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Molduras exteriores en negro brillante",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Techo color negro",
+                "EDITION": false,
+                "EDITION_PLUS": false,
+                "GS": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Alerta de conductor cansado",
+            "Asistente de Carril",
+            "Asistente de Partida en Pendientes (HSA)",
+            "Control de Estabilidad ESP",
+            "Control de Tracción",
+            "Detector de presión de Neumáticos",
+            "Doble Airbag frontal - Lateral - Cortina (6)",
+            "Frenos ABS + EBD",
+            "Reconocimiento de señales de tráfico",
+            "Sensor de estacionamiento trasero"
+        ],
+        "interior": [
+            "Alzavidrios delanteros y traseros one-touch",
+            "Cierre centralizado",
+            "Climatizador",
+            "Computador de abordo",
+            "Conectividad Apple CarPlay & Android Auto inalámbrica",
+            "Control de radio al volante",
+            "Espejo retrovisor electrocromático",
+            "Freno de mano eléctrico",
+            "Pantalla touch color 10'' + Panel Digital 10''",
+            "Paddleshift",
+            "Volante con ajuste en altura y profundidad"
+        ],
+        "exterior": [
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Luces de conducción diurna LED (DRL)",
+            "Luces de encendido automático",
+            "Opel Vizor"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 2 y 3",
+        "fuente": "NEW MOKKA.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos únicamente desde la tabla visual comparativa del documento."
+    }
+}

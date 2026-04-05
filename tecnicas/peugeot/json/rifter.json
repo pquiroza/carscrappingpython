@@ -1,0 +1,171 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "RIFTER",
+        "año": 2026,
+        "versiones": [
+            "1.5 Diesel 100 MT",
+            "1.5 Diesel 130 AT",
+            "1.5 Diesel 130 AT GT"
+        ]
+    },
+    "motor": {
+        "tipo": "DV5 1.5 BlueHDi",
+        "cilindrada": "1499",
+        "potencia_hp": "100 / 130",
+        "potencia_rpm": "3750",
+        "torque_nm": "300",
+        "torque_rpm": "1750",
+        "combustible": "Diésel",
+        "transmision": "Manual 6 / Automática 8",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson independiente con barra estabilizadora",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "215/60 R17",
+        "rueda_repuesto": "Acero homogénea"
+    },
+    "dimensiones": {
+        "largo_mm": "4755",
+        "ancho_mm": "2107 / 1921",
+        "alto_mm": "1837",
+        "distancia_ejes_mm": "2975",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "2320 / 2325",
+        "capacidad_maletero_lts": "209 / 1050",
+        "capacidad_estanque_lts": "53"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "100_MT": "215/60 R17",
+            "130_AT": "215/60 R17",
+            "130_AT_GT": "215/60 R17"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso vacío (kg)",
+            "100_MT": "1540",
+            "130_AT": "1594",
+            "130_AT_GT": "1594"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga total (kg)",
+            "100_MT": "780",
+            "130_AT": "731",
+            "130_AT_GT": "731"
+        },
+        {
+            "caracteristica": "Remolque con freno (kg)",
+            "100_MT": "1050",
+            "130_AT": "1050",
+            "130_AT_GT": "1050"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "100_MT": "21,5",
+            "130_AT": "18",
+            "130_AT_GT": "18"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "100_MT": "23,7",
+            "130_AT": "20,3",
+            "130_AT_GT": "20,3"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "100_MT": "22,8",
+            "130_AT": "19,4",
+            "130_AT_GT": "19,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "ALLURE": "Tela",
+                "GT": "Alcántara"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "ALLURE": "16\"",
+                "GT": "17\""
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Detector de punto ciego",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Advanced Grip Control",
+                "ALLURE": false,
+                "GT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla multimedia",
+                "ALLURE": "10\"",
+                "GT": "10\" IVI High"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ALLURE": false,
+                "GT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Freno de mano eléctrico",
+            "Dirección asistida eléctrica",
+            "Volante cuero",
+            "Levas al volante (AT)",
+            "Alzavidrios eléctricos",
+            "Peugeot i-Cockpit",
+            "Regulador / limitador velocidad"
+        ],
+        "exterior": [
+            "Faros EcoLED",
+            "Neblineros",
+            "Barras de techo",
+            "Puertas laterales corredizas"
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "AFU",
+            "ESC + ASR",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbag cortina",
+            "ISOFIX",
+            "Cámara retroceso",
+            "Sensor estacionamiento",
+            "Keyless"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Peugeot Rifter 2026",
+        "versiones_en_documento": 3,
+        "notas": "Equipamiento separado Allure vs GT. Datos técnicos de página 2."
+    }
+}

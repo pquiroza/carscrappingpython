@@ -336,7 +336,7 @@ async def main():
                     print(datos)
                     saveCar('BMW',datos,'www.bmw.cl')
         print(f"OK -> {out_path}")
-
+        print("RUN_OK")
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -1,0 +1,170 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X1",
+        "año": null,
+        "versiones": [
+            "xDrive25e M Sport"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "xDrive25e M Sport": "PHEV. Gasolina 3 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "xDrive25e M Sport": 1499
+        },
+        "potencia_hp": {
+            "xDrive25e M Sport": "245"
+        },
+        "potencia_rpm": {
+            "xDrive25e M Sport": null
+        },
+        "torque_nm": {
+            "xDrive25e M Sport": "477"
+        },
+        "torque_rpm": {
+            "xDrive25e M Sport": null
+        },
+        "combustible": null,
+        "transmision": {
+            "xDrive25e M Sport": "Automática Steptronic de 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "xDrive25e M Sport": null
+        },
+        "rueda_repuesto": "Kit de reparación de pinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 4500,
+        "ancho_mm": 1845,
+        "alto_mm": 1630,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 179,
+        "peso_bruto_kg": 1855,
+        "capacidad_maletero_lts": "490 L (ampliables a 1495 L con asientos reclinados)",
+        "capacidad_estanque_lts": 47,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "xDrive25e M Sport": "6.8"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica WLTP (km)",
+            "xDrive25e M Sport": "77 – 92"
+        },
+        {
+            "caracteristica": "Capacidad batería de alto voltaje (kWh)",
+            "xDrive25e M Sport": "14,2"
+        },
+        {
+            "caracteristica": "Carga BMW Wallbox 7,4 kW (h)",
+            "xDrive25e M Sport": "2,5"
+        },
+        {
+            "caracteristica": "Carga AC 2,3 kW (h)",
+            "xDrive25e M Sport": "7:45"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento automático en paralelo (volante, aceleración, frenos y marchas)",
+            "Asistente de reversa (memoriza últimos 50 m a menos de 35 km/h para retroceder automáticamente en caso de necesitar volver marcha atrás)",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Llantas de aleación de rayos dobles bicolor BMW M aro 19",
+            "BMW Welcome Light Carpet",
+            "Paquete deportivo M",
+            "Parachoques delanteros y traseros en color carrocería con insertos en negro brillante",
+            "Parrilla frontal en aluminio satinado",
+            "Faldón de diseño especifico M",
+            "Estribos en puertas delanteras con identificación M",
+            "Logos M en exterior y llave M especifica",
+            "Barras longitudinales en techo en negro brillante"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Asientos delanteros deportivos con tapiz en combinación Alcantara/Veganza negro, eléctricos con memoria",
+            "Sunroof panorámico eléctrico",
+            "Operación automática de portón trasero",
+            "Sistema de acceso sin llaves Comfort Access con apertura y cierre por proximidad",
+            "Alfrombrilla de velours",
+            "Paquete de iluminación ambiental",
+            "Espejos exteriores eléctricos abatibles",
+            "Espejos int./ext. Anti-deslumbramiento automáticos",
+            "Volante deportivo M de cuero multifunción",
+            "Pedales con insertos de aluminio M",
+            "Molduras en aluminio Hexagon"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Kit de reparación de pinchazos"
+        ],
+        "tecnologia": [
+            "Sistema de sonido HiFi con altavoces Harman Kardon (12 altavoces)",
+            "BMW Live Cockpit Plus",
+            "Pantalla de panel de instrumentos digital de 10,25’’ (1920x720 pixeles)",
+            "Pantalla de control de alta resolución (1920x960 pixeles) de 10,7’’",
+            "Sistema operativo BMW iDrive 9.0 con widgets y pantallas personalizables",
+            "Preparación para Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, Audiobooks))",
+            "Bandeja para carga inalámbrica de dispositivos móviles"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos",
+            "Asistente de luces en carretera",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero con función de frenado",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_the_new_bmw_x1_xdrive25e_m_sport.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. En esta versión PHEV, la ficha informa motor a combustión, motor eléctrico y conjunto combinado; se dejó la potencia y torque del conjunto combinado en motor, sin inventar campos nuevos."
+    }
+}

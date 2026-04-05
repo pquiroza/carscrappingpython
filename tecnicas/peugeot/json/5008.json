@@ -1,0 +1,195 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "5008",
+        "año": 2025,
+        "versiones": [
+            "Allure",
+            "GT"
+        ]
+    },
+    "motor": {
+        "tipo": "EB2 MHEV 1.2 Hybrid",
+        "cilindrada": "1199",
+        "potencia_hp": "136",
+        "potencia_rpm": "5500",
+        "torque_nm": "230",
+        "torque_rpm": "1750",
+        "combustible": "Híbrido",
+        "transmision": "Automática 6 velocidades",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "225/55 R19",
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": "4791",
+        "ancho_mm": "1934 / 2108",
+        "alto_mm": "1694",
+        "distancia_ejes_mm": "2907",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1625",
+        "capacidad_maletero_lts": "348 / 2232",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "ALLURE": "19\"",
+            "GT": "19\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "ALLURE": "1700",
+            "GT": "1700"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Peso remolcable (kg)",
+            "ALLURE": "1000",
+            "GT": "1000"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "ALLURE": "200",
+            "GT": "200"
+        },
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "ALLURE": "11,3",
+            "GT": "11,3"
+        },
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "ALLURE": "21,6",
+            "GT": "21,6"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "ALLURE": "18,6",
+            "GT": "18,6"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "ALLURE": "19,6",
+            "GT": "19,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico con memoria",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asientos con masaje / ventilación",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ALLURE": false,
+                "GT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Portalón eléctrico manos libres",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Techo bi-tono",
+                "ALLURE": false,
+                "GT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor punto ciego",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Alerta tráfico cruzado",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo Stop&Go",
+                "ALLURE": false,
+                "GT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla multimedia",
+                "ALLURE": "10\"",
+                "GT": "21\""
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "ALLURE": false,
+                "GT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Freno de mano eléctrico",
+            "Keyless",
+            "Dirección asistida eléctrica",
+            "Volante multifunción",
+            "Alzavidrios eléctricos"
+        ],
+        "exterior": [
+            "Faros LED",
+            "DRL LED",
+            "Retrovisores eléctricos",
+            "Llantas 19\""
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "ESP",
+            "Hill Assist",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ISOFIX",
+            "TPMS",
+            "Active Safety Brake"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Peugeot 5008 06/2025",
+        "versiones_en_documento": 2,
+        "notas": "Documento con una sola motorización híbrida. Diferencias por nivel Allure vs GT."
+    }
+}

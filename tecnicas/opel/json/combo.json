@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "Opel",
+        "modelo": "Combo",
+        "año": null,
+        "versiones": [
+            "MCA",
+            "LITE"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5 Turbo",
+        "cilindrada": "1.499 cc",
+        "numero_cilindros": 4,
+        "potencia_hp": "100 HP @ 3.750 RPM",
+        "potencia_rpm": "3.750",
+        "torque_nm": "230 Nm @ 1.750 RPM",
+        "torque_rpm": "1.750",
+        "combustible": "Diesel",
+        "transmision": "Mecánica 6 velocidades",
+        "norma_anticontaminacion": "Euro VI",
+        "start_stop": "Si",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección asistida variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "205/60 R16",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4403,
+        "ancho_mm": 2107,
+        "alto_mm": 1921,
+        "distancia_ejes_mm": 2785,
+        "numero_plazas": {
+            "MCA": 3,
+            "LITE": 2
+        },
+        "volumen_util_m3": {
+            "MCA": "3,3 / 3,8",
+            "LITE": 3.3
+        },
+        "largo_util_carga_mm": {
+            "MCA": "1.821 / 3.090",
+            "LITE": 1821
+        },
+        "ancho_util_carga_mm": 1470,
+        "ancho_util_paso_rueda_mm": 1230,
+        "alto_util_carga_mm": 1200,
+        "peso_vacio_kg": 1320,
+        "peso_bruto_kg": 2330,
+        "carga_util_kg": 1000,
+        "carga_remolcable_con_freno_kg": 900,
+        "total_rodante_autorizado_kg": 3230,
+        "capacidad_estanque_lts": 53
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "MCA": "Acero 16\"",
+            "LITE": "Acero 16\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "MCA": 2330,
+            "LITE": 2330
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga útil (kg)",
+            "MCA": 1000,
+            "LITE": 1000
+        },
+        {
+            "caracteristica": "Carga remolcable con freno (kg)",
+            "MCA": 900,
+            "LITE": 900
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Urbano (km/l)",
+            "MCA": 16.5,
+            "LITE": 16.5
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "MCA": 18.9,
+            "LITE": 18.9
+        },
+        {
+            "caracteristica": "Consumo Extraurbano (km/l)",
+            "MCA": 20.7,
+            "LITE": 20.7
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Banqueta delantera 3 plazas Multiflex",
+                "MCA": true,
+                "LITE": false
+            },
+            {
+                "caracteristica": "3 apoyacabezas delanteros regulables",
+                "MCA": true,
+                "LITE": false
+            },
+            {
+                "caracteristica": "Butacas individuales delanteras",
+                "MCA": false,
+                "LITE": true
+            },
+            {
+                "caracteristica": "2 apoyacabezas delanteros regulables",
+                "MCA": false,
+                "LITE": true
+            }
+        ],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS con distribución electrónica y asistencia de frenado",
+            "Airbag conductor y pasajero (con desactivación)",
+            "Inmovilizador",
+            "Cinturones con regulador de esfuerzo y pirotécnicos",
+            "Columna de dirección retráctil",
+            "ESP con desactivación",
+            "Protección bajo motor"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Alzavidrios delanteros eléctricos",
+            "Asiento conductor regulable",
+            "Cierre centralizado con mando a distancia",
+            "Dirección asistida variable",
+            "Espejos exteriores eléctricos",
+            "Focos delanteros automáticos",
+            "Indicador de mantenimiento electrónico",
+            "Control crucero con limitador",
+            "Pantalla 10'' con Carplay & Android Auto",
+            "Doble USB delantero",
+            "Volante regulable en altura y profundidad"
+        ],
+        "exterior": [
+            "Faros halógenos",
+            "Intermitentes laterales",
+            "Llantas acero 16\"",
+            "Protecciones laterales negras"
+        ],
+        "puertas_y_carga": [
+            "2 puertas traseras con apertura 180°",
+            "Puerta lateral corrediza derecha",
+            "Separador de cabina",
+            "8 ganchos en compartimiento de carga (MCA)",
+            "Protección tubular detrás del asiento conductor"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 2 y 3",
+        "fuente": "FT Combo.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exclusivamente desde la tabla visual comparativa del documento."
+    }
+}

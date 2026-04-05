@@ -1,0 +1,234 @@
+{
+    "vehiculo": {
+        "marca": "Omoda-jaecoo",
+        "modelo": "JAECOO 7 SHS",
+        "versiones": [
+            "PATAGONIA",
+            "ANDES"
+        ]
+    },
+    "especificaciones_tecnicas": {
+        "motor_combustion": "1.5L TGDi",
+        "inyeccion": "Directa (DI)",
+        "cilindrada_cc": 1499,
+        "apertura_variable_valvulas": true,
+        "start_stop": true,
+        "auto_hold": true,
+        "potencia_motor_combustion_hp": "141 @5200",
+        "potencia_motor_combustion_kw": "105 @5200",
+        "torque_motor_combustion_nm": "215 @2500",
+        "torque_motor_electrico_nm": "310 @0-4775",
+        "potencia_motor_electrico_hp": "201 @4775-6300",
+        "potencia_motor_electrico_kw": "150 @4775-6300",
+        "energia_bateria_kwh": 18.3,
+        "cargador_dc_kw": 40,
+        "cargador_ac_kw": 6.6,
+        "cargador_emergencia_kw": 3.3,
+        "v2l": true,
+        "direccion": "EPS",
+        "transmision": "DHT (Dedicated Hybrid Transmission)",
+        "traccion": "FWD",
+        "modos_manejo": 3,
+        "frenos": "Discos Ventilados / Discos Sólidos",
+        "llantas": "19\"",
+        "neumaticos": "235/50R19",
+        "combustible": "Gasolina / Eléctrico",
+        "consumo_3cv_km_l": 123.5,
+        "consumo_electrico_km_kwh": 10.3
+    },
+    "dimensiones": {
+        "largo_mm": 4500,
+        "ancho_mm": 1865,
+        "alto_mm": 1680,
+        "distancia_entre_ejes_mm": 2672,
+        "despeje_mm": 200,
+        "angulo_ataque": 21,
+        "angulo_salida": 29,
+        "profundidad_vadeo_mm": 600,
+        "peso_neto_kg": 1870,
+        "peso_bruto_kg": 2210,
+        "capacidad_carga_kg": 340,
+        "maletero_1ra_fila_l": 1335,
+        "maletero_2da_fila_l": 410,
+        "capacidad_remolque_kg": 1350,
+        "tanque_l": 60,
+        "bateria_ah": 40,
+        "pasajeros": 5
+    },
+    "interior": {
+        "Sistema_audio_6_parlantes": {
+            "PATAGONIA": false,
+            "ANDES": true
+        },
+        "Sistema_audio_Sony_8": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "Head_up_display": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "Cargador_inalambrico_50W": {
+            "PATAGONIA": false,
+            "ANDES": true
+        },
+        "Asientos_ventilados_calefaccionados": {
+            "PATAGONIA": false,
+            "ANDES": true
+        },
+        "Memoria_asiento_piloto": {
+            "PATAGONIA": false,
+            "ANDES": true
+        },
+        "Asiento_piloto_bienvenida": {
+            "PATAGONIA": false,
+            "ANDES": true
+        },
+        "Volante_calefaccionado": {
+            "PATAGONIA": false,
+            "ANDES": true
+        }
+    },
+    "exterior": {
+        "Sunroof_panoramico": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "Espejos_calefaccionados": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "Luz_bienvenida_espejos": {
+            "PATAGONIA": true,
+            "ANDES": false
+        }
+    },
+    "seguridad": {
+        "Airbags_frontales": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "Airbags_laterales": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "Airbags_cortina": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "Airbag_rodilla": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "ABS_EBD": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "ESP_TCS": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "HAC": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "HDC": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "Camara_540": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "DVR": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "ISOFIX": {
+            "PATAGONIA": true,
+            "ANDES": true
+        },
+        "TOP_TETHER": {
+            "PATAGONIA": true,
+            "ANDES": true
+        }
+    },
+    "adas": {
+        "BSD": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "RCTA": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "RCTAB": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "LCA": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "TPMS": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "DOW": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "FCW": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "AEB": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "RCW": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "ACC": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "ICA": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "LDW": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "LDP": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "ELK": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "TJA": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "DMS": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "ASL": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "SLA": {
+            "PATAGONIA": true,
+            "ANDES": false
+        },
+        "MCB": {
+            "PATAGONIA": true,
+            "ANDES": false
+        }
+    }
+}

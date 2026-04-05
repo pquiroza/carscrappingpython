@@ -1,0 +1,226 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "FORTUNER",
+        "año": null,
+        "versiones": [
+            "SR5 4x4 TDI 2.8L MT",
+            "SR5 4x4 TDI 2.8L",
+            "SRX 4x4 TDI 2.8L"
+        ]
+    },
+    "motor": {
+        "tipo": "1GD-FTV 4 cilindros en línea con Turbocompresor e Intercooler",
+        "cilindrada": "2755",
+        "potencia_hp": "201",
+        "potencia_rpm": null,
+        "torque_nm": "500",
+        "torque_rpm": null,
+        "combustible": "Diesel",
+        "transmision": "Mecánica (6 velocidades) / Automática (6 velocidades)",
+        "traccion": "4x4 con desconexión automatica de diferencial y A-TRC"
+    },
+    "direccion": {
+        "tipo": "Hidráulica de piñón y cremallera con asistencia variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": null,
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4795",
+        "ancho_mm": "1855",
+        "alto_mm": "1835",
+        "distancia_ejes_mm": "2745",
+        "despeje_suelo_mm": "227",
+        "peso_bruto_kg": "2750",
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": "80"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "SR5_4x4_TDI_2.8L_MT": "17\"",
+            "SR5_4x4_TDI_2.8L": "17\"",
+            "SRX_4x4_TDI_2.8L": "18\""
+        },
+        {
+            "caracteristica": "Neumáticos",
+            "SR5_4x4_TDI_2.8L_MT": "265/65R17",
+            "SR5_4x4_TDI_2.8L": "265/65R17",
+            "SRX_4x4_TDI_2.8L": "265/60R18"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso Bruto (Kg)",
+            "SR5_4x4_TDI_2.8L_MT": "2750",
+            "SR5_4x4_TDI_2.8L": "2750",
+            "SRX_4x4_TDI_2.8L": "2750"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad de remolque con frenos (kg)",
+            "SR5_4x4_TDI_2.8L_MT": "2000",
+            "SR5_4x4_TDI_2.8L": "2000",
+            "SRX_4x4_TDI_2.8L": "2000"
+        },
+        {
+            "caracteristica": "Capacidad de remolque sin frenos (kg)",
+            "SR5_4x4_TDI_2.8L_MT": "750",
+            "SR5_4x4_TDI_2.8L": "750",
+            "SRX_4x4_TDI_2.8L": "750"
+        },
+        {
+            "caracteristica": "Capacidad estanque combustible (L)",
+            "SR5_4x4_TDI_2.8L_MT": "80",
+            "SR5_4x4_TDI_2.8L": "80",
+            "SRX_4x4_TDI_2.8L": "80"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Distancia libre al suelo (mm)",
+            "SR5_4x4_TDI_2.8L_MT": "227",
+            "SR5_4x4_TDI_2.8L": "227",
+            "SRX_4x4_TDI_2.8L": "227"
+        },
+        {
+            "caracteristica": "Ángulo de entrada / salida (mm)",
+            "SR5_4x4_TDI_2.8L_MT": "29 / 25",
+            "SR5_4x4_TDI_2.8L": "29 / 25",
+            "SRX_4x4_TDI_2.8L": "29 / 25"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Transmisión",
+                "SR5_4x4_TDI_2.8L_MT": "Mecánica (6 velocidades)",
+                "SR5_4x4_TDI_2.8L": "Automática (6 velocidades)",
+                "SRX_4x4_TDI_2.8L": "Automática (6 velocidades)"
+            },
+            {
+                "caracteristica": "Alzavidrios eléctrico con “Auto up & down” y sensor de presión",
+                "SR5_4x4_TDI_2.8L_MT": "Sí (Conductor)",
+                "SR5_4x4_TDI_2.8L": "Sí (Conductor)",
+                "SRX_4x4_TDI_2.8L": "Sí (4)"
+            },
+            {
+                "caracteristica": "Espejo Electrocromático",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            },
+            {
+                "caracteristica": "Material de asientos",
+                "SR5_4x4_TDI_2.8L_MT": "Tela",
+                "SR5_4x4_TDI_2.8L": "Tela",
+                "SRX_4x4_TDI_2.8L": "Cuero"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados (Ajuste eléctrico)",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí (Conductor + Copiloto)"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Neblineros",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "LED"
+            },
+            {
+                "caracteristica": "Puerta trasera con cierre eléctrico",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Toyota Safety System",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            },
+            {
+                "caracteristica": "ACC (Control de velocidad crucero adaptativo)",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            },
+            {
+                "caracteristica": "PCS (Sistema de pre-colisión frontal)",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            },
+            {
+                "caracteristica": "LDA (Sistema de alerta de cambio de carril)",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento (Delanteros/Traseros)",
+                "SR5_4x4_TDI_2.8L_MT": null,
+                "SR5_4x4_TDI_2.8L": null,
+                "SRX_4x4_TDI_2.8L": "Sí (2/4)"
+            },
+            {
+                "caracteristica": "DAC (Control Asistencia en Descenso)",
+                "SR5_4x4_TDI_2.8L_MT": "No",
+                "SR5_4x4_TDI_2.8L": "No",
+                "SRX_4x4_TDI_2.8L": "Sí"
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Aire acondicionado (regulador y salidas posteriores)",
+            "Asientos traseros abatibles 60/40",
+            "Cierre a distancia",
+            "Control de mandos al volante",
+            "Volante regulable en altura y telescópico",
+            "Display de información múltiple con pantalla a color de 4,2”(TFT )",
+            "Sistema \"Follow me home\" para DRL",
+            "Sistema de audio: Touchscreen 9\", CarPlay & AndroidAuto inalámbrico, Bluetooth, 6 Parlantes",
+            "Smart Entry y Start & Stop Boton"
+        ],
+        "exterior": [
+            "Faros delanteros LED",
+            "Espejos exteriores abatibles",
+            "Barras techo",
+            "Pisaderas"
+        ],
+        "seguridad": [
+            "Airbags (Nº): 7 (Pasajero + Conductor + Laterales + Cortina + Rodilla conductor)",
+            "Anclajes ISOFIX",
+            "Carrocería con deformación programada (GOA)",
+            "Control de tracción (TRC) y Control de tracción activo (A-TRC)",
+            "Sistema de frenos ABS + EBD + BA",
+            "VSC (Control de Estabilidad)",
+            "HAC (Control Asistencia en Pendientes)",
+            "TSC (Control de balanceo de remolque)",
+            "Inmovilizador de motor (Alarma) Sí (Sí)",
+            "Seguro para niños en puertas traseras",
+            "Cámara de retroceso"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FT_Fortuner.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Extracción desde la tabla de ESPECIFICACIONES TÉCNICAS del Fortuner (pág. 2). Donde la celda no está explícita/legible en la tabla, se dejó null."
+    }
+}

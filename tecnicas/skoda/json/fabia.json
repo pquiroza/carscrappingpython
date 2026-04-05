@@ -1,0 +1,152 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Fabia",
+        "año": null,
+        "versiones": [
+            "Design 1.0 TSI DSG7"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Design 1.0 TSI DSG7": "1,0 TSI"
+        },
+        "cilindrada": {
+            "Design 1.0 TSI DSG7": "1,0"
+        },
+        "potencia_hp": {
+            "Design 1.0 TSI DSG7": "110"
+        },
+        "potencia_rpm": {
+            "Design 1.0 TSI DSG7": "5.000-5.500"
+        },
+        "torque_nm": {
+            "Design 1.0 TSI DSG7": "200"
+        },
+        "torque_rpm": {
+            "Design 1.0 TSI DSG7": "1.500-4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Design 1.0 TSI DSG7": "Automática DSG 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con brazos triangulares inferiores y estabilizador de torsión",
+        "suspension_trasera": "Eje rígido torsional",
+        "frenos_delanteros": "Freno de disco delantero y trasero",
+        "frenos_traseros": "Freno de disco delantero y trasero",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Design 1.0 TSI DSG7": "R17” 215/45 91W XL"
+        },
+        "rueda_repuesto": "Rueda de repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4108,
+        "ancho_mm": 1780,
+        "alto_mm": 1459,
+        "distancia_ejes_mm": 2564,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "380 / 1.190",
+        "capacidad_estanque_lts": 40,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros Full LED",
+            "Faros neblineros delanteros",
+            "Faros traseros LED",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Limpiaparabrisas trasero con control intermitente",
+            "Llantas de aleación/Neumáticos R17” 215/45 91W XL",
+            "Spoiler trasero",
+            "Retrovisores exteriores con ajuste eléctrico, calefactados, abatibles eléctricamente y antideslumbrante",
+            "Retrovisores exteriores color carrocería",
+            "Regulación dinámica para alcance de luces (autoajuste durante la conducción)",
+            "Cámara de retroceso con función de lavado",
+            "Limpiaparabrisas delantero con difusores de lavado térmico",
+            "Vidrios traseros tintados",
+            "“Black Color Concept” – Techo en contraste"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Ajuste del volante en altura y profundidad",
+            "Apoyabrazos central delantero \"Jumbo Box\"",
+            "Asientos delanteros regulables en altura",
+            "Asientos traseros abatibles",
+            "Volante multifunción forrado en cuero",
+            "Palanca de cambio y freno de mano forrados en cuero",
+            "Retrovisor interior con función antideslumbrante",
+            "Tapizado Tela color negro",
+            "Apoyo lumbar ajustable manualmente en asientos delanteros",
+            "Apoyabrazos central trasero",
+            "Asientos delanteros deportivos",
+            "Altavoces 6",
+            "Climatizador “Climatronic” de 2 zonas",
+            "Alfombrilla maletero reversible (tela/goma)",
+            "Botón de encendido",
+            "“Keyless Entry”",
+            "Control crucero con limitador de velocidad",
+            "Paquete Simply Clever: mallas y portaobjetos en maletero, raspador de hielo, embudo para limpiaparabrisas y bolsillos en respaldos de asientos delanteros",
+            "Porta paraguas en lado del conductor (incluye paraguas)",
+            "Sensor de luz y lluvia",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Start-Stop con recuperación de energía",
+            "Modos de conducción"
+        ],
+        "seguridad": [
+            "6 Airbags: frontales, laterales delanteros y de cortina",
+            "Anclaje para asientos de niños",
+            "Bloqueo electrónico de diferencial (EDS)",
+            "Control de asistencia para arranque en pendientes",
+            "Control de tracción electrónico (ASR)",
+            "Inmovilizador electrónico",
+            "Rueda de repuesto",
+            "Ruedas con pernos antirobos",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Testigo visual y acústico de cinturón de seguridad – Asientos delanteros y traseros",
+            "Aviso de presión de neumáticos",
+            "Front Assist: Radar con función frenado de emergencia"
+        ],
+        "tecnologia": [
+            "Entrada USB-C (x2)",
+            "Pantalla Infotainment Touchscreen 8,25\"",
+            "Smart Link Inalámbrico (Android Auto / Apple CarPlay)",
+            "Virtual Cockpit 10,25”"
+        ],
+        "adas": [
+            "Front Assist: Radar con función frenado de emergencia"
+        ]
+    },
+    "colores": [
+        "Gris Grafito",
+        "Plata Brillante",
+        "Blanco Glaciar",
+        "Naranjo Phoenix",
+        "Azul Carrera",
+        "Rojo Velvet",
+        "Negro Magic"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (●=presente; vacío/−=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Fabia-MY25-copy1.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento indica ‘● = De serie’ y ‘◎ = No disponible’. Dimensión ‘Ancho (mm) / (incluyendo espejos)’ aparece como ‘1.780 / 1.954’."
+    }
+}

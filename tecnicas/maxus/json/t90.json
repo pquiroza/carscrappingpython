@@ -1,0 +1,489 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "T90",
+        "año": null,
+        "versiones": [
+            "4X4_MT_6MT",
+            "4X4_AT_8AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4X4_MT_6MT": "SAIC D20 VGT BITURBO",
+            "4X4_AT_8AT": "SAIC D20 VGT BITURBO"
+        },
+        "cilindrada": {
+            "4X4_MT_6MT": null,
+            "4X4_AT_8AT": null
+        },
+        "potencia_hp": {
+            "4X4_MT_6MT": "215",
+            "4X4_AT_8AT": "215"
+        },
+        "potencia_rpm": {
+            "4X4_MT_6MT": "3500",
+            "4X4_AT_8AT": "3500"
+        },
+        "torque_nm": {
+            "4X4_MT_6MT": "500",
+            "4X4_AT_8AT": "500"
+        },
+        "torque_rpm": {
+            "4X4_MT_6MT": "1500-2400",
+            "4X4_AT_8AT": "1500-2400"
+        },
+        "combustible": {
+            "4X4_MT_6MT": "Diesel",
+            "4X4_AT_8AT": "Diesel"
+        },
+        "sistema_alimentacion": {
+            "4X4_MT_6MT": null,
+            "4X4_AT_8AT": null
+        },
+        "norma_emisiones": {
+            "4X4_MT_6MT": "Euro 6C",
+            "4X4_AT_8AT": "Euro 6C"
+        },
+        "transmision": {
+            "4X4_MT_6MT": "6MT",
+            "4X4_AT_8AT": "8 AT"
+        },
+        "traccion": {
+            "4X4_MT_6MT": "4X4",
+            "4X4_AT_8AT": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Ballesta",
+        "frenos_delanteros": "Disco (en 4 ruedas)",
+        "frenos_traseros": "Disco (en 4 ruedas)",
+        "freno_de_mano": "Eléctrico",
+        "neumaticos": {
+            "4X4_MT_6MT": "265/60 R18",
+            "4X4_AT_8AT": "265/60 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5365,
+        "ancho_mm": 1900,
+        "alto_mm": 1809,
+        "distancia_ejes_mm": 3155,
+        "numero_pasajeros": null,
+        "capacidad_estanque_lts": 73,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Largo/Ancho/Alto (mm)",
+            "4X4_MT_6MT": "5365 / 1900 / 1809",
+            "4X4_AT_8AT": "5365 / 1900 / 1809"
+        },
+        {
+            "caracteristica": "Distancia entre ejes (mm)",
+            "4X4_MT_6MT": "3155",
+            "4X4_AT_8AT": "3155"
+        },
+        {
+            "caracteristica": "Voladizo delantero (mm)",
+            "4X4_MT_6MT": "942",
+            "4X4_AT_8AT": "942"
+        },
+        {
+            "caracteristica": "Voladizo trasero (mm)",
+            "4X4_MT_6MT": "1268",
+            "4X4_AT_8AT": "1268"
+        },
+        {
+            "caracteristica": "Dimensiones del pick up (mm)",
+            "4X4_MT_6MT": "1485 (largo en el piso), 1510 (ancho desde arriba), 530 alto",
+            "4X4_AT_8AT": "1485 (largo en el piso), 1510 (ancho desde arriba), 530 alto"
+        },
+        {
+            "caracteristica": "Despeje mínimo al suelo (mm)",
+            "4X4_MT_6MT": "215",
+            "4X4_AT_8AT": "215"
+        },
+        {
+            "caracteristica": "Capacidad de carga pickup",
+            "4X4_MT_6MT": "965",
+            "4X4_AT_8AT": "790"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre (carro con frenos)",
+            "4X4_MT_6MT": "3000",
+            "4X4_AT_8AT": "3000"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre (carro sin frenos)",
+            "4X4_MT_6MT": "750",
+            "4X4_AT_8AT": "750"
+        },
+        {
+            "caracteristica": "Capacidad estanque de combustible (lt)",
+            "4X4_MT_6MT": "73",
+            "4X4_AT_8AT": "73"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/lt)",
+            "4X4_MT_6MT": "10,4",
+            "4X4_AT_8AT": "10,3"
+        },
+        {
+            "caracteristica": "Capacidad estanque de urea (lt)",
+            "4X4_MT_6MT": "13",
+            "4X4_AT_8AT": "13"
+        },
+        {
+            "caracteristica": "Consumo urea",
+            "4X4_MT_6MT": "130g / 100km",
+            "4X4_AT_8AT": "130g / 100km"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular",
+            "4X4_MT_6MT": "3050",
+            "4X4_AT_8AT": "2900"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha",
+            "4X4_MT_6MT": "2085",
+            "4X4_AT_8AT": "2110"
+        },
+        {
+            "caracteristica": "Modos ECO/PWR",
+            "4X4_MT_6MT": true,
+            "4X4_AT_8AT": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces principales LED",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Luz diurna LED",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Luces con encendido automático",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Neblineros",
+                "4X4_MT_6MT": "Traseros",
+                "4X4_AT_8AT": "Traseros"
+            },
+            {
+                "caracteristica": "Espejos con ajuste eléctrico y desempañador",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Espejos abatibles eléctricamente",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "4X4_MT_6MT": false,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Parachoques color carrocería",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Manillas de puertas cromadas",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Espejos cromados",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Portalón trasero con amortiguador",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Cubre pick up tipo \"Spray-in\"",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Gancho de carga pick up",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador + purificador de aire",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Salidas de aire para plazas traseras",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Asientos de cuero",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Asiento de conductor eléctrico con 6 ajustes",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Asiento de copiloto eléctrico con 6 ajustes",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Calefactor de asientos piloto y copiloto",
+                "4X4_MT_6MT": false,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Guantera central climatizada",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital de 10\"",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Computador a bordo",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Pantalla touch 12\" + Bluetooth + USB",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Conexión Apple CarPlay",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "4 parlantes + 2 tweeter",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Llave con control remoto",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Keyless entry con botón Start/Stop",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Volante de cuero multifunción",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "4X4_MT_6MT": false,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Paddle shift",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Alza vidrios eléctricos",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Auto up/down chofer",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Salida 12V delantera",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Salida USB trasera",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS / EBD / EBA",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Alarma de colisión frontal",
+                "4X4_MT_6MT": false,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia",
+                "4X4_MT_6MT": false,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Doble airbag frontal",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Airbag lateral",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Airbag de cortina",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Detector de fatiga del conductor",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Monitor de presión neumáticos",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Sensores estacionamiento traseros",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Sensores estacionamiento delanteros",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Cámara de punto ciego al señalizar",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento eléctrico",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Auto hold",
+                "4X4_MT_6MT": false,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Cinturón 3 puntas en 5 plazas",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Pre-tensor cinturón de seguridad",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Anclajes ISOFIX",
+                "4X4_MT_6MT": "2",
+                "4X4_AT_8AT": "2"
+            },
+            {
+                "caracteristica": "Cierre centralizado con sensor de velocidad",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "4X4_MT_6MT": true,
+                "4X4_AT_8AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; cuando hay una sola columna, aplica a todas las versiones).",
+        "fuente": "MAXUS_FT-T90 Euro 6.pdf",
+        "versiones_en_documento": 2,
+        "notas": null
+    }
+}

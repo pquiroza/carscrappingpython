@@ -1,0 +1,277 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "X50",
+        "año": null,
+        "versiones": [
+            "1.5L_MT_LUX",
+            "1.5T_6DCT_TURBO_LUX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5L_MT_LUX": "1.5L",
+            "1.5T_6DCT_TURBO_LUX": "1.5T"
+        },
+        "cilindrada": {
+            "1.5L_MT_LUX": 1499,
+            "1.5T_6DCT_TURBO_LUX": 1498
+        },
+        "potencia_hp": {
+            "1.5L_MT_LUX": "111",
+            "1.5T_6DCT_TURBO_LUX": "154"
+        },
+        "potencia_rpm": {
+            "1.5L_MT_LUX": null,
+            "1.5T_6DCT_TURBO_LUX": null
+        },
+        "torque_nm": {
+            "1.5L_MT_LUX": "143",
+            "1.5T_6DCT_TURBO_LUX": "230"
+        },
+        "torque_rpm": {
+            "1.5L_MT_LUX": null,
+            "1.5T_6DCT_TURBO_LUX": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.5L_MT_LUX": "Mecánica 5 Velocidades",
+            "1.5T_6DCT_TURBO_LUX": "Automática 6DCT"
+        },
+        "traccion": {
+            "1.5L_MT_LUX": null,
+            "1.5T_6DCT_TURBO_LUX": null
+        },
+        "sistema_alimentacion": "Inyección multipunto"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Independiente Multilink",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco Sólido",
+        "neumaticos": {
+            "1.5L_MT_LUX": null,
+            "1.5T_6DCT_TURBO_LUX": null
+        },
+        "rueda_repuesto": "Neumático de repuesto temporal",
+        "freno_estacionamiento": "Electrónico + Autohold"
+    },
+    "dimensiones": {
+        "largo_mm": 4397,
+        "ancho_mm": 1841,
+        "alto_mm": 1654,
+        "distancia_ejes_mm": 2601,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5L_MT_LUX": null,
+            "1.5T_6DCT_TURBO_LUX": null
+        },
+        "capacidad_maletero_lts": "398 / 1262",
+        "capacidad_estanque_lts": 45,
+        "pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumático aro",
+            "1.5L_MT_LUX": "17",
+            "1.5T_6DCT_TURBO_LUX": "18"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad estanque combustible (L)",
+            "1.5L_MT_LUX": "45",
+            "1.5T_6DCT_TURBO_LUX": "45"
+        },
+        {
+            "caracteristica": "Maletero (L)",
+            "1.5L_MT_LUX": "398 / 1262",
+            "1.5T_6DCT_TURBO_LUX": "398 / 1262"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras LED",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles electrónicamente",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos calefaccionados",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento conductor ajuste eléctrico",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Modo de conducción",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": "Eco / Normal / Sport"
+            },
+            {
+                "caracteristica": "Cubre maletero",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de retroceso",
+                "1.5L_MT_LUX": true,
+                "1.5T_6DCT_TURBO_LUX": false
+            },
+            {
+                "caracteristica": "Airbags de cortinas",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "BSD: Monitoreo de punto ciego",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "Cámara panorámica 360°",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "DOW: Advertencia de colisión lateral apertura de puerta",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "LCW: Advertencia de colisión lateral",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            },
+            {
+                "caracteristica": "RCTA: Asistente de tráfico cruzado posterior",
+                "1.5L_MT_LUX": false,
+                "1.5T_6DCT_TURBO_LUX": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Conectividad",
+                "1.5L_MT_LUX": "Apple CarPlay / Android Auto Inalámbricos",
+                "1.5T_6DCT_TURBO_LUX": "Apple CarPlay / Android Auto Inalámbricos"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "1.5L_MT_LUX": "6",
+                "1.5T_6DCT_TURBO_LUX": "6"
+            },
+            {
+                "caracteristica": "USB Frontales",
+                "1.5L_MT_LUX": "2 USB + C",
+                "1.5T_6DCT_TURBO_LUX": "2 USB + C"
+            },
+            {
+                "caracteristica": "USB Traseros",
+                "1.5L_MT_LUX": "2 USB",
+                "1.5T_6DCT_TURBO_LUX": "2 USB"
+            }
+        ],
+        "adas": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS + EBD",
+            "Airbags doble delantero",
+            "Anclaje ISOFIX",
+            "CCS: Control crucero",
+            "ESP: Control de estabilidad",
+            "HHC: Control de partida en pendiente",
+            "Inmovilizador",
+            "Seguro de niños en puertas traseras",
+            "Sensor de estacionamiento trasero",
+            "TCS: Control de tracción",
+            "TPMS: Monitor de presión de neumáticos"
+        ],
+        "interior": [
+            "Aire acondicionado eléctrico",
+            "Alzavidrios eléctricos (One Button Up & Down)",
+            "Asientos tapiz eco-cuero",
+            "Asientos traseros abatibles 60/40",
+            "Bluetooth",
+            "Cierre centralizado",
+            "Conexión 12V delantera",
+            "Control audio al volante",
+            "Doble pantalla de 10,25\"",
+            "Luces de lectura LED",
+            "Luz con función \"Sígueme a casa\"",
+            "Panel de instrumentos digital",
+            "Parasoles delanteros con espejo de cortesía",
+            "Reposabrazos delantero",
+            "Reposabrazos trasero",
+            "Salida de aire segunda fila",
+            "Smart Key y botón de encendido",
+            "Ventanas antiatrapamiento",
+            "Volante con ajuste en profundidad y altura",
+            "Volante forrado eco-cuero"
+        ],
+        "exterior": [
+            "Alzavidrios automático al salir del vehículo",
+            "Apertura de ventanas a distancia con Smart Key",
+            "Barras de techo",
+            "Cierre automático al salir del vehículo",
+            "Espejos retrovisores eléctricos",
+            "Limpiavidrios trasero",
+            "Luces delanteras automáticas",
+            "Luces diurnas LED",
+            "Luces regulables en altura",
+            "Luces traseras LED",
+            "Neblinero trasero",
+            "Neumático de repuesto temporal",
+            "Señalizadores en espejos retrovisores",
+            "Spoiler trasero"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro",
+        "Blanco",
+        "Azul Cielo",
+        "Gris Plateado",
+        "Gris Grafito"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (●=true, -=false, columna única = aplica a todas las versiones)",
+        "fuente": "JETOUR - FT X50.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Tabla muestra dos versiones: 1.5L MT LUX y 1.5T 6DCT TURBO LUX."
+    }
+}

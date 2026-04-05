@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "KGM",
+        "modelo": "TORRES",
+        "año": null,
+        "versiones": [
+            "GLX 1.5T MT 2WD TR100",
+            "GLX 1.5T AT 2WD TR111"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLX 1.5T MT 2WD TR100": "4 EN LÍNEA, MOTOR LONGITUDINAL",
+            "GLX 1.5T AT 2WD TR111": "4 EN LÍNEA, MOTOR LONGITUDINAL"
+        },
+        "cilindrada": {
+            "GLX 1.5T MT 2WD TR100": 1497,
+            "GLX 1.5T AT 2WD TR111": 1497
+        },
+        "potencia_hp": {
+            "GLX 1.5T MT 2WD TR100": "163",
+            "GLX 1.5T AT 2WD TR111": "163"
+        },
+        "potencia_rpm": {
+            "GLX 1.5T MT 2WD TR100": "5.000 - 5.500",
+            "GLX 1.5T AT 2WD TR111": "5.000 - 5.500"
+        },
+        "torque_nm": {
+            "GLX 1.5T MT 2WD TR100": "280",
+            "GLX 1.5T AT 2WD TR111": "280"
+        },
+        "torque_rpm": {
+            "GLX 1.5T MT 2WD TR100": "1.500 - 4.000",
+            "GLX 1.5T AT 2WD TR111": "1.500 - 4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "GLX 1.5T MT 2WD TR100": "Mecánica 6 velocidades",
+            "GLX 1.5T AT 2WD TR111": "Automática de 6 vel"
+        },
+        "traccion": {
+            "GLX 1.5T MT 2WD TR100": "2WD MT",
+            "GLX 1.5T AT 2WD TR111": "2WD AT"
+        }
+    },
+    "direccion": {
+        "tipo": {
+            "GLX 1.5T MT 2WD TR100": "Electrónicamente",
+            "GLX 1.5T AT 2WD TR111": "Electrónicamente"
+        }
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "GLX 1.5T MT 2WD TR100": "235/55R18",
+            "GLX 1.5T AT 2WD TR111": "235/55R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4700,
+        "ancho_mm": 1890,
+        "alto_mm": 1710,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "GLX 1.5T MT 2WD TR100": 2050,
+            "GLX 1.5T AT 2WD TR111": 2080
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Emisiones de CO2 (g/km)",
+            "GLX 1.5T MT 2WD TR100": "157",
+            "GLX 1.5T AT 2WD TR111": "167"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GLX 1.5T MT 2WD TR100": "12,2",
+            "GLX 1.5T AT 2WD TR111": "11,6"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GLX 1.5T MT 2WD TR100": "16,4",
+            "GLX 1.5T AT 2WD TR111": "15,4"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GLX 1.5T MT 2WD TR100": "14,5",
+            "GLX 1.5T AT 2WD TR111": "13,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Modo de conducción (Normal, Sport, Winter)",
+                "GLX 1.5T MT 2WD TR100": false,
+                "GLX 1.5T AT 2WD TR111": true
+            },
+            {
+                "caracteristica": "Modo de conducción (Normal, Sport)",
+                "GLX 1.5T MT 2WD TR100": true,
+                "GLX 1.5T AT 2WD TR111": false
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Vidrios traseros tinteados",
+            "Espejos exteriores con defroster y ajustables electricamente",
+            "Señalizador LED en los espejos",
+            "Luces LED delanteras y traseras",
+            "Luz día LED"
+        ],
+        "interior": [
+            "Volante regulable en altura y profundidad",
+            "Asientos tapizados en cuero ecológico",
+            "Aire acondicionado digital con climatizador bizona",
+            "Smart Audio de 12,3’’ compatible con CarPlay y Android Auto",
+            "Alzavidrios eléctricos",
+            "Volante multifunción forrado en cuero",
+            "Sistema de audio con Bluetooth y manos libres",
+            "Smart Key",
+            "Control de audio al volante",
+            "Tablero de instrumentos virtual con pantalla de 12,3”",
+            "Control crucero",
+            "Dirección asistida electrónicamente",
+            "Puertos USB - C",
+            "Cierre centralizado de puertas"
+        ],
+        "seguridad": [
+            "Cantidad de airbags: 7",
+            "Frenos ABS",
+            "Control de estabilidad (ESP)",
+            "Sistema de arranque en pendiente (HSA)",
+            "Control de descenso en pendiente (HDC)",
+            "Sistema activo antivuelco (ARP)",
+            "Control de oscilación del remolque",
+            "Sistema de apoyo a la estabilidad del remolque (TSC)",
+            "Sistema de anclaje ISO FIX para sillas de seguridad de niños",
+            "Sensor estacionamiento trasero y delantero",
+            "Cámara de retroceso",
+            "Inmovilizador de motor antirrobo",
+            "Alarma",
+            "Neblineros delanteros con luces LED",
+            "Neblineros traseros",
+            "Freno de estacionamiento eléctrico"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "GRAND PEAR",
+        "SPACE BLACK",
+        "DANDY BLUE",
+        "IRON METAL",
+        "CHERRY RED",
+        "FOREST GREEN",
+        "BEIGE ARENA"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica KGM SsangYong (ticket negro=true, -=false; texto/valores tal cual)",
+        "fuente": "FICHA-TECNICA_TORRES_compressed-3 (1).pdf",
+        "versiones_en_documento": 2,
+        "notas": "Motor: relación de compresión 15.5:1; inyección Directa; sobrealimentación Turbo EWGA; DOHC / 16 válvulas; norma de emisión EURO 6D; país de fabricación Corea del Sur. Dimensiones adicionales: trocha delantera 1.610 mm; trocha trasera 1.630 mm. Peso en orden de marcha (kg): 2.030 (ambas). Capacidad remolque con frenos 1.500 kg (ambas). Capacidad remolque sin frenos (kg): 750 (TR100) y 500 (TR111)."
+    }
+}

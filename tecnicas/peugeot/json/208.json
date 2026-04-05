@@ -1,0 +1,157 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "208",
+        "año": 2025,
+        "versiones": [
+            "1.2 75hp MT Style",
+            "1.2T 100hp MT Style",
+            "1.2T 130hp AT Allure",
+            "1.2 Hybrid 136hp AT Allure"
+        ]
+    },
+    "motor": {
+        "tipo": "1.2 / 1.2 Turbo / 1.2 Hybrid",
+        "cilindrada": "1198",
+        "potencia_hp": "75 / 100 / 130 / 136",
+        "potencia_rpm": "5750 / 5500 / 5500 / 5500",
+        "torque_nm": "118 / 205 / 230 / 205",
+        "torque_rpm": "2750 / 1750 / 1750 / 1750",
+        "combustible": "Gasolina / Híbrido",
+        "transmision": "MT / AT",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor / Discos",
+        "neumaticos": "195/55 R16",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4055",
+        "ancho_mm": "1960 / 1765",
+        "alto_mm": "1430",
+        "distancia_ejes_mm": "2540",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1510 / 1595 / 1630 / 1690",
+        "capacidad_maletero_lts": "352 / 1163",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "75HP_STYLE": "195/55 R16",
+            "100HP_STYLE": "195/55 R16",
+            "130HP_ALLURE": "195/55 R16",
+            "HYBRID_136_ALLURE": "195/55 R16"
+        },
+        {
+            "caracteristica": "Llantas",
+            "75HP_STYLE": "Aluminio",
+            "100HP_STYLE": "Aluminio",
+            "130HP_ALLURE": "Aluminio",
+            "HYBRID_136_ALLURE": "Aluminio"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "75HP_STYLE": "980",
+            "100HP_STYLE": "1090",
+            "130HP_ALLURE": "1158",
+            "HYBRID_136_ALLURE": "1228"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Remolque con freno (kg)",
+            "75HP_STYLE": "500",
+            "100HP_STYLE": "1200",
+            "130HP_ALLURE": "1200",
+            "HYBRID_136_ALLURE": "1200"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Urbano (km/l)",
+            "75HP_STYLE": "13.5",
+            "100HP_STYLE": "18.1",
+            "130HP_ALLURE": "18.2",
+            "HYBRID_136_ALLURE": "30.3"
+        },
+        {
+            "caracteristica": "Extra urbano (km/l)",
+            "75HP_STYLE": "20.8",
+            "100HP_STYLE": "25.3",
+            "130HP_ALLURE": "23.3",
+            "HYBRID_136_ALLURE": "23.3"
+        },
+        {
+            "caracteristica": "Mixto (km/l)",
+            "75HP_STYLE": "17.2",
+            "100HP_STYLE": "22.0",
+            "130HP_ALLURE": "21.1",
+            "HYBRID_136_ALLURE": "25.6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Climatizador automático",
+                "STYLE": false,
+                "ALLURE": true
+            },
+            {
+                "caracteristica": "Keyless",
+                "STYLE": false,
+                "ALLURE": true
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "STYLE": false,
+                "ALLURE": true
+            }
+        ],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Pantalla táctil 10\"",
+            "Bluetooth",
+            "CarPlay / Android Auto inalámbrico",
+            "Alzavidrios eléctricos",
+            "Volante multifunción cuero",
+            "Espejos eléctricos"
+        ],
+        "exterior": [
+            "Llantas aluminio 16\"",
+            "Faros LED",
+            "Luces diurnas LED"
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "ESP",
+            "Hill Assist",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ISOFIX",
+            "TPMS",
+            "Regulador velocidad"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Peugeot 208 MCA 06/2025",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos de la tabla técnica página 2. Equipamiento cruzado Style vs Allure."
+    }
+}

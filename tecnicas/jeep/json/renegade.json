@@ -1,0 +1,211 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Renegade",
+        "año": null,
+        "versiones": [
+            "SPORT",
+            "LONGITUDE"
+        ]
+    },
+    "motor": {
+        "tipo": "1.3T AT6 BZ FWD E6C",
+        "cilindrada": "1332 cc",
+        "potencia_hp": "173 CV",
+        "potencia_rpm": null,
+        "torque_nm": "270 Nm",
+        "torque_rpm": "1850",
+        "combustible": "Gasolina",
+        "transmision": "Automática 6 velocidades",
+        "traccion": "4x2 Delantera"
+    },
+    "direccion": {
+        "tipo": "Dirección de piñón y cremallera, asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson independiente, brazos oscilantes inferiores y barra estabilizadora",
+        "suspension_trasera": "McPherson independiente con brazos transversales/laterales y barra estabilizadora",
+        "neumaticos": {
+            "SPORT": "215/60 R17",
+            "LONGITUDE": "225/55 R18"
+        },
+        "rueda_repuesto": "Tamaño regular"
+    },
+    "dimensiones": {
+        "largo_mm": 4268,
+        "ancho_mm": 1805,
+        "alto_mm": 1696,
+        "distancia_ejes_mm": 2570,
+        "peso_bruto_kg": 1844,
+        "despeje_suelo_mm": 212,
+        "volumen_carga_lts": 320,
+        "capacidad_carga_max_kg": 400,
+        "capacidad_tanque_lts": 60
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "SPORT": "Aleación 17\"",
+            "LONGITUDE": "Aleación 18\" Negras"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "SPORT": 1844,
+            "LONGITUDE": 1844
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad carga máxima (kg)",
+            "SPORT": 400,
+            "LONGITUDE": 400
+        }
+    ],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "SPORT": true,
+                "LONGITUDE": false
+            },
+            {
+                "caracteristica": "Climatizador automático dual",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Asientos tapizados en cuero",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Pantalla tablero TFT",
+                "SPORT": "3.5\"",
+                "LONGITUDE": "7\" color"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "SPORT": 6,
+                "LONGITUDE": 7
+            },
+            {
+                "caracteristica": "Asistente mantenimiento de carril (LKA)",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Monitor punto ciego (BSD)",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Detección fatiga conductor (DDD)",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Alerta colisión frontal",
+                "SPORT": false,
+                "LONGITUDE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla multimedia",
+                "SPORT": "7\"",
+                "LONGITUDE": "8.4\""
+            },
+            {
+                "caracteristica": "Keyless entry",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Botón encendido",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Carga inalámbrica",
+                "SPORT": false,
+                "LONGITUDE": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Neblineros",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "SPORT": false,
+                "LONGITUDE": true
+            },
+            {
+                "caracteristica": "Manillas al color carrocería",
+                "SPORT": true,
+                "LONGITUDE": false
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Asistencia de frenado de emergencia (PBA)",
+            "Control de velocidad crucero (CC)",
+            "Cámara retroceso ParkView",
+            "Control electrónico estabilidad (ESC)",
+            "Asistente partida en pendiente (HSA)",
+            "Sistema control balance remolque",
+            "Sistema mitigación antivuelcos (ERM)",
+            "Sistema LATCH anclaje sillas bebé",
+            "Alarma seguridad",
+            "Cierre centralizado sensible a la velocidad",
+            "Freno estacionamiento eléctrico",
+            "Jeep Traction Control+"
+        ],
+        "interior": [
+            "Apoyabrazos delantero central",
+            "Asientos ajuste manual conductor/copiloto",
+            "Centro información vehículo",
+            "Guantera iluminada con llave",
+            "Pantalla temperatura exterior",
+            "Sujetalentes conductor",
+            "Toma auxiliar 12V",
+            "Cubierta e iluminación compartimento carga"
+        ],
+        "exterior": [
+            "Antena tipo mástil corta",
+            "Barras laterales techo",
+            "Cubierta carga reversible",
+            "Tapa combustible con cierre eléctrico",
+            "Espejos eléctricos con señalizadores",
+            "Faros con temporizador",
+            "Gancho tiro delantero",
+            "Ganchos amarra carga",
+            "Luces LED diurnas",
+            "Limpiaparabrisas trasero",
+            "Limitador velocidad",
+            "Molduras laterales",
+            "Rueda repuesto tamaño regular",
+            "Señalizadores laterales",
+            "Sistema llenado combustible sin tapón"
+        ],
+        "tecnologia": [
+            "6 parlantes",
+            "Conectividad inalámbrica Apple CarPlay / Android Auto"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 1 y 2",
+        "fuente": "FT-RENEGADE.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exclusivamente desde la tabla visual del documento."
+    }
+}

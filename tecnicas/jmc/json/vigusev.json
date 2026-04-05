@@ -1,0 +1,331 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "VIGUS EV",
+        "año": null,
+        "versiones": [
+            "VIGUS EV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "VIGUS EV": "DE IMÁN PERMANENTE SINCRÓNICO"
+        },
+        "cilindrada": {
+            "VIGUS EV": null
+        },
+        "potencia_hp": {
+            "VIGUS EV": "161"
+        },
+        "potencia_rpm": {
+            "VIGUS EV": null
+        },
+        "torque_nm": {
+            "VIGUS EV": "320"
+        },
+        "torque_rpm": {
+            "VIGUS EV": null
+        },
+        "combustible": "CORRIENTE",
+        "transmision": {
+            "VIGUS EV": "ACCIONAMIENTO ELÉCTRICO"
+        },
+        "traccion": "TRASERA"
+    },
+    "direccion": {
+        "tipo": "ELECTROASISTIDA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "PAQUETE DE RESORTE INDEPENDIENTE",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "DISCOS",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "VIGUS EV": "265/65 R17"
+        },
+        "rueda_repuesto": "265/65 R17"
+    },
+    "dimensiones": {
+        "largo_mm": 5375,
+        "ancho_mm": 1905,
+        "alto_mm": 1835,
+        "distancia_ejes_mm": 3085,
+        "despeje_suelo_mm": 230,
+        "peso_bruto_kg": 3495,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con apertura y cierre eléctrico",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejo retrovisor",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Cierre de puertas con comando a distancia",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Follow me home",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Parachoques a tono de carrocería",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Faros halógenos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Barras antivuelco",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Guardafangos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Presión de inflado PSI",
+                "VIGUS EV": "32"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "VIGUS EV": "265/65 R17"
+            },
+            {
+                "caracteristica": "Neumático de repuesto tipo / medida",
+                "VIGUS EV": "265/65 R17"
+            },
+            {
+                "caracteristica": "Llantas",
+                "VIGUS EV": "ALEACIÓN"
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "VIGUS EV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Anti trap",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "VIGUS EV": "ECO CUERO"
+            },
+            {
+                "caracteristica": "Asiento del piloto ajustable manual",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto deslizable y con ajuste manual",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Bolsillo porta mapa puertas delanteras",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Sensor de presión de neumáticos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Bolsillo porta revista respaldo de asientos delanteros",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Radio",
+                "VIGUS EV": "APPLE CAR PLAY & ANDROID AUTO"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "VIGUS EV": "7”MP5"
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Luz delantera para lectura de mapas",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Parasol con espejo de cortesía",
+                "VIGUS EV": "COPILOTO"
+            },
+            {
+                "caracteristica": "Portaanteojos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Portavasos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antirreflejo",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Regulador de altura de faros",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Tacómetro",
+                "VIGUS EV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema antirrobo (llave codificada)",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Alarma",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Apoya cabezas delanteros y traseros",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Airbags delanteros",
+                "VIGUS EV": 2
+            },
+            {
+                "caracteristica": "ABS (control antideslizante)",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Barra acero laterales de puerta",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Carrocería con zona de deformación programada",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Cinturones traseros laterales de tres puntas",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros con bloqueo de emergencia",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Cinturón trasero central",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Luz indicador del no uso del cinturón de seguridad del conductor",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Carrocería y jaula integrada",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Parachoques con sistema de absorción de impactos",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Seguros de niños en puertas traseras",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Alarma puerta abierta (luz piloto en tablero)",
+                "VIGUS EV": true
+            },
+            {
+                "caracteristica": "Alarma de olvido de llaves",
+                "VIGUS EV": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "PLATA",
+        "GRIS",
+        "BLANCO",
+        "AZUL"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.VIGUSEV-.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Batería: fosfato de hierro y litio; capacidad acumulación energía 60 kWh; sistema voltaje AC&DC; capacidad carga baterías 173 A; entrada voltaje carga vehículo IEC (EUROPEO). Autonomía NEDC 332 km; autonomía máxima a 40 km/h 510 km; velocidad máxima 110 km/h; normativa europea. Tipo recarga: carga rápida potencia ≤120 kW (0-80% 1 hora) y carga lenta 6.6 kW (0-80% 10 horas). Carga domiciliaria: conector AC (modo 2) CCS2 hacia vehículo y lado red eléctrica, tensión nominal 220V, corriente máxima 173A, norma cable QC/T 29106-2014. Carga rápida red pública: modo 4, conector CCS2, tensión nominal 376V, corriente máxima 173A. Dimensiones/capacidades adicionales: N° puertas 4; voladizo trasero 1280 mm; voladizo delantero 1010 mm; máxima capacidad de ascenso 30%; capacidad de arranque en pendiente 25%; capacidad de carga 1390 kg."
+    }
+}

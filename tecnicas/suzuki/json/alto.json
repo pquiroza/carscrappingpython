@@ -1,0 +1,173 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Alto",
+        "año": null,
+        "versiones": [
+            "GL MT",
+            "GL MT PLUS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL MT": "K10C",
+            "GL MT PLUS": "K10C"
+        },
+        "cilindrada": {
+            "GL MT": 998,
+            "GL MT PLUS": 998
+        },
+        "potencia_hp": {
+            "GL MT": "66",
+            "GL MT PLUS": "67"
+        },
+        "potencia_rpm": {
+            "GL MT": "6.000",
+            "GL MT PLUS": "5.600"
+        },
+        "torque_nm": {
+            "GL MT": "89",
+            "GL MT PLUS": "91,2"
+        },
+        "torque_rpm": {
+            "GL MT": "3.500",
+            "GL MT PLUS": "4.300"
+        },
+        "combustible": null,
+        "transmision": {
+            "GL MT": "5MT",
+            "GL MT PLUS": "5MT"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Barra de torsión con resorte",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor y zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GL MT": "145/80 R13",
+            "GL MT PLUS": "145/80 R13"
+        },
+        "rueda_repuesto": "145/80 R13"
+    },
+    "dimensiones": {
+        "largo_mm": 3530,
+        "ancho_mm": 1490,
+        "alto_mm": 1520,
+        "distancia_ejes_mm": 2380,
+        "despeje_suelo_mm": 167,
+        "peso_bruto_kg": {
+            "GL MT": 1150,
+            "GL MT PLUS": 1168
+        },
+        "capacidad_maletero_lts": 214,
+        "capacidad_estanque_lts": 27,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GL MT": "17,7",
+            "GL MT PLUS": "16,7"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GL MT": "25,8",
+            "GL MT PLUS": "24,4"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GL MT": "22,1",
+            "GL MT PLUS": "20,9"
+        },
+        {
+            "caracteristica": "Norma de emisiones",
+            "GL MT": "Euro 6B",
+            "GL MT PLUS": "Euro 6C"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag laterales (2) y cortina (2)",
+                "GL MT": false,
+                "GL MT PLUS": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros de 3 puntas con pretensores",
+                "GL MT": false,
+                "GL MT PLUS": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad traseros de tres puntas",
+                "GL MT": 2,
+                "GL MT PLUS": 3
+            },
+            {
+                "caracteristica": "Alerta de cinturones de seguridad traseros",
+                "GL MT": false,
+                "GL MT PLUS": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos color carrocería",
+            "Parachoques color carrocería",
+            "Manillas exteriores color carrocería"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Calefacción",
+            "Comando de radio al volante",
+            "Cierre centralizado con comando a distancia",
+            "Computador a bordo",
+            "Alzavidrios eléctricos delanteros",
+            "Radio multimedia con pantalla táctil 7”",
+            "Android Auto/Apple CarPlay",
+            "Apertura tapa de gasolina desde interior",
+            "Apertura de portalón trasero desde interior",
+            "Luz interior de cabina (3 posiciones)",
+            "Desempañador de vidrio trasero",
+            "Salida 12V"
+        ],
+        "seguridad": [
+            "Programa de estabilidad electrónica (ESP)",
+            "Doble airbag frontal",
+            "Anclaje Isofix (2)",
+            "Seguro niños puertas trasera",
+            "Sistema inmovilizador anti-robo",
+            "Alerta uso de cinturones de seguridad delanteros",
+            "Sensores de retroceso",
+            "Frenos delanteros discos ventilados",
+            "Frenos traseros tambor y zapata",
+            "Sistema de frenos ABS"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Gris",
+        "Plata",
+        "Rojo",
+        "Negro",
+        "Azul"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/V=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "suzuki-alto_ficha-tecnica-gl-y-gl-plus-v2.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

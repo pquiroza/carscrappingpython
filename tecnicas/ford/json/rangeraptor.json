@@ -1,0 +1,312 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "RANGER RAPTOR",
+        "año": null,
+        "versiones": [
+            "Raptor Cabina Doble 4x4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Raptor Cabina Doble 4x4": "3.0L Nano V6 Biturbo"
+        },
+        "cilindrada": {
+            "Raptor Cabina Doble 4x4": 2.956
+        },
+        "potencia_hp": {
+            "Raptor Cabina Doble 4x4": "288"
+        },
+        "potencia_rpm": {
+            "Raptor Cabina Doble 4x4": "5500"
+        },
+        "torque_nm": {
+            "Raptor Cabina Doble 4x4": "491"
+        },
+        "torque_rpm": {
+            "Raptor Cabina Doble 4x4": "2300"
+        },
+        "combustible": {
+            "Raptor Cabina Doble 4x4": "Gasolina"
+        },
+        "inyeccion": {
+            "Raptor Cabina Doble 4x4": "Directa"
+        },
+        "transmision": {
+            "Raptor Cabina Doble 4x4": "Automática secuencial / 10 velocidades"
+        },
+        "traccion": {
+            "Raptor Cabina Doble 4x4": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica (EPAS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "amortiguadores": "Fox Live Valve 2.5\"",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_mano_electronico": true,
+        "abs_ebd": true,
+        "neumaticos": {
+            "Raptor Cabina Doble 4x4": "285/70 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5381,
+        "ancho_mm": {
+            "con_espejos": 2208,
+            "sin_espejos": 1918
+        },
+        "alto_mm": 1922,
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": 265,
+        "peso_bruto_kg": {
+            "Raptor Cabina Doble 4x4": 3130
+        },
+        "peso_vacio_kg": {
+            "Raptor Cabina Doble 4x4": 2432
+        },
+        "capacidad_estanque_lts": 82,
+        "capacidad_carga_kg": 698,
+        "capacidad_remolque_kg": "2500 / 750",
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_offroad": [
+        {
+            "caracteristica": "Ángulo de ataque",
+            "Raptor Cabina Doble 4x4": "31°"
+        },
+        {
+            "caracteristica": "Ángulo de salida",
+            "Raptor Cabina Doble 4x4": "24°"
+        },
+        {
+            "caracteristica": "Capacidad de vadeo (mm)",
+            "Raptor Cabina Doble 4x4": "850"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas aleación 17\"",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Stickers deportivos Raptor",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Parrilla diseño exclusivo Ford",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Parachoque frontal off-road con protector acero",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Parachoque trasero",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Cubre pickup",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Pisaderas laterales aluminio reforzado",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "4 ganchos de remolque",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Luces diurnas LED",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Focos delanteros Matrix LED",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Neblineros LED",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Chasis reforzado",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Portalón trasero con asistencia",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Barra remolque con cableado y conector",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Sistema iluminación por zona",
+                "Raptor Cabina Doble 4x4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos eléctricos 8 posiciones",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Tapizado cuero / gamuza / sintético",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Volante cuero deportivo",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Palanca cambios electrónica",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Keyless",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Botón encendido Ford Power",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Climatizador automático bi-zona",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Luz ambiente",
+                "Raptor Cabina Doble 4x4": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sync 4 pantalla 12\"",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Panel digital 12.4\"",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Sistema audio premium B&O 8 parlantes",
+                "Raptor Cabina Doble 4x4": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Airbags cortina",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Airbag rodilla conductor",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "ESP",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "TCS",
+                "Raptor Cabina Doble 4x4": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "HLA",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "HDC",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Sensores estacionamiento delanteros y traseros",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "ACC Stop & Go con centrado carril",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Sistema mantenimiento carril",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "BLIS con alerta tráfico cruzado",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Trail Control Off-Road",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Modos conducción (7)",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Modos escape (4)",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Modos suspensión (3)",
+                "Raptor Cabina Doble 4x4": true
+            },
+            {
+                "caracteristica": "Pro Trailer Backup Assist",
+                "Raptor Cabina Doble 4x4": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Naranjo Tigre",
+        "Blanco Ártico",
+        "Gris Meteorito",
+        "Negro Absoluto",
+        "Plata Metálico",
+        "Azul Performance",
+        "Gris Piedra",
+        "Naranja Terra"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar (1 versión)",
+        "fuente": "fcl-performance-ficha-tecnica-ranger-raptor.pdf",
+        "versiones_en_documento": 1,
+        "notas": null
+    }
+}

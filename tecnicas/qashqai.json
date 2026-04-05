@@ -1,0 +1,416 @@
+{
+  "vehiculo": {
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "versiones": [
+      "ADVANCE MT",
+      "ADVANCE CVT",
+      "ADVANCE CVT PLUS",
+      "EXCLUSIVE CVT 4WD"
+    ]
+  },
+  "motor": {
+    "tipo": "1.3 turbo",
+    "cilindrada": "4 cilindros",
+    "potencia_hp": "155 / 5.500",
+    "torque_nm": "265 / 4.600",
+    "combustible": "95 octanos o superior",
+    "transmision": "MT 6 velocidades / CVT",
+    "traccion": "2WD / 4WD"
+  },
+  "dimensiones": {
+    "ancho_mm": "1.835",
+    "alto_mm": "1.625",
+    "distancia_ejes_mm": "2.665",
+    "peso_bruto_kg": "1.935-2.040"
+  },
+  "suspension_frenos": {
+    "suspension_delantera": "MacPherson",
+    "suspension_trasera": "Multi-link",
+    "frenos_delanteros": "Discos ventilados",
+    "frenos_traseros": "Discos ventilados"
+  },
+  "tabla_comparativa_ruedas": [
+    {
+      "caracteristica": "Llantas",
+      "ADVANCE MT": "18\" Aluminio",
+      "ADVANCE CVT": "18\" Aluminio",
+      "ADVANCE CVT PLUS": "19\" Aluminio",
+      "EXCLUSIVE CVT 4WD": "20\" Aluminio"
+    },
+    {
+      "caracteristica": "Neumáticos",
+      "ADVANCE MT": "235/55R18",
+      "ADVANCE CVT": "235/55R18",
+      "ADVANCE CVT PLUS": "235/50R19",
+      "EXCLUSIVE CVT 4WD": "235/45R20"
+    }
+  ],
+  "tabla_comparativa_peso": [
+    {
+      "caracteristica": "Peso neto (kg)",
+      "ADVANCE MT": "1.386 - 1.416",
+      "ADVANCE CVT": "1.469 - 1.500",
+      "ADVANCE CVT PLUS": "1.469 - 1.500",
+      "EXCLUSIVE CVT 4WD": "1.565 - 1.571"
+    },
+    {
+      "caracteristica": "Peso bruto (kg)",
+      "ADVANCE MT": "1.935",
+      "ADVANCE CVT": "1.985",
+      "ADVANCE CVT PLUS": "1.985",
+      "EXCLUSIVE CVT 4WD": "2.040"
+    }
+  ],
+  "tabla_comparativa_capacidades": [
+    {
+      "caracteristica": "Pasajeros",
+      "ADVANCE MT": "5",
+      "ADVANCE CVT": "5",
+      "ADVANCE CVT PLUS": "5",
+      "EXCLUSIVE CVT 4WD": "5"
+    },
+    {
+      "caracteristica": "Capacidad maletero (lts)",
+      "ADVANCE MT": "430",
+      "ADVANCE CVT": "430",
+      "ADVANCE CVT PLUS": "430",
+      "EXCLUSIVE CVT 4WD": "430"
+    },
+    {
+      "caracteristica": "Capacidad tanque combustible (lts)",
+      "ADVANCE MT": "55",
+      "ADVANCE CVT": "55",
+      "ADVANCE CVT PLUS": "55",
+      "EXCLUSIVE CVT 4WD": "55"
+    }
+  ],
+  "tabla_comparativa_rendimiento": [
+    {
+      "caracteristica": "Ciudad (km/lts)",
+      "ADVANCE MT": "14,5",
+      "ADVANCE CVT": "13,4",
+      "ADVANCE CVT PLUS": "13,4",
+      "EXCLUSIVE CVT 4WD": "13,4"
+    },
+    {
+      "caracteristica": "Carretera (km/lts)",
+      "ADVANCE MT": "20,4",
+      "ADVANCE CVT": "18,0",
+      "ADVANCE CVT PLUS": "18,0",
+      "EXCLUSIVE CVT 4WD": "18,0"
+    },
+    {
+      "caracteristica": "Mixto (km/lts)",
+      "ADVANCE MT": "17,8",
+      "ADVANCE CVT": "16,0",
+      "ADVANCE CVT PLUS": "16,0",
+      "EXCLUSIVE CVT 4WD": "16,0"
+    }
+  ],
+  "equipamiento_diferencial_detallado": {
+    "interior": [
+      {
+        "caracteristica": "Retrovisor interior antideslumbrante manual",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": false
+      },
+      {
+        "caracteristica": "Retrovisor interior antideslumbrante automático",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 7\"",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": false
+      },
+      {
+        "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 12,3\"",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Control crucero inteligente (ICC) y ajuste de límite de velocidad (ASL)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Volante de cuero sintético",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Palanca de velocidades de cuero sintético",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Palanca de velocidades de resina",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": false
+      },
+      {
+        "caracteristica": "Paddle Shifter",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Modo de manejo: Normal, Eco, Sport, Snow, Off-road",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Pantalla Head Up (HUD)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Asientos de cuero sintético y tela",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Ajuste de asientos delanteros: conductor eléctrico, pasajero manual (sin altura/lumbar)",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": false
+      },
+      {
+        "caracteristica": "Ajuste de asientos delanteros: conductor eléctrico, pasajero manual (con altura/lumbar)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Asientos calefactables conductor y pasajero delantero",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Aire acondicionado automático de doble zona",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Apertura manual de maletero",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": false
+      },
+      {
+        "caracteristica": "Apertura maletero eléctrico, cerrado automático y manos libres",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Pantalla táctil de 8\" + 6 parlantes",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": false
+      },
+      {
+        "caracteristica": "Pantalla táctil de 12,3\" + Bose + 10 parlantes",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      }
+    ],
+    "exterior": [
+      {
+        "caracteristica": "Cristales tintados (puertas traseras) y cristal trasero con privacidad",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Limpia parabrisas automático variable, intermitente y con sensor de velocidad",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Faros delanteros LED con nivelador automático, adaptador de destellos + direccional de LED + con encendido automático",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Faros de niebla LED",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Faros traseros LED + direccional LED",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Techo panorámico de cristal fijo con cortina eléctrica",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": true
+      }
+    ],
+    "tecnologia": [
+      {
+        "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Alerta de abandono de carril (LDW)",
+        "ADVANCE MT": true,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Prevención de cambio de carril (LDP)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Alerta de colisión predictiva (P-FCW)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Frenado de emergencia frontal (FEB)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": true,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Alerta de punto ciego (BSW)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Alerta de punto ciego con intervención (BSI)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Alerta de atención al conductor (DAA)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": true,
+        "EXCLUSIVE CVT 4WD": true
+      },
+      {
+        "caracteristica": "Monitor de visión periférica en 360° (AVM) + detector de objetos en movimiento (MOD)",
+        "ADVANCE MT": false,
+        "ADVANCE CVT": false,
+        "ADVANCE CVT PLUS": false,
+        "EXCLUSIVE CVT 4WD": true
+      }
+    ]
+  },
+  "equipamiento_estandar_todas_versiones": {
+    "interior": [
+      "Control de velocidad (ASC) y ajuste de límite de velocidad (ASL)",
+      "Aire acondicionado manual",
+      "Volante con ajuste de altura y telescópico",
+      "Freno de mano eléctrico (EPK-B) con función Auto Hold",
+      "Cristales delanteros y traseros de un solo toque",
+      "Seguros eléctricos",
+      "Botón de encendido y apagado de motor (Push engine start) ligado con la llave inteligente i-KEY",
+      "Desbloqueo de seguros remotos con i-KEYS y con función Hands Free",
+      "Modos de manejo: Normal, Eco Sport",
+      "Asientos traseros abatibles 60/40+Individuales",
+      "Consola central con descansabrazos",
+      "Tomacorriente de 12V: 2 (1 en tablero y 1 en maletero)",
+      "Tomacorriente USB: 2 (1 tipo A y 1 tipo C) para asientos traseros",
+      "Funcionalidad Apple Carplay & Android Auto"
+    ],
+    "exterior": [
+      "Cámara visión trasera",
+      "Llanta de refacción temporal tamaño mediano 17\" acero (215/65 R17)",
+      "Limpiaparabrisas manual variable",
+      "Cristal trasero con desempañante",
+      "Espejos retrovisores exteriores con ajuste eléctrico, plegables automáticos y calefactables",
+      "Faros traseros LED con encendido automático y ajuste de altura manual",
+      "Faros traseros LED + direccional (Filamento)",
+      "Luces de circulación diurna LED",
+      "Direccionales en espejos exteriores",
+      "Rieles en el techo"
+    ],
+    "seguridad": [
+      "Cierre de puertas para niños (Child lock)",
+      "Inmovilizador y alarma",
+      "Cinturones de seguridad de 3 puntos",
+      "Cinturones de seguridad frontales y traseros de 3 puntos con limitador y pretensionador",
+      "Anclaje ISOFIX",
+      "Airbags frontales, conductor y pasajero (2)",
+      "Airbags laterales (2) y cortina (2)",
+      "Control dinámico vehicular (VDC)",
+      "Asistente de ascenso en pendientes (HSA)",
+      "Sensores de estacionamiento 4 frontales, 4 traseros",
+      "Asistente de frenado (BA)",
+      "Sistema antibloqueo de frenos (ABS)",
+      "Distribución electrónica de frenado (EBD)"
+    ]
+  }
+}

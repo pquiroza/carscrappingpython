@@ -1,0 +1,236 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C 200",
+        "año": null,
+        "versiones": [
+            "AMG Line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "AMG Line": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "AMG Line": 1496
+        },
+        "potencia_hp": {
+            "AMG Line": "204 CV (+20 CV)"
+        },
+        "potencia_rpm": {
+            "AMG Line": null
+        },
+        "torque_nm": {
+            "AMG Line": "300 Nm (+200 Nm)"
+        },
+        "torque_rpm": {
+            "AMG Line": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "AMG Line": "9G-TRONIC"
+        },
+        "traccion": "Trasera"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "AMG Line": "Delante: 225/45 R18 - Detrás: 255/40 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 455,
+        "capacidad_estanque_lts": 66,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "AMG Line": "14,7"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "AMG Line": "246"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "AMG Line": "7,3s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "AMG Line": "AMG Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "AMG Line": "AMG de 18\" y diseño de 5 radios"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "AMG Line": "Delante: 225/45 R18 - Detrás: 255/40 R18"
+            },
+            {
+                "caracteristica": "Luces LED HIGH PERFORMANCE",
+                "AMG Line": "Incluye luces de carretera automáticas"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "AMG Line": "Incluye cierre automático en caso de lluvia"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Kit estético interior",
+                "AMG Line": "AMG Line"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "AMG Line": "Cuero ártico"
+            },
+            {
+                "caracteristica": "Volante",
+                "AMG Line": "Volante deportivo multifunción forrado en napa"
+            },
+            {
+                "caracteristica": "Moldura",
+                "AMG Line": "Estructura metálica"
+            },
+            {
+                "caracteristica": "Asientos deportivos delanteros",
+                "AMG Line": "Incluye apoyo lumbar con 4 vías de ajuste"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "AMG Line": "Automática de 2 zonas"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles",
+                "AMG Line": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie (incluye Windowbags+Airbag de rodillas)",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Neumáticos RUNFLAT",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Sistema de alerta por cansancio ATTENTION ASSIST",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Sistema de frenos ADAPTIVE BRAKE con función HOLD",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Tren de rodaje AGILITY CONTROL",
+                "AMG Line": "Incluye sistema de amortiguación selectivo"
+            },
+            {
+                "caracteristica": "Servofreno de emergencia ACTIVO",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Indicación del estado de cinturones de seguridad traseros",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia por desgaste de pastillas de freno",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Avisador pérdida de presión en neumáticos",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Frenos ABS con servofreno de emergencia BAS y ASR",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Sistema electrónico de estabilidad ESP",
+                "AMG Line": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "AMG Line": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "AMG Line": "Pantalla de 11,9 pulgadas"
+            },
+            {
+                "caracteristica": "Puesto de conducción con pantalla ancha",
+                "AMG Line": "Pantalla de 12,3 pulgadas"
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "AMG Line": "Apple CarPlay / Android Auto"
+            },
+            {
+                "caracteristica": "Carga inalámbrica para dispositivos delante",
+                "AMG Line": true
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "AMG Line": "Incluye cámara de marcha atrás"
+            },
+            {
+                "caracteristica": "Retrovisores abatibles eléctricamente",
+                "AMG Line": "Incluye tecnología antideslumbranmiento"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "AMG Line": "Incluye 10 opciones de ambientes cromáticos"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "AMG Line": "Automática de 2 zonas"
+            },
+            {
+                "caracteristica": "Limpiaparabrisas automático",
+                "AMG Line": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; si el ítem/valor aparece centrado se aplica a todas las versiones).",
+        "fuente": "Ficha_Técnica_C_200 AMG_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Documento con secciones: Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior y Equipamiento Interior para Clase C 200 (AMG Line)."
+    }
+}

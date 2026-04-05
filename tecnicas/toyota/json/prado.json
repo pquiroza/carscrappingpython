@@ -1,0 +1,201 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "LAND CRUISER PRADO",
+        "año": null,
+        "versiones": [
+            "WX",
+            "VX-L"
+        ]
+    },
+    "motor": {
+        "tipo": "2.8 TD 1GD-FTV 4 cilindros en línea (Turbo Diesel)",
+        "cilindrada": "2755",
+        "potencia_hp": "201",
+        "potencia_rpm": "3000-3400",
+        "torque_nm": "500",
+        "torque_rpm": "1600-2800",
+        "combustible": "Diesel",
+        "transmision": "8 AT",
+        "traccion": "4x4"
+    },
+    "direccion": {
+        "tipo": "Eléctrica (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Rígida de cuatro brazos con control lateral",
+        "frenos_delanteros": "Disco (18\")",
+        "frenos_traseros": "Disco (17\")",
+        "neumaticos": {
+            "WX": "265/65R18",
+            "VX_L": "265/60R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4925",
+        "ancho_mm": "1980",
+        "alto_mm": "1935",
+        "distancia_ejes_mm": "2850",
+        "despeje_suelo_mm": "215",
+        "peso_bruto_kg": "3100",
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": "80"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "WX": "18\" aluminio Matte Gray",
+            "VX_L": "20\" Black Design"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad pasajeros",
+            "WX": "7",
+            "VX_L": "7"
+        },
+        {
+            "caracteristica": "Capacidad arrastre (kg)",
+            "WX": "1500",
+            "VX_L": "1500"
+        },
+        {
+            "caracteristica": "Capacidad vadeo (mm)",
+            "WX": "700",
+            "VX_L": "700"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ángulo de ataque",
+            "WX": "32°",
+            "VX_L": "32°"
+        },
+        {
+            "caracteristica": "Ángulo de salida",
+            "WX": "22°",
+            "VX_L": "22°"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Ajuste asiento conductor",
+                "WX": "Eléctrico",
+                "VX_L": "Eléctrico con memoria"
+            },
+            {
+                "caracteristica": "Ajuste asiento pasajero",
+                "WX": "Manual",
+                "VX_L": "Eléctrico con memoria"
+            },
+            {
+                "caracteristica": "Volante regulable",
+                "WX": "Manual",
+                "VX_L": "Eléctrico"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "WX": "Cuero sintético",
+                "VX_L": "Cuero"
+            },
+            {
+                "caracteristica": "Tercera fila",
+                "WX": "Manual",
+                "VX_L": "Eléctrica"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "WX": false,
+                "VX_L": true
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "WX": false,
+                "VX_L": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Puerta maletero",
+                "WX": "Eléctrico",
+                "VX_L": "Eléctrico + Kick Sensor"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "AHS (luces adaptativas)",
+                "WX": false,
+                "VX_L": true
+            },
+            {
+                "caracteristica": "BSM + SAE",
+                "WX": false,
+                "VX_L": true
+            },
+            {
+                "caracteristica": "Suspensión AVS",
+                "WX": false,
+                "VX_L": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial trasero",
+                "WX": "Eléctrico",
+                "VX_L": "Con LSD"
+            },
+            {
+                "caracteristica": "Desconexión barra estabilizadora",
+                "WX": true,
+                "VX_L": false
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador dual multizona",
+            "Pantalla 12.3\" Touch",
+            "Smart key & botón encendido",
+            "Cargador inalámbrico",
+            "Sistema IDLE UP",
+            "Cool Box",
+            "Guantera refrigerada",
+            "Asientos delanteros climatizados"
+        ],
+        "exterior": [
+            "Faros LED",
+            "Neblineros LED",
+            "Barras techo",
+            "Espejos eléctricos",
+            "Limpia faros"
+        ],
+        "seguridad": [
+            "Toyota Safety Sense 3",
+            "ACC",
+            "PCS",
+            "LTA",
+            "AHB",
+            "ABS + EBD + BA",
+            "VSC",
+            "HAC",
+            "DAC",
+            "Crawl Control",
+            "Multi Terrain Select",
+            "Airbags 8",
+            "ISOFIX",
+            "Cámara 360°",
+            "Sensor retroceso",
+            "Inmovilizador + alarma"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FT_Prado_B0vdK6t.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos copiados directamente de la tabla WX / VX-L."
+    }
+}

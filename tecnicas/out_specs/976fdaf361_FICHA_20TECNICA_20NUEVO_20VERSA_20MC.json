@@ -1,0 +1,556 @@
+{
+  "pdf": "out_nissan_brand/pdfs/976fdaf361_FICHA_20TECNICA_20NUEVO_20VERSA_20MC.pdf",
+  "versions": [
+    "SENSE MT 15\" Aluminio",
+    "SENSE CVT 15\" Aluminio",
+    "ADVANCE MT 16\" Aluminio",
+    "EXCLUSIVE CVT 17\" Aluminio"
+  ],
+  "base_specs_or_equipment": {
+    "ESPECIFICACIC": "NES TÉCNICAS",
+    "Motor": "1,6",
+    "Pistón, diámetro y carrera (mm)": "78 X83.6",
+    "Número de válvulas": "4 por cilindro",
+    "Potencia (hp / rpm)": "118 6.300",
+    "Torque (nm rpm)": "149 1 4.000",
+    "Sistema de alimentación de combustible": "Inyección Secuencial Multipunto",
+    "Relación de compresión": "10,8:1",
+    "Combustible recomendado": "93 octanos 0 superior",
+    "Llanta de repuesto": "Temporal",
+    "Norma de emisiones": "Euro 6B",
+    "Tipo de dirección": "Eléctrica",
+    "Delantera": "Independiente tipo Mc Pherson con barra estabilizadora",
+    "Trasera": "Eje semirrígido",
+    "FRED": "NOS",
+    "Delanteros y traseros": "Disco frontalytrasero tambor",
+    "DIMENSIONES": "EXTERIORES",
+    "Largo (mm)": "4.495",
+    "Ancho (mm)": "1.740",
+    "Distancia entre ejes (mm)": "2.620",
+    "CAPAC": "CIDAD",
+    "Capacidad tanque combustible (Its)": "41",
+    "USB (1 Frontal & 2 Ce": "nsola Central) & 12V",
+    "Asiento del conducto": "r con ajuste de altura",
+    "Asientos delanteros co": "n cabeceras ajustables",
+    "Consola central con po": "rtavasos delanteros (2)",
+    "Cristales eléctricos con apertur": "a de un solo toque (conductor)",
+    "Espejo de vanidad par=": "9 conductor y pasajero",
+    "Luz en r": "naletera",
+    "Seguros eléctricos ce": "n cierre centralizado",
+    "Volante con ajuste te Limpiaparabrisas intermint Sistema de frenado antibloqueo (ABS), distribución elé": "lescopico y de altura ente con velocidad variable ctronico de frenado (EBD) y asistencia de frenado (BA)",
+    "Recordatorio de cinturones de s": "eguridad (conductor y pasajero)",
+    "Sensores de": "retroceso (4)",
+    "Botón de encendido y apagado d": "2 motor (ligado a llave inteligente)",
+    "Llave inteligente i-Key con función de aperturz": "', cierre de puertas; cajuela y alarma de pánico",
+    "Anclaje": "ISOFIX",
+    "Alarma a control rem": "oto con inmovilizador",
+    "Asistente de ascensc": "en pendientes (HSA)",
+    "Airbags frontales, lat": "erales y tipo cortina",
+    "Cinturones de seguridad delante": "ros retráctiles de 3 puntos (ELR)",
+    "Cinturones de seguridad trasero": "5 retráctiles de 3 puntos (3) (ELR)",
+    "Control dinámice": "2 vehicular (VDC)",
+    "control de Velc NISSAN INTELLIGED Alerta de colisic": "cidad Crucero NISSAN INTELLIGENT MOBILITY VT MOBILITY n frontal (FCW)",
+    "Frenado frontal de": "emergencia (FEB)"
+  },
+  "specs_by_version": {
+    "SENSE MT 15\" Aluminio": {
+      "OTROS": {
+        "Neumáticos CAPACIDADES Capacidad de maletera (Its) PESO Y DIMENSIONES Peso neto (kg)": "195/65 R15 466 1.090"
+      },
+      "PESO Y DIMENSIONES": {
+        "Peso bruto (kg)": "●",
+        "Alto (mm) TRANSMISIÓN Tipo de tracción": "●",
+        "Tipo de transmisión RENDIMIENTO DE COMBUSTIBLE Ciudad (kmllts)": "MT 5 velocidades 11,4",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) INTERIOR Aire acondicionado manual": "●",
+        "Asientos con tapizado en tela": "●",
+        "Asistente de conductor con display 3,5\" (TFT)": "●",
+        "Sistema de audio con 4 parlantes pantalla táctil 7\" Android y Carplay USB + Aux": "●",
+        "Espejos exteriores abatibles recubiertos de plástico con ajuste eléctrico": "●",
+        "Llantas de aluminio 15\"": "●",
+        "Alerón trasero CONFORT Y TECNOLOGIA Controles de audio, manos libres (Bluetooth)": "●"
+      }
+    },
+    "SENSE CVT 15\" Aluminio": {
+      "OTROS": {
+        "Neumáticos CAPACIDADES Capacidad de maletera (Its) PESO Y DIMENSIONES Peso neto (kg)": "195/65 RI5 466 1.115"
+      },
+      "PESO Y DIMENSIONES": {
+        "Peso bruto (kg)": "●",
+        "Alto (mm) TRANSMISIÓN Tipo de tracción": "●",
+        "Tipo de transmisión RENDIMIENTO DE COMBUSTIBLE Ciudad (kmllts)": "CVT (Continua variable) 11,5",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) INTERIOR Aire acondicionado manual": "●",
+        "Asientos con tapizado en tela": "●",
+        "Asistente de conductor con display 3,5\" (TFT)": "●",
+        "Descansa brazos delantero para conductor": "●",
+        "Sistema de audio con 4 parlantes pantalla táctil 7\" Android y Carplay USB + Aux": "●",
+        "Espejos exteriores abatibles recubiertos de plástico con ajuste eléctrico": "●",
+        "Llantas de aluminio 15\"": "●",
+        "Alerón trasero CONFORT Y TECNOLOGIA Controles de audio, manos libres (Bluetooth)": "●"
+      }
+    },
+    "ADVANCE MT 16\" Aluminio": {
+      "OTROS": {
+        "Neumáticos CAPACIDADES Capacidad de maletera (Its) PESO Y DIMENSIONES Peso neto (kg)": "205/55 R16 ADVANCE MT 482 ADVANCE MT 1.105"
+      },
+      "PESO Y DIMENSIONES": {
+        "Peso bruto (kg)": "●",
+        "Alto (mm) TRANSMISIÓN Tipo de tracción": "1.465 ADVANCE MT 2WD",
+        "Tipo de transmisión RENDIMIENTO DE COMBUSTIBLE Ciudad (kmllts)": "MT 5 velocidades ADVANCE MT 11,4",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) INTERIOR Aire acondicionado manual": "●",
+        "Asientos con tapizado en tela": "●",
+        "Asiento trasero abatible 60.40": "●",
+        "Asistente de conductor con display 7\" a color (TFT)": "●",
+        "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico": "●",
+        "Neblineros": "●",
+        "Llantas de aluminio 16\" (con acabado maquinado)": "●",
+        "Controles de audio, manos libres (Bluetooth) con reconocimiento de voZ SEGURIDAD Alerta de cinturón asiento trasero": "●"
+      }
+    },
+    "EXCLUSIVE CVT 17\" Aluminio": {
+      "OTROS": {
+        "Neumáticos CAPACIDADES Capacidad de maletera (Its) PESO Y DIMENSIONES Peso neto (kg)": "205/50 RI7 EXCLUSIVE CVT 482 EXCLUSIVE CVT 1.148"
+      },
+      "PESO Y DIMENSIONES": {
+        "Peso bruto (kg)": "●",
+        "Alto (mm) TRANSMISIÓN Tipo de tracción": "1.475 EXCLUSIVE CVT 2WD",
+        "Tipo de transmisión RENDIMIENTO DE COMBUSTIBLE Ciudad (kmllts)": "CVT (Continua variable) EXCLUSIVE CVT 11,5",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) INTERIOR Aire acondicionado manual": "15,4",
+        "Aire acondicionado automático": "●",
+        "Asientos de cuero sintético": "●",
+        "Asiento trasero abatible 60.40": "●",
+        "Asistente de conductor con display 7\" a color (TFT)": "●",
+        "Volante con ajuste telescópico y de altura 1 forrado con cuero": "●",
+        "Cargador inalámbrico": "●",
+        "Descansa brazos delantero para conductor": "●",
+        "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico y señalizador": "●",
+        "Faros con encendido y apagado automático Faros de LED con Signature Lamp": "●",
+        "Neblineros": "●",
+        "Llantas de aluminio 17\" (con acabado maquinado)": "●"
+      }
+    }
+  },
+  "equipment_by_version": {
+    "SENSE MT 15\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "SENSE MT",
+        "Alerta de punto ciego BSW)": "No",
+        "Monitor de visión periférica (AVM) con detección de objetos en movimiento": "No"
+      }
+    },
+    "SENSE CVT 15\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "SENSE CVT",
+        "Alerta de punto ciego BSW)": "No",
+        "Monitor de visión periférica (AVM) con detección de objetos en movimiento": "No"
+      }
+    },
+    "ADVANCE MT 16\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "ADVANCE MT",
+        "Alerta de punto ciego BSW)": "No",
+        "Monitor de visión periférica (AVM) con detección de objetos en movimiento": "No"
+      }
+    },
+    "EXCLUSIVE CVT 17\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "EXCLUSIVE CVT",
+        "Alerta de punto ciego BSW)": "No",
+        "Alerta de tráfico cruzado (RCTA)": "Sí",
+        "Monitor de visión periférica (AVM) con detección de objetos en movimiento": "No"
+      }
+    }
+  },
+  "debug": {
+    "boxes_found": [
+      [
+        0,
+        1896,
+        2792,
+        534
+      ],
+      [
+        260,
+        5502,
+        5742,
+        8886
+      ],
+      [
+        260,
+        14583,
+        5742,
+        9026
+      ]
+    ],
+    "picked_kv_box": [
+      260,
+      5502,
+      5742,
+      8886
+    ],
+    "picked_comp_box": [
+      260,
+      14583,
+      5742,
+      9026
+    ],
+    "comp_matrix_preview": [
+      [
+        "RUEDAS Llantas",
+        "SENSE MT 15\" Aluminio",
+        "SENSE CVT 15\" Aluminio",
+        "ADVANCE MT 16\" Aluminio",
+        "EXCLUSIVE CVT 17\" Aluminio"
+      ],
+      [
+        "Neumáticos CAPACIDADES Capacidad de maletera (Its) PESO Y DIMENSIONES Peso neto (kg)",
+        "195/65 R15 466 1.090",
+        "195/65 RI5 466 1.115",
+        "205/55 R16 ADVANCE MT 482 ADVANCE MT 1.105",
+        "205/50 RI7 EXCLUSIVE CVT 482 EXCLUSIVE CVT 1.148"
+      ],
+      [
+        "Peso bruto (kg)",
+        "●",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Alto (mm) TRANSMISIÓN Tipo de tracción",
+        "●",
+        "●",
+        "1.465 ADVANCE MT 2WD",
+        "1.475 EXCLUSIVE CVT 2WD"
+      ],
+      [
+        "Tipo de transmisión RENDIMIENTO DE COMBUSTIBLE Ciudad (kmllts)",
+        "MT 5 velocidades 11,4",
+        "CVT (Continua variable) 11,5",
+        "MT 5 velocidades ADVANCE MT 11,4",
+        "CVT (Continua variable) EXCLUSIVE CVT 11,5"
+      ],
+      [
+        "Carretera (kmllts)",
+        "●",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Mixto (km/lts) INTERIOR Aire acondicionado manual",
+        "●",
+        "●",
+        "●",
+        "15,4"
+      ],
+      [
+        "Aire acondicionado automático",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Asientos con tapizado en tela",
+        "●",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Asientos de cuero sintético",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Asiento trasero abatible 60.40",
+        "",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Asistente de conductor con display 3,5\" (TFT)",
+        "●",
+        "●",
+        "",
+        ""
+      ],
+      [
+        "Asistente de conductor con display 7\" a color (TFT)",
+        "",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Volante con ajuste telescópico y de altura 1 forrado con cuero",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Cargador inalámbrico",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Descansa brazos delantero para conductor",
+        "",
+        "●",
+        "",
+        "●"
+      ],
+      [
+        "Sistema de audio con 4 parlantes pantalla táctil 7\" Android y Carplay USB + Aux",
+        "●",
+        "●",
+        "",
+        ""
+      ],
+      [
+        "Sistema de audio con 4 parlantes, reconocimiento de voz; pantalla táctil 7\" Android y Carplay 4 USB + Aux",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Sistema de audio con 6 parlantes, reconocimiento de voz, pantalla táctil 8\" Android y Carplay 4 USB + Aux EXTERIOR Antena tipo aleta de tiburón",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Espejos exteriores abatibles recubiertos de plástico con ajuste eléctrico",
+        "●",
+        "●",
+        "",
+        ""
+      ],
+      [
+        "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico",
+        "",
+        "",
+        "●",
+        ""
+      ],
+      [
+        "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico y señalizador",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Faros con encendido y apagado automático Faros de LED con Signature Lamp",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Neblineros",
+        "",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Llantas de aluminio 15\"",
+        "●",
+        "●",
+        "",
+        ""
+      ],
+      [
+        "Llantas de aluminio 16\" (con acabado maquinado)",
+        "",
+        "",
+        "●",
+        ""
+      ],
+      [
+        "Llantas de aluminio 17\" (con acabado maquinado)",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Alerón trasero CONFORT Y TECNOLOGIA Controles de audio, manos libres (Bluetooth)",
+        "●",
+        "●",
+        "",
+        ""
+      ],
+      [
+        "Controles de audio, manos libres (Bluetooth) con reconocimiento de voZ SEGURIDAD Alerta de cinturón asiento trasero",
+        "",
+        "",
+        "●",
+        ""
+      ],
+      [
+        "NISSAN INTELLIGENT MOBILITY NISSAN INTELLIGENT MOBILITY",
+        "SENSE MT",
+        "SENSE CVT",
+        "ADVANCE MT",
+        "EXCLUSIVE CVT"
+      ],
+      [
+        "Alerta de punto ciego BSW)",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Alerta de tráfico cruzado (RCTA)",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Monitor de visión periférica (AVM) con detección de objetos en movimiento",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    "kv_matrix_preview": [
+      [
+        "ESPECIFICACIC",
+        "NES TÉCNICAS"
+      ],
+      [
+        "Motor",
+        "1,6"
+      ],
+      [
+        "Número y disposición de cilindros",
+        ""
+      ],
+      [
+        "Pistón, diámetro y carrera (mm)",
+        "78 X83.6"
+      ],
+      [
+        "Número de válvulas",
+        "4 por cilindro"
+      ],
+      [
+        "Potencia (hp / rpm)",
+        "118 6.300"
+      ],
+      [
+        "Torque (nm rpm)",
+        "149 1 4.000"
+      ],
+      [
+        "Sistema de alimentación de combustible",
+        "Inyección Secuencial Multipunto"
+      ],
+      [
+        "Relación de compresión",
+        "10,8:1"
+      ],
+      [
+        "Combustible recomendado",
+        "93 octanos 0 superior"
+      ],
+      [
+        "Llanta de repuesto",
+        "Temporal"
+      ],
+      [
+        "Norma de emisiones",
+        "Euro 6B"
+      ],
+      [
+        "Tipo de dirección",
+        "Eléctrica"
+      ],
+      [
+        "Delantera",
+        "Independiente tipo Mc Pherson con barra estabilizadora"
+      ],
+      [
+        "Trasera",
+        "Eje semirrígido"
+      ],
+      [
+        "FRED",
+        "NOS"
+      ],
+      [
+        "Delanteros y traseros",
+        "Disco frontalytrasero tambor"
+      ],
+      [
+        "Asistente de frenado (BA)",
+        ""
+      ],
+      [
+        "Sistema antibloqueo de frenos (ABS)",
+        ""
+      ],
+      [
+        "Distribución electrónica de frenado (EBD)",
+        ""
+      ],
+      [
+        "DIMENSIONES",
+        "EXTERIORES"
+      ],
+      [
+        "Largo (mm)",
+        "4.495"
+      ],
+      [
+        "Ancho (mm)",
+        "1.740"
+      ],
+      [
+        "Distancia entre ejes (mm)",
+        "2.620"
+      ],
+      [
+        "CAPAC",
+        "CIDAD"
+      ],
+      [
+        "Número de pasajeros",
+        ""
+      ],
+      [
+        "Capacidad tanque combustible (Its)",
+        "41"
+      ],
+      [
+        "USB (1 Frontal & 2 Ce",
+        "nsola Central) & 12V"
+      ],
+      [
+        "Asiento del conducto",
+        "r con ajuste de altura"
+      ],
+      [
+        "Asientos delanteros co",
+        "n cabeceras ajustables"
+      ]
+    ]
+  }
+}

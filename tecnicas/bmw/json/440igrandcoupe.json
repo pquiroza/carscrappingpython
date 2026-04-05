@@ -1,0 +1,170 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "M440i Gran Coupé",
+        "año": null,
+        "versiones": [
+            "xDrive LCI II"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "xDrive LCI II": "6 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "xDrive LCI II": 2998
+        },
+        "potencia_hp": {
+            "xDrive LCI II": "387"
+        },
+        "potencia_rpm": {
+            "xDrive LCI II": "5,800 – 6,500"
+        },
+        "torque_nm": {
+            "xDrive LCI II": "500"
+        },
+        "torque_rpm": {
+            "xDrive LCI II": "1,900 – 5,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "xDrive LCI II": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": "xDrive"
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "xDrive LCI II": "Runflat"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4783,
+        "ancho_mm": 1852,
+        "alto_mm": 1442,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 140,
+        "peso_bruto_kg": 1795,
+        "capacidad_maletero_lts": "470 / 1.290",
+        "capacidad_estanque_lts": 59,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "xDrive LCI II": "12.5"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "xDrive LCI II": "4.7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Sistema Parking Assistant Plus",
+            "Sistema de cámaras en 360° “Surround View”",
+            "Sensores de estacionamiento delantero y trasero (PDC)",
+            "Sistema de estacionamiento automático",
+            "Visualización remota de cámaras Remote 3D view con MyBMW App",
+            "BMW Welcome Light Carpet",
+            "Frenos deportivos M azules",
+            "Llantas de aleación M de rayos dobles aro 19 bicolor",
+            "Suspensión M adaptativa",
+            "Faros delanteros LED Matrix adaptativos con funciones dinámicas",
+            "Faros traseros Láser",
+            "Luces de carretera automáticas",
+            "Luces de frenos dinámicas",
+            "Sensores de lluvia y luz"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático bizona",
+            "Alfombrillas de velours",
+            "Sunroof eléctrico",
+            "Asientos de cuero Vernasca",
+            "Asientos delanteros eléctricos con memoria, calefaccionados y con soporte lumbar",
+            "Asientos delanteros deportivos M",
+            "Asientos traseros abatibles en proporción 40:20:40",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Sistema de acceso sin llaves Comfort Access con apertura y cierre por proximidad",
+            "Volante deportivo de cuero M multifunción",
+            "Terminaciones interiores en aluminio M cepillado",
+            "Operación automática de maletero"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Neumáticos Runflat",
+            "Indicador de falla en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido surround Harman Kardon (16 altavoces, amplificador de 464W y 9 canales)",
+            "BMW Live Cockpit Professional",
+            "Pantalla de panel de instrumentos digital de 12,3’’",
+            "Pantalla de control de alta resolución de 14,9’’",
+            "Sistema operativo BMW iDrive 8.5 con widgets y pantallas personalizables",
+            "Nuevo menú de accesos rápido Quickview",
+            "Navegador BMW Maps con puntos de referencia en 3D",
+            "Modelos de Micro City",
+            "Búsqueda de direcciones en texto libre y destinos especiales",
+            "Instrucciones y guías con auto zoom",
+            "BMW Intelligent Personal Assistant (“Hola BMW”)",
+            "Mando iDrive Touch",
+            "Control por gestos",
+            "Bluetooth (streaming/phone)",
+            "Sistema de carga inalámbrica de smartphones",
+            "BMW Head-Up Display",
+            "Drive Recorder",
+            "Preparación para Android Auto & Apple CarPlay"
+        ],
+        "adas": [
+            "Dirección deportiva variable",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero con función de frenado en pendiente",
+            "Función Start-off assistant",
+            "Driving Assistant Professional",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Asistente de control de línea",
+            "Asistente de evasión",
+            "Advertencia de intersección",
+            "Advertencia de sentido contrario",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-10",
+        "metodo_extraccion": "Lectura directa de ficha técnica BMW en texto corrido, manteniendo solo datos explícitos del documento",
+        "fuente": "ficha_tecnica_new_bmw_m440i_gran_coupe_xdrive_lci_ii.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información explícita de la ficha. Garantía y mantenimiento informados en el documento: 5 años de mantenciones, 3 años de garantía y asistencia en ruta."
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLE Coupé AMG",
+        "año": null,
+        "versiones": [
+            "GLE 53 AMG 4MATIC+ Coupé",
+            "GLE 63s AMG 4MATIC+ Coupé"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLE 53 AMG 4MATIC+ Coupé": "L6",
+            "GLE 63s AMG 4MATIC+ Coupé": "V8 Biturbo"
+        },
+        "cilindrada": {
+            "GLE 53 AMG 4MATIC+ Coupé": 2999,
+            "GLE 63s AMG 4MATIC+ Coupé": 3982
+        },
+        "potencia_hp": {
+            "GLE 53 AMG 4MATIC+ Coupé": "435 CV (+20 CV)",
+            "GLE 63s AMG 4MATIC+ Coupé": "612 CV (+22 CV)"
+        },
+        "potencia_rpm": {
+            "GLE 53 AMG 4MATIC+ Coupé": null,
+            "GLE 63s AMG 4MATIC+ Coupé": null
+        },
+        "torque_nm": {
+            "GLE 53 AMG 4MATIC+ Coupé": "560 Nm (+200 Nm)",
+            "GLE 63s AMG 4MATIC+ Coupé": "850 Nm (+250 Nm)"
+        },
+        "torque_rpm": {
+            "GLE 53 AMG 4MATIC+ Coupé": null,
+            "GLE 63s AMG 4MATIC+ Coupé": null
+        },
+        "combustible": {
+            "GLE 53 AMG 4MATIC+ Coupé": "Gasolina",
+            "GLE 63s AMG 4MATIC+ Coupé": "Gasolina"
+        },
+        "transmision": {
+            "GLE 53 AMG 4MATIC+ Coupé": "AMG SPEEDSHIFT TCT 9G",
+            "GLE 63s AMG 4MATIC+ Coupé": "AMG SPEEDSHIFT TCT 9G"
+        },
+        "traccion": {
+            "GLE 53 AMG 4MATIC+ Coupé": "Integral",
+            "GLE 63s AMG 4MATIC+ Coupé": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Equipo de frenos de alto rendimiento AMG",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLE 53 AMG 4MATIC+ Coupé": "275/45 R21 - 315/40 R21",
+            "GLE 63s AMG 4MATIC+ Coupé": "275/45 R21 - 315/40 R21"
+        },
+        "rueda_repuesto": {
+            "GLE 53 AMG 4MATIC+ Coupé": "Rueda plegable",
+            "GLE 63s AMG 4MATIC+ Coupé": "Rueda plegable"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 655,
+        "capacidad_estanque_lts": 85,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLE 53 AMG 4MATIC+ Coupé": "250 km/h",
+            "GLE 63s AMG 4MATIC+ Coupé": "280 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLE 53 AMG 4MATIC+ Coupé": "5 s",
+            "GLE 63s AMG 4MATIC+ Coupé": "3,9 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLE 53 AMG 4MATIC+ Coupé": "9,8 km/L",
+            "GLE 63s AMG 4MATIC+ Coupé": "7,9 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Línea Exterior",
+                "GLE 53 AMG 4MATIC+ Coupé": "Paquete AMG Night con perfiles aerodinámicos",
+                "GLE 63s AMG 4MATIC+ Coupé": "Paquete AMG Night con perfiles aerodinámicos"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "GLE 53 AMG 4MATIC+ Coupé": "275/45 R21 - 315/40 R21",
+                "GLE 63s AMG 4MATIC+ Coupé": "275/45 R21 - 315/40 R21"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "GLE 53 AMG 4MATIC+ Coupé": "Iluminadas en efecto aluminio con tacos de goma antideslizantes",
+                "GLE 63s AMG 4MATIC+ Coupé": "Iluminadas en efecto aluminio con tacos de goma antideslizantes"
+            },
+            {
+                "caracteristica": "Faros MULTIBEAM",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye luces de carretera automáticas",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye luces de carretera automáticas"
+            },
+            {
+                "caracteristica": "Cristales calorífugos tinteados",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye protección de radiación solar",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye protección de radiación solar"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Volante AMG PERFORMANCE inspirado en F1",
+                "GLE 53 AMG 4MATIC+ Coupé": "En napa con teclas AMG",
+                "GLE 63s AMG 4MATIC+ Coupé": "En Napa/Microfibra Dinámica con teclas AMG"
+            },
+            {
+                "caracteristica": "Tapicería",
+                "GLE 53 AMG 4MATIC+ Coupé": "Cuero Napa/Bicolor",
+                "GLE 63s AMG 4MATIC+ Coupé": "Cuero Exclusivo Napa AMG"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "GLE 53 AMG 4MATIC+ Coupé": "Climatizados y con kit de memorias",
+                "GLE 63s AMG 4MATIC+ Coupé": "Climatizados, con masajes y con kit de memorias"
+            },
+            {
+                "caracteristica": "Moldura",
+                "GLE 53 AMG 4MATIC+ Coupé": "Aluminio cepillado con rectificado",
+                "GLE 63s AMG 4MATIC+ Coupé": "Fibra de carbono AMG"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de serie",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye Windowbags + Airbag de rodillas",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye Windowbags + Airbag de rodillas"
+            },
+            {
+                "caracteristica": "PRE-SAFE® Impulso Lateral",
+                "GLE 53 AMG 4MATIC+ Coupé": false,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Paquete AMG Rider",
+                "GLE 53 AMG 4MATIC+ Coupé": false,
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye AMG ACTIVE RIDE CONTROL y TRACK PACE"
+            },
+            {
+                "caracteristica": "Equipo de frenos de alto rendimiento AMG",
+                "GLE 53 AMG 4MATIC+ Coupé": false,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Asistente activo de distancia DISTRONIC",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye Asistente activo de frenado y Dirección",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye Asistente activo de frenado y Dirección"
+            },
+            {
+                "caracteristica": "Función de advertencia de salida",
+                "GLE 53 AMG 4MATIC+ Coupé": true,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Advertencia de punto ciego",
+                "GLE 53 AMG 4MATIC+ Coupé": true,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Control de presión de los neumáticos",
+                "GLE 53 AMG 4MATIC+ Coupé": true,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Tren de rodaje",
+                "GLE 53 AMG 4MATIC+ Coupé": "AMG RIDE CONTROL+",
+                "GLE 63s AMG 4MATIC+ Coupé": "AMG RIDE CONTROL+"
+            },
+            {
+                "caracteristica": "Protección antirrobo GUARD 360°",
+                "GLE 53 AMG 4MATIC+ Coupé": "Alarma y sensores volumétricos",
+                "GLE 63s AMG 4MATIC+ Coupé": "Alarma y sensores volumétricos"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLE 53 AMG 4MATIC+ Coupé": "\"Hey Mercedes\"",
+                "GLE 63s AMG 4MATIC+ Coupé": "\"Hey Mercedes\""
+            },
+            {
+                "caracteristica": "Integración inalámbrica Smartphone",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye cargador plazas delanteras",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye cargador plazas delanteras"
+            },
+            {
+                "caracteristica": "Visualizador de medios e instrumentos digitales",
+                "GLE 53 AMG 4MATIC+ Coupé": "12,3\"",
+                "GLE 63s AMG 4MATIC+ Coupé": "12,3\""
+            },
+            {
+                "caracteristica": "Head-up display",
+                "GLE 53 AMG 4MATIC+ Coupé": true,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Paquete confort KEYLESS-GO",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye portón trasero Easy Pack y HANDS-FREE ACCESS",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye portón trasero Easy Pack y HANDS-FREE ACCESS"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye cámara 360° y capó transparente",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye cámara 360° y capó transparente"
+            },
+            {
+                "caracteristica": "Realidad aumentada para navegación MBUX",
+                "GLE 53 AMG 4MATIC+ Coupé": true,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Asistente interior MBUX",
+                "GLE 53 AMG 4MATIC+ Coupé": false,
+                "GLE 63s AMG 4MATIC+ Coupé": "Reconoce los movimientos de sus manos y brazos"
+            },
+            {
+                "caracteristica": "Servocierre para puertas",
+                "GLE 53 AMG 4MATIC+ Coupé": false,
+                "GLE 63s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "GLE 53 AMG 4MATIC+ Coupé": "Surround Burmester® con 13 altavoces y 590 vatios",
+                "GLE 63s AMG 4MATIC+ Coupé": "Surround Burmester® con 13 altavoces y 590 vatios"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "GLE 53 AMG 4MATIC+ Coupé": "Incluye con sensor de lluvia para cierre automático",
+                "GLE 63s AMG 4MATIC+ Coupé": "Incluye con sensor de lluvia para cierre automático"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLE 53 / 63 AMG Coupé (ticket=true, vacío o -=false; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica_GLE_53_63_digital.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó todo el equipamiento de seguridad, tecnología, interior y exterior diferenciando por versión."
+    }
+}

@@ -1,0 +1,457 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "X90 PLUS",
+        "año": null,
+        "versiones": [
+            "2.0TGDI_7DCT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "2.0TGDI_7DCT": "2.0TGDI-7DCT"
+        },
+        "cilindrada": 1.998,
+        "potencia_hp": {
+            "2.0TGDI_7DCT": "241"
+        },
+        "potencia_rpm": {
+            "2.0TGDI_7DCT": "5.500"
+        },
+        "torque_nm": {
+            "2.0TGDI_7DCT": "390"
+        },
+        "torque_rpm": {
+            "2.0TGDI_7DCT": "1750-4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "2.0TGDI_7DCT": "Automática doble embrague"
+        },
+        "traccion": {
+            "2.0TGDI_7DCT": null
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "neumaticos": {
+            "2.0TGDI_7DCT": "255/45 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4858,
+        "ancho_mm": 1925,
+        "alto_mm": 1780,
+        "distancia_ejes_mm": 2850,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2.0TGDI_7DCT": null
+        },
+        "capacidad_maletero_lts": {
+            "sin_filas_abatidas": 104,
+            "segunda_y_tercera_fila_abatida": 1052
+        },
+        "capacidad_estanque_lts": 57,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "2.0TGDI_7DCT": "9,5"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "2.0TGDI_7DCT": "14,3"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "2.0TGDI_7DCT": "12,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "ABS +EBD",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "AEB: Sistema avanzado de frenado de emergencia",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Airbags de cortinas",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Anclaje ISOFIX",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "FCW: Advertencia de colisión frontal",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "HMA: Asistente de luces altas",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "LKA: Asistente de mantenimiento de carril",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "TJA: Asistente de tráfico",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Auto Hold",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "BAS: Asistencia electrónica de frenado",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "BSD: Sistema de monitoreo de punto ciego",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cámara chasis transparente 180°",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cámara panorámica 360° HD",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cinturón de seguridad con pretensor",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros ajustable en altura",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad totales de tres puntas",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "ESP: Control de estabilidad",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "HDC: Control de descenso en pendiente",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "HSA: Control de partida en pendiente",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "ICA: Asistencia de crucero integrado",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Indicador de uso de cinturón para primera y segunda fila",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "LDWS: Sistema de advertencia de cambio de carril",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad delantero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad trasero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Ventanas delanteras doble vidrio",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "TCS: Control de tracción",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "TPMS: Monitor de presión de neumáticos",
+                "2.0TGDI_7DCT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Alzavidrios controlado con smart key",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Antena tipo cola de tiburón",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Apertura inteligente de puertas",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Apertura portalón con función \"manos libres\"",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cierre automático al salir del vehículo",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores abatibles eléctricamente",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores eléctricos",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores eléctricos calefaccionados",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Luces delanteras Led",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Focos con encendido automático",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Focos regulables en altura",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Luces diurnas Led (DLR)",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Luces traseras Led",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Señalizadores LED en espejos retrovisores",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Spoiler trasero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico eléctrico",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "2.0TGDI_7DCT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado dual climatizado",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado control independiente tercera fila",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Aletas para cambios (paddle shift)",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos (one button up & down)",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con ajuste eléctrico",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asiento de conductor con memoria",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asiento de conductor con función ventilación",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asientos tapiz eco-cuero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asientos segunda fila reclinables",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asientos traseros segunda fila abatibles 60/40",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Asientos traseros tercera fila abatibles 50/50",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Carga Inalámbrica",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Doble Pantalla de 12,3 pulg",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Iluminación maletero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Modo de conducción",
+                "2.0TGDI_7DCT": "Eco / Normal / Sport"
+            },
+            {
+                "caracteristica": "Luz ambiental",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Pantalla para control de aire acondicionado de 9,7 pulg",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Parasoles delanteros con espejo de cortesía",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "2.0TGDI_7DCT": 8
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Porta lentes",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Puertos USB",
+                "2.0TGDI_7DCT": 3
+            },
+            {
+                "caracteristica": "Radio touch con conectividad",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Reposabrazos con función de refrigeración",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Salida aire acondicionado segunda fila",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia delantero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Sistema de audio sony",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Sistema Star-Stop",
+                "2.0TGDI_7DCT": false
+            },
+            {
+                "caracteristica": "Smart key y botón de encendido",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Volante deportivo multifunción",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Volante forrado eco-cuero",
+                "2.0TGDI_7DCT": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "2.0TGDI_7DCT": true
+            }
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul",
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Plateado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Extracción desde ficha técnica PDF a formato estándar (●=true, -=false)",
+        "fuente": "JETOUR_FT X90 PLUS (07.01.25).pdf",
+        "versiones_en_documento": 1,
+        "notas": "Sistema Star-Stop figura como '-' en la tabla (no disponible). Garantía indicada: 5 años o 150.000 km."
+    }
+}

@@ -1,0 +1,494 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "CX-5",
+        "año": null,
+        "versiones": [
+            "CORE 2.0 2WD 6AT",
+            "CORE 2.0 AWD 6AT",
+            "CORE PLUS 2.0 AWD 6AT",
+            "SPORT 2.5 AWD 6AT",
+            "SIGNATURE 2.5T AWD 6AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CORE 2.0 2WD 6AT": "2.0",
+            "CORE 2.0 AWD 6AT": "2.0",
+            "CORE PLUS 2.0 AWD 6AT": "2.0",
+            "SPORT 2.5 AWD 6AT": "2.5",
+            "SIGNATURE 2.5T AWD 6AT": "2.5 Turbo"
+        },
+        "cilindrada": {
+            "CORE 2.0 2WD 6AT": null,
+            "CORE 2.0 AWD 6AT": null,
+            "CORE PLUS 2.0 AWD 6AT": null,
+            "SPORT 2.5 AWD 6AT": null,
+            "SIGNATURE 2.5T AWD 6AT": null
+        },
+        "potencia_hp": {
+            "CORE 2.0 2WD 6AT": "154",
+            "CORE 2.0 AWD 6AT": "154",
+            "CORE PLUS 2.0 AWD 6AT": "154",
+            "SPORT 2.5 AWD 6AT": "188",
+            "SIGNATURE 2.5T AWD 6AT": "227"
+        },
+        "potencia_rpm": {
+            "CORE 2.0 2WD 6AT": "6.000",
+            "CORE 2.0 AWD 6AT": "6.000",
+            "CORE PLUS 2.0 AWD 6AT": "6.000",
+            "SPORT 2.5 AWD 6AT": "6.000",
+            "SIGNATURE 2.5T AWD 6AT": "5.000"
+        },
+        "torque_nm": {
+            "CORE 2.0 2WD 6AT": "200",
+            "CORE 2.0 AWD 6AT": "200",
+            "CORE PLUS 2.0 AWD 6AT": "200",
+            "SPORT 2.5 AWD 6AT": "252",
+            "SIGNATURE 2.5T AWD 6AT": "420"
+        },
+        "torque_rpm": {
+            "CORE 2.0 2WD 6AT": "4.000",
+            "CORE 2.0 AWD 6AT": "4.000",
+            "CORE PLUS 2.0 AWD 6AT": "4.000",
+            "SPORT 2.5 AWD 6AT": "4.000",
+            "SIGNATURE 2.5T AWD 6AT": "2.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "CORE 2.0 2WD 6AT": "Automática",
+            "CORE 2.0 AWD 6AT": "Automática",
+            "CORE PLUS 2.0 AWD 6AT": "Automática",
+            "SPORT 2.5 AWD 6AT": "Automática",
+            "SIGNATURE 2.5T AWD 6AT": "Automática"
+        },
+        "traccion": {
+            "CORE 2.0 2WD 6AT": "2WD",
+            "CORE 2.0 AWD 6AT": "AWD",
+            "CORE PLUS 2.0 AWD 6AT": "AWD",
+            "SPORT 2.5 AWD 6AT": "AWD",
+            "SIGNATURE 2.5T AWD 6AT": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de mano eléctrico",
+        "neumaticos": {
+            "CORE 2.0 2WD 6AT": "225/65 R17",
+            "CORE 2.0 AWD 6AT": "225/65 R17",
+            "CORE PLUS 2.0 AWD 6AT": "225/55 R19",
+            "SPORT 2.5 AWD 6AT": "225/55 R19",
+            "SIGNATURE 2.5T AWD 6AT": "225/55 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": 2700,
+        "despeje_suelo_mm": {
+            "CORE 2.0 2WD 6AT": 185,
+            "CORE 2.0 AWD 6AT": 193,
+            "CORE PLUS 2.0 AWD 6AT": 193,
+            "SPORT 2.5 AWD 6AT": 193,
+            "SIGNATURE 2.5T AWD 6AT": 193
+        },
+        "peso_bruto_kg": {
+            "CORE 2.0 2WD 6AT": 2050,
+            "CORE 2.0 AWD 6AT": 2120,
+            "CORE PLUS 2.0 AWD 6AT": 2120,
+            "SPORT 2.5 AWD 6AT": 2143,
+            "SIGNATURE 2.5T AWD 6AT": 2185
+        },
+        "capacidad_maletero_lts": "541 / 1.303 (Asientos abatidos)",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (Km/Lt.)",
+            "CORE 2.0 2WD 6AT": "14,2",
+            "CORE 2.0 AWD 6AT": "13,1",
+            "CORE PLUS 2.0 AWD 6AT": "13,1",
+            "SPORT 2.5 AWD 6AT": "13,1",
+            "SIGNATURE 2.5T AWD 6AT": "12,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales",
+                "CORE 2.0 2WD 6AT": "Abatibles eléctricamente",
+                "CORE 2.0 AWD 6AT": "Abatibles eléctricamente",
+                "CORE PLUS 2.0 AWD 6AT": "Abatibles eléctricamente con defroster",
+                "SPORT 2.5 AWD 6AT": "Abatibles eléctricamente con defroster",
+                "SIGNATURE 2.5T AWD 6AT": "Abatibles eléctricamente con defroster"
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados oscuros",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Puerta maletero eléctrica con apertura de manos libres",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "CORE 2.0 2WD 6AT": "225/65 R17",
+                "CORE 2.0 AWD 6AT": "225/65 R17",
+                "CORE PLUS 2.0 AWD 6AT": "225/55 R19",
+                "SPORT 2.5 AWD 6AT": "225/55 R19",
+                "SIGNATURE 2.5T AWD 6AT": "225/55 R19"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla Multimedia Mazda Connect",
+                "CORE 2.0 2WD 6AT": "10,25\"",
+                "CORE 2.0 AWD 6AT": "10,25\"",
+                "CORE PLUS 2.0 AWD 6AT": "10,25\"",
+                "SPORT 2.5 AWD 6AT": "10,25\"",
+                "SIGNATURE 2.5T AWD 6AT": "10,25\""
+            },
+            {
+                "caracteristica": "Conectividad",
+                "CORE 2.0 2WD 6AT": "USB Tipo C",
+                "CORE 2.0 AWD 6AT": "USB Tipo C",
+                "CORE PLUS 2.0 AWD 6AT": "USB Tipo C",
+                "SPORT 2.5 AWD 6AT": "USB Tipo C",
+                "SIGNATURE 2.5T AWD 6AT": "USB Tipo C"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico (Qi)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": false,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Android Auto",
+                "CORE 2.0 2WD 6AT": "Con cable",
+                "CORE 2.0 AWD 6AT": "Con cable",
+                "CORE PLUS 2.0 AWD 6AT": "Con cable",
+                "SPORT 2.5 AWD 6AT": "Con cable",
+                "SIGNATURE 2.5T AWD 6AT": "Con cable"
+            },
+            {
+                "caracteristica": "Carplay",
+                "CORE 2.0 2WD 6AT": "Con cable",
+                "CORE 2.0 AWD 6AT": "Con cable",
+                "CORE PLUS 2.0 AWD 6AT": "Inalámbrico",
+                "SPORT 2.5 AWD 6AT": "Inalámbrico",
+                "SIGNATURE 2.5T AWD 6AT": "Inalámbrico"
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "CORE 2.0 2WD 6AT": "6 parlantes",
+                "CORE 2.0 AWD 6AT": "6 parlantes",
+                "CORE PLUS 2.0 AWD 6AT": "6 parlantes",
+                "SPORT 2.5 AWD 6AT": "9 parlantes + Subwoofer BOSE®",
+                "SIGNATURE 2.5T AWD 6AT": "9 parlantes + Subwoofer BOSE®"
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Control Crucero con mando en el volante",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Manubrio calefaccionado",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "CORE 2.0 2WD 6AT": "Bizona con salida trasera",
+                "CORE 2.0 AWD 6AT": "Bizona con salida trasera",
+                "CORE PLUS 2.0 AWD 6AT": "Bizona con salida trasera",
+                "SPORT 2.5 AWD 6AT": "Bizona con salida trasera",
+                "SIGNATURE 2.5T AWD 6AT": "Bizona con salida trasera"
+            },
+            {
+                "caracteristica": "Cámaras 360°",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Tapizado",
+                "CORE 2.0 2WD 6AT": "Tela",
+                "CORE 2.0 AWD 6AT": "Tela",
+                "CORE PLUS 2.0 AWD 6AT": "Cuero Negro",
+                "SPORT 2.5 AWD 6AT": "Cuero Negro",
+                "SIGNATURE 2.5T AWD 6AT": "Cuero Nappa Marrón"
+            },
+            {
+                "caracteristica": "Tipo de regulación asientos delanteros",
+                "CORE 2.0 2WD 6AT": "Manual",
+                "CORE 2.0 AWD 6AT": "Manual",
+                "CORE PLUS 2.0 AWD 6AT": "Eléctrico (conductor)",
+                "SPORT 2.5 AWD 6AT": "Eléctrico (conductor)",
+                "SIGNATURE 2.5T AWD 6AT": "Eléctrico conductor (con memoria) y copiloto"
+            },
+            {
+                "caracteristica": "Calefaccionados",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": "Delanteros",
+                "SIGNATURE 2.5T AWD 6AT": "Delanteros y traseros laterales"
+            },
+            {
+                "caracteristica": "Ventilación asientos delanteros",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": false,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Mi-Drive: Mazda Intelligent Drive",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": false,
+                "SPORT 2.5 AWD 6AT": "Normal + Sport",
+                "SIGNATURE 2.5T AWD 6AT": "Normal + Sport + Off Road"
+            },
+            {
+                "caracteristica": "Airbag",
+                "CORE 2.0 2WD 6AT": "2 frontales + 2 laterales + 2 cortina",
+                "CORE 2.0 AWD 6AT": "2 frontales + 2 laterales + 2 cortina",
+                "CORE PLUS 2.0 AWD 6AT": "2 frontales + 2 laterales + 2 cortina",
+                "SPORT 2.5 AWD 6AT": "2 frontales + 2 laterales + 2 cortina",
+                "SIGNATURE 2.5T AWD 6AT": "2 frontales + 2 laterales + 2 cortina"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros y traseros",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad dinámico (DSC)",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Asistencia al arranque en pendientes (HLA)",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Señal de frenado de emergencia (ESS)",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de frenado de emergencia en ciudad, con detección de peatones (SCBS)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Faros adaptativos LED",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": "AFS (1)",
+                "SPORT 2.5 AWD 6AT": false,
+                "SIGNATURE 2.5T AWD 6AT": "ALH (2)"
+            },
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de asistencia al mantenimiento de carril (LAS)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia de salida de carril (LDWS)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia en caso de cansancio del conductor (DAA)",
+                "CORE 2.0 2WD 6AT": false,
+                "CORE 2.0 AWD 6AT": false,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de apertura",
+                "CORE 2.0 2WD 6AT": "Keyless",
+                "CORE 2.0 AWD 6AT": "Keyless",
+                "CORE PLUS 2.0 AWD 6AT": "Smart Keyless",
+                "SPORT 2.5 AWD 6AT": "Smart Keyless",
+                "SIGNATURE 2.5T AWD 6AT": "Smart Keyless"
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en movimiento",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "i- STOP: Sistema de apagado y encendido automático del motor",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            },
+            {
+                "caracteristica": "G-Vectoring Control Plus (GVC Plus)",
+                "CORE 2.0 2WD 6AT": true,
+                "CORE 2.0 AWD 6AT": true,
+                "CORE PLUS 2.0 AWD 6AT": true,
+                "SPORT 2.5 AWD 6AT": true,
+                "SIGNATURE 2.5T AWD 6AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Cristal",
+        "Gris Metálico",
+        "Blanco Cristal",
+        "Plata Cuarzo",
+        "Beige Arena",
+        "Negro",
+        "Gris Polymetal",
+        "Azul Oscuro Metalizado"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "mazda-ficha-cx-5-octubre-2025.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLC",
+        "año": null,
+        "versiones": [
+            "GLC 200 4MATIC",
+            "GLC 220d 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLC 200 4MATIC": "4 cilindros en línea",
+            "GLC 220d 4MATIC": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "GLC 200 4MATIC": 1999,
+            "GLC 220d 4MATIC": 1993
+        },
+        "potencia_hp": {
+            "GLC 200 4MATIC": "204 CV (+23 CV)",
+            "GLC 220d 4MATIC": "197 CV (+23 CV)"
+        },
+        "potencia_rpm": {
+            "GLC 200 4MATIC": null,
+            "GLC 220d 4MATIC": null
+        },
+        "torque_nm": {
+            "GLC 200 4MATIC": "320 Nm (+200 Nm)",
+            "GLC 220d 4MATIC": "440 Nm (+200 Nm)"
+        },
+        "torque_rpm": {
+            "GLC 200 4MATIC": null,
+            "GLC 220d 4MATIC": null
+        },
+        "combustible": null,
+        "transmision": {
+            "GLC 200 4MATIC": "9G-TRONIC / 4MATIC Integral",
+            "GLC 220d 4MATIC": "9G-TRONIC / 4MATIC Integral"
+        },
+        "traccion": {
+            "GLC 200 4MATIC": "4MATIC",
+            "GLC 220d 4MATIC": "4MATIC"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLC 200 4MATIC": "235/60 R18",
+            "GLC 220d 4MATIC": "235/60 R18"
+        },
+        "rueda_repuesto": "Rueda de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 620,
+        "capacidad_estanque_lts": 62,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLC 200 4MATIC": "13,9 Km/L",
+            "GLC 220d 4MATIC": "18,3 Km/L"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLC 200 4MATIC": "221 Km/h",
+            "GLC 220d 4MATIC": "219 Km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLC 200 4MATIC": "7,8 s",
+            "GLC 220d 4MATIC": "8 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "GLC 200 4MATIC": "AVANTGARDE",
+                "GLC 220d 4MATIC": "AVANTGARDE"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "GLC 200 4MATIC": "18 pulgadas y 5 radios dobles",
+                "GLC 220d 4MATIC": "18 pulgadas y 5 radios dobles"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "GLC 200 4MATIC": "235/60 R18",
+                "GLC 220d 4MATIC": "235/60 R18"
+            },
+            {
+                "caracteristica": "Luces LED HIGH PERFORMANCE",
+                "GLC 200 4MATIC": "Incluye luces de carretera automática",
+                "GLC 220d 4MATIC": "Incluye luces de carretera automática"
+            },
+            {
+                "caracteristica": "Barras longitudinales de aluminio pulido",
+                "GLC 200 4MATIC": "Se pueden montar en ellas diversos soportes sobre el techo",
+                "GLC 220d 4MATIC": "Se pueden montar en ellas diversos soportes sobre el techo"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "GLC 200 4MATIC": "Cuero ARTICO negro",
+                "GLC 220d 4MATIC": "Cuero ARTICO negro"
+            },
+            {
+                "caracteristica": "Volante",
+                "GLC 200 4MATIC": "Deportivo multifunción en cuero",
+                "GLC 220d 4MATIC": "Deportivo multifunción en cuero"
+            },
+            {
+                "caracteristica": "Molduras con detalles cromados",
+                "GLC 200 4MATIC": "Adorno en efecto rombos gris plata",
+                "GLC 220d 4MATIC": "Madera de tilo linestructure antracita de poros abiertos"
+            },
+            {
+                "caracteristica": "Asientos delanteros con ajuste eléctrico de altura y respaldo",
+                "GLC 200 4MATIC": "Incluye calefacción de asientos",
+                "GLC 220d 4MATIC": "Incluye calefacción de asientos"
+            },
+            {
+                "caracteristica": "Asientos traseros reclinables",
+                "GLC 200 4MATIC": "Aumenta espacio en maleta a 1.680 lt",
+                "GLC 220d 4MATIC": "Aumenta espacio en maleta a 1.680 lt"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "GLC 200 4MATIC": "Incluye Airbag de rodillas y Windowbags en cada ventanilla",
+                "GLC 220d 4MATIC": "Incluye Airbag de rodillas y Windowbags en cada ventanilla"
+            },
+            {
+                "caracteristica": "4MATIC",
+                "GLC 200 4MATIC": "Equilibrio funcional entre tracción, dinamismo y seguridad",
+                "GLC 220d 4MATIC": "Equilibrio funcional entre tracción, dinamismo y seguridad"
+            },
+            {
+                "caracteristica": "Rueda de emergencia",
+                "GLC 200 4MATIC": "De peso ligero, lo que facilita sustitución",
+                "GLC 220d 4MATIC": "De peso ligero, lo que facilita sustitución"
+            },
+            {
+                "caracteristica": "Herramientas para cambio de rueda",
+                "GLC 200 4MATIC": "Incluye llaves, pernos, gata, calzo plegable, etc",
+                "GLC 220d 4MATIC": "Incluye llaves, pernos, gata, calzo plegable, etc"
+            },
+            {
+                "caracteristica": "Alarma con sensores volumétricos",
+                "GLC 200 4MATIC": "Incluye alarma antirrobo con detección de colisiones",
+                "GLC 220d 4MATIC": "Incluye alarma antirrobo con detección de colisiones"
+            },
+            {
+                "caracteristica": "Tren de rodaje Confort",
+                "GLC 200 4MATIC": "Experiencia de conducción segura sobre cualquier tipo de calzada gracias a la amortiguación selectiva",
+                "GLC 220d 4MATIC": "Experiencia de conducción segura sobre cualquier tipo de calzada gracias a la amortiguación selectiva"
+            },
+            {
+                "caracteristica": "Función HOLD",
+                "GLC 200 4MATIC": "Retenedor del vehículo sin tener que pisar el freno",
+                "GLC 220d 4MATIC": "Retenedor del vehículo sin tener que pisar el freno"
+            },
+            {
+                "caracteristica": "ATTENTION ASSIST",
+                "GLC 200 4MATIC": "Sistema propone detenerse en caso de detectar cansancio",
+                "GLC 220d 4MATIC": "Sistema propone detenerse en caso de detectar cansancio"
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "GLC 200 4MATIC": "Inicia un frenado autónomo para situaciones críticas",
+                "GLC 220d 4MATIC": "Inicia un frenado autónomo para situaciones críticas"
+            },
+            {
+                "caracteristica": "Avisador de presión de neumáticos",
+                "GLC 200 4MATIC": "Sistema detecta presión de los neumáticos independientemente",
+                "GLC 220d 4MATIC": "Sistema detecta presión de los neumáticos independientemente"
+            },
+            {
+                "caracteristica": "Indicador de cinturón de seguridad para plazas traseras",
+                "GLC 200 4MATIC": "Testigo luminoso indica la correcta colocación de cinturón",
+                "GLC 220d 4MATIC": "Testigo luminoso indica la correcta colocación de cinturón"
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Detector activo de cambio de carril",
+                "GLC 200 4MATIC": "Observación activa del sistema sobre carril",
+                "GLC 220d 4MATIC": "Observación activa del sistema sobre carril"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLC 200 4MATIC": "Sistema multimedia digitalizado personalizable",
+                "GLC 220d 4MATIC": "Sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLC 200 4MATIC": "<<Hey Mercedes>>",
+                "GLC 220d 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Puesto de conducción con pantalla ancha",
+                "GLC 200 4MATIC": "12,3 Pulgadas",
+                "GLC 220d 4MATIC": "12,3 Pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "GLC 200 4MATIC": "11,9 Pulgadas",
+                "GLC 220d 4MATIC": "11,9 Pulgadas"
+            },
+            {
+                "caracteristica": "Integración de Smartphone y carga inalámbrica delante",
+                "GLC 200 4MATIC": "Apple CarPlay / Android Auto Inalámbrico",
+                "GLC 220d 4MATIC": "Apple CarPlay / Android Auto Inalámbrico"
+            },
+            {
+                "caracteristica": "Acceso KEYLESS-GO",
+                "GLC 200 4MATIC": true,
+                "GLC 220d 4MATIC": true
+            },
+            {
+                "caracteristica": "Portón trasero eléctrico EASY PACK",
+                "GLC 200 4MATIC": "Apertura de portalón por vía eléctrica",
+                "GLC 220d 4MATIC": "Apertura de portalón por vía eléctrica"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "GLC 200 4MATIC": "Incluye diez conceptos cromáticos",
+                "GLC 220d 4MATIC": "Incluye diez conceptos cromáticos"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles electrónicamente",
+                "GLC 200 4MATIC": "Incluye antideslumbramiento automático",
+                "GLC 220d 4MATIC": "Incluye antideslumbramiento automático"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "GLC 200 4MATIC": "Incluye cámara marcha atrás",
+                "GLC 220d 4MATIC": "Incluye cámara marcha atrás"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLC 200 / 220d (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha_Técnica_glc200_250_Tamaño_Digital_NUEVO.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior diferenciando por versión."
+    }
+}

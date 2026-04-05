@@ -1,0 +1,387 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "EX5",
+        "año": null,
+        "versiones": [
+            "PRO",
+            "MAX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PRO": "Un motor síncrono de imanes permanentes (PMSM)",
+            "MAX": "Un motor síncrono de imanes permanentes (PMSM)"
+        },
+        "cilindrada": {
+            "PRO": null,
+            "MAX": null
+        },
+        "potencia_hp": {
+            "PRO": "214",
+            "MAX": "214"
+        },
+        "potencia_rpm": {
+            "PRO": null,
+            "MAX": null
+        },
+        "torque_nm": {
+            "PRO": "320",
+            "MAX": "320"
+        },
+        "torque_rpm": {
+            "PRO": null,
+            "MAX": null
+        },
+        "combustible": null,
+        "transmision": {
+            "PRO": "Unidad de propulsión eléctrica 11 en 1",
+            "MAX": "Unidad de propulsión eléctrica 11 en 1"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mcpherson",
+        "suspension_trasera": "Multi - Link",
+        "frenos_delanteros": "Ventilados",
+        "frenos_traseros": "Sólidos",
+        "freno_estacionamiento": "Electrónico",
+        "neumaticos": {
+            "PRO": "Llanta aleación R18 Neumático Giti",
+            "MAX": "Llanta aleación R19 Neumático Goodyear"
+        },
+        "rueda_repuesto": "Rueda de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 4615,
+        "ancho_mm": 1901,
+        "alto_mm": 1670,
+        "distancia_ejes_mm": 2750,
+        "despeje_suelo_mm": "173/145",
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "461 L / 1877 L",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad Máxima",
+            "PRO": "175 Km/hr",
+            "MAX": "175 Km/hr"
+        },
+        {
+            "caracteristica": "Aceleración 0-100",
+            "PRO": "6,9 seg",
+            "MAX": "7,1 seg"
+        },
+        {
+            "caracteristica": "Capacidad Batería",
+            "PRO": "60,22 kWh",
+            "MAX": "60,22 kWh"
+        },
+        {
+            "caracteristica": "Tipo de Batería",
+            "PRO": "Fosfato de hierro y litio",
+            "MAX": "Fosfato de hierro y litio"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica pura combinada según el ciclo WLTP",
+            "PRO": "430",
+            "MAX": "425"
+        },
+        {
+            "caracteristica": "Consumo de energía eléctrica combinado según el ciclo WLTP",
+            "PRO": "15,8 kWh/100 Km",
+            "MAX": "16 kWh/100Km"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica pura combinada según el ciclo NEDC",
+            "PRO": "495 Km",
+            "MAX": "490 Km"
+        },
+        {
+            "caracteristica": "Consumo de energía eléctrica combinado según el ciclo NEDC",
+            "PRO": "13,9 kWh/100 Km",
+            "MAX": "14 kWh/100Km"
+        },
+        {
+            "caracteristica": "Modo Manejo",
+            "PRO": "Eco / Normal / Sport",
+            "MAX": "Eco / Normal / Sport"
+        },
+        {
+            "caracteristica": "Duración teórica de la carga de Corriente Alterna (25 °C 10% ~ 100% estado de carga)",
+            "PRO": "6,1 Hr",
+            "MAX": "6,1 Hr"
+        },
+        {
+            "caracteristica": "Duración teórica de la carga de Corriente Continua (25 °C 30% ~ 80% estado de carga)",
+            "PRO": "20 Min",
+            "MAX": "20 Min"
+        },
+        {
+            "caracteristica": "Suministro de carga a dispositivos externos (V2L)",
+            "PRO": true,
+            "MAX": true
+        },
+        {
+            "caracteristica": "Suministro de carga a vehículos eléctricos (V2V)",
+            "PRO": true,
+            "MAX": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llanta aleación R18 Neumático Giti",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Llanta aleación R19 Neumático Goodyear",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico",
+                "PRO": false,
+                "MAX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Espejo interior con ajuste automático de oscurecimiento",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Iluminación ambiental dinámica de 256 colores",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Ajustes de memoria para el asiento del conductor",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Función de masaje en los asientos delanteros",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Reposapiernas del asiento del copiloto eléctrico de 2 posiciones",
+                "PRO": false,
+                "MAX": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cinturones de seguridad delanteros con pretensores y limitadores de fuerza",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros con pretensores",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Imagen panorámica 360 con visión de estacionamiento envolvente con capo transparente",
+                "PRO": false,
+                "MAX": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control Crucero",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Frenado autonómo de emergencia",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asistente Crucero Inteligente",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Mitigación de colisiones frontales",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Mitigación de colisiones trasero",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Alerta de Tráfico Cruzado Trasero",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Freno de tráfico cruzado trasero",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Reconocimiento de señales de tráfico",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Advertencia de apertura de puertas",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carriles",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Correción de mantenimiento de carril de emergencia",
+                "PRO": false,
+                "MAX": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Head Up Display",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Sistema de sonido con 6 altavoces.",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Sistema de audio premium FLYME SOUND de 16 altavoces",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "PRO": false,
+                "MAX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Todos los faros LED automáticos",
+            "Luces diurnas LED",
+            "Todas las luces traseras LED",
+            "Control inteligente de luces altas",
+            "Función Follow Me Home",
+            "Luces de giro LED",
+            "Entrada de aire activa AGS (Active Grille Shutter)",
+            "Techo corredizo eléctrico panorámico con parasol eléctrico",
+            "Manilla automáticas retráctiles",
+            "Espejos laterales plegables eléctricos con función de plegado automático",
+            "Espejos exteriores calefactados",
+            "Rueda de emergencia"
+        ],
+        "interior": [
+            "Asientos Cuero Sintético Perforado",
+            "Panel de instrumentos cubierto de cuero sintético",
+            "Volante multifunción con superficie de microfibra",
+            "Volante con ajuste manual de 4 posiciones",
+            "Función antibacteriana del volante",
+            "Alzavidrio eléctrico con función one touch 4 ventanas",
+            "Todo el cristal del automóvil (incluido el techo corredizo) se abre y se cierra por control remoto",
+            "Asiento del conductor eléctrico de 6 posiciones",
+            "Asiento del pasajero delantero eléctrico de 4 posiciones",
+            "Asiento del conductor con respaldo completamente plano hacia atrás",
+            "Asiento del pasajero delantero trasero completamente plano hacia atrás",
+            "Asientos delanteros ventilados",
+            "Respaldo de los asientos traseros con ajuste en 2 posiciones.",
+            "Asientos traseros abatibles",
+            "Reposabrazos central trasero y reposacabezas",
+            "Climatizador Automático",
+            "Aire condicionado plazas traseras",
+            "Filtro de aire de cabina antiviral N95",
+            "Compartimento tipo cajon debajo de los asientos traseros",
+            "Asiento de seguridad para niños ISO-FIX - Asientos traseros"
+        ],
+        "seguridad": [
+            "Carrocería con deformación programada",
+            "2 Airbags Frontales",
+            "2 airbags Laterales",
+            "2 Airbags de cortinas para plazas traseras",
+            "Sistema de control de tracción Geely",
+            "Sistema electrónico de control de estabilidad",
+            "Sistema de frenos antibloqueo",
+            "Distribución electrónica de la fuerza de frenado",
+            "Sistema de asistencia de frenado",
+            "Antivuelco electrónico",
+            "Control de asistencia de arranque en pendiente",
+            "Control de descenso de pendientes",
+            "Recordatorio de cinturón de seguridad para los asientos delanteros",
+            "Recordatorio de cinturón de seguridad para los asientos traseros",
+            "Sistema de control de la presión de los neumáticos (con pantalla digital)",
+            "Sistema de frenado multicolisión PIB (Post Impact Braking)",
+            "Sensores de estacionamiento traseros",
+            "Sistema electrónico antirrobo",
+            "Alarma antirrobo",
+            "Cierre automático de puertas en movimiento",
+            "Alerta de baja velocidad eléctrica",
+            "Sistema de grabación de eventos"
+        ],
+        "tecnologia": [
+            "Apertura y arranque sin llave",
+            "Sistema de infoentretenimiento para vehículos FLYME AUTO",
+            "Chip de cabina de alto rendimiento",
+            "Pantalla táctil HD de 15,4\"",
+            "Cuadro de instrumentos LCD de 10,2\"",
+            "Control de voz de doble zona",
+            "Conexión con teléfono inteligente",
+            "Conectividad Bluetooth",
+            "Sistema de navegación GPS con conectividad 4G",
+            "Conectividad WiFi",
+            "Navegación online",
+            "Multimedia online",
+            "GEELY Apps Store",
+            "Actualización remota del vehículo (OTA)",
+            "Radio FM",
+            "Puertos USB"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "NEW-EX5-FICHA-TECNICA-2.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se consolidaron las múltiples tablas del documento en el mismo formato JSON usado anteriormente. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "vehiculo": {
+        "marca": "CITROËN",
+        "modelo": "C3 AIRCROSS",
+        "año": null,
+        "versiones": [
+            "FEEL_PACK_5A",
+            "FEEL_PACK_7A",
+            "SHINE_5A",
+            "SHINE_TURBO_125_AT_5A",
+            "SHINE_7A"
+        ]
+    },
+    "motor": {
+        "tipo": "VTi (EC5) / T200 (T3)",
+        "cilindrada": "1587 / 999",
+        "potencia_hp": "115 / 125",
+        "potencia_rpm": "6000 / 5750",
+        "torque_nm": "150 / 200",
+        "torque_rpm": "4500 / 1750",
+        "combustible": "Gasolina",
+        "transmision": "Manual 5 / Automática 7",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson con ruedas independientes",
+        "suspension_trasera": "Eje de torsión con ruedas semi independientes",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos": {
+            "FEEL_PACK_5A": "205/65 R16",
+            "FEEL_PACK_7A": "205/65 R16",
+            "SHINE_5A": "215/60 R17",
+            "SHINE_TURBO_125_AT_5A": "215/60 R17",
+            "SHINE_7A": "215/60 R17"
+        },
+        "rueda_repuesto": {
+            "FEEL_PACK_5A": true,
+            "FEEL_PACK_7A": true,
+            "SHINE_5A": true,
+            "SHINE_TURBO_125_AT_5A": true,
+            "SHINE_7A": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "5A": "493",
+            "7A": "1080"
+        },
+        "capacidad_estanque_lts": "47"
+    },
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Masa en orden de marcha",
+            "FEEL_PACK_5A": "1194",
+            "FEEL_PACK_7A": "1247",
+            "SHINE_5A": "1199",
+            "SHINE_TURBO_125_AT_5A": "1216",
+            "SHINE_7A": "1272"
+        },
+        {
+            "caracteristica": "Carga útil",
+            "FEEL_PACK_5A": "400",
+            "FEEL_PACK_7A": "490",
+            "SHINE_5A": "400",
+            "SHINE_TURBO_125_AT_5A": "400",
+            "SHINE_7A": "490"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "FEEL_PACK_5A": "11.4",
+            "FEEL_PACK_7A": "11.8",
+            "SHINE_5A": "11.4",
+            "SHINE_TURBO_125_AT_5A": "9.9",
+            "SHINE_7A": "10.1"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "FEEL_PACK_5A": "178",
+            "FEEL_PACK_7A": "177",
+            "SHINE_5A": "178",
+            "SHINE_TURBO_125_AT_5A": "191",
+            "SHINE_7A": "191"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de reversa",
+                "FEEL_PACK_5A": false,
+                "FEEL_PACK_7A": false,
+                "SHINE_5A": true,
+                "SHINE_TURBO_125_AT_5A": true,
+                "SHINE_7A": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "FEEL_PACK_5A": false,
+                "FEEL_PACK_7A": false,
+                "SHINE_5A": false,
+                "SHINE_TURBO_125_AT_5A": true,
+                "SHINE_7A": true
+            }
+        ],
+        "comfort": [
+            {
+                "caracteristica": "Climatizador automático digital",
+                "FEEL_PACK_5A": false,
+                "FEEL_PACK_7A": false,
+                "SHINE_5A": false,
+                "SHINE_TURBO_125_AT_5A": true,
+                "SHINE_7A": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Carrocería bitono",
+                "FEEL_PACK_5A": false,
+                "FEEL_PACK_7A": false,
+                "SHINE_5A": false,
+                "SHINE_TURBO_125_AT_5A": true,
+                "SHINE_7A": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "ESP",
+            "Airbags frontales",
+            "Airbags laterales",
+            "ISOFIX",
+            "Sensores traseros"
+        ],
+        "multimedia": [
+            "Pantalla táctil 10\"",
+            "Android Auto",
+            "Apple CarPlay",
+            "Bluetooth",
+            "USB"
+        ],
+        "comfort": [
+            "Aire acondicionado",
+            "Volante multifunción",
+            "Alzavidrios eléctricos"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura literal tabla",
+        "fuente": "Ficha Técnica Citroën C3 Aircross",
+        "versiones_en_documento": 5,
+        "notas": "Datos tomados exclusivamente de tabla técnica. Sin inferencias."
+    }
+}

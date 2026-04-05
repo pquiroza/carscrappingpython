@@ -1,0 +1,255 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "SAIL HB",
+        "año": null,
+        "versiones": [
+            "1.5L LT MT",
+            "1.5L LTZ MT",
+            "1.5L LTZ CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5L LT MT": "1.5, DOHC",
+            "1.5L LTZ MT": "1.5, DOHC",
+            "1.5L LTZ CVT": "1.5, DOHC"
+        },
+        "cilindrada": {
+            "1.5L LT MT": 1.5,
+            "1.5L LTZ MT": 1.5,
+            "1.5L LTZ CVT": 1.5
+        },
+        "potencia_hp": {
+            "1.5L LT MT": "98",
+            "1.5L LTZ MT": "98",
+            "1.5L LTZ CVT": "98"
+        },
+        "potencia_rpm": {
+            "1.5L LT MT": "5.800 rpm",
+            "1.5L LTZ MT": "5.800 rpm",
+            "1.5L LTZ CVT": "5.800 rpm"
+        },
+        "torque_nm": {
+            "1.5L LT MT": "142",
+            "1.5L LTZ MT": "142",
+            "1.5L LTZ CVT": "142"
+        },
+        "torque_rpm": {
+            "1.5L LT MT": "4.400 rpm",
+            "1.5L LTZ MT": "4.400 rpm",
+            "1.5L LTZ CVT": "4.400 rpm"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5L LT MT": "Manual de 6 velocidades",
+            "1.5L LTZ MT": "Manual de 6 velocidades",
+            "1.5L LTZ CVT": "Automática (Continua Variable)"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente Mc Pherson",
+        "suspension_trasera": "Eje de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.5L LT MT": "185/60R15",
+            "1.5L LTZ MT": "185/60R15",
+            "1.5L LTZ CVT": "185/60R15"
+        },
+        "rueda_repuesto": "√"
+    },
+    "dimensiones": {
+        "largo_mm": 4170,
+        "ancho_mm": 1695,
+        "alto_mm": 1490,
+        "distancia_ejes_mm": 2550,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5L LT MT": 1530,
+            "1.5L LTZ MT": 1530,
+            "1.5L LTZ CVT": 1580
+        },
+        "capacidad_maletero_lts": 304,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Carretera (Km/Lt)",
+            "1.5L LT MT": "18,7",
+            "1.5L LTZ MT": "18,7",
+            "1.5L LTZ CVT": "19,3"
+        },
+        {
+            "caracteristica": "Mixto (Km/Lt)",
+            "1.5L LT MT": "15,0",
+            "1.5L LTZ MT": "15,0",
+            "1.5L LTZ CVT": "14,7"
+        },
+        {
+            "caracteristica": "Ciudad (Km/Lt)",
+            "1.5L LT MT": "11,2",
+            "1.5L LTZ MT": "11,2",
+            "1.5L LTZ CVT": "10,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Antena en el techo tipo tiburon",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Parrilla con detalles cromados y negro brillante",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Tapas de ruedas",
+                "1.5L LT MT": true,
+                "1.5L LTZ MT": false,
+                "1.5L LTZ CVT": false
+            },
+            {
+                "caracteristica": "Tipo de llantas",
+                "1.5L LT MT": "Acero, 15”",
+                "1.5L LTZ MT": "Aleación, 15”",
+                "1.5L LTZ CVT": "Aleación, 15” Bitono"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "1.5L LT MT": true,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": false
+            },
+            {
+                "caracteristica": "Aire acondicionado con Display digital en pantalla de radio",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": false,
+                "1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos central",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": false,
+                "1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Asientos de Tela",
+                "1.5L LT MT": "Negro",
+                "1.5L LTZ MT": "Gris Oscuro",
+                "1.5L LTZ CVT": "Gris Oscuro"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles",
+                "1.5L LT MT": "100",
+                "1.5L LTZ MT": "60/40",
+                "1.5L LTZ CVT": "60/40"
+            },
+            {
+                "caracteristica": "Radio USB, AUX y Bluetooth",
+                "1.5L LT MT": true,
+                "1.5L LTZ MT": false,
+                "1.5L LTZ CVT": false
+            },
+            {
+                "caracteristica": "Radio Touchscreen de 8\" con Android auto y Carplay",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de Retroceso con líneas guía",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Sensor de retroceso",
+                "1.5L LT MT": false,
+                "1.5L LTZ MT": true,
+                "1.5L LTZ CVT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos retrovisores externos color carrocería, con ajuste eléctrico y luz direccional",
+            "Focos delanteros tipo proyector hálogenos",
+            "Focos traseros LED",
+            "Limpiaparabrisas delantero intermitente con velocidad variable",
+            "Luces de conducción diurna LED",
+            "Neblineros traseros",
+            "Spoiler con tercera luz de freno",
+            "Rueda de Repuesto"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos en 4 puertas (Conductor One Touch)",
+            "Alzavidrios eléctricos con apertura remota",
+            "Asiento conductor y copiloto regulable en profundidad y reclinables",
+            "Cierre centralizado",
+            "Cierre centralizado a distancia",
+            "Luz de Maletero LED",
+            "Pantalla de información 3.5\" (TFT)",
+            "4 parlantes",
+            "Control de radio al volante",
+            "Espejos retrovisor interior manual (día/noche)",
+            "2 puertos USB: 1 de carga y 1 de transmisión de datos",
+            "1 conexión de 12V en la segunda fila"
+        ],
+        "seguridad": [
+            "6 Airbags: frontales (2), laterales (2) y cortina (2)",
+            "Alerta de cinturón de seguridad en todas las posiciones (delanteras y traseras)",
+            "Frenos ABS + EBD",
+            "Control electrónico de estabilidad (ESC)",
+            "Sistema de Arranque en Pendiente",
+            "Control de Tracción",
+            "Tensionador de cinturones",
+            "Anclajes ISOFIX",
+            "Inmovilizador Antirobo",
+            "Apoyacabezas regulables en altura",
+            "Carrocería con zonas de deformación programada",
+            "Cinturones delanteros y traseros de 3 puntas",
+            "Seguro para niños en puertas traseras",
+            "Sistema de monitoreo de presión de neumáticos (TPMS) Indirecto"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata Metálico",
+        "Blanco",
+        "Gris Metálico",
+        "Azul cielo Metálico",
+        "Rojo Burdeo Metálico",
+        "Amarillo Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (ticket negro=presente, -=no presente; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-sail-hb-chile.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo toda la información del cuadro técnico (Interior, Exterior, Motor, Dimensiones, Seguridad, Rendimientos y Colores). Donde el documento indica '-' se marcó false."
+    }
+}

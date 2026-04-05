@@ -1,0 +1,285 @@
+{
+    "vehiculo": {
+        "marca": "BYD",
+        "modelo": "SONG PLUS",
+        "año": null,
+        "versiones": [
+            "GS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GS": "1.5L Turbo"
+        },
+        "cilindrada": {
+            "GS": 1498
+        },
+        "potencia_hp": {
+            "GS": "96 kW (128.8 HP)"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "GS": "220 N·m (22,4 Kgf·m)"
+        },
+        "torque_rpm": null,
+        "combustible": "PHEV (Gasolina+Eléctrico)",
+        "transmision": null,
+        "traccion": {
+            "GS": "Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": "C-EPS (Dirección asistida eléctricamente)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera McPherson",
+        "suspension_trasera": "Suspensión trasera Multi-link",
+        "frenos_delanteros": "Frenos delanteros Discos ventilados",
+        "frenos_traseros": "Frenos traseros Discos",
+        "freno_estacionamiento": "EPB (Freno de parqueo eléctrico) con AVH (Auto Vehicle Hold)",
+        "neumaticos": {
+            "GS": "235/50 R19"
+        },
+        "rueda_repuesto": "Dispositivo de reparación de llanta"
+    },
+    "dimensiones": {
+        "largo_mm": 4705,
+        "ancho_mm": 1890,
+        "alto_mm": 1670,
+        "distancia_ejes_mm": 2765,
+        "despeje_suelo_mm": "180 / 150",
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 552,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Trocha (mm) (Delantera / Trasera)",
+            "GS": "1630/1630"
+        },
+        {
+            "caracteristica": "Radio de giro (m)",
+            "GS": "6"
+        },
+        {
+            "caracteristica": "Peso vacío (Kg)",
+            "GS": "1.900"
+        },
+        {
+            "caracteristica": "Ángulo de ataque (grados)",
+            "GS": "19"
+        },
+        {
+            "caracteristica": "Ángulo de salida (grados)",
+            "GS": "21"
+        },
+        {
+            "caracteristica": "Potencia máxima Motor eléctrico",
+            "GS": "150 kW (201HP)"
+        },
+        {
+            "caracteristica": "Torque máximo Motor eléctrico",
+            "GS": "300 N·m (30,6 Kgf·m)"
+        },
+        {
+            "caracteristica": "Tipo de batería",
+            "GS": "Blade (LFP)"
+        },
+        {
+            "caracteristica": "Capacidad de la batería (kWh)",
+            "GS": "18,3"
+        },
+        {
+            "caracteristica": "Potencia de carga EU Type 2 - AC",
+            "GS": "5,6kW"
+        },
+        {
+            "caracteristica": "Tiempo de carga",
+            "GS": "3.5h"
+        },
+        {
+            "caracteristica": "0-100 km/h (segundos)",
+            "GS": "8,3"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "GS": "170"
+        },
+        {
+            "caracteristica": "Autonomía EV (km) (NEDC*)",
+            "GS": "105"
+        },
+        {
+            "caracteristica": "Autonomía Total (km) (NEDC*)",
+            "GS": "1105"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "ACC (Control Crucero Adaptativo)",
+                "GS": true
+            },
+            {
+                "caracteristica": "ICC (Control Crucero Inteligente)",
+                "GS": true
+            },
+            {
+                "caracteristica": "TSR (Reconocimiento de señales de tránsito - Velocidad)",
+                "GS": true
+            },
+            {
+                "caracteristica": "ISLI (Información inteligente del límite de velocidad)",
+                "GS": true
+            },
+            {
+                "caracteristica": "ISLC (Control intelidente del límite de velocidad)",
+                "GS": true
+            },
+            {
+                "caracteristica": "TJA (Traffic Jam Assist)",
+                "GS": true
+            },
+            {
+                "caracteristica": "BSD (Detección de Punto Ciego)",
+                "GS": true
+            },
+            {
+                "caracteristica": "RCW (Alerta de colisión trasera)",
+                "GS": true
+            },
+            {
+                "caracteristica": "LDW (Alerta de Salida de Carril)",
+                "GS": true
+            },
+            {
+                "caracteristica": "LKA (Asistente de Permanencia en Carril)",
+                "GS": true
+            },
+            {
+                "caracteristica": "AEB (Frenado de emergencia automático)",
+                "GS": true
+            },
+            {
+                "caracteristica": "Sensores de parqueo (2 delanteros + 4 traseros)",
+                "GS": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Techo corredizo eléctrico panorámico con función anti-atrapamiento",
+            "Rieles de techo (para porta-equipaje)",
+            "Antena tipo aleta de tiburón",
+            "Desbloqueo eléctrico de la 5ta puerta",
+            "Apertura eléctrica de la 5ta puerta"
+        ],
+        "interior": [
+            "Volante tapizado premium",
+            "Volante multi-función con control para bluetooth, audio, imagen panorámica",
+            "Tablero de instrumentos en LCD de 12.3''",
+            "Portagafas de techo",
+            "Cargador inalámbrico para celular",
+            "Encendido del vehículo por control remoto",
+            "Parasoles delanteros con espejo y luz",
+            "Cortina de protección solar en el techo corredizo",
+            "Descansabrazos central en la 2da fila de sillas con 2 portavasos",
+            "Cubre maletas",
+            "Tomacorriente de 12V",
+            "Botón Start/Stop engine",
+            "Sistema de acceso NFC",
+            "Llave electrónica",
+            "Keyless entry",
+            "Tapicería premium",
+            "2da fila de sillas con división 6:4",
+            "Ajuste eléctrico de la silla del conductor (8 posiciones) con apoyacabezas, ventilación y calefacción",
+            "Ajuste eléctrico de la silla del pasajero (4 posiciones) con apoyacabezas, ventilación y calefacción",
+            "Apoyacabezas traseros con ajuste manual",
+            "2da fila de sillas con ajuste manual de ángulo del respaldo",
+            "ISO-FIX",
+            "Pantalla táctil de 15.6'' con rotación eléctrica",
+            "GPS",
+            "Apple CarPlay / Android Auto",
+            "10 parlantes",
+            "Infinity Sound",
+            "Puertos USB (2 delanteros + 2 traseros)"
+        ],
+        "seguridad": [
+            "Airbags delanteros (2)",
+            "Airbags laterales (2)",
+            "Airbags de cortina (2)",
+            "Cinturones de seguridad delanteros con pretensionador y limitador de fuerza",
+            "Cinturones de seguridad traseros laterales con pretensionador y limitador de fuerza",
+            "Cinturón de seguridad trasero medio con limitador de fuerza",
+            "Alarma de cinturones de seguridad (Todos los ocupantes)",
+            "Cámara de reversa (imagen panorámica)",
+            "HUD (Head Up Display)",
+            "IPB (Integrated Power Brake)",
+            "HBB (Hydraulic Brake Booster)",
+            "HBA (Hydraulic Brake Assist)",
+            "CST (Comfortable Stop)",
+            "RMI (Roll Movement Intervention)",
+            "BOS (Brake Override System)",
+            "ABS con EBD",
+            "TCS (Control de tracción)",
+            "VDC (Control Dinámico Vehicular)",
+            "HHC (Asistente de arranque en pendiente)",
+            "HDC (Control de descenso en pendiente)",
+            "DOW (Alerta de Apertura de Puerta)",
+            "Sistema de monitoreo de presión de las llantas directo",
+            "Bloqueo automático de puertas mediante sensor de velocidad",
+            "Sistema antirrobo electrónico con alarma"
+        ],
+        "tecnologia": [
+            "Luces delanteras LED",
+            "Sensor de luces",
+            "Luces con función \"Follow me home\"",
+            "HMA (Asistente de luces altas)",
+            "DRL en LED",
+            "Luces traseras combinadas LED",
+            "Direccionales traseras con luz dinámica LED",
+            "Reflector trasero",
+            "Tercer Stop en LED",
+            "Luz en el puerto de carga",
+            "Luz de pies en las sillas delanteras",
+            "Luz en la guantera",
+            "Ajuste manual en altura de las luces",
+            "Luz antiniebla (trasera)",
+            "Luz en la zona de carga",
+            "Luz ambiental interna multi-color",
+            "Limpiaparabrisas delanteros intermitentes",
+            "Limpiaparabrisas trasero",
+            "Parabrisas delantero y ventanas delanteras con aislamiento de sonido",
+            "Parabrisas trasero con desempañador",
+            "Apertura eléctrica de ventanas con función de subida y bajada remota",
+            "Ventanas con función anti-atrapamiento",
+            "Espejos retrovisores laterales color de la carrocería con giro automático, abatibles eléctricamente y con desempañador y luz de pies",
+            "Espejo retrovisor interior electrocrómico",
+            "Luces en las puertas delanteras LED",
+            "Luces interiores delanteras y traseras LED",
+            "A/C dual automático",
+            "Salidas de aire para la 2da fila de sillas (central y de piso)",
+            "Sistema de purificación del aire: Filtro PM2.5 de alta eficiencia (CN95)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Basalt Black+Red Hare Brown",
+        "Negro Delan",
+        "Gris Humo",
+        "Blanco Nieve",
+        "Gris Tiempo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de ficha técnica/tabla BYD (•=presente; texto/valores tal cual)",
+        "fuente": "SONG-PLUS-FLYER-CL.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento lista equipamiento con viñetas (•) para la versión GS."
+    }
+}

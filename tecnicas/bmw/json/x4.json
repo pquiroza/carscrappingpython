@@ -1,0 +1,143 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X4",
+        "año": null,
+        "versiones": [
+            "xDrive20i Dynamic S LCI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "xDrive20i Dynamic S LCI": "Gasolina. 4 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "xDrive20i Dynamic S LCI": 1998
+        },
+        "potencia_hp": {
+            "xDrive20i Dynamic S LCI": "184"
+        },
+        "potencia_rpm": {
+            "xDrive20i Dynamic S LCI": "5,000 – 6,500"
+        },
+        "torque_nm": {
+            "xDrive20i Dynamic S LCI": "300"
+        },
+        "torque_rpm": {
+            "xDrive20i Dynamic S LCI": "1,350 – 4,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "xDrive20i Dynamic S LCI": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "xDrive20i Dynamic S LCI": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4751,
+        "ancho_mm": 1918,
+        "alto_mm": 1621,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 204,
+        "peso_bruto_kg": 1800,
+        "capacidad_maletero_lts": "525 litros (1430 litros con asientos traseros abatidos)",
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado (km/l)",
+            "xDrive20i Dynamic S LCI": "12,9"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "xDrive20i Dynamic S LCI": "8.3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Pintura de acabado metálico",
+            "Llantas de aleación 19”"
+        ],
+        "interior": [
+            "Climatizador automático bizona",
+            "Asientos de cuero Sensatec perforado calefaccionado",
+            "Paquete de iluminación interior (incluye Welcome Light Carpet y 6 alternativas)",
+            "Asientos delanteros deportivos de ajuste manual",
+            "Operación automática de maletero",
+            "Espejos exteriores abatibles eléctricamente",
+            "Volante deportivo de cuero multifunción calefaccionado",
+            "Revestimiento interior en negro brillante “Piano black”",
+            "Alfombrillas de velours"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Recuperación de energía en frenada",
+            "Control de descenso en pendiente (HDC)",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido Harman Kardon",
+            "BMW Live Cockpit Plus: Panel de instrumentos semi-digital con pantalla central de 5,1” y pantalla de control de alta resolución de 10,25’’",
+            "Sistema operativo BMW iDrive 7.0 con widgets y pantallas personalizables mostradas en tiempo real",
+            "Operación del sistema mediante control por voz de asistente personal inteligente BMW (“Hola BMW”), mando iDrive touch y pantalla táctil",
+            "Bluetooth (streaming/phone)",
+            "Preparación para Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, Audiobooks))"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos",
+            "Luces de día con anillos LED",
+            "Asistente de luces de carretera",
+            "Sensores de lluvia y luz",
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento automático en paralelo (volante, aceleración, frenos y marchas)",
+            "Control activo de distancia de estacionamiento (previene o minimiza el daño al estacionar en reversa hasta 5 km/h, alertando o frenando el vehículo)",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Modos de conducción (Eco-Pro, Comfort y Sport)",
+            "Función Auto Start-Stop",
+            "Retrovisor int. / ext. anti-deslumbramiento automático",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero con función de frenado en pendiente",
+            "Driving Assistant: Advertencia de salida de carril con vibraciones en volante, advertencia de cambio de carril con monitoreo de punto ciego, advertencia de colisión frontal con intervención de frenos, advertencia de tráfico cruzado en la parte trasera y prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_bmw_x4_xdrive20i_dynamic_s_lci_.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

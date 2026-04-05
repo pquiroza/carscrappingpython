@@ -1,0 +1,298 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "NUEVA POER P500",
+        "año": null,
+        "versiones": [
+            "PHEV_4WD_DELUXE"
+        ]
+    },
+    "pdf": "ficha-tecnica_-poer-p500_nov-0711.pdf",
+    "motor": {
+        "tipo": {
+            "PHEV_4WD_DELUXE": "Gasolina 4 cilindros turbo + motor eléctrico (PHEV)"
+        },
+        "cilindrada_l": {
+            "PHEV_4WD_DELUXE": 2.0
+        },
+        "potencia_combustion_hp_rpm": {
+            "PHEV_4WD_DELUXE": "241 / 6.000"
+        },
+        "potencia_electrica_hp": {
+            "PHEV_4WD_DELUXE": "161"
+        },
+        "potencia_maxima_combinada_hp": {
+            "PHEV_4WD_DELUXE": "402"
+        },
+        "torque_combustion_nm_rpm": {
+            "PHEV_4WD_DELUXE": "380 / 4.000"
+        },
+        "torque_electrico_nm": {
+            "PHEV_4WD_DELUXE": "400"
+        },
+        "torque_maximo_combinado_nm": {
+            "PHEV_4WD_DELUXE": "750"
+        }
+    },
+    "transmision_y_chasis": {
+        "transmision": {
+            "PHEV_4WD_DELUXE": "Automática 9 velocidades con motor eléctrico incorporado"
+        },
+        "sistema_direccion": {
+            "PHEV_4WD_DELUXE": "Asistida eléctricamente"
+        },
+        "estructura": {
+            "PHEV_4WD_DELUXE": "Chasis tipo bastidor"
+        },
+        "suspension_delantera": {
+            "PHEV_4WD_DELUXE": "Independiente de doble horquilla"
+        },
+        "suspension_trasera": {
+            "PHEV_4WD_DELUXE": "Eje rígido con espirales"
+        },
+        "sistema_frenos": {
+            "PHEV_4WD_DELUXE": "Doble circuito con asistencia por vacío"
+        },
+        "frenos_delanteros_traseros": {
+            "PHEV_4WD_DELUXE": "Discos ventilados / Discos ventilados"
+        },
+        "traccion_4x4": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "bloqueo_electronico_diferencial_delantero_y_trasero": {
+            "PHEV_4WD_DELUXE": true
+        }
+    },
+    "dimensiones_y_capacidades": {
+        "largo_ancho_alto_mm": {
+            "PHEV_4WD_DELUXE": "5.445 x 1.991 x 1.924"
+        },
+        "distancia_entre_ejes_mm": {
+            "PHEV_4WD_DELUXE": "3.350"
+        },
+        "distancia_minima_al_suelo_mm": {
+            "PHEV_4WD_DELUXE": "232"
+        },
+        "capacidad_estanque_combustible_l": {
+            "PHEV_4WD_DELUXE": "75"
+        },
+        "capacidad_carga_con_pasajeros_kg": {
+            "PHEV_4WD_DELUXE": "1.050"
+        },
+        "capacidad_arrastre_con_sin_frenos": {
+            "PHEV_4WD_DELUXE": "750 / 2.500"
+        },
+        "neumaticos": {
+            "PHEV_4WD_DELUXE": "265/65 R18 Cooper All Terrain (AT)"
+        },
+        "autonomia_electrica_nedc_km": {
+            "PHEV_4WD_DELUXE": "115"
+        },
+        "rango_ampliado_nedc_km": {
+            "PHEV_4WD_DELUXE": "1.060"
+        },
+        "tiempo_carga_dc_30_80_50kw": {
+            "PHEV_4WD_DELUXE": "24 minutos"
+        },
+        "tiempo_carga_wallbox_7kw_15_80": {
+            "PHEV_4WD_DELUXE": "6,5 horas"
+        }
+    },
+    "interior": {
+        "climatizador_bizona": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "salida_aire_trasera_con_climatizador": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "hud": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "panel_digital_12_3": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "radio_touch_14_6_carplay_android_auto_inalambrico": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "sistema_audio_10_parlantes_infinity": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "cargador_inalambrico_delantero_y_trasero": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "selector_modos_conduccion": {
+            "PHEV_4WD_DELUXE": "Eco/Normal/Sport/4H/4L"
+        },
+        "volante_calefaccionado_ecocuero": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "paletas_cambio": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "asiento_conductor_electrico_8p_con_memoria": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "asiento_copiloto_electrico": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "asientos_delanteros_calefaccionados_y_ventilados": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "asientos_delanteros_masajeador": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "asientos_traseros_calefaccionados_y_ventilados": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "tapiz_ecocuero": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "detalles_interiores_tipo_madera": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "sunroof_panoramico": {
+            "PHEV_4WD_DELUXE": true
+        }
+    },
+    "exterior": {
+        "luces_principales_led": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "luces_diurnas_drl": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "neblineros_delanteros_y_traseros_led": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "sensor_encendido_automatico_luces": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "limpiaparabrisas_sensor_lluvia": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "pisaderas_laterales_electronicas": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "llantas_aleacion_bitono_aro_18": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "portalon_cierre_electrico": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "portalon_doble_opcion_apertura": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "bedliner_pickup": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "cubo_arrastre_2": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "conector_carga_tipo_2_y_ccs": {
+            "PHEV_4WD_DELUXE": true
+        }
+    },
+    "seguridad": {
+        "airbag_frontal_doble": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "airbags_laterales_2": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "airbags_cortina_2": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "abs_ebd": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "esp": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "tcs": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "rmi": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "hhc": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "hdc": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "tpms": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "sensores_estacionamiento_delanteros_y_traseros": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "camara_360_y_180_chasis_transparente": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "isofix_2": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "alarma_exceso_velocidad": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "inmovilizador_antirrobo": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "corte_automatico_combustible_colision": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "activacion_senalizadores_frenado_emergencia": {
+            "PHEV_4WD_DELUXE": true
+        }
+    },
+    "adas": {
+        "acc": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "aeb": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "aeb_peatones_y_bicicletas": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "fcw": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "rcw": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "lka": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "bsm": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "tsr": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "luces_altas_inteligentes": {
+            "PHEV_4WD_DELUXE": true
+        },
+        "estacionamiento_asistido": {
+            "PHEV_4WD_DELUXE": true
+        }
+    },
+    "colores": [
+        "Blanco",
+        "Negro",
+        "Plata"
+    ],
+    "equipamiento_opcional": {
+        "tapa_pickup_retractil": false,
+        "tapa_rigida_plegable_cubre_pickup": false
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización a formato estándar por versiones (sin inventar campos fuera del extracto entregado)",
+        "versiones_en_documento": 1,
+        "notas": [
+            "En el input venía duplicada la característica 'Pisaderas laterales electrónicas' en Exterior; se dejó una sola.",
+            "Los campos de carga y autonomía están en ciclo NEDC según el extracto (se mantiene tal cual)."
+        ]
+    }
+}

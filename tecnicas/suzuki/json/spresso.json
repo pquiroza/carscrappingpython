@@ -1,0 +1,149 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Nuevo S-Presso",
+        "año": null,
+        "versiones": [
+            "1.0 GLX PLUS",
+            "1.0 AMT GLX PLUS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.0 GLX PLUS": "K10C",
+            "1.0 AMT GLX PLUS": "K10C"
+        },
+        "cilindrada": {
+            "1.0 GLX PLUS": 998,
+            "1.0 AMT GLX PLUS": 998
+        },
+        "potencia_hp": {
+            "1.0 GLX PLUS": "66",
+            "1.0 AMT GLX PLUS": "66"
+        },
+        "potencia_rpm": {
+            "1.0 GLX PLUS": "6.000",
+            "1.0 AMT GLX PLUS": "6.000"
+        },
+        "torque_nm": {
+            "1.0 GLX PLUS": "89",
+            "1.0 AMT GLX PLUS": "89"
+        },
+        "torque_rpm": {
+            "1.0 GLX PLUS": "3.500",
+            "1.0 AMT GLX PLUS": "3.500"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.0 GLX PLUS": "5MT",
+            "1.0 AMT GLX PLUS": "5AMT"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Barra de torsión con resorte",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Tambor y Zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.0 GLX PLUS": "165/70 R14",
+            "1.0 AMT GLX PLUS": "165/70 R14"
+        },
+        "rueda_repuesto": "165/70 R14"
+    },
+    "dimensiones": {
+        "largo_mm": 3565,
+        "ancho_mm": 1520,
+        "alto_mm": 1567,
+        "distancia_ejes_mm": 2380,
+        "despeje_suelo_mm": 181,
+        "peso_bruto_kg": 1170,
+        "capacidad_maletero_lts": 239,
+        "capacidad_estanque_lts": 27,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "1.0 GLX PLUS": "17,5",
+            "1.0 AMT GLX PLUS": "18,6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "1.0 GLX PLUS": "20,9",
+            "1.0 AMT GLX PLUS": "21,7"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "1.0 GLX PLUS": "23,5",
+            "1.0 AMT GLX PLUS": "24,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            {
+                "caracteristica": "Hill Hold Control",
+                "1.0 GLX PLUS": false,
+                "1.0 AMT GLX PLUS": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos color carrocería",
+            "Llantas de aleación Bitono",
+            "Manillas exteriores color carrocería",
+            "Parachoques Bitono"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Espejos retrovisores exteriores ajustables eléctricamente",
+            "Alzavidrios delanteros eléctricos",
+            "Apertura de portalón trasero desde el interior",
+            "Apertura de tapa de gasolina desde el interior",
+            "Calefacción",
+            "Cierre centralizado con comando a distancia",
+            "Desempañador de vidrio trasero",
+            "Luz interior de cabina (3 posiciones)",
+            "Radio multimedia con pantalla táctil y Bluetooth",
+            "Sistema Android Auto y Apple CarPlay",
+            "Salida 12V Consola delantera"
+        ],
+        "seguridad": [
+            "Alarma de uso de cinturón de seguridad delanteros",
+            "Anclaje Isofix (2)",
+            "Barras de protección en las puertas",
+            "Cinturones de seguridad traseros de tres puntas (2) dos puntas (1)",
+            "Doble airbag frontal",
+            "ESP",
+            "Frenos ABS",
+            "Seguro niños puertas trasera",
+            "Sensores de retroceso",
+            "Sistema inmovilizador anti-robo"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo",
+        "Gris",
+        "Plata",
+        "Blanco",
+        "Azul Claro Perlado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "1691599862-qdavkb30hj.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

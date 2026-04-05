@@ -1,0 +1,151 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "ZS HEV",
+        "año": 2025,
+        "versiones": [
+            "1.5L_HEV_COM+"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5L + HEV",
+        "cilindrada": "1.5L",
+        "potencia_hp": "191Hp",
+        "potencia_rpm": null,
+        "torque_nm": "425Nm",
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": "Hybrid AT 3",
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Frenos de disco en las 4 ruedas",
+        "frenos_traseros": "Frenos de disco en las 4 ruedas",
+        "neumaticos": "215/55R17",
+        "rueda_repuesto": "Kit de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 4430,
+        "ancho_mm": 1818,
+        "alto_mm": 1635,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación",
+            "1.5L_HEV_COM+": "17\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Battery",
+            "1.5L_HEV_COM+": "1,83Kw/h"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Aire acondicionado con climatizador",
+            "Salidas aire segunda fila",
+            "Volante multifunción cuero",
+            "Volante ajustable altura",
+            "Llave inteligente (Keyless)",
+            "Encendido one button",
+            "Bloqueo automático puertas",
+            "Asiento conductor 6 posiciones",
+            "Asiento pasajero 4 posiciones",
+            "Asiento trasero 60/40",
+            "Asientos tela",
+            "Espejo interior antiencandilamiento manual",
+            "Posavasos delantero",
+            "Apoyabrazos central",
+            "Cluster 7\"",
+            "Cluster ajuste brillo y color",
+            "Computador a bordo",
+            "Pantalla 10,25\"",
+            "Android Auto & CarPlay",
+            "Bluetooth",
+            "Cámara retroceso líneas auxiliares",
+            "Sistema audio 6 parlantes",
+            "USB delanteros 2",
+            "USB trasero 1",
+            "Cargador 12V delantero"
+        ],
+        "exterior": [
+            "Luces proyector LED",
+            "Sensor encendido luces",
+            "Follow me home",
+            "Luces diurnas LED",
+            "Neblinero trasero",
+            "Luces traseras LED",
+            "Espejos eléctricos con desempañador",
+            "Espejos plegables eléctricos",
+            "Sensor lluvia",
+            "Alzavidrios eléctricos 4 puertas one-touch",
+            "Spoiler trasero",
+            "Barras techo",
+            "Kit Aero",
+            "Sensor estacionamiento trasero",
+            "Sonido para peatones"
+        ],
+        "seguridad": [
+            "Recordatorio cinturón conductor",
+            "Recordatorio cinturón pasajero",
+            "Recordatorio cinturón traseros",
+            "Cinturón conductor con pretensor",
+            "Cinturón pasajero con pretensor",
+            "Cinturón traseros laterales con pretensor",
+            "Isofix + Top Tether",
+            "Airbags frontales 2",
+            "Airbags laterales 2",
+            "Airbags cortina 2",
+            "Sistema antirobo",
+            "Inmobilizador",
+            "Alarma perimetral",
+            "EPB",
+            "Autohold",
+            "TPMS"
+        ],
+        "tecnologia": [
+            "MG Pilot FCW",
+            "LDW",
+            "AEB",
+            "ACC",
+            "LKA",
+            "ELK",
+            "SAS",
+            "TJA",
+            "BSD",
+            "LCA",
+            "RCTA",
+            "IHC",
+            "ESP + EPBI (ABS+EBD+CBC+TCS+VDC+HAZ+BDW)",
+            "HAC",
+            "HDC",
+            "ARP"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-zs-hev.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Documento incluye una sola versión HEV COM+. Todos los ítems marcados S en tabla fueron incluidos como equipamiento estándar."
+    }
+}

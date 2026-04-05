@@ -1,0 +1,364 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "Q6 e-tron",
+        "año": null,
+        "versiones": [
+            "45",
+            "50 S line",
+            "55 S line quattro"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "45": "Motor eléctrico (1 motor sincrónico en eje trasero)",
+            "50 S line": "Motor eléctrico (1 motor sincrónico en eje trasero)",
+            "55 S line quattro": "Motor eléctrico (2 motores: sincrónico en eje trasero y asincrónico en eje delantero)"
+        },
+        "cilindrada": {
+            "45": null,
+            "50 S line": null,
+            "55 S line quattro": null
+        },
+        "potencia_hp": {
+            "45": "252",
+            "50 S line": "306",
+            "55 S line quattro": "388"
+        },
+        "potencia_rpm": {
+            "45": null,
+            "50 S line": null,
+            "55 S line quattro": null
+        },
+        "torque_nm": {
+            "45": "450",
+            "50 S line": "485",
+            "55 S line quattro": "580"
+        },
+        "torque_rpm": {
+            "45": null,
+            "50 S line": null,
+            "55 S line quattro": null
+        },
+        "combustible": null,
+        "transmision": {
+            "45": "Automática de 1 velocidad",
+            "50 S line": "Automática de 1 velocidad",
+            "55 S line quattro": "Automática de 1 velocidad"
+        },
+        "traccion": {
+            "45": "Trasera",
+            "50 S line": "Trasera",
+            "55 S line quattro": "Integral permanente quattro"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "45": "Delanteras 235/60 R19” – Traseras 255/55 R19”",
+            "50 S line": "Delanteras 255/50 R20” – Traseras 285/45 R20”",
+            "55 S line quattro": "Delanteras 255/50 R20” – Traseras 285/45 R20”"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4771,
+        "ancho_mm": 2193,
+        "alto_mm": 1702,
+        "distancia_ejes_mm": 2899,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "526 / 1.529",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía eléctrica**",
+            "45": "Hasta 530 km",
+            "50 S line": "Hasta 640 km",
+            "55 S line quattro": "Hasta 625 km"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "45": "7,0 seg",
+            "50 S line": "6,6 seg",
+            "55 S line quattro": "5,9 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "45": "210 km/h",
+            "50 S line": "210 km/h",
+            "55 S line quattro": "210 km/h"
+        },
+        {
+            "caracteristica": "Tipo de batería",
+            "45": "Ion de litio",
+            "50 S line": "Ion de litio",
+            "55 S line quattro": "Ion de litio"
+        },
+        {
+            "caracteristica": "Capacidad bruta de la batería",
+            "45": "83 kW",
+            "50 S line": "100 kW",
+            "55 S line quattro": "100 kW"
+        },
+        {
+            "caracteristica": "Velocidad de carga* (Cargador de 150kW DC)",
+            "45": "30 min",
+            "50 S line": "30 min",
+            "55 S line quattro": "30 min"
+        },
+        {
+            "caracteristica": "Velocidad de carga* (Cargador de 11kW AC)",
+            "45": "7 horas",
+            "50 S line": "7 horas",
+            "55 S line quattro": "7 horas"
+        },
+        {
+            "caracteristica": "Velocidad de carga* (Cargador de 1,6kW AC)",
+            "45": "60 horas",
+            "50 S line": "60 horas",
+            "55 S line quattro": "60 horas"
+        },
+        {
+            "caracteristica": "Peso",
+            "45": "2.200 kg",
+            "50 S line": "2.275 kg",
+            "55 S line quattro": "2.275 kg"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "45": "Sensor trasero y delantero, con cámara 360° y park assist",
+                "50 S line": "Sensor trasero y delantero, con cámara 360° y park assist",
+                "55 S line quattro": "Sensor trasero y delantero, con cámara 360° y park assist"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "45": "LED",
+                "50 S line": "Matrix LED con indicador dinámico y Digital Light Signature",
+                "55 S line quattro": "Matrix LED con indicador dinámico y Digital Light Signature"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "45": "LED con indicador dinámico",
+                "50 S line": "LED con indicador dinámico",
+                "55 S line quattro": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "45": "Delanteras 235/60 R19” – Traseras 255/55 R19”",
+                "50 S line": "Delanteras 255/50 R20” – Traseras 285/45 R20”",
+                "55 S line quattro": "Delanteras 255/50 R20” – Traseras 285/45 R20”"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "45": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "50 S line": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "55 S line quattro": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Portalón",
+                "45": "Apertura y cierre eléctrico",
+                "50 S line": "Apertura y cierre eléctrico",
+                "55 S line quattro": "Apertura y cierre eléctrico"
+            },
+            {
+                "caracteristica": "Suspensión",
+                "45": null,
+                "50 S line": "Tren de rodaje deportivo con suspensión rebajada en 25 mm",
+                "55 S line quattro": "Tren de rodaje deportivo con suspensión rebajada en 25 mm"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "45": "Automática 2 zonas / Automática 3 zonas",
+                "50 S line": "Automática 2 zonas / Automática 3 zonas",
+                "55 S line quattro": "Automática 2 zonas / Automática 3 zonas"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "45": "LED / LED, Proyección LED en puertas con logo e-tron",
+                "50 S line": "LED / LED, Proyección LED en puertas con logo e-tron",
+                "55 S line quattro": "LED / LED, Proyección LED en puertas con logo e-tron"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "45": "MMI con pantalla Touch 10,1” / MMI con pantalla Touch 14,5”",
+                "50 S line": "MMI con pantalla Touch 10,1” / MMI con pantalla Touch 14,5” + Pantalla Touch 10,9’’ para el acompañante",
+                "55 S line quattro": "MMI con pantalla Touch 10,1” / MMI con pantalla Touch 14,5” + Pantalla Touch 10,9’’ para el acompañante"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "45": "Digital 10,25” / Virtual Cockpit Plus 11,9”",
+                "50 S line": "Digital 10,25” / Virtual Cockpit Plus 11,9”",
+                "55 S line quattro": "Digital 10,25” / Virtual Cockpit Plus 11,9”"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "45": "Basic Plus 6 parlantes - 80 W / Audi Sound System 10 altavoces + subwoofer 180W",
+                "50 S line": "Basic Plus 6 parlantes - 80 W / Audi Sound System 10 altavoces + subwoofer 180W",
+                "55 S line quattro": "Basic Plus 6 parlantes - 80 W / Audi Sound System 10 altavoces + subwoofer 180W"
+            },
+            {
+                "caracteristica": "Soporte lumbar",
+                "45": "No / Sí (incluido en el bloque con calefacción y soporte lumbar)",
+                "50 S line": "No / Sí (incluido en el bloque con calefacción y soporte lumbar)",
+                "55 S line quattro": "No / Sí (incluido en el bloque con calefacción y soporte lumbar)"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "45": "Leather - Leatherette / Leather-Leatherette",
+                "50 S line": "Leather - Leatherette / Leather-Leatherette con logo S en relieve y techo interior en negro",
+                "55 S line quattro": "Leather-Leatherette con logo S en relieve y techo interior en negro"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "45": "Apple Car Play y Android Auto",
+                "50 S line": "Apple Car Play y Android Auto",
+                "55 S line quattro": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "45": "Asiento estándar con ajuste manual / Estándar con ajuste manual, calefactados (delanteros y traseros) y con soporte lumbar",
+                "50 S line": "Asiento estándar con ajuste manual / Deportivos con ajuste eléctrico y función memoria (conductor), calefactados (delanteros y traseros) y con soporte lumbar",
+                "55 S line quattro": "Asiento estándar con ajuste manual / Deportivos con ajuste eléctrico y función memoria (conductor), calefactados (delanteros y traseros) y con soporte lumbar"
+            },
+            {
+                "caracteristica": "Volante",
+                "45": "Multifunción en cuero con levas de cambio / Multifunción en cuero con levas de cambio y calefactado",
+                "50 S line": "Multifunción en cuero con levas de cambio / Deportivo multifunción en cuero con levas de cambio y calefactado",
+                "55 S line quattro": "Multifunción en cuero con levas de cambio / Deportivo multifunción en cuero con levas de cambio y calefactado"
+            },
+            {
+                "caracteristica": "Phone box*",
+                "45": "Sí, con carga inalámbrica para Smartphones",
+                "50 S line": "Sí, con carga inalámbrica para Smartphones",
+                "55 S line quattro": "Sí, con carga inalámbrica para Smartphones"
+            },
+            {
+                "caracteristica": "Colores interior",
+                "45": "Negro / Beige Perla / Café Santos",
+                "50 S line": "Negro / Gris",
+                "55 S line quattro": "Negro / Gris"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Airbags",
+                "45": "Airbags frontales, laterales delanteros y de cortina",
+                "50 S line": "Airbags frontales, laterales delanteros y de cortina",
+                "55 S line quattro": "Airbags frontales, laterales (delanteros y traseros) y de cortina"
+            },
+            {
+                "caracteristica": "Asistencia al arranque en pendiente",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Cargador compacto e-tron de hasta 11kW (AC) / Cable para carga pública modo 3",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Asistencias",
+                "45": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego",
+                "50 S line": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "55 S line quattro": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert"
+            },
+            {
+                "caracteristica": "Control crucero adaptativo con limitador de velocidad",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Kit de reparación de neumáticos y pernos de seguridad antirrobo",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            },
+            {
+                "caracteristica": "Sensor lluvia y luz",
+                "45": true,
+                "50 S line": true,
+                "55 S line quattro": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul Ascari",
+        "Azul Plasma",
+        "Rojo Soneira",
+        "Blanco Glaciar",
+        "Gris Daytona",
+        "Gris Magnético",
+        "Gris Manhattan",
+        "Negro Mitos"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de fichas por versión Audi (texto/valores tal cual del PDF; Sí/No -> true/false cuando aplica)",
+        "fuente": "Q6-e-tron-45.pdf | Q6-e-tron-50-S-line.pdf | Q6-e-tron-55-S-line-quattro.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Los PDFs incluyen dos bloques de equipamiento interior (configuraciones) por versión, por eso algunos ítems se registran como 'A / B'. En dimensiones, el peso varía por versión; por eso dimensiones.peso_bruto_kg queda null y el peso se registra en tabla_comparativa_rendimiento."
+    }
+}

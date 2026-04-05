@@ -1,0 +1,251 @@
+{
+    "vehiculo": {
+        "marca": "MITSUBISHI",
+        "modelo": "XPANDER",
+        "año": null,
+        "versiones": [
+            "MT GL",
+            "AT GLX",
+            "CROSS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "MT GL": "1,5 Lts DOHC 4-Válvulas",
+            "AT GLX": "1,5 Lts DOHC 4-Válvulas",
+            "CROSS": "1,5 Lts DOHC 4-Válvulas"
+        },
+        "cilindrada": {
+            "MT GL": 1499,
+            "AT GLX": 1499,
+            "CROSS": 1499
+        },
+        "potencia_hp": {
+            "MT GL": "103",
+            "AT GLX": "103",
+            "CROSS": "103"
+        },
+        "potencia_rpm": {
+            "MT GL": "6000",
+            "AT GLX": "6000",
+            "CROSS": "6000"
+        },
+        "torque_nm": {
+            "MT GL": "141",
+            "AT GLX": "141",
+            "CROSS": "141"
+        },
+        "torque_rpm": {
+            "MT GL": "4000",
+            "AT GLX": "4000",
+            "CROSS": "4000"
+        },
+        "combustible": "Bencina",
+        "transmision": {
+            "MT GL": "Mecánica (5MT)",
+            "AT GLX": "Automática (4AT)",
+            "CROSS": "Automática (4AT)"
+        },
+        "traccion": {
+            "MT GL": "2WD",
+            "AT GLX": "2WD",
+            "CROSS": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson, con espirales y barra estabilizadora.",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "MT GL": "195/65R16",
+            "AT GLX": "195/65R16",
+            "CROSS": "205/55R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4595,
+        "ancho_mm": {
+            "MT GL": 1750,
+            "AT GLX": 1750,
+            "CROSS": 1790
+        },
+        "alto_mm": {
+            "MT GL": 1730,
+            "AT GLX": 1730,
+            "CROSS": 1750
+        },
+        "distancia_ejes_mm": 2775,
+        "despeje_suelo_mm": 225,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo km/l (Ciudad / Carretera / Mixto)",
+            "MT GL": "11,5 / 16,7 / 14,3",
+            "AT GLX": "11,5 / 15,9 / 13,9",
+            "CROSS": "11,5 / 15,9 / 13,9"
+        },
+        {
+            "caracteristica": "Norma de emisiones",
+            "MT GL": "EURO VI",
+            "AT GLX": "EURO VI",
+            "CROSS": "EURO VI"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (Kg)",
+            "MT GL": "1245",
+            "AT GLX": "1255",
+            "CROSS": "1270"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores con plegado eléctrico",
+                "MT GL": false,
+                "AT GLX": true,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "MT GL": false,
+                "AT GLX": true,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Luces de circulación diurnas (D.R.L) LED",
+                "MT GL": false,
+                "AT GLX": true,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "MT GL": false,
+                "AT GLX": true,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Vidrios traseros con lámina de seguridad tintada",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Control crucero",
+                "MT GL": false,
+                "AT GLX": true,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Aire acondicionado manual digital",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Keyless Entry (Apertura sin llave)",
+                "MT GL": false,
+                "AT GLX": true,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Keyless Operation System (KOS) - Botón de encendido",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Volante y palanca de transmisión de cuero ecológico",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de cuero ecológico",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Active Yaw Control (AYC)",
+                "MT GL": false,
+                "AT GLX": false,
+                "CROSS": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos",
+            "Espejos exteriores con luces de viraje",
+            "Luces de posición LED",
+            "Manillas exteriores cromadas",
+            "Antena en el techo"
+        ],
+        "interior": [
+            "Radio Carplay & Android Auto",
+            "Control de audio en volante",
+            "Puerto USB (2)",
+            "Salida 12V",
+            "Aire acondicionado manual",
+            "Volante regulable en altura y profundidad",
+            "Alza vidrios eléctricos",
+            "Consola central con apoya brazos delantera",
+            "Apoya brazos central trasero con porta vasos"
+        ],
+        "seguridad": [
+            "Carrocería con deformación programada (RISE Body)",
+            "Anclaje ISOFIX",
+            "Inmovilizador",
+            "Cierre centralizado",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Recordatorio de cinturón de seguridad (Piloto-Copiloto)",
+            "Alarma antirrobo (bocina y luces)",
+            "Airbags dobles delanteros",
+            "Cámara de retroceso",
+            "Frenos ABS con EBD",
+            "Control activo de estabilidad (ASC)",
+            "Asistente de partida en pendiente (HSA)",
+            "Sistema de señal de frenado de emergencia",
+            "Cinturón de seguridad de 3 puntos (6 usuarios) - 2 puntos (1 usuario)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata",
+        "Negro",
+        "Naranjo",
+        "Gris grafito",
+        "Verde bronce",
+        "Blanco cuarzo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de tabla ficha técnica Mitsubishi (ticket verde=true, x roja=false; columna única = aplica a todas las versiones; valores textuales exactos del PDF)",
+        "fuente": "ficha-xpander-1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Especificaciones técnicas y equipamiento extraídos directamente de tablas e imágenes del PDF (páginas 2 y 3). Cuando el valor no aparece explícito en el documento se deja en null para no inventar."
+    }
+}

@@ -1,0 +1,420 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Tera",
+        "año": null,
+        "versiones": [
+            "Trend MT",
+            "Comfort MT",
+            "Outfit AT",
+            "Comfort AT",
+            "High AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Trend MT": "1.6 MSI",
+            "Comfort MT": "1.6 MSI",
+            "Outfit AT": "1.0 TSI",
+            "Comfort AT": "1.0 TSI",
+            "High AT": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Trend MT": null,
+            "Comfort MT": null,
+            "Outfit AT": null,
+            "Comfort AT": null,
+            "High AT": null
+        },
+        "potencia_hp": {
+            "Trend MT": "110",
+            "Comfort MT": "110",
+            "Outfit AT": "109",
+            "Comfort AT": "109",
+            "High AT": "109"
+        },
+        "potencia_rpm": {
+            "Trend MT": "5.750",
+            "Comfort MT": "5.750",
+            "Outfit AT": "5.000",
+            "Comfort AT": "5.000",
+            "High AT": "5.000"
+        },
+        "torque_nm": {
+            "Trend MT": "155",
+            "Comfort MT": "155",
+            "Outfit AT": "170",
+            "Comfort AT": "170",
+            "High AT": "170"
+        },
+        "torque_rpm": {
+            "Trend MT": "4.000",
+            "Comfort MT": "4.000",
+            "Outfit AT": "1.750-4.250",
+            "Comfort AT": "1.750-4.250",
+            "High AT": "1.750-4.250"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Trend MT": "MT 5",
+            "Comfort MT": "MT 5",
+            "Outfit AT": "AT 6",
+            "Comfort AT": "AT 6",
+            "High AT": "AT 6"
+        },
+        "traccion": "4X2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Trend MT": "205/60 R16",
+            "Comfort MT": "205/60 R16",
+            "Outfit AT": "205/60 R16",
+            "Comfort AT": "205/55 R17",
+            "High AT": "205/55 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4151,
+        "ancho_mm": 1777,
+        "alto_mm": 1504,
+        "distancia_ejes_mm": 2566,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 350,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (Km/l)",
+            "Trend MT": "10,8",
+            "Comfort MT": "10,8",
+            "Outfit AT": "13,1",
+            "Comfort AT": "13,1",
+            "High AT": "13,1"
+        },
+        {
+            "caracteristica": "Consumo Mixto (Km/l)",
+            "Trend MT": "14,3",
+            "Comfort MT": "14,3",
+            "Outfit AT": "16,3",
+            "Comfort AT": "16,3",
+            "High AT": "16,3"
+        },
+        {
+            "caracteristica": "Consumo Carretera (Km/l)",
+            "Trend MT": "17,7",
+            "Comfort MT": "17,7",
+            "Outfit AT": "19,0",
+            "Comfort AT": "19,0",
+            "High AT": "19,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de acero",
+                "Trend MT": "16”",
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": false,
+                "High AT": false
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "Trend MT": false,
+                "Comfort MT": "16”",
+                "Outfit AT": "16”",
+                "Comfort AT": "17”",
+                "High AT": "17”"
+            },
+            {
+                "caracteristica": "Encendido de luces automático",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Función Leaving and Coming Home",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Color Techo",
+                "Trend MT": "Carrocería",
+                "Comfort MT": "Carrocería",
+                "Outfit AT": "Carrocería",
+                "Comfort AT": "Carrocería",
+                "High AT": "Negro"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Reposabrazo conductor",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": true,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Trend MT": "Tela",
+                "Comfort MT": "Tela",
+                "Outfit AT": "Tela",
+                "Comfort AT": "Cuero Sintético",
+                "High AT": "Cuero Sintético"
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "Trend MT": true,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": false,
+                "High AT": false
+            },
+            {
+                "caracteristica": "Volante multifunción en cuero",
+                "Trend MT": false,
+                "Comfort MT": true,
+                "Outfit AT": false,
+                "Comfort AT": false,
+                "High AT": false
+            },
+            {
+                "caracteristica": "Volante multifunción en cuero con levas de cambio",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": true,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior electrocromatico",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Luz ambiente",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Front Assist",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Detector de fatiga",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Indicador de presión de los neumáticos",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Lane Assist: Asistente de cambio de carril",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Side Assist: Detector de punto ciego",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero adaptativo",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": true,
+                "Comfort AT": true,
+                "High AT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Aire acondicionado \"Climatic\"",
+                "Trend MT": true,
+                "Comfort MT": true,
+                "Outfit AT": true,
+                "Comfort AT": false,
+                "High AT": false
+            },
+            {
+                "caracteristica": "Climatizador automático \"Climatronic\"",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos digital “Active Info Display”",
+                "Trend MT": "8”",
+                "Comfort MT": "8”",
+                "Outfit AT": "8”",
+                "Comfort AT": "10,25”",
+                "High AT": "10,25”"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "Trend MT": true,
+                "Comfort MT": true,
+                "Outfit AT": true,
+                "Comfort AT": false,
+                "High AT": false
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros y traseros",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "\"Keyless-Entry\" y botón de encendido",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "Trend MT": true,
+                "Comfort MT": true,
+                "Outfit AT": false,
+                "Comfort AT": false,
+                "High AT": false
+            },
+            {
+                "caracteristica": "Start & Stop con regeneración",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": true,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "Trend MT": false,
+                "Comfort MT": true,
+                "Outfit AT": true,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "Trend MT": false,
+                "Comfort MT": false,
+                "Outfit AT": false,
+                "Comfort AT": true,
+                "High AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neumáticos",
+            "Luces principales LED",
+            "Luz de día LED",
+            "Luces traseras LED",
+            "Retrovisores exteriores eléctricos con señalizador y tilt down",
+            "Barras de techo"
+        ],
+        "interior": [
+            "Asiento conductor con ajuste en altura",
+            "Asientos traseros abatibles",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Volante ajustable en altura y profundidad"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema de regulación del motor (MSR)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Control electrónico de tracción (ASR)",
+            "Bloqueo electrónico del diferencial (EDS)",
+            "Sistema ISOFIX",
+            "Alarma volumétrica",
+            "Inmovilizador electrónico",
+            "Cierre centralizado con control remoto",
+            "Rueda de repuesto",
+            "Asistente para arranque en pendientes"
+        ],
+        "tecnologia": [
+            "Radio Touch 10,1”",
+            "App Connect con Apple CarPlay y Android Auto Inalámbrico",
+            "Parlantes (4)",
+            "Puertos USB Tipo C"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Negro Ninja",
+        "Plata Lunar",
+        "Rojo Hipernova",
+        "Gris Platino",
+        "Azul Ártico",
+        "Blanco Candy"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=disponible, -=no disponible; valores/textos tal cual).",
+        "fuente": "202508-FT-Tera.pdf",
+        "versiones_en_documento": 5,
+        "notas": "La ficha incluye además: Velocidad Máxima (km/h) 1.6 MSI=182 / 1.0 TSI=180; Aceleración 0-100 km/h 1.6 MSI=10,2 / 1.0 TSI=11,8; Garantía: 3 años o 100.000 Kms. Estos ítems aparecen en el documento pero el formato JSON no tiene campos dedicados para guardarlos fuera de metadata."
+    }
+}

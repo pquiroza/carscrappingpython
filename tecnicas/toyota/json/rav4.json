@@ -1,0 +1,404 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "RAV4",
+        "año": null,
+        "versiones": [
+            "LE",
+            "XLE",
+            "XLE HV",
+            "XSE HV",
+            "LIMITED HV"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": "1.987 / 2.487",
+        "potencia_hp": "170 / 215 / 219",
+        "potencia_rpm": "6.600 / 5.700",
+        "torque_nm": "203 / 243 / 221",
+        "torque_rpm": "5.000 / 4.900 / 5.200",
+        "combustible": "Gasolina / Híbrido",
+        "transmision": "6MT / CVT",
+        "traccion": "2WD / AWD / AWD con tecnología E-Four"
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco Solido",
+        "neumaticos": null,
+        "rueda_repuesto": "Reducida 17\""
+    },
+    "dimensiones": {
+        "largo_mm": "4.600",
+        "ancho_mm": "1.855",
+        "alto_mm": "1.685",
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "580",
+        "capacidad_estanque_lts": "55"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "LE": "225/65 R17",
+            "XLE": "225/60 R18",
+            "XLE_HV": "225/60 R18",
+            "XSE_HV": "225/60 R18",
+            "LIMITED_HV": "225/60 R18"
+        },
+        {
+            "caracteristica": "Llanta aleación",
+            "LE": "17\"",
+            "XLE": "18\"",
+            "XLE_HV": "18\"",
+            "XSE_HV": "18\"",
+            "LIMITED_HV": "18\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso neto (kg)",
+            "LE": null,
+            "XLE": null,
+            "XLE_HV": null,
+            "XSE_HV": null,
+            "LIMITED_HV": null
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga util (kg)",
+            "LE": null,
+            "XLE": null,
+            "XLE_HV": null,
+            "XSE_HV": null,
+            "LIMITED_HV": null
+        },
+        {
+            "caracteristica": "Numero de pasajeros",
+            "LE": null,
+            "XLE": null,
+            "XLE_HV": null,
+            "XSE_HV": null,
+            "LIMITED_HV": null
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "LE": null,
+            "XLE": null,
+            "XLE_HV": null,
+            "XSE_HV": null,
+            "LIMITED_HV": null
+        },
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "LE": null,
+            "XLE": null,
+            "XLE_HV": null,
+            "XSE_HV": null,
+            "LIMITED_HV": null
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "LE": null,
+            "XLE": null,
+            "XLE_HV": null,
+            "XSE_HV": null,
+            "LIMITED_HV": null
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Combustible",
+                "LE": "Gasolina",
+                "XLE": "Gasolina",
+                "XLE_HV": "Híbrido",
+                "XSE_HV": "Híbrido",
+                "LIMITED_HV": "Híbrido"
+            },
+            {
+                "caracteristica": "Caja Cambios",
+                "LE": "6MT",
+                "XLE": "CVT",
+                "XLE_HV": "CVT",
+                "XSE_HV": "CVT",
+                "LIMITED_HV": "CVT"
+            },
+            {
+                "caracteristica": "Sistema Tracción",
+                "LE": "2WD / AWD",
+                "XLE": "2WD",
+                "XLE_HV": "AWD con tecnología E-Four",
+                "XSE_HV": "AWD con tecnología E-Four",
+                "LIMITED_HV": "AWD con tecnología E-Four"
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Pantalla Información tablero",
+                "LE": "4,2\"",
+                "XLE": "7\"",
+                "XLE_HV": "7\"",
+                "XSE_HV": "7\"",
+                "LIMITED_HV": "7\""
+            },
+            {
+                "caracteristica": "Mando al volante",
+                "LE": "Sí",
+                "XLE": "Sí",
+                "XLE_HV": "ACC + LDA +voz",
+                "XSE_HV": "ACC + LDA +voz",
+                "LIMITED_HV": "ACC + LDA +voz"
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Puerto USB",
+                "LE": "2 delanteros",
+                "XLE": "1 Delantero",
+                "XLE_HV": "3 del. + 2 tras.",
+                "XSE_HV": "3 del. + 2 tras.",
+                "LIMITED_HV": "3 del. + 2 tras."
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "LE": "No",
+                "XLE": "No",
+                "XLE_HV": "No",
+                "XSE_HV": "Panorámico corredizo",
+                "LIMITED_HV": "Panorámico corredizo"
+            },
+            {
+                "caracteristica": "Portalón trasero",
+                "LE": "Manual",
+                "XLE": "Eléctrico",
+                "XLE_HV": "Eléctrico",
+                "XSE_HV": "Eléctrico",
+                "LIMITED_HV": "Eléctrico"
+            },
+            {
+                "caracteristica": "Aire Acondicionado A/C",
+                "LE": "Manual",
+                "XLE": "Electrónico",
+                "XLE_HV": "Electrónico",
+                "XSE_HV": "Climatizador Dual",
+                "LIMITED_HV": "Climatizador Dual"
+            },
+            {
+                "caracteristica": "Material asientos",
+                "LE": "Tela",
+                "XLE": "Cuero",
+                "XLE_HV": "Cuero",
+                "XSE_HV": "Butaca Deportiva Cuero",
+                "LIMITED_HV": "Cuero"
+            },
+            {
+                "caracteristica": "Ajuste asiento delantero",
+                "LE": "Manual",
+                "XLE": "Eléctrico",
+                "XLE_HV": "Eléctrico",
+                "XSE_HV": "Eléctrico",
+                "LIMITED_HV": "Eléctrico con memoria"
+            },
+            {
+                "caracteristica": "Asiento calefaccionado",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Audio + Parlantes",
+                "LE": "6 parlantes + pantalla de 9\" con Android Auto y Apple Car Play",
+                "XLE": "6 parlantes + pantalla de 8\" con Apple Carplay & Android Auto",
+                "XLE_HV": "6 parlantes + pantalla de 8\" con Apple Carplay & Android Auto",
+                "XSE_HV": "6 parlantes + pantalla de 8\" con Apple Carplay & Android Auto",
+                "LIMITED_HV": "6 parlantes + pantalla de 8\" con Apple Carplay & Android Auto"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico celular",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Sistema de llave inteligente - Smart Key",
+                "LE": "No",
+                "XLE": "Sistema de acceso y encendido del motor sin llave",
+                "XLE_HV": "Sistema de acceso y encendido del motor sin llave",
+                "XSE_HV": "Sistema de acceso y encendido del motor sin llave",
+                "LIMITED_HV": "Sistema de acceso y encendido del motor sin llave"
+            },
+            {
+                "caracteristica": "Cámara retroceso",
+                "LE": "Si",
+                "XLE": "Sí + líneas dinámicas",
+                "XLE_HV": "Sí + líneas dinámicas",
+                "XSE_HV": "Sí + líneas dinámicas",
+                "LIMITED_HV": "Sí + líneas dinámicas"
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados oscuros (Privacy Glass)",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Rieles de techo",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Limpia parabrisas delantero",
+                "LE": "Con ajuste velocidad",
+                "XLE": "Con ajuste velocidad",
+                "XLE_HV": "Con ajuste velocidad",
+                "XSE_HV": "Sensor de lluvia",
+                "LIMITED_HV": "Sensor de lluvia"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "LE": "LED Parábola",
+                "XLE": "LED Parábola",
+                "XLE_HV": "LED Parábola",
+                "XSE_HV": "LED Parábola + AHB",
+                "LIMITED_HV": "LED Parábola + AHB"
+            },
+            {
+                "caracteristica": "Neblineros",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "Espejo retovisor",
+                "LE": "Eléctricos, calefaccionados y con señalizador",
+                "XLE": "Eléctricos, calefaccionados y con señalizador",
+                "XLE_HV": "Eléctricos, calefaccionados y con señalizador",
+                "XSE_HV": "Plegable, elec., calef., señ., BSM",
+                "LIMITED_HV": "Plegable, elec., calef., señ., BSM"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor estacionamiento",
+                "LE": "Trasero",
+                "XLE": "Trasero",
+                "XLE_HV": "Trasero",
+                "XSE_HV": "Trasero y Delantero",
+                "LIMITED_HV": "Trasero y Delantero"
+            },
+            {
+                "caracteristica": "PCS (Pre-Colision System/Sistema de Pre-Colisión)",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "LDA (Lane Keeping Assist System/Asistencia de cambio de carril)",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "SWS (Sway Warning System/Sistema de advertencia de balanceo)",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "AHB (Automatic High Beams/Luces altas automáticas)",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            },
+            {
+                "caracteristica": "ACC (Adaptive Cruise Control/Velocidad crucero adaptativa)",
+                "LE": "No",
+                "XLE": "Sí",
+                "XLE_HV": "Sí",
+                "XSE_HV": "Sí",
+                "LIMITED_HV": "Sí"
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Volante regulable en profundidad y altura (Sí)",
+            "Freno Mano (Electrónico)",
+            "Rueda repuesto (Reducida 17\")",
+            "Cubre equipaje (Sí)"
+        ],
+        "exterior": [
+            "Spoiler de techo (Si)",
+            "Nivelación focos automática (Sí)",
+            "Luces diurnas (DRL) (Led)"
+        ],
+        "seguridad": [
+            "Alerta presión neumáticos (Sí)",
+            "Sistema de frenos ABS con distribución electrónica de frenado (EBD) (Sí)",
+            "Control de estabilidad (VSC) (Sí)",
+            "Control de Remolque (Sí)",
+            "Asistencia de Arranque en Pendientes (HAC) (Sí)",
+            "Anclaje ISOFIX (Sí)",
+            "SRS Airbag (7) (Conductor, Rodilla Conductor, Pasajero, Laterales, Cortina)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FICHA_TEC_RAV4_ENE2025_SKnC0v9.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Datos extraídos solo de la tabla 'ESPECIFICACIONES TÉCNICAS'. Donde el documento no entrega el valor por versión o no aparece (p.ej., distancia entre ejes, despeje, pesos, rendimientos), se dejó null."
+    }
+}

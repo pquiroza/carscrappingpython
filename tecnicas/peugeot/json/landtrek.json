@@ -1,0 +1,125 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "LANDTREK",
+        "año": null,
+        "versiones": [
+            "2.2L 200hp 4x4 AT Action4"
+        ]
+    },
+    "motor": {
+        "tipo": "2.2 Turbo Diesel",
+        "cilindrada": "2184",
+        "potencia_hp": "200",
+        "potencia_rpm": "3500",
+        "torque_nm": "450",
+        "torque_rpm": "1500",
+        "combustible": "Diesel",
+        "transmision": "Automática 8 velocidades",
+        "traccion": "4x4"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente doble horquilla",
+        "suspension_trasera": "Paquete de resortes 5 hojas",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "265/60 R18",
+        "rueda_repuesto": "Aleación completa"
+    },
+    "dimensiones": {
+        "largo_mm": "5330",
+        "ancho_mm": "1963 / 2221",
+        "alto_mm": "1858 - 1897",
+        "distancia_ejes_mm": "3180",
+        "despeje_suelo_mm": "600",
+        "peso_bruto_kg": "3110",
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": "80"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "ACTION4": "265/60 R18"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "ACTION4": "2100"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga útil (kg)",
+            "ACTION4": "1085"
+        },
+        {
+            "caracteristica": "Remolque con freno (kg)",
+            "ACTION4": "3500"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "ACTION4": "9,7"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "ACTION4": "13,9"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "ACTION4": "12"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Cluster digital 7\"",
+            "Volante regulable en altura y profundidad",
+            "Asientos eléctricos conductor y pasajero",
+            "Climatizador automático bi-zona",
+            "Modos conducción: Normal / Deportivo / Nieve / Arena",
+            "Volante cuero",
+            "Keyless"
+        ],
+        "exterior": [
+            "Faros LED",
+            "Luces diurnas LED",
+            "Llantas aleación 18\"",
+            "Pisaderas laterales",
+            "Barras de techo",
+            "Espejos abatibles eléctricos"
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "ESP",
+            "ASR",
+            "Bloqueo diferencial trasero",
+            "Hill Assist",
+            "Hill Descend Control",
+            "Control crucero adaptativo",
+            "Cámara 360°",
+            "Sensor delantero y trasero",
+            "Sensor punto ciego",
+            "Airbags frontales + laterales + cortina",
+            "ISOFIX",
+            "Freno de mano eléctrico"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Landtrek MCA",
+        "versiones_en_documento": 1,
+        "notas": "Documento contiene una sola versión Action4."
+    }
+}

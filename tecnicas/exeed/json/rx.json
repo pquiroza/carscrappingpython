@@ -1,0 +1,157 @@
+{
+    "vehiculo": {
+        "marca": "EXEED",
+        "modelo": "RX",
+        "versiones": [
+            "2.0T DCT UNLIMITED",
+            "2.0T DCT UNLIMITED AWD"
+        ]
+    },
+    "motor": {
+        "tipo": "2.0 TGDI",
+        "combustible": "Gasolina",
+        "cilindrada_cc": 1998,
+        "potencia_hp_rpm": "245 / 5.500",
+        "torque_nm_rpm": "385 / 2000~4000",
+        "norma_emisiones": "EURO 6B"
+    },
+    "transmision": {
+        "caja": "DCT 7 velocidades",
+        "traccion": {
+            "2.0T DCT UNLIMITED": "FWD",
+            "2.0T DCT UNLIMITED AWD": "AWD"
+        },
+        "modos_conduccion": {
+            "2.0T DCT UNLIMITED": [
+                "NORMAL",
+                "ECO",
+                "SPORT"
+            ],
+            "2.0T DCT UNLIMITED AWD": [
+                "NORMAL",
+                "ECO",
+                "SPORT",
+                "NIEVE",
+                "BARRO",
+                "OFF ROAD",
+                "ARENA"
+            ]
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4775,
+        "ancho_mm": 1920,
+        "alto_mm": 1671,
+        "distancia_entre_ejes_mm": 2800,
+        "distancia_minima_suelo_mm": 187,
+        "capacidad_estanque_l": 65,
+        "capacidad_maleta_l": 660,
+        "peso_bruto_kg": {
+            "2.0T DCT UNLIMITED": 2147,
+            "2.0T DCT UNLIMITED AWD": 2237
+        }
+    },
+    "consumo_3cv": {
+        "2.0T DCT UNLIMITED": {
+            "ciudad_km_l": 9.0,
+            "carretera_km_l": 15.2,
+            "mixto_km_l": 12.3,
+            "emisiones_g_km": 195
+        },
+        "2.0T DCT UNLIMITED AWD": {
+            "ciudad_km_l": 8.3,
+            "carretera_km_l": 15.2,
+            "mixto_km_l": 11.6,
+            "emisiones_g_km": 196
+        }
+    },
+    "suspension": {
+        "2.0T DCT UNLIMITED": {
+            "delantera": "McPherson",
+            "trasera": "Multilink"
+        },
+        "2.0T DCT UNLIMITED AWD": {
+            "delantera": "CDC - Control de suspensión electrónica",
+            "trasera": "CDC - Control de suspensión electrónica"
+        }
+    },
+    "frenos": {
+        "delanteros": "Disco ventilado",
+        "traseros": "Disco sólido",
+        "sistema": "ABS + EBD + BAS + BOS",
+        "freno_mano": "Electrónico + AutoHold"
+    },
+    "equipamiento_interior": {
+        "climatizador_bizona": true,
+        "purificador_aire_pm25": true,
+        "encendido_keyless": true,
+        "start_stop": true,
+        "asiento_conductor": "Eléctrico 6 + lumbar 4 + extensión piernas 2 (12 posiciones)",
+        "asiento_copiloto": "Eléctrico (4 posiciones)",
+        "asientos_delanteros": "Ventilación y calefacción",
+        "asientos_traseros": "Abatibles 60/40",
+        "volante": {
+            "2.0T DCT UNLIMITED": "Multifunción regulable manual",
+            "2.0T DCT UNLIMITED AWD": "Multifunción regulable eléctrico"
+        },
+        "volante_calefaccionado": true,
+        "paddle_shifter": true,
+        "techo_panoramico": true,
+        "tapiz": "Mix eco cuero - cuero",
+        "color_interior": "Negro",
+        "pantalla": "12,3\" Widescreen",
+        "panel_digital": "12,3\" Widescreen",
+        "hud": true,
+        "apple_carplay_android_auto": "Inalámbrico",
+        "cargador_inalambrico": true,
+        "sistema_sonido": "Sony 14 parlantes / 2 USB / 2 USB-C"
+    },
+    "equipamiento_exterior": {
+        "llantas": "ARO 20",
+        "neumaticos": "Michelin 245/50/R20",
+        "neumatico_repuesto": "Full Size",
+        "faros_led": true,
+        "luces_diurnas_led": true,
+        "sensor_estacionamiento_delantero_trasero": true,
+        "camara_540_hd": true,
+        "portalon_electrico_manos_libres": true,
+        "barras_portaequipaje": true
+    },
+    "seguridad": {
+        "airbags": 8,
+        "esp": true,
+        "tcs": true,
+        "tpms": true,
+        "isofix": true,
+        "inmovilizador": true,
+        "dms": true,
+        "edr": true,
+        "dvr": true
+    },
+    "adas": [
+        "ACC",
+        "ICA",
+        "TJA",
+        "FCW",
+        "AEB",
+        "RCTA",
+        "RCTB",
+        "RCW",
+        "BSD",
+        "LCA",
+        "DOW",
+        "LDW",
+        "LKA",
+        "ELK",
+        "LDP",
+        "IHC",
+        "AFS",
+        "ASL",
+        "RSC",
+        "ID",
+        "HHC",
+        "HDC",
+        "ESS",
+        "EBA"
+    ]
+}

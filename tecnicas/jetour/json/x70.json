@@ -1,0 +1,219 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "X70",
+        "año": null,
+        "versiones": [
+            "1.5L_6MT_TURBO_FL",
+            "1.5L_6DCT_TURBO_FL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5L_6MT_TURBO_FL": "1.5 Turbo",
+            "1.5L_6DCT_TURBO_FL": "1.5 Turbo"
+        },
+        "cilindrada": {
+            "1.5L_6MT_TURBO_FL": 1498,
+            "1.5L_6DCT_TURBO_FL": 1498
+        },
+        "potencia_hp": {
+            "1.5L_6MT_TURBO_FL": "145",
+            "1.5L_6DCT_TURBO_FL": "145"
+        },
+        "potencia_rpm": {
+            "1.5L_6MT_TURBO_FL": "5500",
+            "1.5L_6DCT_TURBO_FL": "5500"
+        },
+        "torque_nm": {
+            "1.5L_6MT_TURBO_FL": "210",
+            "1.5L_6DCT_TURBO_FL": "210"
+        },
+        "torque_rpm": {
+            "1.5L_6MT_TURBO_FL": "5500",
+            "1.5L_6DCT_TURBO_FL": "5500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.5L_6MT_TURBO_FL": "Mecánica 6MT",
+            "1.5L_6DCT_TURBO_FL": "Automática 6DCT"
+        },
+        "traccion": null,
+        "sistema_alimentacion": "Inyección multipunto",
+        "norma_emisiones": "Euro 6C"
+    },
+    "direccion": {
+        "tipo": "EPS (Dirección asistida eléctrica)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente Macpherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco Sólido",
+        "freno_estacionamiento": "Electrónico + Autohold",
+        "neumaticos": "255 / 45 R20",
+        "rueda_repuesto": "Uso temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4743,
+        "ancho_mm": 1900,
+        "alto_mm": 1720,
+        "distancia_ejes_mm": 2720,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "sin_filas_abatibles": 89,
+            "segunda_y_tercera_fila_abatibles": 1680
+        },
+        "capacidad_estanque_lts": 57,
+        "pasajeros": 7
+    },
+    "tabla_comparativa_ruedas": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras",
+                "1.5L_6MT_TURBO_FL": "Halógeno",
+                "1.5L_6DCT_TURBO_FL": "LED"
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos calefaccionados",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Panel de instrumento",
+                "1.5L_6MT_TURBO_FL": "12,3”",
+                "1.5L_6DCT_TURBO_FL": "12,3”"
+            },
+            {
+                "caracteristica": "Radio touch con conectividad",
+                "1.5L_6MT_TURBO_FL": "10,25”",
+                "1.5L_6DCT_TURBO_FL": "10,25”"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "1.5L_6MT_TURBO_FL": "6",
+                "1.5L_6DCT_TURBO_FL": "8"
+            },
+            {
+                "caracteristica": "Modos de conducción",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": "Eco / Sport"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste eléctrico",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            },
+            {
+                "caracteristica": "LDW: Sistema de advertencia de cambio de carril",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad delantero",
+                "1.5L_6MT_TURBO_FL": false,
+                "1.5L_6DCT_TURBO_FL": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Cierre automático al salir del vehículo",
+            "Luces diurnas LED (DLR)",
+            "Lux auxiliar de dirección",
+            "Luces automáticas",
+            "Luces regulables en altura",
+            "Cámara de retroceso",
+            "Sunroof panorámico",
+            "Cámara 360º HD",
+            "Espejos retrovisores eléctricos",
+            "Espejos retrovisores abatibles electrónicamente",
+            "Señalizadores en espejos retrovisores",
+            "Limpiaparabrisas con sensor de lluvia",
+            "Limpiaparabrisas trasero",
+            "Sensor de estacionamiento trasero"
+        ],
+        "interior": [
+            "Tapiz eco-cuero",
+            "Puertos USB",
+            "Alzavidrios eléctricos (one button & down)",
+            "Asientos traseros abatibles 60 / 40",
+            "Bluetooth",
+            "Carplay / Android Auto Inalámbrico",
+            "Control de audio al volante",
+            "Volante forrado eco-cuero",
+            "Volante ajustable en altura",
+            "Smart Key y botón de encendido",
+            "Aire acondicionado eléctrico",
+            "Salida aire acondicionado trasera",
+            "Parasoles delanteros con espejo y luz de cortesía",
+            "Luz en el maletero",
+            "Estuche para lentes"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Airbags doble delantero",
+            "Anclaje ISOFIX",
+            "Recordatorio de cinturón de seguridad en todos los asientos",
+            "EBA: Asistencia electrónica de frenado",
+            "TCS: Control de tracción",
+            "ESP: Control de estabilidad",
+            "HHC: Control de partida en pendiente",
+            "CDP: Control dinámico de potencia del automóvil",
+            "HAZ: Advertencia de peligro",
+            "TPMS: Monitor de presión de neumáticos",
+            "Cierre centralizado",
+            "Inmovilizador",
+            "CCS: Control crucero",
+            "Sensor de proximidad trasero",
+            "Sistema de asistencia al arranque"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul",
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Plateado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Extracción desde ficha técnica PDF (●=true, -=false; columna única=aplica a todas las versiones)",
+        "fuente": "JETOUR_FT X70 2025 (nov).pdf",
+        "versiones_en_documento": 2,
+        "garantia": "4 años o 100.000 km"
+    }
+}

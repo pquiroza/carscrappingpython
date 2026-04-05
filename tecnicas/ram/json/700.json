@@ -1,0 +1,400 @@
+{
+    "vehiculo": {
+        "marca": "RAM",
+        "modelo": "700",
+        "año": null,
+        "versiones": [
+            "SLT CS",
+            "SLT CD",
+            "BIGHORN",
+            "BIGHORN CVT",
+            "LARAMIE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SLT CS": "1.3",
+            "SLT CD": "1.3",
+            "BIGHORN": "1.3",
+            "BIGHORN CVT": "1.3",
+            "LARAMIE": "1.0 T"
+        },
+        "cilindrada": {
+            "SLT CS": 1332,
+            "SLT CD": 1332,
+            "BIGHORN": 1332,
+            "BIGHORN CVT": 1332,
+            "LARAMIE": 999
+        },
+        "potencia_hp": {
+            "SLT CS": "99",
+            "SLT CD": "99",
+            "BIGHORN": "99",
+            "BIGHORN CVT": "99",
+            "LARAMIE": "118"
+        },
+        "potencia_rpm": {
+            "SLT CS": "6.000",
+            "SLT CD": "6.000",
+            "BIGHORN": "6.000",
+            "BIGHORN CVT": "6.000",
+            "LARAMIE": "5.750"
+        },
+        "torque_nm": {
+            "SLT CS": "128",
+            "SLT CD": "128",
+            "BIGHORN": "128",
+            "BIGHORN CVT": "128",
+            "LARAMIE": "200"
+        },
+        "torque_rpm": {
+            "SLT CS": "4.000",
+            "SLT CD": "4.000",
+            "BIGHORN": "4.000",
+            "BIGHORN CVT": "4.000",
+            "LARAMIE": "1.750"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "SLT CS": "Manual",
+            "SLT CD": "Manual",
+            "BIGHORN": "Manual",
+            "BIGHORN CVT": "Automática CVT",
+            "LARAMIE": "Automática CVT"
+        },
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": "Asistencia hidráulica / Asistencia eléctrica (según versión)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson, con brazos oscilantes transversales, barra estabilizadora, resortes helicoidales y amortiguadores de doble efecto",
+        "suspension_trasera": "De eje rígido, con resortes de hoja y amortiguadores hidráulicos de doble efecto",
+        "frenos_delanteros": "Disco ventilado (Ø257 mm) con caliper flotante",
+        "frenos_traseros": "Tambor (Ø228 mm), con zapata de centrado automático",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "SLT CS": null,
+            "SLT CD": null,
+            "BIGHORN": null,
+            "BIGHORN CVT": null,
+            "LARAMIE": null
+        },
+        "rueda_repuesto": "Tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "SLT CS": 4474,
+            "SLT CD": 4474,
+            "BIGHORN": 4474,
+            "BIGHORN CVT": 4474,
+            "LARAMIE": 4480
+        },
+        "ancho_mm": {
+            "SLT CS": "1.950 / 1.732",
+            "SLT CD": "1.950 / 1.732",
+            "BIGHORN": "1.967 / 1.73",
+            "BIGHORN CVT": "1.967 / 1.73",
+            "LARAMIE": "1.967 / 1.73"
+        },
+        "alto_mm": {
+            "SLT CS": 1608,
+            "SLT CD": 1600,
+            "BIGHORN": 1600,
+            "BIGHORN CVT": 1600,
+            "LARAMIE": 1600
+        },
+        "distancia_ejes_mm": {
+            "SLT CS": 2737,
+            "SLT CD": 2737,
+            "BIGHORN": 2737,
+            "BIGHORN CVT": 2737,
+            "LARAMIE": 2737
+        },
+        "despeje_suelo_mm": {
+            "SLT CS": 208,
+            "SLT CD": 191,
+            "BIGHORN": 191,
+            "BIGHORN CVT": 191,
+            "LARAMIE": 194
+        },
+        "peso_bruto_kg": {
+            "SLT CS": 1791,
+            "SLT CD": 1795,
+            "BIGHORN": 1811,
+            "BIGHORN CVT": 1812,
+            "LARAMIE": 1812
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": {
+            "SLT CS": 55,
+            "SLT CD": 55,
+            "BIGHORN": 55,
+            "BIGHORN CVT": 55,
+            "LARAMIE": 55
+        },
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento combinado Euro 6C (km/l)",
+            "SLT CS": "14,9",
+            "SLT CD": "14,9",
+            "BIGHORN": "14,9",
+            "BIGHORN CVT": "16,1",
+            "LARAMIE": "15,0"
+        },
+        {
+            "caracteristica": "Rendimiento combinado Euro 6B (km/l)",
+            "SLT CS": "-",
+            "SLT CD": "14,5",
+            "BIGHORN": "14,5",
+            "BIGHORN CVT": "15,5",
+            "LARAMIE": "-"
+        },
+        {
+            "caracteristica": "Rendimiento urbano Euro 6C (km/l)",
+            "SLT CS": "11",
+            "SLT CD": "11",
+            "BIGHORN": "11",
+            "BIGHORN CVT": "12,5",
+            "LARAMIE": "11,8"
+        },
+        {
+            "caracteristica": "Rendimiento urbano Euro 6B (km/l)",
+            "SLT CS": "-",
+            "SLT CD": "11,4",
+            "BIGHORN": "11,4",
+            "BIGHORN CVT": "12,3",
+            "LARAMIE": "-"
+        },
+        {
+            "caracteristica": "Rendimiento autopista Euro 6C (km/l)",
+            "SLT CS": "17,7",
+            "SLT CD": "17,7",
+            "BIGHORN": "17,7",
+            "BIGHORN CVT": "19,3",
+            "LARAMIE": "17,8"
+        },
+        {
+            "caracteristica": "Rendimiento autopista Euro 6B (km/l)",
+            "SLT CS": "-",
+            "SLT CD": "17,2",
+            "BIGHORN": "17,2",
+            "BIGHORN CVT": "18,2",
+            "LARAMIE": "-"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Neblineros delanteros",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Llantas de aluminio 15\"",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Espejos laterales color carrocería",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Parachoques color carrocería",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Faros delanteros Led",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": false,
+                "BIGHORN CVT": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Barras de techo longitudinales y rollbar",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": false,
+                "BIGHORN CVT": false,
+                "LARAMIE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos en tela",
+                "SLT CS": "Tela",
+                "SLT CD": "Tela",
+                "BIGHORN": "Tela",
+                "BIGHORN CVT": "Tela",
+                "LARAMIE": "Tela/Cuero"
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "SLT CS": true,
+                "SLT CD": true,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Climatizador Automático",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": false,
+                "BIGHORN CVT": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Volante de Cuero",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": false,
+                "BIGHORN CVT": false,
+                "LARAMIE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de anclaje para asientos infantiles LATCH",
+                "SLT CS": false,
+                "SLT CD": true,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento trasera con sensores",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Google Android auto / Apple Carplay",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Altavoces",
+                "SLT CS": 2,
+                "SLT CD": 4,
+                "BIGHORN": "4 + 2 tweeters",
+                "BIGHORN CVT": "4 + 2 tweeters",
+                "LARAMIE": "4 + 2 tweeters"
+            },
+            {
+                "caracteristica": "Pantalla táctil 7\"",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": false,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con ajuste eléctrico y luz de giro",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": true,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento trasera con sensores",
+                "SLT CS": false,
+                "SLT CD": false,
+                "BIGHORN": false,
+                "BIGHORN CVT": true,
+                "LARAMIE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Ganchos de sujeción",
+            "Protección de luneta y portaescaleras",
+            "Rueda de repuesto tamaño completo",
+            "Placas de protección para tanque de combustible, caja de transferencia, suspensión delantera y mecanismo de dirección",
+            "Iluminación caja pickup",
+            "Ganchos de sujeción de carga ajustables",
+            "Cubre pickup",
+            "Lona marítima",
+            "Portalón con cierre eléctrico y amortiguado"
+        ],
+        "interior": [
+            "Asiento del conductor con regulación de altura",
+            "Volante con ajuste en altura",
+            "Alzavidrios eléctricos",
+            "Cierre centralizado",
+            "Apertura remota del estanque de combustible",
+            "Toma corrientes de 12V"
+        ],
+        "seguridad": [
+            "Alarma perimétrica",
+            "Control electrónico de estabilidad (ESC)",
+            "Asistencia de arranque en pendientes",
+            "Control de tracción",
+            "Frenos con sistema ABS + EBD en las 4 ruedas",
+            "Airbags (4)",
+            "Frenos delanteros de disco ventilado (Ø257 mm) con caliper flotante",
+            "Frenos traseros de tambor (Ø228 mm), con zapata de centrado automático",
+            "Bloqueo diferencial electrónico",
+            "Cierre centralizado",
+            "Inmovilizador",
+            "Aviso cinturón de seguridad",
+            "Placa protección carter"
+        ],
+        "tecnologia": [
+            "Computador a bordo",
+            "Comandos de radio y teléfono al volante",
+            "Sistema AM/FM integrado con USB, auxiliar y conectividad bluetooth",
+            "Tablero de instrumentos con pantalla de 3.5\""
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Alaska",
+        "Plata Zynith",
+        "Gris Graphite",
+        "Negro Diamond",
+        "Rojo Fury"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica RAM (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-ram-700.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó la información técnica, dimensiones, capacidades, rendimiento, equipamiento diferencial por versión y equipamiento estándar cuando aplica a todas las versiones."
+    }
+}

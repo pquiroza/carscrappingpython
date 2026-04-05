@@ -1,0 +1,263 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "CAPTIVA",
+        "año": 2025,
+        "versiones": [
+            "LTZ CVT",
+            "PREMIER CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LTZ CVT": "1.5L TURBO DOHC 4 CIL 16V",
+            "PREMIER CVT": "1.5L TURBO DOHC 4 CIL 16V"
+        },
+        "cilindrada": {
+            "LTZ CVT": null,
+            "PREMIER CVT": null
+        },
+        "potencia_hp": {
+            "LTZ CVT": "148",
+            "PREMIER CVT": "148"
+        },
+        "potencia_rpm": {
+            "LTZ CVT": "@5500",
+            "PREMIER CVT": "@5500"
+        },
+        "torque_nm": {
+            "LTZ CVT": "250",
+            "PREMIER CVT": "250"
+        },
+        "torque_rpm": {
+            "LTZ CVT": "@2000-3000",
+            "PREMIER CVT": "@2000-3000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "LTZ CVT": "Automática CVT 8 velocidades",
+            "PREMIER CVT": "Automática CVT 8 velocidades"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": {
+            "LTZ CVT": null,
+            "PREMIER CVT": "√"
+        },
+        "neumaticos": {
+            "LTZ CVT": null,
+            "PREMIER CVT": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4655,
+        "ancho_mm": 1835,
+        "alto_mm": 1760,
+        "distancia_ejes_mm": 2750,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": {
+            "LTZ CVT": "1,95",
+            "PREMIER CVT": "2,16"
+        },
+        "capacidad_maletero_lts": {
+            "LTZ CVT": "489 / 1.081",
+            "PREMIER CVT": "151 / 538 / 1.081"
+        },
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": {
+            "LTZ CVT": 5,
+            "PREMIER CVT": 7
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Peso neto del vehículo (kg)",
+            "LTZ CVT": "1,5",
+            "PREMIER CVT": "1,63"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "LTZ CVT": "1,95",
+            "PREMIER CVT": "2,16"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "LTZ CVT": "450",
+            "PREMIER CVT": "530"
+        },
+        {
+            "caracteristica": "Capacidad maletero (lts) detrás de primera fila",
+            "LTZ CVT": "1.081",
+            "PREMIER CVT": "1.081"
+        },
+        {
+            "caracteristica": "Capacidad maletero (lts) detrás de segunda fila",
+            "LTZ CVT": "489",
+            "PREMIER CVT": "538"
+        },
+        {
+            "caracteristica": "Capacidad maletero (lts) detrás de tercera fila",
+            "LTZ CVT": "-",
+            "PREMIER CVT": "151"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Focos delanteros LED",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Encendido automatico de luces",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Sunroof Panoramico",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado con ductos para 3ra fila",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Sistema de audio de 6 parlantes",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste manual de 6 posiciones",
+                "LTZ CVT": true,
+                "PREMIER CVT": false
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico de 6 posiciones",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Asiento segunda fila deslizable",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Asiento tercera fila abatible 50/50",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Volante forrado en Cuero ajustable en altura",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Puntos de conexión USB tercera fila",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de Retroceso",
+                "LTZ CVT": true,
+                "PREMIER CVT": "360°"
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento Delantero",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "LTZ CVT": false,
+                "PREMIER CVT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luz de posicionamiento DRL LED",
+            "Foco trasero LED",
+            "Neblineros delanteros",
+            "Neblineros traseros",
+            "Espejo exterior con señalizador",
+            "Espejo exterior calefaccionado con ajuste eléctrico",
+            "Barras techo",
+            "Spoiler con tercera luz de freno",
+            "Desempañador de luneta trasera"
+        ],
+        "interior": [
+            "Aire acondicionado digital",
+            "Aire acondicionado con ductos para 2da fila",
+            "Pantalla Touch de 10,4'' (Radio, Bluetooth, MP3, USB)",
+            "Conectividad Apple CarPlay & Android Auto",
+            "Control Multimedia al volante",
+            "Control Crucero",
+            "Pantalla Cluster de 7\" avanzada a color",
+            "Asientos con tapiz de EcoCuero",
+            "Asiento segunda fila reclinable y abatible 60/40",
+            "Asiento segunda fila con apoyabrazos y posa vasos",
+            "Volante ajustable en altura",
+            "Alza vidrios eléctricos con Express Down",
+            "Apertura de vidrios con mando a distancia",
+            "Apoyabrazos delantero con guantera",
+            "Smart Key",
+            "Botón de encendido",
+            "Cierre centralizado con mando a distancia",
+            "Puntos de conexión USB delanteros y traseros",
+            "Toma corriente 12V"
+        ],
+        "seguridad": [
+            "Airbags (Frontales, laterales, cortina) 6",
+            "Frenos de disco en 4 ruedas con ABS + EBD",
+            "Asistente de frenado hidráulico (HBA)",
+            "Control de Estabilidad (ESC)",
+            "Control de Tracción (TCS)",
+            "Asistente de arranque en pendiente (HSA)",
+            "Sensor de estacionamiento Trasero",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Apoya cabeza con ajuste de altura en todos los asientos",
+            "Cinturón de seguridad de 3 puntas en todos los asientos",
+            "Zona de deformación programada",
+            "Sistema antirrobo",
+            "ISOFIX"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Negro",
+        "Gris Oscuro",
+        "Plata Metálico",
+        "Rojo Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (en este PDF se usa √ para presente y - para no presente; se dejó texto/valores tal cual)",
+        "fuente": "ft-captiva-2025.pdf",
+        "versiones_en_documento": 2,
+        "notas": "El archivo compara LTZ CVT vs PREMIER CVT. Donde el documento no entrega un campo (p.ej. neumáticos, freno estacionamiento como campo técnico), se dejó null; y el equipamiento diferencial se armó con lo que aparece distinto entre versiones."
+    }
+}

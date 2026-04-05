@@ -1,0 +1,270 @@
+{
+    "vehiculo": {
+        "marca": "Nissan",
+        "modelo": "Kicks",
+        "año": null,
+        "versiones": [
+            "SENSE PLUS CVT",
+            "EXCLUSIVE CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SENSE PLUS CVT": "2.0",
+            "EXCLUSIVE CVT": "2.0"
+        },
+        "cilindrada": {
+            "SENSE PLUS CVT": null,
+            "EXCLUSIVE CVT": null
+        },
+        "potencia_hp": {
+            "SENSE PLUS CVT": "142",
+            "EXCLUSIVE CVT": "142"
+        },
+        "potencia_rpm": {
+            "SENSE PLUS CVT": "6.000",
+            "EXCLUSIVE CVT": "6.000"
+        },
+        "torque_nm": {
+            "SENSE PLUS CVT": "190",
+            "EXCLUSIVE CVT": "190"
+        },
+        "torque_rpm": {
+            "SENSE PLUS CVT": "4.000",
+            "EXCLUSIVE CVT": "4.000"
+        },
+        "combustible": "95 octanos o superior",
+        "transmision": {
+            "SENSE PLUS CVT": "Transmisión CVT",
+            "EXCLUSIVE CVT": "Transmisión CVT"
+        },
+        "traccion": {
+            "SENSE PLUS CVT": "Delantera 2WD",
+            "EXCLUSIVE CVT": "Delantera 2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctricamente asistida (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson con barra estabilizadora",
+        "suspension_trasera": "Barra de torsión con barra estabilizadora",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": "Freno de mano electrónico (E-PKB) con función \"Auto hold\"",
+        "neumaticos": {
+            "SENSE PLUS CVT": "215/65 R16",
+            "EXCLUSIVE CVT": "225/45 R19"
+        },
+        "rueda_repuesto": {
+            "SENSE PLUS CVT": "Llanta de refacción temporal de acero R16 acero",
+            "EXCLUSIVE CVT": "Llanta de refacción temporal de acero R19 acero"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4365,
+        "ancho_mm": 2090,
+        "alto_mm": 1620,
+        "distancia_ejes_mm": 2665,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "472 detrás segunda fila / 1700 con asientos abatidos",
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (Km/Lts)",
+            "SENSE PLUS CVT": "10,6",
+            "EXCLUSIVE CVT": "10,6"
+        },
+        {
+            "caracteristica": "Carretera (Km/Lts)",
+            "SENSE PLUS CVT": "17,3",
+            "EXCLUSIVE CVT": "17,3"
+        },
+        {
+            "caracteristica": "Mixto (Km/Lts)",
+            "SENSE PLUS CVT": "14,0",
+            "EXCLUSIVE CVT": "14,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Aros",
+                "SENSE PLUS CVT": "Acero",
+                "EXCLUSIVE CVT": "Aluminio"
+            },
+            {
+                "caracteristica": "Rieles en el techo",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Faros LED con luz LED signature lamp",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Techo panorámico con cortinilla eléctrica y sunroof",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "4 parlantes",
+                "SENSE PLUS CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "10 parlantes Bose",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 7\"",
+                "SENSE PLUS CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro digital con pantalla de 12.3\"",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor manual antideslumbrante",
+                "SENSE PLUS CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Espejo retrovisor automático antideslumbrante",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Descansabrazos central segunda fila",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Iluminación interior de consola central",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Volante y palanca forrados en cuero",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Asientos forrados en tela",
+                "SENSE PLUS CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Asientos forrados en cuero",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensores de estacionamiento 4 traseros",
+                "SENSE PLUS CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento 4 frontales, 4 traseros",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor de visión periférica en 360 (AVM) + detector de objetos en movimiento (MOD)",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Encendido remoto del vehículo",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "SENSE PLUS CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Aire acondicionado automático",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celular",
+                "SENSE PLUS CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Asistente de frenado (BA)",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Distribución electrónica de frenado (EBD)",
+            "Alerón trasero",
+            "Espejos exteriores manualmente abatibles con ajuste eléctrico y direccional integrado",
+            "Luces de circulación diurna",
+            "Luces traseras LED",
+            "Limpiaparabrisas con velocidad intermitente y variable",
+            "Vidrios eléctricos de un solo toque",
+            "Antena con aleta tiburón"
+        ],
+        "interior": [
+            "Sistema de audio con pantalla táctil de 12.3\" + USB tipo C para datos *2",
+            "Apple Carplay & Android Auto inalámbrico",
+            "Descansabrazos central conductor",
+            "Volante con ajuste de altura y profundidad",
+            "Segunda fila de asientos abatible 60/40",
+            "Asiento delantero conductor con ajuste manual (deslizable, reclinable y de altura)",
+            "Asiento delantero pasajero con ajuste manual (deslizable, reclinable)",
+            "Botón de encendido + llave inteligente iKey",
+            "Modos de manejo normal, eco, sport"
+        ],
+        "seguridad": [
+            "Airbags frontales, conductor y pasajero (2)",
+            "Airbags laterales (2) y cortina (2)",
+            "Freno de mano electrónico (E-PKB) con función \"Auto hold\"",
+            "Cierre de puertas para niños (Child lock)",
+            "Inmobilizador y alarma",
+            "Cinturones de seguridad de 3 puntos",
+            "Cinturones de seguridad frontales con ajuste de altura",
+            "Anclaje ISOFIX",
+            "Control dinámico vehicular (VDC)",
+            "Control crucero inteligente + limitador de velocidad",
+            "Asistente de ascenso en pendientes (HSA)",
+            "Cámara visión trasera",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Alerta de abandono de carril (LDW)",
+            "Asistente de cambio de carril (LDP)",
+            "Alerta predictiva de colisión frontal (PFCW)",
+            "Asistente de frenado inteligente de emergencia con detección de peatones (I-FEB+PED)",
+            "Alerta de atención al conductor (DAA)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Nissan (punto=true, vacío o -=false; filas con un solo punto se interpretan como aplicables a todas las versiones; texto/valores tal cual)",
+        "fuente": "FICHA_TECNICA_NUEVO_NISSAN_KICKS.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo toda la información visible de la ficha. Cuando una fila muestra un solo punto, se movió a equipamiento estándar para todas las versiones, según la regla indicada."
+    }
+}

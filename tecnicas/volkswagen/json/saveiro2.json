@@ -1,0 +1,294 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Saveiro",
+        "año": null,
+        "versiones": [
+            "Cabina Simple",
+            "Cabina Simple Lite",
+            "Doble Cabina",
+            "Doble Cabina Lite",
+            "Doble Cabina Extreme"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Cabina Simple": "1.6",
+            "Cabina Simple Lite": "1.6",
+            "Doble Cabina": "1.6",
+            "Doble Cabina Lite": "1.6",
+            "Doble Cabina Extreme": "1.6"
+        },
+        "cilindrada": {
+            "Cabina Simple": 1.6,
+            "Cabina Simple Lite": 1.6,
+            "Doble Cabina": 1.6,
+            "Doble Cabina Lite": 1.6,
+            "Doble Cabina Extreme": 1.6
+        },
+        "potencia_hp": {
+            "Cabina Simple": "110",
+            "Cabina Simple Lite": "110",
+            "Doble Cabina": "110",
+            "Doble Cabina Lite": "110",
+            "Doble Cabina Extreme": "110"
+        },
+        "potencia_rpm": {
+            "Cabina Simple": "5.750",
+            "Cabina Simple Lite": "5.750",
+            "Doble Cabina": "5.750",
+            "Doble Cabina Lite": "5.750",
+            "Doble Cabina Extreme": "5.750"
+        },
+        "torque_nm": {
+            "Cabina Simple": "155",
+            "Cabina Simple Lite": "155",
+            "Doble Cabina": "155",
+            "Doble Cabina Lite": "155",
+            "Doble Cabina Extreme": "155"
+        },
+        "torque_rpm": {
+            "Cabina Simple": "4.000",
+            "Cabina Simple Lite": "4.000",
+            "Doble Cabina": "4.000",
+            "Doble Cabina Lite": "4.000",
+            "Doble Cabina Extreme": "4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Cabina Simple": "MT5",
+            "Cabina Simple Lite": "MT5",
+            "Doble Cabina": "MT5",
+            "Doble Cabina Lite": "MT5",
+            "Doble Cabina Extreme": "MT5"
+        },
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Cabina Simple": "205/60 R15",
+            "Cabina Simple Lite": "205/60 R15",
+            "Doble Cabina": "205/60 R15",
+            "Doble Cabina Lite": "205/60 R15",
+            "Doble Cabina Extreme": "205/60 R15"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4493,
+        "ancho_mm": {
+            "Cabina Simple": 1893,
+            "Cabina Simple Lite": 1893,
+            "Doble Cabina": 1898,
+            "Doble Cabina Lite": 1898,
+            "Doble Cabina Extreme": 1898
+        },
+        "alto_mm": {
+            "Cabina Simple": 1520,
+            "Cabina Simple Lite": 1561,
+            "Doble Cabina": 1560,
+            "Doble Cabina Lite": 1560,
+            "Doble Cabina Extreme": 1560
+        },
+        "distancia_ejes_mm": 2752,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "Cabina Simple": 924,
+            "Cabina Simple Lite": 924,
+            "Doble Cabina": 580,
+            "Doble Cabina Lite": 580,
+            "Doble Cabina Extreme": 580
+        },
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": {
+            "Cabina Simple": 2,
+            "Cabina Simple Lite": 2,
+            "Doble Cabina": 5,
+            "Doble Cabina Lite": 5,
+            "Doble Cabina Extreme": 5
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Cabina Simple": "10,8",
+            "Cabina Simple Lite": "10,8",
+            "Doble Cabina": "10,8",
+            "Doble Cabina Lite": "10,8",
+            "Doble Cabina Extreme": "10,8"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Cabina Simple": "13,0",
+            "Cabina Simple Lite": "13,0",
+            "Doble Cabina": "13,0",
+            "Doble Cabina Lite": "13,0",
+            "Doble Cabina Extreme": "13,0"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Cabina Simple": "14,6",
+            "Cabina Simple Lite": "14,6",
+            "Doble Cabina": "14,6",
+            "Doble Cabina Lite": "14,6",
+            "Doble Cabina Extreme": "14,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "Cabina Simple": "Acero 15\"",
+                "Cabina Simple Lite": "Aleación 15\"",
+                "Doble Cabina": "Acero 15\"",
+                "Doble Cabina Lite": "Aleación 15\"",
+                "Doble Cabina Extreme": "Aleación 15\""
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": true,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": true,
+                "Doble Cabina Extreme": true
+            },
+            {
+                "caracteristica": "Lona cubre Pick-up",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": true,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": true,
+                "Doble Cabina Extreme": true
+            },
+            {
+                "caracteristica": "Barras en el techo",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": false,
+                "Doble Cabina": true,
+                "Doble Cabina Lite": true,
+                "Doble Cabina Extreme": true
+            },
+            {
+                "caracteristica": "Logos Extreme",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": false,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": false,
+                "Doble Cabina Extreme": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "Cabina Simple": "Tela",
+                "Cabina Simple Lite": "Tela",
+                "Doble Cabina": "Tela",
+                "Doble Cabina Lite": "Tela",
+                "Doble Cabina Extreme": "Cuero Sintético"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": false,
+                "Doble Cabina": true,
+                "Doble Cabina Lite": true,
+                "Doble Cabina Extreme": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antideslumbrante",
+                "Cabina Simple": "Manual",
+                "Cabina Simple Lite": "Manual",
+                "Doble Cabina": "Manual",
+                "Doble Cabina Lite": "Manual",
+                "Doble Cabina Extreme": "Automático"
+            },
+            {
+                "caracteristica": "Volante multifunción en cuero",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": false,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": false,
+                "Doble Cabina Extreme": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio touchscreen 9\"",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": true,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": true,
+                "Doble Cabina Extreme": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": true,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": true,
+                "Doble Cabina Extreme": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "Cabina Simple": false,
+                "Cabina Simple Lite": false,
+                "Doble Cabina": false,
+                "Doble Cabina Lite": false,
+                "Doble Cabina Extreme": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces principales Halógenas",
+            "Luces traseras Halógenas",
+            "Spoiler trasero",
+            "Espejos exteriores eléctricos",
+            "Función Leaving and Coming Home"
+        ],
+        "interior": [
+            "Asiento conductor con ajuste en altura",
+            "Volante multifunción"
+        ],
+        "seguridad": [
+            "Airbags frontales",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Control electrónico de tracción (ASR)",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Cierre centralizado",
+            "Rueda de repuesto",
+            "Inmovilizador con alarma",
+            "Asistente de ascenso en pendientes (HHC)"
+        ],
+        "tecnologia": [
+            "App Connect con Apple CarPlay y Android Auto",
+            "Computador a bordo “Plus”"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Plata Sirius",
+        "Blanco Candy",
+        "Verde Saga Metálico",
+        "Gris Piedra Luna"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa tabla ficha técnica Volkswagen (X=Disponible, -=No disponible; una sola columna aplica a todas las versiones).",
+        "fuente": "FT-Nueva-Saveiro-PA3-(1)-copy1-copy1.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se extrajeron datos técnicos, dimensiones, capacidades, seguridad y equipamiento diferenciando exactamente según tabla Cabina Simple, Lite, Doble Cabina y Extreme."
+    }
+}

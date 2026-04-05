@@ -1,0 +1,611 @@
+{
+    "vehiculo": {
+        "marca": "Mitsubishi",
+        "modelo": "OUTLANDER",
+        "año": null,
+        "versiones": [
+            "4X2 GL",
+            "4X2 GLX",
+            "4X4 GLS",
+            "4X4 GLS Limited"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4X2 GL": "2.5L DOHC 4-cilindros Inyección Directa",
+            "4X2 GLX": "2.5L DOHC 4-cilindros Inyección Directa",
+            "4X4 GLS": "2.5L DOHC 4-cilindros Inyección Directa",
+            "4X4 GLS Limited": "2.5L DOHC 4-cilindros Inyección Directa"
+        },
+        "cilindrada": {
+            "4X2 GL": 2488,
+            "4X2 GLX": 2488,
+            "4X4 GLS": 2488,
+            "4X4 GLS Limited": 2488
+        },
+        "potencia_hp": {
+            "4X2 GL": "181",
+            "4X2 GLX": "181",
+            "4X4 GLS": "181",
+            "4X4 GLS Limited": "181"
+        },
+        "potencia_rpm": {
+            "4X2 GL": "6.000",
+            "4X2 GLX": "6.000",
+            "4X4 GLS": "6.000",
+            "4X4 GLS Limited": "6.000"
+        },
+        "torque_nm": {
+            "4X2 GL": "244",
+            "4X2 GLX": "244",
+            "4X4 GLS": "244",
+            "4X4 GLS Limited": "244"
+        },
+        "torque_rpm": {
+            "4X2 GL": "3.600",
+            "4X2 GLX": "3.600",
+            "4X4 GLS": "3.600",
+            "4X4 GLS Limited": "3.600"
+        },
+        "combustible": "Bencina",
+        "transmision": {
+            "4X2 GL": "Automática (CVT-8)",
+            "4X2 GLX": "Automática (CVT-8)",
+            "4X4 GLS": "Automática (CVT-8)",
+            "4X4 GLS Limited": "Automática (CVT-8)"
+        },
+        "traccion": {
+            "4X2 GL": "2WD",
+            "4X2 GLX": "2WD",
+            "4X4 GLS": "S-AWC (Super-All Wheel Control)",
+            "4X4 GLS Limited": "S-AWC (Super-All Wheel Control)"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson, con espirales y barra estabilizadora",
+        "suspension_trasera": "Multi Link, con espirales y barra estabilizadora",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos Ventilados",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "4X2 GL": "235/60R18",
+            "4X2 GLX": "235/60R18",
+            "4X4 GLS": "235/60R18",
+            "4X4 GLS Limited": "255/45R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4710,
+        "ancho_mm": 1862,
+        "alto_mm": 1745,
+        "distancia_ejes_mm": 2706,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "4X2 GL": "9,5",
+            "4X2 GLX": "9,5",
+            "4X4 GLS": "9,5",
+            "4X4 GLS Limited": "9,5"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "4X2 GL": "14,7",
+            "4X2 GLX": "14,7",
+            "4X4 GLS": "14,7",
+            "4X4 GLS Limited": "14,7"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "4X2 GL": "12,3",
+            "4X2 GLX": "12,3",
+            "4X4 GLS": "12,3",
+            "4X4 GLS Limited": "12,3"
+        },
+        {
+            "caracteristica": "Mínima distancia al suelo (mm)",
+            "4X2 GL": "205",
+            "4X2 GLX": "205",
+            "4X4 GLS": "210",
+            "4X4 GLS Limited": "210"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (Kg)",
+            "4X2 GL": "1570",
+            "4X2 GLX": "1635",
+            "4X4 GLS": "1690",
+            "4X4 GLS Limited": "1710"
+        },
+        {
+            "caracteristica": "N° Pasajeros",
+            "4X2 GL": "5",
+            "4X2 GLX": "5",
+            "4X4 GLS": "7",
+            "4X4 GLS Limited": "7"
+        },
+        {
+            "caracteristica": "Llantas Bi-Tono",
+            "4X2 GL": false,
+            "4X2 GLX": true,
+            "4X4 GLS": true,
+            "4X4 GLS Limited": true
+        },
+        {
+            "caracteristica": "Llantas de aleación",
+            "4X2 GL": "18”",
+            "4X2 GLX": "20”",
+            "4X4 GLS": "20”",
+            "4X4 GLS Limited": "20”"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores con luces de viraje",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con plegado eléctrico",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Intermitentes frontales LED",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Intermitentes frontales LED secuenciales",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED adaptativas",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Luces de circulación diurnas (D.R.L) LED",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Apertura eléctrica portalón trasero - función manos libres",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico eléctrico",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Lava faros",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio Carplay & Android Auto 8\"",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "6 Parlantes - Tweeters",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Radio Carplay & Android Auto 9\"",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "10 Parlantes - Sistema Bose",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Premium audio",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Display digital 7\"",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Display digital 12,3\"",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Modos de conducción",
+                "4X2 GL": "5",
+                "4X2 GLX": "5",
+                "4X4 GLS": "6",
+                "4X4 GLS Limited": "6"
+            },
+            {
+                "caracteristica": "Puerto USB en consola trasera (Tipo A - Tipo C)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Navegador",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Climatizador Dual",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Climatizador Tri-Zona",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Keyless entry - apertura sin llaves",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Volante y palanca de transmisón de cuero ecológico",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Alza vidrios eléctricos función auto Up/Down Conductor",
+                "4X2 GL": true,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Alza vidrios eléctricos función auto Up/Down en todas las puertas",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático sin marco",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Asientos en tela negro",
+                "4X2 GL": true,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Asientos con tapiz de cuero ecológico con gamuza",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Asientos con tapiz de cuero ecológico premium",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Tercera corrida de asientos",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste manual (6 posiciones - ajuste lumbar eléctrico)",
+                "4X2 GL": true,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Asiento pasajera con ajuste manual (4 posiciones)",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico (8 posiciones - ajuste lumbar eléctrico)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico (8 posiciones - ajuste lumbar eléctrico memoria - masaje)",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Asiento pasajero con ajuste eléctrico (8 posiciones - ajuste lumbar eléctrico memoria - masaje)",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Segunda corrida de asientos deslizable",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con calefacción",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Asientos traseros con calefacción",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Panel central transmisión negro piano",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Panel central transmisión aluminio real",
+                "4X2 GL": true,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Luz ornamental puertas delanteras",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento eléctrico (EPB) con Auto hold",
+                "4X2 GL": true,
+                "4X2 GLX": false,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cinturón de seguridad de 3 puntos (5 usuarios)",
+                "4X2 GL": true,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": false
+            },
+            {
+                "caracteristica": "Cinturón de seguridad de 3 puntos (5 usuarios) - 2 puntos (2 usuarios)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Cámara visión 360°",
+                "4X2 GL": false,
+                "4X2 GLX": false,
+                "4X4 GLS": false,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "4X2 GL": true,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": false
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Sistema de señal de frenado de emergencia (ESS)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Luces altas automáticas (AHB)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Sistema de mitigación de colisión frontal (FCM)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Advertencia de Punto ciego (BSW) con asistencia de cambio de carril (LCA)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril (LDW)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            },
+            {
+                "caracteristica": "Alerta de atención al conductor (DAA)",
+                "4X2 GL": false,
+                "4X2 GLX": true,
+                "4X4 GLS": true,
+                "4X4 GLS Limited": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos con defroster",
+            "Luces de posición delanteras LED",
+            "Luces delanteras LED",
+            "Apagado automático de luces",
+            "Manillas de apertura de puertas exteriores (Color Vehículo)",
+            "Manillas de apertura de puertas interiores (Cromado)",
+            "Neblineros delanteros LED",
+            "Neblinero trasero LED",
+            "Vidrios traseros tinteados",
+            "Barras de techo (Plata)",
+            "Antena en el techo"
+        ],
+        "interior": [
+            "6 Parlantes - Tweeters",
+            "Manos libres",
+            "Control crucero",
+            "Control de audio en volante",
+            "Puerto USB en consola delantera (Tipo A - Tipo C)",
+            "Wireless Bluetooth",
+            "Puerto USB (2)",
+            "Salida 12V",
+            "Llaves con apertura a distancia",
+            "Keyless Operation System (KOS) -Botón de encendido",
+            "Volante regulable en altura y profundidad",
+            "Paddle Shift",
+            "Alza vidrios eléctricos en todas las puertas",
+            "Asientos segunda fila abatibles 40:20:40",
+            "Consola central con apoya brazos delantera",
+            "Apoya brazos central trasero",
+            "Cambios secuenciales al volante (Resina)",
+            "Compartimiento en el maletero",
+            "Limpiaparabrisas delantero con sensor de lluvia",
+            "Cubre maleta"
+        ],
+        "seguridad": [
+            "Carrocería con deformación programada (RISE Body)",
+            "Anclaje ISOFIX",
+            "Inmovilizador",
+            "Bloqueo de transmisión automática por codificación de llave",
+            "Cierre centralizado de puertas con apertura a distancia",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Recordatorio de cinturón de seguridad (Piloto-Copiloto)",
+            "Alarma antirrobo (bocina y luces)",
+            "Airbags dobles delanteros",
+            "Airbags dobles laterales",
+            "Airbags dobles cortina",
+            "Airbags rodilla",
+            "Sensor de estacionamiento delantero y trasero",
+            "Frenos ABS con EBD",
+            "Control activo de estabilidad (ASC) con Control de Tracción (TCL)",
+            "Asistente de partida en pendiente (HSA)",
+            "Active Yaw Control (AYC)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Diamante",
+        "Gris grafito",
+        "Rojo Diamante",
+        "Azul metálico",
+        "Plata"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura de tablas ficha técnica Mitsubishi (ticket verde=true, x roja=false; cuando hay una sola columna se interpreta como común a todas las versiones; texto/valores tal cual)",
+        "fuente": "FICHA-OUTLANDER-DESKTOP-EURO6B-1.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Las especificaciones mecánicas (motor, potencia/torque, norma emisiones, transmisión, suspensiones y frenos) aparecen como datos comunes del modelo; los elementos con variación por versión se cargaron en 'equipamiento_diferencial_detallado' y/o en 'tabla_comparativa_rendimiento' según corresponda."
+    }
+}

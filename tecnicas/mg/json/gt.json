@@ -1,0 +1,234 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "GT",
+        "año": null,
+        "versiones": [
+            "1.5L_MT_COM",
+            "1.5L_CVT_COM",
+            "1.5T_DCT_DLX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5L_MT_COM": "NSE Major 1.5L",
+            "1.5L_CVT_COM": "NSE Major 1.5L",
+            "1.5T_DCT_DLX": "NF1 1.5T"
+        },
+        "cilindrada": {
+            "1.5L_MT_COM": "1.498",
+            "1.5L_CVT_COM": "1.498",
+            "1.5T_DCT_DLX": "1.490"
+        },
+        "potencia_hp": {
+            "1.5L_MT_COM": "112",
+            "1.5L_CVT_COM": "112",
+            "1.5T_DCT_DLX": "160"
+        },
+        "potencia_rpm": {
+            "1.5L_*": "6.000",
+            "1.5T_DCT_DLX": "5.600"
+        },
+        "torque_nm": {
+            "1.5L_*": "150",
+            "1.5T_DCT_DLX": "250"
+        },
+        "torque_rpm": {
+            "1.5L_*": "4.500",
+            "1.5T_DCT_DLX": "3.000-4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5L_MT_COM": "MT 8",
+            "1.5L_CVT_COM": "CVT",
+            "1.5T_DCT_DLX": "7 DCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección Asistida Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": "Discos Delanteros y Traseros",
+        "frenos_traseros": "Discos Delanteros y Traseros",
+        "neumaticos": {
+            "1.5L_MT_COM": "205/55R16",
+            "1.5L_CVT_COM": "205/55R16",
+            "1.5T_DCT_DLX": "215/50R17"
+        },
+        "rueda_repuesto": "T115/70 R16"
+    },
+    "dimensiones": {
+        "largo_mm": 4675,
+        "ancho_mm": 1842,
+        "alto_mm": {
+            "1.5L_MT_COM": 1473,
+            "1.5L_CVT_COM": 1473,
+            "1.5T_DCT_DLX": 1480
+        },
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5L_MT_COM": 1260,
+            "1.5L_CVT_COM": 1318,
+            "1.5T_DCT_DLX": 1318
+        },
+        "capacidad_maletero_lts": 401,
+        "capacidad_estanque_lts": 50
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad Máxima (km/h)",
+            "1.5L_MT_COM": "180",
+            "1.5L_CVT_COM": "180",
+            "1.5T_DCT_DLX": "215"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta",
+            "1.5L_MT_COM": "Aleación 16\"",
+            "1.5L_CVT_COM": "Aleación 16\"",
+            "1.5T_DCT_DLX": "Aleación 17\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de Cortina",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Auto Hold",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": true,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Freno de Estacionamiento Electrónico",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": true,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Camara 360°",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Advertencia al Cambio de Carril (LDW)",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Advertencia a Colisión Frontal (FCW)",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Control de Luz Alta Automática Inteligente (IHC)",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Espejos Exteriores con Ajuste Eléctrico y Calentador",
+                "1.5L_MT_COM": true,
+                "1.5L_CVT_COM": true,
+                "1.5T_DCT_DLX": false
+            },
+            {
+                "caracteristica": "Espejos Exteriores Abatibles Eléctricamente con Calentador",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento Conductor con Ajuste Eléctrico",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Calentador Asiento Conductor",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "6 Parlantes",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Aire Acondicionado Automático",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5T_DCT_DLX": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "EBD",
+            "CBC",
+            "TCS",
+            "HHC",
+            "BDW",
+            "EBA",
+            "TPMS",
+            "Airbags Laterales",
+            "Airbags Delanteros",
+            "ISOFIX",
+            "Cámara de Retroceso",
+            "Sensor de Retroceso",
+            "Follow me Home"
+        ],
+        "interior": [
+            "Volante multifunción",
+            "Sunroof",
+            "Radio Touch 10\"",
+            "Android Auto",
+            "Apple CarPlay",
+            "Bluetooth",
+            "Control Crucero"
+        ],
+        "exterior": [
+            "Focos LED",
+            "Neblineros Traseros",
+            "Luces Automáticas",
+            "Luces Día",
+            "Luz Trasera LED"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-gt.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se mapearon ● a true y - a false únicamente en tablas comparativas."
+    }
+}

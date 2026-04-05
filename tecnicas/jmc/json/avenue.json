@@ -1,0 +1,660 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "GRAND AVENUE",
+        "año": null,
+        "versiones": [
+            "4X2 MT",
+            "4X4 MT",
+            "4X2 AT",
+            "4X4 AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4X2 MT": "PUMA (FORD)",
+            "4X4 MT": "PUMA (FORD)",
+            "4X2 AT": "PUMA (FORD)",
+            "4X4 AT": "PUMA (FORD)"
+        },
+        "cilindrada": {
+            "4X2 MT": "2.3 TURBO / WATER COOLING",
+            "4X4 MT": "2.3 TURBO / WATER COOLING",
+            "4X2 AT": "2.3 TURBO / WATER COOLING",
+            "4X4 AT": "2.3 TURBO / WATER COOLING"
+        },
+        "potencia_hp": {
+            "4X2 MT": "174",
+            "4X4 MT": "174",
+            "4X2 AT": "174",
+            "4X4 AT": "174"
+        },
+        "potencia_rpm": {
+            "4X2 MT": "3600",
+            "4X4 MT": "3600",
+            "4X2 AT": "3600",
+            "4X4 AT": "3600"
+        },
+        "torque_nm": {
+            "4X2 MT": "445",
+            "4X4 MT": "445",
+            "4X2 AT": "445",
+            "4X4 AT": "445"
+        },
+        "torque_rpm": {
+            "4X2 MT": "1500-2400",
+            "4X4 MT": "1500-2400",
+            "4X2 AT": "1500-2400",
+            "4X4 AT": "1500-2400"
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "4X2 MT": "T/M 6 VELOCIDADES",
+            "4X4 MT": "T/M 6 VELOCIDADES",
+            "4X2 AT": "AUTOMÁTICA 8 VELOCIDADES",
+            "4X4 AT": "AUTOMÁTICA 8 VELOCIDADES"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "HIDRÁULICA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "PAQUETE DE RESORTE, CON BRAZO HIDRÁULICO DE ABSORCIÓN DE IMPACTO",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "DISCO",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "4X2 MT": "HT 265/65 R17 (DESDE VERSIONES ENERO 2024 EN ADELANTE)",
+            "4X4 MT": "HT 265/65 R17 (DESDE VERSIONES ENERO 2024 EN ADELANTE)",
+            "4X2 AT": "HT 265/65 R18 (DESDE VERSIONES ENERO 2024 EN ADELANTE)",
+            "4X4 AT": "HT 265/65 R18 (DESDE VERSIONES ENERO 2024 EN ADELANTE)"
+        },
+        "rueda_repuesto": "ACERO 265/65 R17 / ACERO 265/65 R18"
+    },
+    "dimensiones": {
+        "largo_mm": 5450,
+        "ancho_mm": 1935,
+        "alto_mm": 1872,
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 3270,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 80,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo 3CV ciudad (km/L)",
+            "4X2 MT": "9,3",
+            "4X4 MT": "9,3",
+            "4X2 AT": "9,3",
+            "4X4 AT": "9,3"
+        },
+        {
+            "caracteristica": "Consumo 3CV carretera (km/L)",
+            "4X2 MT": "14,9",
+            "4X4 MT": "14,9",
+            "4X2 AT": "14,9",
+            "4X4 AT": "14,9"
+        },
+        {
+            "caracteristica": "Consumo 3CV mixto (km/L)",
+            "4X2 MT": "12,2",
+            "4X4 MT": "12,2",
+            "4X2 AT": "12,2",
+            "4X4 AT": "12,2"
+        },
+        {
+            "caracteristica": "Emisiones 3CV (G/KG)",
+            "4X2 MT": "216",
+            "4X4 MT": "216",
+            "4X2 AT": "216",
+            "4X4 AT": "216"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Cámara de retroceso",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Cierre con comando a distancia puertas",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Faros",
+                "4X2 MT": "HALÓGENOS",
+                "4X4 MT": "HALÓGENOS",
+                "4X2 AT": "HALÓGENOS",
+                "4X4 AT": "HALÓGENOS"
+            },
+            {
+                "caracteristica": "Follow me home",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Guardafangos",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "4X2 MT": "ALEACIÓN",
+                "4X4 MT": "ALEACIÓN",
+                "4X2 AT": "ALEACIÓN",
+                "4X4 AT": "ALEACIÓN"
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "4X2 MT": "HT 265/65 R17",
+                "4X4 MT": "HT 265/65 R17",
+                "4X2 AT": "HT 265/65 R18",
+                "4X4 AT": "HT 265/65 R18"
+            },
+            {
+                "caracteristica": "Neumático de repuesto tipo / medida",
+                "4X2 MT": "ACERO 265/65 R17",
+                "4X4 MT": "ACERO 265/65 R17",
+                "4X2 AT": "ACERO 265/65 R18",
+                "4X4 AT": "ACERO 265/65 R18"
+            },
+            {
+                "caracteristica": "Parachoques a tono de carrocería",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Presión de inflado PSI",
+                "4X2 MT": "32",
+                "4X4 MT": "32",
+                "4X2 AT": "32",
+                "4X4 AT": "32"
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejo retrovisor",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Apertura desde el interior de la tapa de bencina",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Asiento del piloto ajustable",
+                "4X2 MT": "MANUAL 4 POSICIONES",
+                "4X4 MT": "MANUAL 4 POSICIONES",
+                "4X2 AT": "ELECTRÓNICO 6 POSICIONES",
+                "4X4 AT": "ELECTRÓNICO 6 POSICIONES"
+            },
+            {
+                "caracteristica": "Asiento del copiloto deslizable y con ajuste manual",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Bolsillo porta mapa puerta delanteras",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Bolsillo porta revista respaldo de asientos delanteros",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Ducto de salida aire segunda fila",
+                "4X2 MT": false,
+                "4X4 MT": false,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antireflejo",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Luz delantera lectura mapas",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "4X2 MT": "10\"",
+                "4X4 MT": "10\"",
+                "4X2 AT": "10\"",
+                "4X4 AT": "10\""
+            },
+            {
+                "caracteristica": "Portavasos",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Radio",
+                "4X2 MT": "SMART AUDIO JMC",
+                "4X4 MT": "SMART AUDIO JMC",
+                "4X2 AT": "SMART AUDIO JMC",
+                "4X4 AT": "SMART AUDIO JMC"
+            },
+            {
+                "caracteristica": "Carplay android auto",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "4X2 MT": "4 PARLANTES 2 TWEETERS",
+                "4X4 MT": "4 PARLANTES 2 TWEETERS",
+                "4X2 AT": "4 PARLANTES 2 TWEETERS",
+                "4X4 AT": "4 PARLANTES 2 TWEETERS"
+            },
+            {
+                "caracteristica": "Regulador de altura de faros",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sistema monitoreo de presión de neumáticos (TPMS)",
+                "4X2 MT": false,
+                "4X4 MT": false,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sistema selectivo de marchas en volante paddle shift",
+                "4X2 MT": false,
+                "4X4 MT": false,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Tacómetro",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "4X2 MT": "ECO CUERO",
+                "4X4 MT": "ECO CUERO",
+                "4X2 AT": "ECO CUERO",
+                "4X4 AT": "ECO CUERO"
+            },
+            {
+                "caracteristica": "Trip computer (consumo instantáneo)",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS (control antidesliante)",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Airbags delanteros",
+                "4X2 MT": 4,
+                "4X4 MT": 4,
+                "4X2 AT": 4,
+                "4X4 AT": 4
+            },
+            {
+                "caracteristica": "Alarma",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Alarma olvido de llaves",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Alarma puerta abierta (luz piloto tablero)",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Apoya cabezas delanteros y traseros",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Asistente de descenso HDC",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Asistente en pendientes HSA",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Barra acero lateralede puerta",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Carrocería con zona deformación programada",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Carrocería y jaula integrada",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros con bloqueo de emergencia",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de tres puntas",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Cinturones traseros laterales de tres puntas",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Cinturón trasero central",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad EPS",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Control de tracción TCS",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "4X2 MT": 2,
+                "4X4 MT": 2,
+                "4X2 AT": 2,
+                "4X4 AT": 2
+            },
+            {
+                "caracteristica": "Freno de estacionamiento electrónico",
+                "4X2 MT": false,
+                "4X4 MT": false,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento acople automático",
+                "4X2 MT": false,
+                "4X4 MT": false,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Luz indicador no uso del cinturón de seguridad del conductor",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Parachoques con sistema de absorción de impactos",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Seguros de niños en puertas traseras",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sistema antirrobo (llave codificada)",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sistema de arranque",
+                "4X2 MT": "PEPS",
+                "4X4 MT": "PEPS",
+                "4X2 AT": "PEPS",
+                "4X4 AT": "PEPS"
+            },
+            {
+                "caracteristica": "Sistema de regeneración selectivo",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            },
+            {
+                "caracteristica": "Sistema secundario de absorción de impacto",
+                "4X2 MT": true,
+                "4X4 MT": true,
+                "4X2 AT": true,
+                "4X4 AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO",
+        "VERDE",
+        "GRAFITO",
+        "NEGRO",
+        "PLATA PERLA",
+        "ROJO"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.GA-071125.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Motor: distribución (accionamiento) CADENA; encendido ELECTRÓNICO; convertidor catalítico 4 VÍAS; tipo de aceite/cantidad MOBIL 5W 30 / 8L; norma de emisiones EURO 6C. Capacidades: arrastre con freno 3500 kg; arrastre sin freno 2000 kg; capacidad de carga 800 kg; estanque urea 11 lt. Medida de pick up: 56 alto / 154 ancho / 154 largo."
+    }
+}

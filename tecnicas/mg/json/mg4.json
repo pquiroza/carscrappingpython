@@ -1,0 +1,539 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "MG4",
+        "año": null,
+        "versiones": [
+            "STANDARD_51KWh",
+            "LUXURY_64KWh",
+            "LUXURY_LR_77KWh",
+            "XPOWER_64KWh_AWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "STANDARD_51KWh": "PMSM",
+            "LUXURY_64KWh": "PMSM",
+            "LUXURY_LR_77KWh": "PMSM",
+            "XPOWER_64KWh_AWD": "PMSM"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "STANDARD_51KWh": "167 Hp",
+            "LUXURY_64KWh": "201 Hp",
+            "LUXURY_LR_77KWh": "241 Hp",
+            "XPOWER_64KWh_AWD": "402 Hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "STANDARD_51KWh": "250Nm",
+            "LUXURY_64KWh": "250Nm",
+            "LUXURY_LR_77KWh": "350Nm",
+            "XPOWER_64KWh_AWD": "600Nm"
+        },
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": null,
+        "traccion": {
+            "STANDARD_51KWh": "RWD",
+            "LUXURY_64KWh": "RWD",
+            "LUXURY_LR_77KWh": "RWD",
+            "XPOWER_64KWh_AWD": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "STANDARD_51KWh": "215/50 R17",
+            "LUXURY_64KWh": "235/45 R18",
+            "LUXURY_LR_77KWh": "235/45 R18",
+            "XPOWER_64KWh_AWD": "235/45 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "STANDARD_51KWh": 4287,
+            "LUXURY_64KWh": 4287,
+            "LUXURY_LR_77KWh": 4287,
+            "XPOWER_64KWh_AWD": 4287
+        },
+        "ancho_mm": {
+            "STANDARD_51KWh": 1836,
+            "LUXURY_64KWh": 1836,
+            "LUXURY_LR_77KWh": 1836,
+            "XPOWER_64KWh_AWD": 1836
+        },
+        "alto_mm": {
+            "STANDARD_51KWh": 1504,
+            "LUXURY_64KWh": 1516,
+            "LUXURY_LR_77KWh": 1516,
+            "XPOWER_64KWh_AWD": 1516
+        },
+        "distancia_ejes_mm": {
+            "STANDARD_51KWh": 2705,
+            "LUXURY_64KWh": 2705,
+            "LUXURY_LR_77KWh": 2705,
+            "XPOWER_64KWh_AWD": 2705
+        },
+        "despeje_suelo_mm": {
+            "STANDARD_51KWh": "150/117",
+            "LUXURY_64KWh": "160/132",
+            "LUXURY_LR_77KWh": "160/132",
+            "XPOWER_64KWh_AWD": "160/132"
+        },
+        "peso_bruto_kg": {
+            "STANDARD_51KWh": 2083,
+            "LUXURY_64KWh": 2123,
+            "LUXURY_LR_77KWh": 2209,
+            "XPOWER_64KWh_AWD": 2261
+        },
+        "capacidad_maletero_lts": {
+            "STANDARD_51KWh": "363/1177",
+            "LUXURY_64KWh": "350/1165",
+            "LUXURY_LR_77KWh": "363/1165",
+            "XPOWER_64KWh_AWD": "363/1177"
+        },
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta aleacion",
+            "STANDARD_51KWh": "17\" con tapa rueda",
+            "LUXURY_64KWh": "18\" con tapa rueda",
+            "LUXURY_LR_77KWh": "18\" con tapa rueda",
+            "XPOWER_64KWh_AWD": "18\""
+        },
+        {
+            "caracteristica": "Neumatico",
+            "STANDARD_51KWh": "215/50 R17",
+            "LUXURY_64KWh": "235/45 R18",
+            "LUXURY_LR_77KWh": "235/45 R18",
+            "XPOWER_64KWh_AWD": "235/45 R18"
+        },
+        {
+            "caracteristica": "Pinza deportiva",
+            "STANDARD_51KWh": false,
+            "LUXURY_64KWh": false,
+            "LUXURY_LR_77KWh": false,
+            "XPOWER_64KWh_AWD": true
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Masa en vacío (kg)",
+            "STANDARD_51KWh": 1635,
+            "LUXURY_64KWh": 1675,
+            "LUXURY_LR_77KWh": 1751,
+            "XPOWER_64KWh_AWD": 1803
+        },
+        {
+            "caracteristica": "Masa máxima en carga técnicamente admisible (kg)",
+            "STANDARD_51KWh": 2083,
+            "LUXURY_64KWh": 2123,
+            "LUXURY_LR_77KWh": 2209,
+            "XPOWER_64KWh_AWD": 2261
+        },
+        {
+            "caracteristica": "Masa en carga técnicamente admisible en cada eje (kg)",
+            "STANDARD_51KWh": "F:935 / R:1198",
+            "LUXURY_64KWh": "F:940/R:1198",
+            "LUXURY_LR_77KWh": "F:1070 / R:1250",
+            "XPOWER_64KWh_AWD": null
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Espacio de carga del maletero trasero (desplegado/plegado, L)",
+            "STANDARD_51KWh": "363 / 1177",
+            "LUXURY_64KWh": "350 / 1165",
+            "LUXURY_LR_77KWh": "363 / 1165",
+            "XPOWER_64KWh_AWD": "363 / 1177"
+        },
+        {
+            "caracteristica": "Capacidad de remolque (sin frenos, kg)",
+            "STANDARD_51KWh": 500,
+            "LUXURY_64KWh": 500,
+            "LUXURY_LR_77KWh": 500,
+            "XPOWER_64KWh_AWD": 500
+        },
+        {
+            "caracteristica": "Capacidad de remolque (frenada, kg)",
+            "STANDARD_51KWh": 500,
+            "LUXURY_64KWh": 500,
+            "LUXURY_LR_77KWh": 500,
+            "XPOWER_64KWh_AWD": 500
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Tamaño bruto de la batería (Kwh)",
+            "STANDARD_51KWh": 51,
+            "LUXURY_64KWh": 64,
+            "LUXURY_LR_77KWh": 77,
+            "XPOWER_64KWh_AWD": 64
+        },
+        {
+            "caracteristica": "Potencia máxima del cargador a bordo (6,6 kW)",
+            "STANDARD_51KWh": true,
+            "LUXURY_64KWh": false,
+            "LUXURY_LR_77KWh": false,
+            "XPOWER_64KWh_AWD": false
+        },
+        {
+            "caracteristica": "Potencia máxima del cargador a bordo (11 kW)",
+            "STANDARD_51KWh": false,
+            "LUXURY_64KWh": true,
+            "LUXURY_LR_77KWh": true,
+            "XPOWER_64KWh_AWD": true
+        },
+        {
+            "caracteristica": "Potencia máx. Potencia de carga de CC (kW)",
+            "STANDARD_51KWh": 88,
+            "LUXURY_64KWh": 140,
+            "LUXURY_LR_77KWh": 144,
+            "XPOWER_64KWh_AWD": 140
+        },
+        {
+            "caracteristica": "Tiempo de carga de CC (10~80%)",
+            "STANDARD_51KWh": "37 minutes",
+            "LUXURY_64KWh": "26 minutes",
+            "LUXURY_LR_77KWh": "38 minutes",
+            "XPOWER_64KWh_AWD": "26 minutes"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "STANDARD_51KWh": "160km/h",
+            "LUXURY_64KWh": "160km/h",
+            "LUXURY_LR_77KWh": "180km/h",
+            "XPOWER_64KWh_AWD": "200km/h"
+        },
+        {
+            "caracteristica": "Aceleración (s, 0~100 km/h)",
+            "STANDARD_51KWh": "7.7 Secs",
+            "LUXURY_64KWh": "7.9 Secs",
+            "LUXURY_LR_77KWh": "6.5 Secs",
+            "XPOWER_64KWh_AWD": "3.8 Secs"
+        },
+        {
+            "caracteristica": "Autonomía EV (km, WLTP)",
+            "STANDARD_51KWh": "350km",
+            "LUXURY_64KWh": "435km",
+            "LUXURY_LR_77KWh": "520km",
+            "XPOWER_64KWh_AWD": "385km"
+        },
+        {
+            "caracteristica": "Consumo de energía (Wh/km)",
+            "STANDARD_51KWh": 170,
+            "LUXURY_64KWh": 166,
+            "LUXURY_LR_77KWh": 165,
+            "XPOWER_64KWh_AWD": 187
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asiento conductor ajustable eléctricamente en 6",
+                "STANDARD_51KWh": "Manual",
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Asientos de tela",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Asientos PU + tela",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Asientos Alcantara+PU",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefactables",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Volante Ecocuero multifuncion PU",
+                "STANDARD_51KWh": null,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Volante calefactable",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Parasol",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Parasol con espejo",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Retrovisor interior antideslumbrante automático",
+                "STANDARD_51KWh": "Manual",
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Ventana lateral del conductor auto up & down con anti-pellizco",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Subida y bajada automática de todas las ventanillas",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Todas las ventanillas antipinzamiento",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Bomba de calor",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Intermitente delantero integrado en el faro",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Intermitentes LED delanteros de diseño vertical",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Piloto trasero LED esquinero con luz decorativa",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Luz trasera LED de ancho completo con luz decorativa",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Spoiler bajo",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Alerón doble montado en alto",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con plegado manual + Calefacción",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "Espejos exteriores con plegado automático + Calefacción",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Cristales traseros de privacidad",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Persiana activa",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Spoiler bajo",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara estacionamiento",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": "360°",
+                "LUXURY_LR_77KWh": "360°",
+                "XPOWER_64KWh_AWD": "360°"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla touch 10,25 \"",
+                "STANDARD_51KWh": true,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": false
+            },
+            {
+                "caracteristica": "6 parlantes",
+                "STANDARD_51KWh": 4,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "2 micrófonos",
+                "STANDARD_51KWh": 1,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Control por voz",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": true,
+                "LUXURY_LR_77KWh": true,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Electrical diferencial sistems (XDS)",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": true
+            },
+            {
+                "caracteristica": "Launch control",
+                "STANDARD_51KWh": false,
+                "LUXURY_64KWh": false,
+                "LUXURY_LR_77KWh": false,
+                "XPOWER_64KWh_AWD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Asiento del copiloto ajustable en 4 posiciones",
+            "Asientos traseros abatibles 40:60",
+            "Volante ajustable en 4 posiciones",
+            "V2L",
+            "Toma de 12V",
+            "Aire acondicionado con control automático"
+        ],
+        "exterior": [
+            "Luz diurna LED",
+            "Faro delantero LED",
+            "Luz antiniebla trasera",
+            "Luz de freno alta",
+            "Sensor de luces automático",
+            "Limpiaparabrisas delantero deshuesado",
+            "Limpiaparabrisas trasero",
+            "Cristales tintados"
+        ],
+        "seguridad": [
+            "Sensor de aparcamiento trasero",
+            "Delanteros 3 puntos + pretensor y limitador de carga",
+            "Traseros 3 puntos + pretensor",
+            "Recordatorio cinturón de seguridad delantero y trasero",
+            "Auto hold",
+            "EPB freno de mano electronico",
+            "Asiento trasero ISOFIX con anclaje superior e inferior",
+            "3 reposacabezas traseros",
+            "TPMS",
+            "Airbags frontales para conductor y copiloto",
+            "Airbags laterales para conductor y copiloto",
+            "Airbags laterales de cortina",
+            "Interruptor del airbag lateral para el copiloto"
+        ],
+        "tecnologia": [
+            "Apple Carplay/Android Auto",
+            "Cluster virtual 7\"",
+            "3 puertos USB (Frontal: 1x USB A + 1x USB C / Trasero: 1x USB A)",
+            "Bluetooth",
+            "Entrada sin llave",
+            "Arranque automático (el vehículo arranca pisando el pedal del freno)",
+            "MG PILOT (ADAS): Control de crucero adaptativo (ACC)",
+            "MG PILOT (ADAS): Frenada de emergencia automática (AEB)",
+            "MG PILOT (ADAS): Control Inteligente de Luces de Carretera (IHC)",
+            "MG PILOT (ADAS): Sistema de asistencia a la velocidad (SAS)",
+            "MG PILOT (ADAS): Asistencia en atascos (TJA) ICA",
+            "MG PILOT (ADAS): Alerta de conducción inestable (UDW)",
+            "MG PILOT (ADAS): Alerta de cambio involuntario de carril (LDW)",
+            "MG PILOT (ADAS): Asistencia de mantenimiento de carril (LKA)",
+            "Un pedal"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-4-xpower.pdf",
+        "versiones_en_documento": 4,
+        "notas": "El PDF usa '●' y '-' como marcadores. Se mapearon a true/false en tablas comparativas y equipamiento diferencial. Donde el PDF muestra texto (p.ej., 'Manual', '360°', '4', '1'), se mantuvo como valor literal. Campos no presentes en la tabla se dejaron como null."
+    }
+}

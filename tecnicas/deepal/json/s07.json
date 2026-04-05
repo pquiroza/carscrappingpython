@@ -1,0 +1,619 @@
+{
+    "vehiculo": {
+        "marca": "Deepal",
+        "modelo": "S07",
+        "año": null,
+        "versiones": [
+            "S07 EV",
+            "S07 REEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "S07 EV": "Eléctrico",
+            "S07 REEV": "Eléctrica y bencina"
+        },
+        "cilindrada": {
+            "S07 EV": null,
+            "S07 REEV": "1.5 L"
+        },
+        "potencia_hp": {
+            "S07 EV": "215",
+            "S07 REEV": "235"
+        },
+        "potencia_rpm": {
+            "S07 EV": null,
+            "S07 REEV": null
+        },
+        "torque_nm": {
+            "S07 EV": null,
+            "S07 REEV": null
+        },
+        "torque_rpm": {
+            "S07 EV": null,
+            "S07 REEV": null
+        },
+        "combustible": "Eléctrico / Bencina",
+        "transmision": {
+            "S07 EV": "Automática",
+            "S07 REEV": "Automática"
+        },
+        "traccion": "2WD trasera"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Macpherson",
+        "suspension_trasera": "Suspensión Independiente Multi Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": "Freno de mano automático (APB)",
+        "neumaticos": {
+            "S07 EV": "255/45R20",
+            "S07 REEV": "255/45R20"
+        },
+        "rueda_repuesto": "Kit de reparación de pinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 4750,
+        "ancho_mm": 1930,
+        "alto_mm": 1625,
+        "distancia_ejes_mm": 2900,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 445,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de batería (kWh)",
+            "S07 EV": "79,97",
+            "S07 REEV": "31,74"
+        },
+        {
+            "caracteristica": "NEDC Range (km)",
+            "S07 EV": "560",
+            "S07 REEV": "185"
+        },
+        {
+            "caracteristica": "Rendimiento eléctrico (km/kWh)",
+            "S07 EV": "6,4",
+            "S07 REEV": "7,2"
+        },
+        {
+            "caracteristica": "Capacidad combustible (L)",
+            "S07 EV": "N/A",
+            "S07 REEV": "45"
+        },
+        {
+            "caracteristica": "Combustible ponderado (km/L)",
+            "S07 EV": "N/A",
+            "S07 REEV": "100"
+        },
+        {
+            "caracteristica": "Rendimiento urbano combustible (km/L)",
+            "S07 EV": "N/A",
+            "S07 REEV": "19,2"
+        },
+        {
+            "caracteristica": "Carga media hasta 7 kW",
+            "S07 EV": "14,5 hrs.",
+            "S07 REEV": "4,5 hrs."
+        },
+        {
+            "caracteristica": "Carga ultrarrápida",
+            "S07 EV": "1,6 hrs. hasta 93 kW",
+            "S07 REEV": "38 min."
+        },
+        {
+            "caracteristica": "Tipo de conector de carga",
+            "S07 EV": "Europeo (modo 3 y 4)",
+            "S07 REEV": "Europeo (modo 3 y 4)"
+        },
+        {
+            "caracteristica": "Voltaje (V)",
+            "S07 EV": "417,6",
+            "S07 REEV": "364"
+        },
+        {
+            "caracteristica": "Tipo de batería",
+            "S07 EV": "Ternaria de litio (CATL)",
+            "S07 REEV": "Fosfato de hierro y litio"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "S07 EV": "7,9 segundos",
+            "S07 REEV": null
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo solar",
+                "S07 EV": "Panorámico",
+                "S07 REEV": "Panorámico"
+            },
+            {
+                "caracteristica": "Portalón automático",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles",
+                "S07 EV": "Eléctrico",
+                "S07 REEV": "Eléctrico"
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Función \"Follow me home\"",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Luz trasera antiniebla",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Cámaras exteriores",
+                "S07 EV": "Frontal (1) - costados (2) - trasera (1)",
+                "S07 REEV": "Frontal (1) - costados (2) - trasera (1)"
+            },
+            {
+                "caracteristica": "Plumillas con sensor de lluvia",
+                "S07 EV": true,
+                "S07 REEV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "S07 EV": "Doble zona",
+                "S07 REEV": "Doble zona"
+            },
+            {
+                "caracteristica": "Sistema de purificación de aire",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de ventilación en apoyabrazos delantero",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Aire acondicionado en plazas traseras con panel de control",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Pantalla infoentretenimiento con reconocimiento de usuario",
+                "S07 EV": "15,6\"",
+                "S07 REEV": "15,6\""
+            },
+            {
+                "caracteristica": "Cargador inalámbrico rápido",
+                "S07 EV": "40 W",
+                "S07 REEV": "40 W"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "S07 EV": "Asientos de cuero de microfibra",
+                "S07 REEV": "Asientos de cuero de microfibra"
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "S07 EV": "4 posiciones",
+                "S07 REEV": "4 posiciones"
+            },
+            {
+                "caracteristica": "Asiento acompañante eléctrico",
+                "S07 EV": "2 posiciones",
+                "S07 REEV": "2 posiciones"
+            },
+            {
+                "caracteristica": "Asiento conductor calefactable",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Asiento acompañante calefactable",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Alzavidrios delanteros / traseros",
+                "S07 EV": "Electrónico One Touch",
+                "S07 REEV": "Electrónico One Touch"
+            },
+            {
+                "caracteristica": "Head Up display",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Capacidad maletero (L)",
+                "S07 EV": 445,
+                "S07 REEV": 445
+            },
+            {
+                "caracteristica": "Capacidad maletero frontal (L)",
+                "S07 EV": 125,
+                "S07 REEV": "N/A"
+            },
+            {
+                "caracteristica": "Capacidad maletero con asientos traseros abatidos (L)",
+                "S07 EV": 1385,
+                "S07 REEV": 1385
+            },
+            {
+                "caracteristica": "Volante ajustable",
+                "S07 EV": "4 posiciones, altura y fondo",
+                "S07 REEV": "4 posiciones, altura y fondo"
+            },
+            {
+                "caracteristica": "Sistema de audio de alta fidelidad",
+                "S07 EV": "14 altavoces",
+                "S07 REEV": "14 altavoces"
+            },
+            {
+                "caracteristica": "Entrada USB",
+                "S07 EV": "2 x USB-A / 1 x USB-C",
+                "S07 REEV": "2 x USB-A / 1 x USB-C"
+            },
+            {
+                "caracteristica": "Cámara interior",
+                "S07 EV": true,
+                "S07 REEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "S07 EV": "6 / conductor, pasajero, lateral, cortina",
+                "S07 REEV": "6 / conductor, pasajero, lateral, cortina"
+            },
+            {
+                "caracteristica": "Asistencia de arranque en pendiente (HHC)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Asistencia de frenado (BA)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Cámara 360° (visión 540°) con simulación 3D",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Control de descenso en pendiente (HDC)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Detección de niño (Asientos delanteros/traseros)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Distribución electrónica de frenada (EBD)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Freno de mano automático (APB)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Grabador de video digital",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Inmobilizador antirrobo",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Retención automática del vehículo (AVH)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Seguro de niño",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Modos de manejo",
+                "S07 EV": "Normal, Eco, Sport",
+                "S07 REEV": "Normal, Eco, Sport"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento (n°)",
+                "S07 EV": "2 delanteros - 4 traseros",
+                "S07 REEV": "2 delanteros - 4 traseros"
+            },
+            {
+                "caracteristica": "Rango sensores delanteros",
+                "S07 EV": "60 cm",
+                "S07 REEV": "60 cm"
+            },
+            {
+                "caracteristica": "Rango sensores traseros",
+                "S07 EV": "150 cm",
+                "S07 REEV": "150 cm"
+            },
+            {
+                "caracteristica": "Sistema de alerta acústica de vehículo (AVAS)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Sistema ISOFIX (X3)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en velocidad",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Desbloqueo automático de puertas por colisión",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad frontales y traseros de 3 puntas",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Alerta de cinturones desabrochados (5)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros ajustables en altura",
+                "S07 EV": true,
+                "S07 REEV": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Advertencia de colisión frontal (FCW)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (peatones, ciclistas) (AEB)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Alerta de salida de carril (LDW)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Freno de tráfico cruzado trasero (RCTB)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Mantenimiento de carril de emergencia (ELKA)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión trasera (RCW)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego (BSD)",
+                "S07 EV": true,
+                "S07 REEV": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Control de gestos (foto, play/pausa música, contestar/colgar llamada)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Nivel de recuperación de energía",
+                "S07 EV": "Estándar - Fuerte - Personalizado",
+                "S07 REEV": "Estándar - Fuerte - Personalizado"
+            },
+            {
+                "caracteristica": "Modo de impulso de freno",
+                "S07 EV": "Confort - Sport",
+                "S07 REEV": "Confort - Sport"
+            },
+            {
+                "caracteristica": "Centrado de carril (LCC)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico (TJA)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Luces altas automáticas (HBA)",
+                "S07 EV": true,
+                "S07 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de partida inteligente sin botón de encendido",
+                "S07 EV": true,
+                "S07 REEV": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Techo solar panorámico",
+            "Portalón automático",
+            "Espejos laterales abatibles eléctrico",
+            "Luces diurnas (DRL)",
+            "Función \"Follow me home\"",
+            "Luces traseras LED",
+            "Luces delanteras LED",
+            "Luz trasera antiniebla",
+            "Cámaras exteriores: frontal (1) - costados (2) - trasera (1)",
+            "Plumillas con sensor de lluvia"
+        ],
+        "interior": [
+            "Climatizador doble zona",
+            "Sistema de purificación de aire",
+            "Sistema de ventilación en apoyabrazos delantero",
+            "Aire acondicionado en plazas traseras con panel de control",
+            "Pantalla infoentretenimiento con reconocimiento de usuario 15,6\"",
+            "Cargador inalámbrico rápido (40 W)",
+            "Tapiz asientos de cuero de microfibra",
+            "Asiento conductor eléctrico 4 posiciones",
+            "Asiento acompañante eléctrico 2 posiciones",
+            "Asiento conductor calefactable",
+            "Asiento acompañante calefactable",
+            "Espejo retrovisor antiencandilamiento",
+            "Alzavidrios delanteros / traseros electrónico One Touch",
+            "Head Up display",
+            "Capacidad maletero 445 L",
+            "Capacidad maletero con asientos traseros abatidos 1385 L",
+            "Volante ajustable 4 posiciones, altura y fondo",
+            "Sistema de audio de alta fidelidad 14 altavoces",
+            "Entrada USB 2 x USB-A / 1 x USB-C",
+            "Cámara interior"
+        ],
+        "seguridad": [
+            "Airbags 6 / conductor, pasajero, lateral, cortina",
+            "Asistencia de arranque en pendiente (HHC)",
+            "Asistencia de frenado (BA)",
+            "Cámara 360° (visión 540°) con simulación 3D",
+            "Control crucero adaptativo",
+            "Control de descenso en pendiente (HDC)",
+            "Control de estabilidad (ESP)",
+            "Detección de niño (Asientos delanteros/traseros)",
+            "Distribución electrónica de frenada (EBD)",
+            "Freno de mano automático (APB)",
+            "Grabador de video digital",
+            "Inmobilizador antirrobo",
+            "Retención automática del vehículo (AVH)",
+            "Seguro de niño",
+            "Modos de manejo: Normal, Eco, Sport",
+            "Sensores de estacionamiento: 2 delanteros - 4 traseros",
+            "Rango sensores delanteros 60 cm",
+            "Rango sensores traseros 150 cm",
+            "Sistema de alerta acústica de vehículo (AVAS)",
+            "Sistema de control de tracción (TCS)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Sistema ISOFIX (X3)",
+            "Bloqueo automático de puertas en velocidad",
+            "Desbloqueo automático de puertas por colisión",
+            "Cinturones de seguridad frontales y traseros de 3 puntas",
+            "Alerta de cinturones desabrochados (5)",
+            "Cinturones de seguridad delanteros ajustables en altura"
+        ],
+        "tecnologia": [
+            "Control de gestos (foto, play/pausa música, contestar/colgar llamada)",
+            "Nivel de recuperación de energía: Estándar - Fuerte - Personalizado",
+            "Modo de impulso de freno: Confort - Sport",
+            "Centrado de carril (LCC)",
+            "Asistente de tráfico (TJA)",
+            "Luces altas automáticas (HBA)",
+            "Sistema de partida inteligente sin botón de encendido"
+        ],
+        "adas": [
+            "Advertencia de colisión frontal (FCW)",
+            "Frenado autónomo de emergencia (peatones, ciclistas) (AEB)",
+            "Alerta de salida de carril (LDW)",
+            "Alerta de tráfico cruzado trasero (RCTA)",
+            "Freno de tráfico cruzado trasero (RCTB)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Asistente de cambio de carril",
+            "Mantenimiento de carril de emergencia (ELKA)",
+            "Advertencia de colisión trasera (RCW)",
+            "Detector de punto ciego (BSD)"
+        ]
+    },
+    "colores": [
+        "Esmeralda",
+        "Perla",
+        "Medianoche",
+        "Grafito",
+        "Lima",
+        "Cobre cielo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-23",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Deepal (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica_deepal_s07.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información visible del documento para las versiones S07 EV y S07 REEV. En los campos no legibles o no visibles con certeza se dejó null. Algunos valores de batería, autonomía y equipamiento fueron tomados de tablas de páginas 2 y 3."
+    }
+}

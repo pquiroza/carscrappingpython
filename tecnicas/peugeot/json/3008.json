@@ -1,0 +1,198 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "3008",
+        "año": 2025,
+        "versiones": [
+            "Allure",
+            "Premiere",
+            "GT"
+        ]
+    },
+    "motor": {
+        "tipo": "EB2 MHEV 1.2 Hybrid",
+        "cilindrada": "1199",
+        "potencia_hp": "136",
+        "potencia_rpm": "5500",
+        "torque_nm": "230",
+        "torque_rpm": "1750",
+        "combustible": "Híbrido",
+        "transmision": "Automática 6 velocidades",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "225/55 R19",
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": "4542",
+        "ancho_mm": "1934 / 2108",
+        "alto_mm": "1641",
+        "distancia_ejes_mm": "2739",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1833",
+        "capacidad_maletero_lts": "520 / 1480",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "ALLURE": "19\"",
+            "PREMIERE": "19\"",
+            "GT": "19\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "ALLURE": "1574",
+            "PREMIERE": "1574",
+            "GT": "1574"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Peso remolcable (kg)",
+            "ALLURE": "1200",
+            "PREMIERE": "1200",
+            "GT": "1200"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "ALLURE": "201",
+            "PREMIERE": "201",
+            "GT": "201"
+        },
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "ALLURE": "10,2",
+            "PREMIERE": "10,2",
+            "GT": "10,2"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "ALLURE": "21,5",
+            "PREMIERE": "21,5",
+            "GT": "21,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico con memoria",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asientos con masaje y ventilación",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Techo bi-tono",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor punto ciego",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Alerta tráfico cruzado",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo Stop&Go",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla multimedia",
+                "ALLURE": "10\"",
+                "PREMIERE": "21\"",
+                "GT": "21\""
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "ALLURE": false,
+                "PREMIERE": false,
+                "GT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Freno de mano eléctrico",
+            "Keyless",
+            "Dirección asistida eléctrica",
+            "Volante multifunción",
+            "Alzavidrios eléctricos"
+        ],
+        "exterior": [
+            "Faros LED",
+            "DRL LED",
+            "Retrovisores eléctricos",
+            "Llantas 19\""
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "ESP",
+            "Hill Assist",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ISOFIX",
+            "TPMS",
+            "Active Safety Brake"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Peugeot 3008 2025",
+        "versiones_en_documento": 3,
+        "notas": "Documento con una sola motorización híbrida. Diferencias por nivel de equipamiento."
+    }
+}

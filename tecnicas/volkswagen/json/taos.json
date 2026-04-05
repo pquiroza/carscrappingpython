@@ -1,0 +1,212 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Taos",
+        "año": null,
+        "versiones": [
+            "Comfortline 250 TSI AT",
+            "Highline 250 TSI AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline 250 TSI AT": "1.4L TSI",
+            "Highline 250 TSI AT": "1.4L TSI"
+        },
+        "cilindrada": {
+            "Comfortline 250 TSI AT": 1.4,
+            "Highline 250 TSI AT": 1.4
+        },
+        "potencia_hp": {
+            "Comfortline 250 TSI AT": "150"
+        },
+        "potencia_rpm": {
+            "Comfortline 250 TSI AT": "5.000"
+        },
+        "torque_nm": {
+            "Comfortline 250 TSI AT": "250"
+        },
+        "torque_rpm": {
+            "Comfortline 250 TSI AT": "2.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfortline 250 TSI AT": "AT 6",
+            "Highline 250 TSI AT": "AT 6"
+        },
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfortline 250 TSI AT": "215/55 R18",
+            "Highline 250 TSI AT": "235/45 R19"
+        },
+        "rueda_repuesto": {
+            "Comfortline 250 TSI AT": true,
+            "Highline 250 TSI AT": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4446,
+        "ancho_mm": 1846,
+        "alto_mm": 1635,
+        "distancia_ejes_mm": 2689,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 500,
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline 250 TSI AT": "10,2",
+            "Highline 250 TSI AT": "10,2"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline 250 TSI AT": "13,7",
+            "Highline 250 TSI AT": "13,7"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline 250 TSI AT": "17,0",
+            "Highline 250 TSI AT": "17,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "Comfortline 250 TSI AT": "18\"",
+                "Highline 250 TSI AT": "19\""
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            },
+            {
+                "caracteristica": "Luces principales LED IQ Light",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles y calefactables",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Comfortline 250 TSI AT": "Cuero Sintético",
+                "Highline 250 TSI AT": "Cuero"
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico y soporte lumbar eléctrico",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            },
+            {
+                "caracteristica": "Luz ambiente 30 colores",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Detector de punto ciego",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            },
+            {
+                "caracteristica": "Mantenimiento de carril Lane Assist",
+                "Comfortline 250 TSI AT": false,
+                "Highline 250 TSI AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Parlantes",
+                "Comfortline 250 TSI AT": 6,
+                "Highline 250 TSI AT": 8
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces diurnas LED (DRL)",
+            "Coming / Leaving Home",
+            "Luces traseras LED",
+            "Retrovisores exteriores eléctricos con tilt down",
+            "Retrovisores exteriores y manillas color carrocería",
+            "Barras longitudinales en techo"
+        ],
+        "interior": [
+            "Asientos traseros abatibles",
+            "Reposabrazos central delantero",
+            "Espejo retrovisor interior antideslumbrante automático",
+            "Volante multifunción en cuero con Paddle Shift"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortinas",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de tracción (ASR)",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Anclaje ISOFIX para asientos de niños",
+            "Inmovilizador electrónico con sistema de alarma antirrobo",
+            "Control de asistencia para arranque en pendientes",
+            "Rueda de repuesto",
+            "Frenado de emergencia autónomo con Front Assist",
+            "Indicador de presión de neumáticos",
+            "Sistema de detección de peatones"
+        ],
+        "tecnologia": [
+            "Radio Touchscreen 10,1” con VW Play",
+            "App Connect con Apple CarPlay y Android Auto",
+            "Cuadro de instrumentos digital 10,25”",
+            "Sensores delanteros y traseros",
+            "Cámara de retroceso",
+            "Keyless Entry y Botón de encendido",
+            "Control de velocidad crucero adaptativo con Stop&Go",
+            "Cargador inalámbrico",
+            "Detector de fatiga",
+            "Sensor de lluvia",
+            "Personalización de modos de conducción",
+            "Función ECO",
+            "Climatizador automático bi-zona"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Azul Atlántico",
+        "Blanco Puro",
+        "Plata Pirita",
+        "Gris Indio Metalizado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (x=Disponible, -=No disponible; cuando hay una sola columna aplica a todas las versiones).",
+        "fuente": "ficha-taos-2024-02.pdf.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajeron todos los datos técnicos (EURO 6B, consumo homologado, garantía 3 años o 100.000 Kms.), dimensiones, capacidades y equipamiento completo diferenciando por versión según tabla."
+    }
+}

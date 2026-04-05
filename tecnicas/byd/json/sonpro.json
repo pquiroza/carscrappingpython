@@ -1,0 +1,269 @@
+{
+    "vehiculo": {
+        "marca": "BYD",
+        "modelo": "SONG PRO",
+        "año": null,
+        "versiones": [
+            "GL",
+            "GS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL": "BYD472QA",
+            "GS": "BYD472QA"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "GL": "72 kW + 145 kW",
+            "GS": "72 kW + 145 kW"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "GL": "122 N·m + 300 N·m",
+            "GS": "122 N·m + 300 N·m"
+        },
+        "torque_rpm": null,
+        "combustible": "Híbrido enchufable",
+        "transmision": {
+            "GL": "DHT30",
+            "GS": "DHT30"
+        },
+        "traccion": {
+            "GL": "Delantera",
+            "GS": "Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica tipo columna asistida (C-EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson",
+        "suspension_trasera": "Enlace múltiple",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Sistema de estacionamiento electrónico (EPB)",
+        "neumaticos": {
+            "GL": "225/60 R18",
+            "GS": "225/60 R18"
+        },
+        "rueda_repuesto": "Dispositivo de reparación de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4738,
+        "ancho_mm": 1860,
+        "alto_mm": 1710,
+        "distancia_ejes_mm": 2712,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "GL": 2085,
+            "GS": 2145
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": "2+3"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "GL": "1675",
+            "GS": "1735"
+        },
+        {
+            "caracteristica": "Capacidad de la batería (kWh)",
+            "GL": "12.9",
+            "GS": "18.3"
+        },
+        {
+            "caracteristica": "Autonomía EV WLTC (km)",
+            "GL": "52",
+            "GS": "81"
+        },
+        {
+            "caracteristica": "Autonomía combinada WLTC (km)",
+            "GL": "982",
+            "GS": "1011"
+        },
+        {
+            "caracteristica": "Consumo combinado WLTC (L/100km)",
+            "GL": "5.7",
+            "GS": "5.7"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "GL": "8.3",
+            "GS": "7.9"
+        },
+        {
+            "caracteristica": "Radio de giro mínimo (m)",
+            "GL": "5.8",
+            "GS": "5.8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Carga de teléfono inalámbrico",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Ajuste manual de 6 direcciones del asiento del conductor",
+                "GL": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Asiento del conductor con ajuste eléctrico de 6 direcciones",
+                "GL": false,
+                "GS": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control de velocidad crucero (CC)",
+                "GL": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo (ACC)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Sistema de reconocimiento de señales de tráfico (TSR)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Control inteligente del límite de velocidad (ISLC)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia (AEB)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión frontal (FCW)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión trasera (RCW)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril (LDW)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Mantenimiento de carril central (LCK)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Detección de punto ciego (BSD)",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Luz de bienvenida dinámica del faro",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Espejo exterior: Luz de advertencia del monitor de puntos ciegos",
+                "GL": false,
+                "GS": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Capó con elevador neumático",
+            "Barras en el techo",
+            "Antena de aleta de tiburón",
+            "Método de desbloqueo del maletero: eléctrico o remoto",
+            "Apertura eléctrica del maletero"
+        ],
+        "interior": [
+            "Distribución de asientos 2+3 en dos filas",
+            "Material del asiento: Imitación de cuero",
+            "Asientos traseros plegables 4:6",
+            "Reposacabezas integral delantero",
+            "Ajuste manual 4 direcciones asiento pasajero",
+            "Anclajes ISO-FIX",
+            "Sistema de cabina inteligente BYD",
+            "Pantalla central 12.8 pulgadas",
+            "Rotación eléctrica de pantalla",
+            "GPS",
+            "CarPlay",
+            "Android Auto",
+            "Sistema de voz doble zona",
+            "Actualización OTA",
+            "Servicio BYD Cloud",
+            "Conexión 4G",
+            "Función Karaoke",
+            "6 altavoces",
+            "Puertos USB (A+C delanteros y traseros)",
+            "Instrumento LCD 8.8 pulgadas",
+            "Estuche de gafas",
+            "Apoyabrazos central delantero y trasero",
+            "Interfaz 12V"
+        ],
+        "seguridad": [
+            "HHC",
+            "CST",
+            "RMI",
+            "HDC",
+            "2 radares delanteros",
+            "4 radares traseros",
+            "TPMS",
+            "Bloqueo mecánico seguridad niños",
+            "ABS",
+            "ESC",
+            "IPBS",
+            "CDP",
+            "VDC",
+            "EBD",
+            "Cámaras panorámicas",
+            "Airbags delanteros",
+            "Airbags laterales",
+            "Airbags de cortina"
+        ],
+        "tecnologia": [
+            "Modo híbrido enchufable",
+            "Batería Blade BYD",
+            "Función de carga AC (6,6kW)",
+            "Función de descarga VTOL",
+            "Puerto carga Tipo2",
+            "Entrada y arranque sin llave",
+            "Inicio remoto",
+            "Llave mecánica",
+            "Función NFC tarjeta y celular",
+            "Aire acondicionado automático",
+            "Control de zona dual",
+            "Filtro PM2.5 CN95"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Atlantis Blue",
+        "Time Gray",
+        "Snow White",
+        "Cosmos Black"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura tabla BYD (●=presente, —=no disponible, ○=opcional)",
+        "fuente": "BYD-SONG-PRO-CHILE.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Especificaciones actualizadas: enero de 2025. Se extrajeron todos los datos visibles en la tabla comparativa."
+    }
+}

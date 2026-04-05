@@ -1,0 +1,107 @@
+[
+  {
+    "brand": "NISSAN",
+    "model": "Versa",
+    "vehicle_id": "L02D",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nuevo-nissan-versa.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA%20TECNICA%20NUEVO%20VERSA%20MC.pdf",
+        "text": "FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nuevo-nissan-versa.html"
+      }
+    ],
+    "hints": []
+  },
+  {
+    "brand": "NISSAN",
+    "model": "Sentra",
+    "vehicle_id": "29813",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nissan-sentra.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA%20TECNICA%20SENTRA%20MC%202024.pdf",
+        "text": "FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nissan-sentra.html"
+      }
+    ],
+    "hints": []
+  },
+  {
+    "brand": "NISSAN",
+    "model": "Nuevo Kicks",
+    "vehicle_id": "P16",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nuevo-kicks.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA_TECNICA_NUEVO_NISSAN_KICKS.pdf",
+        "text": "DESCARGA FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nuevo-kicks.html"
+      }
+    ],
+    "hints": []
+  },
+  {
+    "brand": "NISSAN",
+    "model": "Qashqai",
+    "vehicle_id": "P32SV",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nissan-qashqai.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA%20TECNICA%20NUEVA%20NISSAN%20QASHQAI.pdf",
+        "text": "VER FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nissan-qashqai.html"
+      }
+    ],
+    "hints": []
+  },
+  {
+    "brand": "NISSAN",
+    "model": "X-Trail",
+    "vehicle_id": "P32R",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nueva-nissan-xtrail.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA%20TECNICA%20NUEVA%20NISSAN%20XTRAIL.pdf",
+        "text": "VER FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nueva-nissan-xtrail.html"
+      }
+    ],
+    "hints": []
+  },
+  {
+    "brand": "NISSAN",
+    "model": "X-Trail e-POWER",
+    "vehicle_id": "P32E",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nissan-xtrail-epower.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA%20TECNICA%20NISSAN%20X-TRAIL%20E-POWER.pdf",
+        "text": "VER FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nissan-xtrail-epower.html"
+      }
+    ],
+    "hints": []
+  },
+  {
+    "brand": "NISSAN",
+    "model": "PATHFINDER",
+    "vehicle_id": "P42K",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nueva-nissan-pathfinder.html",
+    "pdfs": [
+      {
+        "type": "pdf",
+        "url": "https://www.nissan-cdn.net/content/dam/Nissan/cl/fichastecnicas/FICHA%20TECNICA%20NUEVA%20NISSAN%20PATHFINDER.pdf",
+        "text": "VER FICHA TÉCNICA",
+        "found_on": "https://www.nissan.cl/vehiculos/nuevos/nueva-nissan-pathfinder.html"
+      }
+    ],
+    "hints": []
+  }
+]

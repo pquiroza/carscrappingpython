@@ -1,0 +1,455 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "ALSVIN PLUS",
+        "año": null,
+        "versiones": [
+            "Comfort MT",
+            "Luxury MT",
+            "Luxury AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfort MT": "ICE",
+            "Luxury MT": "ICE",
+            "Luxury AT": "ICE"
+        },
+        "cilindrada": {
+            "Comfort MT": "1.5L",
+            "Luxury MT": "1.5L",
+            "Luxury AT": "1.5L"
+        },
+        "potencia_hp": {
+            "Comfort MT": "102",
+            "Luxury MT": "102",
+            "Luxury AT": "102"
+        },
+        "potencia_rpm": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Luxury AT": null
+        },
+        "torque_nm": {
+            "Comfort MT": "145",
+            "Luxury MT": "145",
+            "Luxury AT": "145"
+        },
+        "torque_rpm": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Luxury AT": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfort MT": "5MT",
+            "Luxury MT": "5MT",
+            "Luxury AT": "7DCT"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo MacPherson",
+        "suspension_trasera": "Barra de torsión no independiente",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": {
+            "Comfort MT": "Frenos de tambor",
+            "Luxury MT": "Frenos de tambor",
+            "Luxury AT": "Discos sólidos"
+        },
+        "freno_estacionamiento": {
+            "Comfort MT": "Manual",
+            "Luxury MT": "Manual",
+            "Luxury AT": "Electrónico"
+        },
+        "neumaticos": {
+            "Comfort MT": "205/60 r16",
+            "Luxury MT": "205/60 r16",
+            "Luxury AT": "205/60 r16"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4730,
+        "ancho_mm": 1820,
+        "alto_mm": 1505,
+        "distancia_ejes_mm": 2700,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "Comfort MT": 1615,
+            "Luxury MT": 1615,
+            "Luxury AT": 1660
+        },
+        "capacidad_maletero_lts": 500,
+        "capacidad_estanque_lts": 53,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Urbano sin autopista (KM/L)",
+            "Comfort MT": "10,3",
+            "Luxury MT": null,
+            "Luxury AT": "9,2"
+        },
+        {
+            "caracteristica": "Urbano con autopista Urbana (KM/L)",
+            "Comfort MT": "16,1",
+            "Luxury MT": null,
+            "Luxury AT": "14,6"
+        },
+        {
+            "caracteristica": "Rural con autopista (KM/L)",
+            "Comfort MT": "17,8",
+            "Luxury MT": null,
+            "Luxury AT": "17,3"
+        },
+        {
+            "caracteristica": "Autopista interurbana (KM/L)",
+            "Comfort MT": "14,9",
+            "Luxury MT": null,
+            "Luxury AT": "15,1"
+        },
+        {
+            "caracteristica": "Combinado",
+            "Comfort MT": "15",
+            "Luxury MT": null,
+            "Luxury AT": "14,3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores calefactables",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles automáticamente al cierre",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Sistema de advertencia de puerta abierta (sonoro y visual)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Sistema keyless (entrada y partida)",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Apertura y cierrre de ventana conductor en un click",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Encendido remoto de motor",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Faros delanteros automáticos",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Luces de circulación diurna led",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Luces traseras halógenas",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Luz antiniebla trasera",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Función \"Follow Me Home\"",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Alerta de luces encendidas",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Cámara y radar trasero",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Cámara 540°",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Salida de aire en plazas traseras",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento manual",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Asientos",
+                "Comfort MT": "Tela / negro",
+                "Luxury MT": "Ecocuero / negro",
+                "Luxury AT": "Ecocuero / negro"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles (60/40)",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "Comfort MT": "Manual - 6 posiciones",
+                "Luxury MT": "Eléctrico - 6 posiciones",
+                "Luxury AT": "Eléctrico - 6 posiciones"
+            },
+            {
+                "caracteristica": "Asiento acompañante",
+                "Comfort MT": "Manual - 4 posiciones",
+                "Luxury MT": "Manual - 4 posiciones",
+                "Luxury AT": "Manual - 4 posiciones"
+            },
+            {
+                "caracteristica": "Volante",
+                "Comfort MT": "Ecocuero",
+                "Luxury MT": "Ecocuero",
+                "Luxury AT": "Ecocuero microfibra"
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Entradas USB-A",
+                "Comfort MT": "1 frontal",
+                "Luxury MT": "1 frontal",
+                "Luxury AT": "1 frontal, 1 trasero"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control crucero",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Distribución electrónica de frenada (EBD)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Asistencia de frenado (BA)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Asistencia de arranque en pendiente (HHC)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Autohold",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Luxury AT": true
+            },
+            {
+                "caracteristica": "Inmobilizador antirrobo",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Sistema ISOFIX",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en velocidad",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Desbloqueo automático de seguro de puertas por colisión",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Cinturones de seguridad frontales y traseros de 3 puntas",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Cinturones de seguridad con limitador de fuerza",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Alerta de cinturones desabrochados (5)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Monitoreo de presión de neumáticos (TPMS)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Luxury AT": false
+            },
+            {
+                "caracteristica": "Airbags",
+                "Comfort MT": 4,
+                "Luxury MT": 4,
+                "Luxury AT": 4
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla touch LCD",
+                "Comfort MT": "10\"",
+                "Luxury MT": "10\"",
+                "Luxury AT": "10\""
+            },
+            {
+                "caracteristica": "Sistema de conexión multimedia inalámbrico",
+                "Comfort MT": "Apple CarPlay - Android Auto",
+                "Luxury MT": "Apple CarPlay - Android Auto",
+                "Luxury AT": "Apple CarPlay - Android Auto"
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital",
+                "Comfort MT": "10,25\"",
+                "Luxury MT": "10,25\"",
+                "Luxury AT": "10,25\""
+            },
+            {
+                "caracteristica": "Toma de corriente",
+                "Comfort MT": "12 v",
+                "Luxury MT": "12 v",
+                "Luxury AT": "12 v"
+            },
+            {
+                "caracteristica": "Altavoces",
+                "Comfort MT": 4,
+                "Luxury MT": 4,
+                "Luxury AT": 4
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neumáticos 205/60 r16",
+            "Llantas de aleación de aluminio"
+        ],
+        "interior": [
+            "Pantalla touch LCD 10\"",
+            "Sistema de conexión multimedia inalámbrico Apple CarPlay - Android Auto",
+            "Panel de instrumentos digital 10,25\"",
+            "Toma de corriente 12 v",
+            "Capacidad maletero 500 l",
+            "Altavoces (4)"
+        ],
+        "seguridad": [
+            "Airbags (4)"
+        ],
+        "tecnologia": [
+            "Apple CarPlay - Android Auto"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Rojo",
+        "Blanco",
+        "Gris",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "_JARVIS for Mallplaza V1.1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo la información visible de las tablas del documento para Changan Alsvin Plus."
+    }
+}

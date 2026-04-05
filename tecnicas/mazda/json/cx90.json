@@ -1,0 +1,311 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "CX-90",
+        "año": null,
+        "versiones": [
+            "PREMIUM",
+            "SIGNATURE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PREMIUM": "3.3 Turbo 6 en línea",
+            "SIGNATURE": "3.3 Turbo 6 en línea"
+        },
+        "cilindrada": {
+            "PREMIUM": null,
+            "SIGNATURE": null
+        },
+        "potencia_hp": {
+            "PREMIUM": "340",
+            "SIGNATURE": "340"
+        },
+        "potencia_rpm": {
+            "PREMIUM": "5.000-6.000",
+            "SIGNATURE": "5.000-6.000"
+        },
+        "torque_nm": {
+            "PREMIUM": "500",
+            "SIGNATURE": "500"
+        },
+        "torque_rpm": {
+            "PREMIUM": "2.000-4.500",
+            "SIGNATURE": "2.000-4.500"
+        },
+        "combustible": null,
+        "transmision": {
+            "PREMIUM": "Automática",
+            "SIGNATURE": "Automática"
+        },
+        "traccion": {
+            "PREMIUM": "AWD (1)",
+            "SIGNATURE": "AWD (1)"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "PREMIUM": "275/45 R21",
+            "SIGNATURE": "275/45 R21"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5100,
+        "ancho_mm": 1971,
+        "alto_mm": 1745,
+        "distancia_ejes_mm": 3120,
+        "despeje_suelo_mm": 203,
+        "peso_bruto_kg": 2886,
+        "capacidad_maletero_lts": "608 / 1.163",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": "8 (2:3:3)"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (Km/Lt.)",
+            "PREMIUM": "11,9",
+            "SIGNATURE": "11,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales eléctricos abatibles, auto dimming y defroster",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Color espejos exteriores",
+                "PREMIUM": "Carrocería",
+                "SIGNATURE": "Carrocería"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados oscuros",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "PREMIUM": "275/45 R21",
+                "SIGNATURE": "275/45 R21"
+            },
+            {
+                "caracteristica": "Tipo llantas",
+                "PREMIUM": "Plata Metalizado",
+                "SIGNATURE": "Black Metal"
+            },
+            {
+                "caracteristica": "Puerta maletero eléctrica con apertura de manos libres",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sistema Multimedia Mazda Connect (Pantalla 12\")",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Android Auto & Carplay",
+                "PREMIUM": "Cable/Carplay Inalámbrico",
+                "SIGNATURE": "Cable/Carplay Inalámbrico"
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Audio",
+                "PREMIUM": "12 Bose con subwoofer",
+                "SIGNATURE": "12 Bose con subwoofer"
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Regulación de altura y profundidad eléctrico",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "PREMIUM": "Tri-Zona",
+                "SIGNATURE": "Tri-Zona"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "PREMIUM": "Cuero negro",
+                "SIGNATURE": "Cuero nappa negro"
+            },
+            {
+                "caracteristica": "Tipo de regulación asientos delanteros",
+                "PREMIUM": "Eléctrico conductor y copiloto",
+                "SIGNATURE": "Eléctrico conductor y copiloto"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "PREMIUM": "Piloto y copiloto",
+                "SIGNATURE": "Piloto y copiloto"
+            },
+            {
+                "caracteristica": "Asientos con función enfriamiento",
+                "PREMIUM": 2,
+                "SIGNATURE": 2
+            },
+            {
+                "caracteristica": "Cantidad pasajeros",
+                "PREMIUM": "8 (2:3:3)",
+                "SIGNATURE": "8 (2:3:3)"
+            },
+            {
+                "caracteristica": "Parasol trasero",
+                "PREMIUM": 2,
+                "SIGNATURE": 2
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de personalización del conductor",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Mi-Drive: Mazda Intelligent Drive",
+                "PREMIUM": "Normal + Sport + Off Road",
+                "SIGNATURE": "Normal + Sport + Off Road"
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (MRCC)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Airbag",
+                "PREMIUM": "2 frontales + 2 laterales + 2 cortina + 1 rodilla conductor",
+                "SIGNATURE": "2 frontales + 2 laterales + 2 cortina + 1 rodilla conductor"
+            },
+            {
+                "caracteristica": "Adaptative led head light (ALH)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "PREMIUM": "Traseros/delanteros",
+                "SIGNATURE": "Traseros/delanteros"
+            },
+            {
+                "caracteristica": "Cámaras 360°",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero/delantero (RCTA/FCTA)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia de salida de carril (LDWS)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sistema de asistencia al mantenimiento de carril (LAS)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistencia frenado emergencia (SBS)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sistema de apertura",
+                "PREMIUM": "Smart Keyless",
+                "SIGNATURE": "Smart Keyless"
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en movimiento",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "i-STOP: Sistema de apagado y encendido automático del motor",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "G-Vectoring Control Plus (GVC Plus)",
+                "PREMIUM": true,
+                "SIGNATURE": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Cristal",
+        "Plata Cuarzo",
+        "Plata Metalizado",
+        "Gris Metálico",
+        "Rojo Cristal",
+        "Rojo Artisan"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-cx-90.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

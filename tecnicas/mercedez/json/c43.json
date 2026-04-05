@@ -1,0 +1,246 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C 43",
+        "año": null,
+        "versiones": [
+            "Mercedes-AMG C 43 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Mercedes-AMG C 43 4MATIC": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "Mercedes-AMG C 43 4MATIC": 1991
+        },
+        "potencia_hp": {
+            "Mercedes-AMG C 43 4MATIC": "408 CV (+14 CV)"
+        },
+        "potencia_rpm": {
+            "Mercedes-AMG C 43 4MATIC": null
+        },
+        "torque_nm": {
+            "Mercedes-AMG C 43 4MATIC": "500 Nm (+150 Nm)"
+        },
+        "torque_rpm": {
+            "Mercedes-AMG C 43 4MATIC": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Mercedes-AMG C 43 4MATIC": "AMG SPEEDSHIFT MCT 9G con función Race Start"
+        },
+        "traccion": {
+            "Mercedes-AMG C 43 4MATIC": "Integral AMG Performance 4MATIC"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Pinza fija de 4 émbolos",
+        "frenos_traseros": "Pinza de garra de 1 émbolo",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Mercedes-AMG C 43 4MATIC": "Delante: 245/35 R20 - Detrás: 265/30 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 66,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "Mercedes-AMG C 43 4MATIC": "250 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "Mercedes-AMG C 43 4MATIC": "4,6s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "Mercedes-AMG C 43 4MATIC": "12,5 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "Mercedes-AMG C 43 4MATIC": "AMG Line con perfil aerodinámico"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "Mercedes-AMG C 43 4MATIC": "AMG de 20 pulgadas y 5 radios dobles con propiedades aerodinámicas optimizadas, color gris tántalo y pulidas a alto brillo"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "Mercedes-AMG C 43 4MATIC": "Delante: 245/35 R20 - Detrás: 265/30 R20"
+            },
+            {
+                "caracteristica": "Dirección del eje trasero",
+                "Mercedes-AMG C 43 4MATIC": "Ángulo de la dirección en un margen de 2,5° y cambio de dirección a los 60 Km/h"
+            },
+            {
+                "caracteristica": "Luces DIGITAL LIGHT",
+                "Mercedes-AMG C 43 4MATIC": "Incluye Luces ULTRA RANGE, luces automáticas PLUS y compensación topográfica"
+            },
+            {
+                "caracteristica": "AMG Night Package",
+                "Mercedes-AMG C 43 4MATIC": "Cristales calorífugos tinteados, retrovisores oscuros y sistema de escapes cromados"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "Mercedes-AMG C 43 4MATIC": "Incluye cierre automático en caso de lluvia"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "Mercedes-AMG C 43 4MATIC": "Cuero ARTICO negro y cinturones de seguridad rojos AMG"
+            },
+            {
+                "caracteristica": "Volante AMG Performance en napa",
+                "Mercedes-AMG C 43 4MATIC": "Incluye teclas AMG inspiradas en la Fórmula 1"
+            },
+            {
+                "caracteristica": "Moldura",
+                "Mercedes-AMG C 43 4MATIC": "Elementos de adorno en estructura de metal"
+            },
+            {
+                "caracteristica": "Asientos delanteros deportivos con ajuste eléctrico y memoria",
+                "Mercedes-AMG C 43 4MATIC": "Incluye calefacción y apoyo lumbar con 4 vías de ajuste"
+            },
+            {
+                "caracteristica": "Cinturones",
+                "Mercedes-AMG C 43 4MATIC": "Rojos AMG con pretensores de emergencia"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC bizona",
+                "Mercedes-AMG C 43 4MATIC": "Para conductor y copiloto independientemente"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "Mercedes-AMG C 43 4MATIC": "Incluye diez conceptos cromáticos y elementos de iluminación en difusores de aire"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "Mercedes-AMG C 43 4MATIC": "Incluye Airbags en cada ventana lateral y en rodillas"
+            },
+            {
+                "caracteristica": "Gel hermetizante Tirefit",
+                "Mercedes-AMG C 43 4MATIC": "Incluye compresor inflado de neumáticos"
+            },
+            {
+                "caracteristica": "PRE-SAFE® Impulso Lateral",
+                "Mercedes-AMG C 43 4MATIC": "Impulso a los pasajeros delanteros hacia el interior del vehículo en caso de colisión lateral"
+            },
+            {
+                "caracteristica": "Frenos AMG",
+                "Mercedes-AMG C 43 4MATIC": "Frenos delanteros: Pinza fija de 4 émbolos. / Frenos trasero: Pinza de garra de 1 émbolo"
+            },
+            {
+                "caracteristica": "Paquete de asistencia a la conducción",
+                "Mercedes-AMG C 43 4MATIC": "Conducción parcialmente automatizada por el asistente activo de distancia DISTRONIC"
+            },
+            {
+                "caracteristica": "Sensores de asistencia a la conducción",
+                "Mercedes-AMG C 43 4MATIC": "Con detector y asistente activo de dirección y ayuda para maniobra evasiva"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara marcha atrás",
+                "Mercedes-AMG C 43 4MATIC": "Más confort y más seguridad al maniobrar gracias a imagen desde visualizador de medios"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "Mercedes-AMG C 43 4MATIC": "Sistema puede detectar espacios adecuados y asiste al estacionar"
+            },
+            {
+                "caracteristica": "ATTENTION ASSIST",
+                "Mercedes-AMG C 43 4MATIC": "Cuando sistema detecta signos de cansancio, propone realizar pausa de descanso"
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "Mercedes-AMG C 43 4MATIC": "Reconocer vehículos circulando o detenidos en la zona de peligro"
+            },
+            {
+                "caracteristica": "Control de presión de neumáticos",
+                "Mercedes-AMG C 43 4MATIC": "Supervisión de la presión de neumáticos y advertencia en caso de insuficiencia"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "Mercedes-AMG C 43 4MATIC": "Belleza e inteligencia de un sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "Mercedes-AMG C 43 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "AMG Track Pace",
+                "Mercedes-AMG C 43 4MATIC": "Selección de datos telemétricos en tiempo real"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos",
+                "Mercedes-AMG C 43 4MATIC": "12,3 pulgadas de alta definición y fácil uso"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "Mercedes-AMG C 43 4MATIC": "11,9 pulgadas completamente acristalada en formato vertical"
+            },
+            {
+                "caracteristica": "MBUX Navegación Plus",
+                "Mercedes-AMG C 43 4MATIC": "Incluye datos cartográficos actuales en 3D con la navegación por disco duro"
+            },
+            {
+                "caracteristica": "Tren de rodaje DYNAMIC BODY CONTROL",
+                "Mercedes-AMG C 43 4MATIC": "Libertad de elección entre máxima agilidad o un elevado confort de manejo"
+            },
+            {
+                "caracteristica": "Paquete KEYLESS GO",
+                "Mercedes-AMG C 43 4MATIC": "Incluye acceso al habitáculo Keyless y cierre de confort para maletero"
+            },
+            {
+                "caracteristica": "Paquete de personalización multimedia MBUX",
+                "Mercedes-AMG C 43 4MATIC": "Conceptos acústicos adicionales para mejorar la experiencia del sonido"
+            },
+            {
+                "caracteristica": "Integración de Smartphone inalámbrico",
+                "Mercedes-AMG C 43 4MATIC": "Apple CarPlay / Android Auto"
+            },
+            {
+                "caracteristica": "Sistema de carga inalámbrico",
+                "Mercedes-AMG C 43 4MATIC": "Para dispositivos de plazas delanteras"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-01",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; texto tal cual documento).",
+        "fuente": "Ficha_Técnica_C43_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior del Mercedes-AMG C 43 4MATIC."
+    }
+}

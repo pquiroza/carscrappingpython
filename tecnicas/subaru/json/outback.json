@@ -1,0 +1,730 @@
+{
+    "vehiculo": {
+        "marca": "Subaru",
+        "modelo": "OUTBACK",
+        "año": 2026,
+        "versiones": [
+            "XS",
+            "DYNAMIC",
+            "FIELD EDITION",
+            "TOURING GardX",
+            "2.4T Field Edition",
+            "2.4T Touring"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "XS": "Subaru Boxer, horizontalmente opuesto, de 4 cilindros DOHC",
+            "DYNAMIC": "Subaru Boxer, horizontalmente opuesto, de 4 cilindros DOHC",
+            "FIELD EDITION": "Subaru Boxer, horizontalmente opuesto, de 4 cilindros DOHC",
+            "TOURING GardX": "Subaru Boxer, horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.4T Field Edition": "Subaru Boxer, horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.4T Touring": "Subaru Boxer, horizontalmente opuesto, de 4 cilindros DOHC"
+        },
+        "cilindrada": {
+            "XS": 2498,
+            "DYNAMIC": 2498,
+            "FIELD EDITION": 2498,
+            "TOURING GardX": 2498,
+            "2.4T Field Edition": 2387,
+            "2.4T Touring": 2387
+        },
+        "potencia_hp": {
+            "XS": "188",
+            "DYNAMIC": "188",
+            "FIELD EDITION": "188",
+            "TOURING GardX": "188",
+            "2.4T Field Edition": "249",
+            "2.4T Touring": "249"
+        },
+        "potencia_rpm": {
+            "XS": "5.800",
+            "DYNAMIC": "5.800",
+            "FIELD EDITION": "5.800",
+            "TOURING GardX": "5.800",
+            "2.4T Field Edition": "5.800",
+            "2.4T Touring": "5.800"
+        },
+        "torque_nm": {
+            "XS": "245",
+            "DYNAMIC": "245",
+            "FIELD EDITION": "245",
+            "TOURING GardX": "245",
+            "2.4T Field Edition": "350",
+            "2.4T Touring": "350"
+        },
+        "torque_rpm": {
+            "XS": "3.400 - 4.600",
+            "DYNAMIC": "3.400 - 4.600",
+            "FIELD EDITION": "3.400 - 4.600",
+            "TOURING GardX": "3.400 - 4.600",
+            "2.4T Field Edition": "3.400 - 4.600",
+            "2.4T Touring": "3.400 - 4.600"
+        },
+        "combustible": "Inyección directa de gasolina",
+        "transmision": {
+            "XS": "Lineartronic CVT",
+            "DYNAMIC": "Lineartronic CVT",
+            "FIELD EDITION": "Lineartronic CVT",
+            "TOURING GardX": "Lineartronic CVT",
+            "2.4T Field Edition": "Lineartronic CVT",
+            "2.4T Touring": "Lineartronic CVT"
+        },
+        "traccion": "Symmetrical AWD, tracción permanente en las cuatro ruedas"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mac Pherson",
+        "suspension_trasera": "Independiente de doble brazo oscilante",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos Ventilados",
+        "freno_estacionamiento": "Electrónico con AVH",
+        "neumaticos": {
+            "XS": "225/60R18",
+            "DYNAMIC": "225/60R18",
+            "FIELD EDITION": "225/60R18",
+            "TOURING GardX": "225/60R18",
+            "2.4T Field Edition": "225/60R18",
+            "2.4T Touring": "225/60R18"
+        },
+        "rueda_repuesto": "215/60R17"
+    },
+    "dimensiones": {
+        "largo_mm": 4870,
+        "ancho_mm": 1875,
+        "alto_mm": {
+            "XS": 1675,
+            "DYNAMIC": 1670,
+            "FIELD EDITION": 1675,
+            "TOURING GardX": 1670,
+            "2.4T Field Edition": 1675,
+            "2.4T Touring": 1670
+        },
+        "distancia_ejes_mm": 2745,
+        "despeje_suelo_mm": 213,
+        "peso_bruto_kg": {
+            "XS": 1637,
+            "DYNAMIC": 1644,
+            "FIELD EDITION": 1661,
+            "TOURING GardX": 1667,
+            "2.4T Field Edition": 1747,
+            "2.4T Touring": 1755
+        },
+        "capacidad_maletero_lts": 522,
+        "capacidad_estanque_lts": 63,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Diámetro & carrera (mm)",
+            "XS": "94,0 × 90,0",
+            "DYNAMIC": "94,0 × 90,0",
+            "FIELD EDITION": "94,0 × 90,0",
+            "TOURING GardX": "94,0 × 90,0",
+            "2.4T Field Edition": "94,0 × 86,0",
+            "2.4T Touring": "94,0 × 86,0"
+        },
+        {
+            "caracteristica": "Relación de compresión",
+            "XS": "12,0 : 1",
+            "DYNAMIC": "12,0 : 1",
+            "FIELD EDITION": "12,0 : 1",
+            "TOURING GardX": "12,0 : 1",
+            "2.4T Field Edition": "10,6 : 1",
+            "2.4T Touring": "10,6 : 1"
+        },
+        {
+            "caracteristica": "SI-Drive (Subaru Inteligent Drive)",
+            "XS": "2 modos",
+            "DYNAMIC": "2 modos",
+            "FIELD EDITION": "2 modos",
+            "TOURING GardX": "2 modos",
+            "2.4T Field Edition": "2 modos",
+            "2.4T Touring": "2 modos"
+        },
+        {
+            "caracteristica": "Velocidad máxima km / h",
+            "XS": "206",
+            "DYNAMIC": "206",
+            "FIELD EDITION": "206",
+            "TOURING GardX": "206",
+            "2.4T Field Edition": "206",
+            "2.4T Touring": "206"
+        },
+        {
+            "caracteristica": "Relación de engranajes posición D",
+            "XS": "4.066 – 0.503",
+            "DYNAMIC": "4.066 – 0.503",
+            "FIELD EDITION": "4.066 – 0.503",
+            "TOURING GardX": "4.066 – 0.503",
+            "2.4T Field Edition": "3,229 – 0,468",
+            "2.4T Touring": "3,229 – 0,468"
+        },
+        {
+            "caracteristica": "Relación de engranajes 1a",
+            "XS": "4,066",
+            "DYNAMIC": "4,066",
+            "FIELD EDITION": "4,066",
+            "TOURING GardX": "4,066",
+            "2.4T Field Edition": "3,229",
+            "2.4T Touring": "3,229"
+        },
+        {
+            "caracteristica": "Relación de engranajes 2a",
+            "XS": "2,628",
+            "DYNAMIC": "2,628",
+            "FIELD EDITION": "2,628",
+            "TOURING GardX": "2,628",
+            "2.4T Field Edition": "2,310",
+            "2.4T Touring": "2,310"
+        },
+        {
+            "caracteristica": "Relación de engranajes 3a",
+            "XS": "1.911",
+            "DYNAMIC": "1.911",
+            "FIELD EDITION": "1.911",
+            "TOURING GardX": "1.911",
+            "2.4T Field Edition": "1,654",
+            "2.4T Touring": "1,654"
+        },
+        {
+            "caracteristica": "Relación de engranajes 4a",
+            "XS": "1.490",
+            "DYNAMIC": "1.490",
+            "FIELD EDITION": "1.490",
+            "TOURING GardX": "1.490",
+            "2.4T Field Edition": "1,278",
+            "2.4T Touring": "1,278"
+        },
+        {
+            "caracteristica": "Relación de engranajes 5a",
+            "XS": "1.166",
+            "DYNAMIC": "1.166",
+            "FIELD EDITION": "1.166",
+            "TOURING GardX": "1.166",
+            "2.4T Field Edition": "0,985",
+            "2.4T Touring": "0,985"
+        },
+        {
+            "caracteristica": "Relación de engranajes 6a",
+            "XS": "0.914",
+            "DYNAMIC": "0.914",
+            "FIELD EDITION": "0.914",
+            "TOURING GardX": "0.914",
+            "2.4T Field Edition": "0,768",
+            "2.4T Touring": "0,768"
+        },
+        {
+            "caracteristica": "Relación de engranajes 7a",
+            "XS": "0.717",
+            "DYNAMIC": "0.717",
+            "FIELD EDITION": "0.717",
+            "TOURING GardX": "0.717",
+            "2.4T Field Edition": "0,604",
+            "2.4T Touring": "0,604"
+        },
+        {
+            "caracteristica": "Relación de engranajes 8a",
+            "XS": "0.559",
+            "DYNAMIC": "0.559",
+            "FIELD EDITION": "0.559",
+            "TOURING GardX": "0.559",
+            "2.4T Field Edition": "0,468",
+            "2.4T Touring": "0,468"
+        },
+        {
+            "caracteristica": "Reversa",
+            "XS": "4.379",
+            "DYNAMIC": "4.379",
+            "FIELD EDITION": "4.379",
+            "TOURING GardX": "4.379",
+            "2.4T Field Edition": "3,139",
+            "2.4T Touring": "3,139"
+        },
+        {
+            "caracteristica": "Reducción final",
+            "XS": "3.900",
+            "DYNAMIC": "3.900",
+            "FIELD EDITION": "3.900",
+            "TOURING GardX": "3.900",
+            "2.4T Field Edition": "4,111",
+            "2.4T Touring": "4,111"
+        },
+        {
+            "caracteristica": "Radio mínimo de giro (metros)",
+            "XS": "5,5",
+            "DYNAMIC": "5,5",
+            "FIELD EDITION": "5,5",
+            "TOURING GardX": "5,5",
+            "2.4T Field Edition": "5,5",
+            "2.4T Touring": "5,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sistema de luces sensibles a la dirección (SRH)",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": "Led",
+                "TOURING GardX": "Led",
+                "2.4T Field Edition": "Led",
+                "2.4T Touring": "Led"
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles automático",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": false,
+                "TOURING GardX": true,
+                "2.4T Field Edition": false,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Espejos laterales color carrocería",
+                "XS": true,
+                "DYNAMIC": true,
+                "FIELD EDITION": "Negros",
+                "TOURING GardX": "Cromados",
+                "2.4T Field Edition": "Negros",
+                "2.4T Touring": "Cromados"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "XS": "18''",
+                "DYNAMIC": "18''",
+                "FIELD EDITION": "18''",
+                "TOURING GardX": "18''",
+                "2.4T Field Edition": "18''",
+                "2.4T Touring": "18''"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "XS": true,
+                "DYNAMIC": true,
+                "FIELD EDITION": false,
+                "TOURING GardX": true,
+                "2.4T Field Edition": false,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Portalón",
+                "XS": "Manual",
+                "DYNAMIC": false,
+                "FIELD EDITION": false,
+                "TOURING GardX": "Hands Free",
+                "2.4T Field Edition": false,
+                "2.4T Touring": "Hands Free"
+            },
+            {
+                "caracteristica": "Embellecedores color aluminio",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": false,
+                "TOURING GardX": true,
+                "2.4T Field Edition": false,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Gardx: Protección de pintura, cristales y telas. Incluye kit de lavado, conservación, removedor de excrementos de aves y kit de reparación de neumáticos",
+                "XS": "Opcional",
+                "DYNAMIC": "Opcional",
+                "FIELD EDITION": "Opcional",
+                "TOURING GardX": true,
+                "2.4T Field Edition": "Opcional",
+                "2.4T Touring": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Subaru Infotainment con pantalla táctil",
+                "XS": "7'' (dos pantallas)",
+                "DYNAMIC": "11,6''",
+                "FIELD EDITION": "11,6''",
+                "TOURING GardX": "11,6''",
+                "2.4T Field Edition": "11,6''",
+                "2.4T Touring": "11,6''"
+            },
+            {
+                "caracteristica": "Sistema de audio premium Harman Kardon",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "XS": 6,
+                "DYNAMIC": 6,
+                "FIELD EDITION": 12,
+                "TOURING GardX": 12,
+                "2.4T Field Edition": 12,
+                "2.4T Touring": 12
+            },
+            {
+                "caracteristica": "Navegador satelital",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": false,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Medidor combinado",
+                "XS": "4,3''",
+                "DYNAMIC": "4,3''",
+                "FIELD EDITION": "4,3''",
+                "TOURING GardX": "4,3''",
+                "2.4T Field Edition": "4,3''",
+                "2.4T Touring": "4,3''"
+            },
+            {
+                "caracteristica": "X-MODE",
+                "XS": true,
+                "DYNAMIC": "Avanzado",
+                "FIELD EDITION": "Avanzado",
+                "TOURING GardX": "Avanzado",
+                "2.4T Field Edition": "Avanzado",
+                "2.4T Touring": "Avanzado"
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "XS": true,
+                "DYNAMIC": "Adaptativo",
+                "FIELD EDITION": "Adaptativo",
+                "TOURING GardX": "Adaptativo",
+                "2.4T Field Edition": "Adaptativo",
+                "2.4T Touring": "Adaptativo"
+            },
+            {
+                "caracteristica": "Entrada auxiliar y entrada USB",
+                "XS": 2,
+                "DYNAMIC": 2,
+                "FIELD EDITION": 2,
+                "TOURING GardX": 2,
+                "2.4T Field Edition": 2,
+                "2.4T Touring": 2
+            },
+            {
+                "caracteristica": "Entrada USB traseros",
+                "XS": 2,
+                "DYNAMIC": 2,
+                "FIELD EDITION": 2,
+                "TOURING GardX": 2,
+                "2.4T Field Edition": 2,
+                "2.4T Touring": 2
+            },
+            {
+                "caracteristica": "Pedales de aluminio",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Volante y palanca de cambios tapizados en cuero",
+                "XS": true,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "XS": "Tela",
+                "DYNAMIC": "Tela",
+                "FIELD EDITION": "Tela Impermeable",
+                "TOURING GardX": "Cuero Nappa",
+                "2.4T Field Edition": "Tela Impermeable",
+                "2.4T Touring": "Cuero Nappa"
+            },
+            {
+                "caracteristica": "Asientos piloto y co-piloto con ajuste",
+                "XS": "Eléctrico de 8 posiciones",
+                "DYNAMIC": "Eléctrico de 8 posiciones",
+                "FIELD EDITION": "Eléctrico de 8 posiciones",
+                "TOURING GardX": "Eléctrico de 8 posiciones",
+                "2.4T Field Edition": "Eléctrico de 8 posiciones",
+                "2.4T Touring": "Eléctrico de 8 posiciones"
+            },
+            {
+                "caracteristica": "Asientos conductor con memoria 2 posiciones",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": false,
+                "TOURING GardX": true,
+                "2.4T Field Edition": false,
+                "2.4T Touring": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Espejo retrovisor interior día/noche",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Cámara de visión delantera",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Cámara de visión lateral",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Frenado automático en reversa (RAB)",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Haz de luz adaptativa (ADB)",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Sistema de monitorización del conductor (DMS)",
+                "XS": false,
+                "DYNAMIC": false,
+                "FIELD EDITION": false,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor del Punto Ciego (BSD)",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Asistencia de Cambio de Carril (LCA)",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Alerta de Tráfico Trasero Cruzado (RCTA)",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Frenado Previo a la Colisión",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Gestión del Acelerador Previo a la Colisión",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Aviso de Arranque del Vehículo Precedente",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Advertencia de Salida Involuntaria de Carril",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Advertencia de Vaivén en el Carril",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Corrección de Volante",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Control de Dirección Adaptativa",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Dirección de Emergencia Autónoma",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Monitor de Asistencia EyeSight",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            },
+            {
+                "caracteristica": "Vibración de volante",
+                "XS": false,
+                "DYNAMIC": true,
+                "FIELD EDITION": true,
+                "TOURING GardX": true,
+                "2.4T Field Edition": true,
+                "2.4T Touring": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros LED",
+            "Lavafocos de tipo pop up",
+            "Neblineros traseros",
+            "Faros traseros LED",
+            "Espejos laterales abatibles eléctricamente",
+            "Espejos laterales calefaccionados",
+            "Sensor de luz y lluvia",
+            "Spoiler de techo",
+            "Rieles de techo"
+        ],
+        "interior": [
+            "Volante con regulación vertical y ajuste telescópico",
+            "CarPlay y Android Auto (sujeto a compatibilidad)",
+            "Selector de cambios en el volante \"Paddle Shift\"",
+            "Controles de Bluetooth y audio al volante",
+            "Climatizador Dual",
+            "Sistema de acceso y encendido del motor sin llave - Smart Key",
+            "Cubre equipaje retráctil",
+            "Start Stop System con control de desactivación",
+            "Asiento trasero abatible 60/40",
+            "Asientos abatibles y reclinables de un solo toque"
+        ],
+        "seguridad": [
+            "Symmetrical AWD, tracción permanente en las cuatro ruedas",
+            "Sistema de frenos ABS con EBD",
+            "Control electrónico de estabilidad (VDC)",
+            "Vectorización activa de torque (ATV)",
+            "N° de Airbags 8 (Frontales, laterales, de cortina, de rodilla y cojin asiento pasajero)",
+            "Asiento trasero con soporte tipo ISOFIX para silla de niños",
+            "Apoya cabeza delanteros activos",
+            "Freno estacionamiento electrónico con AVH",
+            "Sistema de detección de pasajeros",
+            "Cámara de visión trasera",
+            "Sensor de presión de neumáticos (TPMS)",
+            "Bloqueo de puertas automático"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Subaru (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "spec-outback-2026-a4-web.pdf",
+        "versiones_en_documento": 6,
+        "notas": "Se extrajo la información visible de las 2 páginas del documento. No se informan colores en la ficha. En filas agrupadas de SRVD y EyeSight se aplicó el mismo patrón visible por versión cuando el bloque aparece compartido en la tabla."
+    }
+}

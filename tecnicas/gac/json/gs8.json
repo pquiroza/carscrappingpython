@@ -1,0 +1,748 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "GS8",
+        "año": null,
+        "versiones": [
+            "2WD GL",
+            "2WD GT",
+            "4WD GT",
+            "4WD GX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "2WD GL": "2.0 Turbo GDI",
+            "2WD GT": "2.0 Turbo GDI",
+            "4WD GT": "2.0 Turbo GDI",
+            "4WD GX": "2.0 Turbo GDI"
+        },
+        "cilindrada": {
+            "2WD GL": 1991,
+            "2WD GT": 1991,
+            "4WD GT": 1991,
+            "4WD GX": 1991
+        },
+        "potencia_hp": {
+            "2WD GL": "248",
+            "2WD GT": "248",
+            "4WD GT": "248",
+            "4WD GX": "248"
+        },
+        "potencia_rpm": {
+            "2WD GL": "5250 rpm",
+            "2WD GT": "5250 rpm",
+            "4WD GT": "5250 rpm",
+            "4WD GX": "5250 rpm"
+        },
+        "torque_nm": {
+            "2WD GL": "400",
+            "2WD GT": "400",
+            "4WD GT": "400",
+            "4WD GX": "400"
+        },
+        "torque_rpm": {
+            "2WD GL": "1750-4000 rpm",
+            "2WD GT": "1750-4000 rpm",
+            "4WD GT": "1750-4000 rpm",
+            "4WD GX": "1750-4000 rpm"
+        },
+        "combustible": null,
+        "transmision": {
+            "2WD GL": "AISIN 8 AT",
+            "2WD GT": "AISIN 8 AT",
+            "4WD GT": "AISIN 8 AT",
+            "4WD GX": "AISIN 8 AT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electroasistida EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson Independent Suspension",
+        "suspension_trasera": "Multi-link Beam Independiente",
+        "frenos_delanteros": "Discos 4 Ruedas",
+        "frenos_traseros": "Discos 4 Ruedas",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "2WD GL": "255/55 R19",
+            "2WD GT": "255/55 R19",
+            "4WD GT": "255/50 R20",
+            "4WD GX": "255/50 R20"
+        },
+        "rueda_repuesto": "Rueda de emergencia temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4980,
+        "ancho_mm": 1950,
+        "alto_mm": 1780,
+        "distancia_ejes_mm": 2920,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2WD GL": 1880,
+            "2WD GT": 1920,
+            "4WD GT": 2000,
+            "4WD GX": 2030
+        },
+        "capacidad_maletero_lts": "181 - 863 - 1.859L",
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": "7 con conductor"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "2WD GL": "8,2",
+            "2WD GT": "8,2",
+            "4WD GT": "7,5",
+            "4WD GX": "7,5"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "2WD GL": "10,6",
+            "2WD GT": "10,6",
+            "4WD GT": "9,9",
+            "4WD GX": "9,9"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "2WD GL": "12,7",
+            "2WD GT": "12,7",
+            "4WD GT": "12,0",
+            "4WD GX": "12,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "2WD GL": null,
+                "2WD GT": "Aleación",
+                "4WD GT": "Aleación",
+                "4WD GX": "Aleación"
+            },
+            {
+                "caracteristica": "Escape doble cromado",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Faros LED de circulación día",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Regulador automático de altura de los ópticos",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Luces de bienvenida",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Luces de freno LED",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Luces antiniebla trasera",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Asistente de luz en carretera (HMA)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Luz de carretera adaptativa (ADB)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Espejos laterales con ajuste y apertura eléctricos",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Espejos laterales con memoria",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Limpia parabrisas con sensor de lluvia",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Portalón eléctrico, cierre automático",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Ventanas delanteras insonorizadas",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Vidrios traseros polarizados",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Luz interior - claro",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Luz interior - oscuro + verde",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Luz interior - oscuro",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Aire acondicionado Tri-zona",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Sensor de calidad de aire (AQS)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Volante PU",
+                "2WD GL": true,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Paddle Shifter",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Retrovisor con atenuación automática",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "2WD GL": "Tela",
+                "2WD GT": "Cuero sintético",
+                "4WD GT": "Cuero sintético",
+                "4WD GX": "Cuero sintético"
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable en 6 posiciones eléctrico",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Apoyo lumbar ajustable en 2 posiciones eléctrico",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": true,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Base de asiento conductor eléctrico",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Ángulo de la base del asiento del conductor eléctrico",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con función memoria",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asiento del co-piloto ajustable en 4 posiciones eléctrico",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Reposacabezas delantero con ajuste manual en 4 posiciones",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": true,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Alzavidrios traseros one-touch",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Reposacabezas delanteros con ventilación",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Luz ambiente inteligente - multicolor",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": true,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Espejo de cortesía",
+                "2WD GL": null,
+                "2WD GT": 2,
+                "4WD GT": null,
+                "4WD GX": null
+            },
+            {
+                "caracteristica": "Parasol",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Porta anteojos",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Porta documentos",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Porta vasos",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Encendedor",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Tapiz",
+                "2WD GL": null,
+                "2WD GT": "Eco cuero",
+                "4WD GT": "Eco cuero",
+                "4WD GX": "Eco cuero"
+            },
+            {
+                "caracteristica": "Apoyabrazos central de la segunda fila con portavasos",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Aire acondicionado de segunda fila",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Segunda línea de asientos abatibles 180º",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Tercera línea de asientos abatibles 180º",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Parabrisas trasero desempeñado y descongelado",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de rodillas",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control de crucero adaptativo (ACC) + (ISL)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Sistema de reconocimiento señales de tráfico (TSR)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal (FCW)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Freno de emergencia autónomo (AEB)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de cambio involuntario de carril (LDW)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico (TJA)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de crucero inteligente (ICA)",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Detección de punto ciego (BSD)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril (LCA)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Alerta de puerta abierta (DOW)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Aviso de colisión trasera (RCW)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (ELKA)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Asistente de estacionamiento automático fusión (FAPA)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "AR-HUD 30’ pulgadas (TFT)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Sistema de monitorización en el automóvil (IMR)",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Navegación",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Pantalla táctil 10.1’ pulgadas",
+                "2WD GL": true,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Pantalla táctil LCD HD 14.6’ pulgadas",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Sistema de sonido - Alpine",
+                "2WD GL": false,
+                "2WD GT": false,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "2WD GL": true,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento HD sunrround vision",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento FAPA HD sunrround vision",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            },
+            {
+                "caracteristica": "Control de crucero",
+                "2WD GL": true,
+                "2WD GT": false,
+                "4WD GT": false,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Modo de conducción",
+                "2WD GL": "ECO - Comfort - Sport",
+                "2WD GT": "ECO - Comfort - Sport",
+                "4WD GT": "ECO - Comfort - Sport - Sand - Mud - Snow",
+                "4WD GX": "ECO - Comfort - Sport - Sand - Mud - Snow"
+            },
+            {
+                "caracteristica": "Botón de encendido",
+                "2WD GL": true,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": false
+            },
+            {
+                "caracteristica": "Conectividad para Iphone y Android",
+                "2WD GL": false,
+                "2WD GT": true,
+                "4WD GT": true,
+                "4WD GX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros (LED / AFS / Follow Me Home Function / Alarm For Headlight On)",
+            "Rueda de repuesto (Rueda de emergencia temporal)"
+        ],
+        "interior": [],
+        "seguridad": [
+            "Doble airbags frontales",
+            "Doble airbags laterales delanteros",
+            "Doble airbags laterales - cortina",
+            "Asientos delanteros con cinturones de seguridad pretensionados y limitadores de fuerza",
+            "Alarma de no uso del cinturón de seguridad asientos delanteros - luz + sonido",
+            "Alarma de no uso del cinturón de seguridad asientos traseros - luz",
+            "Control electrónico de estabilidad (ESP)",
+            "Asistencia de freno hidráulico (HBA)",
+            "Ayuda de arranque en pendiente (HHC)",
+            "Ayuda de descenso en pendientes (HDC)",
+            "Freno de mano electrónico (EPB) + autohold",
+            "Control de presión de neumáticos (TPMS)",
+            "Anclajes ISOFIX",
+            "Inmovilizador del motor (con alarma antirrobo)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución de fuerza de frenado eléctrico (EBD)",
+            "Ayuda de arranque en pendiente (HAC)",
+            "Seguro de niños en puertas traseras",
+            "Desbloqueo de puerta con sensor de impacto"
+        ],
+        "tecnologia": [
+            "Sistema audiovisual",
+            "Tablero de instrumentos LCD 7’ pulgadas",
+            "Puerto USB",
+            "Sistema de teléfono manos libres Bluetooth",
+            "Sensores de estacionamiento delantero",
+            "Sensores de estacionamiento trasero",
+            "Encendido a distancia",
+            "Compatibilidad Power Watch"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_GS8.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Los colores aparecen como muestras sin nombre (se dejan vacíos)."
+    }
+}

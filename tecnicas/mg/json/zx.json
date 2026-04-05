@@ -1,0 +1,191 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "ZX",
+        "año": null,
+        "versiones": [
+            "1.5_MT_COM",
+            "1.5_CVT_COM",
+            "1.5_MT_DLX",
+            "1.5_CVT_DLX",
+            "1.3T_6AT_TROPHY"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": null,
+        "potencia_hp": {
+            "1.5_MT_COM": "112",
+            "1.5_CVT_COM": "112",
+            "1.5_MT_DLX": "112",
+            "1.5_CVT_DLX": "112",
+            "1.3T_6AT_TROPHY": "115"
+        },
+        "potencia_rpm": {
+            "1.5_*": "6000",
+            "1.3T": "5600"
+        },
+        "torque_nm": {
+            "1.5_*": "150",
+            "1.3T": "230"
+        },
+        "torque_rpm": {
+            "1.5_*": "4500",
+            "1.3T": "4400"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5_MT_COM": "5MT",
+            "1.5_CVT_COM": "CVT",
+            "1.5_MT_DLX": "5MT",
+            "1.5_CVT_DLX": "CVT",
+            "1.3T_6AT_TROPHY": "6AT"
+        },
+        "traccion": "Front wheel drive"
+    },
+    "direccion": {
+        "tipo": "EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Torison beam",
+        "frenos_delanteros": "Disc",
+        "frenos_traseros": "Disc",
+        "neumaticos": {
+            "1.5_MT_COM": "215/55R17",
+            "1.5_CVT_COM": "215/55R17",
+            "1.5_MT_DLX": "215/55R17",
+            "1.5_CVT_DLX": "215/55R17",
+            "1.3T_6AT_TROPHY": "215/55R17 low RC"
+        },
+        "rueda_repuesto": "T125/90R16"
+    },
+    "dimensiones": {
+        "largo_mm": 4323,
+        "ancho_mm": 1809,
+        "alto_mm": 1653,
+        "distancia_ejes_mm": 2585,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5_MT_COM": 1258,
+            "1.5_CVT_COM": 1318,
+            "1.5_MT_DLX": 1258,
+            "1.5_CVT_DLX": 1318,
+            "1.3T_6AT_TROPHY": 1318
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 45
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta 17\" Alloy",
+            "1.5_MT_COM": true,
+            "1.5_CVT_COM": true,
+            "1.5_MT_DLX": true,
+            "1.5_CVT_DLX": true,
+            "1.3T_6AT_TROPHY": true
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Techo solar panorámico",
+                "1.5_MT_COM": false,
+                "1.5_CVT_COM": false,
+                "1.5_MT_DLX": false,
+                "1.5_CVT_DLX": false,
+                "1.3T_6AT_TROPHY": true
+            },
+            {
+                "caracteristica": "Cruise control",
+                "1.5_MT_COM": false,
+                "1.5_CVT_COM": true,
+                "1.5_MT_DLX": false,
+                "1.5_CVT_DLX": true,
+                "1.3T_6AT_TROPHY": true
+            }
+        ],
+        "exterior": [],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales",
+                "1.5_MT_COM": false,
+                "1.5_CVT_COM": false,
+                "1.5_MT_DLX": true,
+                "1.5_CVT_DLX": true,
+                "1.3T_6AT_TROPHY": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "1.5_MT_COM": false,
+                "1.5_CVT_COM": false,
+                "1.5_MT_DLX": false,
+                "1.5_CVT_DLX": false,
+                "1.3T_6AT_TROPHY": true
+            },
+            {
+                "caracteristica": "Control de ángulo muerto",
+                "1.5_MT_COM": false,
+                "1.5_CVT_COM": false,
+                "1.5_MT_DLX": false,
+                "1.5_CVT_DLX": false,
+                "1.3T_6AT_TROPHY": true
+            },
+            {
+                "caracteristica": "Cámara 360",
+                "1.5_MT_COM": false,
+                "1.5_CVT_COM": false,
+                "1.5_MT_DLX": false,
+                "1.5_CVT_DLX": false,
+                "1.3T_6AT_TROPHY": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Arranque con botón",
+            "Volante multifunción",
+            "EPS 3 modos",
+            "Bluetooth",
+            "USB",
+            "Pantalla 10\"",
+            "Apple CarPlay",
+            "Android Auto",
+            "Asiento trasero 60/40",
+            "Apoyabrazos delantero"
+        ],
+        "exterior": [
+            "LED DRL",
+            "Faros antiniebla",
+            "Barras de techo",
+            "Limpiaparabrisas deshuesado"
+        ],
+        "seguridad": [
+            "ABS",
+            "EBD",
+            "CBC",
+            "ESP",
+            "HHC",
+            "TCS",
+            "VDC",
+            "BDW",
+            "TPMS",
+            "ISOFIX",
+            "Airbags frontales",
+            "Cámara trasera",
+            "Sensor de estacionamiento"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-zx.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Tabla bilingüe. Se mapearon ● a true y - a false. Valores técnicos se copiaron literal."
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "SUV 500",
+        "año": 2025,
+        "versiones": [
+            "1.5L COMFORT",
+            "1.5L LUXURY",
+            "1.5L LUXURY CVT SK"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5L COMFORT": "SFG15A",
+            "1.5L LUXURY": "SFG15A",
+            "1.5L LUXURY CVT SK": "SFG15A"
+        },
+        "cilindrada": {
+            "1.5L COMFORT": 1498,
+            "1.5L LUXURY": 1498,
+            "1.5L LUXURY CVT SK": 1498
+        },
+        "potencia_hp": {
+            "1.5L COMFORT": "114",
+            "1.5L LUXURY": "114",
+            "1.5L LUXURY CVT SK": "110"
+        },
+        "potencia_rpm": {
+            "1.5L COMFORT": null,
+            "1.5L LUXURY": null,
+            "1.5L LUXURY CVT SK": null
+        },
+        "torque_nm": {
+            "1.5L COMFORT": "147",
+            "1.5L LUXURY": "147",
+            "1.5L LUXURY CVT SK": "147"
+        },
+        "torque_rpm": {
+            "1.5L COMFORT": null,
+            "1.5L LUXURY": null,
+            "1.5L LUXURY CVT SK": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.5L COMFORT": "5MT",
+            "1.5L LUXURY": "5MT",
+            "1.5L LUXURY CVT SK": "CVT"
+        },
+        "traccion": {
+            "1.5L COMFORT": "4x2",
+            "1.5L LUXURY": "4x2",
+            "1.5L LUXURY CVT SK": "4X2"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Barra de torsión no independiente",
+        "frenos_delanteros": "Delanteros y Traseros",
+        "frenos_traseros": "Delanteros y Traseros",
+        "freno_estacionamiento": {
+            "1.5L COMFORT": false,
+            "1.5L LUXURY": false,
+            "1.5L LUXURY CVT SK": true
+        },
+        "neumaticos": {
+            "1.5L COMFORT": "215/60 R-17",
+            "1.5L LUXURY": "215/60 R-17",
+            "1.5L LUXURY CVT SK": "215/60 R-17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4385,
+        "ancho_mm": 1645,
+        "alto_mm": 1850,
+        "distancia_ejes_mm": 2655,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5L COMFORT": 1770,
+            "1.5L LUXURY": 1770,
+            "1.5L LUXURY CVT SK": 1800
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/lt)",
+            "1.5L COMFORT": "13,7",
+            "1.5L LUXURY": "13,7",
+            "1.5L LUXURY CVT SK": "12,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Antena tipo aleta de tiburón",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": true,
+                "1.5L LUXURY CVT SK": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "1.5L COMFORT": "Tela",
+                "1.5L LUXURY": "Ecocuero",
+                "1.5L LUXURY CVT SK": "Ecocuero"
+            },
+            {
+                "caracteristica": "Smart key",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Botón de encendido",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": true,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": "7''",
+                "1.5L LUXURY CVT SK": "7”"
+            },
+            {
+                "caracteristica": "Android Auto & Apple CarPlay",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": true,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Control de radio al volante",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": true,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Velocidad crucero",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Caja de cambios con opción sport",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Caja de cambios con marchas seleccionables simuladas",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara retroceso",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": true,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento electrónico",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            },
+            {
+                "caracteristica": "Autohold",
+                "1.5L COMFORT": false,
+                "1.5L LUXURY": false,
+                "1.5L LUXURY CVT SK": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos laterales con señalador de viraje",
+            "Espejos laterales con regulador eléctrico",
+            "Defroster luneta trasera",
+            "Limpia parabrisas trasero",
+            "Neblineros traseros",
+            "Regulador de altura de luces",
+            "Alarma de luces encendidas",
+            "Llantas aleación"
+        ],
+        "interior": [
+            "Número de parlantes",
+            "Manubrio ajustable en altura",
+            "Aire acondicionado",
+            "Alzavidrios eléctricos",
+            "Alzavidrios de un toque",
+            "Apertura y cierre de vidrios a distancia",
+            "USB / Auxiliar",
+            "Apertura y cierre a distancia"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Control de estabilidad (ESP)",
+            "Monitor digital de presión de neumáticos (TPMS)",
+            "Airbag frontales"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Gris",
+        "Azul",
+        "Rojo",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Si=true, vacío/-=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica-suv500-2025-web.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó toda la información visible en la tabla. Los colores se identifican visualmente en la página 2 mediante las imágenes laterales de carrocería. La ficha muestra 'Frenos de disco: Delanteros y Traseros', por lo que se dejó tal cual en frenos_delanteros y frenos_traseros. No se indican potencia_rpm, torque_rpm, despeje_suelo_mm ni capacidad_maletero_lts en el documento."
+    }
+}

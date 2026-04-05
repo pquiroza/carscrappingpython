@@ -1,0 +1,336 @@
+{
+    "vehiculo": {
+        "marca": "SEAT",
+        "modelo": "Ibiza",
+        "año": null,
+        "versiones": [
+            "Style 1.6 MT",
+            "FR 1.6 AT",
+            "Style 1.0 TSI MT",
+            "Style 1.0 TSI AT",
+            "FR 1.0 TSI AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Style 1.6 MT": "1.6",
+            "FR 1.6 AT": "1.6",
+            "Style 1.0 TSI MT": "1.0 TSI",
+            "Style 1.0 TSI AT": "1.0 TSI",
+            "FR 1.0 TSI AT": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Style 1.6 MT": 1598,
+            "FR 1.6 AT": 1598,
+            "Style 1.0 TSI MT": 999,
+            "Style 1.0 TSI AT": 999,
+            "FR 1.0 TSI AT": 999
+        },
+        "potencia_hp": {
+            "Style 1.6 MT": "110",
+            "FR 1.6 AT": "110",
+            "Style 1.0 TSI MT": "115",
+            "Style 1.0 TSI AT": "115",
+            "FR 1.0 TSI AT": "115"
+        },
+        "potencia_rpm": {
+            "Style 1.6 MT": "5.800",
+            "FR 1.6 AT": "5.800",
+            "Style 1.0 TSI MT": "5.000 - 5.500",
+            "Style 1.0 TSI AT": "5.000 - 5.500",
+            "FR 1.0 TSI AT": "5.000 - 5.500"
+        },
+        "torque_nm": {
+            "Style 1.6 MT": "152",
+            "FR 1.6 AT": "152",
+            "Style 1.0 TSI MT": "200",
+            "Style 1.0 TSI AT": "200",
+            "FR 1.0 TSI AT": "200"
+        },
+        "torque_rpm": {
+            "Style 1.6 MT": "3.850 - 4.100",
+            "FR 1.6 AT": "3.850 - 4.100",
+            "Style 1.0 TSI MT": "2.000 - 3.500",
+            "Style 1.0 TSI AT": "2.000 - 3.500",
+            "FR 1.0 TSI AT": "2.000 - 3.500"
+        },
+        "combustible": null,
+        "transmision": {
+            "Style 1.6 MT": "MT5",
+            "FR 1.6 AT": "AT6",
+            "Style 1.0 TSI MT": "MT6",
+            "Style 1.0 TSI AT": "DSG7",
+            "FR 1.0 TSI AT": "DSG7"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Style 1.6 MT": "195/55 R16",
+            "FR 1.6 AT": "215/45 R17",
+            "Style 1.0 TSI MT": "195/55 R16",
+            "Style 1.0 TSI AT": "195/55 R16",
+            "FR 1.0 TSI AT": "215/45 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4059,
+        "ancho_mm": 1780,
+        "alto_mm": 1447,
+        "distancia_ejes_mm": 2564,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 355,
+        "capacidad_estanque_lts": 40,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "Style 1.6 MT": "190",
+            "FR 1.6 AT": "190",
+            "Style 1.0 TSI MT": "190",
+            "Style 1.0 TSI AT": "195",
+            "FR 1.0 TSI AT": "195"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (segundos)",
+            "Style 1.6 MT": "10,4",
+            "FR 1.6 AT": "10,8",
+            "Style 1.0 TSI MT": "10,4",
+            "Style 1.0 TSI AT": "9,5",
+            "FR 1.0 TSI AT": "9,5"
+        },
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Style 1.6 MT": "10,9",
+            "FR 1.6 AT": "10,5",
+            "Style 1.0 TSI MT": "15,4",
+            "Style 1.0 TSI AT": "15,6",
+            "FR 1.0 TSI AT": "15,6"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Style 1.6 MT": "19,2",
+            "FR 1.6 AT": "17,5",
+            "Style 1.0 TSI MT": "20,7",
+            "Style 1.0 TSI AT": "19,3",
+            "FR 1.0 TSI AT": "19,3"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Style 1.6 MT": "14,9",
+            "FR 1.6 AT": "14,1",
+            "Style 1.0 TSI MT": "18,4",
+            "Style 1.0 TSI AT": "17,7",
+            "FR 1.0 TSI AT": "17,7"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "Style 1.6 MT": "1.640",
+            "FR 1.6 AT": "1.690",
+            "Style 1.0 TSI MT": "1.690",
+            "Style 1.0 TSI AT": "1.700",
+            "FR 1.0 TSI AT": "1.700"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "Style 1.6 MT": "16\"",
+                "FR 1.6 AT": "17\"",
+                "Style 1.0 TSI MT": "16\"",
+                "Style 1.0 TSI AT": "16\"",
+                "FR 1.0 TSI AT": "17\""
+            },
+            {
+                "caracteristica": "Espejos exteriores abatibles eléctricos y térmicos",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": true,
+                "Style 1.0 TSI AT": true,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Luces principales",
+                "Style 1.6 MT": "Eco LED",
+                "FR 1.6 AT": "Full LED",
+                "Style 1.0 TSI MT": "Eco LED",
+                "Style 1.0 TSI AT": "Eco LED",
+                "FR 1.0 TSI AT": "Full LED"
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento copiloto con ajuste en altura",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Parlantes",
+                "Style 1.6 MT": "6",
+                "FR 1.6 AT": "6",
+                "Style 1.0 TSI MT": "S",
+                "Style 1.0 TSI AT": "6",
+                "FR 1.0 TSI AT": "6"
+            },
+            {
+                "caracteristica": "Tablero digital",
+                "Style 1.6 MT": "8\"",
+                "FR 1.6 AT": "10,25\"",
+                "Style 1.0 TSI MT": "8\"",
+                "Style 1.0 TSI AT": "8\"",
+                "FR 1.0 TSI AT": "10,25\""
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": true,
+                "Style 1.0 TSI AT": true,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": true,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": true,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Keyless Entry y botón de encendido",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": true,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Levas de cambio / Paddle Shifters",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": false,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            },
+            {
+                "caracteristica": "Selección de modos de conducción",
+                "Style 1.6 MT": false,
+                "FR 1.6 AT": false,
+                "Style 1.0 TSI MT": false,
+                "Style 1.0 TSI AT": false,
+                "FR 1.0 TSI AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores con ajuste eléctrico",
+            "Neblineros delanteros"
+        ],
+        "interior": [
+            "Asiento conductor con ajuste en altura",
+            "Tapizado de los asientos: Tela",
+            "Freno de mano forrado en cuero",
+            "Palanca de cambio en cuero",
+            "Reposabrazo central delantero",
+            "Volante forrado en cuero"
+        ],
+        "seguridad": [
+            "Advertencia de colisión frontal con frenado autónomo de emergencia - Front Assist",
+            "ABS (Sistema de Frenos Antibloqueo)",
+            "ASR (Control de Tracción)",
+            "EDS (Bloqueo Electrónico del Diferencial)",
+            "ESC (Control Electrónico de Estabilidad)",
+            "Anclajes de asiento infantil. Sistema ISOFIX",
+            "Cantidad de airbags: 6",
+            "Airbags frontales (2)",
+            "Airbags laterales en puertas delanteras (2)",
+            "Airbags de cortina (2)",
+            "Inmovilizador electrónico",
+            "Indicador de presión de neumáticos"
+        ],
+        "tecnologia": [
+            "Alarma volumétrica",
+            "Asistente de arranque en pendientes",
+            "Bluetooth",
+            "Cierre centralizado con control remoto",
+            "Computador a bordo",
+            "Entradas USB",
+            "Full Link (Android Auto & CarPlay)",
+            "Radio touchscreen de 8,25\"",
+            "Sensores de estacionamiento traseros",
+            "Volante ajustable en altura y profundidad",
+            "Volante multifuncional",
+            "Carga de teléfono inalámbrica",
+            "Climatizador automático bi-zona",
+            "Control crucero",
+            "Detector de fatiga",
+            "Encendido automático de las luces",
+            "Función Coming Home",
+            "Retrovisor interior antideslumbrante automático"
+        ],
+        "adas": [
+            "Advertencia de colisión frontal con frenado autónomo de emergencia - Front Assist",
+            "Detector de fatiga"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica SEAT (S=presente; -/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-(Ibiza-septiembre-2025)-Seat-(21x27).pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyeron dimensiones, motor, desempeño, capacidades, tren motriz y todo el equipamiento mostrado en tablas (Exterior/Interior/Funcionalidad/Seguridad)."
+    }
+}

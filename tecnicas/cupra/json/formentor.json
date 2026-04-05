@@ -1,0 +1,214 @@
+{
+    "vehiculo": {
+        "marca": "CUPRA",
+        "modelo": "FORMENTOR",
+        "año": null,
+        "versiones": [
+            "204HP 4DRIVE",
+            "VZ 4DRIVE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "204HP 4DRIVE": "Motor Turbo Inyección Directa",
+            "VZ 4DRIVE": "Motor Turbo Inyección Directa"
+        },
+        "cilindrada": {
+            "204HP 4DRIVE": 1984,
+            "VZ 4DRIVE": 1984
+        },
+        "potencia_hp": {
+            "204HP 4DRIVE": "204",
+            "VZ 4DRIVE": "333"
+        },
+        "potencia_rpm": {
+            "204HP 4DRIVE": null,
+            "VZ 4DRIVE": null
+        },
+        "torque_nm": {
+            "204HP 4DRIVE": "320",
+            "VZ 4DRIVE": "420"
+        },
+        "torque_rpm": {
+            "204HP 4DRIVE": "1.500 - 4.000",
+            "VZ 4DRIVE": "2.100 - 5.500"
+        },
+        "combustible": null,
+        "transmision": {
+            "204HP 4DRIVE": "DSG 7 velocidades",
+            "VZ 4DRIVE": "DSG 7 velocidades"
+        },
+        "traccion": "4Drive"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": {
+            "204HP 4DRIVE": "Discos sólidos",
+            "VZ 4DRIVE": "Discos ventilados"
+        },
+        "freno_estacionamiento": "Freno de mano electromecánico (con Auto Hold)",
+        "neumaticos": {
+            "204HP 4DRIVE": "245/45 R18",
+            "VZ 4DRIVE": "245/40 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4450,
+        "ancho_mm": 1839,
+        "alto_mm": 1511,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 420,
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad* (km/l)",
+            "204HP 4DRIVE": "11,4",
+            "VZ 4DRIVE": "9,4"
+        },
+        {
+            "caracteristica": "Consumo Carretera* (km/l)",
+            "204HP 4DRIVE": "17,5",
+            "VZ 4DRIVE": "14,7"
+        },
+        {
+            "caracteristica": "Consumo Mixto* (km/l)",
+            "204HP 4DRIVE": "14,7",
+            "VZ 4DRIVE": "12,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación (pulgadas)",
+                "204HP 4DRIVE": "18\"",
+                "VZ 4DRIVE": "19\""
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "204HP 4DRIVE": "245/45 R18",
+                "VZ 4DRIVE": "245/40 R19"
+            }
+        ],
+        "interior": [],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            },
+            {
+                "caracteristica": "Cámara 360° (retroceso, frontal y 2 cámaras laterales)",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            },
+            {
+                "caracteristica": "Detector de fatiga",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            },
+            {
+                "caracteristica": "Modo de conducción CUPRA",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego Side Assist",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            },
+            {
+                "caracteristica": "Intelligent Park Assist (IPA)",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            },
+            {
+                "caracteristica": "Sistema de navegación",
+                "204HP 4DRIVE": false,
+                "VZ 4DRIVE": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores con ajuste eléctrico, térmicos (S / y con memoria)",
+            "Espejos exteriores abatibles eléctricos",
+            "Luces diurnas LED",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Neblineros",
+            "Techo corredizo panorámico",
+            "Vidrios traseros tinteados"
+        ],
+        "interior": [
+            "Asientos con ajuste en altura eléctricos (Delanteros y memoria conductor)",
+            "Asientos con ajuste lumbar eléctrico (Delanteros)",
+            "Reposabrazo central delantero (Delanteros)",
+            "Asientos / tapizado (Bucket / Cuero)"
+        ],
+        "seguridad": [
+            "ABS (Sistema de Frenos Antibloqueo)",
+            "ASR (Control de Tracción)",
+            "EDS (Bloqueo Electrónico del Diferencial)",
+            "ESC (Control Electrónico de Estabilidad)",
+            "Anclajes de asiento infantil. Sistema ISOFIX",
+            "Airbag frontal para conductor y pasajero delantero",
+            "Airbags laterales delanteros y traseros",
+            "Airbags de cortina",
+            "Airbag central delantero",
+            "Airbag de rodilla para el conductor",
+            "Inmovilizador electrónico"
+        ],
+        "tecnologia": [
+            "Bluetooth",
+            "Cámara de retroceso",
+            "Cargador inalámbrico",
+            "Climatizador automático 3-zonas",
+            "Control crucero",
+            "Digital Cockpit 10,25\"",
+            "Entradas USB",
+            "Full Link inalámbrico (Android Auto & CarPlay)",
+            "Indicador de presión de neumáticos",
+            "Keyless Entry y botón de encendido",
+            "Levas de cambio / Paddle Shifters",
+            "Parlantes (11 + subwoofer)",
+            "Radio touchscreen de 12,9\"",
+            "Sistema de sonido Sennheiser"
+        ],
+        "adas": [
+            "Encendido automático de las luces",
+            "Sensor de lluvia",
+            "Sensores de estacionamientos delanteros y traseros"
+        ]
+    },
+    "colores": [
+        "Blanco Glacial",
+        "Azul Fiord",
+        "Gris Grafeno",
+        "Bronce Century Mate (*Disponible en versión VZ)",
+        "Gris Encelado Mate (*Disponible en versión VZ)",
+        "Gris Magnético",
+        "Gris Magnético Mate (*Disponible en versión VZ)",
+        "Negro Media Noche",
+        "Dark Void (*Disponible en versión VZ)",
+        "Black Rebel (*Disponible en versión VZ Black Rebel)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica CUPRA (S=true, -=false; textos/valores tal cual)",
+        "fuente": "Ficha-tecnica-Formentor-Cupra-01-26.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó todo lo que aparece en el PDF: equipamiento por versión (S / -), datos técnicos/dimensiones, desempeño, capacidades y colores."
+    }
+}

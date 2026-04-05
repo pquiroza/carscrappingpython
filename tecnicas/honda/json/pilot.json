@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "Honda",
+        "modelo": "Pilot",
+        "año": null,
+        "versiones": [
+            "TOURING",
+            "ELITE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "TOURING": "V-6 con inyección directa",
+            "ELITE": "V-6 con inyección directa"
+        },
+        "cilindrada": {
+            "TOURING": 3471,
+            "ELITE": 3471
+        },
+        "potencia_hp": {
+            "TOURING": "285",
+            "ELITE": "285"
+        },
+        "potencia_rpm": {
+            "TOURING": "6.100",
+            "ELITE": "6.100"
+        },
+        "torque_nm": {
+            "TOURING": "36.2",
+            "ELITE": "36.2"
+        },
+        "torque_rpm": {
+            "TOURING": "5.000",
+            "ELITE": "5.000"
+        },
+        "combustible": "Regular sin plomo",
+        "transmision": {
+            "TOURING": "Transmisión automática de 10 velocidades (Shift-by-wire™) con paddleshift",
+            "ELITE": "Transmisión automática de 10 velocidades (Shift-by-wire™) con paddleshift"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctricamente asistida (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera independiente de tipo MacPherson",
+        "suspension_trasera": "Suspensión posterior tipo Multi-link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": "Freno de estacionamiento eléctrico con retención de freno automática",
+        "neumaticos": {
+            "TOURING": "255/50 R20 105H",
+            "ELITE": "255/50 R20 105H"
+        },
+        "rueda_repuesto": "Repuesto temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 5065,
+        "ancho_mm": 1995,
+        "alto_mm": 1770,
+        "distancia_ejes_mm": 2890,
+        "despeje_suelo_mm": 185,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "634 (detrás 3ra fila) / 1.702 (detrás 2da fila) / 3.237 (detrás 1ra fila)",
+        "capacidad_estanque_lts": 70,
+        "numero_pasajeros": 8
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejo exterior calefaccionado",
+                "TOURING": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Kit de arrastre",
+                "TOURING": false,
+                "ELITE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "TOURING": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Luz de piso",
+                "TOURING": false,
+                "ELITE": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Volante calefaccionado",
+                "TOURING": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Pantalla frontal (HUD)",
+                "TOURING": false,
+                "ELITE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Techo panorámico",
+            "Rieles para portaequipaje",
+            "Luces LED",
+            "Neblineros LED",
+            "Sistema de entrada inteligente con bloqueo automático Walk Away",
+            "Espejos laterales con señalizador",
+            "Espejos laterales plegables eléctricamente"
+        ],
+        "interior": [
+            "Portalón trasero eléctrico manos libres (apertura con el pie)",
+            "Botón de encendido / apagado & Smart Entry",
+            "Sensor de lluvia",
+            "Climatizador trizona",
+            "Control crucero",
+            "Volante tapizado con cuero",
+            "Asiento del piloto con ajuste eléctrico de 8 posiciones",
+            "Asiento del copiloto con ajuste eléctrico de 4 posiciones",
+            "Asientos tapizados con cuero",
+            "Asiento conductor con soporte lumbar eléctrico",
+            "Asientos delanteros calefaccionados y ventilados",
+            "2ª y 3ª fila de asientos con respaldo reclinable 60/40 y banca abatible a nivel de piso",
+            "Asiento piloto y espejos con memorias",
+            "Asiento central segunda fila desmontable"
+        ],
+        "seguridad": [
+            "Airbags delanteros de doble etapa (SRS)",
+            "Airbags delanteros laterales",
+            "Airbags laterales tipo cortina",
+            "Airbags delantero de rodillas",
+            "Cinturones de seguridad de 3 puntos en los 8 asientos",
+            "Asistencia para la estabilidad del vehículo (VSA)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución de frenado con asistencia de frenado (EBD)",
+            "Luces diurnas (DRL) LED",
+            "Asistente de arranque en pendientes (HSA)",
+            "Asistente de descenso en pendientes",
+            "Asistencia para estabilidad con remolque (TSA)",
+            "Sensor de retroceso delantero y trasero"
+        ],
+        "tecnologia": [
+            "Espejo retrovisor con atenuación automática",
+            "Sistema de cámara vista múltiple 360°",
+            "Pantalla touch screen 9\" compatible con Apple CarPlay inalámbrico y Android Auto",
+            "Sistema de audio premium con 12 parlantes Bose",
+            "Enlace manos libres Bluetooth",
+            "Cargador de teléfono inalámbrico"
+        ],
+        "adas": [
+            "Control crucero adaptativo (ACC) con seguimiento a baja velocidad",
+            "Sistema de asistencia para mantenerse en el carril (LKAS)",
+            "Sistema de mitigación de salida de carril (RDM)",
+            "Alerta de salida de carril (LDW)",
+            "Sistema de frenado de mitigación de colisión (CMBS)",
+            "Alerta de colisión frontal (FCW)",
+            "Monitor de tráfico cruzado",
+            "Sistema de información de punto ciego (BSI)",
+            "Control de frenado a baja velocidad"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Honda (●=true, ○/vacío/–=false; texto/valores tal cual)",
+        "fuente": "ficha_pilot.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Motor: bloque/culata Aleación/Aluminio; Diámetro x carrera (mm): 89 x 93; Relación de compresión: 11.5:1; Tren de válvulas: 24-válvulas DOHC. Nota de torque: el documento lo entrega como (KG-M @ RPM). Chasis: barra estabilizadora (mm delantera/trasera) 25/18; relación de dirección 15.0:1; diámetro de giro (m) 12. Dimensiones: ángulo de aproximación/partida (grados) 18.3° / 20.3°. Peso vehicular (kg): TOURING 2.098; ELITE 2.114. Distribución de peso (% delantero/trasero): 56/44. Capacidad de remolque (kg): 2.268. Volumen para pasajeros (litros): 4.386."
+    }
+}

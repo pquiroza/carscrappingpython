@@ -1,0 +1,522 @@
+{
+    "vehiculo": {
+        "marca": "Volvo",
+        "modelo": "XC90",
+        "año": null,
+        "versiones": [
+            "T8 CORE AWD",
+            "T8 PLUS AWD",
+            "T8 ULTRA AWD",
+            "T8 ULTRA DARK AWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "T8 CORE AWD": "2.0 Twin Engine",
+            "T8 PLUS AWD": "2.0 Twin Engine",
+            "T8 ULTRA AWD": "2.0 Twin Engine",
+            "T8 ULTRA DARK AWD": "2.0 Twin Engine"
+        },
+        "cilindrada": {
+            "T8 CORE AWD": null,
+            "T8 PLUS AWD": null,
+            "T8 ULTRA AWD": null,
+            "T8 ULTRA DARK AWD": null
+        },
+        "potencia_hp": {
+            "T8 CORE AWD": "462",
+            "T8 PLUS AWD": "462",
+            "T8 ULTRA AWD": "462",
+            "T8 ULTRA DARK AWD": "462"
+        },
+        "potencia_rpm": {
+            "T8 CORE AWD": null,
+            "T8 PLUS AWD": null,
+            "T8 ULTRA AWD": null,
+            "T8 ULTRA DARK AWD": null
+        },
+        "torque_nm": {
+            "T8 CORE AWD": "709",
+            "T8 PLUS AWD": "709",
+            "T8 ULTRA AWD": "709",
+            "T8 ULTRA DARK AWD": "709"
+        },
+        "torque_rpm": {
+            "T8 CORE AWD": null,
+            "T8 PLUS AWD": null,
+            "T8 ULTRA AWD": null,
+            "T8 ULTRA DARK AWD": null
+        },
+        "combustible": null,
+        "transmision": {
+            "T8 CORE AWD": "Aut, 8 vel. Geartronic ™",
+            "T8 PLUS AWD": "Aut, 8 vel. Geartronic ™",
+            "T8 ULTRA AWD": "Aut, 8 vel. Geartronic ™",
+            "T8 ULTRA DARK AWD": "Aut, 8 vel. Geartronic ™"
+        },
+        "traccion": "AWD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "T8 CORE AWD": null,
+            "T8 PLUS AWD": null,
+            "T8 ULTRA AWD": null,
+            "T8 ULTRA DARK AWD": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Motor (lt)",
+            "T8 CORE AWD": "2.0 Twin Engine",
+            "T8 PLUS AWD": "2.0 Twin Engine",
+            "T8 ULTRA AWD": "2.0 Twin Engine",
+            "T8 ULTRA DARK AWD": "2.0 Twin Engine"
+        },
+        {
+            "caracteristica": "Potencia (HP)",
+            "T8 CORE AWD": "462",
+            "T8 PLUS AWD": "462",
+            "T8 ULTRA AWD": "462",
+            "T8 ULTRA DARK AWD": "462"
+        },
+        {
+            "caracteristica": "Torque máximo (Nm)",
+            "T8 CORE AWD": "709",
+            "T8 PLUS AWD": "709",
+            "T8 ULTRA AWD": "709",
+            "T8 ULTRA DARK AWD": "709"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/hr)",
+            "T8 CORE AWD": "180",
+            "T8 PLUS AWD": "180",
+            "T8 ULTRA AWD": "180",
+            "T8 ULTRA DARK AWD": "180"
+        },
+        {
+            "caracteristica": "Aceleración de 0 - 100 (seg)",
+            "T8 CORE AWD": "5,3",
+            "T8 PLUS AWD": "5,3",
+            "T8 ULTRA AWD": "5,3",
+            "T8 ULTRA DARK AWD": "5,3"
+        },
+        {
+            "caracteristica": "Transmisión",
+            "T8 CORE AWD": "Aut, 8 vel. Geartronic ™",
+            "T8 PLUS AWD": "Aut, 8 vel. Geartronic ™",
+            "T8 ULTRA AWD": "Aut, 8 vel. Geartronic ™",
+            "T8 ULTRA DARK AWD": "Aut, 8 vel. Geartronic ™"
+        },
+        {
+            "caracteristica": "Tracción",
+            "T8 CORE AWD": "AWD",
+            "T8 PLUS AWD": "AWD",
+            "T8 ULTRA AWD": "AWD",
+            "T8 ULTRA DARK AWD": "AWD"
+        },
+        {
+            "caracteristica": "Start-Stop",
+            "T8 CORE AWD": true,
+            "T8 PLUS AWD": true,
+            "T8 ULTRA AWD": true,
+            "T8 ULTRA DARK AWD": true
+        },
+        {
+            "caracteristica": "Suspensión Neumática",
+            "T8 CORE AWD": false,
+            "T8 PLUS AWD": false,
+            "T8 ULTRA AWD": true,
+            "T8 ULTRA DARK AWD": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Rieles de techo",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": "Glossy black"
+            },
+            {
+                "caracteristica": "Luces Led Activas",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores antideslumbrantes y retráctiles",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "T8 CORE AWD": "20\" A",
+                "T8 PLUS AWD": "21\" B",
+                "T8 ULTRA AWD": "21\" B",
+                "T8 ULTRA DARK AWD": "21\" B"
+            },
+            {
+                "caracteristica": "Kit de Reparación",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico con apertura manos libres",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico eléctrico",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Diseño Dark: Molduras, tomas de aire y espejos laterales con terminaciones en \"Glossy Black\".",
+                "T8 CORE AWD": false,
+                "T8 PLUS AWD": false,
+                "T8 ULTRA AWD": false,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "A = 20\" 5-Multi Spoke Black Diamond-cut",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": false,
+                "T8 ULTRA AWD": false,
+                "T8 ULTRA DARK AWD": false
+            },
+            {
+                "caracteristica": "B = 21\" 5-Spoke Black Diamond-cut",
+                "T8 CORE AWD": false,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Alarma con sensor de movimiento interior",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Tapicería",
+                "T8 CORE AWD": "Vinyl Nordico",
+                "T8 PLUS AWD": "Cuero Nappa Ventilado",
+                "T8 ULTRA AWD": "Cuero Nappa Ventilado",
+                "T8 ULTRA DARK AWD": "Cuero Nappa Ventilado"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos, calefaccionados y con soporte lumbar",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con memoria",
+                "T8 CORE AWD": "Solo Piloto",
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Climatizador de 4 zonas",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Seguro de niños eléctrico",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Iluminación interior",
+                "T8 CORE AWD": "High Level",
+                "T8 PLUS AWD": "High Level",
+                "T8 ULTRA AWD": "High Level",
+                "T8 ULTRA DARK AWD": "High Level"
+            },
+            {
+                "caracteristica": "Decoración interior",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital de 12,3\"",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Pantalla touch 11,2\"",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "T8 CORE AWD": "High Performance",
+                "T8 PLUS AWD": "Harman Kardon",
+                "T8 ULTRA AWD": "Bowers & Wilkins",
+                "T8 ULTRA DARK AWD": "Bowers & Wilkins"
+            },
+            {
+                "caracteristica": "2 conexiones USB Tipo C y Bluetooth",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Integración Smartphone - Apple CarPlay",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero y trasero, con cámara trasera",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": "Cámara 360°",
+                "T8 ULTRA AWD": "Cámara 360°",
+                "T8 ULTRA DARK AWD": "Cámara 360°"
+            },
+            {
+                "caracteristica": "Keyless entry",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Pomo de cambios",
+                "T8 CORE AWD": "Crystal",
+                "T8 PLUS AWD": "Crystal",
+                "T8 ULTRA AWD": "Crystal",
+                "T8 ULTRA DARK AWD": "Crystal"
+            },
+            {
+                "caracteristica": "Toma corriente 12V en maletero",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Vidrios tintados, ventanas laterales y traseras.",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Cargador de smartphone inalámbrico",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Pilot Assist - Conjunto de tecnologías capaces de proporcionar una conducción asistida hasta 130 km/h",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Safe Space Technology - Conjunto de tecnologías de asistencia para tu seguridad.",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Google System - Sistema de infoentretenimiento y conectividad intuitiva, incluye control por voz.",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Drive-e - Motores con la mezcla perfecta entre rendimiento y eficiencia",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Clean Zone - Tecnología que filtra impurezas y mejora la calidad del aire",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Lane Keeping Aid - Ayuda permanencia en el carril",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Soporte de Mitigación de colisión delantera",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Soporte de Mitigación de colisión trasera",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Run Off Road Mitigation - Evita que el auto abandone la carretera accidentalmente",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Oncoming Lane Mitigation - Asistencia que detecta auto en contra y te devuelve al camino",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": false,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Blind Spot con alerta de tráfico cruzado",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "Head Up Display - Visualización gráfica en parabrisas del panel de instrumentos",
+                "T8 CORE AWD": false,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            },
+            {
+                "caracteristica": "APP Volvo cars",
+                "T8 CORE AWD": true,
+                "T8 PLUS AWD": true,
+                "T8 ULTRA AWD": true,
+                "T8 ULTRA DARK AWD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            "Safe Space Technology - Detecta ciclistas, peatones y animales grandes; con frenado autónomo",
+            "Airbag delanteros (2) con inflado de dos etapas",
+            "Airbag laterales (2)",
+            "Airbags de Cortinas inflables laterales (2)",
+            "Airbag de rodilla para conductor (1)",
+            "Cinturones de seguridad con pretensores y limitador de carga",
+            "Alerta de distancia y limitador de velocidad",
+            "Safety Cage - Jaula de seguridad para pasajeros de Acero Reforzado UHSS",
+            "ABS con EBD - Sistema electrónico de distribución de frenado",
+            "EBA - Sistema electrónico con asistencia de frenado",
+            "ESC - Control electrónico de estabilidad",
+            "Estructura interior absorbente de energía ante impacto",
+            "HDC - Control de descenso en pendiente",
+            "HSA - Asistente de partida en pendientes",
+            "ISOFIX - Sistema de anclaje para sillas de seguridad para niños",
+            "EBL - Luz de freno parpadeante y advertencia de peligro",
+            "Cierre electrónico de seguridad para niños",
+            "TPMS - Monitoreo de presión de neumáticos",
+            "IDIS - sistema de información inteligente del conductor",
+            "SIPS - Sistema de protección contra impactos laterales",
+            "WHIPS - Protección contra latigazos en asientos delanteros",
+            "CMSF - Soporte de mitigación de colisiones frontal"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Volvo (ticket/✓=true, -=false/vacío; texto/valores tal cual)",
+        "fuente": "ficha_tecnica_xc90_facelift_my26.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó todo lo visible en las tablas: especificaciones técnicas, equipamiento interior, equipamiento exterior, tecnología y seguridad estándar. Se conservaron textos tal cual (p.ej., Vinyl Nordico, Cuero Nappa Ventilado, High Level, High Performance, Harman Kardon, Bowers & Wilkins, Crystal, Glossy black, 20\" A, 21\" B, y definiciones A/B de llantas)."
+    }
+}

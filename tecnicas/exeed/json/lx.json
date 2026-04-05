@@ -1,0 +1,185 @@
+{
+    "vehiculo": {
+        "marca": "EXEED",
+        "modelo": "EXEED LX",
+        "año": null,
+        "versiones": [
+            "1.6T_DCT_ADVANCED",
+            "1.6T_DCT_UNLIMITED",
+            "1.6T_DCT_UNLIMITED_AWD"
+        ]
+    },
+    "motor": {
+        "tipo": "1.6TGDI",
+        "combustible": "Gasolina",
+        "cilindrada_cc": 1598,
+        "potencia_hp": "183 / 5500",
+        "torque_nm": "275 / 2000-4000",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "tipo": "DCT 7 velocidades",
+        "traccion": {
+            "1.6T_DCT_ADVANCED": "FWD",
+            "1.6T_DCT_UNLIMITED": "FWD",
+            "1.6T_DCT_UNLIMITED_AWD": "AWD"
+        },
+        "modos_conduccion": {
+            "1.6T_DCT_ADVANCED": "NORMAL / ECO / SPORT",
+            "1.6T_DCT_UNLIMITED": "NORMAL / ECO / SPORT",
+            "1.6T_DCT_UNLIMITED_AWD": "NORMAL / ECO / SPORT + NIEVE / BARRO / OFF ROAD"
+        }
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": {
+            "1.6T_DCT_ADVANCED": "Multilink",
+            "1.6T_DCT_UNLIMITED": "Multilink",
+            "1.6T_DCT_UNLIMITED_AWD": "Multilink"
+        },
+        "frenos": "ABS + EBD + BAS + BOS",
+        "discos": "Delantero ventilado / Trasero sólido",
+        "neumaticos": {
+            "1.6T_DCT_ADVANCED": "COOPER 225/55R19",
+            "1.6T_DCT_UNLIMITED": "COOPER 225/55R19",
+            "1.6T_DCT_UNLIMITED_AWD": "COOPER 225/55R19"
+        },
+        "llantas": {
+            "1.6T_DCT_ADVANCED": "ARO 19",
+            "1.6T_DCT_UNLIMITED": "ARO 19",
+            "1.6T_DCT_UNLIMITED_AWD": "ARO 19"
+        },
+        "neumatico_repuesto": {
+            "1.6T_DCT_ADVANCED": "Temporal",
+            "1.6T_DCT_UNLIMITED": "Full Size",
+            "1.6T_DCT_UNLIMITED_AWD": "Full Size"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4520,
+        "ancho_mm": 1848,
+        "alto_mm": 1685,
+        "distancia_ejes_mm": {
+            "FWD": 2670,
+            "AWD": 2670
+        },
+        "despeje_suelo_mm": {
+            "FWD": 175,
+            "AWD": 169
+        },
+        "capacidad_estanque_lts": {
+            "FWD": 51,
+            "AWD": 57
+        },
+        "capacidad_maletero_lts": 300,
+        "peso_bruto_kg": {
+            "1.6T_DCT_ADVANCED": 1897,
+            "1.6T_DCT_UNLIMITED": 1897,
+            "1.6T_DCT_UNLIMITED_AWD": 1967
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/l)",
+            "1.6T_DCT_ADVANCED": 11.2,
+            "1.6T_DCT_UNLIMITED": 11.2,
+            "1.6T_DCT_UNLIMITED_AWD": 10.7
+        },
+        {
+            "caracteristica": "Carretera (km/l)",
+            "1.6T_DCT_ADVANCED": 15.8,
+            "1.6T_DCT_UNLIMITED": 15.8,
+            "1.6T_DCT_UNLIMITED_AWD": 14.9
+        },
+        {
+            "caracteristica": "Mixto (km/l)",
+            "1.6T_DCT_ADVANCED": 13.8,
+            "1.6T_DCT_UNLIMITED": 13.8,
+            "1.6T_DCT_UNLIMITED_AWD": 12.8
+        }
+    ],
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi zona",
+            "Sistema de filtración de aire (PM0.3)",
+            "Sistema de fragancia de cabina",
+            "Salidas aire 2da fila",
+            "Encendido remoto aire acondicionado",
+            "Encendido Key Less",
+            "Sistema Start-Stop",
+            "Autolock puertas",
+            "Asiento conductor eléctrico (10 posiciones)",
+            "Asiento copiloto eléctrico (4 posiciones)",
+            "Asientos delanteros ventilados y calefacción",
+            "Viseras con espejo & luz",
+            "Asiento trasero abatible 60/40",
+            "Volante multifunción regulable",
+            "Volante calefaccionado",
+            "Paddle Shift",
+            "Techo panorámico",
+            "Luz ambiente (multicolor)",
+            "Tapiz ECO CUERO",
+            "Panel instrumentos digital 12,3\"",
+            "Pantalla Touch 12,3\" widescreen",
+            "Bluetooth",
+            "Apple CarPlay & Android Auto inalámbrico",
+            "Cargador inalámbrico",
+            "Espejo retrovisor antirreflejo automático",
+            "Vidrios acústicos"
+        ],
+        "exterior": [
+            "Encendido a distancia motor",
+            "Vidrios traseros tintados",
+            "Espejos eléctricos abatibles con desempañador",
+            "Cierre centralizado con comando a distancia",
+            "Sensor de proximidad apertura/cierre",
+            "Portalón eléctrico manos libres",
+            "Follow me home",
+            "Faros LED automáticos",
+            "Luz diurna LED",
+            "Luz trasera LED",
+            "Neblineros traseros LED",
+            "Cámara 540° HD",
+            "Barras portaequipaje"
+        ],
+        "seguridad": [
+            "Airbags 6 (frontales, laterales y cortina)",
+            "ESP",
+            "TCS",
+            "TPMS",
+            "Cinturones con pretensores",
+            "Indicador no uso cinturón",
+            "ISOFIX"
+        ],
+        "adas": [
+            "HHC",
+            "HDC",
+            "EBA",
+            "ACC",
+            "ICA",
+            "TJA",
+            "FCW",
+            "AEB",
+            "RCTA",
+            "RCW",
+            "BSD",
+            "LCA",
+            "DOW",
+            "LDW",
+            "ELK",
+            "LDP",
+            "IHC",
+            "ASL"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas PDF",
+        "fuente": "EXEED-New-EXEED-LX.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se respetaron datos exactamente como aparecen en tablas técnicas del documento."
+    }
+}

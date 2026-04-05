@@ -1,0 +1,217 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "TOURING CARGO",
+        "año": null,
+        "versiones": [
+            "L1H2",
+            "L2H2"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "L1H2": "JX4D FORD PUMA",
+            "L2H2": "JX4D FORD PUMA"
+        },
+        "cilindrada": {
+            "L1H2": 2000,
+            "L2H2": 2000
+        },
+        "potencia_hp": {
+            "L1H2": "107 KW / 3200 RPM",
+            "L2H2": "107 KW / 3200 RPM"
+        },
+        "potencia_rpm": {
+            "L1H2": "3200",
+            "L2H2": "3200"
+        },
+        "torque_nm": {
+            "L1H2": "355",
+            "L2H2": "355"
+        },
+        "torque_rpm": {
+            "L1H2": "1400-2600",
+            "L2H2": "1400-2600"
+        },
+        "combustible": null,
+        "transmision": {
+            "L1H2": "MAGNA 6MTI380 - 6MT",
+            "L2H2": "MAGNA 6MTI380 - 6MT"
+        },
+        "traccion": "4×2 RWD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "PAQUETE DE RESORTE",
+        "frenos_delanteros": "DISCOS DE FRENOS DELANTERO Y TRASERO",
+        "frenos_traseros": "DISCOS DE FRENOS DELANTERO Y TRASERO",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "L1H2": "215/75R16LT",
+            "L2H2": "185/75R16LT"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "L1H2": 4950,
+            "L2H2": 5998
+        },
+        "ancho_mm": {
+            "L1H2": 1974,
+            "L2H2": 2098
+        },
+        "alto_mm": {
+            "L1H2": 2498,
+            "L2H2": 2620
+        },
+        "distancia_ejes_mm": {
+            "L1H2": 2933,
+            "L2H2": 3750
+        },
+        "despeje_suelo_mm": 199,
+        "peso_bruto_kg": {
+            "L1H2": 3800,
+            "L2H2": 4250
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 80,
+        "numero_pasajeros": 3
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Puerta lateral deslizante",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Guardabarros delanteros y traseros",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Portón trasero doble apertura 180°",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Rines de acero",
+                "L1H2": true,
+                "L2H2": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Volante multifunción",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Parasol en fila delantera",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Toma de corriente 12V",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Asientos de tela",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste manual 6 posiciones",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Panel instrumentos LCD 3.5\"",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Radio",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Altavoces",
+                "L1H2": 2,
+                "L2H2": 2
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag conductor",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Airbag copiloto",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "4 sensores estacionamiento traseros",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Recordatorio cinturón conductor",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Cinturones tres puntos",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "Cinturón conductor ajustable altura",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "ABS + EBD",
+                "L1H2": true,
+                "L2H2": true
+            },
+            {
+                "caracteristica": "ESP",
+                "L1H2": true,
+                "L2H2": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.TOURINGCARGO-071125.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos de páginas 2, 3 y 4: incluye dimensiones completas, potencia 107/3200, torque 355/1400-2600, relación compresión 16, estanque 80L, emisiones EURO VI, velocidad máxima 160 km/h, volumen carga 7,3m3/1595kg y 11,2m3/1725kg, diámetro giro 11 y 13,3 m."
+    }
+}

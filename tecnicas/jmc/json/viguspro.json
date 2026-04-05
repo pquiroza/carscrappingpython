@@ -1,0 +1,156 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "ALL NEW VIGUS PRO",
+        "año": null,
+        "versiones": [
+            "4x2 LX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4x2 LX": "JMC DIESEL 2.5 TURBO"
+        },
+        "cilindrada": {
+            "4x2 LX": null
+        },
+        "potencia_hp": {
+            "4x2 LX": "161"
+        },
+        "potencia_rpm": {
+            "4x2 LX": "3400"
+        },
+        "torque_nm": {
+            "4x2 LX": "410"
+        },
+        "torque_rpm": {
+            "4x2 LX": null
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "4x2 LX": "Automática 8 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección asistida hidráulica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson",
+        "suspension_trasera": "Suspensión de ballestas dependiente por encima del eje",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "4x2 LX": "265/60/R18"
+        },
+        "rueda_repuesto": "Con llanta de acero"
+    },
+    "dimensiones": {
+        "largo_mm": 5335,
+        "ancho_mm": 1882,
+        "alto_mm": 1892,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2830,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 73,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neumáticos y llantas 265/60/R18",
+            "Espejos eléctricos",
+            "Función \"Follow me home\"",
+            "Intermitentes LED en retrovisores",
+            "Luces diurnas LED",
+            "Encendido automático de faros",
+            "Tercera luz de freno",
+            "Faros antiniebla delanteros",
+            "Faros antiniebla traseros",
+            "Parachoques delantero",
+            "Parachoques trasero",
+            "Ventanas eléctricas",
+            "Ventanas eléctricas con protección antipinzamiento (4 puertas)",
+            "Llantas de aleación de aluminio",
+            "Rueda de repuesto con llanta de acero",
+            "Limpiaparabrisas intermitente",
+            "Limpiaparabrisas por inducción",
+            "Revestimiento adhesivo resistente al desgaste para contenedor",
+            "Estribos laterales"
+        ],
+        "interior": [
+            "Calefacción del espejo retrovisor",
+            "Alerta de luces encendidas",
+            "Panel de instrumentos LCD flotante de 7 pulgadas",
+            "Altavoces (4)",
+            "Entrada sin llave y arranque por botón",
+            "Puerto USB de carga separado en la parte delantera",
+            "Control de crucero",
+            "Volante ajustable (2 vías)",
+            "Volante de cuero",
+            "Volante multifunción (control de audio)",
+            "Selector de marchas electrónico tipo palanca – sin levas",
+            "Ventanas eléctricas",
+            "Levantamiento con un solo clic (One touch)",
+            "Protección antipinzamiento de ventanas",
+            "Cierre centralizado y control remoto plegable",
+            "Bloqueo automático del tren",
+            "Asientos de cuero",
+            "Asiento del copiloto ajustable manualmente en 4 direcciones",
+            "Asiento del conductor ajustable manualmente en 6 direcciones",
+            "Espejo retrovisor interior antideslumbrante",
+            "Aire acondicionado eléctrico",
+            "Filtración de polen y PM2.5",
+            "Luz de lectura",
+            "Luz del techo",
+            "Freno de estacionamiento eléctrico"
+        ],
+        "seguridad": [
+            "ISOFIX",
+            "ABS + EBD",
+            "ESP (Programa electrónico de estabilidad)",
+            "Asistencia de arranque en pendiente",
+            "Cinturones de seguridad de tres puntos en la segunda fila",
+            "Recordatorio cinturón de seguridad del conductor no abrochado",
+            "Monitor de presión de neumáticos",
+            "Airbag del conductor",
+            "Airbag del copiloto",
+            "Botón de arranque antirrobo PEPS",
+            "Inmovilizador (IMMO)",
+            "Seguro para niños",
+            "6 airbags"
+        ],
+        "tecnologia": [
+            "Pantalla a color de 12.8 pulgadas (MP5)",
+            "Carplay y Android Auto",
+            "PDC (Control de distancia de estacionamiento)",
+            "Radar delantero",
+            "Cámara de reversa (sonda única visible)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Plata",
+        "Gris Grafito",
+        "Negro",
+        "Rojo",
+        "Verde"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.NEWVIGUSPRO-160226.pdf",
+        "versiones_en_documento": 1,
+        "notas": "En la tabla de especificaciones: relación de compresión 16:1, norma de emisiones EURO 6, capacidad de carga 870 kg."
+    }
+}

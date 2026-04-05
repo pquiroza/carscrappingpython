@@ -1,0 +1,178 @@
+{
+    "vehiculo": {
+        "marca": "CUPRA",
+        "modelo": "TAVASCAN",
+        "año": null,
+        "versiones": [
+            "ADRENALINE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ADRENALINE": "Motor eléctrico"
+        },
+        "cilindrada": {
+            "ADRENALINE": null
+        },
+        "potencia_hp": {
+            "ADRENALINE": "286"
+        },
+        "potencia_rpm": {
+            "ADRENALINE": null
+        },
+        "torque_nm": {
+            "ADRENALINE": "545"
+        },
+        "torque_rpm": {
+            "ADRENALINE": "3.679"
+        },
+        "combustible": "Eléctrico",
+        "transmision": {
+            "ADRENALINE": "Automática"
+        },
+        "traccion": {
+            "ADRENALINE": "Trasera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "ADRENALINE": "255/40 R21"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4644,
+        "ancho_mm": 1861,
+        "alto_mm": 1597,
+        "distancia_ejes_mm": 2766,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 540,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "ADRENALINE": "180"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (segundos)",
+            "ADRENALINE": "6,8"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica WLTP máx-min (km)",
+            "ADRENALINE": "569 - 542"
+        },
+        {
+            "caracteristica": "Capacidad batería neta / bruta (kWh)",
+            "ADRENALINE": "77 / 82"
+        },
+        {
+            "caracteristica": "Tiempo de carga CA 11kW 0-100% (h)",
+            "ADRENALINE": "8 horas"
+        },
+        {
+            "caracteristica": "Tiempo de carga CC 135kW 10-80%",
+            "ADRENALINE": "28 min"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "ADRENALINE": "21” - Diseño Katla"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos / tapizado",
+                "ADRENALINE": "Bucket / Microfibra"
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores con ajuste eléctrico, térmicos",
+            "Espejos exteriores abatibles eléctricos",
+            "Luces diurnas LED",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Techo panorámico",
+            "Vidrios traseros tinteados"
+        ],
+        "interior": [
+            "Asientos delanteros con ajuste en altura",
+            "Asientos delanteros con ajuste lumbar",
+            "Asientos delanteros y traseros calefaccionados",
+            "Reposabrazo central delantero",
+            "Volante deportivo multifuncional térmico",
+            "Retrovisor interior antideslumbrante automático"
+        ],
+        "seguridad": [
+            "ABS (Sistema de Frenos Antibloqueo)",
+            "ASR (Control de Tracción)",
+            "EDS (Bloqueo Electrónico del Diferencial)",
+            "ESC (Control Electrónico de Estabilidad)",
+            "Anclajes de asiento infantil. Sistema ISOFIX",
+            "Airbag frontal para conductor y pasajero delantero",
+            "Airbags laterales delanteros",
+            "Airbag central delantero",
+            "Airbags de cortina",
+            "Front Assist: Asistente de frenada de emergencia",
+            "Inmovilizador electrónico",
+            "Alarma volumétrica",
+            "7 airbags"
+        ],
+        "tecnologia": [
+            "Bluetooth",
+            "Cámara de retroceso, frontal y dos cámaras laterales",
+            "Cargador inalámbrico",
+            "Cierre centralizado con control remoto",
+            "Climatizador automático 3-zonas",
+            "Control crucero adaptativo (ACC)",
+            "Digital Cockpit de 5,3\"",
+            "Encendido automático de las luces",
+            "Entradas USB",
+            "Full Link inalámbrico (Android Auto & CarPlay)",
+            "Indicador de presión de neumáticos",
+            "Keyless Entry y botón de encendido",
+            "Lane Assist: Asistente de salida involuntaria de carril",
+            "Maletero eléctrico con pedal virtual",
+            "Parlantes (11 + subwoofer)",
+            "Pantalla táctil central de 15\"",
+            "Sensor de lluvia",
+            "Sensores de estacionamientos delanteros y traseros",
+            "Sistema de sonido Sennheiser"
+        ],
+        "adas": [
+            "Alerta de tráfico cruzado",
+            "Detector de punto ciego Side Assist",
+            "Asistente de luces de carretera Light Assist"
+        ]
+    },
+    "colores": [
+        "Azul Tavascan",
+        "Gris Atacama",
+        "Blanco Plateado",
+        "Gris Urano"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica CUPRA (S=true, -=false; textos/valores tal cual)",
+        "fuente": "ficha-tecnica-Tavascan-Cupra-25.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyeron todos los datos técnicos, batería y autonomía, desempeño, capacidades, equipamiento y colores según tabla del PDF."
+    }
+}

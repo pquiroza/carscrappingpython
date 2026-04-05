@@ -1,0 +1,234 @@
+{
+    "vehiculo": {
+        "marca": "KGM",
+        "modelo": "MUSSO",
+        "año": null,
+        "versiones": [
+            "GLX 2.2TD 6MT 4WD QS712",
+            "LIMITED 2.2TD 6AT 4WD QS722",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLX 2.2TD 6MT 4WD QS712": "4 en línea, motor longitudinal",
+            "LIMITED 2.2TD 6AT 4WD QS722": "4 en línea, motor longitudinal",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "4 en línea, motor longitudinal"
+        },
+        "cilindrada": {
+            "GLX 2.2TD 6MT 4WD QS712": 2167,
+            "LIMITED 2.2TD 6AT 4WD QS722": 2167,
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": 2167
+        },
+        "potencia_hp": {
+            "GLX 2.2TD 6MT 4WD QS712": "178",
+            "LIMITED 2.2TD 6AT 4WD QS722": "184",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "184"
+        },
+        "potencia_rpm": {
+            "GLX 2.2TD 6MT 4WD QS712": "3.800",
+            "LIMITED 2.2TD 6AT 4WD QS722": "3.800",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "3.800"
+        },
+        "torque_nm": {
+            "GLX 2.2TD 6MT 4WD QS712": "400",
+            "LIMITED 2.2TD 6AT 4WD QS722": "420",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "420"
+        },
+        "torque_rpm": {
+            "GLX 2.2TD 6MT 4WD QS712": "1.400–2.800",
+            "LIMITED 2.2TD 6AT 4WD QS722": "1.600–2.600",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "1.600–2.600"
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "GLX 2.2TD 6MT 4WD QS712": "Mecánica 6 vel",
+            "LIMITED 2.2TD 6AT 4WD QS722": "Automática 6 vel Aisin",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "Automática 6 vel Aisin"
+        },
+        "traccion": {
+            "GLX 2.2TD 6MT 4WD QS712": "4WD MT",
+            "LIMITED 2.2TD 6AT 4WD QS722": "4WD AT",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "4WD AT"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble bandeja + espiral + barra estabilizadora",
+        "suspension_trasera": "Espiral (5-linio)",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLX 2.2TD 6MT 4WD QS712": "255 / 60R18",
+            "LIMITED 2.2TD 6AT 4WD QS722": "255 / 60R18",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "255 / 60R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5095,
+        "ancho_mm": 1950,
+        "alto_mm": 1810,
+        "distancia_ejes_mm": 3100,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "GLX 2.2TD 6MT 4WD QS712": 2830,
+            "LIMITED 2.2TD 6AT 4WD QS722": 2880,
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": 2880
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 75,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Emisiones de CO2 (g/km)",
+            "GLX 2.2TD 6MT 4WD QS712": "214",
+            "LIMITED 2.2TD 6AT 4WD QS722": "229",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "229"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GLX 2.2TD 6MT 4WD QS712": "10.1",
+            "LIMITED 2.2TD 6AT 4WD QS722": "9.1",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "9.1"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GLX 2.2TD 6MT 4WD QS712": "14.2",
+            "LIMITED 2.2TD 6AT 4WD QS722": "13.6",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "13.6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GLX 2.2TD 6MT 4WD QS712": "12.3",
+            "LIMITED 2.2TD 6AT 4WD QS722": "11.5",
+            "LIMITED PLUS 2.2TD 6AT 4WD QS723": "11.5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Modos de conducción (Eco, Power, Winter)",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": true,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia y encendido automático de luces",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": true,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Asiento conductor y copiloto eléctricos",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Panel digital de instrumentos",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cantidad de airbags",
+                "GLX 2.2TD 6MT 4WD QS712": 2,
+                "LIMITED 2.2TD 6AT 4WD QS722": 6,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": 6
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero y trasero",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": true,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Diferencial trasero autoblocante (LD)",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            },
+            {
+                "caracteristica": "Indicador electrónico de presión de neumáticos (TPMS)",
+                "GLX 2.2TD 6MT 4WD QS712": false,
+                "LIMITED 2.2TD 6AT 4WD QS722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QS723": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luz día LED",
+            "Señalización LED en los espejos exteriores",
+            "Espejos exteriores con defroster y ajustables eléctricamente",
+            "Barrasen techo"
+        ],
+        "interior": [
+            "Sistema de climatización bi-zona touch",
+            "Smart key (botón de arranque)",
+            "Control apertura de puertas a distancia",
+            "Control de audio al volante",
+            "Control crucero",
+            "Tapiz asientos en cuero ecológico"
+        ],
+        "seguridad": [
+            "Frenos ABS",
+            "Sistema de control de estabilidad (ESP + EBO)",
+            "Sistema de anclaje ISOFIX",
+            "Cámara de retroceso HD",
+            "Inmovilizador de motor antirrobo",
+            "Alarma",
+            "Neblineros delanteros"
+        ],
+        "tecnologia": [
+            "Pantalla flotante touch + Carplay y Android Auto",
+            "2 puertos de carga USB / USB-C (delantero)",
+            "Comando electrónico de selección de tracción (2H/4H/4L)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "GRAND WHITE",
+        "BEIGE ARENA",
+        "GALAXIES GREY",
+        "MARBLE GRAY",
+        "AMAZONA GREEN",
+        "SPACE BLACK",
+        "INDIAN RED"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica KGM SsangYong (ticket negro=true, -=false; texto/valores tal cual)",
+        "fuente": "FICHA_TECNICA_MUSSO_compressed1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Caja de transferencia: Part Time 4H-4L (todas). Relación de compresión 15.5:1; inyección directa; sobrealimentación Turbo VGT; DOHC / 16 válvulas; país de fabricación Corea del Sur. Trocha delantera 1.620 mm y trocha trasera 1.620 mm (todas). Carga útil 700 kg (todas). Peso en orden de marcha: 2.055 kg (GLX), 2.165 kg (LIMITED), 2.165 kg (LIMITED PLUS). Capacidades de remolque: con frenos 3.000 kg; sin frenos 750 kg. Llantas de aleación aro 18'' (según tabla de seguridad/equipamiento)."
+    }
+}

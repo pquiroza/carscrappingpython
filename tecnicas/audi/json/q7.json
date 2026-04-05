@@ -1,0 +1,390 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "Q7 PI",
+        "año": null,
+        "versiones": [
+            "45 TFSI",
+            "55 TFSI",
+            "55 TFSI MY26",
+            "55 TFSI S line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "45 TFSI": "Motor 2.0 TFSI",
+            "55 TFSI": "Motor Mild Hybrid 3.0 V6 TFSI",
+            "55 TFSI MY26": "Motor Mild Hybrid 3.0 V6 TFSI",
+            "55 TFSI S line": "Motor Mild Hybrid 3.0 V6 TFSI"
+        },
+        "cilindrada": {
+            "45 TFSI": null,
+            "55 TFSI": null,
+            "55 TFSI MY26": null,
+            "55 TFSI S line": null
+        },
+        "potencia_hp": {
+            "45 TFSI": "252",
+            "55 TFSI": "340",
+            "55 TFSI MY26": "340",
+            "55 TFSI S line": "340"
+        },
+        "potencia_rpm": {
+            "45 TFSI": "5000-6000",
+            "55 TFSI": "5200-6400",
+            "55 TFSI MY26": "5200-6400",
+            "55 TFSI S line": "5200-6400"
+        },
+        "torque_nm": {
+            "45 TFSI": "370",
+            "55 TFSI": "500",
+            "55 TFSI MY26": "500",
+            "55 TFSI S line": "500"
+        },
+        "torque_rpm": {
+            "45 TFSI": "1600-4500",
+            "55 TFSI": "1370-4500",
+            "55 TFSI MY26": "1370-4500",
+            "55 TFSI S line": "1370-4500"
+        },
+        "combustible": null,
+        "transmision": {
+            "45 TFSI": "Tiptronic 8 velocidades",
+            "55 TFSI": "Tiptronic 8 velocidades",
+            "55 TFSI MY26": "Tiptronic 8 velocidades",
+            "55 TFSI S line": "Tiptronic 8 velocidades"
+        },
+        "traccion": {
+            "45 TFSI": "Integral permanente quattro con diferencial auto bloqueante",
+            "55 TFSI": "Integral permanente quattro con diferencial auto bloqueante",
+            "55 TFSI MY26": "Integral permanente quattro con diferencial auto bloqueante",
+            "55 TFSI S line": "Integral permanente quattro con diferencial auto bloqueante"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "ABS",
+        "frenos_traseros": "Control electrónico de estabilidad",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "45 TFSI": "285/45 R20”",
+            "55 TFSI": "285/45 R20”",
+            "55 TFSI MY26": "Audi Sport 285/40 R21”",
+            "55 TFSI S line": "Audi Sport 285/40 R21”"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 5072,
+        "ancho_mm": 2212,
+        "alto_mm": 1734,
+        "distancia_ejes_mm": 2995,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2155,
+        "capacidad_maletero_lts": "295 / 740 / 1925",
+        "capacidad_estanque_lts": 85,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento [km/l]*",
+            "45 TFSI": "12,8",
+            "55 TFSI": "10,8",
+            "55 TFSI MY26": "11,6",
+            "55 TFSI S line": "11,6"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "45 TFSI": "7,1 seg",
+            "55 TFSI": "5,6 seg",
+            "55 TFSI MY26": "5,6 seg",
+            "55 TFSI S line": "5,6 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "45 TFSI": "240 km/h",
+            "55 TFSI": "250 km/h",
+            "55 TFSI MY26": "250 km/h",
+            "55 TFSI S line": "250 km/h"
+        },
+        {
+            "caracteristica": "Largo/ancho/alto",
+            "45 TFSI": "5.072mm / 2.212mm / 1.734mm",
+            "55 TFSI": "5.063mm / 2.212mm / 1.741mm",
+            "55 TFSI MY26": "5.072mm / 2.212mm / 1.734mm",
+            "55 TFSI S line": "5.072mm / 2.212mm / 1.734mm"
+        },
+        {
+            "caracteristica": "Distancia entre ejes",
+            "45 TFSI": "2.995mm",
+            "55 TFSI": "2.995mm",
+            "55 TFSI MY26": "2.995mm",
+            "55 TFSI S line": "2.995mm"
+        },
+        {
+            "caracteristica": "Peso",
+            "45 TFSI": "2.155 kg",
+            "55 TFSI": "2.155 kg",
+            "55 TFSI MY26": "2.155 kg",
+            "55 TFSI S line": "2.155 kg"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "45 TFSI": "Sensor trasero y delantero, con cámara de retroceso",
+                "55 TFSI": "Sensor trasero y delantero, con cámara de retroceso",
+                "55 TFSI MY26": "Sensor trasero y delantero, con cámara de retroceso y park assist",
+                "55 TFSI S line": "Sensor trasero y delantero, con cámara 360° y park assist"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "45 TFSI": "LED con asistencia de luces de carretera",
+                "55 TFSI": "LED con asistencia de luces de carretera",
+                "55 TFSI MY26": "Matrix LED con indicador dinámico",
+                "55 TFSI S line": "Matrix LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "45 TFSI": "LED",
+                "55 TFSI": "LED",
+                "55 TFSI MY26": "LED con indicador dinámico",
+                "55 TFSI S line": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "45 TFSI": "285/45 R20”",
+                "55 TFSI": "285/45 R20”",
+                "55 TFSI MY26": "Audi Sport 285/40 R21”",
+                "55 TFSI S line": "Audi Sport 285/40 R21”"
+            },
+            {
+                "caracteristica": "Paquete de diseño",
+                "45 TFSI": "No",
+                "55 TFSI": "No",
+                "55 TFSI MY26": "No",
+                "55 TFSI S line": "S Line"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "45 TFSI": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "55 TFSI": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "55 TFSI MY26": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "55 TFSI S line": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Suspensión",
+                "45 TFSI": "Tren de rodaje adaptativo con suspensión neumática",
+                "55 TFSI": "Tren de rodaje adaptativo con suspensión neumática",
+                "55 TFSI MY26": "Tren de rodaje adaptativo con suspensión neumática",
+                "55 TFSI S line": "Tren de rodaje adaptativo con suspensión neumática"
+            },
+            {
+                "caracteristica": "Portalón",
+                "45 TFSI": "Apertura y cierre eléctrico con control gestual con el pie",
+                "55 TFSI": "Apertura y cierre eléctrico con control gestual con el pie",
+                "55 TFSI MY26": "Apertura y cierre eléctrico con control gestual con el pie",
+                "55 TFSI S line": "Apertura y cierre eléctrico con control gestual con el pie"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "45 TFSI": "Automática 2 zonas / Automática 4 zonas",
+                "55 TFSI": "Automática 2 zonas / Automática 4 zonas",
+                "55 TFSI MY26": "Automática 2 zonas / Automática 4 zonas",
+                "55 TFSI S line": "Automática 2 zonas / Automática 4 zonas"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "45 TFSI": "LED / LED",
+                "55 TFSI": "LED / LED",
+                "55 TFSI MY26": "LED / LED",
+                "55 TFSI S line": "LED / LED Multicolor (30 colores)"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "45 TFSI": "MMI con pantalla Touch 10,1” / MMI Navigation Plus con pantalla Touch 10,1”",
+                "55 TFSI": "MMI con pantalla Touch 10,1” / MMI Navigation Plus con pantalla Touch 10,1”",
+                "55 TFSI MY26": "MMI con pantalla Touch 10,1” / MMI Navigation Plus con pantalla Touch 10,1”",
+                "55 TFSI S line": "MMI con pantalla Touch 10,1” / MMI Navigation Plus con pantalla Touch 10,1”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "45 TFSI": "Digital 10,25” / Virtual Cockpit 12,3”",
+                "55 TFSI": "Digital 10,25” / Virtual Cockpit 12,3”",
+                "55 TFSI MY26": "Digital 10,25” / Virtual Cockpit 12,3”",
+                "55 TFSI S line": "Digital 10,25” / Virtual Cockpit 12,3”"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "45 TFSI": "Basic Plus 6 parlantes - 80 W / Audi Sound System 10 altavoces + subwoofer 180W",
+                "55 TFSI": "Basic Plus 6 parlantes - 80 W / Audi Sound System 10 altavoces + subwoofer 180W",
+                "55 TFSI MY26": "Basic Plus 6 parlantes - 80 W / Audi Sound System 10 altavoces + subwoofer 180W",
+                "55 TFSI S line": "Basic Plus 6 parlantes - 80 W / Bang & Olufsen con sonido 3D 19 altavoces + subwoofer - 730W"
+            },
+            {
+                "caracteristica": "Soporte lumbar",
+                "45 TFSI": "No",
+                "55 TFSI": "No",
+                "55 TFSI MY26": "No",
+                "55 TFSI S line": "No"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "45 TFSI": "Leather - Leatherette / Leather-Leatherette",
+                "55 TFSI": "Leather - Leatherette / Leather-Leatherette",
+                "55 TFSI MY26": "Leather - Leatherette / Leather-Leatherette",
+                "55 TFSI S line": "Leather - Leatherette / Cricket Leather"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "45 TFSI": "Apple Car Play y Android Auto",
+                "55 TFSI": "Apple Car Play y Android Auto",
+                "55 TFSI MY26": "Apple Car Play y Android Auto",
+                "55 TFSI S line": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "45 TFSI": "Asiento estándar con ajuste manual / Estándar con ajuste eléctrico y función memoria (conductor), calefactados y con soporte lumbar",
+                "55 TFSI": "Asiento estándar con ajuste manual / Estándar con ajuste eléctrico y función memoria (conductor), calefactados y con soporte lumbar",
+                "55 TFSI MY26": "Asiento estándar con ajuste manual / Estándar con ajuste eléctrico y función memoria (conductor), calefactados y con soporte lumbar",
+                "55 TFSI S line": "Asiento estándar con ajuste manual / Estándar con ajuste eléctrico y función memoria (conductor), calefactados y con soporte lumbar"
+            },
+            {
+                "caracteristica": "Volante",
+                "45 TFSI": "Multifunción en cuero con levas de cambio",
+                "55 TFSI": "Multifunción en cuero con levas de cambio",
+                "55 TFSI MY26": "Multifunción en cuero con levas de cambio",
+                "55 TFSI S line": "Multifunción en cuero con levas de cambio / Multifunción en cuero con levas de cambio, calefactado"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros y de cortina",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Audi Pre Sense Basic y Rear",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "45 TFSI": "Control crucero con limitador de velocidad",
+                "55 TFSI": "Control crucero con limitador de velocidad",
+                "55 TFSI MY26": "Control Crucero Adaptativo",
+                "55 TFSI S line": "Control Crucero Adaptativo"
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Kit de reparación de neumáticos y pernos de seguridad antirrobo",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Sensor lluvia y luz",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Sistema Start/Stop",
+                "45 TFSI": true,
+                "55 TFSI": true,
+                "55 TFSI MY26": true,
+                "55 TFSI S line": true
+            },
+            {
+                "caracteristica": "Seguridad y asistencia",
+                "45 TFSI": "Asistente de mantenimiento de carril, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "55 TFSI": "Asistente de mantenimiento de carril, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "55 TFSI MY26": "Asistente de mantenimiento de carril, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "55 TFSI S line": "Asistente de mantenimiento de carril, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert"
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata Satélite",
+        "Blanco Glaciar",
+        "Beige Vicuña",
+        "Café Tamarindo",
+        "Gris Samurai",
+        "Negro Mitos",
+        "Azul Waitomo",
+        "Café Sakhir",
+        "Rojo Fénix",
+        "Azul Ascari",
+        "Gris Daytona"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de fichas por versión Audi (texto/valores tal cual del PDF; 'Sí/No' se mantiene como true/false cuando aplica)",
+        "fuente": "Q7-PI-45-TFSI.pdf | Q7-PI-55-TFSI-copy1.pdf | Q7-PI-55-TFSI-MY26.pdf | Q7-PI-55-TFSI-S-line-copy1.pdf",
+        "versiones_en_documento": 4,
+        "notas": "El PDF de 55 TFSI presenta dimensiones (largo/alto) distintas a las otras versiones; por eso se registran además en tabla_comparativa_rendimiento como 'Largo/ancho/alto'."
+    }
+}

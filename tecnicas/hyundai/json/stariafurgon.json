@@ -1,0 +1,114 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Staria Furgón",
+        "año": null,
+        "versiones": [
+            "US4_FG_2.2_CRDI_DOBLE_PUERTA"
+        ]
+    },
+    "motor": {
+        "tipo": "CRDI",
+        "cilindrada": "2.200 cc",
+        "potencia_hp": "174 HP a 3.800 rpm",
+        "potencia_rpm": "3.800",
+        "torque_nm": "430 Nm",
+        "torque_rpm": "1.500 - 2.500",
+        "combustible": "Diesel",
+        "transmision": "Manual 6 velocidades",
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": "Columna de dirección eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Eje rígido",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "215/65 R17",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5253,
+        "ancho_mm": 1997,
+        "alto_mm": 2000,
+        "largo_interior_mm": 2607,
+        "ancho_interior_mm": 1640,
+        "alto_interior_mm": 1436,
+        "distancia_ejes_mm": 3273,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 3100,
+        "peso_neto_kg": 1936,
+        "volumen_carga_m3": 4.9,
+        "capacidad_carga_kg": 1164,
+        "capacidad_estanque_lts": 75
+    },
+    "tabla_comparativa_ruedas": [],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "US4_FG_2.2_CRDI_DOBLE_PUERTA": 3100
+        },
+        {
+            "caracteristica": "Peso neto vehicular (kg)",
+            "US4_FG_2.2_CRDI_DOBLE_PUERTA": 1936
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga remolcable con freno (kg)",
+            "US4_FG_2.2_CRDI_DOBLE_PUERTA": 2500
+        },
+        {
+            "caracteristica": "Carga remolcable sin freno (kg)",
+            "US4_FG_2.2_CRDI_DOBLE_PUERTA": 750
+        }
+    ],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "2 Airbags (2AB)",
+            "ABS + EBD",
+            "Control de estabilidad (ESC)",
+            "Asistente de arranque en pendiente (HAC)",
+            "Cinturones de seguridad para 3 pasajeros",
+            "Volante colapsable regulable en altura y profundidad",
+            "Sensor de estacionamiento trasero"
+        ],
+        "interior": [
+            "Pack eléctrico (alzavidrios eléctricos / cierre centralizado)",
+            "Aire acondicionado",
+            "Asiento conductor reclinable y deslizable",
+            "Asiento conductor regulable en altura",
+            "Bluetooth",
+            "Control de audio al volante",
+            "Computador a bordo 4,2\" TFT LCD",
+            "Columna de dirección eléctrica",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Llave plegable con cierre a distancia",
+            "Luces de posicionamiento halógenas",
+            "Tercera luz de freno",
+            "Radio LCD 3,8\" FM/AM/USB",
+            "2 USB",
+            "Separación compartimiento de carga metálica",
+            "Piso metálico",
+            "Techo metálico"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-staria-furgon.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Datos extraídos únicamente desde la tabla visual del documento."
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "M340i",
+        "año": null,
+        "versiones": [
+            "xDrive LCI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "xDrive LCI": "Gasolina. 6 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "xDrive LCI": 2998
+        },
+        "potencia_hp": {
+            "xDrive LCI": "387"
+        },
+        "potencia_rpm": {
+            "xDrive LCI": "5,800 – 6,500"
+        },
+        "torque_nm": {
+            "xDrive LCI": "500"
+        },
+        "torque_rpm": {
+            "xDrive LCI": "1,900 – 5,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "xDrive LCI": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "xDrive LCI": "Neumáticos Runflat"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4714,
+        "ancho_mm": 1827,
+        "alto_mm": 1440,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 130,
+        "peso_bruto_kg": 1695,
+        "capacidad_maletero_lts": 480,
+        "capacidad_estanque_lts": 59,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado (km/l)",
+            "xDrive LCI": "13"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "xDrive LCI": "4.3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant Plus",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de reversa",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Surround View con Top View",
+            "Panorama View y 3D View",
+            "BMW Welcome Light Carpet",
+            "Remote 3D view con My BMW App",
+            "Llantas de aleación M de rayos dobles de 19” Bicolor Jetblack",
+            "Paquete Aerodinámico M Sport",
+            "BMW Individual Shadow Line en negro brillante",
+            "Frenos deportivos M azules",
+            "Suspensión adaptativa M"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático de 3 zonas",
+            "Alfombrillas de velours",
+            "Sunroof eléctrico",
+            "Asientos de cuero Vernasca",
+            "Asientos delanteros deportivos eléctricos con memoria y calefaccionados",
+            "Asientos traseros abatibles en proporción 40:20:40",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Sistema de acceso sin llaves Comfort Access con apertura/cierre por proximidad y Digital Key con BMW ConnectedDrive",
+            "Volante deportivo de cuero M multifunción",
+            "Terminaciones interiores en aluminio “Rhombicle Antracita”"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Neumáticos Runflat",
+            "Indicador de falla en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido surround Harman Kardon (16 altavoces y amplificador de 464W, 9 Canales)",
+            "BMW Live Cockpit Professional",
+            "Pantalla de panel de instrumentos digital de 12,3’’",
+            "Pantalla de control de alta resolución (1920x720 pixeles) de 14,9’’",
+            "Sistema operativo BMW iDrive 8.5 con widgets y pantallas personalizables",
+            "Navegador con puntos de referencia en 3D, modelos de Micro City, búsqueda de direcciones en texto libre y destinos especiales, instrucciones y guías",
+            "BMW Head-Up Display (navegación, velocidad, driving assistant info, entretenimiento, driving experience control, etc)",
+            "BMW Intelligent Personal Assistant (“Hola BMW”)",
+            "iDrive Touch",
+            "Bluetooth (streaming/phone)",
+            "Carga inalámbrica de Smartphone",
+            "Preparación para Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, Audiobooks))"
+        ],
+        "adas": [
+            "Faros delanteros LED Adaptativos Matrix",
+            "Luces de freno dinámicas",
+            "Asistente de luces en carretera",
+            "Sensores de lluvia y luz",
+            "Luces ambientales dinámicas",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero adaptativo con Stop & Go",
+            "Función Start-off assistant",
+            "Driving Assistant Professional",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Asistente de control de línea",
+            "Asistente de evasión",
+            "Advertencia de intersección",
+            "Advertencia de sentido contrario",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-08",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_new_bmw_m340i_xdrive_lci_ii.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

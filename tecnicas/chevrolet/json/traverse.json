@@ -1,0 +1,436 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "TRAVERSE",
+        "año": null,
+        "versiones": [
+            "MIDNIGHT",
+            "Z71"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "MIDNIGHT": "2.5 L Turbo",
+            "Z71": "2.5 L Turbo"
+        },
+        "cilindrada": {
+            "MIDNIGHT": "2.5 L Turbo",
+            "Z71": "2.5 L Turbo"
+        },
+        "potencia_hp": {
+            "MIDNIGHT": "322",
+            "Z71": "322"
+        },
+        "potencia_rpm": {
+            "MIDNIGHT": null,
+            "Z71": null
+        },
+        "torque_nm": {
+            "MIDNIGHT": "436",
+            "Z71": "436"
+        },
+        "torque_rpm": {
+            "MIDNIGHT": null,
+            "Z71": null
+        },
+        "combustible": "gasolina",
+        "transmision": {
+            "MIDNIGHT": "AT de 8 velocidades",
+            "Z71": "AT de 8 velocidades"
+        },
+        "traccion": {
+            "MIDNIGHT": "AWD",
+            "Z71": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eletrónicamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "independiente de tipo McPherson doble trapecio",
+        "suspension_trasera": "independiente Multilink",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "con accionamiento electrónico",
+        "neumaticos": {
+            "MIDNIGHT": "255/55R20",
+            "Z71": "265/65R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5194,
+        "ancho_mm": 2021,
+        "alto_mm": {
+            "MIDNIGHT": 1786,
+            "Z71": 1815
+        },
+        "distancia_ejes_mm": 3049,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2694,
+        "capacidad_maletero_lts": {
+            "MIDNIGHT": "1.602 / 648",
+            "Z71": "1.602 / 648"
+        },
+        "capacidad_estanque_lts": "82,1 L",
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Rieles de techo",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Parrilla frontal en acabado negro brillante",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Compuerta trasera eléctrica con apertura manos libres y Autosense",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Faros LED con IntelliBeam® con encendido y apagado automático",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Luces DRL diurnas",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Protector inferior de carter",
+                "MIDNIGHT": false,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Doble gancho de remolque delanteros en color rojo",
+                "MIDNIGHT": false,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Corbatín negro",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Parrilla frontal con diseño panal en acabado negro gloss y emblema Z71",
+                "MIDNIGHT": false,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Espejos exteriores eléctricos abatibles, calefaccionados y con luces direccionales",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Manijas externas color carrocería",
+                "MIDNIGHT": true,
+                "Z71": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Control de audio y teléfono al volante",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Desempañador eléctrico de vidrio trasero",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asientos en ecocuero color Jet Black",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asientos Z71 en ecocuero Jet Black con costuras y aplicaciones en color rojo",
+                "MIDNIGHT": false,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Interior Jet Black con detalles en rojo",
+                "MIDNIGHT": false,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asientos delanteros de conductor y pasajero calefaccionados",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Pantalla Clúster multi-información a color 11\" configurable",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asientos deslizables de la Segunda Fila Smart Slide®",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Botón de encendido Start/Stop",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Encendido remoto",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Sistema de audio con 6 parlantes",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Insonorización activa",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Volante forrado en ecocuero",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Salidas de aire en la segunda y tercera fila",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Aire acondicionado digital automático de tres zonas",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo automático con Stop/Go",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Configuración de asientos 2-2-3 (segunda fila Captain Seats)",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico configurable en 8 posiciones con ajuste lumbar",
+                "MIDNIGHT": true,
+                "Z71": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "7 airbags: 2 frontales, 2 laterales, 2 tipo cortina y 1 central delantero",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso panorámica 360°",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento posteriores",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Alerta y frenado de peatón y ciclistas, frontal y trasera",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Alerta y asistencia por abandono de carril",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Indicador de distancia próxima",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Sistema Teen Driver",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Alerta y frenado autónomo de cruce en reversa",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico cruzado con alerta y frenado autónomo",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Alertas por vibración en el asiento del conductor",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Detección de obstáculos para apertura de puertas",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Detección lateral de objetos con asistencia en el volante",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Detección de punto ciego",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Monitoreo de presión de neumáticos",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asistente de arranque en pendiente",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Asistente para descenso en pendiente",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Sistema de detección de pasajeros",
+                "MIDNIGHT": true,
+                "Z71": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Alerta de colisión frontal",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Alerta y asistencia por abandono de carril",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Detección de punto ciego",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Indicador de distancia próxima",
+                "MIDNIGHT": true,
+                "Z71": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Proyección inalámbrica con Apple CarPlay y Android Auto",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "OnStar, una tecnología que te cuida 24/7",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Botón de encendido y acceso sin llave (Smart Key)",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Sistema de infoentretenimiento Google Built-In",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Pantalla táctil HD de 17.7\"",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Wi-Fi integrado para hasta 7 dispositivos",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "MyChevrolet App",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para el teléfono",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Limpiador de cámara trasera",
+                "MIDNIGHT": true,
+                "Z71": true
+            },
+            {
+                "caracteristica": "Cámara de visión trasera con guía para remolque",
+                "MIDNIGHT": true,
+                "Z71": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (● negro=presente, ○ blanco/vacío=no presente; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-traverse-chile.pdf",
+        "versiones_en_documento": 2,
+        "notas": "El PDF muestra dos versiones (MIDNIGHT y Z71) con marcación por círculos en tablas de Performance/Dimensiones y Equipamiento. Donde el documento no entrega un dato explícito (p.ej. frenos, rpm, litros exactos del baúl por fila como campos separados), se dejó null o se mantuvo el texto tal cual."
+    }
+}

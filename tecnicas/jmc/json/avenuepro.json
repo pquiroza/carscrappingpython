@@ -1,0 +1,216 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "NEW GRAND AVENUE PRO",
+        "año": null,
+        "versiones": [
+            "PUMA (FORD)"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PUMA (FORD)": "2.3 TURBO"
+        },
+        "cilindrada": {
+            "PUMA (FORD)": null
+        },
+        "potencia_hp": {
+            "PUMA (FORD)": "177"
+        },
+        "potencia_rpm": {
+            "PUMA (FORD)": "3200"
+        },
+        "torque_nm": {
+            "PUMA (FORD)": "450"
+        },
+        "torque_rpm": {
+            "PUMA (FORD)": "1500-2400"
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "PUMA (FORD)": "Automatica 8 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "ELECTRICAL POWER STEERING"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "DOBLE HORQUILLA CON MUELLE HELICOIDAL",
+        "suspension_trasera": "MULTI-LINK + WATTS LINK",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "DISCO",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "PUMA (FORD)": "285/70R17"
+        },
+        "rueda_repuesto": "ACERO 265/65 R18"
+    },
+    "dimensiones": {
+        "largo_mm": 5535,
+        "ancho_mm": 2055,
+        "alto_mm": 1920,
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 3235,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 67,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos retrovisores eléctricos",
+            "Espejos retrovisores abatibles",
+            "Señalizadores en espejo retrovisor",
+            "Cierre centralizado",
+            "Cierre con comando a distancia puertas",
+            "Follow me home",
+            "Parachoques a tono de carrocería",
+            "Faros (LED)",
+            "Luz diurna",
+            "Neblineros delanteros",
+            "Neblineros traseros",
+            "Sensor de estacionamiento trasero",
+            "Sensor de estacionamiento delantero",
+            "Camara de retroceso",
+            "Imagen panoramica 360°",
+            "Vidrios tinteados",
+            "Guardafangos",
+            "Pisaderas",
+            "Llantas (aleación)",
+            "Neumáticos (285/70R17)",
+            "Neumático de repuesto tipo / medida (acero 265/65 R18)",
+            "Parachoques de acero delantero",
+            "IHBC (control inteligente de luces de carretera)",
+            "Faros con sensor automático",
+            "Luces traseras LED",
+            "Espejo laterales plegables eléctricos",
+            "Espejo lateral con calefaccion",
+            "Sensor de lluvia",
+            "Portalon trasero \"easy lift\"",
+            "Rieles de techo",
+            "Fuente de alimentación de 220 V",
+            "Toma de aire de montaje alto",
+            "Gancho de remolque delantero",
+            "Peldaño de portalon trasero"
+        ],
+        "interior": [
+            "Climatizador",
+            "One touch",
+            "Anti trap",
+            "Trip computer (consumo instantáneo)",
+            "Sistema de monitoreo de presión de neumáticos",
+            "Sistema selectivo de marchas en el volante paddle shift",
+            "Tapiz (eco cuero)",
+            "Apertura desde el interior de la tapa de bencina",
+            "Ajuste asiento piloto (electrónico 8 posiciones)",
+            "Ajuste asiento copiloto (electrónico 6 posiciones)",
+            "Ajuste asientos traseros (manual 4 posiciones)",
+            "Asientos traseros ajustables manualmente en 4 direcciones",
+            "Asientos delanteros calefaccionados",
+            "Asientos delanteros con ventilación",
+            "Bolsillo porta mapa puertas delanteras",
+            "Bolsillo porta revista en respaldo de asientos delanteros",
+            "Volante forrado en ecucuero",
+            "Volante regulable en altura",
+            "Volante regulable en profundidad",
+            "Volante multifuncional",
+            "Sunroof",
+            "Control crucero",
+            "Control crucero adaptativo (ACC)",
+            "Radio (carplay android auto)",
+            "Parlantes (4 parlantes 2 twitter)",
+            "Pantalla touch (12\")",
+            "Bluetooth",
+            "Luz delantera para lectura de mapas",
+            "Parasol con espejo de cortesia",
+            "Portavasos",
+            "Espejo retrovisor central antireflejo",
+            "Regulador de altura de faros",
+            "Tacómetro",
+            "Sistema de gestión todoterreno (ATMS)",
+            "Carga inalámbrica",
+            "Aire acondicionado trasero",
+            "Tablero de instrumentos pantalla LCD 12,3 pulgadas"
+        ],
+        "seguridad": [
+            "Sistema antirrobo (llave codificada)",
+            "Control de estabilidad",
+            "Sistema de regeneración selectivo",
+            "ISOFIX (2)",
+            "Freno estacionamiento electrónico",
+            "Freno estacionamiento con acople automático",
+            "Inmovilizador",
+            "Sistema de arranque (PEPS)",
+            "Alarma",
+            "Asistente de descenso",
+            "Asistente de ascenso",
+            "Apoya cabezas delanteros y traseros",
+            "Airbags delanteros (4)",
+            "Airbags cortina",
+            "ABS (control antideslizante)",
+            "Barra acero laterales de puerta",
+            "Carrocería con zona de deformación programada",
+            "Cinturones delanteros con bloqueo de emergencia",
+            "Cinturones traseros laterales tres puntas",
+            "Cinturon trasero central",
+            "Cinturones de seguridad tres puntas",
+            "Luz indicador del no uso del cinturon de seguridad del conductor",
+            "Columna de dirección colapsable",
+            "Carroceria y jaula integrada",
+            "Parachoques con sistema de absorción de impactos",
+            "Seguros de niños en puertas traseras",
+            "Alarma de olvido de llaves",
+            "Alarma puerta abierta (luz piloto en tablero)"
+        ],
+        "tecnologia": [
+            "Carplay android auto",
+            "Pantalla touch (12\")",
+            "Imagen panoramica 360°",
+            "Fuente de alimentación de 220 V",
+            "Carga inalámbrica",
+            "Tablero de instrumentos pantalla LCD 12,3 pulgadas"
+        ],
+        "adas": [
+            "Control crucero adaptativo (ACC)",
+            "Asistente alto tráfico (TJA)",
+            "Alerta colisión frontal (FCW)",
+            "Freno de emergencia autónomo (AEB)",
+            "Asistente permanencia en carril (LKA)",
+            "Alerta cambio carril (LDW)",
+            "Control permanencia en carril (LCC)",
+            "Reconocimiento señales del tránsito (TSR)",
+            "Detección punto ciego (BSD)",
+            "Función de control de arrastre",
+            "Función de giro del tanque",
+            "Detección de profundidad de vadeo",
+            "Advertencia de colisión frontal (FCW)",
+            "Frenada de emergencia autónoma (AEB)",
+            "Asistencia de mantenimiento de carril (LKA)",
+            "Alerta de cambio involuntario de carril (LDW)"
+        ]
+    },
+    "colores": [
+        "Blanco perla",
+        "Verde",
+        "Grafito",
+        "Negro",
+        "Plata",
+        "Rojo perla"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.GAPRO-061125.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Motor: PUMA (FORD); distribución: cadena; encendido: electronico; convertidor catalítico: 4 vías; tipo de aceite/cantidad: MOBIL 5W-30 / 8 L; norma de emisiones: EURO 6. Transmisión: tracción 4x4; accionamiento parcial 4WD (●); bloqueo de diferencial trasero (●). Suspensión: amortiguadores de nitrógeno K-MAN (●). Dimensiones adicionales: medidas de pick up (MM): 55 alto / 154 ancho / 159 largo; Nº de puertas: 4; capacidad estanque urea (LT): 11; capacidad de carga: 860."
+    }
+}

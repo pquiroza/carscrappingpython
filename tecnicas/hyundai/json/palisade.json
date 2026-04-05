@@ -1,0 +1,222 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Palisade",
+        "año": null,
+        "versiones": [
+            "3.5_AT_AWD_PREMIUM_FL",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL",
+            "2.2_CRDI_AT_AWD_LIMITED_FL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "3.5_AT_AWD_PREMIUM_FL": "Bencinero",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "Diesel",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "Diesel"
+        },
+        "cilindrada": {
+            "3.5_AT_AWD_PREMIUM_FL": "3.470 cc",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "2.199 cc",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "2.199 cc"
+        },
+        "potencia_hp": {
+            "3.5_AT_AWD_PREMIUM_FL": "273 Hp a 6.300 rpm",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "200 Hp a 3.800 rpm",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "200 Hp a 3.800 rpm"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "3.5_AT_AWD_PREMIUM_FL": "336 Nm",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "440 Nm",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "440 Nm"
+        },
+        "torque_rpm": {
+            "3.5_AT_AWD_PREMIUM_FL": "5.000",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "1.750 - 2.750",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "1.750 - 2.750"
+        },
+        "combustible": {
+            "3.5_AT_AWD_PREMIUM_FL": "Bencina",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "Diesel",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "Diesel"
+        },
+        "transmision": "8AT",
+        "traccion": "4WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "neumaticos": {
+            "3.5_AT_AWD_PREMIUM_FL": "245/60 R18",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "245/60 R18",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "245/50 R20"
+        },
+        "rueda_repuesto": "Rueda repuesto tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 4995,
+        "ancho_mm": 1975,
+        "alto_mm": 1750,
+        "distancia_ejes_mm": 2900,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "3.5_AT_AWD_PREMIUM_FL": 2645,
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": 2690,
+            "2.2_CRDI_AT_AWD_LIMITED_FL": 2690
+        },
+        "capacidad_maletero_lts": {
+            "detras_3ra_fila": 509,
+            "detras_2da_fila": 1297,
+            "detras_1ra_fila": 2447
+        },
+        "capacidad_estanque_lts": 71
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación",
+            "3.5_AT_AWD_PREMIUM_FL": "18\"",
+            "2.2_CRDI_AT_AWD_PREMIUM_FL": "18\"",
+            "2.2_CRDI_AT_AWD_LIMITED_FL": "20\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Alerta pasajeros traseros con sensor",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Cámara 360° Realidad aumentada",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Monitor Punto Ciego",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio función Drivers Talk",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Audio Premium Infinity",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Asientos segunda corrida calefaccionados",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Sunroof Doble Panel",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "3.5_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_PREMIUM_FL": false,
+                "2.2_CRDI_AT_AWD_LIMITED_FL": true
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "7 Airbags",
+            "ABS + EBD",
+            "ESC",
+            "Cámara retroceso",
+            "Asistencia estabilidad remolque",
+            "Sensores estacionamiento delantero y trasero",
+            "Isofix",
+            "Inmovilizador",
+            "HAC + DBC",
+            "Control tracción HTRAC",
+            "BSD",
+            "BCA",
+            "LKA",
+            "LFA",
+            "FCA",
+            "FCA JX",
+            "RCCA",
+            "SSC",
+            "Asistencia luces altas",
+            "Advertencia atención conductor"
+        ],
+        "interior": [
+            "Portalón trasero electrónico inteligente",
+            "Asientos segunda fila One-Touch",
+            "Asientos tercera fila 50/50",
+            "Barras techo",
+            "Smart Key",
+            "Bluetooth con reconocimiento voz",
+            "Cluster digital 12,3\"",
+            "Radio touch 12,3\" Apple CarPlay / Android Auto",
+            "Cargador inalámbrico",
+            "Climatizador tri-zona",
+            "Control audio volante",
+            "Cortinas manuales traseras",
+            "Espejos abatibles calefaccionados",
+            "Espejo electrocromático",
+            "Freno mano eléctrico",
+            "Sensor luz",
+            "Selector modo manejo",
+            "Modo off-road (Barro/Nieve/Arena)",
+            "Tapiz cuero",
+            "Paddle Shift",
+            "Volante cuero",
+            "Volante regulable altura/profundidad",
+            "Asiento piloto eléctrico 8 posiciones",
+            "Asientos delanteros calefaccionados"
+        ],
+        "exterior": [
+            "Luces delanteras LED",
+            "Luces traseras LED",
+            "DRL LED"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-palisade.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual del documento."
+    }
+}

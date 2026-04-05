@@ -1,0 +1,159 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "120",
+        "año": null,
+        "versiones": [
+            "M Sport"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "M Sport": "Gasolina. 3 cilindros BMW TwinPower Turbo Mild Hybrid"
+        },
+        "cilindrada": {
+            "M Sport": 1499
+        },
+        "potencia_hp": {
+            "M Sport": "156"
+        },
+        "potencia_rpm": {
+            "M Sport": "4,700 – 6,500"
+        },
+        "torque_nm": {
+            "M Sport": "280"
+        },
+        "torque_rpm": {
+            "M Sport": "1,500 – 4,400"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "M Sport": "Automática deportiva de doble embrague de 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "M Sport": null
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4361,
+        "ancho_mm": 2072,
+        "alto_mm": 1459,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 156,
+        "peso_bruto_kg": 1425,
+        "capacidad_maletero_lts": "380 (1,200 litros con asientos abatidos)",
+        "capacidad_estanque_lts": 49,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado (km/l)",
+            "M Sport": "18,2"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "M Sport": "7,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento automático en paralelo (volante, aceleración, frenos y marchas)",
+            "Asistente de reversa (memoriza últimos 50 m a menos de 35 km/h para retroceder automáticamente en caso de necesitar volver marcha atrás)",
+            "Sensores de estacionamiento delantero y trasero (PDC)",
+            "Cámara de retroceso",
+            "Llantas de aleación 18” de rayos Y estilo 975 Bicolor",
+            "BMW Welcome Light Carpet",
+            "Paquete deportivo M",
+            "Parachoques delanteros y traseros en color carrocería con insertos en negro brillante",
+            "Parrilla frontal en aluminio satinado",
+            "Faldón de diseño especifico M",
+            "Estribos en puertas delanteras con identificación M",
+            "Logos M en exterior y llave M especifica",
+            "Barras longitudinales en techo en negro brillante"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Asientos delanteros deportivos con tapiz en combinación Alcantara/Veganza negro, eléctricos con memoria",
+            "Asientos traseros con ajuste de reclinación",
+            "Sunroof panorámico eléctrico",
+            "Sistema de acceso sin llaves Comfort Access con apertura y cierre por proximidad",
+            "Alfrombrilla de velours",
+            "Paquete de iluminación ambiental",
+            "Espejos exteriores eléctricos abatibles",
+            "Espejos int./ext. Anti-deslumbramiento automáticos",
+            "Volante deportivo M de cuero multifunción",
+            "Pedales con insertos de aluminio M",
+            "Molduras en aluminio Hexagon"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Monitor de presión de neumáticos",
+            "Kit de reparación de neumáticos"
+        ],
+        "tecnologia": [
+            "Sistema de sonido HiFi con altavoces Harman Kardon (12 altavoces)",
+            "BMW Live Cockpit Plus",
+            "Pantalla de panel de instrumentos digital de 10,25’’ (1920x720 pixeles)",
+            "Pantalla de control de alta resolución (1920x960 pixeles) de 10,7’’",
+            "Sistema operativo BMW iDrive 9.0 con widgets y pantallas personalizables",
+            "Preparación para Apple CarPlay y Android Auto",
+            "Permite conexión inalámbrica con iPhone® y dispositivo Android® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, Audiobooks))",
+            "Bandeja para carga inalámbrica de dispositivos móviles"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos",
+            "Asistente de luces en carretera",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero con función de frenado",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-08",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_the_all__new_bmw_120_m_sport.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

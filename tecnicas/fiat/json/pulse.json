@@ -1,0 +1,186 @@
+{
+    "vehiculo": {
+        "marca": "Fiat",
+        "modelo": "Pulse",
+        "año": 2026,
+        "versiones": [
+            "DRIVE_MT",
+            "DRIVE_AT",
+            "IMPETUS_TURBO_AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "DRIVE_MT": "1.3 FIREFLY",
+            "DRIVE_AT": "1.3 FIREFLY",
+            "IMPETUS_TURBO_AT": "1.0 T200 TURBO"
+        },
+        "numero_cilindros": {
+            "DRIVE_MT": "4 en línea",
+            "DRIVE_AT": "4 en línea",
+            "IMPETUS_TURBO_AT": "3 en línea"
+        },
+        "valvulas_por_cilindro": {
+            "DRIVE_MT": 2,
+            "DRIVE_AT": 2,
+            "IMPETUS_TURBO_AT": 4
+        },
+        "cilindrada_cc": {
+            "DRIVE_MT": 1332,
+            "DRIVE_AT": 1332,
+            "IMPETUS_TURBO_AT": 999
+        },
+        "potencia_hp": {
+            "DRIVE_MT": "99 / 6.000",
+            "DRIVE_AT": "99 / 6.000",
+            "IMPETUS_TURBO_AT": "120 / 5.750"
+        },
+        "torque_nm": {
+            "DRIVE_MT": "128 / 4.000",
+            "DRIVE_AT": "128 / 4.000",
+            "IMPETUS_TURBO_AT": "200 / 1.750"
+        },
+        "combustible": "Gasolina",
+        "inyeccion": "Inyección electrónica multipunto",
+        "distribucion": "Cadena 'for life'"
+    },
+    "transmision": {
+        "traccion": "4x2 Delantera",
+        "caja_cambios": {
+            "DRIVE_MT": "Manual 5 vel.",
+            "DRIVE_AT": "CVT 7 vel.",
+            "IMPETUS_TURBO_AT": "CVT 7 vel."
+        }
+    },
+    "direccion": {
+        "tipo": "Asistencia eléctrica",
+        "diametro_giro_m": 10.5
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson con brazos oscilantes transversales, resortes helicoidales y barra",
+        "suspension_trasera": "Eje de torsión con ruedas semi independientes, resortes helicoidales",
+        "frenos": "Disco sólido / Tambor",
+        "neumaticos": {
+            "DRIVE_MT": "195/60 R16",
+            "DRIVE_AT": "195/60 R16",
+            "IMPETUS_TURBO_AT": "205/50 R17"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4099,
+        "ancho_mm": 1774,
+        "alto_mm": {
+            "DRIVE_MT": 1577,
+            "DRIVE_AT": 1577,
+            "IMPETUS_TURBO_AT": 1580
+        },
+        "distancia_ejes_mm": 2521,
+        "despeje_suelo_mm": {
+            "DRIVE_MT": 189,
+            "DRIVE_AT": 189,
+            "IMPETUS_TURBO_AT": 194
+        },
+        "capacidad_baul_lts": 370,
+        "tanque_combustible_lts": 47,
+        "peso_orden_marcha_kg": {
+            "DRIVE_MT": 1140,
+            "DRIVE_AT": 1187,
+            "IMPETUS_TURBO_AT": 1234
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/lt)",
+            "DRIVE_MT": 11.9,
+            "DRIVE_AT": 13.1,
+            "IMPETUS_TURBO_AT": 11.8
+        },
+        {
+            "caracteristica": "Carretera (km/lt)",
+            "DRIVE_MT": 19.5,
+            "DRIVE_AT": 19.2,
+            "IMPETUS_TURBO_AT": 18.5
+        },
+        {
+            "caracteristica": "Mixto (km/lt)",
+            "DRIVE_MT": 15.8,
+            "DRIVE_AT": 16.4,
+            "IMPETUS_TURBO_AT": 15.2
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "diseno": [
+            {
+                "caracteristica": "Techo solar panorámico",
+                "DRIVE_MT": false,
+                "DRIVE_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Carrocería bi-tono",
+                "DRIVE_MT": false,
+                "DRIVE_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Llantas 17\"",
+                "DRIVE_MT": false,
+                "DRIVE_AT": false,
+                "IMPETUS_TURBO_AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Freno autónomo emergencia (AEB)",
+                "DRIVE_MT": false,
+                "DRIVE_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Sistema mantenimiento carril activo (LKA)",
+                "DRIVE_MT": false,
+                "DRIVE_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Sensores estacionamiento delanteros",
+                "DRIVE_MT": false,
+                "DRIVE_AT": false,
+                "IMPETUS_TURBO_AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "2 Airbags frontales",
+            "2 Airbags laterales y 2 de tórax y cabeza",
+            "ABS + EBD",
+            "ESC + TC",
+            "HLA",
+            "ISOFIX",
+            "Cámara estacionamiento trasera",
+            "Sensores estacionamiento traseros"
+        ],
+        "confort": [
+            "Climatizador digital automático",
+            "Levantacristales eléctricos one-touch",
+            "Sistema My Car Fiat",
+            "Control velocidad crucero"
+        ],
+        "tecnologia": [
+            "Pantalla multimedia 10,1'' NAV",
+            "Android Auto & CarPlay inalámbrico",
+            "Cargador inalámbrico",
+            "USB A & C delanteros",
+            "USB trasero",
+            "Volante multifunción"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas PDF",
+        "fuente": "FIAT New Pulse Ficha Técnica 2026.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exclusivamente desde las tablas comparativas del documento."
+    }
+}

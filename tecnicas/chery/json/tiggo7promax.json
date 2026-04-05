@@ -1,0 +1,150 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 7 PRO MAX",
+        "año": null,
+        "versiones": [
+            "1_5T_6DCT_GLX"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5 Turbo",
+        "combustible": "Gasolina",
+        "cilindrada": "1498",
+        "potencia_hp": "145",
+        "potencia_rpm": "5500",
+        "torque_nm": "210",
+        "torque_rpm": "1750-4000",
+        "modos_conduccion": "ECO - ESTÁNDAR - SPORT",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "tipo": "DCT 6 Vel",
+        "traccion": "Delantera",
+        "palanca": "E-Shift"
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multilink Independiente",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 5,
+        "largo_mm": "4553",
+        "ancho_mm": "1862",
+        "alto_mm": "1696",
+        "distancia_ejes_mm": "2670",
+        "capacidad_maletero_lts": "484",
+        "capacidad_estanque_lts": "51"
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador Bi-zona",
+            "Filtro aire cabina PM0.3",
+            "Salidas aire acondicionado 2da fila",
+            "Apertura Keyless",
+            "Botón de encendido",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Cierre centralizado",
+            "Indicador de mantención",
+            "Computador a bordo",
+            "Tapiz eco cuero",
+            "Cubre maletero",
+            "Luz maletero",
+            "Asiento trasero 60/40",
+            "Asiento conductor eléctrico",
+            "Asiento copiloto eléctrico",
+            "Cargador inalámbrico",
+            "Volante regulable altura/profundidad",
+            "Volante cuero multifunción",
+            "Techo panorámico",
+            "Control crucero",
+            "Radio 8 parlantes Sony",
+            "Puertos USB delanteros/traseros",
+            "Pantalla 12.3\"",
+            "Bluetooth",
+            "Apple CarPlay inalámbrico",
+            "Android Auto inalámbrico",
+            "Parasoles con espejo y luz",
+            "Porta anteojos",
+            "Espejo antireflejo",
+            "Regulador altura faros",
+            "Panel instrumentos LCD 12.3\""
+        ],
+        "exterior": [
+            "Encendido remoto",
+            "Start / Stop",
+            "Vidrios tinteados",
+            "Espejos eléctricos",
+            "Espejos abatibles eléctricos",
+            "Señalizadores en espejos",
+            "Desempañador espejos",
+            "Cierre remoto",
+            "Sensor proximidad",
+            "Maletero manos libres",
+            "Maletero eléctrico",
+            "Follow me home",
+            "Limpia luneta",
+            "Faros automáticos",
+            "Luz diurna LED",
+            "Luz trasera LED",
+            "Neblinero trasero",
+            "Spoiler",
+            "Sensores estacionamiento delanteros y traseros",
+            "Cámara 540° HD",
+            "Barras techo",
+            "Llantas aleación 18\"",
+            "Neumáticos 225/55 R18",
+            "Repuesto temporal"
+        ],
+        "seguridad": [
+            "Sistema antirrobo",
+            "Inmovilizador",
+            "Alarma",
+            "Indicador exceso velocidad",
+            "Cierre automático puertas",
+            "Airbags delanteros",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ESP",
+            "HAC",
+            "HDC",
+            "TCS",
+            "TPMS",
+            "Barra acero puertas",
+            "Carrocería deformación programada",
+            "Cinturones pretensionados",
+            "ISOFIX",
+            "Seguros niños",
+            "ADAS completo"
+        ],
+        "ADAS": [
+            "ACC",
+            "TJA",
+            "ICA",
+            "FCW",
+            "AEB",
+            "BSD",
+            "RCW",
+            "RTCW",
+            "LDW",
+            "LCA",
+            "LKA",
+            "DOW",
+            "IHC"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 7 Pro Max",
+        "versiones_en_documento": 1,
+        "notas": "Datos tomados literalmente del PDF oficial."
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "vehiculo": {
+        "marca": "BYD",
+        "modelo": "DOLPHIN MINI",
+        "año": null,
+        "versiones": [
+            "FWD 300KM",
+            "FWD 380KM"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "FWD 300KM": "Motor frontal",
+            "FWD 380KM": "Motor frontal"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "FWD 300KM": "55",
+            "FWD 380KM": "55"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "FWD 300KM": "135",
+            "FWD 380KM": "135"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": null,
+        "traccion": {
+            "FWD 300KM": "Tracción delantera",
+            "FWD 380KM": "Tracción delantera"
+        }
+    },
+    "direccion": {
+        "tipo": "Sistema de dirección asistida eléctrica (C-EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera McPherson",
+        "suspension_trasera": "Suspensión por viga de torsión",
+        "frenos_delanteros": "Disco de freno ventilado delantero",
+        "frenos_traseros": "Disco de freno trasero",
+        "freno_estacionamiento": "Sistema de estacionamiento electrónico (EPB)",
+        "neumaticos": {
+            "FWD 300KM": "175/55 R16",
+            "FWD 380KM": "175/55 R16"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 3780,
+        "ancho_mm": 1715,
+        "alto_mm": 1580,
+        "distancia_ejes_mm": 2500,
+        "despeje_suelo_mm": "120 (carga completa, cuatro asientos)",
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 230,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": "4 Asientos"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Radio de giro mínimo (m)",
+            "FWD 300KM": "4.95",
+            "FWD 380KM": "4.95"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "FWD 300KM": "130",
+            "FWD 380KM": "130"
+        },
+        {
+            "caracteristica": "Capacidad de la batería (kWh)",
+            "FWD 300KM": "30.08",
+            "FWD 380KM": "38"
+        },
+        {
+            "caracteristica": "Carga DC 30%-80% (min)",
+            "FWD 300KM": "30",
+            "FWD 380KM": "30"
+        },
+        {
+            "caracteristica": "Estándar de carga AC",
+            "FWD 300KM": "7kW",
+            "FWD 380KM": "7kW"
+        },
+        {
+            "caracteristica": "Estándar de carga DC",
+            "FWD 300KM": "30kW",
+            "FWD 380KM": "40kW"
+        },
+        {
+            "caracteristica": "EV range (km) NEDC",
+            "FWD 300KM": "300",
+            "FWD 380KM": "380"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Puerto de carga CCS Combo2",
+                "FWD 300KM": null,
+                "FWD 380KM": null
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Carga inalámbrica de teléfono inteligente",
+                "FWD 300KM": false,
+                "FWD 380KM": true
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable manual en 4 direcciones",
+                "FWD 300KM": true,
+                "FWD 380KM": false
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable eléctricamente en 6 direcciones",
+                "FWD 300KM": false,
+                "FWD 380KM": true
+            },
+            {
+                "caracteristica": "Elevación de ventana del conductor de un botón con función antipellizco",
+                "FWD 300KM": false,
+                "FWD 380KM": true
+            },
+            {
+                "caracteristica": "Ajuste eléctrico de la columna de dirección ajustable en 2 direcciones",
+                "FWD 300KM": true,
+                "FWD 380KM": false
+            },
+            {
+                "caracteristica": "Ajuste eléctrico de la columna de dirección ajustable en 4 direcciones",
+                "FWD 300KM": false,
+                "FWD 380KM": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Bolsas de aire laterales delanteras",
+                "FWD 300KM": false,
+                "FWD 380KM": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Limpia parabrisas",
+            "Desbloqueo eléctrico de la puerta del maletero trasero",
+            "Llanta de 16 pulgadas de aleación de aluminio",
+            "Luces delanteras LED",
+            "Lámpara antiniebla trasera",
+            "Luces delanteras automáticos",
+            "Encendido y apagado por adelantado de faros \"Sígueme a casa\"",
+            "LED Luces de circulación diurna",
+            "Luces combinadas traseras (LED)",
+            "Luz de freno alta (LED)",
+            "Luces interiores delanteras (LED)",
+            "Calefacción eléctrica de desempañamiento y descongelación del parabrisas trasero",
+            "Espejo retrovisor exterior con ajuste eléctrico de la lente, calefacción y descongelación",
+            "Plegado manual de retrovisor exterior",
+            "Espejo retrovisor interior ajuste manual antideslumbrante"
+        ],
+        "interior": [
+            "Volante multifunción",
+            "Instrumento combinado de 7 pulgadas",
+            "Parasol del conductor con espejo de tocador (con lámpara)",
+            "Parasol del pasajero delantero con espejo de tocador (con lámpara)",
+            "Reposabrazos central delantero",
+            "Un toma corriente auxiliar de 12V",
+            "USB frontal: Type A*1+TypeC*1",
+            "Asientos de cuero sintético",
+            "Asiento trasero reclinable",
+            "Asiento del pasajero delantero con ajuste manual en 4 direcciones",
+            "Accesorio de asiento para niños LATCH (compatible con ISO-FIX)"
+        ],
+        "seguridad": [
+            "Bolsa de aire frontal para el conductor",
+            "Bolsa de aire frontal para el pasajero",
+            "Bolsas de aire laterales delanteras y traseras",
+            "Cinturón de seguridad precargado con limitación de fuerza en la primera fila",
+            "Recordatorio del cinturón de seguridad del conductor",
+            "Recordatorio del cinturón de seguridad del pasajero delantero",
+            "Alarma del cinturón de seguridad trasero no abrochado",
+            "Imagen inversa",
+            "Sistema de frenos de potencia inteligente (IPB)",
+            "Asistencia de frenado hidráulico (HBA)",
+            "Sistema de control de tracción (TCS)",
+            "Sistema de control de desaceleración del freno de estacionamiento (CDP)",
+            "Sistema de control dinámico del vehículo (VDC)",
+            "Distribución electrónica de la fuerza de frenado (EBD)",
+            "Sistema de control de arranque en pendiente (HHC)",
+            "Función de frenado de confort (CST)",
+            "Coordinated Regenerative Braking System (CRBS)",
+            "3 radares de marcha atrás",
+            "Sistema de monitoreo directo de la presión de los neumáticos (TPMS)"
+        ],
+        "tecnologia": [
+            "Sistema de cabina inteligente BYD (6125F)",
+            "FM+AM radio",
+            "Pantalla inteligente de 10.1 pulgadas con rotación eléctrica",
+            "4G Internet",
+            "Actualización remota OTA",
+            "Servicio BYD Cloud",
+            "CarPlay+Android Auto",
+            "Sistema de navegación GPS",
+            "Sistema inteligente de control por voz",
+            "4 Altavoces"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Apricity White",
+        "Peach Pink",
+        "Sprout Green",
+        "Polar Night Black",
+        "Light Blue",
+        "Dark Blue",
+        "Pink"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla BYD (●=true, —/\"-\"=false, ○=null; texto/valores tal cual)",
+        "fuente": "BYD-DOLPHIN-MINI-flyer-ES-20231116.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Especificaciones actualizadas: Noviembre de 2023. Se conservaron opciones marcadas como opcionales (○) como null."
+    }
+}

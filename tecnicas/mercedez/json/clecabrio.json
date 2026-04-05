@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "CLE Cabriolet",
+        "año": null,
+        "versiones": [
+            "CLE 300 4MATIC Cabriolet"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CLE 300 4MATIC Cabriolet": null
+        },
+        "cilindrada": {
+            "CLE 300 4MATIC Cabriolet": 1999
+        },
+        "potencia_hp": {
+            "CLE 300 4MATIC Cabriolet": "258 CV (+23 CV)"
+        },
+        "potencia_rpm": {
+            "CLE 300 4MATIC Cabriolet": null
+        },
+        "torque_nm": {
+            "CLE 300 4MATIC Cabriolet": "400 Nm (+205 Nm)"
+        },
+        "torque_rpm": {
+            "CLE 300 4MATIC Cabriolet": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "CLE 300 4MATIC Cabriolet": "Automática 9G-TRONIC"
+        },
+        "traccion": {
+            "CLE 300 4MATIC Cabriolet": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CLE 300 4MATIC Cabriolet": "Eje delantero: 245/40 R19 - Eje trasero: 275/35 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 420,
+        "capacidad_estanque_lts": 66,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "CLE 300 4MATIC Cabriolet": "6,2 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "CLE 300 4MATIC Cabriolet": "13,5 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "CLE 300 4MATIC Cabriolet": "AMG"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "CLE 300 4MATIC Cabriolet": "Eje delantero: 245/40 R19 - Eje trasero: 275/35 R19"
+            },
+            {
+                "caracteristica": "Faros",
+                "CLE 300 4MATIC Cabriolet": "DIGITAL LIGHT"
+            },
+            {
+                "caracteristica": "Paquete de confort Cabriolet",
+                "CLE 300 4MATIC Cabriolet": "Incluye AIRCAP + AIRSCARF"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "CLE 300 4MATIC Cabriolet": "Incluye función de cerrado autónomo en caso de lluvia"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "CLE 300 4MATIC Cabriolet": "AMG de 19 pulgadas en diseño multirradio con propiedades aerodinámicas color negro"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Línea interior",
+                "CLE 300 4MATIC Cabriolet": "AMG"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "CLE 300 4MATIC Cabriolet": "Cuero ARTICO / microfibra MICROCUT"
+            },
+            {
+                "caracteristica": "Molduras",
+                "CLE 300 4MATIC Cabriolet": "Elementos de adorno en estructura de metal"
+            },
+            {
+                "caracteristica": "Asientos delanteros con aproximador de cinturón",
+                "CLE 300 4MATIC Cabriolet": "Incluye kit de memorias y calefacción"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "CLE 300 4MATIC Cabriolet": "Automática Bizona"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "10 Airbags de serie",
+                "CLE 300 4MATIC Cabriolet": "Incluye Windowbags + Central + Rodillas"
+            },
+            {
+                "caracteristica": "Asistente activo de estacionamiento PARKTRONIC",
+                "CLE 300 4MATIC Cabriolet": "Incluye cámara 360°"
+            },
+            {
+                "caracteristica": "Neumáticos RUNFLAT",
+                "CLE 300 4MATIC Cabriolet": "Neumáticos con paredes reforzados"
+            },
+            {
+                "caracteristica": "Sistema de seguridad PRE-SAFE®",
+                "CLE 300 4MATIC Cabriolet": "Protección preventiva de los ocupantes ante posible colisión"
+            },
+            {
+                "caracteristica": "Tren de rodaje deportivo",
+                "CLE 300 4MATIC Cabriolet": "Con sistema de amortiguación selectiva"
+            },
+            {
+                "caracteristica": "Sistema de frenos",
+                "CLE 300 4MATIC Cabriolet": "Discos de mayores dimensiones en eje delantero"
+            },
+            {
+                "caracteristica": "Sistema ATTENTION ASSIST",
+                "CLE 300 4MATIC Cabriolet": "Sistema de aviso por señales de somnolencia"
+            },
+            {
+                "caracteristica": "Asistente de frenado activo",
+                "CLE 300 4MATIC Cabriolet": "Aviso visual, acústico e intervención de frenos"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "CLE 300 4MATIC Cabriolet": "Incluye función de advertencia de salida"
+            },
+            {
+                "caracteristica": "Protección Vehiculo GUARD 360°",
+                "CLE 300 4MATIC Cabriolet": "Incluye alarmas volumétricas"
+            },
+            {
+                "caracteristica": "Avisador de presión de los neumáticos",
+                "CLE 300 4MATIC Cabriolet": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "CLE 300 4MATIC Cabriolet": "<< Hey Mercedes >>"
+            },
+            {
+                "caracteristica": "Sistema multimedia MBUX",
+                "CLE 300 4MATIC Cabriolet": true
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "CLE 300 4MATIC Cabriolet": "12,3\""
+            },
+            {
+                "caracteristica": "Visualizador de cuadro de instrumentos digital",
+                "CLE 300 4MATIC Cabriolet": "11,9\""
+            },
+            {
+                "caracteristica": "Realidad aumentada para navegación",
+                "CLE 300 4MATIC Cabriolet": "Información gráfica sobre la navegación en visualizador"
+            },
+            {
+                "caracteristica": "Integración Smartphone Inalámbrico",
+                "CLE 300 4MATIC Cabriolet": "Con sistema de carga inalámbrico"
+            },
+            {
+                "caracteristica": "Paquete Confort Keyless Go",
+                "CLE 300 4MATIC Cabriolet": "Incluye Hands Free Access y acceso Keyless"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente plus",
+                "CLE 300 4MATIC Cabriolet": "Incluye apoyo visual en control de punto ciego"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "CLE 300 4MATIC Cabriolet": "Surround Burmester® 3D con 15 altavoces"
+            },
+            {
+                "caracteristica": "Paquete USB",
+                "CLE 300 4MATIC Cabriolet": "3 entradas USB-C para carga rápida"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles eléctricamente",
+                "CLE 300 4MATIC Cabriolet": "Incluye función antideslumbrante"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz CLE 300 4MATIC Cabriolet (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica_CLE_Cabrio_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información visible en Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior."
+    }
+}

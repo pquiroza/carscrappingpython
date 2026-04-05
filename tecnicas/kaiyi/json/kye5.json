@@ -1,0 +1,197 @@
+{
+    "vehiculo": {
+        "marca": "Kaiyi",
+        "modelo": "KYE5",
+        "año": null,
+        "versiones": [
+            "1.5T_MT_LUX",
+            "1.5T_CVT_LUX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5T_MT_LUX": "1.5 Turbo",
+            "1.5T_CVT_LUX": "1.5 Turbo"
+        },
+        "cilindrada": {
+            "1.5T_MT_LUX": 1.498,
+            "1.5T_CVT_LUX": 1.498
+        },
+        "potencia_hp": {
+            "1.5T_MT_LUX": "145",
+            "1.5T_CVT_LUX": "145"
+        },
+        "potencia_rpm": {
+            "1.5T_MT_LUX": "5500",
+            "1.5T_CVT_LUX": "5500"
+        },
+        "torque_nm": {
+            "1.5T_MT_LUX": "230",
+            "1.5T_CVT_LUX": "230"
+        },
+        "torque_rpm": {
+            "1.5T_MT_LUX": "1750-4000",
+            "1.5T_CVT_LUX": "1750-4000"
+        },
+        "combustible": {
+            "1.5T_MT_LUX": "Gasolina",
+            "1.5T_CVT_LUX": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "1.5T_MT_LUX": null,
+            "1.5T_CVT_LUX": null
+        },
+        "norma_emisiones": {
+            "1.5T_MT_LUX": null,
+            "1.5T_CVT_LUX": null
+        },
+        "transmision": {
+            "1.5T_MT_LUX": "Mecánica 5 velocidades",
+            "1.5T_CVT_LUX": "Automática CVT 9 velocidades"
+        },
+        "traccion": {
+            "1.5T_MT_LUX": null,
+            "1.5T_CVT_LUX": null
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente MacPherson",
+        "suspension_trasera": "Multi-link",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_de_mano": "Eléctrico + Autohold",
+        "neumaticos": {
+            "1.5T_MT_LUX": "Aro 17\"",
+            "1.5T_CVT_LUX": "Aro 17\""
+        },
+        "rueda_repuesto": "Neumático temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4666,
+        "ancho_mm": 1825,
+        "alto_mm": 1483,
+        "distancia_ejes_mm": 2700,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": 455
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "1.5T_MT_LUX": "10,3",
+            "1.5T_CVT_LUX": "10,3"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "1.5T_MT_LUX": "16,6",
+            "1.5T_CVT_LUX": "15,4"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "1.5T_MT_LUX": "13,5",
+            "1.5T_CVT_LUX": "13,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "1.5T_MT_LUX": true,
+                "1.5T_CVT_LUX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Modo de conducción",
+                "1.5T_MT_LUX": false,
+                "1.5T_CVT_LUX": "Eco / Sport"
+            },
+            {
+                "caracteristica": "Carga inalámbrica",
+                "1.5T_MT_LUX": false,
+                "1.5T_CVT_LUX": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara panorámica 360°",
+                "1.5T_MT_LUX": false,
+                "1.5T_CVT_LUX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos retrovisores exteriores ajustable eléctricamente",
+            "Apertura maletero desde control",
+            "Espejos retrovisores con intermitente incorporado",
+            "Focos regulables en altura",
+            "Luces automáticas",
+            "Luces diurnas Led (DLR)",
+            "Manillas de puertas color de carrocería",
+            "Moldura cromada en ventanas",
+            "Neblineros traseros",
+            "Repuesto con neumático temporal",
+            "Función sígueme a casa",
+            "Luces delanteras Led"
+        ],
+        "interior": [
+            "Aire acondicionado eléctrico",
+            "Alzavidrios eléctricos (one button down)",
+            "Alarma de límite de velocidad",
+            "Asiento del conductor con ajuste en 6 posiciones",
+            "Asientos traseros segunda fila abatibles 60/40",
+            "Asientos delanteros tipo butacas",
+            "Bluetooth",
+            "Botón de Encendido",
+            "Cierre centralizado",
+            "Pantalla de infoentretenimiento de 10,25 pulg",
+            "Parasoles delanteros con espejo de cortesía",
+            "Radio touch con conectividad",
+            "Reposacabezas trasero ajustables en altura",
+            "Reposabrazos central delantero",
+            "Salida aire acondicionado segunda fila",
+            "Smart key",
+            "Volante multifunción",
+            "Volante regulable en altura",
+            "Parlantes + tweeter (2+2)",
+            "Asientos tapiz eco-cuero",
+            "Pantalla en panel de instrumentos de 7 pulg",
+            "Volante forrado eco-cuero",
+            "Puertos USB (3)"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Alerta de uso de cinturón de seguridad conductor",
+            "Airbags frontales",
+            "Anclaje ISOFIX",
+            "BA: Asistencia de frenado",
+            "Cinturones de seguridad delanteros ajustable en altura",
+            "Cinturón de seguridad con limitador de tensión en primera fila",
+            "Cinturones de seguridad totales de tres puntas",
+            "Control crucero",
+            "Doble Airbag Delantero",
+            "ESP: Control de estabilidad",
+            "HHC: Control de partida en pendiente",
+            "Inmovilizador",
+            "Seguro de niño en puertas",
+            "Sensor de proximidad trasero",
+            "TPMS: Monitor de presión de neumáticos"
+        ]
+    },
+    "colores": [
+        "Rojo",
+        "Blanco",
+        "Gris"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (●=true, vacío o -=false, columna única=aplica a todas las versiones)",
+        "fuente": "Kaiyi-FT-KYE5.pdf",
+        "versiones_en_documento": 2,
+        "notas": null
+    }
+}

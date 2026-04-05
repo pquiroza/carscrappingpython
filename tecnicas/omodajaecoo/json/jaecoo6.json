@@ -1,0 +1,225 @@
+{
+    "vehiculo": {
+        "marca": "Omoda-jaecoo",
+        "modelo": "JAECOO 6",
+        "versiones": [
+            "ANDES RWD",
+            "PATAGONIA I-WD"
+        ]
+    },
+    "motorizacion": {
+        "ANDES RWD": {
+            "bateria_kwh": 65.69,
+            "potencia_trasera_hp": "181 @6000-12000",
+            "potencia_trasera_kw": "135 @6000-12000",
+            "torque_trasero_nm": "220 @10-450",
+            "aceleracion_0_100": 10.5,
+            "autonomia_wltp_km": 335,
+            "traccion": "RWD",
+            "modos_manejo": 3
+        },
+        "PATAGONIA I-WD": {
+            "bateria_kwh": 69.77,
+            "potencia_delantera_hp": "93 @6000-12000",
+            "potencia_trasera_hp": "181 @6000-12000",
+            "potencia_total_kw": "70 + 135",
+            "torque_delantero_nm": "165 @10-4500",
+            "torque_trasero_nm": "220 @10-450",
+            "aceleracion_0_100": 6.5,
+            "autonomia_wltp_km": 364,
+            "traccion": "I-WD",
+            "modos_manejo": 8
+        }
+    },
+    "equipamiento_exterior": {
+        "Sunroof_panoramico": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Sensor_lluvia": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Espejos_abatibles_electricos": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Protector_cubre_chasis": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Gancho_tiro_delantero": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Barra_techo": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Luz_indicadora_carga": {
+            "ANDES": true,
+            "PATAGONIA": true
+        }
+    },
+    "equipamiento_interior": {
+        "Pantalla_touch_15_6": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Pantalla_cluster_9_2": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Apple_CarPlay_Android_Auto": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Audio_8_parlantes": {
+            "ANDES": true,
+            "PATAGONIA": false
+        },
+        "Audio_Premium_Infinity_12_parlantes": {
+            "ANDES": false,
+            "PATAGONIA": true
+        },
+        "Cargador_inalambrico_50W": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "ACC": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "ICA": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "TJA": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Climatizador_bizona": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Asiento_piloto_electrico_12_pos": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Asiento_piloto_memoria": {
+            "ANDES": false,
+            "PATAGONIA": true
+        },
+        "Asientos_calefaccionados": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Asiento_piloto_ventilado": {
+            "ANDES": false,
+            "PATAGONIA": true
+        },
+        "Luz_ambiente_configurable": {
+            "ANDES": true,
+            "PATAGONIA": true
+        }
+    },
+    "seguridad": {
+        "Airbags_6": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "ABS_EBD": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "ESP": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "TCS": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "HSA": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "HDC": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Camara_540_FHD": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "Sensores_delantero_trasero": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "FCW": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "AEB": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "LDW": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "LCA": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "LDP": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "ELK": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "IES": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "BSD": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "RCTA": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "TPMS": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "ISOFIX": {
+            "ANDES": true,
+            "PATAGONIA": true
+        },
+        "TOP_TETHER": {
+            "ANDES": true,
+            "PATAGONIA": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4342,
+        "ancho_mm": 1930,
+        "alto_mm": 1741,
+        "distancia_entre_ejes_mm": 2715,
+        "despeje_mm": 225,
+        "angulo_ataque": 32,
+        "angulo_salida": 34,
+        "pasajeros": 5
+    },
+    "colores": [
+        "Plata Techo Negro",
+        "Blanco Techo Negro",
+        "Negro",
+        "Verde Techo Negro",
+        "Gris Techo Negro"
+    ]
+}

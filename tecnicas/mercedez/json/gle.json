@@ -1,0 +1,324 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLE",
+        "año": null,
+        "versiones": [
+            "GLE 300 d 4MATIC",
+            "GLE 450 4MATIC",
+            "GLE 450 d 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLE 300 d 4MATIC": "L4",
+            "GLE 450 4MATIC": "L6",
+            "GLE 450 d 4MATIC": "L6"
+        },
+        "cilindrada": {
+            "GLE 300 d 4MATIC": 1993,
+            "GLE 450 4MATIC": 2999,
+            "GLE 450 d 4MATIC": 2989
+        },
+        "potencia_hp": {
+            "GLE 300 d 4MATIC": "269 CV (+20 CV)",
+            "GLE 450 4MATIC": "381 CV (+20 CV)",
+            "GLE 450 d 4MATIC": "367 CV (+20 CV)"
+        },
+        "potencia_rpm": {
+            "GLE 300 d 4MATIC": null,
+            "GLE 450 4MATIC": null,
+            "GLE 450 d 4MATIC": null
+        },
+        "torque_nm": {
+            "GLE 300 d 4MATIC": "550 Nm (+200 Nm)",
+            "GLE 450 4MATIC": "500 Nm (+200 Nm)",
+            "GLE 450 d 4MATIC": "750 Nm (+200 Nm)"
+        },
+        "torque_rpm": {
+            "GLE 300 d 4MATIC": null,
+            "GLE 450 4MATIC": null,
+            "GLE 450 d 4MATIC": null
+        },
+        "combustible": {
+            "GLE 300 d 4MATIC": "Diésel",
+            "GLE 450 4MATIC": "Gasolina",
+            "GLE 450 d 4MATIC": "Diésel"
+        },
+        "transmision": {
+            "GLE 300 d 4MATIC": "9G-TRONIC",
+            "GLE 450 4MATIC": "9G-TRONIC",
+            "GLE 450 d 4MATIC": "9G-TRONIC"
+        },
+        "traccion": {
+            "GLE 300 d 4MATIC": "Integral",
+            "GLE 450 4MATIC": "Integral",
+            "GLE 450 d 4MATIC": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLE 300 d 4MATIC": "19\" y 5 radios color negro brillante",
+            "GLE 450 4MATIC": "21\" AMG multirradio gris Himalaya",
+            "GLE 450 d 4MATIC": "21\" AMG multirradio gris Himalaya"
+        },
+        "rueda_repuesto": "Rueda plegable"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 630,
+        "capacidad_estanque_lts": 85,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLE 300 d 4MATIC": "230 km/h",
+            "GLE 450 4MATIC": "250 km/h",
+            "GLE 450 d 4MATIC": "250 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLE 300 d 4MATIC": "6,9 s",
+            "GLE 450 4MATIC": "5,6 s",
+            "GLE 450 d 4MATIC": "5,6 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLE 300 d 4MATIC": "14,3 km/L",
+            "GLE 450 4MATIC": "12,6 km/L",
+            "GLE 450 d 4MATIC": "12,3 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Línea exterior",
+                "GLE 300 d 4MATIC": "De serie",
+                "GLE 450 4MATIC": "AMG Line exterior",
+                "GLE 450 d 4MATIC": "AMG Line exterior"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "GLE 300 d 4MATIC": "19\" y 5 radios negro brillante",
+                "GLE 450 4MATIC": "AMG de 21\" diseño multirradio gris Himalaya",
+                "GLE 450 d 4MATIC": "AMG de 21\" diseño multirradio gris Himalaya"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": "Iluminadas en efecto aluminio con tacos de goma antideslizantes",
+                "GLE 450 d 4MATIC": "Iluminadas en efecto aluminio con tacos de goma antideslizantes"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Faros delanteros",
+                "GLE 300 d 4MATIC": "Faros LED High Performance",
+                "GLE 450 4MATIC": "MULTIBEAM LED con luces de carretera automáticas plus",
+                "GLE 450 d 4MATIC": "MULTIBEAM LED con luces de carretera automáticas plus"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Equipo de sonido",
+                "GLE 300 d 4MATIC": "Burmester® Surround con 13 altavoces y 590 vatios",
+                "GLE 450 4MATIC": "Burmester® Surround con 13 altavoces y 590 vatios",
+                "GLE 450 d 4MATIC": "Burmester® Surround con 13 altavoces y 590 vatios"
+            },
+            {
+                "caracteristica": "Cristales calorífugos oscuros",
+                "GLE 300 d 4MATIC": "Puertas pasajeros y traseros",
+                "GLE 450 4MATIC": "Puertas pasajeros y traseros",
+                "GLE 450 d 4MATIC": "Puertas pasajeros y traseros"
+            },
+            {
+                "caracteristica": "Tapicería",
+                "GLE 300 d 4MATIC": "Cuero artico",
+                "GLE 450 4MATIC": "Cuero artico",
+                "GLE 450 d 4MATIC": "Cuero artico"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente",
+                "GLE 300 d 4MATIC": "64 colores y 10 conceptos cromáticos",
+                "GLE 450 4MATIC": "64 colores y 10 conceptos cromáticos",
+                "GLE 450 d 4MATIC": "64 colores y 10 conceptos cromáticos"
+            },
+            {
+                "caracteristica": "Molduras",
+                "GLE 300 d 4MATIC": "Aluminio cepillado con rectificado longitudinal claro",
+                "GLE 450 4MATIC": "Madera de roble antracita de poros abiertos",
+                "GLE 450 d 4MATIC": "Madera de roble antracita de poros abiertos"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de serie",
+                "GLE 300 d 4MATIC": "Incluye airbags de cortina + airbag de rodillas",
+                "GLE 450 4MATIC": "Incluye airbags de cortina + airbag de rodillas",
+                "GLE 450 d 4MATIC": "Incluye airbags de cortina + airbag de rodillas"
+            },
+            {
+                "caracteristica": "Advertencia de punto ciego",
+                "GLE 300 d 4MATIC": "Señal en el retrovisor y advertencia acústica",
+                "GLE 450 4MATIC": "Señal en el retrovisor y advertencia acústica",
+                "GLE 450 d 4MATIC": "Señal en el retrovisor y advertencia acústica"
+            },
+            {
+                "caracteristica": "Rueda de emergencia",
+                "GLE 300 d 4MATIC": true,
+                "GLE 450 4MATIC": false,
+                "GLE 450 d 4MATIC": false
+            },
+            {
+                "caracteristica": "Rueda plegable",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente activo de distancia DISTRONIC",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente activo de dirección",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Detector activo de cambio de carril",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente activo de maniobra evasiva",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente activo de frenado",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Función de advertencia de salida",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Protección antirrobo GUARD 360°",
+                "GLE 300 d 4MATIC": "Incluye sensores volumétricos",
+                "GLE 450 4MATIC": "Incluye sensores volumétricos",
+                "GLE 450 d 4MATIC": "Incluye sensores volumétricos"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Propulsión híbrida parcial",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": "EQ-Boost",
+                "GLE 450 d 4MATIC": "EQ-Boost"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLE 300 d 4MATIC": "<<Hey Mercedes>>",
+                "GLE 450 4MATIC": "<<Hey Mercedes>>",
+                "GLE 450 d 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "GLE 300 d 4MATIC": "12,3\"",
+                "GLE 450 4MATIC": "12,3\"",
+                "GLE 450 d 4MATIC": "12,3\""
+            },
+            {
+                "caracteristica": "Puesto de conducción con pantalla digital",
+                "GLE 300 d 4MATIC": "12,3\"",
+                "GLE 450 4MATIC": "12,3\"",
+                "GLE 450 d 4MATIC": "12,3\""
+            },
+            {
+                "caracteristica": "Realidad aumentada para navegación MBUX",
+                "GLE 300 d 4MATIC": false,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLE 300 d 4MATIC": true,
+                "GLE 450 4MATIC": true,
+                "GLE 450 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "GLE 300 d 4MATIC": "Disponible en plazas delanteras",
+                "GLE 450 4MATIC": "Disponible en plazas delanteras",
+                "GLE 450 d 4MATIC": "Disponible en plazas delanteras"
+            },
+            {
+                "caracteristica": "Paquete confort KEYLESS-GO",
+                "GLE 300 d 4MATIC": "Incluye portón trasero Easy Pack",
+                "GLE 450 4MATIC": "Incluye portón trasero Easy Pack",
+                "GLE 450 d 4MATIC": "Incluye portón trasero Easy Pack"
+            },
+            {
+                "caracteristica": "Integración inalámbrica Smartphone",
+                "GLE 300 d 4MATIC": "Incluye cargador inalámbrico para plazas delanteras",
+                "GLE 450 4MATIC": "Incluye cargador inalámbrico para plazas delanteras",
+                "GLE 450 d 4MATIC": "Incluye cargador inalámbrico para plazas delanteras"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "GLE 300 d 4MATIC": "Incluye cámara 360° y capó transparente",
+                "GLE 450 4MATIC": "Incluye cámara 360° y capó transparente",
+                "GLE 450 d 4MATIC": "Incluye cámara 360° y capó transparente"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "GLE 300 d 4MATIC": "Calefactados y con kit de memorias",
+                "GLE 450 4MATIC": "Calefactados y con kit de memorias",
+                "GLE 450 d 4MATIC": "Calefactados y con kit de memorias"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLE (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica GLE Facelift - Digital.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó todo el equipamiento de seguridad, tecnología, interior y exterior diferenciando por versión."
+    }
+}

@@ -1,0 +1,524 @@
+{
+    "vehiculo": {
+        "marca": "Kia",
+        "modelo": "Carnival",
+        "año": 2026,
+        "versiones": [
+            "EX 3.5L GSL 8AT",
+            "EX 2.2L DSL 8AT",
+            "EX 3.5L GSL 8AT LTD",
+            "EX 2.2L DSL 8AT LTD",
+            "EX 1.6T HEV 6AT LTD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EX 3.5L GSL 8AT": "3.5 GSL",
+            "EX 2.2L DSL 8AT": "2.2 DSL",
+            "EX 3.5L GSL 8AT LTD": "3.5 GSL",
+            "EX 2.2L DSL 8AT LTD": "2.2 DSL",
+            "EX 1.6T HEV 6AT LTD": "1.6T HEV"
+        },
+        "cilindrada": {
+            "EX 3.5L GSL 8AT": 3470,
+            "EX 2.2L DSL 8AT": 2151,
+            "EX 3.5L GSL 8AT LTD": 3470,
+            "EX 2.2L DSL 8AT LTD": 2151,
+            "EX 1.6T HEV 6AT LTD": 1598
+        },
+        "potencia_hp": {
+            "EX 3.5L GSL 8AT": "268",
+            "EX 2.2L DSL 8AT": "199",
+            "EX 3.5L GSL 8AT LTD": "268",
+            "EX 2.2L DSL 8AT LTD": "199",
+            "EX 1.6T HEV 6AT LTD": "178"
+        },
+        "potencia_rpm": {
+            "EX 3.5L GSL 8AT": "6.400",
+            "EX 2.2L DSL 8AT": "3.800",
+            "EX 3.5L GSL 8AT LTD": "6.400",
+            "EX 2.2L DSL 8AT LTD": "3.800",
+            "EX 1.6T HEV 6AT LTD": "5.500"
+        },
+        "torque_nm": {
+            "EX 3.5L GSL 8AT": "332",
+            "EX 2.2L DSL 8AT": "440",
+            "EX 3.5L GSL 8AT LTD": "332",
+            "EX 2.2L DSL 8AT LTD": "440",
+            "EX 1.6T HEV 6AT LTD": "265"
+        },
+        "torque_rpm": {
+            "EX 3.5L GSL 8AT": "5.000",
+            "EX 2.2L DSL 8AT": "1.750~2.750",
+            "EX 3.5L GSL 8AT LTD": "5.000",
+            "EX 2.2L DSL 8AT LTD": "1.750~2.750",
+            "EX 1.6T HEV 6AT LTD": "1.500~4.500"
+        },
+        "combustible": {
+            "EX 3.5L GSL 8AT": "Gasolina (95)",
+            "EX 2.2L DSL 8AT": "Diésel",
+            "EX 3.5L GSL 8AT LTD": "Gasolina (95)",
+            "EX 2.2L DSL 8AT LTD": "Diésel",
+            "EX 1.6T HEV 6AT LTD": "Gasolina (95)"
+        },
+        "transmision": {
+            "EX 3.5L GSL 8AT": "Automática secuencial 8 velocidades",
+            "EX 2.2L DSL 8AT": "Automática secuencial 8 velocidades",
+            "EX 3.5L GSL 8AT LTD": "Automática secuencial 8 velocidades",
+            "EX 2.2L DSL 8AT LTD": "Automática secuencial 8 velocidades",
+            "EX 1.6T HEV 6AT LTD": "Automática secuencial 6 velocidades"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson Strut",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Electrónico (EPB)",
+        "neumaticos": {
+            "EX 3.5L GSL 8AT": "235/60R18",
+            "EX 2.2L DSL 8AT": "235/60R18",
+            "EX 3.5L GSL 8AT LTD": "235/55R19",
+            "EX 2.2L DSL 8AT LTD": "235/55R19",
+            "EX 1.6T HEV 6AT LTD": "235/55R19"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 5155,
+        "ancho_mm": 1995,
+        "alto_mm": {
+            "EX 3.5L GSL 8AT": 1775,
+            "EX 2.2L DSL 8AT": 1775,
+            "EX 3.5L GSL 8AT LTD": 1775,
+            "EX 2.2L DSL 8AT LTD": 1775,
+            "EX 1.6T HEV 6AT LTD": 1785
+        },
+        "distancia_ejes_mm": 3090,
+        "despeje_suelo_mm": {
+            "EX 3.5L GSL 8AT": 162,
+            "EX 2.2L DSL 8AT": 162,
+            "EX 3.5L GSL 8AT LTD": 162,
+            "EX 2.2L DSL 8AT LTD": 162,
+            "EX 1.6T HEV 6AT LTD": 172
+        },
+        "peso_bruto_kg": {
+            "EX 3.5L GSL 8AT": 2880,
+            "EX 2.2L DSL 8AT": 2890,
+            "EX 3.5L GSL 8AT LTD": 2880,
+            "EX 2.2L DSL 8AT LTD": 2890,
+            "EX 1.6T HEV 6AT LTD": 2980
+        },
+        "capacidad_maletero_lts": "2.827 / 627",
+        "capacidad_estanque_lts": 72,
+        "numero_pasajeros": 8
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo NEDC ciudad (km/l)",
+            "EX 3.5L GSL 8AT": "6,8",
+            "EX 2.2L DSL 8AT": "11,0",
+            "EX 3.5L GSL 8AT LTD": "6,8",
+            "EX 2.2L DSL 8AT LTD": "11,0",
+            "EX 1.6T HEV 6AT LTD": null
+        },
+        {
+            "caracteristica": "Consumo NEDC carretera (km/l)",
+            "EX 3.5L GSL 8AT": "12,9",
+            "EX 2.2L DSL 8AT": "17,6",
+            "EX 3.5L GSL 8AT LTD": "12,9",
+            "EX 2.2L DSL 8AT LTD": "17,6",
+            "EX 1.6T HEV 6AT LTD": null
+        },
+        {
+            "caracteristica": "Consumo NEDC mixto (km/l)",
+            "EX 3.5L GSL 8AT": "9,8",
+            "EX 2.2L DSL 8AT": "14,4",
+            "EX 3.5L GSL 8AT LTD": "9,8",
+            "EX 2.2L DSL 8AT LTD": "14,4",
+            "EX 1.6T HEV 6AT LTD": null
+        },
+        {
+            "caracteristica": "Combinado/Mixto (km/l)",
+            "EX 3.5L GSL 8AT": null,
+            "EX 2.2L DSL 8AT": null,
+            "EX 3.5L GSL 8AT LTD": null,
+            "EX 2.2L DSL 8AT LTD": null,
+            "EX 1.6T HEV 6AT LTD": "14,4"
+        },
+        {
+            "caracteristica": "Urbano sin autopista (km/l)",
+            "EX 3.5L GSL 8AT": null,
+            "EX 2.2L DSL 8AT": null,
+            "EX 3.5L GSL 8AT LTD": null,
+            "EX 2.2L DSL 8AT LTD": null,
+            "EX 1.6T HEV 6AT LTD": "13,1"
+        },
+        {
+            "caracteristica": "Urbano con autopista urbana (km/l)",
+            "EX 3.5L GSL 8AT": null,
+            "EX 2.2L DSL 8AT": null,
+            "EX 3.5L GSL 8AT LTD": null,
+            "EX 2.2L DSL 8AT LTD": null,
+            "EX 1.6T HEV 6AT LTD": "16,6"
+        },
+        {
+            "caracteristica": "Rural con autopista rural (km/l)",
+            "EX 3.5L GSL 8AT": null,
+            "EX 2.2L DSL 8AT": null,
+            "EX 3.5L GSL 8AT LTD": null,
+            "EX 2.2L DSL 8AT LTD": null,
+            "EX 1.6T HEV 6AT LTD": "17,1"
+        },
+        {
+            "caracteristica": "Autopista interurbana (km/l)",
+            "EX 3.5L GSL 8AT": null,
+            "EX 2.2L DSL 8AT": null,
+            "EX 3.5L GSL 8AT LTD": null,
+            "EX 2.2L DSL 8AT LTD": null,
+            "EX 1.6T HEV 6AT LTD": "12,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras LED (3-Cube MFR)",
+                "EX 3.5L GSL 8AT": true,
+                "EX 2.2L DSL 8AT": true,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 18'' bitono diamantada",
+                "EX 3.5L GSL 8AT": true,
+                "EX 2.2L DSL 8AT": true,
+                "EX 3.5L GSL 8AT LTD": false,
+                "EX 2.2L DSL 8AT LTD": false,
+                "EX 1.6T HEV 6AT LTD": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 19\" bitono diamantada",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 19'' (D-Type)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": false,
+                "EX 2.2L DSL 8AT LTD": false,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Vidrios tintados delanteros tipo solar",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Vidrios tintados traseros tipo privacy glass",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Puertas correderas eléctricas",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Puerta trasera inteligente",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Manillas exteriores semi-cromadas",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Detalles exteriores cromados",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Luz de cortesía exterior en puertas (Spot lamp)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Sunroof dual eléctrico",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Luces delanteras Full LED (4-Cube Projection)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": false,
+                "EX 2.2L DSL 8AT LTD": false,
+                "EX 1.6T HEV 6AT LTD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster de supervisión digital 12,3\"",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Asiento conductor con memoria",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Asiento conductor con soporte lumbar eléctrico (4p)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Asiento pasajero eléctrico",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Palanca de cambios dial (E-Shift)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Paddle Shifter",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Cortinas traseras 2da/3ra fila",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Sistema de audio Premium Bose (12 parlantes)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático (ECM)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Asistente de colisión en estacionamiento (PCA)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamientos laterales",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Cámara 360° con visión 3D (SVM)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            },
+            {
+                "caracteristica": "Monitor de punto ciego (BVM)",
+                "EX 3.5L GSL 8AT": false,
+                "EX 2.2L DSL 8AT": false,
+                "EX 3.5L GSL 8AT LTD": true,
+                "EX 2.2L DSL 8AT LTD": true,
+                "EX 1.6T HEV 6AT LTD": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Barras en techo",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Espejos ext. con señalizador/abat. eléctricamente",
+            "Guardafangos delanteros y traseros",
+            "Limpiaparabrisas trasero oculto",
+            "Vidrios tintados totales",
+            "Spoiler trasero",
+            "Luces diurnas (DRL) LED",
+            "Neblineros delanteros LED"
+        ],
+        "interior": [
+            "Radio touch LCD 12,3\"",
+            "Conect. inalámbrica Apple CarPlay & Android Auto",
+            "Cluster de supervisión digital 12,3\" (4,2\" INFO)",
+            "Bluetooth con reconocimiento de voz",
+            "Cargador inalámbrico para celulares",
+            "Control de audio en volante",
+            "Tweeters",
+            "Puertos USB-C en consola central (2)",
+            "Puertos USB-C en 2da/3ra fila (4)",
+            "Salida 12V en las tres filas de asientos",
+            "Smart key y botón de encendido",
+            "Encendido de motor a distancia",
+            "Climatizador dual",
+            "Climatizador en 2da fila",
+            "Sensor de lluvia",
+            "Modo de selección de manejo (Eco/Normal/Sport/Smart)",
+            "Asientos abatibles 60:40 2da fila",
+            "Asientos abatibles 50:50 3ra fila",
+            "Asientos 2da y 3ra fila con función Walk-in",
+            "Asientos 2da fila configurables",
+            "Volante regulable en altura y profundidad",
+            "Volante y palanca de cambio de cuero",
+            "Alzavidrios totales con Auto Up/Down & Safety",
+            "Freno de estacionamiento eléctrico (EPB)",
+            "Encendido automático de luces",
+            "Asientos con tapiz de eco-cuero",
+            "Asiento conductor eléctrico con soporte lumbar (2p)",
+            "Control crucero"
+        ],
+        "seguridad": [
+            "Anclaje ISOFIX en 2da/3ra fila (5 en total)",
+            "Inmovilizador",
+            "Alarma",
+            "Cierre centralizado por sensor de velocidad (20km/h)",
+            "Cierre centralizado en puerta de piloto y copiloto",
+            "Cint. de seguridad de 3 puntas en todos los asientos",
+            "Cinturón de seguridad delanteros pretensionados",
+            "Alerta de cint. de seguridad para todos los asientos",
+            "Alerta asiento pasajero trasero (ROA)",
+            "Frenos de disco trasero y delantero",
+            "Airbags frontales delanteros",
+            "Airbags laterales y airbags de cortina",
+            "Airbag de rodilla",
+            "Airbag lateral central",
+            "Cámara de retroceso con líneas adaptativas",
+            "Sensor de proximidad delantero y trasero",
+            "Frenos ABS con EBD",
+            "Control de estabilidad (ESC)",
+            "Sistema de estabilidad (VSM)",
+            "Asistente de partida en pendiente (HAC)",
+            "Asistente de descenso en pendiente (DBC)",
+            "Asistente de estabilidad de remolque (TSA)",
+            "Sistema de asistencia de frenado (BAS)",
+            "Sistema de detección de punto ciego (BSD)",
+            "Sistema de detección de tráfico cruzado (RCTA)",
+            "Alerta de atención al conductor (DAW)",
+            "Asistente de luces altas (HBA)",
+            "Asistente de salida segura (SEA)",
+            "Asistente de colisión frontal (FCA)",
+            "Asistente de colisión frontal en giro/cruces (FCA-JX)",
+            "Asistente de intervención de punto ciego (BCA)",
+            "Asistente de seguimiento de carril (LFA)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Control crucero inteligente con Stop & Go (SCC)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO SNOW (SWP)",
+        "PLATA MARFIL (ISG)",
+        "GRIS PANTERA (P2M)",
+        "AZUL DEEP METALIZADO (D9B)",
+        "AZUL GRAFITO (D2U)",
+        "ROJO GRANATE (C7R)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-16",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Kia (punto negro=true, punto blanco o -=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Carnival-Hibrido.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó toda la información visible del documento. En rendimiento NEDC se conservaron los valores de versiones GSL y DSL, y en HEV se usaron las filas WLTP/3CV visibles en la ficha, dejando null donde no aplica o no aparece valor."
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "KONA Electrico",
+        "año": null,
+        "versiones": [
+            "EV_GO",
+            "EV_GO_LR"
+        ]
+    },
+    "motor": {
+        "tipo": "Motor Síncrono de Imán Permanente",
+        "cilindrada": null,
+        "potencia_hp": {
+            "EV_GO": "99 kW / 133 hp",
+            "EV_GO_LR": "150 kW / 201 hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": "255 Nm",
+        "torque_rpm": null,
+        "combustible": "Electricidad",
+        "transmision": "Caja reductora de velocidad única",
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Eléctrica-Asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi-Punto",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": "215/60 R17",
+        "rueda_repuesto": "Kit de movilidad temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4355,
+        "ancho_mm": 1825,
+        "alto_mm": 1575,
+        "distancia_ejes_mm": 2660,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "EV_GO": 2110,
+            "EV_GO_LR": 2220
+        },
+        "capacidad_maletero_lts": "466 (min) / 1300 (max)",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación",
+            "EV_GO": "17\"",
+            "EV_GO_LR": "17\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía WLTP",
+            "EV_GO": "370 KM",
+            "EV_GO_LR": "505 KM"
+        },
+        {
+            "caracteristica": "Consumo (km/kWh)",
+            "EV_GO": "4,8",
+            "EV_GO_LR": "4,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "Asistente de partida en pendiente HAC",
+            "Cámara de retroceso con guías dinámicas",
+            "Control de Estabilidad (ESC)",
+            "Monitor de Presión de Neumáticos (TPMS)",
+            "Sensor de estacionamiento delantero y trasero",
+            "Alerta pasajeros traseros sin sensor",
+            "LKA",
+            "LFA",
+            "FCA",
+            "SSC - Control Crucero Adaptativo"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos totales con auto up/down y antiapriete",
+            "Asientos abatibles 60/40",
+            "Botonera de Cambios (E-Shift By Wire)",
+            "Cargador inalámbrico de celular",
+            "Climatizador + desempañador automático",
+            "Cluster digital 12,3\"",
+            "Control de audio y bluetooth al volante",
+            "Encendido automático de luces",
+            "Freno de mano electrónico con Auto Hold",
+            "Llave inteligente con botón de encendido",
+            "Luces delanteras LED",
+            "Luces traseras LED",
+            "Luz de día LED",
+            "Neblinero trasero",
+            "Paddle Shift",
+            "Radio Touch 12,3\" Apple CarPlay & Android Auto",
+            "Retrovisores eléctricos plegables con señalizador",
+            "Retrovisores eléctricos calefaccionados",
+            "Selección modo manejo (Normal, Sport, ECO, ECO+)",
+            "Tapiz Tela",
+            "Tweeters",
+            "Volante regulación altura y profundidad",
+            "Volante forrado en cuero",
+            "3 Puertos USB-C"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-kona-ev.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos únicamente desde la tabla comparativa visual del documento."
+    }
+}

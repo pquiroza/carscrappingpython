@@ -1,0 +1,237 @@
+{
+    "vehiculo": {
+        "marca": "Honda",
+        "modelo": "CR-V",
+        "año": null,
+        "versiones": [
+            "EX-T 1.5 Turbo 4X2 CVT",
+            "TOURING 1.5 Turbo 4X4 CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EX-T 1.5 Turbo 4X2 CVT": "4 cilindros en línea",
+            "TOURING 1.5 Turbo 4X4 CVT": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "EX-T 1.5 Turbo 4X2 CVT": 1498,
+            "TOURING 1.5 Turbo 4X4 CVT": 1498
+        },
+        "potencia_hp": {
+            "EX-T 1.5 Turbo 4X2 CVT": "188",
+            "TOURING 1.5 Turbo 4X4 CVT": "188"
+        },
+        "potencia_rpm": {
+            "EX-T 1.5 Turbo 4X2 CVT": "6600",
+            "TOURING 1.5 Turbo 4X4 CVT": "6600"
+        },
+        "torque_nm": {
+            "EX-T 1.5 Turbo 4X2 CVT": "240",
+            "TOURING 1.5 Turbo 4X4 CVT": "240"
+        },
+        "torque_rpm": {
+            "EX-T 1.5 Turbo 4X2 CVT": "1700-5000",
+            "TOURING 1.5 Turbo 4X4 CVT": "1700-5000"
+        },
+        "combustible": "Gasolina sin plomo",
+        "transmision": {
+            "EX-T 1.5 Turbo 4X2 CVT": "Transmisión variable continua (CVT)",
+            "TOURING 1.5 Turbo 4X4 CVT": "Transmisión variable continua (CVT)"
+        },
+        "traccion": {
+            "EX-T 1.5 Turbo 4X2 CVT": null,
+            "TOURING 1.5 Turbo 4X4 CVT": "Sistema de tracción al instante (Real Time) AWD, con sistema de control inteligente"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica asistida de piñón y cremallera (EPS) con relación variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera con amortiguadores tipo MacPherson",
+        "suspension_trasera": "Suspensión trasera de doble brazo oscilante con enlaces múltiples",
+        "frenos_delanteros": "Frenos delanteros de discos ventilados con asistencia electrónica",
+        "frenos_traseros": "Frenos traseros de disco sólido",
+        "freno_estacionamiento": "Freno de estacionamiento electrónico con mantenimiento de freno automático",
+        "neumaticos": {
+            "EX-T 1.5 Turbo 4X2 CVT": "235/60R18 103H",
+            "TOURING 1.5 Turbo 4X4 CVT": "235/55R19 101V"
+        },
+        "rueda_repuesto": "Neumático de repuesto de tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 4706,
+        "ancho_mm": 1866,
+        "alto_mm": {
+            "EX-T 1.5 Turbo 4X2 CVT": 1680,
+            "TOURING 1.5 Turbo 4X4 CVT": 1690
+        },
+        "distancia_ejes_mm": {
+            "EX-T 1.5 Turbo 4X2 CVT": 2701,
+            "TOURING 1.5 Turbo 4X4 CVT": 2700
+        },
+        "despeje_suelo_mm": {
+            "EX-T 1.5 Turbo 4X2 CVT": 198,
+            "TOURING 1.5 Turbo 4X4 CVT": 208
+        },
+        "peso_bruto_kg": {
+            "EX-T 1.5 Turbo 4X2 CVT": 1602,
+            "TOURING 1.5 Turbo 4X4 CVT": 1680
+        },
+        "capacidad_maletero_lts": "1113/2166",
+        "capacidad_estanque_lts": 57,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "EX-T 1.5 Turbo 4X2 CVT": "18\"",
+                "TOURING 1.5 Turbo 4X4 CVT": "19\""
+            },
+            {
+                "caracteristica": "Rieles de techo",
+                "EX-T 1.5 Turbo 4X2 CVT": false,
+                "TOURING 1.5 Turbo 4X4 CVT": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas intermitentes variables",
+                "EX-T 1.5 Turbo 4X2 CVT": null,
+                "TOURING 1.5 Turbo 4X4 CVT": "SENSOR DE LLUVIA"
+            },
+            {
+                "caracteristica": "Puerta trasera eléctrica con altura programable",
+                "EX-T 1.5 Turbo 4X2 CVT": true,
+                "TOURING 1.5 Turbo 4X4 CVT": "CON ACCESO MANOS LIBRES"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sistema automático de climatización",
+                "EX-T 1.5 Turbo 4X2 CVT": null,
+                "TOURING 1.5 Turbo 4X4 CVT": "DOBLE ZONA"
+            },
+            {
+                "caracteristica": "Espejos de vanidad del conductor y del pasajero delantero",
+                "EX-T 1.5 Turbo 4X2 CVT": null,
+                "TOURING 1.5 Turbo 4X4 CVT": "ILUMINADO"
+            },
+            {
+                "caracteristica": "Volante y palanca de cambios forrados en cuero",
+                "EX-T 1.5 Turbo 4X2 CVT": false,
+                "TOURING 1.5 Turbo 4X4 CVT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor con atenuación automática",
+                "EX-T 1.5 Turbo 4X2 CVT": false,
+                "TOURING 1.5 Turbo 4X4 CVT": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con ajuste eléctrico de 10 posiciones, incluye apoyo lumbar eléctrico de 2 posiciones",
+                "EX-T 1.5 Turbo 4X2 CVT": true,
+                "TOURING 1.5 Turbo 4X4 CVT": "CON MEMORIA DE DOS POSICIONES"
+            },
+            {
+                "caracteristica": "Asientos tapizados en cuero",
+                "EX-T 1.5 Turbo 4X2 CVT": false,
+                "TOURING 1.5 Turbo 4X4 CVT": true
+            },
+            {
+                "caracteristica": "Asiento del pasajero delantero con ajuste eléctrico de 4 posiciones",
+                "EX-T 1.5 Turbo 4X2 CVT": "Manual",
+                "TOURING 1.5 Turbo 4X4 CVT": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de audio",
+                "EX-T 1.5 Turbo 4X2 CVT": "Sistema de audio de 8 altavoces",
+                "TOURING 1.5 Turbo 4X4 CVT": "Sistema de audio Bose premium con 12 altavoces, incluye subwoofer"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros LED con encendido/apagado automático",
+            "Freno LED y luces traseras",
+            "Amortiguador de capó",
+            "Antena de techo tipo aleta del color de la carrocería",
+            "Limpiaparabrisas/lavaparabrisas intermitentes de la luneta trasera con acoplamiento inverso",
+            "Sistema de entrada a distancia",
+            "Manillas de puerta del color de la carrocería",
+            "Sistema de entrada inteligente con bloqueo automático Walk Away",
+            "Spoiler trasero del techo del color de la carrocería con luz de freno integrada",
+            "Espejos laterales eléctricos plegables con indicadores de dirección LED integrados",
+            "Guardabarros",
+            "Techo corredizo eléctrico de un toque con función de inclinación",
+            "Sensores de retroceso (delanteros / traseros)"
+        ],
+        "interior": [
+            "Control de crucero",
+            "Indicadores de dirección de un toque",
+            "Almacenamiento en la consola central multifuncional con apoyabrazos",
+            "Parasoles deslizantes",
+            "Soportes para bebidas (delantero / trasero)",
+            "Guantera con bloqueo",
+            "Contenedores de almacenamiento con bolsillo en la puerta",
+            "Luces de mapa LED",
+            "Alfombras de piso",
+            "Reposabrazos central del asiento trasero",
+            "Gancho para ropa del lado del conductor",
+            "Anclajes de amarre del área de carga",
+            "Luz del área de carga LED",
+            "Botón de encendido",
+            "Ventanas eléctricas con subida/bajada automática para todas las ventanas",
+            "Anclajes de cinturones de seguridad delanteros ajustables",
+            "Respaldo trasero reclinable, plegable y separado 60/40"
+        ],
+        "seguridad": [
+            "Cámara de visión trasera multiángulo con directrices dinámicas",
+            "Asistencia de estabilidad del vehículo (VSA)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución electrónica de freno (EBD) con Brake Assist",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Luces LED de conducción diurna (DRL)",
+            "Estructura de carrocería de ingeniería de compatibilidad avanzada (ACE)",
+            "Airbag delanteros (SRS)",
+            "Airbag delantero de rodilla (SRS)",
+            "Airbags laterales delanteros",
+            "Airbag tipo cortina",
+            "Cinturones de seguridad de 3 puntos en todos los asientos",
+            "Anclajes inferiores y sujeciones para niños (LATCH), exterior de 2da fila",
+            "Recordatorio del cinturón de seguridad para todas las posiciones de asiento",
+            "Cerraduras de las puertas traseras a prueba de niños",
+            "Cerraduras eléctricas de puertas y portón trasero"
+        ],
+        "tecnologia": [
+            "Pantalla de interfaz de información para el conductor de 7 pulgadas",
+            "Enlace manos libres Bluetooth",
+            "Transmisión de audio Bluetooth",
+            "Aplicación de integración de smartphone inalámbrico en el coche",
+            "Interfaz de audio/teléfono inteligente USB de 2.5 amperios (consola delantera)",
+            "Puerto de carga USB-C de 3.0 amperios (consola delantera)",
+            "Tomacorriente de 12 voltios (consola delantera y área de carga)"
+        ],
+        "adas": [
+            "Faros automáticos de luces altas",
+            "Sistema de frenos para mitigación de colisión (CMBS)",
+            "Sistema de mitigación de salida de vía (RDM)",
+            "Control de crucero adaptable (ACC) con seguimiento a baja velocidad",
+            "Sistema de asistencia para mantenerse en el carril (LKAS)",
+            "Advertencia de colisión frontal (FCW)",
+            "Advertencia de cambio de carril (LDW)",
+            "Cámara de punto ciego (LaneWatch)",
+            "Recordatorio del asiento trasero (RSR)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Honda (SI/punto=presente, vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha_CRV_new.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo motor, chasis/suspensión, dimensiones/interior, combustible, características exteriores, seguridad, confort, audio y ADAS tal como aparecen en la tabla comparativa por versión."
+    }
+}

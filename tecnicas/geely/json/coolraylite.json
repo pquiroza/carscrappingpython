@@ -1,0 +1,195 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "Coolray Lite",
+        "año": null,
+        "versiones": [
+            "Coolray Lite Pop",
+            "Coolray Lite Prime",
+            "Coolray Lite Pop Plus",
+            "Coolray Lite Prime Plus"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Coolray Lite Pop": "1499 / 4 cilindros en línea",
+            "Coolray Lite Prime": "1499 / 4 cilindros en línea",
+            "Coolray Lite Pop Plus": "1499 / 4 cilindros en línea",
+            "Coolray Lite Prime Plus": "1499 / 4 cilindros en línea"
+        },
+        "cilindrada": {
+            "Coolray Lite Pop": 1499,
+            "Coolray Lite Prime": 1499,
+            "Coolray Lite Pop Plus": 1499,
+            "Coolray Lite Prime Plus": 1499
+        },
+        "potencia_hp": {
+            "Coolray Lite Pop": "121",
+            "Coolray Lite Prime": "121",
+            "Coolray Lite Pop Plus": "121",
+            "Coolray Lite Prime Plus": "121"
+        },
+        "potencia_rpm": {
+            "Coolray Lite Pop": null,
+            "Coolray Lite Prime": null,
+            "Coolray Lite Pop Plus": null,
+            "Coolray Lite Prime Plus": null
+        },
+        "torque_nm": {
+            "Coolray Lite Pop": "152",
+            "Coolray Lite Prime": "152",
+            "Coolray Lite Pop Plus": "152",
+            "Coolray Lite Prime Plus": "152"
+        },
+        "torque_rpm": {
+            "Coolray Lite Pop": null,
+            "Coolray Lite Prime": null,
+            "Coolray Lite Pop Plus": null,
+            "Coolray Lite Prime Plus": null
+        },
+        "combustible": null,
+        "transmision": {
+            "Coolray Lite Pop": "5 MT",
+            "Coolray Lite Prime": "CVT",
+            "Coolray Lite Pop Plus": "5 MT",
+            "Coolray Lite Prime Plus": "CVT"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Torsion beam",
+        "frenos_delanteros": "Ventilados",
+        "frenos_traseros": "Sólidos",
+        "freno_estacionamiento": {
+            "Coolray Lite Pop": "Manual",
+            "Coolray Lite Prime": "Eléctrónico (EPB)",
+            "Coolray Lite Pop Plus": "Manual",
+            "Coolray Lite Prime Plus": "Eléctrónico (EPB)"
+        },
+        "neumaticos": null,
+        "rueda_repuesto": "Rueda de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 4330,
+        "ancho_mm": 1800,
+        "alto_mm": 1609,
+        "distancia_ejes_mm": 2600,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 330,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales",
+                "Coolray Lite Pop": false,
+                "Coolray Lite Prime": true,
+                "Coolray Lite Pop Plus": true,
+                "Coolray Lite Prime Plus": true
+            },
+            {
+                "caracteristica": "Airbags cortina",
+                "Coolray Lite Pop": false,
+                "Coolray Lite Prime": false,
+                "Coolray Lite Pop Plus": true,
+                "Coolray Lite Prime Plus": true
+            },
+            {
+                "caracteristica": "Asistencia de frenado",
+                "Coolray Lite Pop": false,
+                "Coolray Lite Prime": true,
+                "Coolray Lite Pop Plus": false,
+                "Coolray Lite Prime Plus": true
+            },
+            {
+                "caracteristica": "Control de tracción",
+                "Coolray Lite Pop": false,
+                "Coolray Lite Prime": true,
+                "Coolray Lite Pop Plus": false,
+                "Coolray Lite Prime Plus": true
+            },
+            {
+                "caracteristica": "Asistente en pendiente y control de descenso en pendiente",
+                "Coolray Lite Pop": false,
+                "Coolray Lite Prime": true,
+                "Coolray Lite Pop Plus": false,
+                "Coolray Lite Prime Plus": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Focos delanteros halógenos con on/off automático",
+            "Función Follow Me Home",
+            "Luces LED de circulación diurna",
+            "Luz antiniebla trasera LED",
+            "Luces traseras LED",
+            "Intermitentes LED",
+            "Alerón trasero",
+            "Espejos laterales ajustables eléctricamente",
+            "Limpiaparabrisas sin marco",
+            "Desempañador eléctrico del vidrio trasero",
+            "Barras de techo",
+            "Antena oculta",
+            "Ajuste manual de la altura de los focos",
+            "Llantas aleación aluminio 16 pulgadas",
+            "Rueda de emergencia"
+        ],
+        "interior": [
+            "Tapiz Cuero Sintético",
+            "Volante multifuncional",
+            "Botón de encendido",
+            "Asiento del conductor ajuste manualmente en 6 direcciones",
+            "Asiento del pasajero ajuste manual en 4 direcciones",
+            "Alzavidrio eléctrico",
+            "Cierre centralizado",
+            "Aire condicionado eléctrico",
+            "Pantalla Touchscreen 8\"",
+            "Cuadro de instrumentos 3,5\"",
+            "Apple CarPlay",
+            "2 parlantes + 2 tweeters",
+            "Apoyabrazos central trasero con portavasos",
+            "USB",
+            "Bluetooth",
+            "Cubremaleta"
+        ],
+        "seguridad": [
+            "Airbags frontales",
+            "ABS",
+            "EBD",
+            "Sistema de monitereo de presión de neumáticos, indirecto",
+            "Sistema de control electrónico de estabilidad",
+            "Control crucero",
+            "Cámara de retroceso",
+            "Sensores de estacionamiento trasero",
+            "Aviso de cinturón de seguridad no abrochado en la parte delantera",
+            "Cinturones de seguridad limitadores de fuerza en la parte delantera",
+            "Bloqueo automático de puertas al conducir",
+            "Sistema de antirrobo electrónico",
+            "Alarma antirrobo",
+            "Seguro para niños en puerta trasera",
+            "ISOFIX"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "COOLRAY-LITE-FICHA-TECNICA-F.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajeron las múltiples tablas del documento manteniendo el mismo formato JSON. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Nivus",
+        "año": null,
+        "versiones": [
+            "Comfortline MT",
+            "Comfortline AT",
+            "Highline AT",
+            "Highline AT Outfit"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline MT": "1.0 TSI",
+            "Comfortline AT": "1.0 TSI",
+            "Highline AT": "1.0 TSI",
+            "Highline AT Outfit": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Comfortline MT": 1.0,
+            "Comfortline AT": 1.0,
+            "Highline AT": 1.0,
+            "Highline AT Outfit": 1.0
+        },
+        "potencia_hp": {
+            "Comfortline MT": "101",
+            "Comfortline AT": "116",
+            "Highline AT": "116",
+            "Highline AT Outfit": "116"
+        },
+        "potencia_rpm": {
+            "Comfortline MT": "5.000",
+            "Comfortline AT": "5.500",
+            "Highline AT": "5.500",
+            "Highline AT Outfit": "5.500"
+        },
+        "torque_nm": {
+            "Comfortline MT": "170",
+            "Comfortline AT": "200",
+            "Highline AT": "200",
+            "Highline AT Outfit": "200"
+        },
+        "torque_rpm": {
+            "Comfortline MT": "2.000-3.500",
+            "Comfortline AT": "2.000-3.500",
+            "Highline AT": "2.000-3.500",
+            "Highline AT Outfit": "2.000-3.500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfortline MT": "Manual 5 Vel.",
+            "Comfortline AT": "Automática 6 Vel.",
+            "Highline AT": "Automática 6 Vel.",
+            "Highline AT Outfit": "Automática 6 Vel."
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": {
+            "Comfortline MT": "Tambor",
+            "Comfortline AT": "Tambor",
+            "Highline AT": "Discos",
+            "Highline AT Outfit": "Discos"
+        },
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfortline MT": "205/60 R16",
+            "Comfortline AT": "205/60 R16",
+            "Highline AT": "205/55 R17",
+            "Highline AT Outfit": "205/55 R17"
+        },
+        "rueda_repuesto": {
+            "Comfortline MT": true,
+            "Comfortline AT": true,
+            "Highline AT": true,
+            "Highline AT Outfit": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4266,
+        "ancho_mm": 1757,
+        "alto_mm": 1525,
+        "distancia_ejes_mm": 2566,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 415,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline MT": "11",
+            "Comfortline AT": "11,2",
+            "Highline AT": "11,2",
+            "Highline AT Outfit": "11,2"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline MT": "15,2",
+            "Comfortline AT": "15",
+            "Highline AT": "15",
+            "Highline AT Outfit": "15"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline MT": "19,8",
+            "Comfortline AT": "18,7",
+            "Highline AT": "18,7",
+            "Highline AT Outfit": "18,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Retrovisores exteriores color carrocería",
+                "Comfortline MT": true,
+                "Comfortline AT": true,
+                "Highline AT": true,
+                "Highline AT Outfit": false
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles eléctricamente",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Barras longitudinales en techo",
+                "Comfortline MT": "Negro",
+                "Comfortline AT": "Negro",
+                "Highline AT": "Plata anonizada",
+                "Highline AT Outfit": "Negro"
+            },
+            {
+                "caracteristica": "Techo y espejos color carrocería",
+                "Comfortline MT": "Sí",
+                "Comfortline AT": "Sí",
+                "Highline AT": "Sí",
+                "Highline AT Outfit": "Negro"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Comfortline MT": "Tela",
+                "Comfortline AT": "Tela",
+                "Highline AT": "Cuero Sintético",
+                "Highline AT Outfit": "Cuero Sintético"
+            },
+            {
+                "caracteristica": "Reposabrazo central delantero con salida de aire trasera",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior electrocromático",
+                "Comfortline MT": "Manual",
+                "Comfortline AT": "Manual",
+                "Highline AT": "Automático",
+                "Highline AT Outfit": "Automático"
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "Comfortline MT": true,
+                "Comfortline AT": true,
+                "Highline AT": false,
+                "Highline AT Outfit": false
+            },
+            {
+                "caracteristica": "Climatizador",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos digital Active Info Display",
+                "Comfortline MT": "8\"",
+                "Comfortline AT": "8\"",
+                "Highline AT": "10,25\"",
+                "Highline AT Outfit": "10,25\""
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "Comfortline MT": true,
+                "Comfortline AT": false,
+                "Highline AT": false,
+                "Highline AT Outfit": false
+            },
+            {
+                "caracteristica": "Control de velocidad crucero adaptativo (ACC)",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Keyless Entry y Botón de encendido",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Paddle Shifts",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Park Assist",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Front Assist frenado de emergencia en ciudad",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Detector punto ciego",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Asistente de Tráfico Cruzado",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Lane Assist",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Detector de fatiga",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            },
+            {
+                "caracteristica": "Indicador de presión de neumáticos",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true,
+                "Highline AT Outfit": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces diurnas LED (DRL)",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Función \"Coming and Leaving Home\"",
+            "Retrovisores exteriores eléctricos con señalizador",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Asiento conductor con ajuste de altura",
+            "Asientos traseros abatibles",
+            "Volante multifunción forrado en cuero"
+        ],
+        "interior": [],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de tracción (ASR)",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Anclaje ISOFIX para asientos de niños",
+            "Inmovilizador electrónico y alarma",
+            "Asistente de ascenso en pendientes",
+            "Rueda de repuesto",
+            "Protección de peatones"
+        ],
+        "tecnologia": [
+            "Radio touchscreen 10,1\"",
+            "App Connect Inalámbrico",
+            "Encendido automático de luces",
+            "Bluetooth",
+            "Cierre centralizado con mando a distancia",
+            "Cámara de retroceso",
+            "Parlantes (6)",
+            "Puertos USB",
+            "Cargador inalámbrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Metálico",
+        "Gris Platino",
+        "Blanco Candy",
+        "Gris Piedraluna",
+        "Azul Titán",
+        "Negro Ninja",
+        "Azul Turbo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=Disponible, -=No disponible; cuando hay una sola columna aplica a todas las versiones).",
+        "fuente": "Nuevo-Nivus-FT.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajeron todos los datos técnicos (Euro 6b, consumo homologado, garantía 3 años o 100.000 kms), dimensiones, equipamiento completo y diferencias por versión exactamente como aparecen en la ficha."
+    }
+}

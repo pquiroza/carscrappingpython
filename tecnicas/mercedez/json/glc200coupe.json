@@ -1,0 +1,330 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLC Coupé",
+        "año": null,
+        "versiones": [
+            "GLC 200 4MATIC Coupé",
+            "GLC 220d 4MATIC Coupé",
+            "GLC 220d 4MATIC Coupé AMG"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLC 200 4MATIC Coupé": "4 cilindros en línea",
+            "GLC 220d 4MATIC Coupé": "4 cilindros en línea",
+            "GLC 220d 4MATIC Coupé AMG": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "GLC 200 4MATIC Coupé": 1999,
+            "GLC 220d 4MATIC Coupé": 1993,
+            "GLC 220d 4MATIC Coupé AMG": 1993
+        },
+        "potencia_hp": {
+            "GLC 200 4MATIC Coupé": "204 CV (+23 CV)",
+            "GLC 220d 4MATIC Coupé": "197 CV (+23)",
+            "GLC 220d 4MATIC Coupé AMG": "197 CV (+23)"
+        },
+        "potencia_rpm": {
+            "GLC 200 4MATIC Coupé": null,
+            "GLC 220d 4MATIC Coupé": null,
+            "GLC 220d 4MATIC Coupé AMG": null
+        },
+        "torque_nm": {
+            "GLC 200 4MATIC Coupé": "320 Nm (+200 Nm)",
+            "GLC 220d 4MATIC Coupé": "400 Nm (+200 Nm)",
+            "GLC 220d 4MATIC Coupé AMG": "400 Nm (+200 Nm)"
+        },
+        "torque_rpm": {
+            "GLC 200 4MATIC Coupé": null,
+            "GLC 220d 4MATIC Coupé": null,
+            "GLC 220d 4MATIC Coupé AMG": null
+        },
+        "combustible": null,
+        "transmision": {
+            "GLC 200 4MATIC Coupé": "9G-TRONIC",
+            "GLC 220d 4MATIC Coupé": "9G-TRONIC",
+            "GLC 220d 4MATIC Coupé AMG": "9G-TRONIC"
+        },
+        "traccion": {
+            "GLC 200 4MATIC Coupé": "Integral",
+            "GLC 220d 4MATIC Coupé": "Integral",
+            "GLC 220d 4MATIC Coupé AMG": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": {
+            "GLC 200 4MATIC Coupé": null,
+            "GLC 220d 4MATIC Coupé": null,
+            "GLC 220d 4MATIC Coupé AMG": "Con discos perforados de mayores dimensiones en el eje delantero"
+        },
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLC 200 4MATIC Coupé": "235/55 R19",
+            "GLC 220d 4MATIC Coupé": "235/55 R19",
+            "GLC 220d 4MATIC Coupé AMG": "Delante: 255/45 R20 y Detrás: 285/40 R20"
+        },
+        "rueda_repuesto": "Rueda de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 545,
+        "capacidad_estanque_lts": 62,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLC 200 4MATIC Coupé": "13,5 km/L",
+            "GLC 220d 4MATIC Coupé": "18,2 km/L",
+            "GLC 220d 4MATIC Coupé AMG": "18,2 km/L"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLC 200 4MATIC Coupé": "227 km/h",
+            "GLC 220d 4MATIC Coupé": "225 km/h",
+            "GLC 220d 4MATIC Coupé AMG": "225 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLC 200 4MATIC Coupé": "7,9 s",
+            "GLC 220d 4MATIC Coupé": "8,1 s",
+            "GLC 220d 4MATIC Coupé AMG": "8,1 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior cromado",
+                "GLC 200 4MATIC Coupé": "AVANTGARDE Line",
+                "GLC 220d 4MATIC Coupé": "AVANTGARDE Line",
+                "GLC 220d 4MATIC Coupé AMG": "AMG Line"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "GLC 200 4MATIC Coupé": "235/55 R19",
+                "GLC 220d 4MATIC Coupé": "235/55 R19",
+                "GLC 220d 4MATIC Coupé AMG": "Delante: 255/45 R20 y Detrás: 285/40 R20"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "GLC 200 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé AMG": "En efecto aluminio con tacos de goma"
+            },
+            {
+                "caracteristica": "Cristales calorífugos tinteados",
+                "GLC 200 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé AMG": "Cristales que subrayan la estética deportiva del vehículo y protección UV"
+            },
+            {
+                "caracteristica": "Techo corredizo",
+                "GLC 200 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé AMG": "Incluye cierre automático en caso de lluvia"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "GLC 200 4MATIC Coupé": "Llantas de aleación de 19\" y 10 radios dobles color gris tremolita y pulidas a alto brillo",
+                "GLC 220d 4MATIC Coupé": "Llantas de aleación de 19\" y 10 radios dobles color gris tremolita y pulidas a alto brillo",
+                "GLC 220d 4MATIC Coupé AMG": "Llantas de aleación AMG de 50,8 cm (20\") en diseño multirradio color negro y pulidas a alto brillo"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Kit estético interior cromado",
+                "GLC 200 4MATIC Coupé": "AVANTGARDE Line",
+                "GLC 220d 4MATIC Coupé": "AVANTGARDE Line",
+                "GLC 220d 4MATIC Coupé AMG": "AMG Line"
+            },
+            {
+                "caracteristica": "Asientos calefactados",
+                "GLC 200 4MATIC Coupé": "De confort con apoyo lumbar eléctrico",
+                "GLC 220d 4MATIC Coupé": "De confort con apoyo lumbar eléctrico",
+                "GLC 220d 4MATIC Coupé AMG": "Deportivos con apoyo lumbar y kit de memorias"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "GLC 200 4MATIC Coupé": "Cuero ARTICO",
+                "GLC 220d 4MATIC Coupé": "Cuero ARTICO",
+                "GLC 220d 4MATIC Coupé AMG": "Cuero ARTICO o Microfibra"
+            },
+            {
+                "caracteristica": "Volante",
+                "GLC 200 4MATIC Coupé": "Volante deportivo multifunción en cuero",
+                "GLC 220d 4MATIC Coupé": "Volante deportivo multifunción en cuero",
+                "GLC 220d 4MATIC Coupé AMG": "Volante deportivo multifunción forrado en napa"
+            },
+            {
+                "caracteristica": "Moldura",
+                "GLC 200 4MATIC Coupé": "En efecto rombos gris plata",
+                "GLC 220d 4MATIC Coupé": "En madera de tilo en line estructure antracita",
+                "GLC 220d 4MATIC Coupé AMG": "En madera de tilo lineestructure antracita poros abiertos"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Función HOLD",
+                "GLC 200 4MATIC Coupé": "Retención del vehículo sin la necesidad de mantener el freno pisado",
+                "GLC 220d 4MATIC Coupé": "Retención del vehículo sin la necesidad de mantener el freno pisado",
+                "GLC 220d 4MATIC Coupé AMG": "Retención del vehículo sin la necesidad de mantener el freno pisado"
+            },
+            {
+                "caracteristica": "ATTENTION ASSIST",
+                "GLC 200 4MATIC Coupé": "Cuando sistema detecta signos de cansancio, propone realizar pausa de descanso",
+                "GLC 220d 4MATIC Coupé": "Cuando sistema detecta signos de cansancio, propone realizar pausa de descanso",
+                "GLC 220d 4MATIC Coupé AMG": "Cuando sistema detecta signos de cansancio, propone realizar pausa de descanso"
+            },
+            {
+                "caracteristica": "9 Airbags de serie",
+                "GLC 200 4MATIC Coupé": "Incluye windowbags y Airbag de rodillas",
+                "GLC 220d 4MATIC Coupé": "Incluye windowbags y Airbag de rodillas",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye windowbags y Airbag de rodillas"
+            },
+            {
+                "caracteristica": "Rueda de emergencia",
+                "GLC 200 4MATIC Coupé": "Incluye herramientas para cambio de rueda",
+                "GLC 220d 4MATIC Coupé": "Incluye herramientas para cambio de rueda",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye herramientas para cambio de rueda"
+            },
+            {
+                "caracteristica": "Protección de vehículo",
+                "GLC 200 4MATIC Coupé": "GUARD 360° con alarma antirrobo y sensores volumétricos dentro del habitáculo",
+                "GLC 220d 4MATIC Coupé": "GUARD 360° con alarma antirrobo y sensores volumétricos dentro del habitáculo",
+                "GLC 220d 4MATIC Coupé AMG": "GUARD 360° con alarma antirrobo y sensores volumétricos dentro del habitáculo"
+            },
+            {
+                "caracteristica": "Detector activo de cambio de carril",
+                "GLC 200 4MATIC Coupé": "Si se detecta un potencial peligro, el asistente puede intervenir de forma activa en la dirección para corregir la deriva",
+                "GLC 220d 4MATIC Coupé": "Si se detecta un potencial peligro, el asistente puede intervenir de forma activa en la dirección para corregir la deriva",
+                "GLC 220d 4MATIC Coupé AMG": "Si se detecta un potencial peligro, el asistente puede intervenir de forma activa en la dirección para corregir la deriva"
+            },
+            {
+                "caracteristica": "Control de ángulo muerto",
+                "GLC 200 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé": true,
+                "GLC 220d 4MATIC Coupé AMG": true
+            },
+            {
+                "caracteristica": "Avisador de presión de neumáticos",
+                "GLC 200 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé": true,
+                "GLC 220d 4MATIC Coupé AMG": true
+            },
+            {
+                "caracteristica": "Asistente de viento lateral",
+                "GLC 200 4MATIC Coupé": false,
+                "GLC 220d 4MATIC Coupé": true,
+                "GLC 220d 4MATIC Coupé AMG": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "GLC 200 4MATIC Coupé": "Reconocer vehículos circulando o detenidos en la zona de peligro por delante del vehículo y frena en caso de emergencia",
+                "GLC 220d 4MATIC Coupé": "Reconocer vehículos circulando o detenidos en la zona de peligro por delante del vehículo y frena en caso de emergencia",
+                "GLC 220d 4MATIC Coupé AMG": "Reconocer vehículos circulando o detenidos en la zona de peligro por delante del vehículo y frena en caso de emergencia"
+            },
+            {
+                "caracteristica": "Sistema de frenos",
+                "GLC 200 4MATIC Coupé": "De serie",
+                "GLC 220d 4MATIC Coupé": "De serie",
+                "GLC 220d 4MATIC Coupé AMG": "Con discos perforados de mayores dimensiones en el eje delantero"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLC 200 4MATIC Coupé": "Belleza e inteligencia de un sistema multimedia digitalizado personalizable",
+                "GLC 220d 4MATIC Coupé": "Belleza e inteligencia de un sistema multimedia digitalizado personalizable",
+                "GLC 220d 4MATIC Coupé AMG": "Belleza e inteligencia de un sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLC 200 4MATIC Coupé": "<<Hey Mercedes>>",
+                "GLC 220d 4MATIC Coupé": "<<Hey Mercedes>>",
+                "GLC 220d 4MATIC Coupé AMG": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizados del cuadro de instrumentos",
+                "GLC 200 4MATIC Coupé": "Visualizador LCD de 12,3\" con cinco menús de contenido diferentes y 3 estilos de visualización",
+                "GLC 220d 4MATIC Coupé": "Visualizador LCD de 12,3\" con cinco menús de contenido diferentes y 3 estilos de visualización",
+                "GLC 220d 4MATIC Coupé AMG": "Visualizador LCD de 12,3\" con cinco menús de contenido diferentes y 3 estilos de visualización"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "GLC 200 4MATIC Coupé": "Visualizador LCD de 11,9 pulgadas completamente acristalada en formato vertical",
+                "GLC 220d 4MATIC Coupé": "Visualizador LCD de 11,9 pulgadas completamente acristalada en formato vertical",
+                "GLC 220d 4MATIC Coupé AMG": "Visualizador LCD de 11,9 pulgadas completamente acristalada en formato vertical"
+            },
+            {
+                "caracteristica": "Integración de Smartphone inalámbrico",
+                "GLC 200 4MATIC Coupé": "Incluye cargador inalámbrico",
+                "GLC 220d 4MATIC Coupé": "Incluye cargador inalámbrico",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye cargador inalámbrico"
+            },
+            {
+                "caracteristica": "Paquete de confort KEYLESS GO",
+                "GLC 200 4MATIC Coupé": "Incluye Hands Free Access, portón trasero EASY-PACK y acceso al vehículo Keyless",
+                "GLC 220d 4MATIC Coupé": "Incluye Hands Free Access, portón trasero EASY-PACK y acceso al vehículo Keyless",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye Hands Free Access, portón trasero EASY-PACK y acceso al vehículo Keyless"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara marcha atrás",
+                "GLC 200 4MATIC Coupé": "Más seguridad al maniobrar gracias a imagen en visualizador de medios con tecnología PARKTRONIC",
+                "GLC 220d 4MATIC Coupé": "Más seguridad al maniobrar gracias a imagen en visualizador de medios con tecnología PARKTRONIC",
+                "GLC 220d 4MATIC Coupé AMG": "Más seguridad al maniobrar gracias a imagen en visualizador de medios con tecnología PARKTRONIC"
+            },
+            {
+                "caracteristica": "Faros LED High Performance",
+                "GLC 200 4MATIC Coupé": "Incluye luces de carretera automática y cable de fibra óptica con tres funciones para la luz de circulación diurna, la luz de posición y el intermitente",
+                "GLC 220d 4MATIC Coupé": "Incluye luces de carretera automática y cable de fibra óptica con tres funciones para la luz de circulación diurna, la luz de posición y el intermitente",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye luces de carretera automática y cable de fibra óptica con tres funciones para la luz de circulación diurna, la luz de posición y el intermitente"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles eléctricamente",
+                "GLC 200 4MATIC Coupé": "Incluye función de antideslumbramiento automático e iluminación del entorno del vehículo con proyección del logotipo de la marca",
+                "GLC 220d 4MATIC Coupé": "Incluye función de antideslumbramiento automático e iluminación del entorno del vehículo con proyección del logotipo de la marca",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye función de antideslumbramiento automático e iluminación del entorno del vehículo con proyección del logotipo de la marca"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente",
+                "GLC 200 4MATIC Coupé": "Incluye 64 colores y diez conceptos cromáticos",
+                "GLC 220d 4MATIC Coupé": "Incluye 64 colores y diez conceptos cromáticos",
+                "GLC 220d 4MATIC Coupé AMG": "Incluye 64 colores y diez conceptos cromáticos"
+            },
+            {
+                "caracteristica": "Climatización Automática THERMATIC",
+                "GLC 200 4MATIC Coupé": "Climatización automática de 2 zonas: permite regular individualmente la temperatura en el lado del conductor y en el lado del acompañante",
+                "GLC 220d 4MATIC Coupé": "Climatización automática de 2 zonas: permite regular individualmente la temperatura en el lado del conductor y en el lado del acompañante",
+                "GLC 220d 4MATIC Coupé AMG": "Climatización automática de 2 zonas: permite regular individualmente la temperatura en el lado del conductor y en el lado del acompañante"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLC Coupé (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha_tecnica_glc_coupe_tamaño_digital.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior diferenciando por versión."
+    }
+}

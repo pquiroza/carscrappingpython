@@ -1,0 +1,369 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "BRONCO SPORT",
+        "año": null,
+        "versiones": [
+            "BIG BEND",
+            "OUTER BANKS",
+            "BADLANDS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "BIG BEND": "1.5L Ecoboost® I-3",
+            "OUTER BANKS": "1.5L Ecoboost® I-3",
+            "BADLANDS": "2.0L Ecoboost® Ti-VCT"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "BIG BEND": "181",
+            "OUTER BANKS": "181",
+            "BADLANDS": "250"
+        },
+        "potencia_rpm": {
+            "BIG BEND": "6000",
+            "OUTER BANKS": "6000",
+            "BADLANDS": "5500"
+        },
+        "torque_nm": {
+            "BIG BEND": "250",
+            "OUTER BANKS": "250",
+            "BADLANDS": "380"
+        },
+        "torque_rpm": {
+            "BIG BEND": "3000",
+            "OUTER BANKS": "3000",
+            "BADLANDS": "3000"
+        },
+        "combustible": null,
+        "transmision": {
+            "BIG BEND": "Automática 8 velocidades",
+            "OUTER BANKS": "Automática 8 velocidades",
+            "BADLANDS": "Automática 8 velocidades con SelectShift® y Paddle Shifters"
+        },
+        "traccion": {
+            "BIG BEND": "4x4",
+            "OUTER BANKS": "4x4",
+            "BADLANDS": "4WD OFF-ROAD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": {
+            "BIG BEND": "Discos ventilados",
+            "OUTER BANKS": "Discos ventilados",
+            "BADLANDS": "Discos ventilados"
+        },
+        "frenos_traseros": {
+            "BIG BEND": "Discos sólidos",
+            "OUTER BANKS": "Discos sólidos",
+            "BADLANDS": "Discos sólidos"
+        },
+        "neumaticos": {
+            "BIG BEND": "225/60R18 All-Season",
+            "OUTER BANKS": "225/60R18 All-Season",
+            "BADLANDS": "225/65R17 All-Terrain"
+        },
+        "rueda_repuesto": null,
+        "llantas": {
+            "BIG BEND": "18\"",
+            "OUTER BANKS": "18\"",
+            "BADLANDS": "17\""
+        }
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "BIG BEND": 4394,
+            "OUTER BANKS": 4394,
+            "BADLANDS": 4404
+        },
+        "ancho_mm": null,
+        "alto_mm": {
+            "BIG BEND": 1788,
+            "OUTER BANKS": 1788,
+            "BADLANDS": 1816
+        },
+        "distancia_ejes_mm": {
+            "BIG BEND": 2670,
+            "OUTER BANKS": 2670,
+            "BADLANDS": 2670
+        },
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "capacidad_2da_fila_l": {
+                "BIG BEND": 920,
+                "OUTER BANKS": 920,
+                "BADLANDS": 833
+            },
+            "capacidad_abatido_l": {
+                "BIG BEND": 1846,
+                "OUTER BANKS": 1846,
+                "BADLANDS": 1716
+            }
+        },
+        "capacidad_estanque_lts": {
+            "BIG BEND": 59.4,
+            "OUTER BANKS": 59.4,
+            "BADLANDS": 59.4
+        }
+    },
+    "tabla_comparativa_dimensiones": [
+        {
+            "caracteristica": "Largo (mm)",
+            "BIG BEND": 4394,
+            "OUTER BANKS": 4394,
+            "BADLANDS": 4404
+        },
+        {
+            "caracteristica": "Distancia entre ejes (mm)",
+            "BIG BEND": 2670,
+            "OUTER BANKS": 2670,
+            "BADLANDS": 2670
+        },
+        {
+            "caracteristica": "Alto (mm)",
+            "BIG BEND": 1788,
+            "OUTER BANKS": 1788,
+            "BADLANDS": 1816
+        },
+        {
+            "caracteristica": "Capacidad tanque combustible (L)",
+            "BIG BEND": 59.4,
+            "OUTER BANKS": 59.4,
+            "BADLANDS": 59.4
+        },
+        {
+            "caracteristica": "Capacidad maletero (2da fila) (L)",
+            "BIG BEND": 920,
+            "OUTER BANKS": 920,
+            "BADLANDS": 833
+        },
+        {
+            "caracteristica": "Capacidad maletero abatido (L)",
+            "BIG BEND": 1846,
+            "OUTER BANKS": 1846,
+            "BADLANDS": 1716
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "chasis_y_suspension": [
+            {
+                "caracteristica": "Dirección electrónicamente asistida (EPAS)",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": false
+            },
+            {
+                "caracteristica": "Freno estacionamiento eléctrico con Auto Hold",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Moonroof eléctrico",
+                "BIG BEND": false,
+                "OUTER BANKS": false,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Ganchos de remolque frontales",
+                "BIG BEND": false,
+                "OUTER BANKS": false,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Faros delanteros LED",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Faros neblineros LED",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": false
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "BIG BEND": false,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "BIG BEND": "Manual",
+                "OUTER BANKS": "Bi-Zona",
+                "BADLANDS": "Bi-Zona"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "BIG BEND": "Tela con diseño jaspeado",
+                "OUTER BANKS": "Cuero",
+                "BADLANDS": "Cuero microperforado"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "BIG BEND": "Eléctrico / 8 posiciones",
+                "OUTER BANKS": "Eléctrico / 8 posiciones",
+                "BADLANDS": "Eléctrico / 8 posiciones"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "BIG BEND": false,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Paddle Shifters",
+                "BIG BEND": false,
+                "OUTER BANKS": false,
+                "BADLANDS": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Control de tracción",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbags laterales traseros",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbag rodilla conductor",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Alarma perimetral",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero adaptativo con Stop & Go",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "BLIS + Alerta tráfico cruzado",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Sistema mantenimiento carril",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Asistente pre-colisión con AEB",
+                "BIG BEND": true,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Lane Centering",
+                "BIG BEND": false,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Sensor estacionamiento frontal",
+                "BIG BEND": false,
+                "OUTER BANKS": true,
+                "BADLANDS": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "Control de tracción",
+            "Airbags frontales",
+            "Airbags laterales delanteros",
+            "Airbags laterales traseros",
+            "Airbag rodilla conductor",
+            "Alarma perimetral"
+        ],
+        "interior": [
+            "Asiento conductor: Eléctrico / 8 posiciones",
+            "Asientos delanteros calefaccionados"
+        ],
+        "exterior": [
+            "Faros delanteros LED",
+            "Faros neblineros LED"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Control crucero adaptativo con Stop & Go",
+            "BLIS + Alerta tráfico cruzado",
+            "Sistema mantenimiento carril",
+            "Asistente pre-colisión con AEB"
+        ]
+    },
+    "colores": [
+        "Gris Azulado",
+        "Verde",
+        "Negro Profundo",
+        "Beige Arena",
+        "Gris Carbonizado",
+        "Azul Velocidad"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por versión",
+        "fuente": "fcl-bronco-sport-ficha-tecnica.pdf",
+        "versiones_en_documento": 3,
+        "notas": null
+    }
+}

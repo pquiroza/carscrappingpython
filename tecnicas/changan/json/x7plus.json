@@ -1,0 +1,946 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "X7 PLUS",
+        "año": null,
+        "versiones": [
+            "X7 PLUS LUXURY MT",
+            "X7 PLUS ELITE MT",
+            "X7 PLUS LUXURY AT",
+            "X7 PLUS ELITE AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "X7 PLUS LUXURY MT": "NE15TG",
+            "X7 PLUS ELITE MT": "NE15TG",
+            "X7 PLUS LUXURY AT": "NE15TG",
+            "X7 PLUS ELITE AT": "NE15TG"
+        },
+        "cilindrada": {
+            "X7 PLUS LUXURY MT": "1.5T",
+            "X7 PLUS ELITE MT": "1.5T",
+            "X7 PLUS LUXURY AT": "1.5T",
+            "X7 PLUS ELITE AT": "1.5T"
+        },
+        "potencia_hp": {
+            "X7 PLUS LUXURY MT": "177",
+            "X7 PLUS ELITE MT": "177",
+            "X7 PLUS LUXURY AT": "185",
+            "X7 PLUS ELITE AT": "185"
+        },
+        "potencia_rpm": {
+            "X7 PLUS LUXURY MT": null,
+            "X7 PLUS ELITE MT": null,
+            "X7 PLUS LUXURY AT": null,
+            "X7 PLUS ELITE AT": null
+        },
+        "torque_nm": {
+            "X7 PLUS LUXURY MT": "260",
+            "X7 PLUS ELITE MT": "260",
+            "X7 PLUS LUXURY AT": "300",
+            "X7 PLUS ELITE AT": "300"
+        },
+        "torque_rpm": {
+            "X7 PLUS LUXURY MT": null,
+            "X7 PLUS ELITE MT": null,
+            "X7 PLUS LUXURY AT": null,
+            "X7 PLUS ELITE AT": null
+        },
+        "combustible": "Inyección directa bencina- 93 o superior",
+        "transmision": {
+            "X7 PLUS LUXURY MT": "6 MT",
+            "X7 PLUS ELITE MT": "6 MT",
+            "X7 PLUS LUXURY AT": "Automática 7 (DCT)",
+            "X7 PLUS ELITE AT": "Automática 7 (DCT)"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Asist. eléctrica (ajustable)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente",
+        "suspension_trasera": "Independiente multi-Link",
+        "frenos_delanteros": "Disco ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": {
+            "X7 PLUS LUXURY MT": "Manualmente",
+            "X7 PLUS ELITE MT": "Manualmente",
+            "X7 PLUS LUXURY AT": "Eléctrico desde el interior",
+            "X7 PLUS ELITE AT": "Eléctrico desde el interior"
+        },
+        "neumaticos": {
+            "X7 PLUS LUXURY MT": "225/55 R19",
+            "X7 PLUS ELITE MT": "225/55 R19",
+            "X7 PLUS LUXURY AT": "225/55 R19",
+            "X7 PLUS ELITE AT": "225/55 R19"
+        },
+        "rueda_repuesto": {
+            "X7 PLUS LUXURY MT": "T125/80*17",
+            "X7 PLUS ELITE MT": "T125/80*17",
+            "X7 PLUS LUXURY AT": "T125/80*17",
+            "X7 PLUS ELITE AT": "T125/80*17"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4730,
+        "ancho_mm": 1870,
+        "alto_mm": 1720,
+        "distancia_ejes_mm": 2786,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "X7 PLUS LUXURY MT": 2050,
+            "X7 PLUS ELITE MT": 2050,
+            "X7 PLUS LUXURY AT": 2100,
+            "X7 PLUS ELITE AT": 2100
+        },
+        "peso_neto_kg": {
+            "X7 PLUS LUXURY MT": 1625,
+            "X7 PLUS ELITE MT": 1625,
+            "X7 PLUS LUXURY AT": 1675,
+            "X7 PLUS ELITE AT": 1675
+        },
+        "capacidad_maletero_lts": "110 lts.",
+        "capacidad_estanque_lts": "55 lts",
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Mixto (KM/L)",
+            "X7 PLUS LUXURY MT": "14",
+            "X7 PLUS ELITE MT": "14",
+            "X7 PLUS LUXURY AT": "13,5",
+            "X7 PLUS ELITE AT": "13,5"
+        },
+        {
+            "caracteristica": "Ciudad (KM/L)",
+            "X7 PLUS LUXURY MT": "10,5",
+            "X7 PLUS ELITE MT": "10,5",
+            "X7 PLUS LUXURY AT": "10,4",
+            "X7 PLUS ELITE AT": "10,4"
+        },
+        {
+            "caracteristica": "Carretera (KM/L)",
+            "X7 PLUS LUXURY MT": "17,3",
+            "X7 PLUS ELITE MT": "17,3",
+            "X7 PLUS LUXURY AT": "16,4",
+            "X7 PLUS ELITE AT": "16,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con velocidad variable",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sensor de luces",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Faros delanteros",
+                "X7 PLUS LUXURY MT": "LED",
+                "X7 PLUS ELITE MT": "LED",
+                "X7 PLUS LUXURY AT": "LED",
+                "X7 PLUS ELITE AT": "LED"
+            },
+            {
+                "caracteristica": "Faros traseros",
+                "X7 PLUS LUXURY MT": "LED",
+                "X7 PLUS ELITE MT": "LED",
+                "X7 PLUS LUXURY AT": "LED",
+                "X7 PLUS ELITE AT": "LED"
+            },
+            {
+                "caracteristica": "Intermitentes laterales",
+                "X7 PLUS LUXURY MT": "En espejos",
+                "X7 PLUS ELITE MT": "En espejos",
+                "X7 PLUS LUXURY AT": "En espejos",
+                "X7 PLUS ELITE AT": "En espejos"
+            },
+            {
+                "caracteristica": "Llantas",
+                "X7 PLUS LUXURY MT": "Aleación Aro 19",
+                "X7 PLUS ELITE MT": "Aleación Aro 19",
+                "X7 PLUS LUXURY AT": "Aleación Aro 19",
+                "X7 PLUS ELITE AT": "Aleación Aro 19"
+            },
+            {
+                "caracteristica": "Manillas exteriores de puertas eléctricas",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Parachoques",
+                "X7 PLUS LUXURY MT": "Color Carrocería",
+                "X7 PLUS ELITE MT": "Color Carrocería",
+                "X7 PLUS LUXURY AT": "Color Carrocería",
+                "X7 PLUS ELITE AT": "Color Carrocería"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores (color)",
+                "X7 PLUS LUXURY MT": "Delantero bicolor",
+                "X7 PLUS ELITE MT": "Delantero bicolor",
+                "X7 PLUS LUXURY AT": "Color carrocería",
+                "X7 PLUS ELITE AT": "Color carrocería"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores ajustables",
+                "X7 PLUS LUXURY MT": "Manualmente",
+                "X7 PLUS ELITE MT": "Manualmente",
+                "X7 PLUS LUXURY AT": "Eléctrico desde el interior",
+                "X7 PLUS ELITE AT": "Eléctrico desde el interior"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores calefaccionados (con defrost)",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": false,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores con intermitentes",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sensor de retroceso",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Tercera luz de freno",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Spoiler",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cobertor de motor",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Bajada de vidrios desde control remoto",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Encendido remoto de motor",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cámara trasera de apoyo a estacionamiento (visual + sonido)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cámara derecha-izquierda punto ciego",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Techo panorámico con cortina eléctrica",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cámara panorámica 360°",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": false,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": false
+            },
+            {
+                "caracteristica": "3 corridas de asiento",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Guantera central con enfriador",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Alfombras delanteras/traseras",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos (auto down/up)",
+                "X7 PLUS LUXURY MT": "Auto down/up",
+                "X7 PLUS ELITE MT": "Auto down/up",
+                "X7 PLUS LUXURY AT": "Auto down/up",
+                "X7 PLUS ELITE AT": "Auto down/up"
+            },
+            {
+                "caracteristica": "Apoyabrazos delantero central",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos delantero con portaobjetos",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos trasero central",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Comando de radio al volante",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Computador a bordo",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Luz mapa traseras",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Luz de lectura delantera y traseras",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Manillas interiores (techo y laterales)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Parasol con espejos de cortesía conductor",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Portamapas respaldos delanteros",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Portavasos delanteros (2 centrales)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Portavasos traseros puertas",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "X7 PLUS LUXURY MT": "Ecocuero/Cuero",
+                "X7 PLUS ELITE MT": "Ecocuero/Cuero",
+                "X7 PLUS LUXURY AT": "Tela",
+                "X7 PLUS ELITE AT": "Tela"
+            },
+            {
+                "caracteristica": "Apoyacabezas delanteros (un)",
+                "X7 PLUS LUXURY MT": 2,
+                "X7 PLUS ELITE MT": 2,
+                "X7 PLUS LUXURY AT": 2,
+                "X7 PLUS ELITE AT": 2
+            },
+            {
+                "caracteristica": "Apoyacabezas traseros (un)",
+                "X7 PLUS LUXURY MT": 3,
+                "X7 PLUS ELITE MT": 3,
+                "X7 PLUS LUXURY AT": 3,
+                "X7 PLUS ELITE AT": 3
+            },
+            {
+                "caracteristica": "Asiento acompañante - corredera",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": "Ajustable manualmente",
+                "X7 PLUS ELITE AT": "Ajustable manualmente"
+            },
+            {
+                "caracteristica": "Asiento acompañante - regulación en altura",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": "Ajustable manualmente",
+                "X7 PLUS ELITE AT": "Ajustable manualmente"
+            },
+            {
+                "caracteristica": "Asiento acompañante - respaldo",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": "Ajustable manualmente",
+                "X7 PLUS ELITE AT": "Ajustable manualmente"
+            },
+            {
+                "caracteristica": "Asiento conductor - corredera",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": "Ajustable manualmente",
+                "X7 PLUS ELITE AT": "Ajustable manualmente"
+            },
+            {
+                "caracteristica": "Asiento conductor - regulación en altura",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": "Ajustable manualmente",
+                "X7 PLUS ELITE AT": "Ajustable manualmente"
+            },
+            {
+                "caracteristica": "Asiento conductor - respaldo",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": "Ajustable manualmente",
+                "X7 PLUS ELITE AT": "Ajustable manualmente"
+            },
+            {
+                "caracteristica": "Balizas (triángulo en herramientas)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Tapiz asientos y costuras deportivas",
+                "X7 PLUS LUXURY MT": "Negro",
+                "X7 PLUS ELITE MT": "Negro",
+                "X7 PLUS LUXURY AT": "Negro",
+                "X7 PLUS ELITE AT": "Negro"
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Columna de dirección regulable en altura",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Comando a distancia (cierre centralizado)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Información de temperatura exterior",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Luneta trasera térmica (defroster)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Regulación interna de altura de luces",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Tipo encendido",
+                "X7 PLUS LUXURY MT": "Con llave",
+                "X7 PLUS ELITE MT": "Keyless",
+                "X7 PLUS LUXURY AT": "Con llave",
+                "X7 PLUS ELITE AT": "Keyless"
+            },
+            {
+                "caracteristica": "Toma corriente 12 volts interior",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Visualización de la cámara en pantalla LCD",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Alarma de luces encendidos",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Conectividad",
+                "X7 PLUS LUXURY MT": "Car auto global",
+                "X7 PLUS ELITE MT": "Car auto global",
+                "X7 PLUS LUXURY AT": "Car auto global",
+                "X7 PLUS ELITE AT": "Car auto global"
+            },
+            {
+                "caracteristica": "Entrada USB externa",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Pantalla delantera central LCD con touchscreen 12,3\"",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Parlantes delanteros (un)",
+                "X7 PLUS LUXURY MT": 2,
+                "X7 PLUS ELITE MT": 2,
+                "X7 PLUS LUXURY AT": 2,
+                "X7 PLUS ELITE AT": 2
+            },
+            {
+                "caracteristica": "Parlantes traseros (un)",
+                "X7 PLUS LUXURY MT": 2,
+                "X7 PLUS ELITE MT": 2,
+                "X7 PLUS LUXURY AT": 2,
+                "X7 PLUS ELITE AT": 2
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Salida ventilación trasera",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Tablero instrumentos",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Espejo en parasoles",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Manillas interiores cromadas",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos trasero plegable",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Apertura 4 ventanas desde botón llave",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Respaldos traseros plegables",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Función luces sígueme a casa",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Luz en maletero",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Apertura chapa maleta eléctrica",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Capacidad del maletero",
+                "X7 PLUS LUXURY MT": "110 lts.",
+                "X7 PLUS ELITE MT": "110 lts.",
+                "X7 PLUS LUXURY AT": "110 lts.",
+                "X7 PLUS ELITE AT": "110 lts."
+            },
+            {
+                "caracteristica": "Función antipinch ventanas",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control crucero",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sistema de ayuda de partida en pendiente (HHC)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sistema de ayuda de bajada en pendiente (HDC)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Airbag conductor",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Airbag pasajero",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Airbag lateral",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cámaras (4) de grabación continua",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "ABS + EBD (Electronic Brake Distribution)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Frenos delanteros",
+                "X7 PLUS LUXURY MT": "Disco ventilados",
+                "X7 PLUS ELITE MT": "Disco ventilados",
+                "X7 PLUS LUXURY AT": "Disco ventilados",
+                "X7 PLUS ELITE AT": "Disco ventilados"
+            },
+            {
+                "caracteristica": "Frenos traseros",
+                "X7 PLUS LUXURY MT": "Discos sólidos",
+                "X7 PLUS ELITE MT": "Discos sólidos",
+                "X7 PLUS LUXURY AT": "Discos sólidos",
+                "X7 PLUS ELITE AT": "Discos sólidos"
+            },
+            {
+                "caracteristica": "Alarma de cinturón de seguridad desconectado",
+                "X7 PLUS LUXURY MT": null,
+                "X7 PLUS ELITE MT": null,
+                "X7 PLUS LUXURY AT": "Conductor-copiloto",
+                "X7 PLUS ELITE AT": "Conductor-copiloto"
+            },
+            {
+                "caracteristica": "Anclaje ISOFIX para niños",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros 3 puntos (con limitador)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cinturón trasero central",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cinturones traseros (de 3 puntos)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Control de tracción (TCS)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sistema inmovilizador antirrobo",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Asistente de frenado en tráfico (Auto Hold)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Reforzamiento en freno de urgencia (BAS)",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Cierre automático de seguros sobre 20 km/h",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Sistema keyless",
+                "X7 PLUS LUXURY MT": false,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": false,
+                "X7 PLUS ELITE AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Conectividad",
+                "X7 PLUS LUXURY MT": "Car auto global",
+                "X7 PLUS ELITE MT": "Car auto global",
+                "X7 PLUS LUXURY AT": "Car auto global",
+                "X7 PLUS ELITE AT": "Car auto global"
+            },
+            {
+                "caracteristica": "Pantalla delantera central LCD con touchscreen 12,3\"",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            },
+            {
+                "caracteristica": "Visualización de la cámara en pantalla LCD",
+                "X7 PLUS LUXURY MT": true,
+                "X7 PLUS ELITE MT": true,
+                "X7 PLUS LUXURY AT": true,
+                "X7 PLUS ELITE AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Gris",
+        "Azul oscuro",
+        "Azul cielo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (ticket=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-técnica-changan-x7-plus.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó la información visible en las tablas de exterior, interior, seguridad, neumáticos, dimensiones, especificaciones técnicas, rendimiento y colores."
+    }
+}

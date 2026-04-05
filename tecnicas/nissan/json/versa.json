@@ -1,0 +1,283 @@
+{
+    "vehiculo": {
+        "marca": "Nissan",
+        "modelo": "Versa",
+        "año": null,
+        "versiones": [
+            "SENSE MT",
+            "SENSE CVT",
+            "ADVANCE MT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SENSE MT": "1.6",
+            "SENSE CVT": "1.6",
+            "ADVANCE MT": "1.6"
+        },
+        "cilindrada": {
+            "SENSE MT": null,
+            "SENSE CVT": null,
+            "ADVANCE MT": null
+        },
+        "potencia_hp": {
+            "SENSE MT": "118",
+            "SENSE CVT": "118",
+            "ADVANCE MT": "118"
+        },
+        "potencia_rpm": {
+            "SENSE MT": "6.300",
+            "SENSE CVT": "6.300",
+            "ADVANCE MT": "6.300"
+        },
+        "torque_nm": {
+            "SENSE MT": "149",
+            "SENSE CVT": "149",
+            "ADVANCE MT": "149"
+        },
+        "torque_rpm": {
+            "SENSE MT": "4.000",
+            "SENSE CVT": "4.000",
+            "ADVANCE MT": "4.000"
+        },
+        "combustible": "93 octanos o superior",
+        "transmision": {
+            "SENSE MT": "MT 5 velocidades",
+            "SENSE CVT": "CVT (Continuamente variable)",
+            "ADVANCE MT": "MT 5 velocidades"
+        },
+        "traccion": {
+            "SENSE MT": "2WD",
+            "SENSE CVT": "2WD",
+            "ADVANCE MT": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mc Pherson con barra estabilizadora",
+        "suspension_trasera": "Eje semirrígido",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "SENSE MT": "195/65 R15",
+            "SENSE CVT": "195/65 R15",
+            "ADVANCE MT": "205/55 R16"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4495,
+        "ancho_mm": 1740,
+        "alto_mm": {
+            "SENSE MT": 1465,
+            "SENSE CVT": 1465,
+            "ADVANCE MT": 1465
+        },
+        "distancia_ejes_mm": 2620,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "SENSE MT": 1529,
+            "SENSE CVT": 1641,
+            "ADVANCE MT": 1529
+        },
+        "capacidad_maletero_lts": {
+            "SENSE MT": 466,
+            "SENSE CVT": 466,
+            "ADVANCE MT": 482
+        },
+        "capacidad_estanque_lts": 41,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Urbano sin Autopista (km/lts)",
+            "SENSE MT": "11,1",
+            "SENSE CVT": "9,6",
+            "ADVANCE MT": "11,1"
+        },
+        {
+            "caracteristica": "Urbano con Autopista urbana (km/lts)",
+            "SENSE MT": "16,3",
+            "SENSE CVT": "15,3",
+            "ADVANCE MT": "16,3"
+        },
+        {
+            "caracteristica": "Rural con Autopista (km/lts)",
+            "SENSE MT": "17,3",
+            "SENSE CVT": "17,2",
+            "ADVANCE MT": "17,3"
+        },
+        {
+            "caracteristica": "Autopista Interurbana (km/lts)",
+            "SENSE MT": "14,7",
+            "SENSE CVT": "14,7",
+            "ADVANCE MT": "14,7"
+        },
+        {
+            "caracteristica": "Combinado (km/lts)",
+            "SENSE MT": "15,0",
+            "SENSE CVT": "14,7",
+            "ADVANCE MT": "15,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Botón de apertura",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": false
+            },
+            {
+                "caracteristica": "Espejos exteriores abatibles recubiertos de plásticos con ajuste eléctrico",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": false
+            },
+            {
+                "caracteristica": "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Neblineros",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "SENSE MT": "15\" Acero",
+                "SENSE CVT": "15\" Acero",
+                "ADVANCE MT": "16\" Aluminio"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Asientos con tapizado en tela",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Asistente de conductor con display 3,5\" (TFT)",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": false
+            },
+            {
+                "caracteristica": "Sistema de audio con 4 parlantes, pantalla táctil 7\" Android y CarPlay + USB + Aux",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": false
+            },
+            {
+                "caracteristica": "Descansabrazos delantero para conductor",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Asiento trasero abatible 60:40",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Asistente de conductor con display 7\" a color (TFT)",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            },
+            {
+                "caracteristica": "Sistema de audio con 4 parlantes, reconocimiento de voz, pantalla táctil 7\" Android y CarPlay + USB + Aux",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Alerta de cinturón asiento trasero",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor de visión periférica (AVM) con detección de objetos en movimiento",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Controles de audio, manos libres (Bluetooth)",
+                "SENSE MT": true,
+                "SENSE CVT": true,
+                "ADVANCE MT": false
+            },
+            {
+                "caracteristica": "Controles de audio, manos libres (Bluetooth) con reconocimiento de voz",
+                "SENSE MT": false,
+                "SENSE CVT": false,
+                "ADVANCE MT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Limpiaparabrisas intermitente con velocidad variable"
+        ],
+        "interior": [
+            "USB (1 Frontal & 2 consola central) & 12V",
+            "Asiento del conductor con ajuste de altura",
+            "Asientos delanteros con cabeceras ajustables",
+            "Consola central con portavasos delanteros",
+            "Cristales eléctricos con apertura de un solo toque (conductor)",
+            "Espejo de vanidad para conductor y pasajero",
+            "Luz en maletera",
+            "Seguros eléctricos con cierre centralizado",
+            "Volante con ajuste telescópico y de altura"
+        ],
+        "seguridad": [
+            "Sensores de retroceso (4)",
+            "Botón de encendido y apagado de motor (ligado a llave inteligente)",
+            "Llave inteligente i-Key con función de apertura, cierre de puertas, cajuela y alarma de pánico",
+            "Anclaje ISOFIX",
+            "Alarma a control remoto con inmovilizador",
+            "Asistente de ascenso en pendientes (HSA)",
+            "Airbags frontales, laterales y tipo cortina",
+            "Cinturones de seguridad delanteros retráctiles de 3 puntos (ELR)",
+            "Cinturones de seguridad traseros retráctiles de 3 puntos (3) ELR",
+            "Control dinámico vehicular (VDC)",
+            "Sistema de frenado antibloqueo (ABS), distribución electrónica de frenado (EBD) y asistencia de frenado (BA)",
+            "Recordatorio de cinturones de seguridad (conductor y pasajero)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Alerta de colisión frontal (FCW)",
+            "Frenado frontal de emergencia (FEB)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Nissan (•=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "FICHA TECNICA NUEVO VERSA MC.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo la información visible de equipamiento base para todas las versiones y equipamiento diferencial por versión. Donde el documento no muestra el dato, se dejó null o arreglo vacío sin inferir valores."
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "Alsvin",
+        "año": 2024,
+        "versiones": [
+            "Comfort MT",
+            "Luxury MT",
+            "Elite AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfort MT": "BlueCore 1.4 VVT",
+            "Luxury MT": "BlueCore 1.4 VVT",
+            "Elite AT": "BlueCore 1.5 VVT"
+        },
+        "cilindrada": {
+            "Comfort MT": "1.4L",
+            "Luxury MT": "1.4L",
+            "Elite AT": "1.5L"
+        },
+        "potencia_hp": {
+            "Comfort MT": "93",
+            "Luxury MT": "93",
+            "Elite AT": "95"
+        },
+        "potencia_rpm": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Elite AT": null
+        },
+        "torque_nm": {
+            "Comfort MT": "135",
+            "Luxury MT": "135",
+            "Elite AT": "137"
+        },
+        "torque_rpm": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Elite AT": null
+        },
+        "combustible": "93 Octanos",
+        "transmision": {
+            "Comfort MT": "Mecánica 5 velocidades",
+            "Luxury MT": "Mecánica 5 velocidades",
+            "Elite AT": "Automática 5 velocidades"
+        },
+        "traccion": {
+            "Comfort MT": "Delantera 4x2 (FWD)",
+            "Luxury MT": "Delantera 4x2 (FWD)",
+            "Elite AT": "Delantera 4x2 (FWD)"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson Independiente",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfort MT": "175 / 65 R14",
+            "Luxury MT": "185 / 55 R15",
+            "Elite AT": "185 / 55 R15"
+        },
+        "rueda_repuesto": "Fierro"
+    },
+    "dimensiones": {
+        "largo_mm": 4390,
+        "ancho_mm": 1725,
+        "alto_mm": 1490,
+        "distancia_ejes_mm": 2535,
+        "despeje_suelo_mm": "1.455",
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 430,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": null,
+        "peso_vacio_kg": {
+            "Comfort MT": 1080,
+            "Luxury MT": 1080,
+            "Elite AT": 1115
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "Comfort MT": "12,2",
+            "Luxury MT": "12,2",
+            "Elite AT": "10,7"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "Comfort MT": "20",
+            "Luxury MT": "20",
+            "Elite AT": "18,6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "Comfort MT": "16,2",
+            "Luxury MT": "16,2",
+            "Elite AT": "14,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores con defroster",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Tapa Cubre Motor",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Apoyabrazos central delantero con compartimiento para objetos",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "Comfort MT": "Tela",
+                "Luxury MT": "Ecocuero-Tela",
+                "Elite AT": "Ecocuero-Tela"
+            },
+            {
+                "caracteristica": "Computador a bordo",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema Start -Stop SST",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "Comfort MT": 2,
+                "Luxury MT": 4,
+                "Elite AT": 4
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Camara Lateral exterior derecha",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sensores de retroceso",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema de control de estabilidad (ESP)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema de control de partida en pendiente (HHC)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "Comfort MT": false,
+                "Luxury MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros halógenos",
+            "Luces con encendido automático",
+            "Espejos exteriores ajustables eléctricamente desde el interior",
+            "Espejos laterales con luces de viraje LED",
+            "Limpiaparabrisas delantero intermitente + intervalo variable",
+            "Llave plegable",
+            "Luz delantera de lectura",
+            "Luz de maletero",
+            "Luces de circulación diurna (DRL)",
+            "Luces regulables en altura",
+            "Luces antiniebla trasera",
+            "Luz de giro",
+            "Luz de marcha atrás (1)",
+            "Luces de matrícula",
+            "Neblinero trasero (1)",
+            "Retraso de apagado de luces",
+            "Luneta trasera con desempañador eléctrico",
+            "Antena tipo aleta de tiburón"
+        ],
+        "interior": [
+            "Aire acondicionado manual",
+            "Alarma de luces exteriores encendidas",
+            "Alzavidrios conductor OneTouch con Autodown",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Apoyacabezas en las 2 filas",
+            "Asiento conductor con regulación en 4 direcciones",
+            "Asiento copiloto con regulación en 4 direcciones",
+            "Asiento copiloto con respaldo con inclinación",
+            "Asientos 2da fila con cinturones de seguridad ALR de 3 puntos",
+            "Espejo interior día/noche",
+            "Posavasos puertas delanteras",
+            "Radio touch 10'' HD con Bluetooth/Easy Connection (Android & hasta iPhone 10)",
+            "Tacómetro digital y velocímetro analógico",
+            "Tapa de bencina con apertura desde el interior",
+            "Volante multifunción y regulable en altura"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y copiloto)",
+            "Alarma disuasiva con apertura de puerta",
+            "Anclajes ISOFIX en 2da fila de asientos (2)",
+            "Estructura de carrocería reforzada",
+            "Apertura remota de puertas",
+            "Aviso en pantalla de puertas y maletero abierto",
+            "Barras protectoras laterales en las puertas",
+            "Botón de bloqueo de apertura de ventanas",
+            "Cámara de retroceso con líneas auxiliares de estacionamiento",
+            "Columna de dirección colapsable",
+            "Inmovilizador antirrobo",
+            "Puertas traseras con seguro de niños",
+            "Recordatorio cinturón de seguridad asiento piloto",
+            "Sistema antibloqueo (ABS), distribución electrónica de frenado",
+            "Barra estabilizadora"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Negro",
+        "Plata",
+        "Rojo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (SI=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-te-cnica-changan-alsvin-2024 (1).pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo toda la información visible de especificaciones, equipamiento interior, exterior, seguridad, frenos, suspensión, dirección, tracción, neumáticos, rendimiento y colores. Donde el documento muestra un valor único o agrupado, se respetó tal como aparece."
+    }
+}

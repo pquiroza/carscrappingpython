@@ -1,0 +1,896 @@
+{
+  "vehiculo": {
+    "marca": "Changan",
+    "modelo": "UNI-T",
+    "año": null,
+    "versiones": [
+      "UNI-T Luxury",
+      "UNI-T Elite"
+    ]
+  },
+  "motor": {
+    "tipo": {
+      "UNI-T Luxury": "Blue Core Turbo NE15TGDI",
+      "UNI-T Elite": "Blue Core Turbo NE15TGDI"
+    },
+    "cilindrada": {
+      "UNI-T Luxury": 1494,
+      "UNI-T Elite": 1494
+    },
+    "potencia_hp": {
+      "UNI-T Luxury": "177",
+      "UNI-T Elite": "177"
+    },
+    "potencia_rpm": {
+      "UNI-T Luxury": null,
+      "UNI-T Elite": null
+    },
+    "torque_nm": {
+      "UNI-T Luxury": "300",
+      "UNI-T Elite": "300"
+    },
+    "torque_rpm": {
+      "UNI-T Luxury": null,
+      "UNI-T Elite": null
+    },
+    "combustible": "Inyección directa bencina- 93 o superior",
+    "transmision": {
+      "UNI-T Luxury": "Automática (Tipo DCT de 7 velocidades)",
+      "UNI-T Elite": "Automática (Tipo DCT de 7 velocidades)"
+    },
+    "traccion": {
+      "UNI-T Luxury": "Delantera",
+      "UNI-T Elite": "Delantera"
+    }
+  },
+  "direccion": {
+    "tipo": "Asist. Eléctrica (ajustable)"
+  },
+  "suspension_frenos": {
+    "suspension_delantera": "Independiente",
+    "suspension_trasera": "Independiente multi-Link",
+    "frenos_delanteros": "Discos ventilados",
+    "frenos_traseros": "Discos sólidos",
+    "freno_estacionamiento": {
+      "UNI-T Luxury": "Manual",
+      "UNI-T Elite": "Eléctrico desde el interior"
+    },
+    "neumaticos": {
+      "UNI-T Luxury": "225/55 r19",
+      "UNI-T Elite": "245/45 r20"
+    },
+    "rueda_repuesto": {
+      "UNI-T Luxury": "T125/80*17",
+      "UNI-T Elite": null
+    }
+  },
+  "dimensiones": {
+    "largo_mm": 4515,
+    "ancho_mm": 1870,
+    "alto_mm": 1565,
+    "distancia_ejes_mm": 2710,
+    "despeje_suelo_mm": null,
+    "peso_bruto_kg": 1840,
+    "capacidad_maletero_lts": "290/350",
+    "capacidad_estanque_lts": 55,
+    "numero_pasajeros": 5
+  },
+  "tabla_comparativa_rendimiento": [
+    {
+      "caracteristica": "Rendimiento mixto (KM/L)",
+      "UNI-T Luxury": "14,3",
+      "UNI-T Elite": "14,3"
+    },
+    {
+      "caracteristica": "Rendimiento ciudad (KM/L)",
+      "UNI-T Luxury": "9,5",
+      "UNI-T Elite": "9,5"
+    },
+    {
+      "caracteristica": "Rendimiento carretera (KM/L)",
+      "UNI-T Luxury": "20,2",
+      "UNI-T Elite": "20,2"
+    }
+  ],
+  "equipamiento_diferencial_detallado": {
+    "exterior": [
+      {
+        "caracteristica": "Espejos retrovisores eléctricos",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Limpiaparabrisas con velocidad variable",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Limpiaparabrisas con sensor lluvia",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Luz de día (LED)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Faros delanteros",
+        "UNI-T Luxury": "Led",
+        "UNI-T Elite": "Led"
+      },
+      {
+        "caracteristica": "Faros traseros",
+        "UNI-T Luxury": "Led",
+        "UNI-T Elite": "Led"
+      },
+      {
+        "caracteristica": "Intermitentes laterales",
+        "UNI-T Luxury": "En espejos",
+        "UNI-T Elite": "En espejos"
+      },
+      {
+        "caracteristica": "Llantas",
+        "UNI-T Luxury": "Aleación Aro 19",
+        "UNI-T Elite": "Aleación Aro 20"
+      },
+      {
+        "caracteristica": "Manillas exteriores de puertas eléctricas",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Neblineros traseros",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Parachoques",
+        "UNI-T Luxury": "Color Carrocería",
+        "UNI-T Elite": "Color Carrocería"
+      },
+      {
+        "caracteristica": "Retrovisores exteriores (color)",
+        "UNI-T Luxury": "Delantero bicolor",
+        "UNI-T Elite": "Delantero bicolor"
+      },
+      {
+        "caracteristica": "Retrovisores exteriores abatibles",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Retrovisores exteriores ajustables",
+        "UNI-T Luxury": "Manual",
+        "UNI-T Elite": "Eléctrica"
+      },
+      {
+        "caracteristica": "Retrovisores exteriores calefaccionados (con defrost)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Retrovisores exteriores con intermitentes",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sensores de estacionamiento delantero",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sensor de retroceso",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Tercera luz de freno",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Spoiler",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Salida de escape",
+        "UNI-T Luxury": "2 Salidas",
+        "UNI-T Elite": "4 Salidas"
+      },
+      {
+        "caracteristica": "Bajada de vidrios desde control remoto",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Encendido remoto motor",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cámara trasera apoyo estacionamiento (visual + sonido)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cámara derecha-izquierda punto ciego",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sunroof",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Techo panorámico con cortina eléctrica",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cámara panorámica 360°",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      }
+    ],
+    "interior": [
+      {
+        "caracteristica": "Aire acondicionado",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": false
+      },
+      {
+        "caracteristica": "Climatizador (forest air)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema purificador de aire",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Volante",
+        "UNI-T Luxury": "Ecocuero",
+        "UNI-T Elite": "Ecocuero"
+      },
+      {
+        "caracteristica": "Guantera central con enfriador",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Alfombras delanteras/traseras",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Alzavidrios eléctricos",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apoyabrazos delantero central",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apoyabrazos delantero con portaobjetos",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apoyabrazos trasero central",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cámara de retroceso",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Comando de radio al volante",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Computadora bordo",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Luz de lectura delantera",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Manillas interiores (techo y laterales)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Parasol con espejos de cortesía conductor",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Portamapas respaldos delanteros",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Portavasos delanteros (2 centrales)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Portavasos traseros puertas",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Tapiz asientos",
+        "UNI-T Luxury": "Cuero",
+        "UNI-T Elite": "Cuero"
+      },
+      {
+        "caracteristica": "Apoyacabezas delanteros (un)",
+        "UNI-T Luxury": 2,
+        "UNI-T Elite": 2
+      },
+      {
+        "caracteristica": "Apoyacabezas traseros (un)",
+        "UNI-T Luxury": 3,
+        "UNI-T Elite": 3
+      },
+      {
+        "caracteristica": "Asiento acompañante - corredera",
+        "UNI-T Luxury": "Ajustable manualmente",
+        "UNI-T Elite": "Ajustable manualmente"
+      },
+      {
+        "caracteristica": "Asiento acompañante - regulación en altura",
+        "UNI-T Luxury": null,
+        "UNI-T Elite": "Ajustable manualmente"
+      },
+      {
+        "caracteristica": "Asiento acompañante - respaldo",
+        "UNI-T Luxury": "Ajustable manualmente",
+        "UNI-T Elite": "Ajustable manualmente"
+      },
+      {
+        "caracteristica": "Asiento conductor - corredera",
+        "UNI-T Luxury": "Ajustable manualmente",
+        "UNI-T Elite": "Eléctrica"
+      },
+      {
+        "caracteristica": "Asiento conductor - regulación en altura",
+        "UNI-T Luxury": "Ajustable manualmente",
+        "UNI-T Elite": "Eléctrica"
+      },
+      {
+        "caracteristica": "Asiento conductor - respaldo",
+        "UNI-T Luxury": "Ajustable manualmente",
+        "UNI-T Elite": "Eléctrica"
+      },
+      {
+        "caracteristica": "Asiento conductor - ajuste lumbar",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Balizas (triángulo en herramientas)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Tapiz, asientos y costuras deportivas",
+        "UNI-T Luxury": "Negro",
+        "UNI-T Elite": "Negro"
+      },
+      {
+        "caracteristica": "Cierre centralizado",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Columna de dirección regulable en altura y profundidad",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Comando a distancia (cierre centralizado)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Información de temperatura exterior",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Luneta trasera térmica (defroster)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Regulación interna de altura de luces",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Tipo encendido",
+        "UNI-T Luxury": "Manual",
+        "UNI-T Elite": "Manual"
+      },
+      {
+        "caracteristica": "Toma corriente 12 volts interior",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Visualización de la cámara en pantalla lcd",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Alarma de luces encendidos",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apple car play / Bluetooth / Car Auto Global",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Computadora de abordo",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Entrada usb externa",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Lcd delantero central con touchscreen",
+        "UNI-T Luxury": "10,3’",
+        "UNI-T Elite": "10,3’"
+      },
+      {
+        "caracteristica": "Parlantes delanteros (un)",
+        "UNI-T Luxury": 2,
+        "UNI-T Elite": 2
+      },
+      {
+        "caracteristica": "Parlantes traseros (un)",
+        "UNI-T Luxury": 2,
+        "UNI-T Elite": 2
+      },
+      {
+        "caracteristica": "Tweeters",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Volante multifunción",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Salida ventilación trasera",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Tablero instrumentos",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Espejo en parasoles",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Manillas interiores cromadas",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Bolsillo tras asiento piloto copiloto",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apoya brazo trasero plegable",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apertura 4 ventanas desde botón llave",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Calefactor asientos delanteros",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Respaldos traseros plegables",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Función luces sígueme a casa",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Luces altas con regulación automática",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Luz en maletero",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Apertura maleta eléctrica",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Capacidad del maletero",
+        "UNI-T Luxury": "290/350 Lts.",
+        "UNI-T Elite": "290/350 Lts."
+      },
+      {
+        "caracteristica": "Sistema apertura vidrios one touch",
+        "UNI-T Luxury": "Piloto - Autodown",
+        "UNI-T Elite": "4"
+      },
+      {
+        "caracteristica": "Función anti pinch ventanas",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      }
+    ],
+    "seguridad": [
+      {
+        "caracteristica": "Control crucero",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": false
+      },
+      {
+        "caracteristica": "Control crucero adaptativo",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Asistente de conducción semi-autónoma, volante, freno y acelerador",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema de ayuda de partida en pendiente (HHC)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema de ayuda de bajada en pendiente (HDC)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Advertencia y asistente salida carril sonido, vibración (LDW)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Airbag conductor",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Airbag pasajero",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Airbag lateral",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Airbag cortina",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Advertencia de colisión frontal FCW (modo de advertencia: sonido y video)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cámaras (4) de grabación continua",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "ABS+EBD",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Frenos delanteros",
+        "UNI-T Luxury": "Discos ventilados",
+        "UNI-T Elite": "Discos ventilados"
+      },
+      {
+        "caracteristica": "Frenos traseros",
+        "UNI-T Luxury": "Discos sólidos",
+        "UNI-T Elite": "Discos sólidos"
+      },
+      {
+        "caracteristica": "Alarma de cint. de seg. desconectados",
+        "UNI-T Luxury": "Conductor-copiloto",
+        "UNI-T Elite": "Conductor-copiloto"
+      },
+      {
+        "caracteristica": "Alarma de puertas abiertas",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Anclaje ISOFIX para niños",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Asistencia al frenado de urgencia (BAS, AEB-P)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cinturones delanteros 3 puntos (con limitador y pretensor)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cinturones trasero central",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cinturones traseros (de 3 puntos)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Alarma cinturón desabrochado (piloto -copiloto)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Columna de dirección colapsable",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Control de estabilidad (ESP)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Control de tracción (TCS)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema inmovilizador antirrobo",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Ayuda salida pendiente (HHC)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Ayuda descenso pendiente (HDC)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Asistente freno en tráfico (Auto Hold)",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema de asistencia de mantenimiento de carril (LCDA)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema de advertencia de salida de carril (LDW)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Cierre automático seguros sobre 20 KM/Hr",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema encendido Keyless",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      }
+    ],
+    "adas": [
+      {
+        "caracteristica": "Control crucero adaptativo",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Asistente de conducción semi-autónoma, volante, freno y acelerador",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Advertencia y asistente salida carril sonido, vibración (LDW)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Advertencia de colisión frontal FCW (modo de advertencia: sonido y video)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Asistencia al frenado de urgencia (BAS, AEB-P)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Sistema de asistencia de mantenimiento de carril (LCDA)",
+        "UNI-T Luxury": false,
+        "UNI-T Elite": true
+      }
+    ],
+    "tecnologia": [
+      {
+        "caracteristica": "Apple car play / Bluetooth / Car Auto Global",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      },
+      {
+        "caracteristica": "Lcd delantero central con touchscreen",
+        "UNI-T Luxury": "10,3’",
+        "UNI-T Elite": "10,3’"
+      },
+      {
+        "caracteristica": "Visualización de la cámara en pantalla lcd",
+        "UNI-T Luxury": true,
+        "UNI-T Elite": true
+      }
+    ]
+  },
+  "equipamiento_estandar_todas_versiones": {
+    "exterior": [
+      "Espejos retrovisores eléctricos",
+      "Limpiaparabrisas con velocidad variable",
+      "Limpiaparabrisas con sensor lluvia",
+      "Luz de día (LED)",
+      "Faros delanteros Led",
+      "Faros traseros Led",
+      "Intermitentes laterales en espejos",
+      "Manillas exteriores de puertas eléctricas",
+      "Neblineros traseros",
+      "Parachoques color carrocería",
+      "Retrovisores exteriores (color) delantero bicolor",
+      "Sensores de estacionamiento delantero",
+      "Sensor de retroceso",
+      "Tercera luz de freno",
+      "Spoiler"
+    ],
+    "interior": [
+      "Alfombras delanteras/traseras",
+      "Alzavidrios eléctricos",
+      "Apoyabrazos delantero central",
+      "Apoyabrazos delantero con portaobjetos",
+      "Apoyabrazos trasero central",
+      "Cámara de retroceso",
+      "Comando de radio al volante",
+      "Computadora bordo",
+      "Luz de lectura delantera",
+      "Manillas interiores (techo y laterales)",
+      "Parasol con espejos de cortesía conductor",
+      "Portamapas respaldos delanteros",
+      "Portavasos delanteros (2 centrales)",
+      "Portavasos traseros puertas",
+      "Tapiz asientos cuero",
+      "Apoyacabezas delanteros (2)",
+      "Apoyacabezas traseros (3)",
+      "Balizas (triángulo en herramientas)",
+      "Tapiz asientos y costuras deportivas negro",
+      "Cierre centralizado",
+      "Columna de dirección regulable en altura y profundidad",
+      "Comando a distancia (cierre centralizado)",
+      "Luneta trasera térmica (defroster)",
+      "Regulación interna de altura de luces",
+      "Toma corriente 12 volts interior",
+      "Visualización de la cámara en pantalla lcd",
+      "Alarma de luces encendidos",
+      "Apple car play / Bluetooth / Car Auto Global",
+      "Computadora de abordo",
+      "Entrada usb externa",
+      "Volante multifunción",
+      "Salida ventilación trasera",
+      "Tablero instrumentos",
+      "Espejo en parasoles",
+      "Apertura 4 ventanas desde botón llave",
+      "Calefactor asientos delanteros",
+      "Respaldos traseros plegables",
+      "Función luces sígueme a casa",
+      "Luz en maletero",
+      "Capacidad del maletero 290/350 Lts.",
+      "Función anti pinch ventanas"
+    ],
+    "seguridad": [
+      "Sistema de ayuda de partida en pendiente (HHC)",
+      "Sistema de ayuda de bajada en pendiente (HDC)",
+      "Sistema de monitoreo de presión de neumáticos (TPMS)",
+      "Airbag conductor",
+      "Airbag pasajero",
+      "Airbag lateral",
+      "Airbag cortina",
+      "Cámaras (4) de grabación continua",
+      "ABS+EBD",
+      "Frenos delanteros discos ventilados",
+      "Frenos traseros discos sólidos",
+      "Alarma de cint. de seg. desconectados conductor-copiloto",
+      "Alarma de puertas abiertas",
+      "Anclaje ISOFIX para niños",
+      "Cinturones delanteros 3 puntos (con limitador y pretensor)",
+      "Cinturones trasero central",
+      "Cinturones traseros (de 3 puntos)",
+      "Alarma cinturón desabrochado (piloto -copiloto)",
+      "Columna de dirección colapsable",
+      "Control de estabilidad (ESP)",
+      "Control de tracción (TCS)",
+      "Sistema inmovilizador antirrobo",
+      "Ayuda salida pendiente (HHC)",
+      "Ayuda descenso pendiente (HDC)",
+      "Asistente freno en tráfico (Auto Hold)",
+      "Cierre automático seguros sobre 20 KM/Hr",
+      "Sistema encendido Keyless"
+    ],
+    "tecnologia": [
+      "Apple car play / Bluetooth / Car Auto Global",
+      "Visualización de la cámara en pantalla lcd"
+    ],
+    "adas": []
+  },
+  "colores": [],
+  "metadata": {
+    "fecha_extraccion": "2026-03-30",
+    "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (SI=true, vacío o -=false; texto/valores tal cual)",
+    "fuente": "ficha-tecnica_changan-unit_2025.pdf",
+    "versiones_en_documento": 2,
+    "notas": "Se incluyó la información visible en las tablas de exterior, interior, seguridad, neumáticos, dimensiones, especificaciones técnicas y rendimiento. Los nombres de colores no aparecen legibles en el documento, por eso se dejan sin detallar."
+  }
+}

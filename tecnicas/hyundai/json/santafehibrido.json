@@ -1,0 +1,205 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Santa Fe Hibrido",
+        "año": null,
+        "versiones": [
+            "1.6T_HEV_AT_DESIGN",
+            "1.6T_HEV_AWD_PREMIUM",
+            "1.6T_HEV_AWD_LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": "Turbo HEV",
+        "cilindrada": "1.598 cc",
+        "potencia_hp": "215 HP a 5.600 Rpm",
+        "potencia_rpm": "5.600",
+        "torque_nm": {
+            "motor_combustion": "265 Nm",
+            "motor_electrico": "264 Nm",
+            "combinado": "367 Nm"
+        },
+        "torque_rpm": {
+            "motor_combustion": "1.500 - 3.500",
+            "motor_electrico": "1.600",
+            "combinado": "1.000 - 4.100"
+        },
+        "combustible": "Bencina",
+        "transmision": "Automática 6 velocidades",
+        "traccion": {
+            "1.6T_HEV_AT_DESIGN": "2WD",
+            "1.6T_HEV_AWD_PREMIUM": "AWD",
+            "1.6T_HEV_AWD_LIMITED": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "255/45R20",
+        "rueda_repuesto": "Rueda de repuesto tamaño completo de aleación"
+    },
+    "dimensiones": {
+        "largo_mm": 4830,
+        "ancho_mm": 1900,
+        "alto_mm": "1720 (1770 con barras techo)",
+        "distancia_ejes_mm": 2815,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.6T_HEV_AT_DESIGN": 2640,
+            "1.6T_HEV_AWD_PREMIUM": 2680,
+            "1.6T_HEV_AWD_LIMITED": 2680
+        },
+        "capacidad_maletero_lts": "628 (Desde la segunda corrida)",
+        "capacidad_estanque_lts": 67
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "1.6T_HEV_AT_DESIGN": "20\"",
+            "1.6T_HEV_AWD_PREMIUM": "20\"",
+            "1.6T_HEV_AWD_LIMITED": "20\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "FCA 2.0",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "BCA",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": true,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "RCCA",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": true,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "BVM",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "PCA",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tablero digital",
+                "1.6T_HEV_AT_DESIGN": "4,2\"",
+                "1.6T_HEV_AWD_PREMIUM": "12,3\"",
+                "1.6T_HEV_AWD_LIMITED": "12,3\""
+            },
+            {
+                "caracteristica": "Tapiz",
+                "1.6T_HEV_AT_DESIGN": "Cuero",
+                "1.6T_HEV_AWD_PREMIUM": "Cuero",
+                "1.6T_HEV_AWD_LIMITED": "Cuero"
+            },
+            {
+                "caracteristica": "Ajuste asiento conductor",
+                "1.6T_HEV_AT_DESIGN": "Eléctrico",
+                "1.6T_HEV_AWD_PREMIUM": "Eléctrico",
+                "1.6T_HEV_AWD_LIMITED": "Eléctrico con 2 memorias"
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "Techo Panorámico",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            },
+            {
+                "caracteristica": "Audio Premium Bose",
+                "1.6T_HEV_AT_DESIGN": false,
+                "1.6T_HEV_AWD_PREMIUM": false,
+                "1.6T_HEV_AWD_LIMITED": true
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "ESP",
+            "HAC",
+            "DBC",
+            "TPMS",
+            "LKA",
+            "LFA",
+            "SSC",
+            "Advertencia atención conductor",
+            "Isofix 2 segunda fila / 1 tercera fila"
+        ],
+        "interior": [
+            "Alza vidrios eléctricos totales",
+            "Asientos abatibles 60/40",
+            "Asientos tercera corrida 50/50",
+            "Barras techo",
+            "Climatizador Tri-Zona",
+            "Control audio al volante con reconocimiento de voz",
+            "Cargador inalámbrico",
+            "Freno mano eléctrico",
+            "Luz ambiente",
+            "Portalón trasero eléctrico inteligente",
+            "Radio Touch 12,3\" Apple CarPlay / Android Auto inalámbrico",
+            "Selector modo manejo (Eco / Sport / My Drive)",
+            "Volante regulable altura y profundidad",
+            "Volante forrado en cuero",
+            "Paddle Shift con frenado regenerativo",
+            "Puertos USB 6"
+        ],
+        "exterior": [
+            "Luces delanteras LED",
+            "Luces traseras LED",
+            "DRL LED",
+            "Neblinero trasero LED",
+            "Vidrios traseros tinteados"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-santa-fe-mx5-hev.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos únicamente desde la tabla comparativa visual del documento."
+    }
+}

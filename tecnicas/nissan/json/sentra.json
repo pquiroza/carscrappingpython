@@ -1,0 +1,341 @@
+{
+    "vehiculo": {
+        "marca": "Nissan",
+        "modelo": "Sentra",
+        "año": 2024,
+        "versiones": [
+            "SENSE MT",
+            "ADVANCE CVT",
+            "EXCLUSIVE CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SENSE MT": "2.0",
+            "ADVANCE CVT": "2.0",
+            "EXCLUSIVE CVT": "2.0"
+        },
+        "cilindrada": {
+            "SENSE MT": 1997,
+            "ADVANCE CVT": 1997,
+            "EXCLUSIVE CVT": 1997
+        },
+        "potencia_hp": {
+            "SENSE MT": "145",
+            "ADVANCE CVT": "145",
+            "EXCLUSIVE CVT": "145"
+        },
+        "potencia_rpm": {
+            "SENSE MT": "6.000",
+            "ADVANCE CVT": "6.000",
+            "EXCLUSIVE CVT": "6.000"
+        },
+        "torque_nm": {
+            "SENSE MT": "196",
+            "ADVANCE CVT": "196",
+            "EXCLUSIVE CVT": "196"
+        },
+        "torque_rpm": {
+            "SENSE MT": "4.000",
+            "ADVANCE CVT": "4.000",
+            "EXCLUSIVE CVT": "4.000"
+        },
+        "combustible": "93 octanos o superior",
+        "transmision": {
+            "SENSE MT": "MT 6 velocidades",
+            "ADVANCE CVT": "CVT (Continua variable)",
+            "EXCLUSIVE CVT": "CVT (Continua variable)"
+        },
+        "traccion": {
+            "SENSE MT": "2WD",
+            "ADVANCE CVT": "2WD",
+            "EXCLUSIVE CVT": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mc Pherson con barra estabilizadora",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "SENSE MT": "205/60 R16",
+            "ADVANCE CVT": "215/50 R17",
+            "EXCLUSIVE CVT": "215/50 R17"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4646,
+        "ancho_mm": 1815,
+        "alto_mm": 1457,
+        "distancia_ejes_mm": 2710,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "SENSE MT": 1755,
+            "ADVANCE CVT": 1800,
+            "EXCLUSIVE CVT": 1800
+        },
+        "capacidad_maletero_lts": 466,
+        "capacidad_estanque_lts": 47,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "SENSE MT": "10,1",
+            "ADVANCE CVT": "11,1",
+            "EXCLUSIVE CVT": "11,1"
+        },
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "SENSE MT": "19,8",
+            "ADVANCE CVT": "20,7",
+            "EXCLUSIVE CVT": "20,7"
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "SENSE MT": "14,6",
+            "ADVANCE CVT": "15,7",
+            "EXCLUSIVE CVT": "15,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico",
+                "SENSE MT": true,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Espejos exteriores abatibles de color de la carrocería con ajuste eléctrico y señalizador",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Espejos exteriores con señalizador al color de la carrocería abatibles eléctrico",
+                "SENSE MT": false,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Luces con encendido y apagado automático",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Luces delanteras / traseras LED con signature lamp",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "SENSE MT": false,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "SENSE MT": "16\" Aluminio",
+                "ADVANCE CVT": "17\" Aluminio",
+                "EXCLUSIVE CVT": "17\" Aluminio"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "SENSE MT": true,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Aire acondicionado automático bizona",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Asientos tapizados en tela",
+                "SENSE MT": true,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Asientos de cuero delanteros calefaccionados",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Volante con ajuste telescópico y de altura de cuero",
+                "SENSE MT": true,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Volante con ajuste telescópico y de altura de cuero, calefaccionado",
+                "SENSE MT": false,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Descansa brazos delantero para conductor",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Asistente de conductor con display 4,2\" a color (TFT) con indicador de temperatura exterior",
+                "SENSE MT": true,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Asistente de conductor con display 7\" a color (TFT) con indicador de temperatura exterior",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Sistema de audio con 6 parlantes, reconocimiento de voz, pantalla táctil 8\" Android y Carplay",
+                "SENSE MT": true,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": false
+            },
+            {
+                "caracteristica": "Sistema de audio con 8 parlantes Bose, reconocimiento de voz, pantalla táctil 8\" Android y Carplay",
+                "SENSE MT": false,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Modo manejo Sport",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso con sensores delanteros (4) y traseros (4)",
+                "SENSE MT": true,
+                "ADVANCE CVT": "AVM",
+                "EXCLUSIVE CVT": "AVM"
+            },
+            {
+                "caracteristica": "Alerta de olvido cinturón en asiento trasero",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Sistema monitoreo de presión de neumáticos (TPMS)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Alerta de cambio de carril (LDW)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Frenado de emergencia frontal con detección de peatones (FEB-Ped)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado (RCTA)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Alerta de punto ciego (BSW)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Asistente de luces altas en carretera (HBA)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Alerta de atención al conductor (DAA)",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Monitor de visión periférica (AVM) con detección de objetos en movimiento",
+                "SENSE MT": false,
+                "ADVANCE CVT": true,
+                "EXCLUSIVE CVT": true
+            },
+            {
+                "caracteristica": "Control crucero inteligente (ICC)",
+                "SENSE MT": false,
+                "ADVANCE CVT": false,
+                "EXCLUSIVE CVT": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Limpiaparabrisas intermitente con velocidad variable"
+        ],
+        "interior": [
+            "Asiento del conductor con ajuste de altura",
+            "Asientos delanteros con cabeceras ajustables",
+            "Asiento trasero abatible 60/40",
+            "Consola central con portavasos delanteros (2)",
+            "Luz en maletera",
+            "Botón de encendido y apagado de motor (ligado a llave inteligente)",
+            "Controles de audio, manos libre (Bluetooth)",
+            "Llave inteligente i-Key con función de apertura, cierre de puertas, cajuela y alarma de pánico",
+            "USB (1 frontal & 2 consola central) & 12V"
+        ],
+        "seguridad": [
+            "Airbags frontales, laterales y tipo cortina",
+            "Recordatorio de cinturones de seguridad (conductor y pasajero)",
+            "Sensores de retroceso (4)",
+            "Anclaje ISOFIX",
+            "Alarma a control remoto con inmovilizador",
+            "Asistente de ascenso en pendientes (HSA)",
+            "Control dinámico vehicular (VDC)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Alerta de colisión frontal (FCW)",
+            "Frenado de emergencia frontal (FEB)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Nissan (punto=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "FICHA TECNICA SENTRA MC 2024.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo la información visible del documento, separando equipamiento estándar para todas las versiones y equipamiento diferencial por versión. Donde el documento no muestra el dato, se dejó null o arreglo vacío sin inferir."
+    }
+}

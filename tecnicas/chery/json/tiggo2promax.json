@@ -1,0 +1,146 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 2 PRO MAX",
+        "año": null,
+        "versiones": [
+            "1_5_MT_GL",
+            "1_5_MT_GLX",
+            "1_5_CVT_GLX"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5L",
+        "cilindrada": "1499",
+        "potencia_hp": "114",
+        "potencia_rpm": "6150",
+        "torque_nm": "143",
+        "torque_rpm": "4000",
+        "combustible": "Gasolina",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "1_5_MT_GL": "MT 5",
+        "1_5_MT_GLX": "MT 5",
+        "1_5_CVT_GLX": "CVT 9"
+    },
+    "traccion": "Delantera",
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Independiente con brazo de arrastre",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": {
+            "1_5_MT_GL": false,
+            "1_5_MT_GLX": true,
+            "1_5_CVT_GLX": true
+        }
+    },
+    "dimensiones": {
+        "plazas": 5,
+        "largo_mm": "4200",
+        "ancho_mm": "1760",
+        "alto_mm": "1570",
+        "distancia_ejes_mm": "2555",
+        "capacidad_maletero_lts": "320",
+        "capacidad_estanque_lts": "48"
+    },
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Encendido keyless",
+                "1_5_MT_GL": false,
+                "1_5_MT_GLX": false,
+                "1_5_CVT_GLX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1_5_MT_GL": false,
+                "1_5_MT_GLX": true,
+                "1_5_CVT_GLX": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "1_5_MT_GL": false,
+                "1_5_MT_GLX": true,
+                "1_5_CVT_GLX": true
+            },
+            {
+                "caracteristica": "Luz ambiental",
+                "1_5_MT_GL": false,
+                "1_5_MT_GLX": true,
+                "1_5_CVT_GLX": true
+            }
+        ],
+        "audio_multimedia": [
+            {
+                "caracteristica": "Radio parlantes",
+                "1_5_MT_GL": "4 parlantes",
+                "1_5_MT_GLX": "4 parlantes",
+                "1_5_CVT_GLX": "6 parlantes"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "1_5_MT_GL": "9\"",
+                "1_5_MT_GLX": "10.25\"",
+                "1_5_CVT_GLX": "10.25\""
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Faros LED",
+                "1_5_MT_GL": false,
+                "1_5_MT_GLX": true,
+                "1_5_CVT_GLX": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "1_5_MT_GL": "Aleación 16\"",
+                "1_5_MT_GLX": "Aleación Bicolor 17\"",
+                "1_5_CVT_GLX": "Aleación Bicolor 17\""
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS + EBD + BOS",
+            "Airbags delanteros",
+            "ESP",
+            "TCS",
+            "EBA",
+            "ISOFIX",
+            "Cinturones 3 puntas",
+            "HAC",
+            "Cierre automático puertas",
+            "Inmovilizador"
+        ],
+        "confort": [
+            "Aire acondicionado",
+            "Alzavidrios eléctricos",
+            "Computador a bordo",
+            "Tapiz tela/ecocuero",
+            "Asiento conductor 6 posiciones",
+            "Volante multifunción cuero",
+            "Bluetooth",
+            "Apple CarPlay",
+            "Android Auto"
+        ],
+        "exterior": [
+            "Espejos eléctricos",
+            "Luz diurna LED",
+            "Cámara retroceso",
+            "Spoiler",
+            "Barras techo"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 2 Pro Max",
+        "versiones_en_documento": 3,
+        "notas": "Datos tomados literalmente de la tabla técnica."
+    }
+}

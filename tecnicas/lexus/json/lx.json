@@ -1,0 +1,120 @@
+{
+    "vehiculo": {
+        "marca": "Lexus",
+        "modelo": "LX 500d",
+        "año": null,
+        "versiones": [
+            "F-SPORT_AWD_DIESEL"
+        ]
+    },
+    "motor": {
+        "tipo": "F33A-FTV",
+        "cilindrada": "3.346 cc Twin Turbo / V6",
+        "potencia_hp": "304 hp",
+        "potencia_rpm": null,
+        "torque_nm": "700 nm",
+        "torque_rpm": null,
+        "combustible": "Diesel",
+        "transmision": "10 AT",
+        "traccion": "AWD"
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": "265 / 50R22",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5100,
+        "ancho_mm": 1990,
+        "alto_mm": 1895,
+        "distancia_ejes_mm": 2850,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 1109,
+        "capacidad_estanque_lts": 80
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta aleación",
+            "F-SPORT_AWD_DIESEL": "22\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Suspensión variable adaptativa (AVS)",
+                "F-SPORT_AWD_DIESEL": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Lexus Safety System+",
+            "Control activo de altura (AHC)",
+            "Crawl control y asistencia de descenso (DAC)",
+            "Detector punto ciego (BSM) con RCTA",
+            "Freno de apoyo de estacionamiento (PKSB)",
+            "Frenos ABS / Control de estabilidad (VSC)",
+            "Head up display (HUD)",
+            "Luces altas adaptativas (AHS)",
+            "Sensores estacionamiento delanteros y traseros",
+            "Alerta tráfico cruzado con freno de emergencia",
+            "SRS Airbag 10"
+        ],
+        "interior": [
+            "Climatizador tetra-zona",
+            "Ajuste asiento copiloto eléctrico 8 posiciones",
+            "Ajuste asiento piloto eléctrico 10 posiciones",
+            "Asientos calefaccionados y climatizados delanteros y traseros",
+            "Asientos delanteros con ajuste lumbar",
+            "Cargador inalámbrico",
+            "Cool Box",
+            "Display de operación múltiple",
+            "Espejo retrovisor electrocromático digital",
+            "Freno mano electrónico EPB con Brake Hold",
+            "Modos conducción: Normal, Eco, Comfort, Sport S, Sport S+ y Custom",
+            "Monitor multiterreno",
+            "Pantalla Touch 12,3\" con ACP inalámbrico y AA",
+            "Puerto USB 3 delanteros y 2 traseros",
+            "Reconocimiento huella digital",
+            "Sistema audio 25 parlantes Mark Levinson",
+            "Sunroof",
+            "Tapizado cuero Premium",
+            "Volante forrado cuero con paddle shift calefaccionado"
+        ],
+        "exterior": [
+            "Cámara panorámica 360°",
+            "Focos Tri-LED",
+            "Limpiaparabrisas con sensor lluvia",
+            "Luces diurnas LED",
+            "Neblineros delanteros y trasero",
+            "Portalón manos libres"
+        ],
+        "tecnologia": [
+            "Butacas deportivas F-Sport",
+            "Diseño F-Sport",
+            "Palanca cambios F-Sport",
+            "Pedales deportivos",
+            "Volante F-Sport"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "ORIG_LEXUS_FICHA_LX500d_7MMM8s6.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Documento corresponde a LX 500d Diesel versión F-Sport AWD."
+    }
+}

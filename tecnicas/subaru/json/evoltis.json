@@ -1,0 +1,268 @@
+{
+    "vehiculo": {
+        "marca": "Subaru",
+        "modelo": "EVOLTIS",
+        "año": 2026,
+        "versiones": [
+            "2.4T AWD CVT Limited GardX",
+            "2.4T AWD CVT Touring GardX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "2.4T AWD CVT Limited GardX": "Subaru Boxer DOHC de 4 cilindros Turboalimentado",
+            "2.4T AWD CVT Touring GardX": "Subaru Boxer DOHC de 4 cilindros Turboalimentado"
+        },
+        "cilindrada": {
+            "2.4T AWD CVT Limited GardX": 2387,
+            "2.4T AWD CVT Touring GardX": 2387
+        },
+        "potencia_hp": {
+            "2.4T AWD CVT Limited GardX": "260",
+            "2.4T AWD CVT Touring GardX": "260"
+        },
+        "potencia_rpm": {
+            "2.4T AWD CVT Limited GardX": "5.600",
+            "2.4T AWD CVT Touring GardX": "5.600"
+        },
+        "torque_nm": {
+            "2.4T AWD CVT Limited GardX": "375",
+            "2.4T AWD CVT Touring GardX": "375"
+        },
+        "torque_rpm": {
+            "2.4T AWD CVT Limited GardX": "2.000 - 4.800",
+            "2.4T AWD CVT Touring GardX": "2.000 - 4.800"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "2.4T AWD CVT Limited GardX": "Lineartronic CVT",
+            "2.4T AWD CVT Touring GardX": "Lineartronic CVT"
+        },
+        "traccion": "Symmetrical AWD, tracción permanente en las cuatro ruedas"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mac Pherson",
+        "suspension_trasera": "Independiente de doble brazo oscilante",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": "Electrónico con AVH",
+        "neumaticos": {
+            "2.4T AWD CVT Limited GardX": "245 / 50 R20",
+            "2.4T AWD CVT Touring GardX": "245 / 50 R20"
+        },
+        "rueda_repuesto": "165 / 90 D18"
+    },
+    "dimensiones": {
+        "largo_mm": 4998,
+        "ancho_mm": 1930,
+        "alto_mm": 1819,
+        "distancia_ejes_mm": 2890,
+        "despeje_suelo_mm": 220,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "2435,3 / 1331",
+        "capacidad_estanque_lts": 73,
+        "numero_pasajeros": {
+            "2.4T AWD CVT Limited GardX": 8,
+            "2.4T AWD CVT Touring GardX": 7
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "2.4T AWD CVT Limited GardX": "208",
+            "2.4T AWD CVT Touring GardX": "208"
+        },
+        {
+            "caracteristica": "Relación de engranajes Posición D",
+            "2.4T AWD CVT Limited GardX": "3,490 - 0,506",
+            "2.4T AWD CVT Touring GardX": "3,490 - 0,506"
+        },
+        {
+            "caracteristica": "1a",
+            "2.4T AWD CVT Limited GardX": "3.490 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "3.490 (Modo Manual)"
+        },
+        {
+            "caracteristica": "2a",
+            "2.4T AWD CVT Limited GardX": "2.497 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "2.497 (Modo Manual)"
+        },
+        {
+            "caracteristica": "3a",
+            "2.4T AWD CVT Limited GardX": "1.788 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "1.788 (Modo Manual)"
+        },
+        {
+            "caracteristica": "4a",
+            "2.4T AWD CVT Limited GardX": "1.381 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "1.381 (Modo Manual)"
+        },
+        {
+            "caracteristica": "5a",
+            "2.4T AWD CVT Limited GardX": "1.065 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "1.065 (Modo Manual)"
+        },
+        {
+            "caracteristica": "6a",
+            "2.4T AWD CVT Limited GardX": "0.830 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "0.830 (Modo Manual)"
+        },
+        {
+            "caracteristica": "7a",
+            "2.4T AWD CVT Limited GardX": "0.653 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "0.653 (Modo Manual)"
+        },
+        {
+            "caracteristica": "8a",
+            "2.4T AWD CVT Limited GardX": "0.506 (Modo Manual)",
+            "2.4T AWD CVT Touring GardX": "0.506 (Modo Manual)"
+        },
+        {
+            "caracteristica": "Reversa",
+            "2.4T AWD CVT Limited GardX": "3,394",
+            "2.4T AWD CVT Touring GardX": "3,394"
+        },
+        {
+            "caracteristica": "Reducción final",
+            "2.4T AWD CVT Limited GardX": "4,111",
+            "2.4T AWD CVT Touring GardX": "4,111"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (kg)",
+            "2.4T AWD CVT Limited GardX": "2.083",
+            "2.4T AWD CVT Touring GardX": "2.081"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales abatibles eléctricamente",
+                "2.4T AWD CVT Limited GardX": false,
+                "2.4T AWD CVT Touring GardX": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "2.4T AWD CVT Limited GardX": false,
+                "2.4T AWD CVT Touring GardX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cámara 360°",
+                "2.4T AWD CVT Limited GardX": false,
+                "2.4T AWD CVT Touring GardX": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor inteligente con cámara",
+                "2.4T AWD CVT Limited GardX": false,
+                "2.4T AWD CVT Touring GardX": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "2.4T AWD CVT Limited GardX": true,
+                "2.4T AWD CVT Touring GardX": false
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "2.4T AWD CVT Limited GardX": false,
+                "2.4T AWD CVT Touring GardX": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "Sistema de monitorización del conductor (DMS)",
+                "2.4T AWD CVT Limited GardX": false,
+                "2.4T AWD CVT Touring GardX": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros LED con SRH",
+            "Neblineros delanteros",
+            "Faros traseros LED",
+            "Espejos laterales calefaccionados",
+            "Sensor de luz",
+            "Llantas de aleación Aro 20''",
+            "Sunroof",
+            "Spoiler de techo",
+            "Rieles de Techo",
+            "Portalón automático",
+            "Vidrios Tintados No",
+            "Gardx: Protección de pintura, cristales y telas. Incluye kit de lavado, conservación, removedor de excrementos de aves y kit de reparación de neumáticos"
+        ],
+        "interior": [
+            "Volante con regulación vertical y ajuste telescópico",
+            "Subaru Infotainment con pantalla táctil de 11,6''",
+            "Apple CarPlay y Android Auto (sujeto a compatibilidad)",
+            "Sistema de Conexión de Cabina",
+            "Sistema de Audio Premium Harman Kardon",
+            "Número de parlantes 12",
+            "Navegador Satelital",
+            "Medidor Combinado: Información de Conducción y Manejo 4,2''",
+            "Selector de cambios en el volante \"Paddle Shift\"",
+            "X-MODE",
+            "Control de velocidad crucero",
+            "Controles de Bluetooth y audio al volante",
+            "Climatizador automático Tri zona",
+            "Entrada USB 8",
+            "Sistema de acceso/encendido motor sin llave - Smart Key",
+            "Sistema de llave por control a distancia",
+            "Cubre equipaje retráctil",
+            "Cantidad de portavasos 19",
+            "Volante y palanca de cambios tapizados en cuero",
+            "Volante calefaccionado",
+            "Tapiz Cuero",
+            "Segunda corrida de asientos calefaccionados",
+            "Asientos piloto y co-piloto con ajuste eléctrico de 8 posiciones",
+            "Asiento conductor con memoria 2 posiciones"
+        ],
+        "seguridad": [
+            "Symmetrical AWD, tracción permanente en las cuatro ruedas",
+            "Sistema de frenos ABS con EBD",
+            "Control Electrónico de Estabilidad (VDC)",
+            "Vectorización Activa de Torque (ATV)",
+            "N° de Airbags 7 (Frontales, laterales, de cortina y de rodilla)",
+            "Asiento trasero con soporte tipo ISOFIX para silla de niños",
+            "Apoya cabeza delanteros activos",
+            "Freno estacionamiento electrónico con AVH",
+            "Frenado Automático en Reversa (RAB), con sensores de estacionamiento"
+        ],
+        "tecnologia": [
+            "Sistema de Audio Premium Harman Kardon",
+            "Navegador Satelital",
+            "Sistema de Conexión de Cabina"
+        ],
+        "adas": [
+            "Sistema Subaru de Detección Trasera de Vehículos (SRVD)",
+            "Monitor del Punto Ciego (BSD)",
+            "Asistencia de Cambio de Carril (LCA)",
+            "Alerta de Tráfico Trasero Cruzado (RCTA)",
+            "Sistema de Asistencia a la Conducción Subaru EyeSight",
+            "Frenado Previo a la Colisión",
+            "Control Crucero Adaptativo",
+            "Gestión del Acelerador Previo a la Colisión",
+            "Aviso de Arranque del Vehículo Precedente",
+            "Advertencia de Salida Involuntaria de Carril",
+            "Advertencia de Vaivén en el Carril",
+            "Corrección de Volante",
+            "Control de Dirección Adaptativa",
+            "Dirección de Emergencia Autónoma",
+            "Monitor de Asistencia EyeSight",
+            "Vibración de volante"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Subaru (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "spec-evoltis-2026-a4-web_compressed.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo la información visible del documento. No se informan colores en la ficha. En capacidad de maleta se conservó el valor tal como aparece en el PDF."
+    }
+}

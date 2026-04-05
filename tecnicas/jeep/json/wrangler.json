@@ -1,0 +1,191 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Wrangler",
+        "año": null,
+        "versiones": [
+            "SPORT",
+            "SAHARA",
+            "RUBICON"
+        ]
+    },
+    "motor": {
+        "tipo": "2.0L 4 Cil. en línea, turbo con inyección directa, con sistema Stop/Start",
+        "cilindrada": "1995 cc / 2.0 L",
+        "disposicion_cilindros": "4 cilindros en línea",
+        "potencia_hp": "270 HP (200 kW)",
+        "torque_nm": "400 Nm",
+        "transmision": "Automática 8 velocidades 850RE",
+        "combustible": "Gasolina",
+        "traccion": {
+            "SPORT": "Selec-Trac Full Time 4WD (relación final 2.72)",
+            "SAHARA": "Selec-Trac Full Time 4WD (relación final 2.72)",
+            "RUBICON": "Rock-Trac Full Time 4WD (relación final 4.1:1)"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida electrohidráulicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente, brazos oscilantes, resortes helicoidales",
+        "suspension_trasera": "Semi independiente, resorte transversal multibrazos y resorte helicoidal",
+        "neumaticos": {
+            "SPORT": "245/75R17",
+            "SAHARA": "255/70R18",
+            "RUBICON": "LT255/75R17C"
+        },
+        "rueda_repuesto": "Tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 4785,
+        "ancho_mm": 1877,
+        "alto_mm": 1868,
+        "distancia_ejes_mm": 2465,
+        "despeje_suelo_mm": {
+            "SPORT": 242,
+            "SAHARA": 242,
+            "RUBICON": 252
+        },
+        "peso_bruto_kg": {
+            "SPORT": 2495,
+            "SAHARA": 2540,
+            "RUBICON": 2710
+        },
+        "capacidad_tanque_lts": 86
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "SPORT": "17x7.5 Gris",
+            "SAHARA": "18x7.5 mecanizadas/gris",
+            "RUBICON": "17x7.5 mecanizadas/negro"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "SPORT": 2495,
+            "SAHARA": 2540,
+            "RUBICON": 2710
+        }
+    ],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asientos tapizados",
+                "SPORT": "Tela",
+                "SAHARA": "Cuero estilo McKinley",
+                "RUBICON": "Cuero estilo Nappa"
+            },
+            {
+                "caracteristica": "Ajuste asiento eléctrico 8 posiciones",
+                "SPORT": false,
+                "SAHARA": true,
+                "RUBICON": true
+            },
+            {
+                "caracteristica": "Techo duro Mopar tapizado",
+                "SPORT": false,
+                "SAHARA": false,
+                "RUBICON": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Parachoques delantero negro moldeado",
+                "SPORT": true,
+                "SAHARA": false,
+                "RUBICON": false
+            },
+            {
+                "caracteristica": "Techo rígido 3 piezas color carrocería",
+                "SPORT": false,
+                "SAHARA": true,
+                "RUBICON": false
+            },
+            {
+                "caracteristica": "Sistema Rock-Trac 4:1",
+                "SPORT": false,
+                "SAHARA": false,
+                "RUBICON": true
+            },
+            {
+                "caracteristica": "Eje delantero/trasero E-Locker",
+                "SPORT": false,
+                "SAHARA": false,
+                "RUBICON": true
+            },
+            {
+                "caracteristica": "Ganchos de remolque rojos",
+                "SPORT": false,
+                "SAHARA": false,
+                "RUBICON": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Modo Off Road Plus",
+                "SPORT": false,
+                "SAHARA": false,
+                "RUBICON": true
+            },
+            {
+                "caracteristica": "Cámara Off Road integrada",
+                "SPORT": false,
+                "SAHARA": false,
+                "RUBICON": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 airbags",
+            "Asistencia de frenado de emergencia (PBA)",
+            "Control crucero adaptativo (ACC)",
+            "Detección punto ciego (BSD)",
+            "Sistema asistencia partida en pendiente (HSA)",
+            "Control electrónico estabilidad (ESC)",
+            "Control tracción",
+            "Mitigación antivuelco (ERM)",
+            "Alarma seguridad",
+            "Sistema detección ocupantes",
+            "Advertencia colisión delantera",
+            "Pantalla monitoreo presión neumáticos"
+        ],
+        "interior": [
+            "Encendido con botón",
+            "Climatizador",
+            "Pantalla TFT 7\"",
+            "Volante calefaccionado",
+            "Asientos delanteros calefaccionados",
+            "Controles audio en volante",
+            "Elevavidrios eléctricos",
+            "Entrada remota sin llave"
+        ],
+        "exterior": [
+            "Faros delanteros automáticos",
+            "Neblineros LED",
+            "Faros traseros LED",
+            "Espejos eléctricos con desempañador",
+            "Barra deportiva",
+            "Pasos ruedas color negro",
+            "Rueda repuesto tamaño completo"
+        ],
+        "tecnologia": [
+            "Pantalla táctil 12.3\" Uconnect",
+            "Apple CarPlay / Android Auto inalámbrico",
+            "Sistema audio Premium Alpine",
+            "Tomas USB A-C",
+            "Cámara retroceso"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 1 y 2",
+        "fuente": "FT-WRANGLER.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exclusivamente desde tablas visuales del documento."
+    }
+}

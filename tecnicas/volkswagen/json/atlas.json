@@ -1,0 +1,239 @@
+{
+  "vehiculo": {
+    "marca": "Volkswagen",
+    "modelo": "Atlas",
+    "año": null,
+    "versiones": [
+      "Comfortline AT",
+      "Limited AT"
+    ]
+  },
+  "motor": {
+    "tipo": {
+      "Comfortline AT": "2.0 TSI",
+      "Limited AT": "2.0 TSI"
+    },
+    "cilindrada": {
+      "Comfortline AT": 2.0,
+      "Limited AT": 2.0
+    },
+    "potencia_hp": {
+      "Comfortline AT": "273",
+      "Limited AT": "273"
+    },
+    "potencia_rpm": {
+      "Comfortline AT": "5.250-6.500",
+      "Limited AT": "5.250-6.500"
+    },
+    "torque_nm": {
+      "Comfortline AT": "370",
+      "Limited AT": "370"
+    },
+    "torque_rpm": {
+      "Comfortline AT": "1.550-4.900",
+      "Limited AT": "1.550-4.900"
+    },
+    "combustible": "Gasolina",
+    "transmision": {
+      "Comfortline AT": "AT 8",
+      "Limited AT": "AT 8"
+    },
+    "traccion": {
+      "Comfortline AT": "4Motion 4x4",
+      "Limited AT": "4Motion 4x4"
+    }
+  },
+  "direccion": {
+    "tipo": null
+  },
+  "suspension_frenos": {
+    "suspension_delantera": null,
+    "suspension_trasera": null,
+    "frenos_delanteros": "Disco",
+    "frenos_traseros": "Disco",
+    "freno_estacionamiento": "Electrónico",
+    "neumaticos": {
+      "Comfortline AT": "255/50 R20",
+      "Limited AT": "255/50 R20"
+    },
+    "rueda_repuesto": true
+  },
+  "dimensiones": {
+    "largo_mm": 5097,
+    "ancho_mm": 1990,
+    "alto_mm": 1783,
+    "distancia_ejes_mm": 2978,
+    "despeje_suelo_mm": null,
+    "peso_bruto_kg": null,
+    "capacidad_maletero_lts": {
+      "Asientos sin abatir": 583,
+      "3ra fila abatida": 1572,
+      "2da y 3ra fila abatida": 2735
+    },
+    "capacidad_estanque_lts": 70,
+    "numero_pasajeros": 7
+  },
+  "tabla_comparativa_rendimiento": [
+    {
+      "caracteristica": "Consumo Ciudad (km/l)",
+      "Comfortline AT": "8,1",
+      "Limited AT": "8,1"
+    },
+    {
+      "caracteristica": "Consumo Mixto (km/l)",
+      "Comfortline AT": "10,2",
+      "Limited AT": "10,2"
+    },
+    {
+      "caracteristica": "Consumo Carretera (km/l)",
+      "Comfortline AT": "11,9",
+      "Limited AT": "11,9"
+    }
+  ],
+  "equipamiento_diferencial_detallado": {
+    "exterior": [
+      {
+        "caracteristica": "Sunroof panorámico",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Llantas de aleación",
+        "Comfortline AT": "20”",
+        "Limited AT": "20”"
+      },
+      {
+        "caracteristica": "Retrovisores abatibles eléctricamente con memoria y tilt down",
+        "Comfortline AT": false,
+        "Limited AT": true
+      }
+    ],
+    "interior": [
+      {
+        "caracteristica": "Tapiz de asientos en cuero",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Asiento conductor con memoria",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Asientos delanteros con función de masaje",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Volante calefaccionado",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Luces ambientales interiores (30 colores)",
+        "Comfortline AT": false,
+        "Limited AT": true
+      }
+    ],
+    "seguridad": [
+      {
+        "caracteristica": "Travel Assist",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Emergency Assist",
+        "Comfortline AT": false,
+        "Limited AT": true
+      },
+      {
+        "caracteristica": "Side Assist (Detector punto ciego)",
+        "Comfortline AT": false,
+        "Limited AT": true
+      }
+    ],
+    "adas": [],
+    "tecnologia": [
+      {
+        "caracteristica": "Sistema de sonido",
+        "Comfortline AT": "6 Parlantes",
+        "Limited AT": "14 Parlantes Harman Kardon + Subwoofer"
+      },
+      {
+        "caracteristica": "Head-Up Display",
+        "Comfortline AT": false,
+        "Limited AT": true
+      }
+    ]
+  },
+  "equipamiento_estandar_todas_versiones": {
+    "exterior": [
+      "Luces principales LED IQ.LIGHTS",
+      "Luces diurnas LED",
+      "Luz de curva dinámica",
+      "Asistente de luces altas “Light Assist”",
+      "Coming and Leaving Home",
+      "Firma lumínica LED de foco a foco",
+      "Retrovisores eléctricos y calefaccionados",
+      "Vidrios traseros tintados",
+      "Barras de techo",
+      "Start & Stop con recuperación de energía"
+    ],
+    "interior": [
+      "Tercera fila de asientos",
+      "Asientos delanteros con ajuste eléctrico",
+      "Asientos delanteros con ajuste lumbar eléctrico",
+      "Asientos delanteros y traseros calefaccionados",
+      "Respaldos abatibles 2° y 3° fila",
+      "Reposabrazos central delantero",
+      "Retrovisor interior antideslumbrante automático",
+      "Volante multifunción con Paddle Shifts"
+    ],
+    "seguridad": [
+      "Airbags frontales (conductor y acompañante)",
+      "Airbags laterales delanteros",
+      "Airbags de cortina",
+      "Bloqueo electrónico del diferencial (EDL)",
+      "Control electrónico de tracción (ASR)",
+      "Sistema antibloqueo de frenado (ABS)",
+      "Distribución electrónica de frenado (EBD)",
+      "Sistema de frenado multicolisión (MCB)",
+      "Sistema de regulación del motor (MSR)",
+      "Sistema electrónico de estabilización (ESC)",
+      "Alarma antirrobo con inmovilizador",
+      "Asistente de arranque y descenso en pendientes",
+      "Rueda de repuesto",
+      "Anclajes ISOFIX",
+      "Front Assist",
+      "Sistema de detección de peatones y ciclistas",
+      "Monitoreo presión de neumáticos"
+    ],
+    "tecnologia": [
+      "Climatizador automático 3 zonas",
+      "Radio touchscreen 12”",
+      "App Connect inalámbrico",
+      "Puertos USB-C",
+      "Control por voz",
+      "Display digital 10,25”",
+      "Sensor de lluvia",
+      "Sensores delanteros y traseros",
+      "Park Assist",
+      "Cámara 360°",
+      "Keyless Entry y botón de encendido",
+      "Encendido remoto",
+      "Portalón eléctrico Easy Open & Close",
+      "Control crucero adaptativo (ACC)",
+      "Modos de conducción",
+      "Freno estacionamiento eléctrico"
+    ],
+    "adas": []
+  },
+  "colores": [],
+  "metadata": {
+    "fecha_extraccion": "2026-02-23",
+    "metodo_extraccion": "Lectura directa tabla ficha técnica Volkswagen (X=Disponible, -=No disponible; cuando hay una sola columna aplica a todas las versiones).",
+    "fuente": "Ficha-Atlas-PA-2026_-Limited-and-CL.pdf",
+    "versiones_en_documento": 2,
+    "notas": "Se extrajeron todos los datos técnicos, dimensiones, capacidades y equipamiento diferenciando exactamente según tabla Comfortline AT y Limited AT."
+  }
+}

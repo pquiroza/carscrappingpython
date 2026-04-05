@@ -1,0 +1,277 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "CLA 200",
+        "año": null,
+        "versiones": [
+            "CLA 200 Progressive Line",
+            "CLA 200 AMG Line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CLA 200 Progressive Line": "4 cilindros en línea",
+            "CLA 200 AMG Line": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "CLA 200 Progressive Line": 1332,
+            "CLA 200 AMG Line": 1332
+        },
+        "potencia_hp": {
+            "CLA 200 Progressive Line": "163",
+            "CLA 200 AMG Line": "163"
+        },
+        "potencia_rpm": {
+            "CLA 200 Progressive Line": null,
+            "CLA 200 AMG Line": null
+        },
+        "torque_nm": {
+            "CLA 200 Progressive Line": "270",
+            "CLA 200 AMG Line": "270"
+        },
+        "torque_rpm": {
+            "CLA 200 Progressive Line": null,
+            "CLA 200 AMG Line": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "CLA 200 Progressive Line": "7G-DCT",
+            "CLA 200 AMG Line": "7G-DCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CLA 200 Progressive Line": null,
+            "CLA 200 AMG Line": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 440,
+        "capacidad_estanque_lts": 43,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (Km/l)",
+            "CLA 200 Progressive Line": "17,1",
+            "CLA 200 AMG Line": "17,1"
+        },
+        {
+            "caracteristica": "Velocidad máxima (Km/h)",
+            "CLA 200 Progressive Line": "229",
+            "CLA 200 AMG Line": "229"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "CLA 200 Progressive Line": "8,4s",
+            "CLA 200 AMG Line": "8,4s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Línea exterior",
+                "CLA 200 Progressive Line": "Progressive Night Package Line",
+                "CLA 200 AMG Line": "AMG Night Package Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "CLA 200 Progressive Line": "18 pulgadas y 10 radios color negro",
+                "CLA 200 AMG Line": "18 pulgadas y 5 radios dobles color negro"
+            },
+            {
+                "caracteristica": "Cristales calorífugos tinteados",
+                "CLA 200 Progressive Line": "Incluye protección contra radiación UV",
+                "CLA 200 AMG Line": "Incluye protección contra radiación UV"
+            },
+            {
+                "caracteristica": "Tren de rodaje",
+                "CLA 200 Progressive Line": "De serie",
+                "CLA 200 AMG Line": "Deportivos"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "CLA 200 Progressive Line": "Cuero ARTICO",
+                "CLA 200 AMG Line": "Cuero ARTICO / microfibra MICROCUT"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "CLA 200 Progressive Line": "Confort con apoyo lumbar",
+                "CLA 200 AMG Line": "Deportivos con apoyo lumbar"
+            },
+            {
+                "caracteristica": "Molduras",
+                "CLA 200 Progressive Line": "En efecto carbono oscuro",
+                "CLA 200 AMG Line": "Aluminio claro con rectificado longitudinal"
+            },
+            {
+                "caracteristica": "Volante",
+                "CLA 200 Progressive Line": "Deportivo multifunción en cuero",
+                "CLA 200 AMG Line": "Deportivo multifunción en napa con sección inferior plana"
+            },
+            {
+                "caracteristica": "Botones Touch Control al volante para manejo de pantallas",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Incluye Windowbags y Airbags de Rodillas",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Acceso Keyless-Go",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia Activo",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Protección vehículo URBAN 360°",
+                "CLA 200 Progressive Line": false,
+                "CLA 200 AMG Line": "Incluye alarma con sensores volumétricos"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara marcha atrás",
+                "CLA 200 Progressive Line": false,
+                "CLA 200 AMG Line": "Incluye asistencia al estacionado PARKTRONIC"
+            },
+            {
+                "caracteristica": "Faros LED High Performance",
+                "CLA 200 Progressive Line": false,
+                "CLA 200 AMG Line": "Incluye luces de carretera automáticas con cálido tono blanco uniforme"
+            },
+            {
+                "caracteristica": "Neumáticos con propiedades de rodaje de emergencia",
+                "CLA 200 Progressive Line": false,
+                "CLA 200 AMG Line": "Neumáticos con pared lateral para soportar el peso del vehículo si el neumático pierde aire"
+            },
+            {
+                "caracteristica": "Información desgaste de frenos y presión de neumáticos",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Asistente activo para viento lateral",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Attention Assist (Aviso de cansancio)",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Función Hold para retención",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Perfiles MBUX personalizables",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "CLA 200 Progressive Line": "<<Hey Mercedes>>",
+                "CLA 200 AMG Line": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizados del cuadro de instrumentos digital",
+                "CLA 200 Progressive Line": "Pantalla de 10,25 pulgadas",
+                "CLA 200 AMG Line": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "CLA 200 Progressive Line": "Pantalla de 10,25 pulgadas",
+                "CLA 200 AMG Line": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Integración Smartphone inalámbrico",
+                "CLA 200 Progressive Line": "Incluye sistema de carga inalámbrico delante",
+                "CLA 200 AMG Line": "Incluye sistema de carga inalámbrico delante"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles",
+                "CLA 200 Progressive Line": "Incluye sistema de antideslumbrante automático",
+                "CLA 200 AMG Line": "Incluye sistema de antideslumbrante automático"
+            },
+            {
+                "caracteristica": "Paquete USB Plus de carga rápida",
+                "CLA 200 Progressive Line": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras",
+                "CLA 200 AMG Line": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "CLA 200 Progressive Line": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas",
+                "CLA 200 AMG Line": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas"
+            },
+            {
+                "caracteristica": "Tempomat - Control crucero",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            },
+            {
+                "caracteristica": "Aviso del uso de cinturones de seguridad traseros",
+                "CLA 200 Progressive Line": true,
+                "CLA 200 AMG Line": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; si aparece centrado, aplica a todas las versiones; texto/valores tal cual)",
+        "fuente": "Ficha_Tecnica_CLA_200_digital.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó todo lo visible en páginas 1-2: Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior (CLA 200 Progressive Line vs CLA 200 AMG Line)."
+    }
+}

@@ -1,0 +1,503 @@
+{
+    "vehiculo": {
+        "marca": "RAM",
+        "modelo": "RAMPAGE",
+        "año": 2026,
+        "versiones": [
+            "BIGHORN",
+            "BIGHORN 2.2",
+            "LARAMIE",
+            "LARAMIE 2.2",
+            "R/T"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "BIGHORN": "Multijet",
+            "BIGHORN 2.2": "FB 2.2",
+            "LARAMIE": "Multijet",
+            "LARAMIE 2.2": "FB 2.2",
+            "R/T": "HURRICANE 4"
+        },
+        "cilindrada": {
+            "BIGHORN": "2.0",
+            "BIGHORN 2.2": "2.2",
+            "LARAMIE": "2.0",
+            "LARAMIE 2.2": "2.2",
+            "R/T": "2.0"
+        },
+        "potencia_hp": {
+            "BIGHORN": "170",
+            "BIGHORN 2.2": "200",
+            "LARAMIE": "170",
+            "LARAMIE 2.2": "200",
+            "R/T": "272"
+        },
+        "potencia_rpm": {
+            "BIGHORN": "3.750",
+            "BIGHORN 2.2": "3.500",
+            "LARAMIE": "3.750",
+            "LARAMIE 2.2": "3.500",
+            "R/T": "5.200"
+        },
+        "torque_nm": {
+            "BIGHORN": "380",
+            "BIGHORN 2.2": "450",
+            "LARAMIE": "380",
+            "LARAMIE 2.2": "450",
+            "R/T": "400"
+        },
+        "torque_rpm": {
+            "BIGHORN": "1.750",
+            "BIGHORN 2.2": "1.500",
+            "LARAMIE": "1.750",
+            "LARAMIE 2.2": "1.500",
+            "R/T": "3.000"
+        },
+        "combustible": {
+            "BIGHORN": "Diesel",
+            "BIGHORN 2.2": "Diesel",
+            "LARAMIE": "Diesel",
+            "LARAMIE 2.2": "Diesel",
+            "R/T": "Gasolina"
+        },
+        "transmision": {
+            "BIGHORN": "Automática de 9 velocidades",
+            "BIGHORN 2.2": "Automática de 9 velocidades",
+            "LARAMIE": "Automática de 9 velocidades",
+            "LARAMIE 2.2": "Automática de 9 velocidades",
+            "R/T": "Automática de 9 velocidades"
+        },
+        "traccion": "Tracción integral con selector electrónico 4x4 / 4x4 Low"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera tipo McPherson®",
+        "suspension_trasera": "Suspensión trasera Multilink",
+        "frenos_delanteros": "Discos ventilados delanteros",
+        "frenos_traseros": "Discos ventilados traseros",
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "BIGHORN": "235/65 R17",
+            "BIGHORN 2.2": "235/65 R17",
+            "LARAMIE": "235/60 R18",
+            "LARAMIE 2.2": "235/60 R18",
+            "R/T": "235/55 R19"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 5028,
+        "ancho_mm": "2.040 / 1.886",
+        "alto_mm": 1716,
+        "distancia_ejes_mm": 2994,
+        "despeje_suelo_mm": {
+            "BIGHORN": 223,
+            "BIGHORN 2.2": 223,
+            "LARAMIE": 223,
+            "LARAMIE 2.2": 223,
+            "R/T": 217
+        },
+        "peso_bruto_kg": {
+            "BIGHORN": 2928,
+            "BIGHORN 2.2": 2928,
+            "LARAMIE": 2928,
+            "LARAMIE 2.2": 2928,
+            "R/T": 2673
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": {
+            "BIGHORN": 60,
+            "BIGHORN 2.2": 60,
+            "LARAMIE": 60,
+            "LARAMIE 2.2": 60,
+            "R/T": 55
+        },
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento combinado (km/lt)",
+            "BIGHORN": "13",
+            "BIGHORN 2.2": "13,2",
+            "LARAMIE": "13",
+            "LARAMIE 2.2": "13,2",
+            "R/T": "10"
+        },
+        {
+            "caracteristica": "Rendimiento urbano (s/autopista en km/lt)",
+            "BIGHORN": "9,8",
+            "BIGHORN 2.2": "8,7",
+            "LARAMIE": "9,8",
+            "LARAMIE 2.2": "8,7",
+            "R/T": "6,9"
+        },
+        {
+            "caracteristica": "Rendimiento autopista (Rural en km/lt)",
+            "BIGHORN": "16",
+            "BIGHORN 2.2": "16,2",
+            "LARAMIE": "16",
+            "LARAMIE 2.2": "16,2",
+            "R/T": "13"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Lona Marítima / cubre pickup",
+                "BIGHORN": false,
+                "BIGHORN 2.2": true,
+                "LARAMIE": false,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Llantas de aluminio 17\"",
+                "BIGHORN": true,
+                "BIGHORN 2.2": true,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio diamantada 18\"",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio piano black 19\"",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Espejos laterales color cromados",
+                "BIGHORN": true,
+                "BIGHORN 2.2": true,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Espejos laterales color negro",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Espejos laterales color piano black",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Manillas color carrocería",
+                "BIGHORN": true,
+                "BIGHORN 2.2": true,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Manillas color cromado",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Parachoque trasero cromado",
+                "BIGHORN": true,
+                "BIGHORN 2.2": true,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Parachoque trasero negro",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Parachoque trasero piano black",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Calcos exclusivos en el capot R/T",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Escape doble",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento del conductor y pasajero con ajuste manual",
+                "BIGHORN": true,
+                "BIGHORN 2.2": true,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": false
+            },
+            {
+                "caracteristica": "Asiento del conductor y pasajero con ajuste eléctrico de 12 posiciones",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Tapizado de asientos",
+                "BIGHORN": "Tela",
+                "BIGHORN 2.2": "Tela",
+                "LARAMIE": "Cuero",
+                "LARAMIE 2.2": "Cuero",
+                "R/T": "Cuero / Alcántara"
+            },
+            {
+                "caracteristica": "Tapizado de volante",
+                "BIGHORN": "Cuero",
+                "BIGHORN 2.2": "Cuero",
+                "LARAMIE": "Cuero",
+                "LARAMIE 2.2": "Cuero",
+                "R/T": "Cuero / Alcántara"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Detección de punto ciego y cruce de trayectoria",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Airbags",
+                "BIGHORN": 6,
+                "BIGHORN 2.2": 6,
+                "LARAMIE": 7,
+                "LARAMIE 2.2": 7,
+                "R/T": 7
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Manejo autónomo de nivel 2",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo con sistema stop and go",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de mantenimiento de carril",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia con detector de peatón y ciclista",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamientos delanteros y traseros",
+                "BIGHORN": "Sólo Traseros",
+                "BIGHORN 2.2": true,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Detección de tráfico cruzado trasero",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Sensor lluvia",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de audio premium Harman Kardon®",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": true,
+                "LARAMIE 2.2": true,
+                "R/T": true
+            },
+            {
+                "caracteristica": "Altavoces",
+                "BIGHORN": 4,
+                "BIGHORN 2.2": 4,
+                "LARAMIE": 9,
+                "LARAMIE 2.2": 9,
+                "R/T": 9
+            },
+            {
+                "caracteristica": "Subwoofer",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": "6\"",
+                "LARAMIE 2.2": "6\"",
+                "R/T": "6\""
+            },
+            {
+                "caracteristica": "Amplificador",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": "360 Watts",
+                "LARAMIE 2.2": "360 Watts",
+                "R/T": "360 Watts"
+            },
+            {
+                "caracteristica": "Tweeter",
+                "BIGHORN": 2,
+                "BIGHORN 2.2": 2,
+                "LARAMIE": "3 HiFi",
+                "LARAMIE 2.2": "3 HiFi",
+                "R/T": "3 HiFi"
+            },
+            {
+                "caracteristica": "Selector modo sport R/T",
+                "BIGHORN": false,
+                "BIGHORN 2.2": false,
+                "LARAMIE": false,
+                "LARAMIE 2.2": false,
+                "R/T": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neblineros delanteros con función cornering LED",
+            "Rueda repuesto temporal",
+            "Placa protector de carter",
+            "Parachoque delantero color carrocería",
+            "Iluminación caja pickup",
+            "Apertura del portalón a distancia con amortiguación",
+            "Ganchos de sujeción de carga",
+            "Protector del pickup"
+        ],
+        "interior": [
+            "Volante ajustable en altura y profundidad",
+            "Climatizador automático dual",
+            "Toma de corriente de 12V delantero",
+            "Alzavidrios eléctricos delanteros y traseros con función \"one touch\"",
+            "Cierre centralizado con comando a distancia",
+            "Apertura eléctrica de la tapa de combustible",
+            "Luneta térmica trasera",
+            "Luz ambiente led",
+            "Consola Central inferior",
+            "Portalentes",
+            "Parasol piloto y copiloto con espejo y luz led",
+            "Manilla de asistencia de acceso para copilotos",
+            "Salida de aire para plazas traseras"
+        ],
+        "seguridad": [
+            "Alarma",
+            "Control electrónico de estabilidad (ESC)",
+            "Asistencia de arranque en pendientes",
+            "Hill descent control",
+            "Control de tracción",
+            "Frenos a disco ventilados delanteros y traseros",
+            "Frenos de disco en las 4 ruedas con sistema ABS y EBD",
+            "Sistema de anclaje para asientos infantiles LATCH",
+            "Aviso de cinturones de seguridad",
+            "Limitador de velocidad",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Encendido automático de luces y control automáticos de faros de luz alta",
+            "Control crucero"
+        ],
+        "tecnologia": [
+            "Android auto / Apple Carplay",
+            "Navegación integrada",
+            "Conexión simultánea de 2 smartphones",
+            "6 Puertos USB, 3 de tipo C",
+            "Sistema de arranque remoto con sistema Keyless",
+            "Tablero de instrumentos 10,3\"",
+            "Pantalla táctil de 12,3\"",
+            "Cargador inalámbrico con ventilación",
+            "Comandos de radio y teléfono al volante",
+            "Botón de arranque",
+            "Espejos laterales abatibles eléctricamente con luz de giro",
+            "Freno de estacionamiento eléctrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Alaska",
+        "Plata Zynith",
+        "Plomo Acero Máximo",
+        "Negro Diamond",
+        "Azul Patriot",
+        "Gris Sting",
+        "Rojo Fury"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica RAM (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-rampage-2026.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó la información técnica, rendimiento, dimensiones, pickup, equipamiento diferencial por versión y equipamiento estándar cuando aplica a todas las versiones."
+    }
+}

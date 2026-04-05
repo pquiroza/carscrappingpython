@@ -291,6 +291,7 @@ def scrape_brand_flat_json(brand_url, nombre_marca="marca", headless=False):
         saveCar(a['marca'],datos,'www.difor.cl')
         print(datos)
         print("-"*100)
+    print("RUN_OK")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(all_versions, f, ensure_ascii=False, indent=2)
 

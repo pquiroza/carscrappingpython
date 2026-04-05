@@ -1,0 +1,260 @@
+{
+    "vehiculo": {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "año": null,
+        "versiones": [
+            "EXT",
+            "TOURING"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EXT": "4 cilindros en línea",
+            "TOURING": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "EXT": 1498,
+            "TOURING": 1498
+        },
+        "potencia_hp": {
+            "EXT": "176",
+            "TOURING": "176"
+        },
+        "potencia_rpm": {
+            "EXT": "6000",
+            "TOURING": "6000"
+        },
+        "torque_nm": {
+            "EXT": "177",
+            "TOURING": "177"
+        },
+        "torque_rpm": {
+            "EXT": "1700-4500",
+            "TOURING": "1700-4500"
+        },
+        "combustible": "Multipunto",
+        "transmision": {
+            "EXT": "Transmisión variable continua (CVT)",
+            "TOURING": "Transmisión variable continua (CVT)"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica asistida de piñón y cremallera (EPS) con relación variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera con amortiguadores tipo McPherson",
+        "suspension_trasera": "Suspensión trasera con enlaces múltiples",
+        "frenos_delanteros": "Frenos delanteros de discos ventilados con asistencia electrónica / Frenos traseros de disco sólido (mm delantero/trasero) 28.2cms / 26cms",
+        "frenos_traseros": "Frenos delanteros de discos ventilados con asistencia electrónica / Frenos traseros de disco sólido (mm delantero/trasero) 28.2cms / 26cms",
+        "freno_estacionamiento": "Frenos de mano eléctrico (EPB)",
+        "neumaticos": {
+            "EXT": "215/55 R16 93H",
+            "TOURING": "215/50 R17 91V"
+        },
+        "rueda_repuesto": "T125/80 D16 97M"
+    },
+    "dimensiones": {
+        "largo_mm": 4687,
+        "ancho_mm": 1802,
+        "alto_mm": 1432,
+        "distancia_ejes_mm": 2735,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "EXT": 1760,
+            "TOURING": 1760
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces LED de largo alcance con encendido y apagado automático",
+                "EXT": true,
+                "TOURING": false
+            },
+            {
+                "caracteristica": "Neblineros",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas intermitentes variable",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento (delantero / trasero)",
+                "EXT": false,
+                "TOURING": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador automático",
+                "EXT": true,
+                "TOURING": false
+            },
+            {
+                "caracteristica": "Climatizador automático Dual",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Palanca de cambios forrada en cuero",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Volante con Paddle Shift",
+                "EXT": false,
+                "TOURING": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales traseros",
+                "EXT": false,
+                "TOURING": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Cámara de punto ciego (LaneWatch)",
+                "EXT": false,
+                "TOURING": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla táctil de audio de 7\" compatible con Android Auto™ y Apple CarPlay",
+                "EXT": true,
+                "TOURING": false
+            },
+            {
+                "caracteristica": "Pantalla táctil de audio de 9\" compatible con Android Auto™ y Apple CarPlay",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Sistema de audio de 180-watt, AM/FM con 4 parlantes",
+                "EXT": true,
+                "TOURING": false
+            },
+            {
+                "caracteristica": "Sistema de audio de 180-watt, AM/FM con 6 parlantes",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Navegador",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Interior tapizado en cuero",
+                "EXT": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Asiento con ajuste eléctrico",
+                "EXT": false,
+                "TOURING": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena integrada en la ventana trasera",
+            "Sistema de apertura inteligente",
+            "Sistema de seguridad con acceso remoto y apertura del maletero",
+            "Espejos laterales eléctricos del color de la carrocería (señalizadores integrados)",
+            "Luces traseras con barras de luces LED integradas",
+            "Manillas del color de la carrocería",
+            "Tapa del tanque de combustible con mecanismo a presión",
+            "Ruedas de aleación de aluminio"
+        ],
+        "interior": [
+            "Botón de encendido / apagado del motor",
+            "Ventanas eléctricas con apertura y cierre automático para conductor y copiloto",
+            "Controles de seguros y ventanas iluminadas del conductor y copiloto",
+            "Seguros eléctricos con cierre automático en las puertas",
+            "Control de velocidad crucero",
+            "Columna de dirección inclinable y telescópica",
+            "Iluminación en los controles montados en el volante (crucero / audio / teléfono / MID)",
+            "Consola central con descansabrazos y compartimiento de almacenaje",
+            "Portabebidas delanteras",
+            "Compartimientos de almacenaje laterales (delantero / trasero)",
+            "Bolsillo en el respaldo del asiento del copiloto",
+            "Apertura remota electrónica del maletero",
+            "Luces para lectura",
+            "Apoyabrazos central en el asiento trasero",
+            "Desempañador de ventana trasera con temporizador",
+            "Tomacorriente eléctrico de 12-voltios (frontal)"
+        ],
+        "seguridad": [
+            "Sistema estabilizador del vehículo (VSA) con control de tracción",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución electrónica de frenos (EBD)",
+            "Asistencia de frenado",
+            "Cámara de vista trasera con ángulos múltiples",
+            "Luces de día (DRL) LED",
+            "Estructura de la carrocería con ingeniería de compatibilidad avanzada (ACE)",
+            "Sistema automático de frenado (Brake Hold)",
+            "Airbags delanteros de doble etapa y umbral múltiple (SRS)",
+            "Airbags delanteros laterales (SmartVent)",
+            "Airbags laterales tipo cortina",
+            "Luces delantera LED",
+            "Luces altas LED",
+            "Cinturones de seguridad de tres puntos en todos los asientos",
+            "Cinturones de seguridad delanteros de tres puntos con sistema de tensión automático"
+        ],
+        "tecnologia": [
+            "Transmisión de audio por Bluetooth",
+            "Enlace manos libres (Hands Free Link) con Bluetooth",
+            "Interfaz de audio USB",
+            "Con puerto de carga en la parte delantera (1.5 A)",
+            "Con puerto de carga en la parte central (1.0 A)",
+            "MP3 / capacidad de reproducción de audio Windows Media (WMA)",
+            "Control de volumen sensible a la velocidad (SVC)",
+            "Apoyacabezas ajustable",
+            "Anclas ajustables en los cinturones de seguridad",
+            "Asiento trasero con respaldo plegable"
+        ],
+        "adas": [
+            "Sistema de alerta y frenado con mitigación de colisiones frontales con autos o peatones (CMBS/FCW)",
+            "Velocidad crucero con control adaptativo (ACC)",
+            "Sistema de asistencia / alerta de cambio de pista (LKAS)",
+            "Sistema de alerta y mitigación de salida de ruta (RDM)",
+            "Advertencia de colisión frontal (FCW)",
+            "Advertencia de cambio de carril (LDW)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Honda (ticket/✓=presente, -/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Civic.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Motor y transmisión desde pág. 01. Chasis/dirección/neumáticos y dimensiones desde pág. 02. Seguridad y características exteriores desde pág. 03. Equipamiento interior desde pág. 04. Audio y asientos desde pág. 05. Honda Sensing desde pág. 06."
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "EQA",
+        "año": null,
+        "versiones": [
+            "EQA 350 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EQA 350 4MATIC": "Eléctrico"
+        },
+        "cilindrada": {
+            "EQA 350 4MATIC": null
+        },
+        "potencia_hp": {
+            "EQA 350 4MATIC": "292 CV (215 kW)"
+        },
+        "potencia_rpm": {
+            "EQA 350 4MATIC": null
+        },
+        "torque_nm": {
+            "EQA 350 4MATIC": "520 Nm"
+        },
+        "torque_rpm": {
+            "EQA 350 4MATIC": null
+        },
+        "combustible": {
+            "EQA 350 4MATIC": "Propulsión eléctrica"
+        },
+        "transmision": {
+            "EQA 350 4MATIC": null
+        },
+        "traccion": {
+            "EQA 350 4MATIC": "Integral 4MATIC"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "EQA 350 4MATIC": "235/50 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "340 - 1320",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "EQA 350 4MATIC": "6 seg."
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "EQA 350 4MATIC": "160 Km/h"
+        },
+        {
+            "caracteristica": "Autonomía (WLTP)",
+            "EQA 350 4MATIC": "478 km"
+        },
+        {
+            "caracteristica": "Consumo eléctrico",
+            "EQA 350 4MATIC": "145,5 Wh/Km"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "EQA 350 4MATIC": "AMG Night Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "EQA 350 4MATIC": "19 pulgadas en diseño de 10 radios dobles"
+            },
+            {
+                "caracteristica": "Neumáticos MOE (Mercedes Original Extended)",
+                "EQA 350 4MATIC": "235/50 R18"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "EQA 350 4MATIC": "Incluye cierre automático en caso de lluvia"
+            },
+            {
+                "caracteristica": "Tren de rodaje de confort",
+                "EQA 350 4MATIC": "Aumento de estabilidad en la conducción"
+            },
+            {
+                "caracteristica": "Barras longitudinales de aluminio pulido",
+                "EQA 350 4MATIC": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Kit estético interior",
+                "EQA 350 4MATIC": "AMG Line"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "EQA 350 4MATIC": "Microfibra Microcut"
+            },
+            {
+                "caracteristica": "Volante deportivo multifunción en cuero",
+                "EQA 350 4MATIC": "Incluye botones Touch Control"
+            },
+            {
+                "caracteristica": "Moldura",
+                "EQA 350 4MATIC": "Star Pattern retroiluminados"
+            },
+            {
+                "caracteristica": "Asientos delanteros deportivos",
+                "EQA 350 4MATIC": "Incluye calefacción de asientos y kit de memorias"
+            },
+            {
+                "caracteristica": "Sistema de sonido Advanced",
+                "EQA 350 4MATIC": "Sistema de sonido con 10 altavoces y una potencia total de 225 vatios"
+            },
+            {
+                "caracteristica": "Respaldos traseros abatibles",
+                "EQA 350 4MATIC": "Aumentando el espacio del maletero a 1.320 lt"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags activos",
+                "EQA 350 4MATIC": "Incluye Windowbags y Airbag de rodillas para conductor"
+            },
+            {
+                "caracteristica": "Neumáticos con propiedades de emergencia",
+                "EQA 350 4MATIC": "Paredes reforzadas permiten circular hasta 80 km/h en caso de avería"
+            },
+            {
+                "caracteristica": "Cables de carga",
+                "EQA 350 4MATIC": "Para Wallbox y carga doméstica"
+            },
+            {
+                "caracteristica": "Asistente activo de distancia DISTRONIC",
+                "EQA 350 4MATIC": "Incluye control activo de cambio de carril"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento",
+                "EQA 350 4MATIC": "Cámara 360° y tecnología PARKTRONIC"
+            },
+            {
+                "caracteristica": "Control activo de ángulo muerto",
+                "EQA 350 4MATIC": "Indicación mediante iluminación de ambiente"
+            },
+            {
+                "caracteristica": "Protección de vehículo GUARD 360°",
+                "EQA 350 4MATIC": "Incluye alarma volumétrica"
+            },
+            {
+                "caracteristica": "Función de advertencia de salida",
+                "EQA 350 4MATIC": "Advertencia óptica y acústica al salir del vehículo"
+            },
+            {
+                "caracteristica": "Sistema PRE-SAFE",
+                "EQA 350 4MATIC": "Retención del vehículo sin necesidad de mantener el freno pisado"
+            },
+            {
+                "caracteristica": "Advertencia acústica para el entorno",
+                "EQA 350 4MATIC": true
+            },
+            {
+                "caracteristica": "Control de presión de neumáticos",
+                "EQA 350 4MATIC": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "EQA 350 4MATIC": "Mercedes-Benz User Experience"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "EQA 350 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos digital",
+                "EQA 350 4MATIC": "10,25 pulgadas de alta resolución configurable"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "EQA 350 4MATIC": "10,25 pulgadas de alta definición"
+            },
+            {
+                "caracteristica": "Preclimatización del habitáculo",
+                "EQA 350 4MATIC": true
+            },
+            {
+                "caracteristica": "Paquete Confort KEYLESS-GO",
+                "EQA 350 4MATIC": "Incluye acceso Keyless y Hands Free Access"
+            },
+            {
+                "caracteristica": "Integración de Smartphone inalámbrico",
+                "EQA 350 4MATIC": "Incluye cargador inalámbrico"
+            },
+            {
+                "caracteristica": "Climatización automática THERMOTRONIC",
+                "EQA 350 4MATIC": "Climatización automática bizona"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles eléctricamente",
+                "EQA 350 4MATIC": true
+            },
+            {
+                "caracteristica": "Navegación por disco duro EQ",
+                "EQA 350 4MATIC": "Representaciones cartográficas en 2D o 3D"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "EQA 350 4MATIC": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz EQA (ticket=true, vacío o -=false; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica Mercedes EQA_Digital-veh-elec-eqa.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información disponible de especificaciones técnicas, seguridad, tecnología y equipamiento."
+    }
+}

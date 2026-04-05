@@ -1,0 +1,552 @@
+{
+    "vehiculo": {
+        "marca": "JETOUR",
+        "modelo": "T2 PHEV",
+        "año": null,
+        "versiones": [
+            "T2_PHEV_LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "T2_PHEV_LIMITED": "1.5 Turbo"
+        },
+        "cilindrada": 1499,
+        "potencia_hp": {
+            "T2_PHEV_LIMITED": "154"
+        },
+        "potencia_rpm": {
+            "T2_PHEV_LIMITED": null
+        },
+        "torque_nm": {
+            "T2_PHEV_LIMITED": "220"
+        },
+        "torque_rpm": {
+            "T2_PHEV_LIMITED": null
+        },
+        "combustible": "Gasolina",
+        "sistema_alimentacion": "Inyección directa",
+        "norma_emisiones": "Euro 6C",
+        "transmision": {
+            "T2_PHEV_LIMITED": "Automática doble embrague (DHT 3)"
+        },
+        "traccion": {
+            "T2_PHEV_LIMITED": "4x2"
+        },
+        "sistema_hibrido": {
+            "potencia_combinada_hp": {
+                "T2_PHEV_LIMITED": "375"
+            },
+            "torque_combinado_nm": {
+                "T2_PHEV_LIMITED": "610"
+            },
+            "autonomia_combinada_km": {
+                "T2_PHEV_LIMITED": "+1.000"
+            },
+            "motor_electrico_1_potencia_hp": {
+                "T2_PHEV_LIMITED": "100"
+            },
+            "motor_electrico_1_torque_nm": {
+                "T2_PHEV_LIMITED": "170"
+            },
+            "motor_electrico_2_potencia_hp": {
+                "T2_PHEV_LIMITED": "121"
+            },
+            "motor_electrico_2_torque_nm": {
+                "T2_PHEV_LIMITED": "220"
+            },
+            "potencia_electrica_total_hp": {
+                "T2_PHEV_LIMITED": "221"
+            },
+            "torque_total_nm": {
+                "T2_PHEV_LIMITED": "390"
+            },
+            "capacidad_bateria_kwh": {
+                "T2_PHEV_LIMITED": "26,7"
+            },
+            "tipo_bateria": {
+                "T2_PHEV_LIMITED": "LiFePO4"
+            },
+            "autonomia_bateria_electrica_km": {
+                "T2_PHEV_LIMITED": "139"
+            },
+            "tiempo_carga_rapida_min_30_80": {
+                "T2_PHEV_LIMITED": "30"
+            },
+            "regeneracion_energia": {
+                "T2_PHEV_LIMITED": true
+            },
+            "recuperacion_ajustable": {
+                "T2_PHEV_LIMITED": true
+            },
+            "puerto_carga_tipo_2": {
+                "T2_PHEV_LIMITED": true
+            },
+            "cargador_viaje_incluido_10a": {
+                "T2_PHEV_LIMITED": true
+            }
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_estacionamiento": "Electrónico + Autohold",
+        "neumaticos": {
+            "T2_PHEV_LIMITED": "255/55R20"
+        },
+        "rueda_repuesto": "Neumático de repuesto temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4785,
+        "ancho_mm": 2006,
+        "alto_mm": 1880,
+        "distancia_ejes_mm": 2800,
+        "despeje_suelo_mm": 205,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": 70,
+        "capacidad_maletero_lts": "580 / 1.494"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía combinada (Km)",
+            "T2_PHEV_LIMITED": "+1.000"
+        },
+        {
+            "caracteristica": "Potencia combinada (hp)",
+            "T2_PHEV_LIMITED": "375"
+        },
+        {
+            "caracteristica": "Torque combinado (Nm)",
+            "T2_PHEV_LIMITED": "610"
+        },
+        {
+            "caracteristica": "Autonomía de la batería eléctrica (Km)",
+            "T2_PHEV_LIMITED": "139"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Barras de techo",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Cierre automático al salir del vehículo",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Encendido remoto de vehículo",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles electrónicamente",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con ajuste automático al activar reversa",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con memoria",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos calefaccionados",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Limpiavidrio trasero",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces delanteras automáticas",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces direccionales",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces diurnas LED (DLR)",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces regulables en altura",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejos retrovisores",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Puerto de carga eléctrico tipo 2",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Cargador de viaje incluido 10A",
+                "T2_PHEV_LIMITED": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado dual climatizado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Aire acondicionado eléctrico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Aire acondicionado modo estacionamiento",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos one touch",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste eléctrico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor calefaccionado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor con función bienvenida",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor con memoria",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor ventilado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento copiloto ajuste eléctrico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento copiloto con función bienvenida",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento copiloto con memoria",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento copiloto ventilado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento tapiz eco-cuero",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles 60/40",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Apple CarPlay y Android Auto inalámbrico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Comandos de voz en español",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Conexión 12V",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Conexión 12V trasera",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Control audio al volante",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Destapador de botellas en portalón",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Indicador de temperatura exterior",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces de lectura LED",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luz ambiental",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Luz en maletero",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Modos de conducción",
+                "T2_PHEV_LIMITED": "Sport / Eco / Normal / Nieve / EV / HEV"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "T2_PHEV_LIMITED": "10,25”"
+            },
+            {
+                "caracteristica": "Parasoles con luz de cortesía",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Parasoles delanteros con espejo de cortesía",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Parlantes (12)",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Porta anteojos",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Radio touch conectividad",
+                "T2_PHEV_LIMITED": "15,6"
+            },
+            {
+                "caracteristica": "Reposabrazos con función de refrigeración",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia delantero",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sistema de audio con subwoofer",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sistema de sonido Sony",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Smart key y botón de encendido",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "USB frontales (2)",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "USB traseros (2)",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Ventanas antiatrapamiento",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Ventanas doble vidrio",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Volante con ajuste de rigidez",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Volante con ajuste en profundidad y altura",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Volante forrado eco-cuero",
+                "T2_PHEV_LIMITED": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS + EBD",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "ACC: Control crucero adaptativo",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "AEB: Sistema avanzado de frenado de emergencia",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Airbags de cortinas",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Airbags delanteros",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Anclaje ISOFIX",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "BSD: Monitoreo de punto ciego",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Cámara chasis transparente 180º",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Cámara panorámica 360º",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "CBC: Control de frenado en curva",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "DOW: Advertencia de colisión lateral apertura de puerta",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "EBA: Asistencia electrónica de frenado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "ESP: Control de estabilidad",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "FCW: Advertencia de colisión frontal",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "HDC: Control de descenso",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "HHC: Control de partida en pendiente",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "HMA: Asistente de luces altas",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "ICA: Asistencia de crucero integrado",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "LDWS: Advertencia de cambio de carril",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "LKA: Asistente de mantenimiento de carril",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "RCW: Alerta de colisión trasera",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "RMI: Sistema de control anti vuelco",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Seguro de niños en puertas traseras",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "Sistema de detección de vadeo 700 mm",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "TCS: Control de tracción",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "TJA: Asistente de tráfico",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "TOP TETHER",
+                "T2_PHEV_LIMITED": true
+            },
+            {
+                "caracteristica": "TPMS: Monitor de presión de neumáticos",
+                "T2_PHEV_LIMITED": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "metadata": {
+        "fuente": "FT T2 PHEV (2) (1).pdf",
+        "versiones_en_documento": 1,
+        "notas": "Este JSON mantiene el formato estándar. Colores/garantía no fueron incluidos porque no estaban especificados en el contenido entregado."
+    }
+}

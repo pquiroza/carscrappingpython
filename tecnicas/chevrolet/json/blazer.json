@@ -1,0 +1,349 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "BLAZER EV",
+        "año": null,
+        "versiones": [
+            "EV RS RWD P"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EV RS RWD P": "Motor Propulsor eléctrico trasero de 3ra Generación"
+        },
+        "cilindrada": {
+            "EV RS RWD P": null
+        },
+        "potencia_hp": {
+            "EV RS RWD P": "340"
+        },
+        "potencia_rpm": {
+            "EV RS RWD P": null
+        },
+        "torque_nm": {
+            "EV RS RWD P": null
+        },
+        "torque_rpm": {
+            "EV RS RWD P": null
+        },
+        "combustible": "Vehículo eléctrico",
+        "transmision": {
+            "EV RS RWD P": null
+        },
+        "traccion": "Trasera"
+    },
+    "direccion": {
+        "tipo": "Dirección Asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "EV RS RWD P": "275/45R21 SL 107"
+        },
+        "rueda_repuesto": "Kit de Inflado"
+    },
+    "dimensiones": {
+        "largo_mm": 4876,
+        "ancho_mm": 1970,
+        "alto_mm": 1639,
+        "distancia_ejes_mm": 3094,
+        "despeje_suelo_mm": 188,
+        "peso_bruto_kg": 2722,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Batería Ultium de 102 kWh",
+            "EV RS RWD P": "√"
+        },
+        {
+            "caracteristica": "Rango Máximo Ciclo EPA kms",
+            "EV RS RWD P": "520"
+        },
+        {
+            "caracteristica": "Conector Tipo 2",
+            "EV RS RWD P": "√"
+        },
+        {
+            "caracteristica": "Cargador de 22kW AC",
+            "EV RS RWD P": "√"
+        },
+        {
+            "caracteristica": "Carga rápida de hasta 190kW",
+            "EV RS RWD P": "√"
+        },
+        {
+            "caracteristica": "Cordset portable, con conector de red intercambiable",
+            "EV RS RWD P": "√"
+        },
+        {
+            "caracteristica": "Potencia kW/Hp",
+            "EV RS RWD P": "254 / 340"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores eléctricos, calefaccionados, abatibles eléctricamente y con señalizador",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico, con apertura sin manos",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Luces Delanteras LED",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Luces de Posicionamiento Diurnas",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Luces Delanteras Principales LED",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Sensor de Encendido de Luces Automáticas",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Rieles en el Techo",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Antena aleta de Tiburón",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Sunroof Panorámico",
+                "EV RS RWD P": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Interior Negro",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asiento Conductor con ajuste eléctrico de 8 posiciones",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asiento Conductor con memoria configurable",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asiento Conductor con ajuste lumbar eléctrico",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asiento Pasajero con ajuste eléctrico de 6 posiciones",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asiento Pasajero con ajuste lumbar eléctrico",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asientos Delanteros calefaccionados",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asientos Delanteros ventilados",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asientos Traseros calefaccionados",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Volante con regulación de altura y profundidad",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Volante Deportivo Forrado en Ecocuero",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Controles de radio y teléfono incorporados en el volante",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Apoyabrazos Central Delantero",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Parasol delantero con espejo y luz de cortesía",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior fotocromático con cámara",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Interior de ecocuero color Negro",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Cargador de teléfono Inalámbrico",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Clúster de 11\"",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Pantalla Touch de 17.7\" con Google Automotive System",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Sistema de Audio Premium",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Conectividad inalámbrica con smartphones",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Aplicaciones de navegación",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Encendido remoto con My Chevrolet APP",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "ONSTAR",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Alarma de Pánico (ONSTAR)",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "WIFI (ONSTAR)",
+                "EV RS RWD P": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor de presión de neumáticos (TPMS)",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asiento piloto con sistema de alertas de seguridad por vibración",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal (FCA)",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Sensor de Retroceso con evasión y mitigación de impacto",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Alerta de Trafico cruzado trasero con frenado",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Alerta de trafico cruzado (RCTA) con frenado",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asistente de Mantención de carril (retorno óptimo)",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Alerta frontal de peatones y ciclistas",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Alerta frontal de peatones y ciclistas al abrir puertas",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Indicador de distancia de seguimiento",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Control de Tracción",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Identificador de señales de tránsito mejorado",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Detección Trasera de peatones",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Sensores de proximidad traseros",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Cámara 360° HD",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Seguridad Lateral Activa, Detección de obstáculos mejorada y asistencia de dirección",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Asistente de enganche",
+                "EV RS RWD P": true
+            },
+            {
+                "caracteristica": "Airbags 8",
+                "EV RS RWD P": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Negro",
+        "Azul Eléctrico Metálico",
+        "Rojo Metálico",
+        "Gris Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (ticket negro=presente, -=no presente; texto/valores tal cual)",
+        "fuente": "ft-blazer-ev-chile.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información visible del documento para la versión EV RS RWD P. Donde el PDF no entrega valor explícito se dejó null."
+    }
+}

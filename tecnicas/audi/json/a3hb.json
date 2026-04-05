@@ -1,0 +1,322 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "A3 Sportback PI",
+        "año": null,
+        "versiones": [
+            "35 TFSI MHEV",
+            "35 TFSI S line MHEV",
+            "35 TFSI S line MHEV Special Edition"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "35 TFSI MHEV": "1.5 TFSI Mild-Hybrid",
+            "35 TFSI S line MHEV": "1.5 TFSI Mild-Hybrid",
+            "35 TFSI S line MHEV Special Edition": "1.5 TFSI Mild-Hybrid"
+        },
+        "cilindrada": {
+            "35 TFSI MHEV": null,
+            "35 TFSI S line MHEV": null,
+            "35 TFSI S line MHEV Special Edition": null
+        },
+        "potencia_hp": {
+            "35 TFSI MHEV": "150",
+            "35 TFSI S line MHEV": "150",
+            "35 TFSI S line MHEV Special Edition": "150"
+        },
+        "potencia_rpm": {
+            "35 TFSI MHEV": "5000-6000",
+            "35 TFSI S line MHEV": "5000-6000",
+            "35 TFSI S line MHEV Special Edition": "5000-6000"
+        },
+        "torque_nm": {
+            "35 TFSI MHEV": "250",
+            "35 TFSI S line MHEV": "250",
+            "35 TFSI S line MHEV Special Edition": "250"
+        },
+        "torque_rpm": {
+            "35 TFSI MHEV": "1500-3500",
+            "35 TFSI S line MHEV": "1500-3500",
+            "35 TFSI S line MHEV Special Edition": "1500-3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "35 TFSI MHEV": "DSG 7 velocidades",
+            "35 TFSI S line MHEV": "DSG 7 velocidades",
+            "35 TFSI S line MHEV Special Edition": "DSG 7 velocidades"
+        },
+        "traccion": {
+            "35 TFSI MHEV": "Delantera",
+            "35 TFSI S line MHEV": "Delantera",
+            "35 TFSI S line MHEV Special Edition": "Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "ABS (Sistema antibloqueo de frenos)",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "35 TFSI MHEV": "225/45 R17”",
+            "35 TFSI S line MHEV": "225/45 R18”",
+            "35 TFSI S line MHEV Special Edition": "225/40 R18” Audi Sport"
+        },
+        "rueda_repuesto": "Rueda de repuesto y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4352,
+        "ancho_mm": 1984,
+        "alto_mm": 1466,
+        "distancia_ejes_mm": 2630,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1365,
+        "capacidad_maletero_lts": "380 / 1200",
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento (km/l)*",
+            "35 TFSI MHEV": "19,6",
+            "35 TFSI S line MHEV": "19,6",
+            "35 TFSI S line MHEV Special Edition": "19,6"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "35 TFSI MHEV": "8,1 seg",
+            "35 TFSI S line MHEV": "8,1 seg",
+            "35 TFSI S line MHEV Special Edition": "8,1 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "35 TFSI MHEV": "226 km/h",
+            "35 TFSI S line MHEV": "226 km/h",
+            "35 TFSI S line MHEV Special Edition": "226 km/h"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "35 TFSI MHEV": "Sensor trasero y delantero, con cámara de retroceso y park assist",
+                "35 TFSI S line MHEV": "Sensor trasero y delantero, con cámara de retroceso y park assist",
+                "35 TFSI S line MHEV Special Edition": "Sensor trasero y delantero, con cámara de retroceso y park assist"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "35 TFSI MHEV": "LED con Digital Light Signature",
+                "35 TFSI S line MHEV": "LED con asistencia de luces de carretera y Digital Light Signature",
+                "35 TFSI S line MHEV Special Edition": "LED con asistencia de luces de carretera y Digital Light Signature"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "35 TFSI MHEV": "LED con indicador dinámico",
+                "35 TFSI S line MHEV": "LED con indicador dinámico",
+                "35 TFSI S line MHEV Special Edition": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "35 TFSI MHEV": "225/45 R17”",
+                "35 TFSI S line MHEV": "225/45 R18”",
+                "35 TFSI S line MHEV Special Edition": "225/40 R18” Audi Sport"
+            },
+            {
+                "caracteristica": "Paquete de diseño",
+                "35 TFSI MHEV": false,
+                "35 TFSI S line MHEV": "S Line",
+                "35 TFSI S line MHEV Special Edition": "S line con Black Package - Retrovisores exteriores, parrilla frontal, logo Audi y detalles en negro."
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "35 TFSI MHEV": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "35 TFSI S line MHEV": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "35 TFSI S line MHEV Special Edition": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "35 TFSI MHEV": false,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "35 TFSI MHEV": false,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "35 TFSI MHEV": "Automática 1 zona",
+                "35 TFSI S line MHEV": "Automática 2 zonas / Automática 1 zona",
+                "35 TFSI S line MHEV Special Edition": "Automática 2 zonas / Automática 1 zona"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "35 TFSI MHEV": "LED",
+                "35 TFSI S line MHEV": "LED",
+                "35 TFSI S line MHEV Special Edition": "LED"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "35 TFSI MHEV": "MMI con pantalla Touch 10,1”",
+                "35 TFSI S line MHEV": "MMI con pantalla Touch 10,1”",
+                "35 TFSI S line MHEV Special Edition": "MMI con pantalla Touch 10,1”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "35 TFSI MHEV": "Virtual Cockpit 10,25”",
+                "35 TFSI S line MHEV": "Digital 10,25” / Virtual Cockpit 10,25”",
+                "35 TFSI S line MHEV Special Edition": "Digital 10,25” / Virtual Cockpit 10,25”"
+            },
+            {
+                "caracteristica": "Phone Box*",
+                "35 TFSI MHEV": "Sí, con carga inalámbrica para Smartphones",
+                "35 TFSI S line MHEV": "Sí, con carga inalámbrica para Smartphones",
+                "35 TFSI S line MHEV Special Edition": "Sí, con carga inalámbrica para Smartphones"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "35 TFSI MHEV": "Basic Plus 6 altavoces - 80 W",
+                "35 TFSI S line MHEV": "Basic Plus 6 altavoces - 80 W",
+                "35 TFSI S line MHEV Special Edition": "Basic Plus 6 parlantes - 80 W"
+            },
+            {
+                "caracteristica": "Soporte lumbar",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": false,
+                "35 TFSI S line MHEV Special Edition": false
+            },
+            {
+                "caracteristica": "Tapizado",
+                "35 TFSI MHEV": "Leather - Leatherette",
+                "35 TFSI S line MHEV": "Leather – Leatherette, con logo S en relieve y techo interior en negro",
+                "35 TFSI S line MHEV Special Edition": "Microfibra dinámica/ Leatherette, con logo S en relieve y techo interior en negro"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "35 TFSI MHEV": "Apple Car Play y Android Auto",
+                "35 TFSI S line MHEV": "Apple Car Play y Android Auto",
+                "35 TFSI S line MHEV Special Edition": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "35 TFSI MHEV": "Estándar con ajuste manual y soporte lumbar",
+                "35 TFSI S line MHEV": "Deportivos con ajuste eléctrico",
+                "35 TFSI S line MHEV Special Edition": "Deportivos con ajuste eléctrico"
+            },
+            {
+                "caracteristica": "Volante",
+                "35 TFSI MHEV": "Multifunción en cuero con levas de cambio",
+                "35 TFSI S line MHEV": "Deportivo multifunción en cuero con levas de cambio",
+                "35 TFSI S line MHEV Special Edition": "Deportivo multifunción en cuero con levas de cambio"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros y de cortina",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Audi Pre Sense Front",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Rueda de repuesto y pernos de seguridad antirrobo",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Sensor lluvia y luz",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Sistema Start/Stop",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            },
+            {
+                "caracteristica": "Control electrónico de estabilidad",
+                "35 TFSI MHEV": true,
+                "35 TFSI S line MHEV": true,
+                "35 TFSI S line MHEV Special Edition": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro Mitos",
+        "Azul Navarra",
+        "Blanco Glaciar",
+        "Rojo Progresivo",
+        "Verde Distrito",
+        "Gris Manhattan",
+        "Gris Flecha",
+        "Amarillo Pitón"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de fichas por versión Audi (valores/texto tal cual; Sí/No -> true/false)",
+        "fuente": "A3-Sportback-PI-35-TFSI-MHEV.pdf | A3-Sportback-PI-35-TFSI-S-line-MHEV.pdf | A3-Sportback-PI-35-TFSI-S-line-MHEV-Special-Edition.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Audi entrega un archivo por versión; se consolidaron las 3 versiones del modelo A3 Sportback PI en un solo JSON manteniendo la estructura."
+    }
+}

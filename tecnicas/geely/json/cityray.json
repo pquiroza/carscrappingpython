@@ -1,0 +1,359 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "CITYRAY",
+        "año": null,
+        "versiones": [
+            "CITYRAY COMFORT",
+            "CITYRAY EXCLUSIVE",
+            "CITYRAY SIGNATURE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CITYRAY COMFORT": "1.5T",
+            "CITYRAY EXCLUSIVE": "1.5T",
+            "CITYRAY SIGNATURE": "1.5T"
+        },
+        "cilindrada": {
+            "CITYRAY COMFORT": 1499,
+            "CITYRAY EXCLUSIVE": 1499,
+            "CITYRAY SIGNATURE": 1499
+        },
+        "potencia_hp": {
+            "CITYRAY COMFORT": "174",
+            "CITYRAY EXCLUSIVE": "174",
+            "CITYRAY SIGNATURE": "174"
+        },
+        "potencia_rpm": {
+            "CITYRAY COMFORT": "5500",
+            "CITYRAY EXCLUSIVE": "5500",
+            "CITYRAY SIGNATURE": "5500"
+        },
+        "torque_nm": {
+            "CITYRAY COMFORT": "290",
+            "CITYRAY EXCLUSIVE": "290",
+            "CITYRAY SIGNATURE": "290"
+        },
+        "torque_rpm": {
+            "CITYRAY COMFORT": "2000-3500",
+            "CITYRAY EXCLUSIVE": "2000-3500",
+            "CITYRAY SIGNATURE": "2000-3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "CITYRAY COMFORT": "DCT de 7 velocidades",
+            "CITYRAY EXCLUSIVE": "DCT de 7 velocidades",
+            "CITYRAY SIGNATURE": "DCT de 7 velocidades"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mcpherson",
+        "suspension_trasera": "Multi - Link",
+        "frenos_delanteros": "Ventilados",
+        "frenos_traseros": "Sólidos",
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "CITYRAY COMFORT": "Llanta de Aleación 225/55 R18",
+            "CITYRAY EXCLUSIVE": "Llanta de Aleación 225/55 R18",
+            "CITYRAY SIGNATURE": "Llanta de Aleación 235/45 R19"
+        },
+        "rueda_repuesto": "Rueda de Emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 4510,
+        "ancho_mm": 1865,
+        "alto_mm": 1650,
+        "distancia_ejes_mm": 2701,
+        "despeje_suelo_mm": 200,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 571,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "CITYRAY COMFORT": "16,9",
+            "CITYRAY EXCLUSIVE": "16,9",
+            "CITYRAY SIGNATURE": "16,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo panorámico eléctrico con parasol eléctrico",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Espejos exteriores plegables eléctricamente",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con sensor de lluvia",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Doble salida de escape en ambos lados",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Llanta de Aleación 225/55 R18",
+                "CITYRAY COMFORT": true,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": false
+            },
+            {
+                "caracteristica": "Llanta de Aleación 235/45 R19",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Carrocería bitono",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerón deportivo",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "CITYRAY COMFORT": "Cuero Sintético y Tela",
+                "CITYRAY EXCLUSIVE": "Cuero Sintético Perforado",
+                "CITYRAY SIGNATURE": "Cuero Sintético Perforado"
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable manualmente en 6 direcciones",
+                "CITYRAY COMFORT": true,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": false
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable eléctricamente en 6 direcciones",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto ajustable manualmente en 4 direcciones",
+                "CITYRAY COMFORT": true,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": false
+            },
+            {
+                "caracteristica": "Asiento del copiloto ajustable eléctricamente en 4 direcciones",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asiento del Conductor con Memoria",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asientos Delanteros con Calefacción",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Iluminación Ambiental de 72 colores",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": false,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "CITYRAY COMFORT": 4,
+                "CITYRAY EXCLUSIVE": 6,
+                "CITYRAY SIGNATURE": 8
+            },
+            {
+                "caracteristica": "Cargador Inalámbrico",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara 360° con perspectiva 540°",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Airbags de Cortina",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control Crucero Adaptativo (ACC)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Frenado Automático de Emergencia (AEB)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de Salida de Carril (LDW)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistencia de Mantenimiento de Carril (LKA)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistencia de Emergencia para Mantenimiento de Carril (ELKA)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistencia en Autopista (HWA)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Control Inteligente de Luces Altas (IHBC)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de Cambio de Carril (LCW)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de Apertura de Puertas (DOW)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Detección de Punto Ciego (BSD)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sistema de Mitigación de Colisión Trasera (CMSR)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de Tráfico Cruzado Trasero (RCTA)",
+                "CITYRAY COMFORT": false,
+                "CITYRAY EXCLUSIVE": true,
+                "CITYRAY SIGNATURE": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Focos Delanteros LED automáticos de encendido/apagado",
+            "Luces LED diurnas",
+            "Luces traseras LED",
+            "Señalizador LED",
+            "Luz de freno trasera LED",
+            "Entrada sin llave (Keyless Entry)",
+            "Apertura y cierre remoto de ventanas (Incluye Techo Panoramico)",
+            "Barras de techo",
+            "Parabrisa trasero calefaccionado",
+            "Espejos exteriores ajustables eléctricamente",
+            "Manijas exteriores del color de la carrocería",
+            "Rueda de Emergencia"
+        ],
+        "interior": [
+            "Volante Multifunción Forrado en Cuero Sintético",
+            "Apoyabrazos Central Trasero con Portavasos",
+            "Luz de Lectura LED delantera",
+            "Luz de Lectura LED trasera",
+            "Luz de Iluminación de la Guantera",
+            "Iluminación LED en el Maletero",
+            "Botón de Arranque",
+            "Alzavidrios eléctricos con función one touch 4 ventanas",
+            "Pantalla Touchscreen HD de 13,2”",
+            "Cuadro de Instrumentos LCD de 10.2\"",
+            "Apple CarPlay",
+            "Bluethooth",
+            "Dos Puertos Tipo USB-C",
+            "Puerto USB-A",
+            "Filtro de aire CN95"
+        ],
+        "seguridad": [
+            "Sistema Antibloqueo de Frenos (ABS)",
+            "Distribución Electrónica de la Fuerza de Frenado (EBD)",
+            "Asistencia de Frenado (BA)",
+            "Sistema de Control de Tracción (TCS)",
+            "Programa Electrónico de Estabilidad (ESP®)",
+            "Asistente de Arranque en Pendiente (HAC)",
+            "Control de Descenso en Pendiente (HDC)",
+            "Control de crucero",
+            "Manilla interior de apertura en el maletero",
+            "Sistema de monitoreo de presión de neumáticos, directa (TPMS)",
+            "Airbags Frontales",
+            "Airbags Laterales",
+            "Recordatorio de cinturón de seguridad para asientos delanteros",
+            "Cinturones de seguridad delanteros con limitador de fuerza",
+            "Sensores de estacionamiento traseros",
+            "Cámara de Retroceso",
+            "Seguros de protección infantil",
+            "Sistema de bloqueo automático al iniciar la marcha",
+            "Sistema de Anclaje ISOFIX"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "CITYRAY-FICHA-TECNICA-1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se consolidaron las múltiples tablas del documento en el mismo formato JSON usado anteriormente. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

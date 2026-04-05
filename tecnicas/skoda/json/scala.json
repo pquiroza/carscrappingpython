@@ -1,0 +1,187 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Scala",
+        "año": null,
+        "versiones": [
+            "Selection 1.5 TSI AT",
+            "Design 1.5 TSI AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Selection 1.5 TSI AT": "1,5 TSI",
+            "Design 1.5 TSI AT": "1,5 TSI"
+        },
+        "cilindrada": {
+            "Selection 1.5 TSI AT": "1,5",
+            "Design 1.5 TSI AT": "1,5"
+        },
+        "potencia_hp": {
+            "Selection 1.5 TSI AT": "150",
+            "Design 1.5 TSI AT": "150"
+        },
+        "potencia_rpm": {
+            "Selection 1.5 TSI AT": "5.000-6.000",
+            "Design 1.5 TSI AT": "5.000-6.000"
+        },
+        "torque_nm": {
+            "Selection 1.5 TSI AT": "250",
+            "Design 1.5 TSI AT": "250"
+        },
+        "torque_rpm": {
+            "Selection 1.5 TSI AT": "1.500-3.500",
+            "Design 1.5 TSI AT": "1.500-3.500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Selection 1.5 TSI AT": "DSG 7 velocidades",
+            "Design 1.5 TSI AT": "DSG 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con brazos triangulares inferiores y estabilizador de torsión",
+        "suspension_trasera": "Semi – independiente de eje torsional",
+        "frenos_delanteros": "Freno de disco delantero y trasero",
+        "frenos_traseros": "Freno de disco delantero y trasero",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Selection 1.5 TSI AT": "R17” 205/50 89V",
+            "Design 1.5 TSI AT": "R17” 205/50 89V"
+        },
+        "rueda_repuesto": "Rueda de repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4362,
+        "ancho_mm": 1793,
+        "alto_mm": 1471,
+        "distancia_ejes_mm": 2636,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "467 / 1.410",
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Faros neblineros delanteros",
+                "Selection 1.5 TSI AT": true,
+                "Design 1.5 TSI AT": true
+            },
+            {
+                "caracteristica": "Faros traseros LED",
+                "Selection 1.5 TSI AT": true,
+                "Design 1.5 TSI AT": false
+            },
+            {
+                "caracteristica": "Faros traseros LED con indicador dinámico",
+                "Selection 1.5 TSI AT": false,
+                "Design 1.5 TSI AT": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles eléctricamente",
+                "Selection 1.5 TSI AT": false,
+                "Design 1.5 TSI AT": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "Selection 1.5 TSI AT": false,
+                "Design 1.5 TSI AT": true
+            },
+            {
+                "caracteristica": "Spoiler trasero",
+                "Selection 1.5 TSI AT": false,
+                "Design 1.5 TSI AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "Selection 1.5 TSI AT": false,
+                "Design 1.5 TSI AT": true
+            }
+        ],
+        "interior": [],
+        "seguridad": [
+            {
+                "caracteristica": "Asistente de mantenimiento de carril",
+                "Selection 1.5 TSI AT": false,
+                "Design 1.5 TSI AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros LED",
+            "Limpiaparabrisas trasero con control intermitente",
+            "Rejilla radiador exterior con moldura cromada",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Retrovisores exteriores eléctricos y calefactados",
+            "Regulación para alcance de luces"
+        ],
+        "interior": [
+            "Alza vidrios eléctricos con interruptor confort",
+            "Ajuste del volante en altura y profundidad",
+            "Ajuste reposacabezas delanteros en altura",
+            "Apoyabrazos delantero \"Jumbo Box\"",
+            "Apoyo lumbar ajustable manualmente en asientos delanteros",
+            "Asientos delanteros regulables en altura",
+            "Asientos traseros abatibles",
+            "Inserciones interiores en negro",
+            "Guantera iluminada",
+            "Retrovisor interior con función antideslumbrante",
+            "Tapizado Tela",
+            "Sistema de ventilación con filtro",
+            "Volante multifunción y palanca de cambio en cuero",
+            "Volante con levas de cambio"
+        ],
+        "seguridad": [
+            "6 Airbags: frontales, laterales delanteros y de cortina",
+            "Anclaje para asientos de niños",
+            "Asistente hidráulico de frenado (HBA)",
+            "Bloqueo electrónico de diferencial (XDS+) (EDL)",
+            "Control electrónico de estabilidad y frenada (ESBS)",
+            "Control de inercia del par motor (MSR)",
+            "Control de asistencia para arranque en pendientes",
+            "Control de tracción electrónico (ASR) y Sistema de secado para discos de freno (RBS)",
+            "Freno multi colisión (MKB)",
+            "Inmovilizador electrónico",
+            "Rueda de repuesto",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Testigo visual y acústico de cinturón de seguridad",
+            "Aviso de presión de neumáticos"
+        ],
+        "tecnologia": [
+            "Entrada USB-C (X2)",
+            "Radio con pantalla touch de 8.25\"",
+            "SmartLink+ Inalámbrico (Función CarPlay, Android Auto & MirrorLink)"
+        ],
+        "adas": [
+            "Front Assist: Radar con función frenado de emergencia"
+        ]
+    },
+    "colores": [
+        "Gris Grafito",
+        "Gris Acero",
+        "Rojo Velvet",
+        "Azul Carrera",
+        "Blanco Glaciar",
+        "Negro Magic",
+        "Plata Brillante",
+        "Azul Energía"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (⬤=presente; 〇/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Scala-Facelift.pdf",
+        "versiones_en_documento": 2,
+        "notas": "‘Freno de disco delantero y trasero’ aparece como presente (⬤) en el bloque de Datos Técnicos. En ‘Llantas de aleación/Neumáticos’ se listan medidas para ambas versiones."
+    }
+}

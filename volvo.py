@@ -2,9 +2,12 @@ import asyncio
 import re
 import json
 from urllib.parse import urljoin
+
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+
 from utils import saveCar
 from utils import to_title_custom
+
 BASE = "https://www.salazarisrael.cl"
 START_URL = f"{BASE}/marcas/volvo/nuevo"
 DETAIL_BTN_TEXT = "VER MÁS DETALLES DEL AUTO"
@@ -19,9 +22,6 @@ def extract_money_text(text: str) -> str:
 
 
 def money_to_int(text: str):
-    """
-    "$30.900.000" -> 30900000
-    """
     if not text:
         return None
     m = re.search(r"\$\s*([\d\.]+)", text)
@@ -53,10 +53,34 @@ async def scroll_until_stable(page, selector: str, max_rounds: int = 30, wait_ms
         await page.wait_for_timeout(wait_ms)
 
 
+async def maybe_close_popups(page):
+    candidates = [
+        'button:has-text("Aceptar")',
+        'button:has-text("ACEPTAR")',
+        'button:has-text("Entendido")',
+        'button:has-text("ENTENDIDO")',
+        'button:has-text("Cerrar")',
+        'button:has-text("CERRAR")',
+        '[aria-label="close"]',
+        '[aria-label="Close"]',
+        '.close',
+    ]
+    for sel in candidates:
+        try:
+            btn = page.locator(sel).first
+            if await btn.count() > 0 and await btn.is_visible():
+                await btn.click(timeout=1200)
+                await page.wait_for_timeout(250)
+                break
+        except Exception:
+            pass
+
+
 async def listar_modelos(page):
     await page.wait_for_selector("ul.grid", timeout=30000)
     details_selector = f'a:has-text("{DETAIL_BTN_TEXT}")'
     await scroll_until_stable(page, details_selector)
+    await maybe_close_popups(page)
 
     raw_items = await page.eval_on_selector_all(
         details_selector,
@@ -83,31 +107,96 @@ async def listar_modelos(page):
 
 
 async def listar_versiones_en_detalle_modelo(page):
-    await page.wait_for_selector("div.swiper-wrapper", timeout=20000)
+    # CLAVE: no esperes "visible", espera "attached"
+    await page.wait_for_selector("div.swiper-wrapper", state="attached", timeout=45000)
 
-    versiones = await page.eval_on_selector_all(
-        "div.swiper-slide a[href]",
+    # Elegir el swiper-wrapper "bueno" (el que realmente tiene slides con h3/link)
+    wrapper_handle = await page.evaluate_handle(
         """
-        (items) => items.map(a => {
-            const version = a.querySelector("h3")?.textContent?.trim() || "";
+        () => {
+          const wrappers = Array.from(document.querySelectorAll("div.swiper-wrapper"));
+          if (!wrappers.length) return null;
+
+          const scoreWrapper = (w) => {
+            const slides = w.querySelectorAll(".swiper-slide");
+            let score = slides.length;
+
+            // suma puntos si encuentra h3 con texto y/o links
+            for (const s of slides) {
+              const h3 = s.querySelector("h3");
+              if (h3 && (h3.textContent || "").trim().length > 0) score += 10;
+              if (s.querySelector("a[href]")) score += 10;
+              if (s.querySelector("[data-href]")) score += 5;
+              if (s.querySelector("[onclick]")) score += 2;
+            }
+
+            // castigo si está dentro de algo oculto
+            const style = window.getComputedStyle(w);
+            if (style && (style.display === "none" || style.visibility === "hidden")) score -= 1000;
+
+            return score;
+          };
+
+          wrappers.sort((a, b) => scoreWrapper(b) - scoreWrapper(a));
+          return wrappers[0];
+        }
+        """
+    )
+
+    if not wrapper_handle or await wrapper_handle.evaluate("(w) => w === null"):
+        return []
+
+    # Extrae versiones SOLO dentro del wrapper elegido (evitas wrappers clonados/ocultos)
+    versiones = await page.evaluate(
+        """
+        (wrapper) => {
+          const out = [];
+          const slides = wrapper.querySelectorAll(".swiper-slide");
+
+          for (const s of slides) {
+            const h3 = s.querySelector("h3");
+            const version =
+              h3?.textContent?.trim() ||
+              h3?.getAttribute("title")?.trim() ||
+              s.querySelector("[title]")?.getAttribute("title")?.trim() ||
+              "";
+
             const precio_card =
-              a.querySelector('section[aria-label="Información de precio"] p')
-                ?.textContent?.trim() || "";
-            const href = a.getAttribute("href") || "";
-            return { version, precio_card, href };
-        }).filter(v => v.version && v.href)
-        """
+              s.querySelector('section[aria-label="Información de precio"] p')?.textContent?.trim() ||
+              s.querySelector("p")?.textContent?.trim() ||
+              "";
+
+            let href =
+              s.querySelector("a[href]")?.getAttribute("href") ||
+              s.querySelector("[data-href]")?.getAttribute("data-href") ||
+              "";
+
+            if (!href) {
+              const oc = s.querySelector("[onclick]")?.getAttribute("onclick") || "";
+              const m = oc.match(/https?:\\/\\/[^'"]+|\\/[^'"]+/);
+              if (m) href = m[0];
+            }
+
+            if (version && href) out.push({ version, precio_card, href });
+          }
+
+          return out;
+        }
+        """,
+        wrapper_handle
     )
 
     uniq = {}
     for v in versiones:
         full_url = v["href"] if v["href"].startswith("http") else urljoin(BASE, v["href"])
-        if full_url not in uniq:
-            uniq[full_url] = {
+        key = f"{v['version']}|{full_url}"
+        if key not in uniq:
+            uniq[key] = {
                 "version": v["version"],
-                "precio_card": extract_money_text(v["precio_card"]),
+                "precio_card": extract_money_text(v.get("precio_card", "")),
                 "url": full_url
             }
+
     return list(uniq.values())
 
 
@@ -134,11 +223,12 @@ async def _pick_best_price_section(page):
 
 
 async def capturar_precios_y_cotizar(page):
-    # esperar render real
     try:
-        await page.wait_for_load_state("networkidle", timeout=30000)
+        await page.wait_for_load_state("networkidle", timeout=25000)
     except PlaywrightTimeoutError:
         pass
+
+    await maybe_close_popups(page)
 
     price_section = await _pick_best_price_section(page)
     if not price_section:
@@ -156,7 +246,6 @@ async def capturar_precios_y_cotizar(page):
     except Exception:
         pass
 
-    # Esperar a que aparezca $ dentro del bloque
     try:
         await page.wait_for_function(
             """(el) => el && /\\$\\s*[0-9\\.]+/.test(el.innerText || "")""",
@@ -166,7 +255,6 @@ async def capturar_precios_y_cotizar(page):
     except PlaywrightTimeoutError:
         pass
 
-    # Expandir opciones si hay "ver más"
     try:
         toggle = await page.evaluate_handle(
             "(el) => el.querySelector('.payment-options > div > div')",
@@ -180,7 +268,6 @@ async def capturar_precios_y_cotizar(page):
     except Exception:
         pass
 
-    # Extraer datos
     data = await page.evaluate(
         """
         (el) => {
@@ -221,18 +308,13 @@ async def capturar_precios_y_cotizar(page):
         if "todo medio de pago" in lk:
             todo_txt = price_txt
 
-    # Cotizar: botón generalmente es <button> "Cotizar"
     cotizar_url = None
     try:
-        # si existe un <a> "Cotizar" úsalo, si es <button> no hay href
         a = page.locator('a:has-text("Cotizar")').first
         if await a.count() > 0:
             href = await a.get_attribute("href")
             if href:
                 cotizar_url = href if href.startswith("http") else urljoin(BASE, href)
-        else:
-            # a veces solo hay button; no hay URL
-            cotizar_url = None
     except Exception:
         cotizar_url = None
 
@@ -251,21 +333,31 @@ async def main():
         browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
 
+        print("Abriendo START_URL:", START_URL)
         await page.goto(START_URL, wait_until="domcontentloaded")
+        await maybe_close_popups(page)
+
         modelos = await listar_modelos(page)
+        print("Modelos encontrados:", len(modelos))
 
         resultados = []
 
-        for m in modelos:
+        for i, m in enumerate(modelos, 1):
+            print(f"\n[{i}/{len(modelos)}] Modelo:", m["model"], "->", m["url"])
             await page.goto(m["url"], wait_until="domcontentloaded")
+            await maybe_close_popups(page)
 
             try:
                 versiones = await listar_versiones_en_detalle_modelo(page)
-            except Exception:
+                print("  Versiones encontradas:", len(versiones))
+            except Exception as e:
+                print("  ERROR listando versiones:", repr(e))
                 continue
 
-            for v in versiones:
+            for j, v in enumerate(versiones, 1):
+                print(f"    [{j}/{len(versiones)}] Version:", v["version"], "->", v["url"])
                 await page.goto(v["url"], wait_until="domcontentloaded")
+                await maybe_close_popups(page)
 
                 info = await capturar_precios_y_cotizar(page)
 
@@ -281,35 +373,39 @@ async def main():
 
                 item = {
                     "brand": BRAND,
-                    "model": m["model"],                    # ej: "EX30"
-                    "version": v["version"],                # ej: "EX30 E40 CORE"
+                    "model": m["model"],
+                    "version": v["version"],
                     "precio_desde_texto": precio_desde_texto,
                     "precio_desde": precio_desde,
-                    "precio_lista": precio_lista,           # "Con todo medio de pago"
+                    "precio_lista": precio_lista,
                     "bono_directo": None,
                     "bono_financiamiento": bono_financiamiento,
                     "cotizar_url": info["cotizar_url"],
                     "modelo_filtro": f"{BRAND} {m['model']}".strip()
                 }
 
+                print("      precio_desde:", item["precio_desde"], "| precio_lista:", item["precio_lista"])
                 resultados.append(item)
 
         await browser.close()
 
-        # imprimir JSON final (lista de objetos)
+        print("\nTOTAL resultados:", len(resultados))
         print(json.dumps(resultados, ensure_ascii=False, indent=2))
+
         for r in resultados:
-            precio = []
-            tiposprecio = ['Crédito inteligente','Crédito convencional','Todo medio de pago','Precio de lista']
-            precio = [r['precio_desde'],r['precio_lista'],r['precio_lista'],r['precio_lista']]
+            tiposprecio = ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']
+            precio = [r['precio_desde'], r['precio_lista'], r['precio_lista'], r['precio_lista']]
+
             datos = {
-                        'modelo': to_title_custom(r['model']),
-                        'marca': to_title_custom(r['brand']),
-                        'modelDetail': r['version'],
-                        'tiposprecio': tiposprecio,
-                        'precio': precio
-                        
-                    }
-            saveCar('Volvo',datos,'www.https://www.salazarisrael.cl/')
+                'modelo': to_title_custom(r['model']),
+                'marca': to_title_custom(r['brand']),
+                'modelDetail': r['version'],
+                'tiposprecio': tiposprecio,
+                'precio': precio
+            }
+
+            saveCar('Volvo', datos, 'www.https://www.salazarisrael.cl/')
+
+
 if __name__ == "__main__":
     asyncio.run(main())

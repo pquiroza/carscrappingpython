@@ -1,0 +1,180 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Elroq",
+        "año": null,
+        "versiones": [
+            "85 Design"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "85 Design": "1 motor sincrónico en eje trasero"
+        },
+        "cilindrada": {
+            "85 Design": null
+        },
+        "potencia_hp": {
+            "85 Design": "282"
+        },
+        "potencia_rpm": {
+            "85 Design": null
+        },
+        "torque_nm": {
+            "85 Design": "545"
+        },
+        "torque_rpm": {
+            "85 Design": null
+        },
+        "combustible": "Eléctrico",
+        "transmision": {
+            "85 Design": "Automática 1 velocidad"
+        },
+        "traccion": {
+            "85 Design": "RWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "85 Design": "R19” 235/55 107Y"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4488,
+        "ancho_mm": 1884,
+        "alto_mm": 1654,
+        "distancia_ejes_mm": 2770,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "470 / 1.580",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad bruta de la batería (kWh)",
+            "85 Design": "82"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica (km)",
+            "85 Design": "Hasta 581"
+        },
+        {
+            "caracteristica": "Velocidad de carga (minutos aprox.)",
+            "85 Design": "35"
+        },
+        {
+            "caracteristica": "Cargador de 1,6 kW (horas)",
+            "85 Design": "51"
+        },
+        {
+            "caracteristica": "Cargador de 3,2 kW (horas)",
+            "85 Design": "25"
+        },
+        {
+            "caracteristica": "Cargador de 7,4 kW (horas)",
+            "85 Design": "11"
+        },
+        {
+            "caracteristica": "Cargador de 150 kW (minutos)",
+            "85 Design": "35"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Barras de techo",
+            "Llantas de aleación/Neumáticos R19” 235/55 107Y",
+            "Faros delanteros LED con regulación automática de altura",
+            "Faros traseros LED con indicador dínamico",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Retrovisores exteriores eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos con interruptor confort y limitador de fuerza",
+            "Alfombrillas en la parte delantera y trasera",
+            "Apoyabrazos delantero \"Jumbo Box“",
+            "Compartimento extra, bajo la consola central",
+            "Compartimiento para almacenar objetos en los asientos traseros",
+            "Apoyabrazos trasero con posavasos integrado",
+            "Iluminación ambiental LED",
+            "Retrovisor interior con función antideslumbrante",
+            "Asientos delanteros comfort",
+            "Asientos delanteros calefactados y con soporte lumbar",
+            "Tapizado Tela",
+            "Volante multifunción en cuero",
+            "Volante calefaccionado"
+        ],
+        "seguridad": [
+            "7 Airbags: frontales, laterales delanteros, delantero central y de cortina",
+            "Aviso de presión de neumáticos",
+            "Anclaje para asientos de niños - ISOFIX",
+            "Sistema antibloqueo de frenado (ABS) y Asistente hidráulico de frenado (HBA)",
+            "Alarma con vigilancia del habitáculo, sirena y protección contra remolque",
+            "Inmovilizador electrónico",
+            "Cámara de retroceso",
+            "Sensor de estacionamiento delantero y trasero",
+            "Front Assist: Radar con función frenado de emergencia",
+            "Driver Alert: Detector de fatiga del conductor",
+            "Lane Keeping System Plus: Asistente de cambio de carril avanzado",
+            "Lane Assist: Detector de punto ciego",
+            "Traffic Jam Assist: Guiado de carril adaptativo que interviene en la dirección, el frenado y la aceleración"
+        ],
+        "tecnologia": [
+            "Sistema de Sonido 8 altavoces",
+            "Climatizador de 2 zonas",
+            "Control crucero adaptativo (ACC)",
+            "Entrada USB-C",
+            "“Keyless Access” y botón de encendido",
+            "Radio con pantalla touch 13\"",
+            "Virtual Cockpit Configurable de 5,3”",
+            "Sensor de luz y lluvia",
+            "Sensor de estacionamiento delantero y trasero con cámara de retroceso",
+            "Tiro de arrastre plegable manual y extraíble eléctrico con adaptador",
+            "Smart Link inalámbrico (Apple CarPlay & Android Auto)",
+            "Carga inalámbrica para 2 teléfonos de manera simultánea*",
+            "Sistema de control por voz “Laura”",
+            "Sistema Start-Stop con frenado regenerativo"
+        ],
+        "adas": [
+            "Front Assist: Radar con función frenado de emergencia",
+            "Driver Alert: Detector de fatiga del conductor",
+            "Lane Keeping System Plus: Asistente de cambio de carril avanzado",
+            "Lane Assist: Detector de punto ciego",
+            "Traffic Jam Assist: Guiado de carril adaptativo que interviene en la dirección, el frenado y la aceleración"
+        ]
+    },
+    "colores": [
+        "Verde Timiano",
+        "Gris Acero",
+        "Azul Enérgico",
+        "Negro Metálico",
+        "Gris Grafito",
+        "Plata Brillante",
+        "Blanco Glaciar",
+        "Rojo Velvet",
+        "Azul Carrera"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (●=presente; 〇/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Elroq-4.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El PDF es de vehículo eléctrico: batería (82 kWh), autonomía ‘Hasta 581 km’ y tiempos de carga se incluyen en tabla_comparativa_rendimiento. Donde el documento no entrega dato (p. ej., frenos/suspensión), se deja null."
+    }
+}

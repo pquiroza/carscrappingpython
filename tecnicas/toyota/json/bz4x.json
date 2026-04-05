@@ -1,0 +1,139 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "bZ4X",
+        "año": null,
+        "versiones": [
+            "Limited 4X2",
+            "Limited AWD 4X4"
+        ]
+    },
+    "motor": {
+        "tipo": "Motor Síncrono de Imanes Permanente",
+        "cilindrada": null,
+        "potencia_hp": "221 / 338",
+        "potencia_rpm": null,
+        "torque_nm": "269 / 338",
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": null,
+        "traccion": "4x2 / 4x4"
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Macpherson Strut",
+        "suspension_trasera": "Double Wishbone",
+        "frenos_delanteros": "Discos ventilados 17\"",
+        "frenos_traseros": "Discos ventilados 17\"",
+        "neumaticos": "235/50R20",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4.690",
+        "ancho_mm": "1.860",
+        "alto_mm": "1.650",
+        "distancia_ejes_mm": "2.850",
+        "despeje_suelo_mm": "200",
+        "peso_bruto_kg": "2.520 / 2.585",
+        "capacidad_maletero_lts": "452",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "LIMITED_4X2": "235/50R20",
+            "LIMITED_AWD_4X4": "235/50R20"
+        },
+        {
+            "caracteristica": "Llantas aleación",
+            "LIMITED_4X2": "20\"",
+            "LIMITED_AWD_4X4": "20\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular",
+            "LIMITED_4X2": "2520",
+            "LIMITED_AWD_4X4": "2585"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad pasajeros",
+            "LIMITED_4X2": "5",
+            "LIMITED_AWD_4X4": "5"
+        },
+        {
+            "caracteristica": "Capacidad maleta",
+            "LIMITED_4X2": "452",
+            "LIMITED_AWD_4X4": "452"
+        },
+        {
+            "caracteristica": "Capacidad remolque (kg)",
+            "LIMITED_4X2": "750",
+            "LIMITED_AWD_4X4": "1500"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía WLTC",
+            "LIMITED_4X2": "475",
+            "LIMITED_AWD_4X4": "450"
+        },
+        {
+            "caracteristica": "0-100 km/h",
+            "LIMITED_4X2": "7,4 seg",
+            "LIMITED_AWD_4X4": "5,1 seg"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Modos de Conducción",
+                "LIMITED_4X2": "Normal - Eco",
+                "LIMITED_AWD_4X4": "Normal - Eco - Xdrive (2 modos)"
+            }
+        ],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Display 7\"",
+            "Aire acondicionado climatizador",
+            "Freno mano electrónico EPB",
+            "Puertos USB-C 2 delanteros + 2 traseros",
+            "Cargador inalámbrico",
+            "Asientos calefaccionados",
+            "Asientos ventilados delanteros",
+            "Pantalla Touch 14\"",
+            "Volante calefaccionado",
+            "Tapizado cuero sintético"
+        ],
+        "exterior": [
+            "Llantas 20\"",
+            "Sensor lluvia",
+            "Portalón eléctrico",
+            "Cámara 360°",
+            "Espejos calefaccionados"
+        ],
+        "seguridad": [
+            "Toyota Safety System+",
+            "ABS",
+            "VSC",
+            "HAC",
+            "Airbags 8",
+            "Sensores delanteros y traseros"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FT_bZ4X.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Solo versiones Limited incluidas. Datos copiados de tabla técnica."
+    }
+}

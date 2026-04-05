@@ -320,7 +320,7 @@ def main(headless: bool = True):
         print("-"*50)
         saveCar(r['marca'],datos,"astararetail.cl")
     print(f"\n[OK] {output} → {len(results)} versiones totales")
-
+    print("RUN_OK")
 if __name__ == "__main__":
     headless = os.getenv("HEADLESS", "true").lower() == "true"
     main(headless=headless)

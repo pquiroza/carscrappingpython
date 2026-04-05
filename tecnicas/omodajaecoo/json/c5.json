@@ -1,0 +1,154 @@
+{
+    "vehiculo": {
+        "marca": "Omoda-jaecoo",
+        "modelo": "C5",
+        "versiones": [
+            "Urban 1.5L CVT9",
+            "Comfort 1.5T CVT9",
+            "Luxury 1.5T CVT9",
+            "Prestige 1.6TGDi DCT7"
+        ]
+    },
+    "equipamiento_tecnologia": {
+        "Pantalla Touch 10.25\"": {
+            "Urban 1.5L CVT9": true,
+            "Comfort 1.5T CVT9": true,
+            "Luxury 1.5T CVT9": true,
+            "Prestige 1.6TGDi DCT7": true
+        },
+        "Pantalla Cluster 10.25\"": {
+            "Urban 1.5L CVT9": true,
+            "Comfort 1.5T CVT9": true,
+            "Luxury 1.5T CVT9": true,
+            "Prestige 1.6TGDi DCT7": true
+        },
+        "Apple CarPlay & Android Auto Inalámbrico": {
+            "Urban 1.5L CVT9": true,
+            "Comfort 1.5T CVT9": true,
+            "Luxury 1.5T CVT9": true,
+            "Prestige 1.6TGDi DCT7": true
+        },
+        "Sistema Audio 6 Parlantes": {
+            "Urban": true,
+            "Comfort": true,
+            "Luxury": false,
+            "Prestige": false
+        },
+        "Sistema Audio Premium Sony 8 Parlantes": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Cargador Inalambrico 50W": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Portalon Trasero Electrico": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Climatizador Bi-Zona": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        }
+    },
+    "interior": {
+        "Tapiz Tela": {
+            "Urban": true,
+            "Comfort": false,
+            "Luxury": false,
+            "Prestige": false
+        },
+        "Tapiz Eco-Cuero": {
+            "Urban": false,
+            "Comfort": true,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Asiento Piloto Electrico": {
+            "Urban": false,
+            "Comfort": true,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Asientos Delanteros Calefaccionados": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Luz Ambiente Multicolor": {
+            "Urban": false,
+            "Comfort": true,
+            "Luxury": true,
+            "Prestige": true
+        }
+    },
+    "exterior": {
+        "Focos LED Automaticos": {
+            "Urban": false,
+            "Comfort": true,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Sunroof Electrico": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Calipers Rojos": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        }
+    },
+    "seguridad": {
+        "Airbags (6)": {
+            "Urban": true,
+            "Comfort": true,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "Camara Retroceso": {
+            "Urban": true,
+            "Comfort": true,
+            "Luxury": false,
+            "Prestige": false
+        },
+        "Camara 360° FHD": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        }
+    },
+    "adas": {
+        "ACC": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "AEB": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        },
+        "BSD": {
+            "Urban": false,
+            "Comfort": false,
+            "Luxury": true,
+            "Prestige": true
+        }
+    }
+}

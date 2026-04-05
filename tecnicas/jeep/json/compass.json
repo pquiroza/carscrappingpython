@@ -1,0 +1,220 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Compass",
+        "año": null,
+        "versiones": [
+            "SPORT",
+            "LONGITUDE",
+            "LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": "1.3L I4 Turbo MultiAir",
+        "cilindrada": "1.332 cc",
+        "disposicion_cilindros": "4 cilindros en línea",
+        "potencia_hp": "175 CV (127 kW)",
+        "potencia_rpm": "5750",
+        "torque_nm": "270 Nm",
+        "torque_rpm": "1850",
+        "combustible": "Gasolina",
+        "transmision": "AT6",
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Dirección de Piñón y Cremallera, asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con barra estabilizadora",
+        "suspension_trasera": "McPherson con barras laterales de control axial y barra estabilizadora",
+        "neumaticos": {
+            "SPORT": "225/60R17",
+            "LONGITUDE": "225/55R18",
+            "LIMITED": "235/45R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "ancho_mm": 1819,
+        "alto_mm": 1632,
+        "largo_mm": 4404,
+        "distancia_ejes_mm": 2636,
+        "despeje_suelo_mm": 198,
+        "peso_bruto_kg": 1966,
+        "capacidad_carga_max_kg": 400,
+        "capacidad_tanque_lts": 60
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "SPORT": 15.7,
+            "LONGITUDE": 15.7,
+            "LIMITED": 15.7
+        },
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "SPORT": 13.9,
+            "LONGITUDE": 13.9,
+            "LIMITED": 13.9
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "SPORT": 11.7,
+            "LONGITUDE": 11.7,
+            "LIMITED": 11.7
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "SPORT": "17x7.0\"",
+            "LONGITUDE": "18x7.0\"",
+            "LIMITED": "19x7.5\""
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Sistema de sonido",
+                "SPORT": "6 parlantes",
+                "LONGITUDE": "Premium Beats",
+                "LIMITED": "Premium Beats"
+            },
+            {
+                "caracteristica": "Asientos tapizados en cuero",
+                "SPORT": false,
+                "LONGITUDE": true,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Pantalla tablero TFT",
+                "SPORT": "7\"",
+                "LONGITUDE": "7\"",
+                "LIMITED": "10.25\""
+            },
+            {
+                "caracteristica": "Iluminación interior LED ambiental",
+                "SPORT": false,
+                "LONGITUDE": true,
+                "LIMITED": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Asistente mantenimiento de carril (LKA)",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Monitor punto ciego (BSD)",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Asistente centrado de carril",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Detección fatiga conductor (DDD)",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Sensor estacionamiento",
+                "SPORT": "Trasero",
+                "LONGITUDE": "Trasero",
+                "LIMITED": "Delantero/Trasero"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla Uconnect",
+                "SPORT": "8.4\"",
+                "LONGITUDE": "10.1\"",
+                "LIMITED": "10.1\""
+            },
+            {
+                "caracteristica": "Carga inalámbrica",
+                "SPORT": false,
+                "LONGITUDE": true,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Encendido remoto",
+                "SPORT": false,
+                "LONGITUDE": true,
+                "LIMITED": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Techo bitono negro",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "SPORT": false,
+                "LONGITUDE": false,
+                "LIMITED": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 airbags",
+            "Asistencia de frenado de emergencia (PBA)",
+            "Control velocidad crucero",
+            "Cámara retroceso ParkView",
+            "Freno estacionamiento eléctrico",
+            "Asistente partida en pendiente (HSA)",
+            "Jeep Traction Control+",
+            "Entrada sin llave con inmovilizador",
+            "Sensor de lluvia"
+        ],
+        "interior": [
+            "Climatizador dual",
+            "Cubierta compartimento carga",
+            "Parasoles con espejos iluminados",
+            "Volante con ajuste en altura y profundidad",
+            "Asiento copiloto reclinable y plegable",
+            "Botón de encendido"
+        ],
+        "exterior": [
+            "Faros LED automáticos",
+            "Neblineros Premium LED",
+            "Rieles laterales techo",
+            "Luces altas automáticas",
+            "Espejos eléctricos con señalizadores"
+        ],
+        "tecnologia": [
+            "USB tipo A y C",
+            "Conectividad inalámbrica Apple CarPlay / Android Auto"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 1 y 2",
+        "fuente": "FT-COMPASS.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exclusivamente desde las tablas visuales del documento."
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Grand Cherokee",
+        "año": null,
+        "versiones": [
+            "ALTITUDE_4X4",
+            "LIMITED_4X4",
+            "LIMITED_4X4_L"
+        ]
+    },
+    "motor": {
+        "tipo": "V-6 24V VVT con sistema Engine Stop/Start, con sistema de enfriamiento de aceite de motor",
+        "cilindrada": "3.6L / 3.604 cc",
+        "disposicion_cilindros": "V6",
+        "potencia_hp": "293 HP",
+        "potencia_rpm": "6400 RPM",
+        "torque_nm": "353 Nm",
+        "torque_rpm": "4000 RPM",
+        "combustible": "Gasolina",
+        "transmision": "Transmisión automática de 8 velocidades",
+        "traccion": "4x4 AWD QUADRA-TRAC I"
+    },
+    "direccion": {
+        "tipo": "Dirección de piñón y cremallera con asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Multilink Independiente",
+        "suspension_trasera": "Multilink Independiente",
+        "neumaticos": "265/50R20 A/S",
+        "rueda_repuesto": "Tamaño completo de acero estampado 18\""
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "ALTITUDE_4X4": 4914,
+            "LIMITED_4X4": 4914,
+            "LIMITED_4X4_L": 5204
+        },
+        "ancho_mm": 1968,
+        "alto_mm": 1815,
+        "distancia_ejes_mm": {
+            "ALTITUDE_4X4": 2964,
+            "LIMITED_4X4": 2964,
+            "LIMITED_4X4_L": 3091
+        },
+        "volumen_carga_lts": {
+            "ALTITUDE_4X4": 1070,
+            "LIMITED_4X4": 1070,
+            "LIMITED_4X4_L": 230
+        },
+        "capacidad_carga_max_kg": 718,
+        "peso_bruto_kg": 2948,
+        "capacidad_estanque_lts": 87
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación 20 x 8.5\"",
+            "ALTITUDE_4X4": "Pintadas negro brillante",
+            "LIMITED_4X4": "Maquinadas/Pintadas",
+            "LIMITED_4X4_L": "Maquinadas/Pintadas"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "ALTITUDE_4X4": 2948,
+            "LIMITED_4X4": 2948,
+            "LIMITED_4X4_L": 2948
+        }
+    ],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Climatizador 3 zonas",
+                "ALTITUDE_4X4": false,
+                "LIMITED_4X4": false,
+                "LIMITED_4X4_L": true
+            },
+            {
+                "caracteristica": "Tapizado cuero/gamuza estilo Capri",
+                "ALTITUDE_4X4": true,
+                "LIMITED_4X4": false,
+                "LIMITED_4X4_L": false
+            },
+            {
+                "caracteristica": "Tapizado cuero estilo Capri",
+                "ALTITUDE_4X4": false,
+                "LIMITED_4X4": true,
+                "LIMITED_4X4_L": true
+            },
+            {
+                "caracteristica": "3 corridas de asientos (7 pasajeros)",
+                "ALTITUDE_4X4": false,
+                "LIMITED_4X4": false,
+                "LIMITED_4X4_L": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema sonido",
+                "ALTITUDE_4X4": "6 parlantes Premium",
+                "LIMITED_4X4": "9 parlantes con Subwoofer",
+                "LIMITED_4X4_L": "9 parlantes con Subwoofer"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "ALTITUDE_4X4": "Eléctrico",
+                "LIMITED_4X4": "Panorámico",
+                "LIMITED_4X4_L": "Panorámico"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "8 airbags",
+            "Asistencia de frenado de emergencia (PBA)",
+            "Control velocidad crucero adaptativa (ACC)",
+            "Monitor punto ciego (BSD)",
+            "Asistente mantenimiento de carril (LKA)",
+            "Sensor estacionamiento ParkSense",
+            "Advertencia colisión frontal",
+            "Sistema anclaje asiento niños LATCH",
+            "Amortiguación balanceo remolque"
+        ],
+        "interior": [
+            "Pantalla tablero TFT 10.25\"",
+            "Asiento conductor regulación eléctrica 8 direcciones",
+            "Iluminación ambiental LED",
+            "Argollas amarra carga",
+            "Consola piso longitud completa",
+            "Portavasos iluminados",
+            "Cubierta compartimento carga"
+        ],
+        "tecnologia": [
+            "Uconnect pantalla táctil 10.1\"",
+            "Apple CarPlay / Android Auto",
+            "Sistema Stop-Start",
+            "Entrada pasiva",
+            "Sistema selección terrenos Selec-Terrain"
+        ],
+        "exterior": [
+            "Faros delanteros automáticos LED",
+            "Neblineros LED",
+            "Rieles laterales techo",
+            "Espejos calefaccionados",
+            "Manillas color carrocería"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 1 y 2",
+        "fuente": "FT-GRAND CHEROKEE.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exclusivamente desde las tablas visuales del documento."
+    }
+}

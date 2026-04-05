@@ -1,0 +1,198 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "3",
+        "año": 2025,
+        "versiones": [
+            "1.5L_MT_COM",
+            "1.5L_CVT_COM",
+            "1.5L_CVT_DLX",
+            "1.5L_HEV_COM"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5L_*": "1.5L 4 cilindros",
+            "1.5L_HEV_COM": "1.5L Full Hybrid"
+        },
+        "cilindrada": 1.5,
+        "potencia_hp": {
+            "1.5L_MT_COM": "108",
+            "1.5L_CVT_COM": "108",
+            "1.5L_CVT_DLX": "108",
+            "1.5L_HEV_COM": "191 combinado"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "1.5L_MT_COM": "142",
+            "1.5L_CVT_COM": "142",
+            "1.5L_CVT_DLX": "142",
+            "1.5L_HEV_COM": "425 combinado"
+        },
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": {
+            "1.5L_MT_COM": "Manual",
+            "1.5L_CVT_COM": "CVT",
+            "1.5L_CVT_DLX": "CVT",
+            "1.5L_HEV_COM": "Transmisión Híbrida 3 velocidades (HT11)"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Electric"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Front MacPherson",
+        "suspension_trasera": "Rear Torsion",
+        "frenos_delanteros": {
+            "1.5L_HEV_COM": "Disco en las 4 ruedas",
+            "otros": "Disco delantero / tambor trasero"
+        },
+        "frenos_traseros": null,
+        "neumaticos": {
+            "todas_versiones": "195/55R16"
+        },
+        "rueda_repuesto": "Kit reparación neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4120,
+        "ancho_mm": 1799,
+        "alto_mm": 1501,
+        "distancia_ejes_mm": 2570,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5L_*": 1610,
+            "1.5L_HEV_COM": 1733
+        },
+        "capacidad_maletero_lts": 293,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "0-100 km/h",
+            "1.5L_HEV_COM": "8 segundos"
+        },
+        {
+            "caracteristica": "Consumo HEV",
+            "1.5L_HEV_COM": "43,5 km/l"
+        },
+        {
+            "caracteristica": "CO2 HEV",
+            "1.5L_HEV_COM": "100 g/km"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta",
+            "1.5L_MT_COM": "Acero 15\"",
+            "1.5L_CVT_COM": "Aleación 16\"",
+            "1.5L_CVT_DLX": "Aleación 16\"",
+            "1.5L_HEV_COM": "Aleación 16\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío",
+            "1.5L_MT_COM": 1162,
+            "1.5L_CVT_COM": 1162,
+            "1.5L_CVT_DLX": 1162,
+            "1.5L_HEV_COM": 1258
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad carga",
+            "1.5L_*": 448
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de cortina",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5L_CVT_DLX": false,
+                "1.5L_HEV_COM": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Sensor lluvia",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5L_CVT_DLX": true,
+                "1.5L_HEV_COM": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sunroof",
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5L_CVT_DLX": true,
+                "1.5L_HEV_COM": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "1.5L_MT_COM": "Tela",
+                "1.5L_CVT_COM": "Tela",
+                "1.5L_CVT_DLX": "Tela + Ecocuero",
+                "1.5L_HEV_COM": "Ecocuero"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Cluster virtual 7\"",
+                "1.5L_MT_COM": true,
+                "1.5L_CVT_COM": true,
+                "1.5L_CVT_DLX": true,
+                "1.5L_HEV_COM": true
+            },
+            {
+                "caracteristica": "Cantidad parlantes",
+                "1.5L_MT_COM": 4,
+                "1.5L_CVT_COM": 4,
+                "1.5L_CVT_DLX": 6,
+                "1.5L_HEV_COM": 6
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ESP (ABS+EBD+CBC+TCS+VDC+HAZ+HHC+BDW)",
+            "Control arranque pendiente",
+            "Programa antivuelco",
+            "TPMS",
+            "ISOFIX",
+            "Ecall",
+            "Cámara trasera",
+            "Sensor estacionamiento trasero"
+        ],
+        "interior": [
+            "Pantalla 10,25\"",
+            "Android Auto",
+            "Apple CarPlay",
+            "Bluetooth",
+            "Filtro PM2.5",
+            "A/C"
+        ],
+        "exterior": [
+            "Luces diurnas LED",
+            "Follow me home",
+            "Autoencendido luces",
+            "Retrovisores eléctricos"
+        ],
+        "tecnologia": [
+            "Sistema MG Pilot",
+            "Modos conducción (HEV)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-3_2025.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se consolidaron datos tabla técnica página 12 y equipamiento páginas 13-14."
+    }
+}

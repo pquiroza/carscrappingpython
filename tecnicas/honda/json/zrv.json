@@ -1,0 +1,207 @@
+{
+    "vehiculo": {
+        "marca": "Honda",
+        "modelo": "ZR-V",
+        "año": null,
+        "versiones": [
+            "EXL",
+            "TOURING"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EXL": "4 Cilindros en Línea",
+            "TOURING": "4 Cilindros en Línea"
+        },
+        "cilindrada": {
+            "EXL": 1996,
+            "TOURING": 1996
+        },
+        "potencia_hp": {
+            "EXL": "155",
+            "TOURING": "155"
+        },
+        "potencia_rpm": {
+            "EXL": "6.500",
+            "TOURING": "6.500"
+        },
+        "torque_nm": {
+            "EXL": "185",
+            "TOURING": "185"
+        },
+        "torque_rpm": {
+            "EXL": "4.200",
+            "TOURING": "4.200"
+        },
+        "combustible": null,
+        "transmision": {
+            "EXL": "Transmisión automática de tipo CVT con Modo Sport",
+            "TOURING": "Transmisión automática de tipo CVT con Modo Sport"
+        },
+        "traccion": {
+            "EXL": "2WD - Delantera",
+            "TOURING": "2WD - Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección con asistencia eléctrica progresiva de piñón y cremallera (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión Delantera Con Amortiguadores Tipo Macpherson",
+        "suspension_trasera": "Suspensión Trasera tipo Multi-link",
+        "frenos_delanteros": "Frenos delanteros asistidos de discos ventilados / Freos traseros de disco solidos (mm, Delantero / Trasero) 312 / 310",
+        "frenos_traseros": "Frenos delanteros asistidos de discos ventilados / Freos traseros de disco solidos (mm, Delantero / Trasero) 312 / 310",
+        "freno_estacionamiento": "Freno de estacionamiento electrónico (EPB) con función de retención de freno",
+        "neumaticos": {
+            "EXL": "215/60 R17 96H",
+            "TOURING": "215/60 R17 96H"
+        },
+        "rueda_repuesto": "Temp: T135/90 D17 104M"
+    },
+    "dimensiones": {
+        "largo_mm": 4568,
+        "ancho_mm": 1840,
+        "alto_mm": 1620,
+        "distancia_ejes_mm": 2655,
+        "despeje_suelo_mm": 169.9,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "389 / 1.306",
+        "capacidad_estanque_lts": 57,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof",
+                "EXL": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Escape en acabado cromado - deportivo",
+                "EXL": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Acabados en negro brillante",
+                "EXL": false,
+                "TOURING": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento del conductor electrico",
+                "EXL": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Pedales deportivos",
+                "EXL": false,
+                "TOURING": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Cargador inalámbrico para celulares",
+                "EXL": false,
+                "TOURING": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces traseras LED",
+            "Conjunto óptico con LED DRL (Daytime running lights)",
+            "Luces de matricula en LED",
+            "Antena de tipo tiburón",
+            "Guardabarros",
+            "Limpiaparabrisas con función intermitente",
+            "Espejos retrovisores con luz de giro en LED",
+            "Faros delanteros Full LED con sensor crepuscular (AUTO)",
+            "Ajuste de altura de faros",
+            "Llave con función Smart Entry, con control remoto, apertura y cierre de las ventanas, bloqueo y desbloqueo de las puertas mediante el enfoque del sensor en la llave o al distanciar.",
+            "Aros de aleación 17\" doble tones - Gris/mecanizada"
+        ],
+        "interior": [
+            "Iluminación interna en LED",
+            "Botón de bloqueo de puertas (conductor y pasajero) con bloqueo automático de velocidad",
+            "Apertura eléctrica de maletero",
+            "Señalero con One-Touch (tres destellos con un toque)",
+            "Columna de dirección con ajuste de altura y profundidad",
+            "Porta objetos detrás de asientos del conductor y pasajero",
+            "Apagado automático de las luces luego de 15 segundos",
+            "Luz led en indicador de palanca de cambios",
+            "Toma frontal de 12V",
+            "Climatizador digital con función de ajuste automático de temperatura (dual zone)",
+            "Parabrisas acustico",
+            "Espejos retrovisores laterales con ajustes eléctricos.",
+            "Espejo retrovisor interno con atenuacion automatica (day/night).",
+            "Botón de arranque (START/STOP)",
+            "Encendido a distancia",
+            "Asientos Traseros Con Respaldo Plegable Abatible",
+            "Volante y palanca de cambios recubiertos en cuero",
+            "Columna del volante con ajuste de altura y profundidad",
+            "Paddle Shifters en volante para cambios manuales",
+            "Tapizado de asientos en cuero"
+        ],
+        "seguridad": [
+            "Estructura de deformación progresiva de ingeniería de compatibilidad avanzada (ACE)",
+            "Alarma de seguridad con inmovilizador ECU",
+            "Frenos con sistemas ABS y EBD (Anti-Lock Braking System / Electronic Brake Distribution)",
+            "EBA (Asistencia de frenado de emergencia)",
+            "Sistema VSA (Asistencia de estabilidad del vehículo)",
+            "Sistema HSA (Asistente de salida en pendiente)",
+            "Sistema Asistente de manejo agil (AHA)",
+            "ESS (Señal de parada de emergencia)",
+            "Control de descenso de pendientes (HDC)",
+            "Recordatorio de objeto del asiento trasero",
+            "Bolsas de aire (Airbags) delanteras (SRS) (02)",
+            "Bolsas de aire (Airbags) delanteras laterales (02)",
+            "Bolsas de aire (Airbags) laterales tipo cortina (02)",
+            "Bolsas de aire (Airbags) para las rodillas del lado delantero (02)",
+            "Cinturones de seguridad de 3 puntos y reposacabezas para todos los ocupantes",
+            "Cinturón de seguridad delantero con sistema de tensión y ajuste de altura",
+            "Recordatorio de cinturones delantero y traseros",
+            "Trabas de seguridad para niños en puertas traseras",
+            "Sistema ISOFIX para sillas de bebe",
+            "Cámara de reversa (tres vistas) con líneas dinámicas",
+            "Sensor de presión de neumáticos - TPMS",
+            "Sistema Honda LaneWatch - Asistente de reducción de punto ciego",
+            "Cámara de reversa de 3 ángulos y pautas dinámicas incorporado en pantalla"
+        ],
+        "tecnologia": [
+            "Selector de modos de conducción (Normal/Econ/Sport)",
+            "Cruise control (ACC)*",
+            "Sensores de estacionamientos traseros",
+            "Sensores de estacionamientos delanteros",
+            "Bluetooth para teléfono manos libres (HFT) y reproducción de música (BTA - Bluetooth Audio) con ajuste en el volante",
+            "Entrada USB delantera",
+            "Entrada USB para los asientos traseros",
+            "Altavoces (8)",
+            "Panel digital TFT de alta resolución (Thin-Film Transistor) - 7\"",
+            "Multimedia multitáctil de 9\" con interfaz para smartphones Apple CarPlay (Cable/inalambrico) y Android Auto™ (cable)"
+        ],
+        "adas": [
+            "Honda SENSING",
+            "ACC (Adaptive Cruise Control) con LSF (Low Speed Follow) - Sistema que ayuda al conductor a mantener una distancia segura del vehículo detectado delante de él",
+            "CMBS - Sistema de frenado para mitigación de colisiones - Sistema de accionamiento de freno al detectar una posible colisión frontal con el fin de mitigar accidentes.",
+            "LKAS - Sistema de permanencia de carril - Sistema que detecta carriles y ajusta la dirección para ayudar al conductor a mantener el vehículo centrado en las líneas de marcado.",
+            "RDM - (Sistema para mitigación de evasión de carril) - Sistema que detecta la salida de la vía y ajusta la dirección para evitar su evasión y posibles accidentes.",
+            "AHB - Ajuste automático de faros alto - Sistema automático de asistencia de luces altas, que se ajusta según la situación."
+        ]
+    },
+    "colores": [
+        "PLATA (Lunar Silver M.) - (Tapiz Negro)",
+        "GRAFITO (Modern Steel M.) - Tapiz Negro",
+        "GRIS (Urban Gray P.) - (Tapiz Gris)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Honda (punto blanco=presente, -/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-ZRV-2025.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Especificaciones (motor/chasis/dimensiones) tomadas de la página 1. Seguridad/ADAS/exterior de la página 2. Confort/tecnología/colores de la página 3. Donde el PDF muestra 'o' se interpretó como presente; '-' como no presente."
+    }
+}

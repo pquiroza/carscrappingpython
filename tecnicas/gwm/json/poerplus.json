@@ -1,0 +1,223 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "NUEVA POER PLUS",
+        "año": null,
+        "versiones": [
+            "4X4_ELITE_2_0T",
+            "4X4_DELUXE_2_4T"
+        ]
+    },
+    "pdf": "ficha-te-cnica-poer-20-24_14072025-v2.pdf",
+    "motor": {
+        "tipo": {
+            "4X4_ELITE_2_0T": "2.0 Diesel Turbo Common Rail VGT",
+            "4X4_DELUXE_2_4T": "2.4 Diesel Turbo Common Rail VGT"
+        },
+        "cilindrada_l": {
+            "4X4_ELITE_2_0T": 2.0,
+            "4X4_DELUXE_2_4T": 2.4
+        },
+        "potencia_hp_rpm": {
+            "4X4_ELITE_2_0T": "161 / 3600",
+            "4X4_DELUXE_2_4T": "181 / 3600"
+        },
+        "torque_nm_rpm": {
+            "4X4_ELITE_2_0T": "400 / 1500-2500",
+            "4X4_DELUXE_2_4T": "480 / 1500-2500"
+        }
+    },
+    "transmision_y_chasis": {
+        "transmision": {
+            "4X4_ELITE_2_0T": "Automática 8 velocidades",
+            "4X4_DELUXE_2_4T": "Automática 9 velocidades"
+        },
+        "sistema_direccion": {
+            "4X4_ELITE_2_0T": "Asistida eléctricamente",
+            "4X4_DELUXE_2_4T": "Asistida eléctricamente"
+        },
+        "estructura": {
+            "4X4_ELITE_2_0T": "Chasis reforzado",
+            "4X4_DELUXE_2_4T": "Chasis reforzado"
+        },
+        "suspension_delantera": {
+            "4X4_ELITE_2_0T": "Independiente doble horquilla con barra estabilizadora",
+            "4X4_DELUXE_2_4T": "Independiente doble horquilla con barra estabilizadora"
+        },
+        "suspension_trasera": {
+            "4X4_ELITE_2_0T": "Eje rígido con paquete de resortes",
+            "4X4_DELUXE_2_4T": "Eje rígido con paquete de resortes"
+        },
+        "frenos_delanteros_traseros": {
+            "4X4_ELITE_2_0T": "Discos ventilados / Discos ventilados",
+            "4X4_DELUXE_2_4T": "Discos ventilados / Discos ventilados"
+        },
+        "traccion_4x4_tod_borgwarner": {
+            "4X4_ELITE_2_0T": true,
+            "4X4_DELUXE_2_4T": true
+        },
+        "bloqueo_electronico_diferencial_trasero": {
+            "4X4_ELITE_2_0T": true,
+            "4X4_DELUXE_2_4T": true
+        }
+    },
+    "dimensiones_y_capacidades": {
+        "largo_ancho_alto_mm": {
+            "4X4_ELITE_2_0T": "5.416 x 1.947 x 1.886",
+            "4X4_DELUXE_2_4T": "5.416 x 1.947 x 1.886"
+        },
+        "caja_largo_ancho_alto_mm": {
+            "4X4_ELITE_2_0T": "1.520 x 1.520 x 540",
+            "4X4_DELUXE_2_4T": "1.520 x 1.520 x 540"
+        },
+        "distancia_entre_ejes_mm": {
+            "4X4_ELITE_2_0T": "3230",
+            "4X4_DELUXE_2_4T": "3230"
+        },
+        "distancia_minima_al_suelo_mm": {
+            "4X4_ELITE_2_0T": "227",
+            "4X4_DELUXE_2_4T": "227"
+        },
+        "capacidad_estanque_l": {
+            "4X4_ELITE_2_0T": "80",
+            "4X4_DELUXE_2_4T": "80"
+        },
+        "capacidad_carga_kg": {
+            "4X4_ELITE_2_0T": "1050",
+            "4X4_DELUXE_2_4T": "1050"
+        },
+        "neumaticos": {
+            "4X4_ELITE_2_0T": "265/60 R18 All Terrain (AT)",
+            "4X4_DELUXE_2_4T": "265/60 R18 All Terrain (AT)"
+        },
+        "rendimiento_ciudad_mixto_carretera_km_l": {
+            "4X4_ELITE_2_0T": "9,7 / 11,5 / 12,9",
+            "4X4_DELUXE_2_4T": "9,4 / 10,6 / 11,5"
+        }
+    },
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Volante ecocuero calefaccionado",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Asiento conductor manual",
+                "4X4_ELITE_2_0T": true,
+                "4X4_DELUXE_2_4T": false
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Barras de techo",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara 360°",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Aviso abandono carril (LDW)",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Asistencia mantención carril (LKA)",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Frenado autónomo emergencia (AEB)",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Monitoreo punto ciego (BSM)",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            },
+            {
+                "caracteristica": "Reconocimiento señales tránsito (TSR)",
+                "4X4_ELITE_2_0T": false,
+                "4X4_DELUXE_2_4T": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador",
+            "Pantalla táctil 12,3\" con CarPlay/Android Auto",
+            "Panel digital 7\"",
+            "Cargador inalámbrico",
+            "Control crucero",
+            "Freno de mano eléctrico + Autohold",
+            "Tapiz ecocuero"
+        ],
+        "exterior": [
+            "Luces LED principales",
+            "Luces diurnas LED (DRL)",
+            "Neblineros delanteros y traseros",
+            "Sensor de luces automático",
+            "Llantas aleación 18\"",
+            "Pisaderas laterales",
+            "Bedliner pickup",
+            "Llave inteligente (Keyless)"
+        ],
+        "seguridad": [
+            "Doble airbag frontal",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ABS + EBD",
+            "ESP",
+            "Control tracción (TCS)",
+            "HHC + HDC",
+            "TPMS",
+            "Cámara retroceso HD",
+            "ISOFIX (2)",
+            "Inmovilizador antirrobo"
+        ],
+        "traccion_y_chasis": [
+            "Tracción 4x4 (TOD Borgwarner®)",
+            "Bloqueo electrónico diferencial trasero"
+        ]
+    },
+    "colores": [
+        "Rojo",
+        "Plata",
+        "Negro",
+        "Azul",
+        "Blanco"
+    ],
+    "equipamiento_opcional": {
+        "tiro_de_arrastre": false,
+        "lona_maritima_cubre_pickup": false,
+        "tapa_rigida_plegable_cubre_pickup": false
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización a formato estándar por versiones (sin inventar campos fuera del extracto entregado)",
+        "versiones_en_documento": 2
+    }
+}

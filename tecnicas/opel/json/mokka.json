@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Opel",
+        "modelo": "Mokka",
+        "año": null,
+        "versiones": [
+            "1.2_ELEGANCE_MT6",
+            "1.5TD_ELEGANCE_MT6",
+            "1.2T_ELEGANCE_AT8",
+            "1.2T_GS_LINE_AT8"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.2_ELEGANCE_MT6": "1.200 cc Turbo",
+            "1.5TD_ELEGANCE_MT6": "1.500 cc Turbo",
+            "1.2T_ELEGANCE_AT8": "1.200 cc Turbo",
+            "1.2T_GS_LINE_AT8": "1.200 cc Turbo"
+        },
+        "cilindrada": {
+            "1.2_ELEGANCE_MT6": "1.200 cc",
+            "1.5TD_ELEGANCE_MT6": "1.500 cc",
+            "1.2T_ELEGANCE_AT8": "1.200 cc",
+            "1.2T_GS_LINE_AT8": "1.200 cc"
+        },
+        "potencia_hp": {
+            "1.2_ELEGANCE_MT6": "130 HP",
+            "1.5TD_ELEGANCE_MT6": "110 HP",
+            "1.2T_ELEGANCE_AT8": "130 HP",
+            "1.2T_GS_LINE_AT8": "130 HP"
+        },
+        "potencia_rpm": {
+            "1.2_ELEGANCE_MT6": "5.500",
+            "1.5TD_ELEGANCE_MT6": "3.500",
+            "1.2T_ELEGANCE_AT8": "5.500",
+            "1.2T_GS_LINE_AT8": "5.500"
+        },
+        "torque_nm": {
+            "1.2_ELEGANCE_MT6": "230 Nm",
+            "1.5TD_ELEGANCE_MT6": "250 Nm",
+            "1.2T_ELEGANCE_AT8": "230 Nm",
+            "1.2T_GS_LINE_AT8": "230 Nm"
+        },
+        "torque_rpm": {
+            "1.2_ELEGANCE_MT6": "1.750",
+            "1.5TD_ELEGANCE_MT6": "1.750",
+            "1.2T_ELEGANCE_AT8": "1.750",
+            "1.2T_GS_LINE_AT8": "1.750"
+        },
+        "combustible": {
+            "1.2_ELEGANCE_MT6": "Gasolina",
+            "1.5TD_ELEGANCE_MT6": "Diesel",
+            "1.2T_ELEGANCE_AT8": "Gasolina",
+            "1.2T_GS_LINE_AT8": "Gasolina"
+        },
+        "transmision": {
+            "1.2_ELEGANCE_MT6": "Mecánica 6 velocidades",
+            "1.5TD_ELEGANCE_MT6": "Mecánica 6 velocidades",
+            "1.2T_ELEGANCE_AT8": "Automática 8 velocidades",
+            "1.2T_GS_LINE_AT8": "Automática 8 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": null,
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4151,
+        "ancho_mm": 1986,
+        "alto_mm": 1523,
+        "distancia_ejes_mm": 2557,
+        "capacidad_estanque_lts": 44,
+        "capacidad_maletero_lts": {
+            "min": 350,
+            "max": 1105
+        }
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "1.2_ELEGANCE_MT6": "17\" Bi-Tono",
+            "1.5TD_ELEGANCE_MT6": "17\" Bi-Tono",
+            "1.2T_ELEGANCE_AT8": "17\" Negra",
+            "1.2T_GS_LINE_AT8": "18\" Tri-Tono"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "1.2_ELEGANCE_MT6": 22.6,
+            "1.5TD_ELEGANCE_MT6": 27.8,
+            "1.2T_ELEGANCE_AT8": 23.8,
+            "1.2T_GS_LINE_AT8": 23.8
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "1.2_ELEGANCE_MT6": 19.9,
+            "1.5TD_ELEGANCE_MT6": 25.7,
+            "1.2T_ELEGANCE_AT8": 20.8,
+            "1.2T_GS_LINE_AT8": 20.8
+        },
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "1.2_ELEGANCE_MT6": 16.5,
+            "1.5TD_ELEGANCE_MT6": 22.8,
+            "1.2T_ELEGANCE_AT8": 16.9,
+            "1.2T_GS_LINE_AT8": 16.9
+        },
+        {
+            "caracteristica": "Velocidad Máxima (km/h)",
+            "1.2_ELEGANCE_MT6": 202,
+            "1.5TD_ELEGANCE_MT6": 190,
+            "1.2T_ELEGANCE_AT8": 200,
+            "1.2T_GS_LINE_AT8": 200
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (seg)",
+            "1.2_ELEGANCE_MT6": 9.1,
+            "1.5TD_ELEGANCE_MT6": 10.8,
+            "1.2T_ELEGANCE_AT8": 9.2,
+            "1.2T_GS_LINE_AT8": 9.2
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Decorado interior rojo",
+                "1.2_ELEGANCE_MT6": false,
+                "1.5TD_ELEGANCE_MT6": false,
+                "1.2T_ELEGANCE_AT8": false,
+                "1.2T_GS_LINE_AT8": true
+            },
+            {
+                "caracteristica": "Pedales deportivos",
+                "1.2_ELEGANCE_MT6": false,
+                "1.5TD_ELEGANCE_MT6": false,
+                "1.2T_ELEGANCE_AT8": false,
+                "1.2T_GS_LINE_AT8": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (Start & GO)",
+                "1.2_ELEGANCE_MT6": false,
+                "1.5TD_ELEGANCE_MT6": false,
+                "1.2T_ELEGANCE_AT8": false,
+                "1.2T_GS_LINE_AT8": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Decorado lateral rojo",
+                "1.2_ELEGANCE_MT6": false,
+                "1.5TD_ELEGANCE_MT6": false,
+                "1.2T_ELEGANCE_AT8": false,
+                "1.2T_GS_LINE_AT8": true
+            }
+        ],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Alerta de conductor cansado",
+            "Asistente de Carril",
+            "Asistente de frenado con reconocimiento de peatones",
+            "Asistente de Partida en Pendientes (HSA)",
+            "Doble Airbag frontal - Lateral - Cortina (6)",
+            "Cámara de Retroceso 180°",
+            "Control de Tracción",
+            "Control de Estabilidad ESP",
+            "Detector de presión de Neumáticos",
+            "Frenos ABS + EBD",
+            "Reconocimiento de señales de tráfico",
+            "Sensor de colisión frontal",
+            "Sensor de estacionamiento trasero",
+            "Sensor de estacionamiento delantero",
+            "Sensor de Punto ciego",
+            "Sistema Start Stop"
+        ],
+        "interior": [
+            "Alzavidrios delanteros y traseros eléctricos",
+            "Bluetooth con Audio streaming",
+            "Cierre Centralizado",
+            "Climatizador",
+            "Computador a bordo",
+            "Control de radio al volante",
+            "Control de velocidad crucero y limitador",
+            "Espejo retrovisor electrocromático",
+            "Freno de mano eléctrico",
+            "Radio IntelliLink con Apple Carplay & Android auto",
+            "Volante con ajuste en altura y profundidad",
+            "Volante deportivo forrado en cuero"
+        ],
+        "exterior": [
+            "Espejos exteriores abatibles eléctricamente",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Luces delanteras ECO LED",
+            "Luces de conducción diurna LED (DRL)",
+            "Luces Traseras LED",
+            "Luces de encendido automático",
+            "Luces de nivelación automáticas",
+            "Neblineros delanteros LED",
+            "Opel Vizor",
+            "Sistema de Acceso keyless",
+            "Spoiler Trasero",
+            "Techo color negro"
+        ],
+        "tecnologia": [
+            "Pure Panel",
+            "Pantalla touch 7\" + Panel Digital 7\"",
+            "Pantalla touch 10\" + Panel Digital 12\""
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 2 y 3",
+        "fuente": "FICHA TECNICA MOKKA-Junio2024.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos exclusivamente desde la tabla visual del documento."
+    }
+}

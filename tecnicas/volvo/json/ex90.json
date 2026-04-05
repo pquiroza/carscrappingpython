@@ -1,0 +1,414 @@
+{
+    "vehiculo": {
+        "marca": "Volvo",
+        "modelo": "EX90",
+        "año": null,
+        "versiones": [
+            "PLUS",
+            "ULTRA PERFORMANCE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PLUS": "Pure Electric",
+            "ULTRA PERFORMANCE": "Pure Electric"
+        },
+        "cilindrada": {
+            "PLUS": null,
+            "ULTRA PERFORMANCE": null
+        },
+        "potencia_hp": {
+            "PLUS": "408",
+            "ULTRA PERFORMANCE": "517"
+        },
+        "potencia_rpm": {
+            "PLUS": null,
+            "ULTRA PERFORMANCE": null
+        },
+        "torque_nm": {
+            "PLUS": "770",
+            "ULTRA PERFORMANCE": "910"
+        },
+        "torque_rpm": {
+            "PLUS": null,
+            "ULTRA PERFORMANCE": null
+        },
+        "combustible": null,
+        "transmision": {
+            "PLUS": "Electric Drive Train 1 veloc.",
+            "ULTRA PERFORMANCE": "Electric Drive Train 1 veloc."
+        },
+        "traccion": "AWD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "PLUS": null,
+            "ULTRA PERFORMANCE": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de Batería (kWh)",
+            "PLUS": "111",
+            "ULTRA PERFORMANCE": "111"
+        },
+        {
+            "caracteristica": "Potencia (HP)",
+            "PLUS": "408",
+            "ULTRA PERFORMANCE": "517"
+        },
+        {
+            "caracteristica": "Torque (Nm)",
+            "PLUS": "770",
+            "ULTRA PERFORMANCE": "910"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/hr)",
+            "PLUS": "180",
+            "ULTRA PERFORMANCE": "180"
+        },
+        {
+            "caracteristica": "Aceleración de 0 - 100 (seg)",
+            "PLUS": "5,9",
+            "ULTRA PERFORMANCE": "4,9"
+        },
+        {
+            "caracteristica": "Transmisión",
+            "PLUS": "Electric Drive Train 1 veloc.",
+            "ULTRA PERFORMANCE": "Electric Drive Train 1 veloc."
+        },
+        {
+            "caracteristica": "Tracción",
+            "PLUS": "AWD",
+            "ULTRA PERFORMANCE": "AWD"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica (km) hasta*",
+            "PLUS": "600",
+            "ULTRA PERFORMANCE": "600"
+        },
+        {
+            "caracteristica": "* Según Ciclo WLTP",
+            "PLUS": null,
+            "ULTRA PERFORMANCE": null
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces High - Definition Pixel Technology",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "PLUS": "21\"",
+                "ULTRA PERFORMANCE": "22\""
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico fijo",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Retrovisores retráctiles",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Vidrios laminados",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Vidrios tintados",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Soft Close",
+                "PLUS": false,
+                "ULTRA PERFORMANCE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador 4 zonas",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Velocímetro digital 9\"",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Pantalla Digital Central 14,5\"",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Cargador de smartphone inalámbrico",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Google Automotive",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "PLUS": "Bose Premium Sound",
+                "ULTRA PERFORMANCE": "Bowers & Wilkins High Fidelity Audio System"
+            },
+            {
+                "caracteristica": "Cantidad de parlantes",
+                "PLUS": 14,
+                "ULTRA PERFORMANCE": 25
+            },
+            {
+                "caracteristica": "Keyless entry",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Key Tag",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Apertura de vehículo con smartphone",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Tarjeta inteligente",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Toma corriente 12V en maletero",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Volante deportivo",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "LED Sunlike",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asistente de estacionamiento piloto",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Sensores estacionamientos delanteros y traseros",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Cámaras de estacionamiento (delantera, trasera y laterales)",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Cámara 360° + Proyección 3D",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Retrovisor interior y exteriores antideslumbrantes",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asiento copiloto eléctrico",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con soporte lumbar eléctrico",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con masajes",
+                "PLUS": false,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asientos segunda fila calefaccionados",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "7 Asientos",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Tercera fila abatible eléctrica",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Safe Space Technology - Conjunto de tecnologías de asistencia para tu seguridad",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Sistema Google - Sistema de infoentretenimiento y conectividad intuitiva, incluye control por voz.",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Clean Zone - Tecnología que filtra impurezas y mejora la calidad del aire",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "BLIS - Asistente de punto ciego",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Lane Keeping Aid - Ayuda de permanencia en el carril",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Soporte de Mitigación de colisión delantera",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Asistente de frenado en intersecciones",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "App Volvo Cars",
+                "PLUS": true,
+                "ULTRA PERFORMANCE": true
+            },
+            {
+                "caracteristica": "Suspensión Neumática",
+                "PLUS": false,
+                "ULTRA PERFORMANCE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            "Airbag delanteros (2) con inflado de dos etapas",
+            "Airbag de rodilla para conductor (1)",
+            "Airbag laterales (2)",
+            "Airbags de Cortinas inflables laterales (2)",
+            "Airbag lateral interno conductor (2)",
+            "Cinturones de seguridad con pretensores y limitador de carga",
+            "Alarma de colision trasera",
+            "Estructura interior absorbente de energía ante impacto",
+            "Alerta de distancia y limitador de velocidad",
+            "Cierre electrónico de seguridad para niños",
+            "City Safety - Detecta ciclistas, peatones y animales grandes; con frenado autónomo",
+            "SIPS - Sistema de protección contra impactos laterales",
+            "WHIPS - Protección contra latigazos en asientos delanteros",
+            "Safety Cage - Cabina de seguridad para pasajeros de acero reforzado",
+            "ABS con EBD - Sistema electrónico de distribución de frenado",
+            "EBA - Sistema electrónico con asistencia de frenado",
+            "ESC - Control electrónico de estabilidad",
+            "HDC - Control de descenso en pendiente",
+            "HSA - Asistente de partida en pendientes",
+            "ISOFIX - Sistema de anclaje para sillas de seguridad de niños",
+            "EBL - Luz de freno parpadeante y advertencia de peligro",
+            "TPMS - Monitoreo de presión de neumáticos"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Volvo (✓=true, -=false/vacío; texto/valores tal cual)",
+        "fuente": "volvo___ft_ex90.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyeron: especificaciones técnicas, equipamiento interior, equipamiento exterior, chasis (suspensión neumática), tecnologías y el bloque de Seguridad Estándar."
+    }
+}

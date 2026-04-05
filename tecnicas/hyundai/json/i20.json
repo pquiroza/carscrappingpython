@@ -1,0 +1,193 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "i20",
+        "año": null,
+        "versiones": [
+            "1.4_MT_GO_FL",
+            "1.4_MT_PLUS_FL",
+            "1.4_AT_PLUS_FL",
+            "1.0T_AT_DESIGN_FL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.4_MT_GO_FL": "MPI",
+            "1.4_MT_PLUS_FL": "MPI",
+            "1.4_AT_PLUS_FL": "MPI",
+            "1.0T_AT_DESIGN_FL": "MPI Turbo"
+        },
+        "cilindrada": {
+            "1.4_MT_GO_FL": "1.368 cc",
+            "1.4_MT_PLUS_FL": "1.368 cc",
+            "1.4_AT_PLUS_FL": "1.368 cc",
+            "1.0T_AT_DESIGN_FL": "998 cc"
+        },
+        "potencia_hp": {
+            "1.4_MT_GO_FL": "99 hp",
+            "1.4_MT_PLUS_FL": "99 hp",
+            "1.4_AT_PLUS_FL": "99 hp",
+            "1.0T_AT_DESIGN_FL": "118 hp"
+        },
+        "potencia_rpm": "6.000 RPM",
+        "torque_nm": {
+            "1.4_MT_GO_FL": "133 Nm",
+            "1.4_MT_PLUS_FL": "133 Nm",
+            "1.4_AT_PLUS_FL": "133 Nm",
+            "1.0T_AT_DESIGN_FL": "171 Nm"
+        },
+        "torque_rpm": {
+            "1.4_MT_GO_FL": "4.000",
+            "1.4_MT_PLUS_FL": "4.000",
+            "1.4_AT_PLUS_FL": "4.000",
+            "1.0T_AT_DESIGN_FL": "1.500-4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.4_MT_GO_FL": "6MT",
+            "1.4_MT_PLUS_FL": "6MT",
+            "1.4_AT_PLUS_FL": "6AT",
+            "1.0T_AT_DESIGN_FL": "7DCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": {
+            "otros": "Discos ventilados",
+            "1.0T_AT_DESIGN_FL": "Discos ventilados"
+        },
+        "frenos_traseros": {
+            "otros": "Tambor",
+            "1.0T_AT_DESIGN_FL": "Discos"
+        },
+        "neumaticos": "195/55R16",
+        "rueda_repuesto": {
+            "1.4_MT_GO_FL": "Llanta Fierro 16\"",
+            "1.4_MT_PLUS_FL": "Llanta Fierro",
+            "1.4_AT_PLUS_FL": "Llanta Fierro",
+            "1.0T_AT_DESIGN_FL": "Llanta de aleación"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 3995,
+        "ancho_mm": 1775,
+        "alto_mm": 1505,
+        "distancia_ejes_mm": 2580,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.4_MT_GO_FL": 1480,
+            "1.4_MT_PLUS_FL": 1480,
+            "1.4_AT_PLUS_FL": 1520,
+            "1.0T_AT_DESIGN_FL": 1530
+        },
+        "capacidad_maletero_lts": 311,
+        "capacidad_estanque_lts": 37
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "1.4_MT_GO_FL": "Llanta Fierro 16\"",
+            "1.4_MT_PLUS_FL": "16\"",
+            "1.4_AT_PLUS_FL": "16\"",
+            "1.0T_AT_DESIGN_FL": "16\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "1.4_MT_GO_FL": false,
+                "1.4_MT_PLUS_FL": false,
+                "1.4_AT_PLUS_FL": false,
+                "1.0T_AT_DESIGN_FL": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.4_MT_GO_FL": false,
+                "1.4_MT_PLUS_FL": false,
+                "1.4_AT_PLUS_FL": false,
+                "1.0T_AT_DESIGN_FL": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "1.4_MT_GO_FL": "Tela",
+                "1.4_MT_PLUS_FL": "Tela",
+                "1.4_AT_PLUS_FL": "Tela",
+                "1.0T_AT_DESIGN_FL": "Tela y Eco-Cuero"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Carrocería exterior bitono",
+                "1.4_MT_GO_FL": false,
+                "1.4_MT_PLUS_FL": false,
+                "1.4_AT_PLUS_FL": false,
+                "1.0T_AT_DESIGN_FL": true
+            }
+        ],
+        "seguridad": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Modos de manejo",
+                "1.4_MT_GO_FL": false,
+                "1.4_MT_PLUS_FL": false,
+                "1.4_AT_PLUS_FL": false,
+                "1.0T_AT_DESIGN_FL": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "1.4_MT_GO_FL": false,
+                "1.4_MT_PLUS_FL": false,
+                "1.4_AT_PLUS_FL": false,
+                "1.0T_AT_DESIGN_FL": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "Control de Estabilidad (ESC)",
+            "Asistente de arranque en pendiente",
+            "Cámara de retroceso con guías dinámicas",
+            "Sensor de estacionamiento trasero",
+            "Anclaje silla de niños",
+            "Inmovilizador",
+            "Seguro niños puertas traseras",
+            "Volante colapsable"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Alzavidrios eléctricos",
+            "Asiento conductor regulable en altura",
+            "Bluetooth con reconocimiento de voz",
+            "Control audio al volante",
+            "Cluster digital MONO-LCD 3,5\"",
+            "Volante regulable en altura y profundidad"
+        ],
+        "exterior": [
+            "Espejos eléctricos con señalizador",
+            "Luz maletero",
+            "Sensor de luces",
+            "Luces traseras LED",
+            "Luces delanteras LED",
+            "Luces de posicionamiento LED"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "hyu-i20-ficha-tecnica.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos exactamente de la tabla comparativa visual del documento."
+    }
+}

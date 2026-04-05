@@ -1,0 +1,494 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "EADO PLUS IDD",
+        "año": null,
+        "versiones": [
+            "LUXURY",
+            "ELITE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LUXURY": "PHEV SDN-D",
+            "ELITE": "PHEV SDN-D"
+        },
+        "cilindrada": {
+            "LUXURY": "1.5L",
+            "ELITE": "1.5L"
+        },
+        "potencia_hp": {
+            "LUXURY": "105",
+            "ELITE": "105"
+        },
+        "potencia_rpm": {
+            "LUXURY": null,
+            "ELITE": null
+        },
+        "torque_nm": {
+            "LUXURY": "133",
+            "ELITE": "133"
+        },
+        "torque_rpm": {
+            "LUXURY": null,
+            "ELITE": null
+        },
+        "combustible": "Híbrido enchufable",
+        "transmision": {
+            "LUXURY": "E-CVT",
+            "ELITE": "E-CVT"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Macpherson",
+        "suspension_trasera": "Viga de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": "Electrónico",
+        "neumaticos": {
+            "LUXURY": "215/55R17",
+            "ELITE": "215/55R18"
+        },
+        "rueda_repuesto": "Kit Antipinchazo"
+    },
+    "dimensiones": {
+        "largo_mm": 4785,
+        "ancho_mm": 1840,
+        "alto_mm": 1460,
+        "distancia_ejes_mm": 2765,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1965,
+        "capacidad_maletero_lts": 500,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad máxima de carga (kW/h)",
+            "LUXURY": "3,3",
+            "ELITE": "3,3"
+        },
+        {
+            "caracteristica": "Capacidad de batería (kW/h)",
+            "LUXURY": "18.4",
+            "ELITE": "18.4"
+        },
+        {
+            "caracteristica": "Potencia total motor eléctrico (kW)",
+            "LUXURY": "158",
+            "ELITE": "158"
+        },
+        {
+            "caracteristica": "Potencia total motor eléctrico (HP)",
+            "LUXURY": "212",
+            "ELITE": "212"
+        },
+        {
+            "caracteristica": "Potencia máxima motor eléctrico (kW)",
+            "LUXURY": "81",
+            "ELITE": "81"
+        },
+        {
+            "caracteristica": "Potencia máxima motor eléctrico (Nm)",
+            "LUXURY": "330",
+            "ELITE": "330"
+        },
+        {
+            "caracteristica": "Autonomía NEDC (km)",
+            "LUXURY": "120",
+            "ELITE": "120"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "LUXURY": "27,7",
+            "ELITE": "27,7"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "LUXURY": "26,8",
+            "ELITE": "26,8"
+        },
+        {
+            "caracteristica": "Rendimiento combinado (km/l)",
+            "LUXURY": "27,2",
+            "ELITE": "27,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Cierre automático Sunroof por lluvia",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Vidrio aislante de ruido",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Apertura remota de portalón con llave",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles automáticamente al cierre",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Espejos laterales calefactables",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Plumilla delantera con sensor de lluvia",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Función \"follow me home\"",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED con encendido automático",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Luces delanteras con ajuste de altura",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Luz antiniebla trasera",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Cámara 360° con visión 540°",
+                "LUXURY": true,
+                "ELITE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Salida de aire plazas traseras",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento manual",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Pantalla touch infoentretenimiento",
+                "LUXURY": "13,2\"",
+                "ELITE": "13,2\""
+            },
+            {
+                "caracteristica": "Asiento conductor acolchado",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asiento acompañante",
+                "LUXURY": "Manual - 4 posiciones",
+                "ELITE": "Manual - 4 posiciones"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "LUXURY": "Eléctrico - 6 posiciones",
+                "ELITE": "Eléctrico - 6 posiciones"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital",
+                "LUXURY": "10,25\"",
+                "ELITE": "10,25\""
+            },
+            {
+                "caracteristica": "Toma de corriente",
+                "LUXURY": "12 V",
+                "ELITE": "12 V"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "LUXURY": "Ecocuero",
+                "ELITE": "Ecocuero"
+            },
+            {
+                "caracteristica": "Alzavidrios delanteros/traseros",
+                "LUXURY": "One touch up/down",
+                "ELITE": "One touch up/down"
+            },
+            {
+                "caracteristica": "Volante ajustable",
+                "LUXURY": "4 posiciones",
+                "ELITE": "4 posiciones"
+            },
+            {
+                "caracteristica": "Altavoces",
+                "LUXURY": 6,
+                "ELITE": 6
+            },
+            {
+                "caracteristica": "Entradas USB-A",
+                "LUXURY": "1 frontal / 1 traseros",
+                "ELITE": "1 frontal / 1 traseros"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags (frontales, laterales y cortina)",
+                "LUXURY": 6,
+                "ELITE": 6
+            },
+            {
+                "caracteristica": "Asistencia de frenado (BA)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control de descenso en pendiente (HDC)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control de asistencia en arranque en pendiente (HHC)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Distribución electrónica de frenada (EBD)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Freno de mano electrónico",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Grabador de video",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Inmobilizador antirrobo",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Retención automática del vehículo (AVH)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Seguro de niño",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema isofix",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en velocidad",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Desbloqueo automático de puertas por colisión",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad frontales y traseros de 3 puntas",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Alerta de cinturones desabrochados (5)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de comandos por voz (español)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Localización remota del vehículo (bocina + luces)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control remoto de ventanas",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Llave inteligente",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de partida con botón",
+                "LUXURY": true,
+                "ELITE": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero (ACC)",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo Integrado (IACC)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asistencia de arranque en pendiente (HHC)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Reconocimiento de señales de tráfico (TSR)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de centrado de carril (LCS)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia con detección de peatones (AEB-P) y ciclistas (AEB-C)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (AEB)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión frontal (FCW)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Alerta de salida de carril (LDW)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego (BSD)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico (TJA)",
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de conexión multimedia",
+                "LUXURY": "Apple CarPlay - Android Auto inalámbricos",
+                "ELITE": "Apple CarPlay - Android Auto inalámbricos"
+            },
+            {
+                "caracteristica": "Tipo de conector de carga",
+                "LUXURY": "Tipo 2",
+                "ELITE": "Tipo 2"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación de doble color"
+        ],
+        "interior": [
+            "Capacidad de pasajeros 5",
+            "Capacidad maletero 500 L"
+        ],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo",
+        "Negro",
+        "Gris",
+        "Blanco",
+        "Verde"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-29",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-te-cnica-eado-plus-2026.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó la información visible en las tablas de especificaciones generales, batería, equipamiento interior, exterior, seguridad, ADAS y colores."
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Palisade Hibrido",
+        "año": null,
+        "versiones": [
+            "2.5T_AT_AWD_LIMITED",
+            "2.5T_AT_AWD_CALLIGRAPHY",
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE"
+        ]
+    },
+    "motor": {
+        "tipo": "GDI - Inyección Directa / Motor síncrono de imanes permanentes",
+        "cilindrada": "2.497 cc",
+        "potencia_hp": {
+            "motor_combustion": "258 Hp a 5.800 rpm",
+            "motor_electrico": "54 kW",
+            "combinada": "330 Hp"
+        },
+        "potencia_rpm": "2000-3000 rpm (combinada)",
+        "torque_nm": {
+            "combinado": "460 Nm"
+        },
+        "torque_rpm": "1800-4500 rpm",
+        "combustible": "Gasolina",
+        "transmision": "6AT",
+        "traccion": "4WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "neumaticos": {
+            "2.5T_AT_AWD_LIMITED": "255/50 R20",
+            "2.5T_AT_AWD_CALLIGRAPHY": "255/50 R20",
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": "265/45 R21"
+        },
+        "rueda_repuesto": "Tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 5060,
+        "ancho_mm": 1980,
+        "alto_mm": 1805,
+        "distancia_ejes_mm": 2970,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2.5T_AT_AWD_LIMITED": 3000,
+            "2.5T_AT_AWD_CALLIGRAPHY": 2980,
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": 2980
+        },
+        "capacidad_maletero_lts": {
+            "detras_3ra_fila": 300,
+            "detras_2da_fila": 712,
+            "detras_1ra_fila": 2081
+        },
+        "capacidad_estanque_lts": 72
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación",
+            "2.5T_AT_AWD_LIMITED": "20\"",
+            "2.5T_AT_AWD_CALLIGRAPHY": "20\"",
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": "21\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Km/L Ciudad",
+            "2.5T_AT_AWD_LIMITED": "19,2",
+            "2.5T_AT_AWD_CALLIGRAPHY": "19,2",
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": "19,2"
+        },
+        {
+            "caracteristica": "Consumo Km/L Mixto",
+            "2.5T_AT_AWD_LIMITED": "12,1",
+            "2.5T_AT_AWD_CALLIGRAPHY": "12,1",
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": "12,1"
+        },
+        {
+            "caracteristica": "Consumo Km/L Carretera",
+            "2.5T_AT_AWD_LIMITED": "10,7",
+            "2.5T_AT_AWD_CALLIGRAPHY": "10,7",
+            "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": "10,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Espejo Central Digital",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": false,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "2.5T_AT_AWD_LIMITED": "Cuero",
+                "2.5T_AT_AWD_CALLIGRAPHY": "Cuero Nappa",
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": "Cuero Nappa"
+            },
+            {
+                "caracteristica": "Volante regulable eléctrico con memoria",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": false,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            },
+            {
+                "caracteristica": "Asientos segunda fila ventilados",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": true,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            },
+            {
+                "caracteristica": "Asientos tercera fila calefaccionados",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": true,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            },
+            {
+                "caracteristica": "Función relajación segunda fila",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": false,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            },
+            {
+                "caracteristica": "Sunroof Doble Panel",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": true,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            },
+            {
+                "caracteristica": "KIT Exterior Calligraphy",
+                "2.5T_AT_AWD_LIMITED": false,
+                "2.5T_AT_AWD_CALLIGRAPHY": true,
+                "2.5T_AT_AWD_CALLIGRAPHY_ULTIMATE": true
+            }
+        ],
+        "seguridad": [],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "7 Airbags",
+            "ABS + EBD",
+            "ESC",
+            "Cámara retroceso con guías dinámicas",
+            "Asistencia estabilidad remolque",
+            "Sensores estacionamiento delantero / trasero / lateral",
+            "Isofix (4 asientos con anclaje)",
+            "HAC + DBC",
+            "TPMS",
+            "HTRAC",
+            "BSD",
+            "BCA",
+            "LKA",
+            "LFA",
+            "FCA",
+            "FCA JX",
+            "BVM",
+            "SSC",
+            "RCCA",
+            "CSC",
+            "Asistencia luces altas",
+            "Asistencia atención conductor",
+            "Cámara 360° realidad aumentada"
+        ],
+        "interior": [
+            "Cluster digital 12,3\"",
+            "Radio Touch 12,3\" Apple CarPlay / Android Auto inalámbrico",
+            "Cargador inalámbrico",
+            "Climatizador tri-zona",
+            "Bluetooth con reconocimiento de voz",
+            "Encendido remoto",
+            "Smart Key",
+            "Portalón trasero eléctrico",
+            "Paddle Shift",
+            "Selector modo manejo Eco / Sport / My Drive",
+            "Selector modo Off Road (Barro / Nieve / Arena)",
+            "Volante cuero calefaccionado",
+            "Asiento piloto eléctrico 8 posiciones",
+            "Asiento conductor con memoria y ajuste lumbar",
+            "Asientos delanteros calefaccionados y ventilados",
+            "Asiento copiloto eléctrico",
+            "Audio Premium BOSE",
+            "Iluminación interior LED",
+            "Head Up Display",
+            "Sensor lluvia",
+            "Sensor luz",
+            "Vidrios traseros privacidad",
+            "7 Puertos USB",
+            "12 Parlantes"
+        ],
+        "exterior": [
+            "Luces delanteras LED proyección",
+            "Luces traseras LED",
+            "DRL LED",
+            "Neblineros traseros LED"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 2 y 3",
+        "fuente": "ficha-tecnica-palisade-2.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos únicamente desde la tabla comparativa visual del documento."
+    }
+}

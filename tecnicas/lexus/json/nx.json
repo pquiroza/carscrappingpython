@@ -1,0 +1,272 @@
+{
+    "vehiculo": {
+        "marca": "Lexus",
+        "modelo": "NX",
+        "año": null,
+        "versiones": [
+            "PLUS",
+            "PREMIUM_4x2",
+            "PREMIUM_4x4",
+            "LUX_4x4",
+            "F-SPORT_4x4"
+        ]
+    },
+    "motor": {
+        "tipo": "A25A-FXS",
+        "cilindrada": "2.487 cc / 4 en línea",
+        "potencia_hp": {
+            "PLUS": "240 hp",
+            "PREMIUM_4x2": "240 hp",
+            "PREMIUM_4x4": "240 hp",
+            "LUX_4x4": "240 hp",
+            "F-SPORT_4x4": "240 hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "PLUS": "239 nm",
+            "PREMIUM_4x2": "239 nm",
+            "PREMIUM_4x4": "239 nm",
+            "LUX_4x4": "239 nm",
+            "F-SPORT_4x4": "239 nm"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico-Híbrido Auto Recargable",
+        "transmision": "CVT",
+        "traccion": {
+            "PLUS": "4x2",
+            "PREMIUM_4x2": "4x2",
+            "PREMIUM_4x4": "4x4",
+            "LUX_4x4": "4x4",
+            "F-SPORT_4x4": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "PLUS": "235 / 60R18",
+            "PREMIUM_4x2": "235 / 60R18",
+            "PREMIUM_4x4": "235 / 60R18",
+            "LUX_4x4": "235 / 50R20",
+            "F-SPORT_4x4": "235 / 50R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4660,
+        "ancho_mm": 1865,
+        "alto_mm": 1660,
+        "distancia_ejes_mm": 2690,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 520,
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "PLUS": "235 / 60R18",
+            "PREMIUM_4x2": "235 / 60R18",
+            "PREMIUM_4x4": "235 / 60R18",
+            "LUX_4x4": "235 / 50R20",
+            "F-SPORT_4x4": "235 / 50R20"
+        },
+        {
+            "caracteristica": "Llanta aleación",
+            "PLUS": "18\"",
+            "PREMIUM_4x2": "20”",
+            "PREMIUM_4x4": "20”",
+            "LUX_4x4": "20”",
+            "F-SPORT_4x4": "20” F-Sport"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad maleta (lts)",
+            "PLUS": "520",
+            "PREMIUM_4x2": "520",
+            "PREMIUM_4x4": "520",
+            "LUX_4x4": "520",
+            "F-SPORT_4x4": "520"
+        },
+        {
+            "caracteristica": "Depósito combustible (lts)",
+            "PLUS": "55",
+            "PREMIUM_4x2": "55",
+            "PREMIUM_4x4": "55",
+            "LUX_4x4": "55",
+            "F-SPORT_4x4": "55"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Head up display",
+                "PLUS": false,
+                "PREMIUM_4x2": false,
+                "PREMIUM_4x4": false,
+                "LUX_4x4": true,
+                "F-SPORT_4x4": true
+            },
+            {
+                "caracteristica": "Sistema luces altas",
+                "PLUS": "Automáticas (AHB)",
+                "PREMIUM_4x2": "Automáticas (AHB)",
+                "PREMIUM_4x4": "Automáticas (AHB)",
+                "LUX_4x4": "Adaptativas (AHS)",
+                "F-SPORT_4x4": "Adaptativas (AHS)"
+            },
+            {
+                "caracteristica": "Asistencia estacionamiento inteligente",
+                "PLUS": false,
+                "PREMIUM_4x2": false,
+                "PREMIUM_4x4": false,
+                "LUX_4x4": true,
+                "F-SPORT_4x4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento piloto con ajuste lumbar",
+                "PLUS": false,
+                "PREMIUM_4x2": false,
+                "PREMIUM_4x4": true,
+                "LUX_4x4": true,
+                "F-SPORT_4x4": true
+            },
+            {
+                "caracteristica": "Ajuste asiento delantero",
+                "PLUS": "D+P manual 6 posiciones",
+                "PREMIUM_4x2": "D+P eléctrico 8 posiciones",
+                "PREMIUM_4x4": "D+P eléctrico 8 posiciones",
+                "LUX_4x4": "D (con memoria)+P eléctrico 8 posiciones",
+                "F-SPORT_4x4": "D (con memoria)+P eléctrico 8 posiciones"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "PLUS": false,
+                "PREMIUM_4x2": false,
+                "PREMIUM_4x4": "Delanteros",
+                "LUX_4x4": "Delanteros y Traseros",
+                "F-SPORT_4x4": "Delanteros y Traseros"
+            },
+            {
+                "caracteristica": "Asientos climatizados",
+                "PLUS": false,
+                "PREMIUM_4x2": false,
+                "PREMIUM_4x4": "Delanteros",
+                "LUX_4x4": "Delanteros",
+                "F-SPORT_4x4": "Delanteros"
+            },
+            {
+                "caracteristica": "Pantalla Touch",
+                "PLUS": "9,8” con APC inalámbrico y AA",
+                "PREMIUM_4x2": "9,8” con APC inalámbrico y AA",
+                "PREMIUM_4x4": "9,8” con APC inalámbrico y AA",
+                "LUX_4x4": "14” con APC inalámbrico y AA",
+                "F-SPORT_4x4": "14” con APC inalámbrico y AA"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "PLUS": false,
+                "PREMIUM_4x2": true,
+                "PREMIUM_4x4": true,
+                "LUX_4x4": "Panorámico",
+                "F-SPORT_4x4": "Panorámico"
+            },
+            {
+                "caracteristica": "Volante forrado en cuero con paddle shift",
+                "PLUS": true,
+                "PREMIUM_4x2": true,
+                "PREMIUM_4x4": true,
+                "LUX_4x4": "Calefaccionado, mandos al volante touch y regulación electrónica",
+                "F-SPORT_4x4": "Calefaccionado, mandos al volante touch y regulación electrónica"
+            },
+            {
+                "caracteristica": "Modos de conducción (Eco, Normal, Sport)",
+                "PLUS": true,
+                "PREMIUM_4x2": true,
+                "PREMIUM_4x4": "Sí + F-Sport + Custom",
+                "LUX_4x4": "Sí + F-Sport + Custom",
+                "F-SPORT_4x4": "Sí + F-Sport + Custom"
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "PLUS": "10 parlantes",
+                "PREMIUM_4x2": "10 parlantes",
+                "PREMIUM_4x4": "10 parlantes",
+                "LUX_4x4": "17 parlantes Mark Levinson",
+                "F-SPORT_4x4": "17 parlantes Mark Levinson"
+            },
+            {
+                "caracteristica": "Tela asientos",
+                "PLUS": "Tela",
+                "PREMIUM_4x2": "Cuero Sintético",
+                "PREMIUM_4x4": "Cuero Sintético",
+                "LUX_4x4": "Cuero",
+                "F-SPORT_4x4": "Cuero F-Sport"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Cámara retroceso",
+                "PLUS": "Sí",
+                "PREMIUM_4x2": "Sí",
+                "PREMIUM_4x4": "Sí",
+                "LUX_4x4": "Panorámica (360º)",
+                "F-SPORT_4x4": "Panorámica (360º)"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Equipamiento F-Sport",
+                "PLUS": false,
+                "PREMIUM_4x2": false,
+                "PREMIUM_4x4": false,
+                "LUX_4x4": false,
+                "F-SPORT_4x4": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Lexus Safety System+ 3",
+            "Detector punto ciego (BSM) con RCTA y SEA",
+            "Frenos ABS",
+            "Control de estabilidad (VSC)",
+            "Freno de apoyo de estacionamiento (PKSB)",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Sistema de ayuda de salida en pendiente (HAC)",
+            "SRS Airbag 8"
+        ],
+        "interior": [
+            "Aire acondicionado: Climatizador Bi-zona",
+            "Cargador inalámbrico",
+            "Espejo retrovisor electrocromático",
+            "Freno mano: Electrónico EPB con Brake Hold",
+            "Puerto USB-A, USB-C: 1C y 1A delanteros, 2C traseros"
+        ],
+        "exterior": [
+            "Focos delanteros: Bi-LED",
+            "Limpiaparabrisas delantero: Con sensor de lluvia",
+            "Luces diurnas (DRL): LED",
+            "Neblineros: Delanteros y traseros",
+            "Portalón trasero: Manos libres"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha_NX_24PC_Final_FdgVKVI.pdf",
+        "versiones_en_documento": 5,
+        "notas": "El documento muestra columnas: Plus, Premium (4x2), Premium (4x4), Lux (4x4) y F-Sport (4x4). Donde el PDF presenta texto (no S/-), se mantuvo literal."
+    }
+}

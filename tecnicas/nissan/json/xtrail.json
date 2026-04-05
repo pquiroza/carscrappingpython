@@ -1,0 +1,377 @@
+{
+    "vehiculo": {
+        "marca": "Nissan",
+        "modelo": "X-Trail",
+        "año": null,
+        "versiones": [
+            "SENSE CVT 2R",
+            "SENSE CVT 3R",
+            "ADVANCE CVT 3R",
+            "EXCLUSIVE CVT 3R AWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SENSE CVT 2R": "2.5",
+            "SENSE CVT 3R": "2.5",
+            "ADVANCE CVT 3R": "2.5",
+            "EXCLUSIVE CVT 3R AWD": "2.5"
+        },
+        "cilindrada": {
+            "SENSE CVT 2R": null,
+            "SENSE CVT 3R": null,
+            "ADVANCE CVT 3R": null,
+            "EXCLUSIVE CVT 3R AWD": null
+        },
+        "potencia_hp": {
+            "SENSE CVT 2R": "181",
+            "SENSE CVT 3R": "181",
+            "ADVANCE CVT 3R": "181",
+            "EXCLUSIVE CVT 3R AWD": "181"
+        },
+        "potencia_rpm": {
+            "SENSE CVT 2R": "6.000",
+            "SENSE CVT 3R": "6.000",
+            "ADVANCE CVT 3R": "6.000",
+            "EXCLUSIVE CVT 3R AWD": "6.000"
+        },
+        "torque_nm": {
+            "SENSE CVT 2R": "245",
+            "SENSE CVT 3R": "245",
+            "ADVANCE CVT 3R": "245",
+            "EXCLUSIVE CVT 3R AWD": "245"
+        },
+        "torque_rpm": {
+            "SENSE CVT 2R": null,
+            "SENSE CVT 3R": null,
+            "ADVANCE CVT 3R": null,
+            "EXCLUSIVE CVT 3R AWD": null
+        },
+        "combustible": "93 octanos o superior",
+        "transmision": {
+            "SENSE CVT 2R": "CVT (Continua variable)",
+            "SENSE CVT 3R": "CVT (Continua variable)",
+            "ADVANCE CVT 3R": "CVT (Continua variable)",
+            "EXCLUSIVE CVT 3R AWD": "CVT (Continua variable)"
+        },
+        "traccion": {
+            "SENSE CVT 2R": "2WD",
+            "SENSE CVT 3R": "2WD",
+            "ADVANCE CVT 3R": "2WD",
+            "EXCLUSIVE CVT 3R AWD": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctricamente asistida (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente con resortes y barra estabilizadora",
+        "suspension_trasera": "Independiente multibrazo y barra estabilizadora",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": "Freno de mano eléctrico (EPK-B) con función \"Auto Hold\"",
+        "neumaticos": {
+            "SENSE CVT 2R": "235/65 R17",
+            "SENSE CVT 3R": "235/65 R17",
+            "ADVANCE CVT 3R": "235/60 R18",
+            "EXCLUSIVE CVT 3R AWD": "235/55 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4680,
+        "ancho_mm": 1840,
+        "alto_mm": 1695,
+        "distancia_ejes_mm": 2705,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "SENSE CVT 2R": 1990,
+            "SENSE CVT 3R": 2195,
+            "ADVANCE CVT 3R": 2195,
+            "EXCLUSIVE CVT 3R AWD": 2285
+        },
+        "capacidad_maletero_lts": {
+            "SENSE CVT 2R": 1396,
+            "SENSE CVT 3R": 1298,
+            "ADVANCE CVT 3R": 1298,
+            "EXCLUSIVE CVT 3R AWD": 1298
+        },
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": {
+            "SENSE CVT 2R": 5,
+            "SENSE CVT 3R": 7,
+            "ADVANCE CVT 3R": 7,
+            "EXCLUSIVE CVT 3R AWD": 7
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "SENSE CVT 2R": "9,4",
+            "SENSE CVT 3R": "9,4",
+            "ADVANCE CVT 3R": "9,4",
+            "EXCLUSIVE CVT 3R AWD": "9,4"
+        },
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "SENSE CVT 2R": "14,8",
+            "SENSE CVT 3R": "14,8",
+            "ADVANCE CVT 3R": "14,8",
+            "EXCLUSIVE CVT 3R AWD": "14,8"
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "SENSE CVT 2R": "12,3",
+            "SENSE CVT 3R": "12,3",
+            "ADVANCE CVT 3R": "12,3",
+            "EXCLUSIVE CVT 3R AWD": "12,3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "SENSE CVT 2R": "17\" Aluminio",
+                "SENSE CVT 3R": "17\" Aluminio",
+                "ADVANCE CVT 3R": "18\" Aluminio",
+                "EXCLUSIVE CVT 3R AWD": "19\" Aluminio"
+            },
+            {
+                "caracteristica": "Limpia parabrisas automática variable, intermitente y con sensor de velocidad",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Techo panorámico de cristal fijo con cortina eléctrica",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Aire acondicionado automático en doble zona",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Aire acondicionado automático en triple zona",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Ajuste de asiento piloto: manual (deslizable, reclinable, altura)",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Ajuste de asiento piloto: manual (deslizable, reclinable, altura) + ajuste lumbar eléctrico",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Ajuste de asiento piloto: eléctrico (deslizable, reclinable, altura, inclinación, lumbar)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Asientos de tela",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Asientos de cuero sintético",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 7\"",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 12,3\"",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Volante de uretano",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Volante de cuero sintético",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Modo de manejo (Estándar, Eco, Sport, Snow, Off Road)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Proyector Head up Display (HUD)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celular",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antidesello manual",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antidesello automático",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Apertura maletero eléctrica, cerrado automático y manos libres (Hands free)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Asistente de descensos (DCS)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            },
+            {
+                "caracteristica": "Sistema monitoreo presión de neumáticos (TPMS)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor de visión periférica (AVM) + detector de objetos en movimiento (MOD)",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio con pantalla de 8\" + 4 parlantes",
+                "SENSE CVT 2R": true,
+                "SENSE CVT 3R": true,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Radio con pantalla de 8\" + 6 parlantes",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": true,
+                "EXCLUSIVE CVT 3R AWD": false
+            },
+            {
+                "caracteristica": "Radio con pantalla de 12,3\" + Bose + 6 parlantes",
+                "SENSE CVT 2R": false,
+                "SENSE CVT 3R": false,
+                "ADVANCE CVT 3R": false,
+                "EXCLUSIVE CVT 3R AWD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Spoiler trasero + luz de freno",
+            "Espejos retrovisores exteriores con ajuste eléctrico, plegables automáticos y calefactables",
+            "Vidrios traseros tintados",
+            "Faros delanteros LED con encendido automático + luces diurnas LED",
+            "Faros traseros LED + direccional LED"
+        ],
+        "interior": [
+            "Cámara de reversa",
+            "Freno de mano eléctrico (EPK-B) con función \"Auto Hold\"",
+            "Ajuste de asiento piloto: manual (deslizable, reclinable)",
+            "Asientos traseros abatibles 40/20/40 (segunda fila)",
+            "Modos de manejo (Eco, Estándar, Sport)",
+            "Paddle Shifters",
+            "Botón de encendido y apagado de motor (Push engine start) ligado con la llave inteligente i-Key",
+            "Puertos USB A y C"
+        ],
+        "seguridad": [
+            "Airbags frontales conductor y pasajero (2)",
+            "Airbags laterales (2) y cortina (2)",
+            "Cinturones de seguridad de 3 puntos",
+            "Anclaje ISOFIX",
+            "Control dinámico vehicular (VDC)",
+            "Asistente de ascenso en pendientes (HSA)",
+            "Control crucero inteligente (ICC) y ajuste de límite de velocidad (ASL)",
+            "Cierre de puertas para niños (Child Lock)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Alerta de abandono de carril (LDW)",
+            "Prevención cambio carril (LDP)",
+            "Alerta de colisión frontal (FCW)",
+            "Frenado de emergencia frontal (FEB) (ciudad e interurbano)",
+            "Alerta de punto ciego (BSW)",
+            "Alerta tráfico cruzado trasero (CTA)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Nissan (punto=true, vacío o -=false; filas con un solo punto se interpretan como aplicables a todas las versiones; texto/valores tal cual)",
+        "fuente": "FICHA TECNICA NUEVA NISSAN XTRAIL.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajo la información visible de la ficha. Donde el documento no muestra explícitamente un dato del formato requerido, se dejó null o arreglo vacío sin inferir."
+    }
+}

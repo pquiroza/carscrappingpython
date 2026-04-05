@@ -1,0 +1,398 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "T2",
+        "año": null,
+        "versiones": [
+            "2.0T_GDI_AWD_7DCT_LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "2.0T GDI"
+        },
+        "cilindrada": 1998,
+        "potencia_hp": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "241"
+        },
+        "potencia_rpm": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "5.500"
+        },
+        "torque_nm": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "390"
+        },
+        "torque_rpm": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "1750-4.000"
+        },
+        "combustible": "Gasolina",
+        "sistema_alimentacion": "Inyección directa",
+        "norma_emisiones": null,
+        "transmision": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "Automática doble embrague DCT"
+        },
+        "traccion": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente MacPherson",
+        "suspension_trasera": "Independiente multilink",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_estacionamiento": "Freno electrónico + Autohold",
+        "neumaticos": {
+            "2.0T_GDI_AWD_7DCT_LIMITED": "255/55R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4785,
+        "ancho_mm": 2006,
+        "alto_mm": 1880,
+        "distancia_ejes_mm": 2800,
+        "angulo_ataque": "28º",
+        "angulo_salida": "30º",
+        "voladizo_delantero_mm": 892,
+        "voladizo_trasero_mm": 1093,
+        "distancia_minima_suelo_mm": 220,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": 70,
+        "capacidad_maletero_lts": {
+            "sin_filas_abatidas": 580,
+            "segunda_fila_abatida": 1494
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "2.0T_GDI_AWD_7DCT_LIMITED": "8,5"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "2.0T_GDI_AWD_7DCT_LIMITED": "12,2"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "2.0T_GDI_AWD_7DCT_LIMITED": "10,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Antena tipo cola de tiburón",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Apertura capot con bombín neumático",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Apertura inteligente de puertas",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Cierre automático al salir del vehículo",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Encendido de motor a distancia",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores abatibles eléctricamente",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores con ajuste eléctricos",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores con memoria",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores exteriores eléctricos calefaccionados",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Focos con encendido automático",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Focos regulables en altura",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Función antiatrapamiento en ventanas",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Iluminación Jetour en el espejo exterior",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces bajas y altas adaptativas",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces con apagado retardado",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces direccionales",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces diurnas LED (DLR)",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros LED",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Neblineros traseros LED",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Señalizadores LED en espejos retrovisores",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico eléctrico",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Ventanas doble vidrio",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado dual climatizado",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Ajuste de volumen según velocidad",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Aletas para cambios (paddle shift)",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Alimentación de 12V (180W)",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Alzavidrios totales eléctricos one touch",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico en 6 direcciones",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor y copiloto calefaccionado",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento conductor y copiloto ventilado",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento copiloto eléctrico en 4 direcciones",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asiento de conductor y copiloto con memoria",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asientos segunda fila reclinables",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asientos tapiz eco-cuero",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Asientos traseros segunda fila abatibles 60/40",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Carga inalámbrica para el celular",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Comandos de voz",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos LCD 10,25”",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Pantalla touch 15,6”",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Sistema de audio SONY",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Parlantes (12)",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Purificación de aire con filtro N95",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Smart key y botón de encendido",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Volante deportivo multifunción",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Volante forrado eco-cuero",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS +EBD",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "ACC: Control crucero adaptativo",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "AEB: Sistema avanzado de frenado de emergencia",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Airbags de cortinas",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Anclaje ISOFIX",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Auto Hold",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "BSD: Sistema de monitoreo de punto ciego",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Cámara panorámica 360°",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "ESP: Control de estabilidad",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "HDC: Control de descenso en pendiente",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "HSA: Control de partida en pendiente",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "LKA: Asistente de mantenimiento de carril",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad trasero y delantero",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "Sistema de detección de vadeo hasta 700 mm",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "TCS: Control de tracción",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "TJA: Asistente de tráfico",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            },
+            {
+                "caracteristica": "TPMS: Monitor de presión de neumáticos",
+                "2.0T_GDI_AWD_7DCT_LIMITED": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {},
+    "colores": [
+        "Café Desierto",
+        "Azul Piedra",
+        "Negro Media Noche",
+        "Gris Arena"
+    ],
+    "garantia": "7 años o 200.000 km"
+}

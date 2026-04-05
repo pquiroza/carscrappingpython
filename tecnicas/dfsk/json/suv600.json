@@ -1,0 +1,191 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "SUV 600",
+        "año": null,
+        "versiones": [
+            "600 COMFORT 1.5T MT",
+            "600 COMFORT 1.5T AT",
+            "600 AT LUXURY"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "COMFORT MT": null,
+            "COMFORT AT": null,
+            "LUXURY AT": null
+        },
+        "cilindrada": {
+            "COMFORT MT": 1499,
+            "COMFORT AT": 1499,
+            "LUXURY AT": 1499
+        },
+        "potencia_hp": {
+            "COMFORT MT": "181",
+            "COMFORT AT": "181",
+            "LUXURY AT": "181"
+        },
+        "potencia_rpm": {
+            "COMFORT MT": null,
+            "COMFORT AT": null,
+            "LUXURY AT": null
+        },
+        "torque_nm": {
+            "COMFORT MT": "300",
+            "COMFORT AT": "300",
+            "LUXURY AT": "300"
+        },
+        "torque_rpm": {
+            "COMFORT MT": null,
+            "COMFORT AT": null,
+            "LUXURY AT": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "COMFORT MT": "6MT",
+            "COMFORT AT": "6AT",
+            "LUXURY AT": "6AT"
+        },
+        "traccion": {
+            "COMFORT MT": "4X2",
+            "COMFORT AT": "4X2",
+            "LUXURY AT": "4X2"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Independiente Multi-link",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "COMFORT MT": "225/60 R17",
+            "COMFORT AT": "225/55 R18",
+            "LUXURY AT": "235/50 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4720,
+        "ancho_mm": 1865,
+        "alto_mm": 1710,
+        "distancia_ejes_mm": 2785,
+        "despeje_suelo_mm": 200,
+        "peso_bruto_kg": {
+            "COMFORT MT": 2120,
+            "COMFORT AT": 2165,
+            "LUXURY AT": 2165
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 6
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces principales automáticas",
+                "COMFORT MT": false,
+                "COMFORT AT": true,
+                "LUXURY AT": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "COMFORT MT": true,
+                "COMFORT AT": "Panorámico",
+                "LUXURY AT": "Panorámico"
+            },
+            {
+                "caracteristica": "Portalón trasero",
+                "COMFORT MT": "Manual",
+                "COMFORT AT": "Manual",
+                "LUXURY AT": "Eléctrico"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento del conductor con ajuste de 6 posiciones",
+                "COMFORT MT": "Manual",
+                "COMFORT AT": "Eléctrico",
+                "LUXURY AT": "Eléctrico"
+            },
+            {
+                "caracteristica": "Panel de instrumentos de 7\" multicolor",
+                "COMFORT MT": false,
+                "COMFORT AT": true,
+                "LUXURY AT": true
+            },
+            {
+                "caracteristica": "Número de Parlantes",
+                "COMFORT MT": 4,
+                "COMFORT AT": 4,
+                "LUXURY AT": 8
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "COMFORT MT": 2,
+                "COMFORT AT": 2,
+                "LUXURY AT": 4
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "COMFORT MT": true,
+                "COMFORT AT": "360",
+                "LUXURY AT": "360"
+            },
+            {
+                "caracteristica": "Sensor delanteros",
+                "COMFORT MT": false,
+                "COMFORT AT": false,
+                "LUXURY AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces diurnas LED",
+            "Espejos retrovisores color carrocería",
+            "Espejos retrovisores con ajuste eléctrico",
+            "Parachoques trasero negro"
+        ],
+        "interior": [
+            "Aire Acondicionado",
+            "Asiento segunda fila con ajuste de 6 posiciones",
+            "Tapiz de asientos Eco cuero",
+            "Volante multifunción forrado en cuero",
+            "Volante ajustable en altura y profundidad",
+            "Luz de lectura",
+            "Espejo retrovisor interior anti deslumbramiento",
+            "Radio touch 12,3\" con Bluetooth",
+            "Android Auto & Apple CarPlay",
+            "Botón Keyless de encendido y apagado de motor"
+        ],
+        "seguridad": [
+            "Frenos ABS y EBD",
+            "Control de tracción (TCS)",
+            "Asistencia hidráulica al frenado (HBA)",
+            "Asistente de partida en pendiente (HHC)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Cinturón de seguridad de tres puntas",
+            "Bloqueo de puertas para niños",
+            "Sensor de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Si=true, vacío/-=false; texto/valores tal cual)",
+        "fuente": "ficha-suv-600-copia.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó toda la información visible en la tabla. No se indican tipo de motor, potencia_rpm, torque_rpm, capacidad de estanque, capacidad de maletero ni colores con nombre en el documento. La página 2 muestra imágenes de vehículos en distintos colores, pero no están etiquetados, por lo que no se inventaron nombres de color."
+    }
+}

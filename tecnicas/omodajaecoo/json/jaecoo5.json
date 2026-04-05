@@ -1,0 +1,407 @@
+{
+    "vehiculo": {
+        "marca": "Omoda-jaecoo",
+        "modelo": "JAECOO 5",
+        "versiones": [
+            "ELEMENTAL 1.5T CVT9",
+            "PRIME 1.5T CVT9",
+            "SUMMIT 1.5T CVT9"
+        ]
+    },
+    "equipamiento_exterior": {
+        "DRL_LED": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Faros_LED_Automaticos": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Faros_IHC": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Follow_me_home": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Focos_traseros_LED": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Neblinero_trasero": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Techo_panoramico": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Sensor_lluvia": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Espejos_calefaccionados": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Espejos_abatibles_electricos": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Protector_cubre_carter": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Protector_chasis_completo": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Tapa_cubre_motor": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Gancho_remolque": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Barras_techo": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Salida_escape_dual": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Spoiler_tercera_luz": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        }
+    },
+    "equipamiento_interior": {
+        "Cluster_8_pulgadas": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Pantalla_9_pulgadas": {
+            "ELEMENTAL": true,
+            "PRIME": false,
+            "SUMMIT": false
+        },
+        "Pantalla_13_2_pulgadas": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Apple_CarPlay_Android_Auto": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Conectividad_inalambrica": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Bluetooth": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Cargador_inalambrico_50W": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Reconocimiento_voz": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Control_multimedia_volante": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "GPS_integrado": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Puertos_USB": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Puerto_Tipo_C": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Audio_6_parlantes": {
+            "ELEMENTAL": true,
+            "PRIME": false,
+            "SUMMIT": false
+        },
+        "Audio_Premium_8_parlantes": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Control_crucero": {
+            "ELEMENTAL": true,
+            "PRIME": false,
+            "SUMMIT": false
+        },
+        "ACC": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "ICA": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Climatizador_automatico": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": false
+        },
+        "Climatizador_bizona": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Tapiz_tela": {
+            "ELEMENTAL": true,
+            "PRIME": false,
+            "SUMMIT": false
+        },
+        "Tapiz_ecocuero": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Asiento_piloto_electrico": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Asiento_copiloto_electrico": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Asientos_ventilados": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Segunda_fila_60_40": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Volante_ecocuero": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Volante_ajuste_altura_profundidad": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Portalon_electrico": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Smart_Key": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Encendido_remoto_motor": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Encendido_remoto_AC": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Ventanas_one_touch": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Luz_ambiente": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Toma_12V": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        }
+    },
+    "seguridad": {
+        "Airbags_frontales": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Airbags_laterales": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Airbags_cortina": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "ABS_EBD": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "BAS": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "ESP": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "TCS": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "HAC": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "HDC": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "Camara_retroceso": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": false
+        },
+        "Camara_540": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "Sensor_trasero": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": false
+        },
+        "Sensor_delantero_trasero": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "BSD": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "RCTA": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "TPMS": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "FCW": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "AEB": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "LDW": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "LCA": {
+            "ELEMENTAL": false,
+            "PRIME": false,
+            "SUMMIT": true
+        },
+        "LDP": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "LKA": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "ELK": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "TJA": {
+            "ELEMENTAL": false,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "EPB": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "ISOFIX": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        },
+        "TOP_TETHER": {
+            "ELEMENTAL": true,
+            "PRIME": true,
+            "SUMMIT": true
+        }
+    }
+}

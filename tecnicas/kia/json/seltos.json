@@ -1,0 +1,635 @@
+{
+    "vehiculo": {
+        "marca": "Kia",
+        "modelo": "Seltos",
+        "año": 2026,
+        "versiones": [
+            "LX 1.5 6MT",
+            "LX 1.5L 6MT PLUS",
+            "LX 1.5L IVT PLUS",
+            "EX 1.5L IVT HIGH",
+            "EX 1.5L 6MT",
+            "EX 1.5L IVT",
+            "EX 1.4L 7DCT TURBO"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 1.5 6MT": null,
+            "LX 1.5L 6MT PLUS": null,
+            "LX 1.5L IVT PLUS": null,
+            "EX 1.5L IVT HIGH": null,
+            "EX 1.5L 6MT": null,
+            "EX 1.5L IVT": null,
+            "EX 1.4L 7DCT TURBO": null
+        },
+        "cilindrada": {
+            "LX 1.5 6MT": 1497,
+            "LX 1.5L 6MT PLUS": 1497,
+            "LX 1.5L IVT PLUS": 1497,
+            "EX 1.5L IVT HIGH": 1497,
+            "EX 1.5L 6MT": 1497,
+            "EX 1.5L IVT": 1497,
+            "EX 1.4L 7DCT TURBO": 1353
+        },
+        "potencia_hp": {
+            "LX 1.5 6MT": "113",
+            "LX 1.5L 6MT PLUS": "113",
+            "LX 1.5L IVT PLUS": "113",
+            "EX 1.5L IVT HIGH": "113",
+            "EX 1.5L 6MT": "113",
+            "EX 1.5L IVT": "113",
+            "EX 1.4L 7DCT TURBO": "138"
+        },
+        "potencia_rpm": {
+            "LX 1.5 6MT": "6.300",
+            "LX 1.5L 6MT PLUS": "6.300",
+            "LX 1.5L IVT PLUS": "6.300",
+            "EX 1.5L IVT HIGH": "6.300",
+            "EX 1.5L 6MT": "6.300",
+            "EX 1.5L IVT": "6.300",
+            "EX 1.4L 7DCT TURBO": "6.000"
+        },
+        "torque_nm": {
+            "LX 1.5 6MT": "144",
+            "LX 1.5L 6MT PLUS": "144",
+            "LX 1.5L IVT PLUS": "144",
+            "EX 1.5L IVT HIGH": "144",
+            "EX 1.5L 6MT": "144",
+            "EX 1.5L IVT": "144",
+            "EX 1.4L 7DCT TURBO": "242"
+        },
+        "torque_rpm": {
+            "LX 1.5 6MT": "4.500",
+            "LX 1.5L 6MT PLUS": "4.500",
+            "LX 1.5L IVT PLUS": "4.500",
+            "EX 1.5L IVT HIGH": "4.500",
+            "EX 1.5L 6MT": "4.500",
+            "EX 1.5L IVT": "4.500",
+            "EX 1.4L 7DCT TURBO": "1.500 ~ 3.200"
+        },
+        "combustible": "Gasolina (95)",
+        "transmision": {
+            "LX 1.5 6MT": "Mecánica 6 velocidades",
+            "LX 1.5L 6MT PLUS": "Mecánica 6 velocidades",
+            "LX 1.5L IVT PLUS": "Automática IVT (Transmisión Variable Inteligente)",
+            "EX 1.5L IVT HIGH": "Automática IVT (Transmisión Variable Inteligente)",
+            "EX 1.5L 6MT": "Mecánica 6 velocidades",
+            "EX 1.5L IVT": "Automática IVT (Transmisión Variable Inteligente)",
+            "EX 1.4L 7DCT TURBO": "Automática DCT 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida Eléctricamente (C-EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Doble barra de torsión (CTBA)",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LX 1.5 6MT": "205/65R16",
+            "LX 1.5L 6MT PLUS": "215/60R17",
+            "LX 1.5L IVT PLUS": "215/60R17",
+            "EX 1.5L IVT HIGH": "215/60R17",
+            "EX 1.5L 6MT": "215/60R17",
+            "EX 1.5L IVT": "215/60R17",
+            "EX 1.4L 7DCT TURBO": "215/60R17"
+        },
+        "rueda_repuesto": "Full Size (Acero)"
+    },
+    "dimensiones": {
+        "largo_mm": 4385,
+        "ancho_mm": 1800,
+        "alto_mm": 1635,
+        "distancia_ejes_mm": 2630,
+        "despeje_suelo_mm": 190,
+        "peso_bruto_kg": {
+            "LX 1.5 6MT": 1660,
+            "LX 1.5L 6MT PLUS": 1660,
+            "LX 1.5L IVT PLUS": 1685,
+            "EX 1.5L IVT HIGH": 1685,
+            "EX 1.5L 6MT": 1660,
+            "EX 1.5L IVT": 1685,
+            "EX 1.4L 7DCT TURBO": 1715
+        },
+        "capacidad_maletero_lts": "433 / 1.389 máx.",
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado/Mixto (km/l)",
+            "LX 1.5 6MT": "14,0",
+            "LX 1.5L 6MT PLUS": "14,0",
+            "LX 1.5L IVT PLUS": "14,9",
+            "EX 1.5L IVT HIGH": "14,9",
+            "EX 1.5L 6MT": "14,7",
+            "EX 1.5L IVT": "16,4",
+            "EX 1.4L 7DCT TURBO": "16,4"
+        },
+        {
+            "caracteristica": "Urbano sin autopista (km/l)",
+            "LX 1.5 6MT": "10,6",
+            "LX 1.5L 6MT PLUS": "10,6",
+            "LX 1.5L IVT PLUS": "11,3",
+            "EX 1.5L IVT HIGH": "11,3",
+            "EX 1.5L 6MT": null,
+            "EX 1.5L IVT": null,
+            "EX 1.4L 7DCT TURBO": null
+        },
+        {
+            "caracteristica": "Urbano con autopista urbana (km/l)",
+            "LX 1.5 6MT": "14,9",
+            "LX 1.5L 6MT PLUS": "14,9",
+            "LX 1.5L IVT PLUS": "16,9",
+            "EX 1.5L IVT HIGH": "16,9",
+            "EX 1.5L 6MT": null,
+            "EX 1.5L IVT": null,
+            "EX 1.4L 7DCT TURBO": null
+        },
+        {
+            "caracteristica": "Rural con autopista rural (km/l)",
+            "LX 1.5 6MT": "16,3",
+            "LX 1.5L 6MT PLUS": "16,3",
+            "LX 1.5L IVT PLUS": "18,0",
+            "EX 1.5L IVT HIGH": "18,0",
+            "EX 1.5L 6MT": null,
+            "EX 1.5L IVT": null,
+            "EX 1.4L 7DCT TURBO": null
+        },
+        {
+            "caracteristica": "Autopista interurbana (km/l)",
+            "LX 1.5 6MT": "13,5",
+            "LX 1.5L 6MT PLUS": "13,5",
+            "LX 1.5L IVT PLUS": "13,6",
+            "EX 1.5L IVT HIGH": "13,6",
+            "EX 1.5L 6MT": null,
+            "EX 1.5L IVT": null,
+            "EX 1.4L 7DCT TURBO": null
+        },
+        {
+            "caracteristica": "Ciudad (km/l)",
+            "LX 1.5 6MT": null,
+            "LX 1.5L 6MT PLUS": null,
+            "LX 1.5L IVT PLUS": null,
+            "EX 1.5L IVT HIGH": null,
+            "EX 1.5L 6MT": "11,5",
+            "EX 1.5L IVT": "13,6",
+            "EX 1.4L 7DCT TURBO": "13,4"
+        },
+        {
+            "caracteristica": "Carretera (km/l)",
+            "LX 1.5 6MT": null,
+            "LX 1.5L 6MT PLUS": null,
+            "LX 1.5L IVT PLUS": null,
+            "EX 1.5L IVT HIGH": null,
+            "EX 1.5L 6MT": "17,5",
+            "EX 1.5L IVT": "18,7",
+            "EX 1.4L 7DCT TURBO": "18,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación aro 16''",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Moldura lateral color negro",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con abatibles eléctricamente",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Barras en techo",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Beltline cromado",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17''",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Moldura lateral color carrocería",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Luces diurnas",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Neblineros delanteros LED",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Luces diurnas LED",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Radiador black glossy C-Type",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio touch con pantalla LCD 8\"",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Cluster de supervisión LCD 4,2“ a color",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Alzavidrio conductor con Función Auto Down",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "LX 1.5 6MT": true,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Tweeters",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Alzavidrio conductor con Función Auto Up/Down & Safety",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Volante forrado en eco-cuero",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Modo de selección de manejo (Eco/Normal/Sport/Smart)",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Modo de selección de terreno (Nieve/Barro/Arena)",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Climatizador dual",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Smart key y botón de encendido",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Radio touch con pantalla LCD 10,25\"",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Cluster de supervisión LCD 10,25“ a color",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Asientos tapiz eco-cuero",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celulares (QI)",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Freno eléctrico (EPB) con Autohold",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Paddle shifter",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensores de proximidad traseros",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": true,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Limitador de velocidad manual",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": true,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            },
+            {
+                "caracteristica": "Sensores de proximidad delanteros",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": true,
+                "EX 1.5L 6MT": false,
+                "EX 1.5L IVT": false,
+                "EX 1.4L 7DCT TURBO": false
+            },
+            {
+                "caracteristica": "Sensores de proximidad traseros y delanteros",
+                "LX 1.5 6MT": false,
+                "LX 1.5L 6MT PLUS": false,
+                "LX 1.5L IVT PLUS": false,
+                "EX 1.5L IVT HIGH": false,
+                "EX 1.5L 6MT": true,
+                "EX 1.5L IVT": true,
+                "EX 1.4L 7DCT TURBO": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos",
+            "Espejos exteriores con señalizador",
+            "Guardafangos delanteros y traseros",
+            "Manillas exteriores color carrocería",
+            "Antena Tiburón",
+            "Spoiler trasero",
+            "Vidrios tintados",
+            "Rueda de repuesto full size",
+            "Neblineros traseros"
+        ],
+        "interior": [
+            "Conect. inalámbrica Apple Carplay & Android Auto",
+            "Cargador USB x2 y salida 12V en consola central",
+            "Cargador USB posterior",
+            "Control de audio en volante",
+            "Bluetooth con reconocimiento de voz",
+            "Volante regulable en altura y profundidad",
+            "Apoyabrazo central",
+            "Alzavidrios eléctricos totales",
+            "Asientos traseros abatibles 60/40",
+            "Asiento conductor regulable en altura",
+            "Asientos con tapiz tela",
+            "Encendido automático de luces",
+            "Cubre equipaje",
+            "Apertura remota de puertas"
+        ],
+        "seguridad": [
+            "Airbags frontales delantero",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Anclaje ISOFIX",
+            "Barras de protección doble de acero en las puertas",
+            "Carrocería con deformación programada",
+            "Columna de dirección colapsable",
+            "Cint. de seguridad delanteros con altura regulable",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad traseros de 3 puntas",
+            "Cint. de seguridad con alerta recordatorio total (5)",
+            "Cierre centralizado por sensor de velocidad (20km/h)",
+            "Inmovilizador",
+            "Alarma",
+            "Frenos de disco traseros y delanteros",
+            "Cámara de retroceso con líneas adaptativas",
+            "Frenos ABS con EBD",
+            "Sistema de asistencia de frenado (BAS)",
+            "Control de estabilidad (ESC)",
+            "Sistema de estabilidad (VSM)",
+            "Asistente de partida en pendiente (HAC)"
+        ],
+        "tecnologia": [
+            "Conect. inalámbrica Apple Carplay & Android Auto"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO INVIERNO (UD)",
+        "PLATA RESPLANDECIENTE (KCS)",
+        "GRIS GRAVEDAD (KDG)",
+        "ROJO ESCARLATA (H3R)",
+        "VERDE OLIVA (EWE)",
+        "AZUL TURQUESA (PLU)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-16",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Kia (●=true, -=false; texto/valores tal cual)",
+        "fuente": "Ficha Técnica - Seltos (SP2c PE) 2026 02.pdf",
+        "versiones_en_documento": 7,
+        "notas": "Se consolidaron las dos tablas del documento Kia Seltos 2026. Cuando una fila de rendimiento existe solo en una de las tablas, las demás versiones se dejaron en null. Se mantuvo el formato JSON usado en las marcas anteriores."
+    }
+}

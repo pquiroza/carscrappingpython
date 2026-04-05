@@ -1,0 +1,158 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "420i Cabrio",
+        "año": null,
+        "versiones": [
+            "Dynamic LCI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Dynamic LCI": "4 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "Dynamic LCI": 1998
+        },
+        "potencia_hp": {
+            "Dynamic LCI": "184"
+        },
+        "potencia_rpm": {
+            "Dynamic LCI": "5,000 – 6,500"
+        },
+        "torque_nm": {
+            "Dynamic LCI": "300"
+        },
+        "torque_rpm": {
+            "Dynamic LCI": "1,350 – 4,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Dynamic LCI": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Dynamic LCI": "Runflat"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4768,
+        "ancho_mm": 1852,
+        "alto_mm": 1384,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 124,
+        "peso_bruto_kg": 1690,
+        "capacidad_maletero_lts": "300 / 385",
+        "capacidad_estanque_lts": 59,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "Dynamic LCI": "15.1"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "Dynamic LCI": "8,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de reversa",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Deflector de viento",
+            "BMW Welcome Light Carpet",
+            "Llantas de aleación de rayos dobles aro 18 bicolor"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático de 2 zonas",
+            "Alfombrillas de velours",
+            "Techo con capota blanda eléctrica",
+            "Asientos de Sensatec",
+            "Asientos delanteros deportivos eléctricos con memoria y calefaccionados",
+            "Asientos traseros abatibles en proporción 40:20:40",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Volante deportivo de cuero M multifunción",
+            "Terminaciones interiores en aluminio cepillado"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Neumáticos Runflat",
+            "Indicador de falla en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "BMW Live Cockpit Plus",
+            "Pantalla de panel de instrumentos digital de 12,3’’",
+            "Pantalla de control de alta resolución de 14,9’’",
+            "Sistema operativo BMW iDrive 8.5 con widgets y pantallas personalizables",
+            "Nuevo menú de accesos rápido Quickview",
+            "Navegador BMW Maps con puntos de referencia en 3D",
+            "Modelos de Micro City",
+            "Búsqueda de direcciones en texto libre y destinos especiales",
+            "Instrucciones y guías con auto zoom",
+            "BMW Intelligent Personal Assistant (“Hola BMW”)",
+            "Mando iDrive Touch",
+            "Bluetooth (streaming/phone)",
+            "Preparación para Android Auto & Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone®",
+            "Visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de 3ros seleccionadas (Spotify, Deezer, Radio, Audiobooks)"
+        ],
+        "adas": [
+            "Faros delanteros de LED",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Luces ambientales dinámicas",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero con función de frenado en pendiente",
+            "Función Start-off assistant",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-10",
+        "metodo_extraccion": "Lectura directa de ficha técnica BMW en texto corrido, manteniendo solo datos explícitos del documento",
+        "fuente": "ficha_tecnica_new_bmw_420i_cabrio_dynamic_lci_ii.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información explícita de la ficha. Garantía y mantenimiento informados en el documento: 5 años de mantenciones, 3 años de garantía y asistencia en ruta."
+    }
+}

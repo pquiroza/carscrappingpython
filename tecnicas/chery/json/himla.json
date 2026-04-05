@@ -1,0 +1,148 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "HIMLA",
+        "año": null,
+        "versiones": [
+            "2_3TD_MT_2WD",
+            "2_3TD_MT_4WD",
+            "2_3TD_AT_4WD"
+        ]
+    },
+    "motor": {
+        "tipo": "2.3 Turbo",
+        "combustible": "Diesel",
+        "cilindrada": "2298",
+        "potencia_hp": "161",
+        "potencia_rpm": "3500",
+        "torque_nm": "420",
+        "torque_rpm": "2000",
+        "modos_conduccion": {
+            "2_3TD_MT_2WD": false,
+            "2_3TD_MT_4WD": false,
+            "2_3TD_AT_4WD": "ECO - NORMAL - SPORT"
+        },
+        "norma_emisiones": "EURO 6C",
+        "boton_regeneracion_forzada": true
+    },
+    "transmision": {
+        "2_3TD_MT_2WD": "6 MT",
+        "2_3TD_MT_4WD": "6 MT",
+        "2_3TD_AT_4WD": "8 AT"
+    },
+    "traccion": {
+        "2_3TD_MT_2WD": "Trasera",
+        "2_3TD_MT_4WD": "4WD",
+        "2_3TD_AT_4WD": "4WD"
+    },
+    "direccion": {
+        "tipo": "Hidráulica"
+    },
+    "bloqueo_diferencial": {
+        "2_3TD_MT_2WD": false,
+        "2_3TD_MT_4WD": true,
+        "2_3TD_AT_4WD": true
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente Doble Horquilla",
+        "suspension_trasera": "Paquete de Resortes",
+        "sistema_frenos": "ABS + EBD + BAS + BA",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 5,
+        "largo_mm": "5335",
+        "ancho_mm": "1920",
+        "alto_mm": "1865",
+        "distancia_ejes_mm": "3230",
+        "pick_up_mm": "1530/1620/515",
+        "capacidad_pickup_l": "1276",
+        "estanque_lts": "80",
+        "capacidad_carga_kg": "1000"
+    },
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Filtro aire cabina",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Salidas aire segunda fila",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": true,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Tapiz eco cuero",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Pantalla 15.6\"",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Cámara 360° HD",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            },
+            {
+                "caracteristica": "Llantas 18\"",
+                "2_3TD_MT_2WD": false,
+                "2_3TD_MT_4WD": false,
+                "2_3TD_AT_4WD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "ESP",
+            "HAC",
+            "HDC",
+            "EBA",
+            "TCS",
+            "TPMS",
+            "ISOFIX",
+            "Airbags delanteros",
+            "Airbags laterales",
+            "Airbag cortina"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha HIMLA",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos literalmente del PDF oficial."
+    }
+}

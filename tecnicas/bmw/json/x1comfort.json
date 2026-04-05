@@ -1,0 +1,140 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X1",
+        "año": null,
+        "versiones": [
+            "sDrive18i Comfort"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "sDrive18i Comfort": "3 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "sDrive18i Comfort": 1499
+        },
+        "potencia_hp": {
+            "sDrive18i Comfort": "156"
+        },
+        "potencia_rpm": {
+            "sDrive18i Comfort": "4,900 – 6,500"
+        },
+        "torque_nm": {
+            "sDrive18i Comfort": "230"
+        },
+        "torque_rpm": {
+            "sDrive18i Comfort": "1,500 – 4,600"
+        },
+        "combustible": null,
+        "transmision": {
+            "sDrive18i Comfort": "Automática deportiva de doble embrague de 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "sDrive18i Comfort": null
+        },
+        "rueda_repuesto": "Neumático de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 4500,
+        "ancho_mm": 1845,
+        "alto_mm": 1642,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 205,
+        "peso_bruto_kg": 1500,
+        "capacidad_maletero_lts": "540 (1,600 con asientos abatidos)",
+        "capacidad_estanque_lts": 61,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento combinado (km/l)",
+            "sDrive18i Comfort": "15.3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Comfort Access",
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento automático en paralelo (volante, aceleración, frenos y marchas)",
+            "Asistente de reversa (memoriza últimos 50 m a menos de 35 km/h para retroceder automáticamente en caso de necesitar volver marcha atrás)",
+            "Sensores de estacionamiento delanteros y traseros (PDC)",
+            "Cámara de retroceso",
+            "Llantas de aleación 17”",
+            "BMW Welcome Light Carpet",
+            "Operación automática de portón trasero"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Asientos de cuero vegano Veganza perforado",
+            "Asientos delanteros calefaccionados con regulación eléctrica y memoria",
+            "Volante deportivo de cuero multifunción",
+            "Alfrombrilla de velours",
+            "Paquete de iluminación ambiental",
+            "Terminaciones interiores en “silver”",
+            "Compartimiento de carga inalámbrica para smartphone"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Neumático de emergencia"
+        ],
+        "tecnologia": [
+            "Sistema de sonido HiFi",
+            "BMW Live Cockpit Plus",
+            "Pantalla de panel de instrumentos digital de 10,25’’ (1920x720 pixeles)",
+            "Pantalla de control de alta resolución (1920x960 pixeles) de 10,7’’",
+            "Sistema operativo BMW iDrive 9.0 con widgets y pantallas personalizables",
+            "Preparación para Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, Audiobooks))"
+        ],
+        "adas": [
+            "Sensores de lluvia y luz (con asistencia de luces altas)",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero con función de frenado",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_all_new_bmw_x1_sdrive18i_comfort_1.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

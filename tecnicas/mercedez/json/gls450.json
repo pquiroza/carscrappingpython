@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLS",
+        "año": null,
+        "versiones": [
+            "GLS 450d 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLS 450d 4MATIC": "6 en línea"
+        },
+        "cilindrada": {
+            "GLS 450d 4MATIC": 2989
+        },
+        "potencia_hp": {
+            "GLS 450d 4MATIC": "367 CV (+20 CV)"
+        },
+        "potencia_rpm": {
+            "GLS 450d 4MATIC": null
+        },
+        "torque_nm": {
+            "GLS 450d 4MATIC": "750 Nm (+200Nm)"
+        },
+        "torque_rpm": {
+            "GLS 450d 4MATIC": null
+        },
+        "combustible": {
+            "GLS 450d 4MATIC": "Diésel"
+        },
+        "transmision": {
+            "GLS 450d 4MATIC": "9G-TRONIC"
+        },
+        "traccion": {
+            "GLS 450d 4MATIC": "Integral 4MATIC"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos de freno de mayores dimensiones en el eje delantero",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLS 450d 4MATIC": "Delante: 285/45 R22 - Detrás: 325/40 R22"
+        },
+        "rueda_repuesto": {
+            "GLS 450d 4MATIC": "Rueda plegable"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 355,
+        "capacidad_estanque_lts": 90,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLS 450d 4MATIC": "250 Km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLS 450d 4MATIC": "6,1 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLS 450d 4MATIC": "12 Km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "GLS 450d 4MATIC": "AMG Night Line con cristales calorífugos"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "GLS 450d 4MATIC": "Delante: 285/45 R22 - Detrás: 325/40 R22"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "GLS 450d 4MATIC": "Iluminados en efecto aluminio con tacos de goma"
+            },
+            {
+                "caracteristica": "Servocierre",
+                "GLS 450d 4MATIC": "Cómodo cierre y sujeción eléctrico de las puertas del vehículo"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "GLS 450d 4MATIC": "Incluye cierre automático en caso de lluvia"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz y volante",
+                "GLS 450d 4MATIC": "Cuero ÁRTICO y volante deportivo multifunción forrado en napa"
+            },
+            {
+                "caracteristica": "Moldura",
+                "GLS 450d 4MATIC": "Madera de roble antracita de poros abiertos"
+            },
+            {
+                "caracteristica": "Asientos delanteros con ajuste ergonómico y 4 vías de ajuste",
+                "GLS 450d 4MATIC": "Incluye memorias, ajuste eléctrico y climatizados"
+            },
+            {
+                "caracteristica": "Plazas traseras calefactadas",
+                "GLS 450d 4MATIC": "3 corridas de asientos para ingresar 7 personas"
+            },
+            {
+                "caracteristica": "Climatización THERMOTRONIC",
+                "GLS 450d 4MATIC": "Automática de 4 zonas"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de serie",
+                "GLS 450d 4MATIC": "Incluye Windowbags + Airbag de rodillas + Airbags laterales atrás"
+            },
+            {
+                "caracteristica": "Paquete de asistencia a la conducción DISTRONIC",
+                "GLS 450d 4MATIC": "Asistente activo de dirección distancia y cambio de carril"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "GLS 450d 4MATIC": "Incluye función de advertencia de salida y maniobra evasiva"
+            },
+            {
+                "caracteristica": "Protección preventiva PRE-SAFE®",
+                "GLS 450d 4MATIC": "Medidas de seguridad ante peligro inminente"
+            },
+            {
+                "caracteristica": "Keyless Go",
+                "GLS 450d 4MATIC": "Incluye acceso Hands Free-Access y portón EASY PACK"
+            },
+            {
+                "caracteristica": "Suspensión AIRMATIC",
+                "GLS 450d 4MATIC": "Incluye sistema de control de nivel y descenso de la parte posterior"
+            },
+            {
+                "caracteristica": "Ayuda activa para aparcar con PARKTRONIC",
+                "GLS 450d 4MATIC": "Incluye cámara 360° y visual de capó transparente"
+            },
+            {
+                "caracteristica": "Protección del vehículo GUARD 360°",
+                "GLS 450d 4MATIC": "Incluye alarma y sensores volumétricos"
+            },
+            {
+                "caracteristica": "Attention Assist",
+                "GLS 450d 4MATIC": "Sistema de alerta por cansancio"
+            },
+            {
+                "caracteristica": "Rueda plegable",
+                "GLS 450d 4MATIC": "Incluye herramientas para cambio de rueda"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLS 450d 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLS 450d 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Puesto de conducción con pantalla ancha",
+                "GLS 450d 4MATIC": "12,3 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "GLS 450d 4MATIC": "12,3 pulgadas"
+            },
+            {
+                "caracteristica": "EQ Boost",
+                "GLS 450d 4MATIC": "Hibridación parcial con alternador arrancador integrado"
+            },
+            {
+                "caracteristica": "Visualización Off Road",
+                "GLS 450d 4MATIC": "Cadena cinemática específica para todoterreno"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente",
+                "GLS 450d 4MATIC": "64 colores y 10 conceptos cromáticos activos"
+            },
+            {
+                "caracteristica": "Faros Multibeam LED",
+                "GLS 450d 4MATIC": "Faros LED adaptativos con luces de carretera ULTRA RANGE"
+            },
+            {
+                "caracteristica": "Integración de Smartphone inalámbrico",
+                "GLS 450d 4MATIC": "Incluye carga inalámbrica para plazas delanteras"
+            },
+            {
+                "caracteristica": "Realidad aumentada MBUX",
+                "GLS 450d 4MATIC": "Imágenes en visualizador con información gráfica sobre navegación"
+            },
+            {
+                "caracteristica": "Sistema de sonido Surround Burmester®",
+                "GLS 450d 4MATIC": "13 altavoces, 590 vatios de potencia y Dolby Atmos®"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLS (ticket=true, vacío o -=false; texto respetado tal cual documento).",
+        "fuente": "Ficha_Tecnica_GLS_450d_digital_wwa.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información disponible de especificaciones, seguridad, tecnología, equipamiento exterior e interior."
+    }
+}

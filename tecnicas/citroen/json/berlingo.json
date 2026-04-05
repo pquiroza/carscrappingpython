@@ -1,0 +1,147 @@
+{
+    "vehiculo": {
+        "marca": "CITROËN",
+        "modelo": "BERLINGO MULTISPACE",
+        "año": null,
+        "versiones": [
+            "100_HP_MT_XL_PLUS",
+            "130_HP_AT_XL_PLUS"
+        ]
+    },
+    "motor": {
+        "tipo": "Turbo Diésel",
+        "cilindrada": "1499",
+        "potencia_hp": "100 / 130",
+        "potencia_rpm": "3500 / 3750",
+        "torque_nm": "250 / 300",
+        "torque_rpm": "1750",
+        "combustible": "Diesel",
+        "transmision": "Manual 6 / Automática 8",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Mecanismo mecánico con asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo Mac Pherson con barra estabilizadora",
+        "suspension_trasera": "Eje de traviesa deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": {
+            "100_HP_MT_XL_PLUS": "205/60 R16",
+            "130_HP_AT_XL_PLUS": "205/60 R16"
+        },
+        "rueda_repuesto": {
+            "100_HP_MT_XL_PLUS": true,
+            "130_HP_AT_XL_PLUS": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": "4753",
+        "distancia_ejes_mm": "2975",
+        "ancho_mm": "2107",
+        "alto_mm": "1843-1849",
+        "capacidad_estanque_lts": "50"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "100_HP_MT_XL_PLUS": "12.9",
+            "130_HP_AT_XL_PLUS": "11.5"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "100_HP_MT_XL_PLUS": "170",
+            "130_HP_AT_XL_PLUS": "184"
+        },
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "100_HP_MT_XL_PLUS": "16.6",
+            "130_HP_AT_XL_PLUS": "18.0"
+        },
+        {
+            "caracteristica": "Consumo extraurbano (km/l)",
+            "100_HP_MT_XL_PLUS": "21.1",
+            "130_HP_AT_XL_PLUS": "20.3"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "100_HP_MT_XL_PLUS": "19.2",
+            "130_HP_AT_XL_PLUS": "19.4"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Tara nominal",
+            "100_HP_MT_XL_PLUS": "1540",
+            "130_HP_AT_XL_PLUS": "1575"
+        },
+        {
+            "caracteristica": "Carga útil",
+            "100_HP_MT_XL_PLUS": "770",
+            "130_HP_AT_XL_PLUS": "725"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Remolque con freno",
+            "100_HP_MT_XL_PLUS": "1100",
+            "130_HP_AT_XL_PLUS": "1100"
+        },
+        {
+            "caracteristica": "Remolque sin freno",
+            "100_HP_MT_XL_PLUS": "750",
+            "130_HP_AT_XL_PLUS": "750"
+        }
+    ],
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "ESP",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Hill Assist",
+            "Control de estabilidad",
+            "Detector presión neumáticos"
+        ],
+        "comfort": [
+            "Aire acondicionado",
+            "Control crucero",
+            "Sensor estacionamiento trasero",
+            "Entrada y arranque sin llave",
+            "Volante cuero",
+            "Asientos regulables",
+            "Espejo electrocromado"
+        ],
+        "multimedia": [
+            "Pantalla táctil 7\"",
+            "Bluetooth",
+            "Android Auto",
+            "Apple CarPlay",
+            "USB",
+            "Mirror Screen"
+        ],
+        "exterior": [
+            "Llantas aleación 16\"",
+            "Faros antiniebla",
+            "Barras de techo",
+            "Vidrios traseros tinteados"
+        ]
+    },
+    "equipamiento_diferencial_detallado": {
+        "tecnologia": [
+            {
+                "caracteristica": "Carga inalámbrica smartphone",
+                "100_HP_MT_XL_PLUS": false,
+                "130_HP_AT_XL_PLUS": false
+            }
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura literal tabla",
+        "fuente": "Ficha Técnica Citroën Berlingo Multispace",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exclusivamente de la tabla técnica página 2."
+    }
+}

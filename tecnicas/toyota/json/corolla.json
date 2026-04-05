@@ -1,0 +1,263 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "COROLLA",
+        "año": null,
+        "versiones": [
+            "XLI 1.6 6MT",
+            "XEI 2.0 6MT",
+            "XEI 2.0 CVT",
+            "SEG 1.8 CVT HEV"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": "1.598 / 1.987 / 1.798",
+        "potencia_hp": "130 / 170 / 122",
+        "potencia_rpm": "6.400 / 4.400 / 5.200",
+        "torque_nm": "159 / 200 / 142",
+        "torque_rpm": "4.200 / 4.400 / 3.600",
+        "combustible": "Gasolina / Gasolina-Eléctrico",
+        "transmision": null,
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Macpherson",
+        "suspension_trasera": "Doble horquilla",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "neumaticos": null,
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4.630",
+        "ancho_mm": "1.780",
+        "alto_mm": "1.435 / 1.455",
+        "distancia_ejes_mm": "2.700",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "470",
+        "capacidad_estanque_lts": "50 / 43"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "XLI_1.6_6MT": "205 / 56R16",
+            "XEI_2.0_6MT": "225 / 45R17",
+            "XEI_2.0_CVT": "225 / 45R17",
+            "SEG_1.8_CVT_HEV": "225 / 45R17"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso neto (kg)",
+            "XLI_1.6_6MT": null,
+            "XEI_2.0_6MT": null,
+            "XEI_2.0_CVT": null,
+            "SEG_1.8_CVT_HEV": null
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga util (kg)",
+            "XLI_1.6_6MT": null,
+            "XEI_2.0_6MT": null,
+            "XEI_2.0_CVT": null,
+            "SEG_1.8_CVT_HEV": null
+        },
+        {
+            "caracteristica": "Numero de pasajeros",
+            "XLI_1.6_6MT": null,
+            "XEI_2.0_6MT": null,
+            "XEI_2.0_CVT": null,
+            "SEG_1.8_CVT_HEV": null
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "XLI_1.6_6MT": "17,7",
+            "XEI_2.0_6MT": "18,9",
+            "XEI_2.0_CVT": "19,9",
+            "SEG_1.8_CVT_HEV": "18,3"
+        },
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "XLI_1.6_6MT": "11,1",
+            "XEI_2.0_6MT": "11,2",
+            "XEI_2.0_CVT": "12,5",
+            "SEG_1.8_CVT_HEV": "33,1"
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "XLI_1.6_6MT": "14,5",
+            "XEI_2.0_6MT": "15,1",
+            "XEI_2.0_CVT": "16,4",
+            "SEG_1.8_CVT_HEV": "21,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "XLI_1.6_6MT": "Tela",
+                "XEI_2.0_6MT": "Cuero",
+                "XEI_2.0_CVT": "Cuero",
+                "SEG_1.8_CVT_HEV": "Cuero"
+            },
+            {
+                "caracteristica": "Asiento del conductor con regulación eléctrica",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Smart Key y botón de encendido",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Control crucero",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "Control crucero adaptativo"
+            },
+            {
+                "caracteristica": "Display a bordo con pantalla",
+                "XLI_1.6_6MT": "4,2”",
+                "XEI_2.0_6MT": "7”",
+                "XEI_2.0_CVT": "7”",
+                "SEG_1.8_CVT_HEV": "7”"
+            },
+            {
+                "caracteristica": "Espejo retrovisor interno antiencandilamiento automático (EC)",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Eco Drive",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "1 Modo",
+                "XEI_2.0_CVT": "2 Modos",
+                "SEG_1.8_CVT_HEV": "3 Modos"
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "NO",
+                "SEG_1.8_CVT_HEV": null
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Neblineros delanteros LED",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Espejos exteriores plegables eléctricamente",
+                "XLI_1.6_6MT": "SI",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI (Automático)"
+            },
+            {
+                "caracteristica": "Moonroof",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "SI",
+                "XEI_2.0_CVT": "SI",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "XLI_1.6_6MT": "SI",
+                "XEI_2.0_6MT": "Climatizador automático",
+                "XEI_2.0_CVT": "Climatizador automático",
+                "SEG_1.8_CVT_HEV": "Climatizador automático (Bi-zona)"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Toyota Safety Sense*",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "NO",
+                "XEI_2.0_CVT": "NO",
+                "SEG_1.8_CVT_HEV": "SI"
+            },
+            {
+                "caracteristica": "Sensores delanteros y traseros",
+                "XLI_1.6_6MT": "NO",
+                "XEI_2.0_6MT": "NO",
+                "XEI_2.0_CVT": "NO",
+                "SEG_1.8_CVT_HEV": "SI"
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Asientos traseros abatibles 60/40 (SI)",
+            "Asiento del conductor con regulación vertical (SI)",
+            "Apertura a distancia de puertas y maleta (SI)",
+            "Control de mandos al volante (SI)",
+            "Volante regulable en altura y profundidad (SI)",
+            "Apoyabrazos traseros (SI)",
+            "Audio con Radio de 9” Touch / MP3 / Bluetooth con Apple Car Play / Android Auto",
+            "Número de parlantes (6)",
+            "Toma de 12V & USB bajo apoyabrazos (SI)",
+            "SRS Airbag (7) (Conductor, rodilla conductor, pasajero, laterales y cortina)"
+        ],
+        "exterior": [
+            "Llantas de aleación (SI)",
+            "Neblineros traseros (SI)",
+            "Luces conducción diurna LED (SI)",
+            "Sistema automático de encendido de luces (SI)",
+            "Alzavidrios eléctricos (one touch) (SI) (4 puertas)"
+        ],
+        "seguridad": [
+            "Anclajes ISOFIX (SI)",
+            "Carrocería con deformación programada (GOA) (SI)",
+            "Frenos delanteros / traseros (Discos ventilados)",
+            "Sistema de frenos ABS + BA+ EBD (SI)",
+            "Seguro para niños en puertas traseras (SI)",
+            "Alertas de uso de cinturones de seguridad delanteros (SI)",
+            "Cinturones de seguridad traseros de 3 puntos inerciales (SI)",
+            "Control de estabilidad (VSC) (SI)",
+            "Control de asistencia en pendiente (HAC) (SI)",
+            "Cámara retroceso (SI)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Corolla_SD26.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Valores copiados desde la tabla de ESPECIFICACIONES TÉCNICAS. Donde el PDF no entrega el dato por versión o el texto aparece incompleto, se dejó null."
+    }
+}

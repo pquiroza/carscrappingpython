@@ -1,0 +1,149 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X2",
+        "año": null,
+        "versiones": [
+            "sDrive20i Dynamic"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "sDrive20i Dynamic": "Gasolina. 3 cilindros BMW TwinPower Turbo Mild Hybird"
+        },
+        "cilindrada": {
+            "sDrive20i Dynamic": 1449
+        },
+        "potencia_hp": {
+            "sDrive20i Dynamic": "170"
+        },
+        "potencia_rpm": {
+            "sDrive20i Dynamic": "4,700 – 4,400"
+        },
+        "torque_nm": {
+            "sDrive20i Dynamic": "280"
+        },
+        "torque_rpm": {
+            "sDrive20i Dynamic": "1,500 – 4,400"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "sDrive20i Dynamic": "Automática deportiva de doble embrague de 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "sDrive20i Dynamic": null
+        },
+        "rueda_repuesto": "Kit de reparación de neumático"
+    },
+    "dimensiones": {
+        "largo_mm": 4554,
+        "ancho_mm": 1845,
+        "alto_mm": 1590,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 207,
+        "peso_bruto_kg": 1570,
+        "capacidad_maletero_lts": "560 L (ampliables a 1470 L con asientos reclinados)",
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "sDrive20i Dynamic": "8.3"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "sDrive20i Dynamic": "213"
+        },
+        {
+            "caracteristica": "Consumo promedio (km/l)",
+            "sDrive20i Dynamic": "16,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Parking Assistant: Sistema de asistente basado en cámara y en ultrasonidos compuesto por Asistente de aparcamiento",
+            "Control activo de distancia de aparcamiento",
+            "Asistente de marcha atrás",
+            "Ayuda de aparcamiento lateral",
+            "Cámara trasera con sensores delanteros y trasero",
+            "Llantas de aleación 18 pulgadas",
+            "BMW Welcome Light Carpet"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Asientos delanteros eléctricos con memoria, tapiz Veganza perforado",
+            "Operación automática de portón trasero",
+            "Sistema de acceso sin llaves Comfort Access con apertura y cierre por proximidad",
+            "Alfrombrilla de velours",
+            "Espejos exteriores eléctricos abatibles",
+            "Espejos int./ext. Anti-deslumbramiento automáticos"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Kit de reparación de neumático"
+        ],
+        "tecnologia": [
+            "Combinación de pantalla panorámica curva con cuadro de instrumentos de 10,25\" y pantalla CID de 10,7\"",
+            "BMW Operating System 9 con widgets variables y configurables que muestran información en tiempo real",
+            "BMW Intelligent Personal Assistant (control por voz natural mediante el comando \"Hey BMW\")",
+            "Panel de mando táctil en el display de control",
+            "Elementos de mando en el volante multifuncional para el cuadro de instrumentos, audio y teléfono con teclas de marcación",
+            "Sintonizador con recepción de antena Diversity y RDS (radio AM [disponibilidad específica del país] y radio FM)",
+            "Integración del teléfono móvil para usar Apple CarPlay o Android Auto",
+            "Bluetooth/WiFi con sistema de manos libres",
+            "Bandeja para carga inalámbrica de dispositivos móviles"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos (función de luz para mal tiempo, elementos en azul, etc)",
+            "Asistente de luces en carretera",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero",
+            "Driving Assistant: Sistema de asistencia al conductor basado en radar compuesto por aviso de cambio de carril con control de punto ciego e intervención de volante",
+            "Aviso de tráfico transversal trasero con intervención en el freno",
+            "Aviso de salida al abrir puertas y detectar objetos que se aproximan (vehículos, ciclistas)",
+            "Prevención de colisión por alcance"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_all_new_bmw_x2_sdrive20i_dynamic.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

@@ -1,0 +1,491 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "CX-60",
+        "año": null,
+        "versiones": [
+            "PRIME",
+            "PREMIUM SPORT G",
+            "PREMIUM SPORT D",
+            "SIGNATURE PHEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PRIME": "2.5 aspirado 4 en línea",
+            "PREMIUM SPORT G": "3.3 MHEV turbo 6 en línea",
+            "PREMIUM SPORT D": "3.3 MHEV turbo 6 en línea",
+            "SIGNATURE PHEV": "2.5 PHEV aspirado 4 en línea"
+        },
+        "cilindrada": {
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": null
+        },
+        "potencia_hp": {
+            "PRIME": "185",
+            "PREMIUM SPORT G": "280",
+            "PREMIUM SPORT D": "250",
+            "SIGNATURE PHEV": "189"
+        },
+        "potencia_rpm": {
+            "PRIME": "6.000",
+            "PREMIUM SPORT G": "5.000 - 6.000",
+            "PREMIUM SPORT D": "3.750",
+            "SIGNATURE PHEV": "6.000"
+        },
+        "torque_nm": {
+            "PRIME": "250",
+            "PREMIUM SPORT G": "450",
+            "PREMIUM SPORT D": "550",
+            "SIGNATURE PHEV": "261"
+        },
+        "torque_rpm": {
+            "PRIME": "3.000",
+            "PREMIUM SPORT G": "2.000 - 3.500",
+            "PREMIUM SPORT D": "1.500 - 2.400",
+            "SIGNATURE PHEV": "4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "PRIME": "Automática de 8 velocidades",
+            "PREMIUM SPORT G": "Automática de 8 velocidades",
+            "PREMIUM SPORT D": "Automática de 8 velocidades",
+            "SIGNATURE PHEV": "Automática de 8 velocidades"
+        },
+        "traccion": {
+            "PRIME": "AWD con predominancia trasera",
+            "PREMIUM SPORT G": "AWD con predominancia trasera",
+            "PREMIUM SPORT D": "AWD con predominancia trasera",
+            "SIGNATURE PHEV": "AWD con predominancia trasera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": {
+            "PRIME": "17'' Ventilados",
+            "PREMIUM SPORT G": "17'' Ventilados",
+            "PREMIUM SPORT D": "17'' Ventilados",
+            "SIGNATURE PHEV": "18'' Ventilados"
+        },
+        "frenos_traseros": {
+            "PRIME": "17'' Ventilados",
+            "PREMIUM SPORT G": "17'' Ventilados",
+            "PREMIUM SPORT D": "17'' Ventilados",
+            "SIGNATURE PHEV": "17'' Ventilados"
+        },
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "PRIME": "235/60 R18",
+            "PREMIUM SPORT G": "235/50 R20",
+            "PREMIUM SPORT D": "235/50 R20",
+            "SIGNATURE PHEV": "235/50 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4740,
+        "ancho_mm": 1890,
+        "alto_mm": 1688,
+        "distancia_ejes_mm": 2870,
+        "despeje_suelo_mm": {
+            "PRIME": 170,
+            "PREMIUM SPORT G": 175,
+            "PREMIUM SPORT D": 175,
+            "SIGNATURE PHEV": 175
+        },
+        "peso_bruto_kg": {
+            "PRIME": 2344,
+            "PREMIUM SPORT G": 2496,
+            "PREMIUM SPORT D": 2495,
+            "SIGNATURE PHEV": 2679
+        },
+        "capacidad_maletero_lts": 570,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (Km/Lt.)",
+            "PRIME": "13,6",
+            "PREMIUM SPORT G": "13,1",
+            "PREMIUM SPORT D": "20,4",
+            "SIGNATURE PHEV": "11,7 / 47,6"
+        },
+        {
+            "caracteristica": "Motor eléctrico potencia máxima (HP)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "129"
+        },
+        {
+            "caracteristica": "Motor eléctrico torque máximo (Nm)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "270"
+        },
+        {
+            "caracteristica": "Capacidad batería (kWh)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "17,8"
+        },
+        {
+            "caracteristica": "Voltaje batería (V)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "355"
+        },
+        {
+            "caracteristica": "Autonomía máxima / ciclo de conducción (Km/NEDC)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "76"
+        },
+        {
+            "caracteristica": "Sistema combinado potencia máxima (HP)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "327"
+        },
+        {
+            "caracteristica": "Sistema combinado torque máximo (Nm)",
+            "PRIME": null,
+            "PREMIUM SPORT G": null,
+            "PREMIUM SPORT D": null,
+            "SIGNATURE PHEV": "500"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Diseño",
+                "PRIME": "Prime pack",
+                "PREMIUM SPORT G": "Black premium pack",
+                "PREMIUM SPORT D": "Black premium pack",
+                "SIGNATURE PHEV": "Signature pack / Black Premium Pack"
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos abatibles, auto dimming y defroster",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": true,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Color espejos exteriores",
+                "PRIME": "Carrocería",
+                "PREMIUM SPORT G": "Piano Black",
+                "PREMIUM SPORT D": "Piano Black",
+                "SIGNATURE PHEV": "Carrocería / Piano Black"
+            },
+            {
+                "caracteristica": "Techo panorámico con apertura eléctrica",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": true,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados oscuros",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": true,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "PRIME": "235/60 R18",
+                "PREMIUM SPORT G": "235/50 R20",
+                "PREMIUM SPORT D": "235/50 R20",
+                "SIGNATURE PHEV": "235/50 R20"
+            },
+            {
+                "caracteristica": "Tipo llantas",
+                "PRIME": "Gris Metalizado",
+                "PREMIUM SPORT G": "Negro Metalizado",
+                "PREMIUM SPORT D": "Negro Metalizado",
+                "SIGNATURE PHEV": "Bitono / negro metalizado"
+            },
+            {
+                "caracteristica": "Puerta maletero eléctrica con apertura de manos libres",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": true,
+                "SIGNATURE PHEV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sistema Multimedia Mazda connect (Pantalla 12\")",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Android Auto Cable / Carplay Inalámbrico",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Audio",
+                "PRIME": "12 Bose con subwoofer",
+                "PREMIUM SPORT G": "12 Bose con subwoofer",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "12 Bose con subwoofer"
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Regulación de altura y profundidad eléctrico",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "PRIME": "Bi-Zona",
+                "PREMIUM SPORT G": "Bi-Zona",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Bi-Zona"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "PRIME": "Black Leather",
+                "PREMIUM SPORT G": "Black / Tan Nappa Leather",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Black / Tan Nappa Leather"
+            },
+            {
+                "caracteristica": "Tipo de regulación asientos delanteros",
+                "PRIME": null,
+                "PREMIUM SPORT G": "Eléctrico conductor y copiloto",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Eléctrico conductor y copiloto"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "PRIME": "Delanteros",
+                "PREMIUM SPORT G": null,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Asientos con función enfriamiento",
+                "PRIME": false,
+                "PREMIUM SPORT G": false,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Delanteros"
+            },
+            {
+                "caracteristica": "Cubre equipaje",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de personalización del conductor",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Mi-Drive: Mazda Intelligent Drive",
+                "PRIME": "Normal + Sport + Off Road",
+                "PREMIUM SPORT G": "Normal + Sport + Off Road",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Normal + Sport + Off road + EV"
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (MRCC)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Airbag",
+                "PRIME": "2 frontales + 2 laterales + 2 cortina + 1 rodilla conductor",
+                "PREMIUM SPORT G": "2 frontales + 2 laterales + 2 cortina + 1 rodilla conductor",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "2 frontales + 2 laterales + 2 cortina + 1 rodilla conductor"
+            },
+            {
+                "caracteristica": "Adaptative led headlight (ALH)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "PRIME": "Traseros / delanteros",
+                "PREMIUM SPORT G": "Traseros / delanteros",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Traseros / delanteros"
+            },
+            {
+                "caracteristica": "Cámara 360º",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero/delantero (RCTA/FCTA)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia de salida de carril (LDWS)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de asistencia al mantenimiento de carril (LAS)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Asistencia frenado emergencia (SBS)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Control descenso",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de apertura",
+                "PRIME": "Smart Keyless",
+                "PREMIUM SPORT G": "Smart Keyless",
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": "Smart Keyless"
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en movimiento",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            },
+            {
+                "caracteristica": "i-STOP: Sistema de apagado y encendido automático del motor",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": false
+            },
+            {
+                "caracteristica": "G-vectoring Control Plus (GVC Plus)",
+                "PRIME": true,
+                "PREMIUM SPORT G": true,
+                "PREMIUM SPORT D": null,
+                "SIGNATURE PHEV": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Cristal",
+        "Plata Metalizado",
+        "Plata Cuarzo",
+        "Rojo Cristal",
+        "Azul Oscuro Metalizado",
+        "Grís Metálico",
+        "Negro",
+        "Bitono (Negro / Grís Metalizado)"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "mazda-ficha-tecnica-mazda-cx-60_vnov-2025.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó toda la información visible del documento. La ficha muestra con claridad PRIME, PREMIUM SPORT G y SIGNATURE PHEV en las tablas de interior y seguridad; para PREMIUM SPORT D, cuando el dato no aparece legible en esas tablas, se dejó null para no inventar información."
+    }
+}

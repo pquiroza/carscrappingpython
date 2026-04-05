@@ -1,0 +1,251 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "Soluto",
+        "año": null,
+        "versiones": [
+            "LX 1.4L 5MT",
+            "LX 1.4L 5MT HIGH",
+            "EX 1.4L 5MT FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 1.4L 5MT": "MPI",
+            "LX 1.4L 5MT HIGH": "MPI",
+            "EX 1.4L 5MT FULL": "MPI"
+        },
+        "cilindrada": {
+            "LX 1.4L 5MT": 1368,
+            "LX 1.4L 5MT HIGH": 1368,
+            "EX 1.4L 5MT FULL": 1368
+        },
+        "potencia_hp": {
+            "LX 1.4L 5MT": "94",
+            "LX 1.4L 5MT HIGH": "94",
+            "EX 1.4L 5MT FULL": "94"
+        },
+        "potencia_rpm": {
+            "LX 1.4L 5MT": "6.000",
+            "LX 1.4L 5MT HIGH": "6.000",
+            "EX 1.4L 5MT FULL": "6.000"
+        },
+        "torque_nm": {
+            "LX 1.4L 5MT": "132",
+            "LX 1.4L 5MT HIGH": "132",
+            "EX 1.4L 5MT FULL": "132"
+        },
+        "torque_rpm": {
+            "LX 1.4L 5MT": "4.000",
+            "LX 1.4L 5MT HIGH": "4.000",
+            "EX 1.4L 5MT FULL": "4.000"
+        },
+        "combustible": "Gasolina (95)",
+        "transmision": {
+            "LX 1.4L 5MT": "Mecánica 5 velocidades",
+            "LX 1.4L 5MT HIGH": "Mecánica 5 velocidades",
+            "EX 1.4L 5MT FULL": "Mecánica 5 velocidades"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (C-MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson Strut con estabilizador",
+        "suspension_trasera": "Barra torsión",
+        "frenos_delanteros": "ABS con EBD",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LX 1.4L 5MT": "175/70R14",
+            "LX 1.4L 5MT HIGH": "175/70R14",
+            "EX 1.4L 5MT FULL": "175/70R14"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4300,
+        "ancho_mm": 1700,
+        "alto_mm": 1460,
+        "distancia_ejes_mm": 2570,
+        "despeje_suelo_mm": 150,
+        "peso_bruto_kg": 1450,
+        "capacidad_maletero_lts": 475,
+        "capacidad_estanque_lts": 43,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado/Mixto (km/l)",
+            "LX 1.4L 5MT": "16,5",
+            "LX 1.4L 5MT HIGH": "16,5",
+            "EX 1.4L 5MT FULL": "16,5"
+        },
+        {
+            "caracteristica": "Urbano sin autopista (km/l)",
+            "LX 1.4L 5MT": "12,9",
+            "LX 1.4L 5MT HIGH": "12,9",
+            "EX 1.4L 5MT FULL": "12,9"
+        },
+        {
+            "caracteristica": "Urbano con autopista urbana (km/l)",
+            "LX 1.4L 5MT": "17,6",
+            "LX 1.4L 5MT HIGH": "17,6",
+            "EX 1.4L 5MT FULL": "17,6"
+        },
+        {
+            "caracteristica": "Rural con autopista rural (km/l)",
+            "LX 1.4L 5MT": "18,8",
+            "LX 1.4L 5MT HIGH": "18,8",
+            "EX 1.4L 5MT FULL": "18,8"
+        },
+        {
+            "caracteristica": "Autopista interurbana (km/l)",
+            "LX 1.4L 5MT": "15,8",
+            "LX 1.4L 5MT HIGH": "15,8",
+            "EX 1.4L 5MT FULL": "15,8"
+        },
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "LX 1.4L 5MT": "12,2",
+            "LX 1.4L 5MT HIGH": "12,2",
+            "EX 1.4L 5MT FULL": "12,2"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "LX 1.4L 5MT": "180",
+            "LX 1.4L 5MT HIGH": "180",
+            "EX 1.4L 5MT FULL": "180"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Neblineros delanteros",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": false,
+                "EX 1.4L 5MT FULL": true
+            },
+            {
+                "caracteristica": "Sunroof delantero",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": false,
+                "EX 1.4L 5MT FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio digital 3.8\" AUX/USB",
+                "LX 1.4L 5MT": true,
+                "LX 1.4L 5MT HIGH": false,
+                "EX 1.4L 5MT FULL": false
+            },
+            {
+                "caracteristica": "Radio touch con pantalla LCD 7\"",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": true,
+                "EX 1.4L 5MT FULL": true
+            },
+            {
+                "caracteristica": "Conect. inalámbrica Apple Carplay & Android Auto",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": true,
+                "EX 1.4L 5MT FULL": true
+            },
+            {
+                "caracteristica": "Palanca de cambios con moldura cromada",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": false,
+                "EX 1.4L 5MT FULL": true
+            },
+            {
+                "caracteristica": "Asiento conductor regulable en altura",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": false,
+                "EX 1.4L 5MT FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de retroceso incorporada en radio",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": true,
+                "EX 1.4L 5MT FULL": true
+            },
+            {
+                "caracteristica": "Sensor trasero de estacionamiento",
+                "LX 1.4L 5MT": false,
+                "LX 1.4L 5MT HIGH": false,
+                "EX 1.4L 5MT FULL": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos",
+            "Espejos exteriores color carrocería",
+            "Nivelación manual de focos delanteros",
+            "Luces delanteras halógenas",
+            "Manillas exteriores color carrocería",
+            "Parachoques color carrocería",
+            "Guardafangos delanteros y traseros",
+            "Vidrios tintados (leve)",
+            "Llantas de aleación aro 14\"",
+            "Rueda de repuesto temporal"
+        ],
+        "interior": [
+            "Puerto USB - Conexión AUX",
+            "Toma corriente 12V",
+            "Bluetooth",
+            "Control de audio en volante",
+            "Tweeters",
+            "Alzavidrios eléctricos totales",
+            "Computador a bordo 2,8\" LCD",
+            "Apoyabrazo en asiento conductor",
+            "Volante regulable en altura",
+            "Posavasos delantero con compartimiento",
+            "Apertura remota de puertas (Keyless entry)",
+            "Parasol pasajero con espejo",
+            "Aire acondicionado",
+            "Luz en maletero"
+        ],
+        "seguridad": [
+            "Barras de protección doble de acero en las puertas",
+            "Carrocería con deformación programada",
+            "Columna de dirección colapsable",
+            "Estructura de acero de máxima resistencia",
+            "Cierre centralizado de puertas",
+            "Cierre centralizado por alcance de velocidad",
+            "Inmovilizador",
+            "Anclaje ISOFIX",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad traseros de 3 puntas",
+            "Alerta de cint. de seguridad para todos los asientos",
+            "Seguro para niños en asientos traseros",
+            "Airbags frontales",
+            "Neblinero trasero*",
+            "Frenos ABS con EBD",
+            "Control de estabilidad (ESC)",
+            "Asistente de partida en pendiente (HAC)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO INVIERNO (UD)",
+        "PLATA TITANIO (IM)",
+        "NEGRO AURORA (ABP)",
+        "ROJO ESCARLATA (H3R)",
+        "AZUL VELERO (DU3)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura de ficha técnica KIA Soluto (punto negro=true, punto blanco=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Kia-Soluto.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Primer bloque del PDF, ubicado entre las páginas 2 y 5. Códigos de versión: 2483, 2481, 2482."
+    }
+}

@@ -1,0 +1,558 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "Hunter",
+        "año": 2025,
+        "versiones": [
+            "COMFORT 4X2",
+            "LUXURY 4X2",
+            "COMFORT 4X4",
+            "ELITE SPORT 4X4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "COMFORT 4X2": "Motor DPF Adblue Euro VI-C",
+            "LUXURY 4X2": "Motor DPF Adblue Euro VI-C",
+            "COMFORT 4X4": "Motor DPF Adblue Euro VI-C",
+            "ELITE SPORT 4X4": "Motor DPF Adblue Euro VI-C"
+        },
+        "cilindrada": {
+            "COMFORT 4X2": 1996,
+            "LUXURY 4X2": 1996,
+            "COMFORT 4X4": 1996,
+            "ELITE SPORT 4X4": 1996
+        },
+        "potencia_hp": {
+            "COMFORT 4X2": "163",
+            "LUXURY 4X2": "163",
+            "COMFORT 4X4": "163",
+            "ELITE SPORT 4X4": "163"
+        },
+        "potencia_rpm": {
+            "COMFORT 4X2": "3600",
+            "LUXURY 4X2": "3600",
+            "COMFORT 4X4": "3600",
+            "ELITE SPORT 4X4": "3600"
+        },
+        "torque_nm": {
+            "COMFORT 4X2": "400",
+            "LUXURY 4X2": "400",
+            "COMFORT 4X4": "400",
+            "ELITE SPORT 4X4": "400"
+        },
+        "torque_rpm": {
+            "COMFORT 4X2": "1500-2500",
+            "LUXURY 4X2": "1500-2500",
+            "COMFORT 4X4": "1500-2500",
+            "ELITE SPORT 4X4": "1500-2500"
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "COMFORT 4X2": "Mecánica 6 velocidades + reversa",
+            "LUXURY 4X2": "Mecánica 6 velocidades + reversa",
+            "COMFORT 4X4": "Mecánica 6 velocidades + reversa",
+            "ELITE SPORT 4X4": "Mecánica 6 velocidades + reversa"
+        },
+        "traccion": {
+            "COMFORT 4X2": "4X2",
+            "LUXURY 4X2": "4X2",
+            "COMFORT 4X4": "4X4",
+            "ELITE SPORT 4X4": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida Hidraulicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mcpherson con Doble Bandeja",
+        "suspension_trasera": "Eje rígido resorte tipo Ballestas",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": {
+            "COMFORT 4X2": "Tambor",
+            "LUXURY 4X2": "Tambor",
+            "COMFORT 4X4": "Disco",
+            "ELITE SPORT 4X4": "Disco"
+        },
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "COMFORT 4X2": "265/65R17",
+            "LUXURY 4X2": "265/65R17",
+            "COMFORT 4X4": "265/65R17",
+            "ELITE SPORT 4X4": "265/60R18"
+        },
+        "rueda_repuesto": "Fierro"
+    },
+    "dimensiones": {
+        "largo_mm": 5330,
+        "ancho_mm": 1930,
+        "alto_mm": {
+            "COMFORT 4X2": 1835,
+            "LUXURY 4X2": 1835,
+            "COMFORT 4X4": 1875,
+            "ELITE SPORT 4X4": 1875
+        },
+        "distancia_ejes_mm": 3180,
+        "despeje_suelo_mm": 226,
+        "peso_bruto_kg": {
+            "COMFORT 4X2": 3050,
+            "LUXURY 4X2": 3050,
+            "COMFORT 4X4": 3080,
+            "ELITE SPORT 4X4": 3080
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 80,
+        "numero_pasajeros": 5,
+        "peso_neto_kg": {
+            "COMFORT 4X2": 2025,
+            "LUXURY 4X2": 2025,
+            "COMFORT 4X4": 2135,
+            "ELITE SPORT 4X4": 2135
+        },
+        "capacidad_carga": "800/1.000 kgs.",
+        "capacidad_arrastre": "Máximo 3.500 Kg",
+        "caja_carga_largo_x_ancho_x_alto_mm": "1.600 x 1.595 x 500"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "COMFORT 4X2": "10,5",
+            "LUXURY 4X2": "10,5",
+            "COMFORT 4X4": "10,5",
+            "ELITE SPORT 4X4": "10,5"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "COMFORT 4X2": "12,7",
+            "LUXURY 4X2": "12,7",
+            "COMFORT 4X4": "12,7",
+            "ELITE SPORT 4X4": "12,7"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "COMFORT 4X2": "11,8",
+            "LUXURY 4X2": "11,8",
+            "COMFORT 4X4": "11,8",
+            "ELITE SPORT 4X4": "11,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Función de encendido de focos mayores automático",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Barras Roof Rail",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Ganchos anclaje carga pick-up",
+                "COMFORT 4X2": true,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": false
+            },
+            {
+                "caracteristica": "Llantas",
+                "COMFORT 4X2": "Aleación Aro 17'' bitono",
+                "LUXURY 4X2": "Aleación Aro 17'' bitono",
+                "COMFORT 4X4": "Aleación Aro 17'' bitono",
+                "ELITE SPORT 4X4": "Aleación Aro 18'' Negras"
+            },
+            {
+                "caracteristica": "Manillas Exteriores De Puertas",
+                "COMFORT 4X2": "Color Carrocería",
+                "LUXURY 4X2": "Cromadas",
+                "COMFORT 4X4": "Color Carrocería",
+                "ELITE SPORT 4X4": "Negro"
+            },
+            {
+                "caracteristica": "Parachoques trasero",
+                "COMFORT 4X2": "Negro",
+                "LUXURY 4X2": "Negro",
+                "COMFORT 4X4": "Negro",
+                "ELITE SPORT 4X4": "Cromado"
+            },
+            {
+                "caracteristica": "Retrovisores Exteriores (Color)",
+                "COMFORT 4X2": "Color carrocería",
+                "LUXURY 4X2": "Cromados",
+                "COMFORT 4X4": "Color carrocería",
+                "ELITE SPORT 4X4": "Color carrocería"
+            },
+            {
+                "caracteristica": "Retrovisores Exteriores Abatibles",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": "Manualmente",
+                "COMFORT 4X4": "Manualmente",
+                "ELITE SPORT 4X4": "Eléctricamente"
+            },
+            {
+                "caracteristica": "Retrovisores Exteriores Ajustables",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": "Eléctrico desde el interior",
+                "COMFORT 4X4": "Eléctrico desde el interior",
+                "ELITE SPORT 4X4": "Eléctrico desde el interior"
+            },
+            {
+                "caracteristica": "Retrovisores Exteriores Calefaccionados (con defrost)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Pisaderas laterales",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "COMFORT 4X2": true,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": false
+            },
+            {
+                "caracteristica": "Climatizador",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": false
+            },
+            {
+                "caracteristica": "Climatizador con Ionizador",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Función de subida vidrio piloto one-touch con función anti-atrape",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Apoyabrazos Delantero Central",
+                "COMFORT 4X2": true,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Apoyabrazos Trasero Central",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Cámara punto ciego derecho (por botón)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Portavasos traseros central",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "COMFORT 4X2": "Tela",
+                "LUXURY 4X2": "Ecocuero-tela",
+                "COMFORT 4X4": "Tela",
+                "ELITE SPORT 4X4": "Ecocuero"
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Asiento Acompañante - Corredera",
+                "COMFORT 4X2": "Ajustable manualmente",
+                "LUXURY 4X2": "Ajustable manualmente",
+                "COMFORT 4X4": "Ajustable manualmente",
+                "ELITE SPORT 4X4": "Ajustable eléctricamente"
+            },
+            {
+                "caracteristica": "Asiento Acompañante - Regulación En Altura",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Asiento Acompañante - Respaldo",
+                "COMFORT 4X2": "Ajustable manualmente",
+                "LUXURY 4X2": "Ajustable manualmente",
+                "COMFORT 4X4": "Ajustable manualmente",
+                "ELITE SPORT 4X4": "Ajustable eléctricamente"
+            },
+            {
+                "caracteristica": "Asiento Conductor - Corredera",
+                "COMFORT 4X2": "Ajustable manualmente",
+                "LUXURY 4X2": "Ajustable manualmente",
+                "COMFORT 4X4": "Ajustable manualmente",
+                "ELITE SPORT 4X4": "Ajustable eléctricamente"
+            },
+            {
+                "caracteristica": "Asiento Conductor - Regulación En Altura",
+                "COMFORT 4X2": "Ajustable manualmente",
+                "LUXURY 4X2": "Ajustable manualmente",
+                "COMFORT 4X4": "Ajustable manualmente",
+                "ELITE SPORT 4X4": "Ajustable eléctricamente"
+            },
+            {
+                "caracteristica": "Asiento Conductor - Respaldo",
+                "COMFORT 4X2": "Ajustable manualmente",
+                "LUXURY 4X2": "Ajustable manualmente",
+                "COMFORT 4X4": "Ajustable manualmente",
+                "ELITE SPORT 4X4": "Ajustable eléctricamente"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Información De Temperatura Exterior",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Luneta Trasera Térmica (defroster)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Tipo Encendido",
+                "COMFORT 4X2": "Manual",
+                "LUXURY 4X2": "Manual",
+                "COMFORT 4X4": "Manual",
+                "ELITE SPORT 4X4": "Keyless"
+            },
+            {
+                "caracteristica": "Visualización De La Camara En Pantalla Lcd",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Bluetooth/Easy Connection (Android & hasta iPhone 11)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Entrada auxiliar de audio externa (USB)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": true,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Pantalla central",
+                "COMFORT 4X2": "8\"",
+                "LUXURY 4X2": "10\"",
+                "COMFORT 4X4": "8\"",
+                "ELITE SPORT 4X4": "10\""
+            },
+            {
+                "caracteristica": "LCD Delantero Central con Touchscreen",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Parlantes Delanteros (un)",
+                "COMFORT 4X2": 2,
+                "LUXURY 4X2": 2,
+                "COMFORT 4X4": 2,
+                "ELITE SPORT 4X4": 4
+            },
+            {
+                "caracteristica": "Parlantes Traseros (un)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": 2,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": 2
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Keyless Entry & Go (PEPS)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Sistema de ayuda de partida de pendiente (HHC)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Sistema de ayuda de bajada en pendiente (HDC)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Sistema De Monitoreo De Presión De Neumáticos (Tpms)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Airbag de cortina",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Alarma De Cint. De Seg. Desconectados",
+                "COMFORT 4X2": "Conductor",
+                "LUXURY 4X2": "Conductor",
+                "COMFORT 4X4": "Conductor",
+                "ELITE SPORT 4X4": "Conductor y copiloto"
+            },
+            {
+                "caracteristica": "Control De Estabilidad (Esp)",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": true,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial trasero",
+                "COMFORT 4X2": false,
+                "LUXURY 4X2": false,
+                "COMFORT 4X4": false,
+                "ELITE SPORT 4X4": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Limpiaparabrisas Con Velocidad Variable",
+            "Luces Externas (Coming/Follow me Home)",
+            "Luz De Día (Led)",
+            "Faros Delanteros Halógenos",
+            "Faros Traseros Halógenos",
+            "Ganchos interiores Pick Up",
+            "Intermitentes Laterales En espejos",
+            "Máscara Frontal Negra",
+            "Neblineros Delanteros",
+            "Neblineros traseros",
+            "Parachoques delantero Bicolor",
+            "Retrovisores Exteriores Con Intermitentes",
+            "Sensor de retroceso",
+            "Amortiguador apertura capó"
+        ],
+        "interior": [
+            "Alfombras Delanteras/Traseras",
+            "Alzavidrios eléctricos",
+            "Apoyabrazos Delantero Con Portaobjetos",
+            "Comando de radio al volante",
+            "Computador a bordo",
+            "Ganchos Sujeción De Equipaje en el respaldo",
+            "Luz De Lectura Delantera y Trasera",
+            "Manillas interiores (techo y laterales)",
+            "Portamapas Respaldos Delanteros",
+            "Portavasos delanteros (2 central)",
+            "Volante regulable en altura",
+            "Apertura Tapa Bencina Interior",
+            "Apoyacabezas Delanteros (un): 2",
+            "Apoyacabezas Traseros (un): 3",
+            "Respaldos segunda fila abatibles (multiflex)",
+            "Botón DPF",
+            "Columna De Dirección Regulable En Altura",
+            "Comando A Distancia (Cierre Centralizado)",
+            "Regulación Interna De Altura De Luces",
+            "Tacómetro",
+            "Toma Corriente 12 Volts Interior",
+            "Alarma De Luces Encendidas",
+            "Apple Car Play",
+            "Computadora De Abordo",
+            "Entrada USB Externa (2 adelante y 1 atrás)",
+            "Volante Multifunción"
+        ],
+        "seguridad": [
+            "Airbag conductor",
+            "Airbag Pasajero",
+            "ABS-EBD",
+            "Alarma sonora",
+            "Alarma De Puertas Abiertas",
+            "Anclaje ISOFIX para niños",
+            "Cinturones Delanteros",
+            "Cinturones traseros 3 puntos (3)",
+            "Columna De Dirección Colapsable",
+            "Control De Tracción (TCS)",
+            "Sistema Inmovilizador Antirrobo",
+            "Turbo geometría variable",
+            "Intercooler"
+        ],
+        "tecnologia": [
+            "Llantas De Aleación"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Azul",
+        "Plata",
+        "Blanco",
+        "Gris",
+        "Rojo",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (check=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "28-03-ficha-tecnica_hunter-euro-vi-c_2025-1.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó la información técnica, dimensiones, rendimiento, colores y equipamiento estándar/diferenciado por versión. Donde el documento muestra un valor centrado para varias columnas, se respetó la agrupación visible de la tabla."
+    }
+}

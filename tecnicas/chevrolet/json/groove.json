@@ -1,0 +1,299 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "GROOVE",
+        "año": 2026,
+        "versiones": [
+            "LTZ - MT",
+            "RS - MT",
+            "RS CVT TURBO"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LTZ - MT": null,
+            "RS - MT": null,
+            "RS CVT TURBO": null
+        },
+        "cilindrada": {
+            "LTZ - MT": 1485,
+            "RS - MT": 1485,
+            "RS CVT TURBO": 1485
+        },
+        "potencia_hp": {
+            "LTZ - MT": "98 HP / 73kW",
+            "RS - MT": "98 HP / 73kW",
+            "RS CVT TURBO": "149 HP / 111kW"
+        },
+        "potencia_rpm": {
+            "LTZ - MT": null,
+            "RS - MT": null,
+            "RS CVT TURBO": null
+        },
+        "torque_nm": {
+            "LTZ - MT": "143",
+            "RS - MT": "143",
+            "RS CVT TURBO": "255"
+        },
+        "torque_rpm": {
+            "LTZ - MT": null,
+            "RS - MT": null,
+            "RS CVT TURBO": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "LTZ - MT": "Manual de 6 velocidades",
+            "RS - MT": "Manual de 6 velocidades",
+            "RS CVT TURBO": "Automática continuamente variable"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión independiente McPherson",
+        "suspension_trasera": "Suspensión trasera semiindependiente con eje de torsión",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LTZ - MT": "215/55 R17",
+            "RS - MT": "215/55 R17",
+            "RS CVT TURBO": "215/55 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4365,
+        "ancho_mm": 1750,
+        "alto_mm": 1610,
+        "distancia_ejes_mm": 2550,
+        "despeje_suelo_mm": 155,
+        "peso_bruto_kg": {
+            "LTZ - MT": 1635,
+            "RS - MT": 1635,
+            "RS CVT TURBO": 1755
+        },
+        "capacidad_maletero_lts": "436 / 1.140",
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores exteriores eléctricos, calefaccionados con luz direccional LED, plegables electrónicamente y Body Color",
+                "LTZ - MT": false,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Luces diurnas LED",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Tercera luz de freno LED posterior",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Luces posteriores LED",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Neblinero trasero",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Antena de techo tipo 'Shark'",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Spoiler posterior de techo",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Barras de techo decorativas",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Llantas 17\"",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento del conductor - Ajustable en 6 direcciones (manual)",
+                "LTZ - MT": true,
+                "RS - MT": false,
+                "RS CVT TURBO": false
+            },
+            {
+                "caracteristica": "Asiento del conductor - Ajustable en 6 posiciones (eléctrico)",
+                "LTZ - MT": false,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Apoyacabezas ajustables en todos los asientos",
+                "LTZ - MT": true,
+                "RS - MT": false,
+                "RS CVT TURBO": false
+            },
+            {
+                "caracteristica": "Asientos delanteros con apoyacabezas deportivos integrados al asiento",
+                "LTZ - MT": false,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles (LH60/RH40) con respaldo reclinable",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales, laterales y de cortina",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Sistema antirrobo - Alarma por voz",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Luz delantera con encendido automático",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Sistema de frenos ABS y EBD",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Anclajes de seguridad para asientos de bebés ISOFIX",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Clúster digital configurable de 7\"",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Sistema de control de velocidad crucero",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": false
+            },
+            {
+                "caracteristica": "ACC (Control de crucero adaptativo) + TJA (Asistencia en atasco)",
+                "LTZ - MT": false,
+                "RS - MT": false,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "ADAS (Sistema avanzado de asistencia a la conducción): Incluye frenado automático de emergencia, aviso de colisión frontal, aviso y asistencia de mantenimiento de carril, alerta de salida de carril, luces altas y bajas automáticas.",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "LTZ - MT": false,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento electrónico",
+                "LTZ - MT": false,
+                "RS - MT": false,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "Sensor de monitoreo de presión de aire de los neumáticos",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "ACC (Control de crucero adaptativo) + TJA (Asistencia en atasco)",
+                "LTZ - MT": false,
+                "RS - MT": false,
+                "RS CVT TURBO": true
+            },
+            {
+                "caracteristica": "ADAS (Sistema avanzado de asistencia a la conducción): Incluye frenado automático de emergencia, aviso de colisión frontal, aviso y asistencia de mantenimiento de carril, alerta de salida de carril, luces altas y bajas automáticas.",
+                "LTZ - MT": true,
+                "RS - MT": true,
+                "RS CVT TURBO": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de entretenimiento: pantalla central de 10,25”, Radio AM/FM, USB, Bluetooth, proyección móvil (Apple CarPlay® & Android Auto®)",
+                "LTZ - MT": false,
+                "RS - MT": false,
+                "RS CVT TURBO": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "AZUL TORMENTA TECHO NEGRO",
+        "BLANCO TECHO NEGRO",
+        "BLANCO METÁLICO",
+        "AZUL TORMENTA METÁLICO",
+        "BURDEO METÁLICO",
+        "GRIS METÁLICO",
+        "BURDEO TECHO NEGRO",
+        "GRIS RS"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de tabla/infografía Chevrolet (● negro=true, ○ blanco/vacío=false; texto/valores tal cual)",
+        "fuente": "ft-chevrolet-groove-2026-cl.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se usaron los indicadores de la tabla de la ficha (●/○) para marcar presencia/ausencia. En el documento no aparecen algunos campos (p. ej., potencia_rpm, torque_rpm, tracción, freno_estacionamiento, rueda_repuesto), por eso quedaron null. Rendimientos de combustible no vienen en el PDF."
+    }
+}

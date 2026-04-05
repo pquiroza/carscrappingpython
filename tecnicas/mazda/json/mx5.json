@@ -1,0 +1,241 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "MX-5",
+        "año": null,
+        "versiones": [
+            "MX-5 2.0 6MT T. LONA",
+            "MX-5 2.0 6AT RF"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "MX-5 2.0 6MT T. LONA": "2.0",
+            "MX-5 2.0 6AT RF": "2.0"
+        },
+        "cilindrada": {
+            "MX-5 2.0 6MT T. LONA": null,
+            "MX-5 2.0 6AT RF": null
+        },
+        "potencia_hp": {
+            "MX-5 2.0 6MT T. LONA": "181",
+            "MX-5 2.0 6AT RF": "181"
+        },
+        "potencia_rpm": {
+            "MX-5 2.0 6MT T. LONA": "7.000",
+            "MX-5 2.0 6AT RF": "7.000"
+        },
+        "torque_nm": {
+            "MX-5 2.0 6MT T. LONA": "205",
+            "MX-5 2.0 6AT RF": "205"
+        },
+        "torque_rpm": {
+            "MX-5 2.0 6MT T. LONA": "4.000",
+            "MX-5 2.0 6AT RF": "4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "MX-5 2.0 6MT T. LONA": "Manual",
+            "MX-5 2.0 6AT RF": "Automática"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "MX-5 2.0 6MT T. LONA": "205/45 R17",
+            "MX-5 2.0 6AT RF": "205/45 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 3915,
+        "ancho_mm": 1735,
+        "alto_mm": {
+            "MX-5 2.0 6MT T. LONA": 1230,
+            "MX-5 2.0 6AT RF": 1235
+        },
+        "distancia_ejes_mm": 2310,
+        "despeje_suelo_mm": 135,
+        "peso_bruto_kg": {
+            "MX-5 2.0 6MT T. LONA": 1259,
+            "MX-5 2.0 6AT RF": 1323
+        },
+        "capacidad_maletero_lts": {
+            "MX-5 2.0 6MT T. LONA": 130,
+            "MX-5 2.0 6AT RF": 127
+        },
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 2
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (Km/Lt.)",
+            "MX-5 2.0 6MT T. LONA": "14,5",
+            "MX-5 2.0 6AT RF": "13,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales eléctricos abatibles",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "MX-5 2.0 6MT T. LONA": "205/45 R17",
+                "MX-5 2.0 6AT RF": "205/45 R17"
+            },
+            {
+                "caracteristica": "Tipo de techo",
+                "MX-5 2.0 6MT T. LONA": "Descapotable Lona",
+                "MX-5 2.0 6AT RF": "Techo Rígido Retráctil Eléctrico"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla Multimedia Mazda Connect",
+                "MX-5 2.0 6MT T. LONA": "8,8\"",
+                "MX-5 2.0 6AT RF": "8,8\""
+            },
+            {
+                "caracteristica": "Android Auto",
+                "MX-5 2.0 6MT T. LONA": "Con cable",
+                "MX-5 2.0 6AT RF": "Con cable"
+            },
+            {
+                "caracteristica": "Carplay",
+                "MX-5 2.0 6MT T. LONA": "Inalámbrico",
+                "MX-5 2.0 6AT RF": "Inalámbrico"
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Audio",
+                "MX-5 2.0 6MT T. LONA": "9 parlantes Bose",
+                "MX-5 2.0 6AT RF": "9 parlantes Bose"
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "MX-5 2.0 6MT T. LONA": false,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Asientos deportivos y anatómicos tapizados",
+                "MX-5 2.0 6MT T. LONA": "Cuero Negro",
+                "MX-5 2.0 6AT RF": "Cuero Negro"
+            },
+            {
+                "caracteristica": "Asientos deportivos y anatómicos calefaccionados",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag",
+                "MX-5 2.0 6MT T. LONA": "2 frontales + 2 laterales",
+                "MX-5 2.0 6AT RF": "2 frontales + 2 laterales"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "MX-5 2.0 6MT T. LONA": "Traseros",
+                "MX-5 2.0 6AT RF": "Traseros"
+            },
+            {
+                "caracteristica": "Smart City Break Support (SCBS)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Señal de frenado de emergencia (ESS)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia en caso de cansancio del conductor (DAA)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia de salida de carril (LDWS)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "Sistema de apertura",
+                "MX-5 2.0 6MT T. LONA": "Smart Keyless",
+                "MX-5 2.0 6AT RF": "Smart Keyless"
+            },
+            {
+                "caracteristica": "i- STOP: Sistema de apagado y encendido automático del motor",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            },
+            {
+                "caracteristica": "G-Vectoring Control Plus (GVC Plus)",
+                "MX-5 2.0 6MT T. LONA": true,
+                "MX-5 2.0 6AT RF": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul Oscuro Metalizado",
+        "Blanco Cristal",
+        "Gris Metálico",
+        "Negro",
+        "Rojo Cristal"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "mazda-ficha-mx-5_v02_compressed.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

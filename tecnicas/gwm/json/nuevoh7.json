@@ -1,0 +1,410 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "Nuevo Haval H7",
+        "año": null,
+        "versiones": [
+            "ELITE_2_0T_2WD",
+            "DELUXE_2_0T_4WD",
+            "HIBRIDO_DELUXE_1_5T_DHT"
+        ]
+    },
+    "pdf": "ficha-haval-h7-22012026.pdf",
+    "motor": {
+        "tipo": {
+            "ELITE_2_0T_2WD": "2.0 Turbo 4 cilindros 16V",
+            "DELUXE_2_0T_4WD": "2.0 Turbo 4 cilindros 16V",
+            "HIBRIDO_DELUXE_1_5T_DHT": "1.5 Turbo 4 cilindros 16V + eléctrico"
+        },
+        "cilindrada_l": {
+            "ELITE_2_0T_2WD": 2.0,
+            "DELUXE_2_0T_4WD": 2.0,
+            "HIBRIDO_DELUXE_1_5T_DHT": 1.5
+        },
+        "potencia_combustion_hp_rpm": {
+            "ELITE_2_0T_2WD": "235 / 6.000-6.300",
+            "DELUXE_2_0T_4WD": "235 / 6.000-6.300",
+            "HIBRIDO_DELUXE_1_5T_DHT": "147 / 5.500-6.000"
+        },
+        "potencia_electrica_hp": {
+            "ELITE_2_0T_2WD": null,
+            "DELUXE_2_0T_4WD": null,
+            "HIBRIDO_DELUXE_1_5T_DHT": "174"
+        },
+        "torque_combustion_nm_rpm": {
+            "ELITE_2_0T_2WD": "385 / 1.500-4.000",
+            "DELUXE_2_0T_4WD": "385 / 1.500-4.000",
+            "HIBRIDO_DELUXE_1_5T_DHT": "230 / 1.500-4.000"
+        },
+        "torque_electrico_nm": {
+            "ELITE_2_0T_2WD": null,
+            "DELUXE_2_0T_4WD": null,
+            "HIBRIDO_DELUXE_1_5T_DHT": "300"
+        },
+        "capacidad_bateria_kwh": {
+            "ELITE_2_0T_2WD": null,
+            "DELUXE_2_0T_4WD": null,
+            "HIBRIDO_DELUXE_1_5T_DHT": "1.67"
+        },
+        "traccion": {
+            "ELITE_2_0T_2WD": "2WD",
+            "DELUXE_2_0T_4WD": "4WD inteligente",
+            "HIBRIDO_DELUXE_1_5T_DHT": "2WD"
+        },
+        "bloqueo_diferencial_eje_trasero": {
+            "ELITE_2_0T_2WD": false,
+            "DELUXE_2_0T_4WD": true,
+            "HIBRIDO_DELUXE_1_5T_DHT": false
+        },
+        "transmision": {
+            "ELITE_2_0T_2WD": "Automática DCT 9",
+            "DELUXE_2_0T_4WD": "Automática DCT 9",
+            "HIBRIDO_DELUXE_1_5T_DHT": "Automática DHT"
+        },
+        "direccion": {
+            "ELITE_2_0T_2WD": "Asistida eléctricamente",
+            "DELUXE_2_0T_4WD": "Asistida eléctricamente",
+            "HIBRIDO_DELUXE_1_5T_DHT": "Asistida eléctricamente"
+        }
+    },
+    "dimensiones": {
+        "largo_ancho_alto_mm": {
+            "ELITE_2_0T_2WD": "4705 x 1908 x 1780",
+            "DELUXE_2_0T_4WD": "4705 x 1908 x 1780",
+            "HIBRIDO_DELUXE_1_5T_DHT": "4705 x 1908 x 1780"
+        },
+        "distancia_entre_ejes_mm": {
+            "ELITE_2_0T_2WD": "2810",
+            "DELUXE_2_0T_4WD": "2810",
+            "HIBRIDO_DELUXE_1_5T_DHT": "2810"
+        },
+        "peso_bruto_kg": {
+            "ELITE_2_0T_2WD": "2150",
+            "DELUXE_2_0T_4WD": "2250",
+            "HIBRIDO_DELUXE_1_5T_DHT": "2245"
+        },
+        "pasajeros": {
+            "ELITE_2_0T_2WD": "5",
+            "DELUXE_2_0T_4WD": "5",
+            "HIBRIDO_DELUXE_1_5T_DHT": "5"
+        },
+        "neumaticos": {
+            "ELITE_2_0T_2WD": "235/60 R19",
+            "DELUXE_2_0T_4WD": "235/65 R19 AT",
+            "HIBRIDO_DELUXE_1_5T_DHT": "235/60 R19"
+        },
+        "rendimiento_ciudad_km_l": {
+            "ELITE_2_0T_2WD": "9.6",
+            "DELUXE_2_0T_4WD": "8.9",
+            "HIBRIDO_DELUXE_1_5T_DHT": "24.9"
+        },
+        "rendimiento_mixto_km_l": {
+            "ELITE_2_0T_2WD": "12.3",
+            "DELUXE_2_0T_4WD": "11",
+            "HIBRIDO_DELUXE_1_5T_DHT": "17"
+        },
+        "rendimiento_carretera_km_l": {
+            "ELITE_2_0T_2WD": "14.7",
+            "DELUXE_2_0T_4WD": "12.7",
+            "HIBRIDO_DELUXE_1_5T_DHT": "14.3"
+        }
+    },
+    "tabla_comparativa_rendimiento_hibrido": [
+        {
+            "caracteristica": "Potencia eléctrica (HP)",
+            "ELITE_2_0T_2WD": null,
+            "DELUXE_2_0T_4WD": null,
+            "HIBRIDO_DELUXE_1_5T_DHT": "174"
+        },
+        {
+            "caracteristica": "Torque eléctrico (Nm)",
+            "ELITE_2_0T_2WD": null,
+            "DELUXE_2_0T_4WD": null,
+            "HIBRIDO_DELUXE_1_5T_DHT": "300"
+        },
+        {
+            "caracteristica": "Capacidad batería (kWh)",
+            "ELITE_2_0T_2WD": null,
+            "DELUXE_2_0T_4WD": null,
+            "HIBRIDO_DELUXE_1_5T_DHT": "1.67"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Cierre vidrios a distancia",
+                "ELITE_2_0T_2WD": true,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Cierre vidrios + sunroof a distancia",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Selector conducción básico",
+                "ELITE_2_0T_2WD": true,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Selector conducción off-road completo",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Selector conducción híbrido",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Paddle shift",
+                "ELITE_2_0T_2WD": true,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Control crucero",
+                "ELITE_2_0T_2WD": true,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico 8 pos",
+                "ELITE_2_0T_2WD": true,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico + lumbar",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Asiento copiloto manual",
+                "ELITE_2_0T_2WD": true,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Asiento copiloto eléctrico",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Memoria asiento conductor",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Asientos ventilados",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Mesa picnic",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            },
+            {
+                "caracteristica": "Kit reparación",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": false,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara 360 + chasis transparente",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            }
+        ],
+        "motor_y_traccion": [
+            {
+                "caracteristica": "Bloqueo diferencial eje trasero",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": false
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "ACC",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "TJA",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "LDW",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "LKA",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "LCA",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "BSW",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "ELK",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "FCW",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "AEB",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "AEB peatones",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "AEB bicicletas",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "DOW",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "Tráfico trasero + frenado",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            },
+            {
+                "caracteristica": "TSR",
+                "ELITE_2_0T_2WD": false,
+                "DELUXE_2_0T_4WD": true,
+                "HIBRIDO_DELUXE_1_5T_DHT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Focos LED con regulación",
+            "Sensor automático luces",
+            "Follow me home",
+            "Neblineros LED delanteros y traseros",
+            "Espejos eléctricos + defroster + plegado",
+            "Luneta trasera con defroster",
+            "Vidrios traseros tinteados",
+            "Sensor lluvia",
+            "Spoiler trasero",
+            "Molduras laterales negras",
+            "Barras techo",
+            "Llave inteligente (2)",
+            "Portalón eléctrico",
+            "Keyless puertas delanteras"
+        ],
+        "interior": [
+            "Autohold",
+            "Volante multifunción",
+            "Volante ecocuero",
+            "Volante rigidez ajustable",
+            "Tapiz ecocuero",
+            "Apoyabrazos refrigerado",
+            "Asientos traseros 60:40",
+            "Rueda repuesto provisoria"
+        ],
+        "seguridad": [
+            "Airbags frontales (2)",
+            "Airbags laterales (2)",
+            "Airbags cortina (2)",
+            "ABS + EBD",
+            "ESP",
+            "TCS",
+            "HBA",
+            "RMI",
+            "SCM",
+            "HHC",
+            "HDC",
+            "TPMS",
+            "Sensores traseros",
+            "ISOFIX (2)",
+            "Inmovilizador + alarma"
+        ],
+        "adas": [],
+        "motor_y_traccion": []
+    },
+    "colores": [
+        "Naranjo",
+        "Blanco",
+        "Plata",
+        "Negro"
+    ],
+    "llantas": [
+        "Bi-tono 18\" Elite Gasolina / Deluxe Híbrida",
+        "Bi-tono 18\" All Terrain Deluxe Gasolina"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización a formato estándar por versiones (sin inventar campos fuera del extracto entregado)",
+        "versiones_en_documento": 3
+    }
+}

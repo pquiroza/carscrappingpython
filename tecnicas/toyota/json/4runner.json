@@ -1,0 +1,188 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "4RUNNER",
+        "año": null,
+        "versiones": [
+            "4x4 SR5",
+            "4x4 Limited"
+        ]
+    },
+    "motor": {
+        "tipo": "4 cilindros en línea con turbocargador",
+        "cilindrada": "2393",
+        "potencia_hp": "278",
+        "potencia_rpm": "6000",
+        "torque_nm": "430",
+        "torque_rpm": "1700-3600",
+        "combustible": "93 octanos o superior",
+        "transmision": "Automática 8 velocidades",
+        "traccion": "4WD Part Time"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla independiente",
+        "suspension_trasera": "Rígido de cuatro brazos con control lateral",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "4x4_SR5": "245/70 R18",
+            "4x4_Limited": "265/55 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4950",
+        "ancho_mm": "1980",
+        "alto_mm": "1850",
+        "distancia_ejes_mm": "2850",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": "72"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "4X4_SR5": "18\" negra mecanizada",
+            "4X4_LIMITED": "20\" aluminio"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad pasajeros",
+            "4X4_SR5": "7",
+            "4X4_LIMITED": "7"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/l)",
+            "4X4_SR5": "7.2",
+            "4X4_LIMITED": "7.2"
+        },
+        {
+            "caracteristica": "Mixto (km/l)",
+            "4X4_SR5": "9.3",
+            "4X4_LIMITED": "9.3"
+        },
+        {
+            "caracteristica": "Carretera (km/l)",
+            "4X4_SR5": "11.3",
+            "4X4_LIMITED": "11.3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "4X4_SR5": "Manual",
+                "4X4_LIMITED": "Dual"
+            },
+            {
+                "caracteristica": "Modos de conducción",
+                "4X4_SR5": "3",
+                "4X4_LIMITED": "5"
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior",
+                "4X4_SR5": "Manual",
+                "4X4_LIMITED": "Automático"
+            },
+            {
+                "caracteristica": "Material de asientos",
+                "4X4_SR5": "Tela",
+                "4X4_LIMITED": "Cuero"
+            },
+            {
+                "caracteristica": "Volante",
+                "4X4_SR5": "Cuero multifuncional",
+                "4X4_LIMITED": "Cuero + calefacción"
+            },
+            {
+                "caracteristica": "Asientos eléctricos delanteros",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            },
+            {
+                "caracteristica": "Memoria asiento piloto/copiloto",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            },
+            {
+                "caracteristica": "Enfriador/calefactor asientos",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            },
+            {
+                "caracteristica": "Moonroof",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Pisaderas exteriores",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            },
+            {
+                "caracteristica": "Portalón con kick sensor",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            },
+            {
+                "caracteristica": "Barras techo",
+                "4X4_SR5": "Negro",
+                "4X4_LIMITED": "Plata"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "PKSB asistente de frenado",
+                "4X4_SR5": false,
+                "4X4_LIMITED": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Pantalla táctil 8\"",
+            "Smart key & botón encendido",
+            "Vidrios tintados traseros",
+            "Conectores 12V",
+            "Mandos al volante"
+        ],
+        "exterior": [
+            "Faros LED",
+            "Neblineros LED",
+            "Espejos eléctricos"
+        ],
+        "seguridad": [
+            "Toyota Safety Sense",
+            "ACC",
+            "PCS",
+            "LTA",
+            "BSM",
+            "AHB",
+            "ABS + EBD",
+            "VSC + TRC",
+            "Airbags frontal + rodilla + lateral + cortina",
+            "ISOFIX",
+            "Monitor retroceso",
+            "HAC",
+            "Alarma + inmovilizador"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FT_4Runner.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Documento gráfico. Datos copiados de paneles visuales."
+    }
+}

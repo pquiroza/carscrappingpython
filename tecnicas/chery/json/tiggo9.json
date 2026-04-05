@@ -1,0 +1,125 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 9",
+        "año": null,
+        "versiones": [
+            "2_0T_AT_GLX_AWD"
+        ]
+    },
+    "motor": {
+        "tipo": "2.0 Turbo",
+        "combustible": "Gasolina",
+        "cilindrada": "1998",
+        "potencia_hp": "241",
+        "potencia_rpm": "5500",
+        "torque_nm": "375",
+        "torque_rpm": "1750-4000",
+        "modos_conduccion": "ECO - NORMAL - SPORT - ARENA - OFFROAD - LODO - NIEVE",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "tipo": "AT 8 Vel",
+        "traccion": "AWD continua",
+        "palanca": "E-Shift"
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multilink independiente",
+        "sistema_frenos": "ABS + EBD + BAS + BOS",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 7,
+        "largo_mm": "4810",
+        "ancho_mm": "1925",
+        "alto_mm": "1741",
+        "distancia_ejes_mm": "2800",
+        "capacidad_maletero_lts": "820",
+        "capacidad_estanque_lts": "65"
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Filtro aire PM0.3",
+            "Salidas aire 2da fila",
+            "Salidas aire 3ra fila",
+            "Encendido keyless",
+            "Alzavidrios eléctricos",
+            "Anti trap",
+            "Computador a bordo",
+            "AWD mode con memoria",
+            "Tapiz ecocuero",
+            "Asientos eléctricos",
+            "Asientos ventilados y calefaccionados",
+            "Función masaje",
+            "Apoya brazos refrigerado",
+            "Volante cuero multifunción calefaccionado",
+            "Techo panorámico",
+            "Luz ambiental",
+            "Audio Sony 12 parlantes",
+            "Pantalla 15.6\"",
+            "Panel digital 10.3\"",
+            "Apple CarPlay inalámbrico",
+            "Android Auto inalámbrico"
+        ],
+        "exterior": [
+            "Encendido remoto",
+            "Vidrios acústicos",
+            "Maletero eléctrico manos libres",
+            "Faros LED automáticos",
+            "Cámara 540° HD",
+            "Sensores delanteros y traseros",
+            "Llantas aleación 20\"",
+            "Neumáticos 245/50 R20",
+            "Repuesto temporal"
+        ],
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "Airbags 2da fila",
+            "Airbag rodilla conductor",
+            "Airbag central",
+            "ESP",
+            "HAC",
+            "HDC",
+            "EBA",
+            "TCS",
+            "TPMS",
+            "ISOFIX"
+        ],
+        "ADAS": [
+            "ACC",
+            "ICA",
+            "TJA",
+            "FCW",
+            "AEB",
+            "RCW",
+            "RTCA",
+            "LDW",
+            "LKA",
+            "LCA",
+            "ELK",
+            "BSD",
+            "DOW",
+            "IHC",
+            "DMS",
+            "HUD",
+            "APA"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 9",
+        "versiones_en_documento": 1,
+        "notas": "Datos extraídos literalmente del PDF oficial."
+    }
+}

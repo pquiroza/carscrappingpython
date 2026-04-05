@@ -1,0 +1,151 @@
+{
+    "vehiculo": {
+        "marca": "Fiat",
+        "modelo": "500e",
+        "año": null,
+        "versiones": [
+            "500e"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "500e": "Eléctrico"
+        },
+        "cilindrada": {
+            "500e": null
+        },
+        "potencia_hp": {
+            "500e": "117HP"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "500e": "220NM"
+        },
+        "torque_rpm": null,
+        "combustible": {
+            "500e": "Electricidad"
+        },
+        "transmision": {
+            "500e": "Directa eléctrico"
+        },
+        "traccion": null,
+        "tipo_baterias": {
+            "500e": "Ion-litio"
+        },
+        "cantidad_baterias": {
+            "500e": 1
+        },
+        "capacidad_bateria_kwh": {
+            "500e": "42KW"
+        },
+        "capacidad_carga_baterias_ah": {
+            "500e": "145A"
+        },
+        "tension_nominal": {
+            "500e": "220V"
+        },
+        "frecuencia": {
+            "500e": "60HZ"
+        },
+        "corriente_maxima_domiciliaria_a": {
+            "500e": "14 A"
+        },
+        "autonomia_km": {
+            "500e": "330KM"
+        },
+        "potencia_motor_electrico_kw": {
+            "500e": "87KW"
+        },
+        "ecologia": {
+            "500e": "Vehículo cero emisiones"
+        },
+        "capacidad_de_la_bateria": {
+            "500e": "Capacidad media"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": null,
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 3632,
+        "ancho_mm": 1683,
+        "alto_mm": 1527,
+        "distancia_ejes_mm": 2323,
+        "despeje_suelo_mm": 130,
+        "radio_de_giro_m": 9.7,
+        "peso_bruto_kg": 1690,
+        "peso_neto_kg": 1365,
+        "capacidad_carga_kg": 337,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Columna de dirección regulable",
+            "6 parlantes con sonido envolvente",
+            "Volante recubierto con soft-touch",
+            "Tablero con combinación de colores",
+            "Tapizado en cuero ecológico Ice-Beige",
+            "Volante bicolor",
+            "Banco trasero partido 50/50",
+            "Apoyabrazos central delantero",
+            "Alfombras con logo 500"
+        ],
+        "exterior": [
+            "Llantas de aleación 16”",
+            "Luces traseras LED",
+            "Luces delanteras LED",
+            "LED DRL",
+            "Espejos con ajuste eléctrico",
+            "E-Latch",
+            "Detalles cromados y badge 500",
+            "Techo solar panorámico"
+        ],
+        "seguridad": [
+            "6 airbags",
+            "Frenado autónomo de emergencia",
+            "Control crucero adaptativo",
+            "Centrado de carril autónomo",
+            "Alerta de punto ciego",
+            "Reconocimiento de señales de tránsito",
+            "Sensor de lluvia y crepuscular",
+            "Sensores de estacionamiento 360°",
+            "Cámara de retroceso con guías dinámicas",
+            "Espejo retrovisor con ajuste automático",
+            "Conmutador de luces automático"
+        ],
+        "tecnologia": [
+            "Tablero digital de 7” personalizable",
+            "Multimedia de 12.25”",
+            "Cargador de teléfono inalámbrico",
+            "Climatizador automático A/C",
+            "Ingreso pasivo con detección de llave",
+            "Conectividad inalámbrica Android Auto & CarPlay"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "ficha_tecnia_500e_Chile.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El PDF no incluye tabla comparativa por versiones; se modeló como una sola versión '500e'."
+    }
+}

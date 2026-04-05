@@ -1,0 +1,256 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "T-Cross",
+        "año": null,
+        "versiones": [
+            "Trendline 170 TSI MT",
+            "Comfortline 170 TSI MT",
+            "Comfortline 200 TSI AT",
+            "Highline 200 TSI AT",
+            "Highline Sport 200 TSI AT",
+            "Highline Sport S 200 TSI AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Trendline 170 TSI MT": "1.0 TSI",
+            "Comfortline 170 TSI MT": "1.0 TSI",
+            "Comfortline 200 TSI AT": "1.0 TSI",
+            "Highline 200 TSI AT": "1.0 TSI",
+            "Highline Sport 200 TSI AT": "1.0 TSI",
+            "Highline Sport S 200 TSI AT": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Trendline 170 TSI MT": null,
+            "Comfortline 170 TSI MT": null,
+            "Comfortline 200 TSI AT": null,
+            "Highline 200 TSI AT": null,
+            "Highline Sport 200 TSI AT": null,
+            "Highline Sport S 200 TSI AT": null
+        },
+        "potencia_hp": {
+            "Trendline 170 TSI MT": "101",
+            "Comfortline 170 TSI MT": "101",
+            "Comfortline 200 TSI AT": "116",
+            "Highline 200 TSI AT": "116",
+            "Highline Sport 200 TSI AT": "116",
+            "Highline Sport S 200 TSI AT": "116"
+        },
+        "potencia_rpm": {
+            "Trendline 170 TSI MT": "5.000",
+            "Comfortline 170 TSI MT": "5.000",
+            "Comfortline 200 TSI AT": "5.500",
+            "Highline 200 TSI AT": "5.500",
+            "Highline Sport 200 TSI AT": "5.500",
+            "Highline Sport S 200 TSI AT": "5.500"
+        },
+        "torque_nm": {
+            "Trendline 170 TSI MT": "170",
+            "Comfortline 170 TSI MT": "170",
+            "Comfortline 200 TSI AT": "200",
+            "Highline 200 TSI AT": "200",
+            "Highline Sport 200 TSI AT": "200",
+            "Highline Sport S 200 TSI AT": "200"
+        },
+        "torque_rpm": {
+            "Trendline 170 TSI MT": "1.500-4.250",
+            "Comfortline 170 TSI MT": "1.500-4.250",
+            "Comfortline 200 TSI AT": "1.500-4.250",
+            "Highline 200 TSI AT": "1.500-4.250",
+            "Highline Sport 200 TSI AT": "1.500-4.250",
+            "Highline Sport S 200 TSI AT": "1.500-4.250"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Trendline 170 TSI MT": "MT 5",
+            "Comfortline 170 TSI MT": "MT 5",
+            "Comfortline 200 TSI AT": "AT 6",
+            "Highline 200 TSI AT": "AT 6",
+            "Highline Sport 200 TSI AT": "AT 6",
+            "Highline Sport S 200 TSI AT": "AT 6"
+        },
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": {
+            "Trendline 170 TSI MT": "Tambor",
+            "Comfortline 170 TSI MT": "Tambor",
+            "Comfortline 200 TSI AT": "Disco",
+            "Highline 200 TSI AT": "Disco",
+            "Highline Sport 200 TSI AT": "Disco",
+            "Highline Sport S 200 TSI AT": "Disco"
+        },
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Trendline 170 TSI MT": "205/60 R16",
+            "Comfortline 170 TSI MT": "205/55 R17",
+            "Comfortline 200 TSI AT": "205/55 R17",
+            "Highline 200 TSI AT": "205/55 R17",
+            "Highline Sport 200 TSI AT": "205/55 R17",
+            "Highline Sport S 200 TSI AT": "205/55 R17"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4199,
+        "ancho_mm": 1760,
+        "alto_mm": 1568,
+        "distancia_ejes_mm": 2651,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 420,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad/Mixto/Carretera (Km/l)",
+            "Trendline 170 TSI MT": "12,2/16,1/19,6",
+            "Comfortline 170 TSI MT": "12,2/16,1/19,6",
+            "Comfortline 200 TSI AT": "10,4/14,9/18,2",
+            "Highline 200 TSI AT": "10,4/14,9/18,2",
+            "Highline Sport 200 TSI AT": "10,4/14,9/18,2",
+            "Highline Sport S 200 TSI AT": "10,4/14,9/18,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof Panorámico",
+                "Trendline 170 TSI MT": false,
+                "Comfortline 170 TSI MT": false,
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": false,
+                "Highline Sport 200 TSI AT": false,
+                "Highline Sport S 200 TSI AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Trendline 170 TSI MT": "Tela",
+                "Comfortline 170 TSI MT": "Cuero Sintético",
+                "Comfortline 200 TSI AT": "Cuero sintético",
+                "Highline 200 TSI AT": "Cuero",
+                "Highline Sport 200 TSI AT": "Cuero",
+                "Highline Sport S 200 TSI AT": "Cuero"
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antideslumbrante",
+                "Trendline 170 TSI MT": "Manual",
+                "Comfortline 170 TSI MT": "Manual",
+                "Comfortline 200 TSI AT": "Manual",
+                "Highline 200 TSI AT": "Automático",
+                "Highline Sport 200 TSI AT": "Automático",
+                "Highline Sport S 200 TSI AT": "Automático"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor Punto Ciego",
+                "Trendline 170 TSI MT": false,
+                "Comfortline 170 TSI MT": false,
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            },
+            {
+                "caracteristica": "Mantenimiento cambio de carril “Lane Assist”",
+                "Trendline 170 TSI MT": false,
+                "Comfortline 170 TSI MT": false,
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "Trendline 170 TSI MT": false,
+                "Comfortline 170 TSI MT": false,
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Cuadro de instrumentos digital",
+                "Trendline 170 TSI MT": "8\"",
+                "Comfortline 170 TSI MT": "8\"",
+                "Comfortline 200 TSI AT": "8\"",
+                "Highline 200 TSI AT": "10,25\"",
+                "Highline Sport 200 TSI AT": "10,25\"",
+                "Highline Sport S 200 TSI AT": "10,25\""
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces principales LED",
+            "Luces diurnas LED (DRL)",
+            "Coming/Leaving Home",
+            "Luces traseras LED",
+            "Neblineros Traseros",
+            "Retrovisores exteriores eléctricos",
+            "Retrovisores exteriores eléctricos y abatibles",
+            "Retrovisores exteriores y manillas color carrocería",
+            "Barras longitudinales en techo"
+        ],
+        "interior": [
+            "Asiento del conductor con ajuste de altura",
+            "Asientos traseros abatibles",
+            "Asiento del conductor con soporte lumbar",
+            "Reposabrazos central delantero",
+            "Luz ambiente",
+            "Volante multifunción en cuero"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortinas",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de tracción (ASR)",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Anclaje ISOFIX para asientos de niños",
+            "Inmovilizador electrónico con sistema de alarma antirrobo",
+            "Control de asistencia para arranque en pendientes",
+            "Rueda de repuesto",
+            "Indicador de presión de neumáticos",
+            "Front Assist (peatones/ciclistas)"
+        ],
+        "tecnologia": [
+            "Radio Touchscreen 10,1”",
+            "App Connect inalámbrico con Apple CarPlay y Android Auto",
+            "Parlantes (6)",
+            "Puertos USB Tipo C"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Plata Reflejo",
+        "Gris Platino",
+        "Rojo Metálico",
+        "Blanco Puro",
+        "Azul Noruega",
+        "Negro Ninja",
+        "Gris Ascot"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa tabla ficha técnica Volkswagen (X=Disponible, -=No disponible; cuando hay una sola columna aplica a todas las versiones).",
+        "fuente": "Ficha-t-cross-2025-(1).pdf",
+        "versiones_en_documento": 6,
+        "notas": "Se extrajeron datos técnicos, dimensiones, capacidades, consumos y equipamiento exactamente como figura en la tabla de la ficha técnica Enero 2025."
+    }
+}

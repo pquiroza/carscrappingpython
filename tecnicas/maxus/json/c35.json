@@ -1,0 +1,169 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "C35",
+        "año": null,
+        "versiones": [
+            "C35",
+            "C35_L"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "C35": "SAIC Motor 2.0 T",
+            "C35_L": "SAIC Motor 2.0 T"
+        },
+        "cilindrada": {
+            "C35": 2.0,
+            "C35_L": 2.0
+        },
+        "potencia_hp": {
+            "C35": "123",
+            "C35_L": "123"
+        },
+        "potencia_rpm": {
+            "C35": "3200",
+            "C35_L": "3200"
+        },
+        "torque_nm": {
+            "C35": "330",
+            "C35_L": "330"
+        },
+        "torque_rpm": {
+            "C35": "1600 - 2400",
+            "C35_L": "1600 - 2400"
+        },
+        "combustible": {
+            "C35": "Diesel",
+            "C35_L": "Diesel"
+        },
+        "sistema_alimentacion": {
+            "C35": null,
+            "C35_L": null
+        },
+        "norma_emisiones": {
+            "C35": null,
+            "C35_L": null
+        },
+        "transmision": {
+            "C35": "Manual 5 marchas + reversa",
+            "C35_L": "Manual 5 marchas + reversa"
+        },
+        "traccion": {
+            "C35": "4X2, Tracción trasera",
+            "C35_L": "4X2, Tracción trasera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Ballestas",
+        "suspension_trasera": "Ballestas",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Tambor",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "C35": "195 / R15",
+            "C35_L": "195 / R15"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "C35": 5449,
+            "C35_L": 5995
+        },
+        "ancho_mm": 2020,
+        "alto_mm": 2270,
+        "distancia_ejes_mm": {
+            "C35": 2850,
+            "C35_L": 3308
+        },
+        "numero_pasajeros": 2,
+        "capacidad_estanque_lts": 85,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad estanque de urea (L)",
+            "C35": "16",
+            "C35_L": "16"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "C35": "3500",
+            "C35_L": "3500"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (kg)",
+            "C35": "2100",
+            "C35_L": "2140"
+        },
+        {
+            "caracteristica": "Carga útil admisible (kg)",
+            "C35": "1395",
+            "C35_L": "1355"
+        },
+        {
+            "caracteristica": "Largo carrozable",
+            "C35": "3.6 m",
+            "C35_L": "4.2 m"
+        },
+        {
+            "caracteristica": "Largo carrocería (mm)",
+            "C35": "3670",
+            "C35_L": "4180"
+        },
+        {
+            "caracteristica": "Ancho carrocería (mm)",
+            "C35": "1910",
+            "C35_L": "1910"
+        },
+        {
+            "caracteristica": "Alto carrocería (mm)",
+            "C35": "400",
+            "C35_L": "400"
+        },
+        {
+            "caracteristica": "Relación transmisión",
+            "C35": "5.502 / 2.790 / 1.580 / 1 / 0.793 / R: 4.916",
+            "C35_L": "5.502 / 2.790 / 1.580 / 1 / 0.793 / R: 4.916"
+        },
+        {
+            "caracteristica": "Relación diferencial",
+            "C35": "4.375",
+            "C35_L": "4.375"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [
+            "Aire acondicionado y calefacción",
+            "Alzavidrios eléctricos",
+            "Pantalla touch 7”",
+            "Comando de radio al volante",
+            "Bluetooth"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Sistema de arranque con embrague",
+            "Cierre centralizado",
+            "Tercera luz de freno",
+            "Cámara de retroceso"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; columna única=aplica a todas las versiones)",
+        "fuente": "MAXUS_FT-C35-Web 2.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Garantía 3 años o 100.000 km, lo que se cumpla primero."
+    }
+}

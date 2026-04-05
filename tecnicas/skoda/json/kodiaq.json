@@ -1,0 +1,215 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Nuevo Kodiaq",
+        "año": null,
+        "versiones": [
+            "Selection 1.5 mHEV TSI",
+            "Design 2.0 TSI 4X4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Selection 1.5 mHEV TSI": "1,5 TSI",
+            "Design 2.0 TSI 4X4": "2,0 TSI"
+        },
+        "cilindrada": {
+            "Selection 1.5 mHEV TSI": "1,5",
+            "Design 2.0 TSI 4X4": "2,0"
+        },
+        "potencia_hp": {
+            "Selection 1.5 mHEV TSI": "150",
+            "Design 2.0 TSI 4X4": "204"
+        },
+        "potencia_rpm": {
+            "Selection 1.5 mHEV TSI": null,
+            "Design 2.0 TSI 4X4": null
+        },
+        "torque_nm": {
+            "Selection 1.5 mHEV TSI": "250",
+            "Design 2.0 TSI 4X4": "320"
+        },
+        "torque_rpm": {
+            "Selection 1.5 mHEV TSI": null,
+            "Design 2.0 TSI 4X4": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Selection 1.5 mHEV TSI": "DSG 7 velocidades",
+            "Design 2.0 TSI 4X4": "DSG 7 velocidades"
+        },
+        "traccion": {
+            "Selection 1.5 mHEV TSI": "FWD",
+            "Design 2.0 TSI 4X4": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con brazos triangulares inferiores y estabilizador de torsión",
+        "suspension_trasera": "Suspensión de eje multibrazo con un brazo longitudinal, tres brazos transversales y barra estabilizadora",
+        "frenos_delanteros": "Freno de disco delantero y trasero",
+        "frenos_traseros": "Freno de disco delantero y trasero",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Selection 1.5 mHEV TSI": "R18” 235/55 100V",
+            "Design 2.0 TSI 4X4": "R19” 235/50 99V"
+        },
+        "rueda_repuesto": "Rueda de repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4758,
+        "ancho_mm": 1575,
+        "alto_mm": 1659,
+        "distancia_ejes_mm": 2791,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "910 / 2.105",
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Barras de techo",
+                "Selection 1.5 mHEV TSI": "Negras",
+                "Design 2.0 TSI 4X4": "Brillantes"
+            },
+            {
+                "caracteristica": "Pedal virtual para apertura del maletero",
+                "Selection 1.5 mHEV TSI": false,
+                "Design 2.0 TSI 4X4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado",
+                "Selection 1.5 mHEV TSI": "Tela",
+                "Design 2.0 TSI 4X4": "Cuero"
+            },
+            {
+                "caracteristica": "Volante multifunción en cuero con levas de cambio",
+                "Selection 1.5 mHEV TSI": true,
+                "Design 2.0 TSI 4X4": false
+            },
+            {
+                "caracteristica": "Volante deportivo multifunción en cuero con levas de cambio",
+                "Selection 1.5 mHEV TSI": false,
+                "Design 2.0 TSI 4X4": true
+            },
+            {
+                "caracteristica": "Función memoria en asientos",
+                "Selection 1.5 mHEV TSI": "Sólo conductor",
+                "Design 2.0 TSI 4X4": "Ambos asientos delanteros"
+            },
+            {
+                "caracteristica": "Cortinillas en ventanas traseras",
+                "Selection 1.5 mHEV TSI": false,
+                "Design 2.0 TSI 4X4": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "6 Airbags: frontales, laterales delanteros y de cortina",
+                "Selection 1.5 mHEV TSI": true,
+                "Design 2.0 TSI 4X4": false
+            },
+            {
+                "caracteristica": "8 Airbags: frontales, laterales delanteros y traseros y de cortina",
+                "Selection 1.5 mHEV TSI": false,
+                "Design 2.0 TSI 4X4": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de Sonido",
+                "Selection 1.5 mHEV TSI": "8 altavoces",
+                "Design 2.0 TSI 4X4": "12 altavoces Canton Sound System"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros Matrix LED",
+            "Faros traseros LED con indicador dinámico",
+            "Faros neblineros delanteros",
+            "Luz antiniebla trasera",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Retrovisores exteriores eléctricos, calefactados, abatibles eléctricamente y antideslumbrante en lado del conductor",
+            "Sunroof panorámico",
+            "Vidrios traseros tintados",
+            "Apertura y cierre del maletero eléctrico"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos con interruptor confort y limitador de fuerza",
+            "Alfombrillas en la parte delantera y trasera",
+            "Asientos delanteros calefactados",
+            "Apoyabrazos delantero \"Jumbo Box\"",
+            "Apoyabrazos trasero con posavasos integrado",
+            "Iluminación ambiental LED multicolor",
+            "Retrovisor interior con función antideslumbrante",
+            "Asientos delanteros confort",
+            "Asientos delanteros con soporte lumbar, ajuste eléctrico"
+        ],
+        "seguridad": [
+            "Aviso de presión de neumáticos",
+            "Bloqueo electrónico de diferencial (EDS)",
+            "Control de tracción electrónico (ASR)",
+            "Control de inercia del par motor (MSR)",
+            "Control de asistencia para arranque en pendientes",
+            "Freno multi colisión (MKB)",
+            "Anclaje para asientos de niños - ISOFIX",
+            "Rueda de repuesto",
+            "Sistema electrónico de estabilización (ESC)",
+            "Sistema antibloqueo de frenado (ABS) y Asistente hidráulico de frenado (HBA)",
+            "Alarma con vigilancia del habitáculo, sirena y protección contra remolque",
+            "Inmovilizador electrónico",
+            "Front Assist: Radar con función frenado de emergencia",
+            "Drive Alert: Detector de fatiga del conductor",
+            "Side Assist: asistente de cambio de carril",
+            "Detector de punto ciego",
+            "Advertencia de apertura de puertas",
+            "Alerta de tráfico cruzado trasero"
+        ],
+        "tecnologia": [
+            "Climatizador de 3 zonas",
+            "Control crucero electrónico",
+            "Entrada USB-C",
+            "“Keyless Access” y botón de encendido",
+            "Radio con pantalla touch 13\"",
+            "Virtual Cockpit 10”",
+            "Sensor de luz y lluvia",
+            "Sensor de estacionamiento delantero y trasero con cámara de retroceso",
+            "Tiro de arrastre plegable manual y extraíble eléctrico con adaptador",
+            "Smart Link inalámbrico (Apple CarPlay & Android Auto) + Navegación",
+            "Carga inalámbrica para 2 teléfonos de manera simultánea*",
+            "Sistema de control por voz “Laura”",
+            "Sistema Start-Stop con frenado regenerativo"
+        ],
+        "adas": [
+            "Front Assist: Sistema de frenado automático",
+            "Side Assist: asistente de cambio de carril"
+        ]
+    },
+    "colores": [
+        "Azul Energía",
+        "Gris Acero",
+        "Bronx Gold",
+        "Plata Brillante",
+        "Gris Grafito",
+        "Negro Metálico",
+        "Blanco Glaciar",
+        "Azul Carrera",
+        "Rojo Velvet"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (●=presente; O/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-New-Kodiaq.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Ancho indicado en PDF como ‘1.575 / 1.864 (incluyendo espejos)’. Se incluyeron todos los ítems con variación entre versiones en equipamiento_diferencial_detallado y el resto como estándar."
+    }
+}

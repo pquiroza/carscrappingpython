@@ -1,0 +1,303 @@
+{
+    "vehiculo": {
+        "marca": "Kaiyi",
+        "modelo": "KYX7",
+        "año": null,
+        "versiones": [
+            "KYX7_1.6T_7DCT_STD",
+            "KYX7_1.6T_7DCT_LUX",
+            "KYX7_2.0T_7DCT_LUX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "KYX7_1.6T_7DCT_STD": "1.6 Turbo",
+            "KYX7_1.6T_7DCT_LUX": "1.6 Turbo",
+            "KYX7_2.0T_7DCT_LUX": "2.0 Turbo"
+        },
+        "cilindrada": {
+            "KYX7_1.6T_7DCT_STD": 1.598,
+            "KYX7_1.6T_7DCT_LUX": 1.598,
+            "KYX7_2.0T_7DCT_LUX": 1.998
+        },
+        "potencia_hp": {
+            "KYX7_1.6T_7DCT_STD": "183",
+            "KYX7_1.6T_7DCT_LUX": "183",
+            "KYX7_2.0T_7DCT_LUX": "234"
+        },
+        "potencia_rpm": {
+            "KYX7_1.6T_7DCT_STD": "5.500",
+            "KYX7_1.6T_7DCT_LUX": "5.500",
+            "KYX7_2.0T_7DCT_LUX": "5.500"
+        },
+        "torque_nm": {
+            "KYX7_1.6T_7DCT_STD": "275",
+            "KYX7_1.6T_7DCT_LUX": "275",
+            "KYX7_2.0T_7DCT_LUX": "375"
+        },
+        "torque_rpm": {
+            "KYX7_1.6T_7DCT_STD": "2.000-4.000",
+            "KYX7_1.6T_7DCT_LUX": "2.000-4.000",
+            "KYX7_2.0T_7DCT_LUX": "1.750-4.000"
+        },
+        "combustible": {
+            "KYX7_1.6T_7DCT_STD": "Gasolina",
+            "KYX7_1.6T_7DCT_LUX": "Gasolina",
+            "KYX7_2.0T_7DCT_LUX": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "KYX7_1.6T_7DCT_STD": "Inyección directa",
+            "KYX7_1.6T_7DCT_LUX": "Inyección directa",
+            "KYX7_2.0T_7DCT_LUX": "Inyección directa"
+        },
+        "norma_emisiones": {
+            "KYX7_1.6T_7DCT_STD": null,
+            "KYX7_1.6T_7DCT_LUX": null,
+            "KYX7_2.0T_7DCT_LUX": null
+        },
+        "transmision": {
+            "KYX7_1.6T_7DCT_STD": "DCT",
+            "KYX7_1.6T_7DCT_LUX": "DCT",
+            "KYX7_2.0T_7DCT_LUX": "DCT"
+        },
+        "traccion": {
+            "KYX7_1.6T_7DCT_STD": null,
+            "KYX7_1.6T_7DCT_LUX": null,
+            "KYX7_2.0T_7DCT_LUX": null
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica Asistida EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco Solido",
+        "freno_de_mano": "Electrónico + AutoHold",
+        "neumaticos": {
+            "KYX7_1.6T_7DCT_STD": "255/50 R 20",
+            "KYX7_1.6T_7DCT_LUX": "255/50 R 20",
+            "KYX7_2.0T_7DCT_LUX": "255/50 R 20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4710,
+        "ancho_mm": 1995,
+        "alto_mm": 1705,
+        "distancia_ejes_mm": 2800,
+        "numero_pasajeros": 7,
+        "capacidad_estanque_lts": 60,
+        "capacidad_maletero_lts": {
+            "solo": 150,
+            "segunda_tercera_fila_abatibles": 1566
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo km/l (Ciudad / Carretera / Mixto)",
+            "KYX7_1.6T_7DCT_STD": "9,9 / 15,7 / 12,9",
+            "KYX7_1.6T_7DCT_LUX": "9,9 / 15,7 / 12,9",
+            "KYX7_2.0T_7DCT_LUX": "8,6 / 14,5 / 11,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores abatibles electrónicamente",
+                "KYX7_1.6T_7DCT_STD": false,
+                "KYX7_1.6T_7DCT_LUX": true,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Espejo exterior con ajuste en reversa",
+                "KYX7_1.6T_7DCT_STD": false,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Simulación ruido motor exterior con parlante",
+                "KYX7_1.6T_7DCT_STD": false,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Parlante para audio exterior",
+                "KYX7_1.6T_7DCT_STD": false,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Comandos de voz en inglés",
+                "KYX7_1.6T_7DCT_STD": false,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Parlantes totales",
+                "KYX7_1.6T_7DCT_STD": "6",
+                "KYX7_1.6T_7DCT_LUX": "8",
+                "KYX7_2.0T_7DCT_LUX": "12"
+            },
+            {
+                "caracteristica": "Asientos delanteros con memoria",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste lumbar",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Asiento conductor con función bienvenida",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Asiento copiloto con ajuste eléctrico",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Purificador de aire con iones negativos",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": false
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "CCS: Control crucero",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "Airbags de cabecera",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "RCTA: Alerta de tráfico cruzado trasero",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            },
+            {
+                "caracteristica": "RCW: Alerta de colisión trasera",
+                "KYX7_1.6T_7DCT_STD": true,
+                "KYX7_1.6T_7DCT_LUX": false,
+                "KYX7_2.0T_7DCT_LUX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena tipo alteta tiburón",
+            "Apertura y cierre de ventanas desde smart key",
+            "Barras en el techo",
+            "Cámara (función de estacionamiento panorámico 360)",
+            "Cámara 180° (chasis transparente)",
+            "Cierre automático al salir del vehículo",
+            "Espejos retrovisores eléctricos",
+            "Espejos retrovisores eléctricos calefaccionados",
+            "Focos con función encendido automático",
+            "Focos LED",
+            "Llantas de Aleación",
+            "Luces diurnas Led (DLR)",
+            "Luces regulares en altura",
+            "Luces traseras Led",
+            "Manillas ocultas",
+            "Función sigueme a casa (apagado de focos con retardo)",
+            "Neblinero trasero",
+            "Señalizadores en espejos retrovisores",
+            "Spoiler",
+            "Sunroof panorámico"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos (one button up & down)",
+            "Asiento copiloto con ajuste manual en 4 posiciones",
+            "Asiento tapiz eco-cuero",
+            "Asientos traseros abatibles 60/40",
+            "Bluetooth",
+            "Cierre centralizado",
+            "Radio con conectividad",
+            "Control de audio al volante",
+            "Modo de conducción (Eco/Normal/Sport)",
+            "Parasoles delanteros con espejo de cortesía",
+            "Puertos USB (delantero / trasero) 2/2",
+            "Portavasos delanteros",
+            "Panel de instrumentos digital",
+            "Pantalla infoentretenimiento 14,6\"",
+            "Reposabrazos con función de refrigeración",
+            "Reposabrazos en segunda fila",
+            "Salida aire acondicionado segunda fila",
+            "Smart key y botón de encendido",
+            "Toma de corriente 12V",
+            "Ventanas con antiatrapamiento",
+            "Volante forrado eco-cuero",
+            "Volante regulable en altura y profundidad",
+            "Volante con modos de ajuste (Standar / Comfort / Sport)",
+            "Aire acondicionado climatizado",
+            "Asiento conductor ajuste eléctrico en 6 posiciones",
+            "Asientos delanteros ventilados",
+            "Carga Inalámbrica",
+            "Espejo retrovisor interior antirreflejo automático",
+            "Luz ambiental",
+            "Portalón trasero eléctrico",
+            "Sensor de lluvia"
+        ],
+        "seguridad": [
+            "ABS+EBD",
+            "Airbags delanteros",
+            "Airbags laterales",
+            "Anclaje ISOFIX",
+            "BAS: Asistencia electrónica de frenado",
+            "BSD: Monitoreo de punto ciego",
+            "Cinturones de seguridad de tres puntas totales",
+            "ESP: Control de estabilidad",
+            "HDC: Asistente de control de descenso",
+            "HHC: Asistente de partida en pendiente",
+            "Inmovilizador",
+            "Recordatorio uso de cinturón conductor",
+            "Recordatorio uso de cinturón copiloto",
+            "Sensor de estacionamiento trasero",
+            "TCS: Control de tracción",
+            "TPMS: Monitor de presión de neumáticos",
+            "ACC: Control crucero adaptativo",
+            "AEB: Frenado automático de emergencia",
+            "HBA: Luces altas y bajas automáticas",
+            "FCW: Alerta de colisión frontal",
+            "LDWS: Sistema de advertencia de cambio de carril"
+        ]
+    },
+    "colores": [
+        "Blanco",
+        "Gris grafito",
+        "Azul",
+        "Plata",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (●=true, vacío o -=false, columna única=aplica a todas las versiones)",
+        "fuente": "KAIYI - FT KYX7.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Junio 2025. Garantía: 36 meses o 100.000 km (lo que ocurra primero)."
+    }
+}

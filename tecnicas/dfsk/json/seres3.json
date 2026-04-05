@@ -1,0 +1,188 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "SERES 3",
+        "año": null,
+        "versiones": [
+            "SERES 3"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SERES 3": "Permanent Magnet Synchronous"
+        },
+        "cilindrada": {
+            "SERES 3": null
+        },
+        "potencia_hp": {
+            "SERES 3": "120"
+        },
+        "potencia_rpm": {
+            "SERES 3": null
+        },
+        "torque_nm": {
+            "SERES 3": "300"
+        },
+        "torque_rpm": {
+            "SERES 3": null
+        },
+        "combustible": "Eléctrico",
+        "transmision": {
+            "SERES 3": "AT"
+        },
+        "traccion": {
+            "SERES 3": "4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Barra de torsión no independiente",
+        "frenos_delanteros": null,
+        "frenos_traseros": "Traseros",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "SERES 3": "225/55 R-18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4385,
+        "ancho_mm": 1850,
+        "alto_mm": 1650,
+        "distancia_ejes_mm": 2655,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2065,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía (WLTP) km",
+            "SERES 3": "329"
+        },
+        {
+            "caracteristica": "0 a 100 km/h (s)",
+            "SERES 3": "8,9"
+        },
+        {
+            "caracteristica": "Capacidad energía batería (kWh)",
+            "SERES 3": "53"
+        },
+        {
+            "caracteristica": "Tiempo de carga rápida",
+            "SERES 3": "0.5h (20-80%)"
+        },
+        {
+            "caracteristica": "Tiempo de carga lenta",
+            "SERES 3": "8hs (6.7kw)"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "SERES 3": "Ecocuero"
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "SERES 3": 6
+            },
+            {
+                "caracteristica": "Asiento piloto y copiloto con ajuste",
+                "SERES 3": "Eléctrico"
+            },
+            {
+                "caracteristica": "Alza vidrios de un toque",
+                "SERES 3": 4
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "SERES 3": "10,25''"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "SERES 3": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara retroceso",
+                "SERES 3": "360°"
+            },
+            {
+                "caracteristica": "Airbags",
+                "SERES 3": 6
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Drive Multi Mode",
+                "SERES 3": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Sunroof panorámico",
+            "Espejos laterales con señalador de viraje",
+            "Espejos laterales con defroster",
+            "Espejos laterales con regulador eléctrico",
+            "Defroster luneta trasera",
+            "Limpia parabrisas trasero",
+            "Neblineros traseros",
+            "Regulador de altura de luces",
+            "Luces diurnas",
+            "Antena tipo aleta de tiburón",
+            "Alarma de luces encendidas",
+            "Llantas aleación"
+        ],
+        "interior": [
+            "Velocidad crucero",
+            "Control de descenso",
+            "Cubre maleta",
+            "Manubrio ajustable en altura",
+            "Asientos delanteros calefaccionados",
+            "Selector de cambios eléctrico",
+            "Selector de modos de conducción",
+            "Aire acondicionado",
+            "Salida trasera aire",
+            "Alza vidrios eléctricos",
+            "Apertura y cierre de vidrios a distancia",
+            "Sistema de vidrios anti apriete",
+            "USB / Auxiliar",
+            "Bluetooth",
+            "Control de radio al volante",
+            "Smart Key",
+            "Apertura y cierre a distancia"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Monitor digital de presión de neumáticos (TPMS)",
+            "Sensor de proximidad trasero",
+            "Sensor de proximidad delanteros",
+            "Sistema Auto Hold",
+            "Inmovilizador"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo",
+        "Negro",
+        "Blanco",
+        "Azul"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Si=true, vacío/-=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica-seres-3-2024-web.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información visible del documento. La ficha indica potencia total en kW y no en HP, por lo que se conservó tal cual dentro del campo potencia_hp para no inventar conversiones. No se indican cilindrada, capacidad de estanque, despeje_suelo, capacidad de maletero, frenos delanteros ni rueda de repuesto en el documento."
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "T60 MAX",
+        "año": null,
+        "versiones": [
+            "GL_8AT_E6",
+            "GLX_8AT_E6"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL_8AT_E6": "SAIC D20 TURBO",
+            "GLX_8AT_E6": "SAIC D20 TURBO"
+        },
+        "cilindrada": {
+            "GL_8AT_E6": 1.996,
+            "GLX_8AT_E6": 1.996
+        },
+        "potencia_hp": {
+            "GL_8AT_E6": "163",
+            "GLX_8AT_E6": "163"
+        },
+        "potencia_rpm": {
+            "GL_8AT_E6": null,
+            "GLX_8AT_E6": null
+        },
+        "torque_nm": {
+            "GL_8AT_E6": "400",
+            "GLX_8AT_E6": "400"
+        },
+        "torque_rpm": {
+            "GL_8AT_E6": null,
+            "GLX_8AT_E6": null
+        },
+        "combustible": {
+            "GL_8AT_E6": "Diesel",
+            "GLX_8AT_E6": "Diesel"
+        },
+        "sistema_alimentacion": {
+            "GL_8AT_E6": null,
+            "GLX_8AT_E6": null
+        },
+        "norma_emisiones": {
+            "GL_8AT_E6": "Euro 6C",
+            "GLX_8AT_E6": "Euro 6C"
+        },
+        "transmision": {
+            "GL_8AT_E6": "ZF Automática 8 velocidades",
+            "GLX_8AT_E6": "ZF Automática 8 velocidades"
+        },
+        "traccion": {
+            "GL_8AT_E6": "4X4",
+            "GLX_8AT_E6": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": "Hidráulica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Ballestas",
+        "frenos_delanteros": "Disco (en 4 ruedas)",
+        "frenos_traseros": "Disco (en 4 ruedas)",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "GL_8AT_E6": "265/60 R18 HT",
+            "GLX_8AT_E6": "265/60 R18 HT"
+        },
+        "rueda_repuesto": {
+            "GL_8AT_E6": "265/60 R18 HT",
+            "GLX_8AT_E6": "265/60 R18 HT"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 5365,
+        "ancho_mm": 1990,
+        "alto_mm": 1809,
+        "distancia_ejes_mm": 3155,
+        "numero_pasajeros": null,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de arrastre (kg) (carro con freno)",
+            "GL_8AT_E6": "3000",
+            "GLX_8AT_E6": "3000"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "GL_8AT_E6": "1020",
+            "GLX_8AT_E6": "1020"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "GL_8AT_E6": "3050",
+            "GLX_8AT_E6": "3050"
+        },
+        {
+            "caracteristica": "Despeje mínimo del suelo (mm)",
+            "GL_8AT_E6": "215",
+            "GLX_8AT_E6": "215"
+        },
+        {
+            "caracteristica": "Llantas de aleación",
+            "GL_8AT_E6": "18\"",
+            "GLX_8AT_E6": "18\""
+        },
+        {
+            "caracteristica": "Modos de conducción",
+            "GL_8AT_E6": "Normal / Eco / Sport",
+            "GLX_8AT_E6": "Normal / Eco / Sport"
+        },
+        {
+            "caracteristica": "Frenos de disco en 4 ruedas",
+            "GL_8AT_E6": true,
+            "GLX_8AT_E6": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores con ajuste eléctrico y calefaccionados",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": "SI, CALEFACCIONADOS"
+            },
+            {
+                "caracteristica": "Apertura de capó",
+                "GL_8AT_E6": "Varilla",
+                "GLX_8AT_E6": "Bombines"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Iluminación exterior frontal",
+                "GL_8AT_E6": "LED",
+                "GLX_8AT_E6": "LED"
+            },
+            {
+                "caracteristica": "Iluminación exterior trasera",
+                "GL_8AT_E6": "LED",
+                "GLX_8AT_E6": "LED"
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Iluminación LED diurna",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "GL_8AT_E6": false,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "GL_8AT_E6": "Traseros",
+                "GLX_8AT_E6": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero automático",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Portalón con amortiguador",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Paddle shift",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Volante forrado en ecocuero",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Volante ajustable en altura",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Espejos retrovisor anti encandilamiento",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Ajuste asiento conductor",
+                "GL_8AT_E6": "Manual 6 posiciones",
+                "GLX_8AT_E6": "Eléctrico 6 posiciones"
+            },
+            {
+                "caracteristica": "Ajuste asiento copiloto",
+                "GL_8AT_E6": "Manual 4 posiciones",
+                "GLX_8AT_E6": "Eléctrico 6 posiciones"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "GL_8AT_E6": false,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Tapiz de asientos",
+                "GL_8AT_E6": "Tela",
+                "GLX_8AT_E6": "Cuero"
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "GL_8AT_E6": "Digital 10,25\"",
+                "GLX_8AT_E6": "Digital 10,25\""
+            },
+            {
+                "caracteristica": "Radio Touchscreen",
+                "GL_8AT_E6": "12,3\"",
+                "GLX_8AT_E6": "12,3\""
+            },
+            {
+                "caracteristica": "Keyless",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Botón de encendido",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Salida de aire en plazas traseras",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Conectividad Apple Car Play / Android Auto",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "GL_8AT_E6": "6",
+                "GLX_8AT_E6": "6"
+            },
+            {
+                "caracteristica": "Guantera central refrigerada",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control crucero",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": "SI, ADAPTATIVO"
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia",
+                "GL_8AT_E6": false,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Alarma de cambio de carril LDW",
+                "GL_8AT_E6": false,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Monitor de fatiga del conductor",
+                "GL_8AT_E6": false,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Sistema de protección antivuelco",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Sistema antibloqueo de frenos ABS",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Asistente de frenado de emergencia EBA",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Control de estabilidad ESP",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos TPMS",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "GL_8AT_E6": false,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "GL_8AT_E6": "Trasera HD",
+                "GLX_8AT_E6": "360° HD"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "GL_8AT_E6": "Traseros",
+                "GLX_8AT_E6": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Cinturones de seguridad con pretensor",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Sistema para protección de niños ISOFIX iSIZE",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "GL_8AT_E6": true,
+                "GLX_8AT_E6": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; cuando el dato aparece como una sola celda en la tabla, aplica a todas las versiones).",
+        "fuente": "MAXUS_FT-T60_MAX.pdf",
+        "versiones_en_documento": 2,
+        "notas": null
+    }
+}

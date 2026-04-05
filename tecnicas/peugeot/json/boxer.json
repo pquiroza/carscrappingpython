@@ -1,0 +1,143 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "BOXER",
+        "año": 2025,
+        "versiones": [
+            "L2H2",
+            "L3H2",
+            "L4H2"
+        ]
+    },
+    "motor": {
+        "tipo": "2.2L Turbo Diesel Heavy Range",
+        "cilindrada": "2200",
+        "potencia_hp": "165",
+        "potencia_rpm": "3750",
+        "torque_nm": "340",
+        "torque_rpm": "1750-2500",
+        "combustible": "Diésel",
+        "transmision": "Mecánica 6 velocidades",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson con barra estabilizadora",
+        "suspension_trasera": "Barra anti torsión reforzada",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "225/75 R16",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "5413 / 5998 / 6363",
+        "ancho_mm": "2050",
+        "alto_mm": "2522",
+        "distancia_ejes_mm": "3450 / 4035 / 4035",
+        "despeje_suelo_mm": "162 / 155 / 155",
+        "peso_bruto_kg": "3500",
+        "capacidad_maletero_lts": "11.5 / 13 / 15 m3",
+        "capacidad_estanque_lts": "90"
+    },
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso vacío (kg)",
+            "L2H2": "1965",
+            "L3H2": "2015",
+            "L4H2": "2090"
+        },
+        {
+            "caracteristica": "Carga útil (kg)",
+            "L2H2": "1535",
+            "L3H2": "1485",
+            "L4H2": "1410"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Remolque con freno (kg)",
+            "L2H2": "3000",
+            "L3H2": "3000",
+            "L4H2": "3000"
+        },
+        {
+            "caracteristica": "Remolque sin freno (kg)",
+            "L2H2": "750",
+            "L3H2": "750",
+            "L4H2": "750"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "L2H2": "156",
+            "L3H2": "156",
+            "L4H2": "156"
+        },
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "L2H2": "11.2",
+            "L3H2": "11.2",
+            "L4H2": "11.2"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "L2H2": "13.2",
+            "L3H2": "13.2",
+            "L4H2": "13.2"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "L2H2": "12.4",
+            "L3H2": "12.4",
+            "L4H2": "12.4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Aire acondicionado",
+            "Alzavidrios eléctricos",
+            "Asiento conductor con apoyabrazo",
+            "Regulación altura asiento",
+            "Dirección asistida variable",
+            "Control crucero",
+            "Limitador velocidad",
+            "Computador a bordo",
+            "Toma 12V cabina",
+            "Cierre centralizado remoto"
+        ],
+        "exterior": [
+            "Faros halógenos",
+            "Intermitentes en espejos",
+            "Protecciones laterales negras",
+            "Puerta lateral corrediza",
+            "Puertas traseras 270°"
+        ],
+        "seguridad": [
+            "ABS + AFU",
+            "ESP + ASR",
+            "Hill Assist",
+            "Airbags conductor + pasajero + laterales",
+            "Alarma perimétrica",
+            "Antiarranque electrónico",
+            "Cierre automático en marcha",
+            "Suspensión reforzada",
+            "Protección bajo motor"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Boxer 2025",
+        "versiones_en_documento": 3,
+        "notas": "Variantes L2H2, L3H2 y L4H2 comparten motor y equipamiento."
+    }
+}

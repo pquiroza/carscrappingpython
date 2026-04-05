@@ -1,0 +1,178 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Nuevo Octavia VRS",
+        "año": null,
+        "versiones": [
+            "VRS 2.0 TFSI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "VRS 2.0 TFSI": "2,0 TFSI"
+        },
+        "cilindrada": {
+            "VRS 2.0 TFSI": "2,0"
+        },
+        "potencia_hp": {
+            "VRS 2.0 TFSI": "265"
+        },
+        "potencia_rpm": {
+            "VRS 2.0 TFSI": "5.000-6.500"
+        },
+        "torque_nm": {
+            "VRS 2.0 TFSI": "370"
+        },
+        "torque_rpm": {
+            "VRS 2.0 TFSI": "1.600-4.300"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "VRS 2.0 TFSI": "DSG 7 velocidades"
+        },
+        "traccion": {
+            "VRS 2.0 TFSI": "Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con brazos triangulares inferiores y estabilizador de torsión",
+        "suspension_trasera": "Independiente Four-link con estabilizador de torsión",
+        "frenos_delanteros": "Freno de disco delantero y trasero",
+        "frenos_traseros": "Freno de disco delantero y trasero",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "VRS 2.0 TFSI": "225/40 R19 93Y"
+        },
+        "rueda_repuesto": "Rueda de repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4702,
+        "ancho_mm": 1829,
+        "alto_mm": 1457,
+        "distancia_ejes_mm": 2681,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "600 / 1.555",
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "VRS 2.0 TFSI": "6,4"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "VRS 2.0 TFSI": "250"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros Matrix LED",
+            "Faros traseros LED con luz de giro dinámica y animación de bienvenida",
+            "Calipers en rojo",
+            "Preparación para tiro de arrastre",
+            "Inscripción de modelo en negro",
+            "Llantas de aleación 19” con diseño VRS",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Neumáticos deportivos 225/40 R19 93Y",
+            "Regulación para alcance de luces automático",
+            "Rejilla radiador exterior en color negro",
+            "Retrovisor exterior conductor con función antideslumbrante",
+            "Retrovisores exteriores eléctricos con memoria, calefactados y abatibles eléctricamente",
+            "Retrovisores exteriores en color negro",
+            "Vidrios traseros tintados"
+        ],
+        "interior": [
+            "Alfombrillas en la parte delantera y trasera",
+            "Alzavidrios eléctricos con interruptor confort y limitador de fuerza",
+            "Apoyabrazos delantero \"Jumbo Box\"",
+            "Apoyabrazos trasero",
+            "Asientos traseros abatibles 60:40",
+            "Asientos delanteros deportivos VRS con costuras en rojo",
+            "Asientos delanteros con ajuste eléctrico, memoria, calefacción y función masaje",
+            "Guantera iluminada",
+            "Iluminación ambiental multicolor",
+            "Molduras interiores en aspecto fibra de carbono",
+            "Pedales en aluminio",
+            "Retrovisor interior con función antideslumbrante",
+            "Soporte lumbar con ajuste eléctrico",
+            "Superficies en microfibra con costuras en rojo",
+            "Tapizado Tela “Suedia” con cuero sintético",
+            "Volante deportivo multifunción en cuero de 3 radios con levas de cambio"
+        ],
+        "seguridad": [
+            "6 Airbags: frontales, laterales delanteros y de cortina",
+            "Alarma con vigilancia de habitáculo, sirena y protección contra remolque",
+            "Anclaje para asientos de niños",
+            "Asistencia hidráulica de freno (HBA)",
+            "Aviso de presión de neumáticos",
+            "Bloqueo electrónico de diferencial (EDS)",
+            "Control de asistencia para arranque en pendientes",
+            "Control de inercia del par motor (MSR)",
+            "Control de tracción electrónico (ASR)",
+            "Control dinámico de chasis (DCC)",
+            "Diferencial de deslizamiento limitado electrónico",
+            "Driver alert: Detector de fatiga del conductor",
+            "Rueda de repuesto",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Testigo visual y acústico de cinturón de seguridad",
+            "Front Assist: Radar con función frenado de emergencia"
+        ],
+        "tecnologia": [
+            "Altavoces 8",
+            "Carga inalámbrica para smartphones*",
+            "Climatizador \"Climatronic\" de 3 zonas",
+            "Control crucero con limitador de velocidad",
+            "Entrada USB-C",
+            "“Keyless Access” y botón de encendido",
+            "Lane Assist: Aviso de salida de carril",
+            "Modos de conducción ECO, Normal, Sport y Custom, incluye Sport Chasis Control",
+            "Porta paraguas puerta del conductor (incluye paraguas)",
+            "Radio “Columbus” con pantalla touch de 13”, Voice control, Bluetooth y Navegación",
+            "Sensor de luz y lluvia",
+            "Sensores de estacionamiento delantero y trasero, con cámara 360°",
+            "Side Assist: Asistente de cambio de carril",
+            "Sistema Start-Stop con frenado regenerativo",
+            "Sistema de escape deportivo VRS",
+            "SmartLink inalámbrico (Función CarPlay, Android Auto & MirrorLink)",
+            "Virtual Cockpit con funciones específicas VRS",
+            "Canton Soundsystem",
+            "Maletero con apertura y cierre eléctrico"
+        ],
+        "adas": [
+            "Driver alert: Detector de fatiga del conductor",
+            "Lane Assist: Aviso de salida de carril",
+            "Side Assist: Asistente de cambio de carril",
+            "Front Assist: Radar con función frenado de emergencia"
+        ]
+    },
+    "colores": [
+        "Blanco Glaciar",
+        "Plata Brillante",
+        "Gris Acero",
+        "Gris Grafito",
+        "Verde Mamba",
+        "Negro Metálico",
+        "Rojo Velvet",
+        "Azul Carrera"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (●=presente; 〇/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Octavia-VRS-MY25-copy2.pdf",
+        "versiones_en_documento": 1,
+        "notas": "En dimensiones el ancho aparece como ‘1.829 / 2.003 (incluyendo espejos)’. En la tabla de Datos Técnicos se reporta aceleración 0-100 km/h y velocidad máxima."
+    }
+}

@@ -1,0 +1,551 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "TRACKER TURBO",
+        "año": null,
+        "versiones": [
+            "1.2T LS MT R",
+            "1.2T LTZ MT R",
+            "1.2T LTZ AT R",
+            "1.2T PREMIER AT P4",
+            "1.2T RS AT R",
+            "1.2T PREMIER AT R"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.2T LS MT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T LTZ MT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T LTZ AT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T PREMIER AT P4": "1.2L TURBO DOHC 3CYL",
+            "1.2T RS AT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T PREMIER AT R": "1.2L TURBO DOHC 3CYL"
+        },
+        "cilindrada": {
+            "1.2T LS MT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T LTZ MT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T LTZ AT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T PREMIER AT P4": "1.2L TURBO DOHC 3CYL",
+            "1.2T RS AT R": "1.2L TURBO DOHC 3CYL",
+            "1.2T PREMIER AT R": "1.2L TURBO DOHC 3CYL"
+        },
+        "potencia_hp": {
+            "1.2T LS MT R": "130",
+            "1.2T LTZ MT R": "130",
+            "1.2T LTZ AT R": "130",
+            "1.2T PREMIER AT P4": "130",
+            "1.2T RS AT R": "130",
+            "1.2T PREMIER AT R": "130"
+        },
+        "potencia_rpm": {
+            "1.2T LS MT R": "@5.500",
+            "1.2T LTZ MT R": "@5.500",
+            "1.2T LTZ AT R": "@5.500",
+            "1.2T PREMIER AT P4": "@5.500",
+            "1.2T RS AT R": "@5.500",
+            "1.2T PREMIER AT R": "@5.500"
+        },
+        "torque_nm": {
+            "1.2T LS MT R": "190",
+            "1.2T LTZ MT R": "190",
+            "1.2T LTZ AT R": "190",
+            "1.2T PREMIER AT P4": "190",
+            "1.2T RS AT R": "190",
+            "1.2T PREMIER AT R": "190"
+        },
+        "torque_rpm": {
+            "1.2T LS MT R": "@2.000",
+            "1.2T LTZ MT R": "@2.000",
+            "1.2T LTZ AT R": "@2.000",
+            "1.2T PREMIER AT P4": "@2.000",
+            "1.2T RS AT R": "@2.000",
+            "1.2T PREMIER AT R": "@2.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.2T LS MT R": "Mecánica 5 velocidades",
+            "1.2T LTZ MT R": "Mecánica 5 velocidades",
+            "1.2T LTZ AT R": "Automática 6 velocidades",
+            "1.2T PREMIER AT P4": "Automática 6 velocidades",
+            "1.2T RS AT R": "Automática 6 velocidades",
+            "1.2T PREMIER AT R": "Automática 6 velocidades"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Eje de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.2T LS MT R": null,
+            "1.2T LTZ MT R": null,
+            "1.2T LTZ AT R": null,
+            "1.2T PREMIER AT P4": null,
+            "1.2T RS AT R": null,
+            "1.2T PREMIER AT R": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4270,
+        "ancho_mm": 1791,
+        "alto_mm": {
+            "1.2T LS MT R": 1626,
+            "1.2T LTZ MT R": 1627,
+            "1.2T LTZ AT R": 1627,
+            "1.2T PREMIER AT P4": 1627,
+            "1.2T RS AT R": 1627,
+            "1.2T PREMIER AT R": 1627
+        },
+        "distancia_ejes_mm": 2570,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.2T LS MT R": 1610,
+            "1.2T LTZ MT R": 1624,
+            "1.2T LTZ AT R": 1651,
+            "1.2T PREMIER AT P4": 1673,
+            "1.2T RS AT R": 1651,
+            "1.2T PREMIER AT R": 1673
+        },
+        "capacidad_maletero_lts": 393,
+        "capacidad_estanque_lts": 44,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Peso neto del vehículo (kg)",
+            "1.2T LS MT R": "1200",
+            "1.2T LTZ MT R": "1214",
+            "1.2T LTZ AT R": "1241",
+            "1.2T PREMIER AT P4": "1263",
+            "1.2T RS AT R": "1241",
+            "1.2T PREMIER AT R": "1263"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "1.2T LS MT R": "410",
+            "1.2T LTZ MT R": "410",
+            "1.2T LTZ AT R": "410",
+            "1.2T PREMIER AT P4": "410",
+            "1.2T RS AT R": "410",
+            "1.2T PREMIER AT R": "410"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Focos delanteros de proyección halógenos",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Focos delanteros de proyección LED",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Foco delantero con control automático",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Espejos exteriores eléctricos con señalizador",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisa con sensor de lluvia",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Grilla cromada",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Grilla Negro Brillante",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Conexión WiFi 4G LTE",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "MyChevrolet App",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Aire acondicionado con filtro de particulas",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Aire acondicionado con filtro de particulas CON Display digital",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Pantalla MyLink 8''",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Proyección inalámbrica de celular en pantalla",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sistema de audio de 4 parlantes",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Sistema de audio de 6 parlantes",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Pantalla cluster monocromática de 3,5\"",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": "√√",
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Pantalla cluster avanzada a color de 3,5\"",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de tela",
+                "1.2T LS MT R": true,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Asientos con tapiz de tela y Ecocuero",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Asientos con tapiz de Ecocuero",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de Ecocuero costuras rojas",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Apoyabrazos trasero con posavasos",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Volante con acabado en Ecocuero",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Smart Key",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Botón de encendido",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Encendido remoto con MyChevrolet App",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior fotocromático",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celular",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Tecnología OnStar ®",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento Trasero",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": true,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento Delantero",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": true,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Alerta de colision frontal",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Alerta seguimiento de distancia",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Frenado automatico de baja velocidad",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": true,
+                "1.2T PREMIER AT P4": "√√",
+                "1.2T RS AT R": true,
+                "1.2T PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Asistente estacionamiento semi-automático",
+                "1.2T LS MT R": false,
+                "1.2T LTZ MT R": false,
+                "1.2T LTZ AT R": false,
+                "1.2T PREMIER AT P4": false,
+                "1.2T RS AT R": false,
+                "1.2T PREMIER AT R": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luz de posicionamiento LED",
+            "Espejos exteriores eléctricos",
+            "Barras de techo",
+            "Desempañador de luneta trasera",
+            "Spoiler trasero"
+        ],
+        "interior": [
+            "Pantalla MyLink 8''",
+            "Conectividad Apple CarPlay",
+            "Conectividad Android Auto",
+            "Control de audio al volante",
+            "Asiento con ajuste conductor de 6 posiciones",
+            "Asiento con ajuste pasajero de 4 posiciones",
+            "Asiento trasero bi-partido abatible",
+            "Apoyabrazos central delantero",
+            "Volante ajustable en altura y profundidad",
+            "Alza vidrios eléctricos con Express Up/Down",
+            "Control remoto con Express Up/Down",
+            "Cierre centralizado con mando a distancia",
+            "Puntos de conexión USB",
+            "Toma corriente 12V"
+        ],
+        "seguridad": [
+            "Airbag frontal",
+            "Airbag lateral",
+            "Airbag cortina",
+            "Frenos de disco con ABS + EBD",
+            "Control de estabilidad (ESC)",
+            "Control de Tracción (TCS)",
+            "Asistente de arranque en pendiente (HSA)",
+            "Cámara de Retroceso",
+            "Limitador de velocidad",
+            "Sistema inmovilizador antirrobo",
+            "Cinturón de seguridad de 3 puntas ajustable en altura",
+            "Alerta cituron de seguridad",
+            "Zona de deformación programada",
+            "Isofix"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "PLATA METÁLICO",
+        "BLANCO",
+        "NEGRO",
+        "GRIS METÁLICO",
+        "ROJO BURDEO METÁLICO",
+        "AZUL OSCURO METÁLICO",
+        "PLATA OSCURO METÁLICO",
+        "GRIS OSCURO METÁLICO"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de tabla Chevrolet (círculo negro=presente, círculo blanco/vacío=no presente; se mapearon los símbolos del PDF a true/false y se dejó texto/valores tal cual)",
+        "fuente": "ft-tracker-my2024.pdf",
+        "versiones_en_documento": 6,
+        "notas": "En el PDF el equipamiento está marcado con √ y ausencia con '-' o vacío. Donde el documento no entrega valor explícito (p. ej., neumáticos, freno_estacionamiento, despeje), se dejó null. Algunos campos aparecen con '√√' en el PDF y se mantuvieron tal cual."
+    }
+}

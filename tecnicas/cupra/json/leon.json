@@ -1,0 +1,237 @@
+{
+    "vehiculo": {
+        "marca": "CUPRA",
+        "modelo": "LEÓN",
+        "año": null,
+        "versiones": [
+            "1.5 TSI MHEV",
+            "VZ 2.0 TSI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5 TSI MHEV": "Turbo inyección directa",
+            "VZ 2.0 TSI": "Turbo inyección directa"
+        },
+        "cilindrada": {
+            "1.5 TSI MHEV": 1498,
+            "VZ 2.0 TSI": 1984
+        },
+        "potencia_hp": {
+            "1.5 TSI MHEV": "150",
+            "VZ 2.0 TSI": "300"
+        },
+        "potencia_rpm": {
+            "1.5 TSI MHEV": null,
+            "VZ 2.0 TSI": null
+        },
+        "torque_nm": {
+            "1.5 TSI MHEV": "250",
+            "VZ 2.0 TSI": "400"
+        },
+        "torque_rpm": {
+            "1.5 TSI MHEV": "1.500-3.500",
+            "VZ 2.0 TSI": "2.000-5.200"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5 TSI MHEV": "DSG 7",
+            "VZ 2.0 TSI": "DSG 7"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": {
+            "1.5 TSI MHEV": "Discos sólidos",
+            "VZ 2.0 TSI": "Discos"
+        },
+        "freno_estacionamiento": "S / con Auto Hold",
+        "neumaticos": {
+            "1.5 TSI MHEV": "225/40 R18",
+            "VZ 2.0 TSI": "235/35 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4398,
+        "ancho_mm": 1799,
+        "alto_mm": 1444,
+        "distancia_ejes_mm": 2686,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 380,
+        "capacidad_estanque_lts": {
+            "1.5 TSI MHEV": 45,
+            "VZ 2.0 TSI": 50
+        },
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "1.5 TSI MHEV": "215",
+            "VZ 2.0 TSI": "250"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (segundos)",
+            "1.5 TSI MHEV": "8,7",
+            "VZ 2.0 TSI": "5,7"
+        },
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "1.5 TSI MHEV": "15,4",
+            "VZ 2.0 TSI": "10,5"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "1.5 TSI MHEV": "19,4",
+            "VZ 2.0 TSI": "17,3"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "1.5 TSI MHEV": "17,7",
+            "VZ 2.0 TSI": "14,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación (pulgadas)",
+                "1.5 TSI MHEV": "18\"",
+                "VZ 2.0 TSI": "19\""
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "1.5 TSI MHEV": "225/40 R18",
+                "VZ 2.0 TSI": "235/35 R19"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos / tapizado",
+                "1.5 TSI MHEV": "Bucket / Dinámica",
+                "VZ 2.0 TSI": "Bucket / Cuero"
+            }
+        ],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            },
+            {
+                "caracteristica": "Detector de fatiga",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego Side Assist",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            },
+            {
+                "caracteristica": "Intelligent Park Assist (IPA)",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            },
+            {
+                "caracteristica": "Modo de conducción Cupra",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            },
+            {
+                "caracteristica": "Sistema de navegación",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            },
+            {
+                "caracteristica": "Sistema de sonido Sennheiser",
+                "1.5 TSI MHEV": false,
+                "VZ 2.0 TSI": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores con ajuste eléctrico, térmicos (S / y con memoria)",
+            "Espejos exteriores abatibles eléctricos",
+            "Luces diurnas LED",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Neblineros",
+            "Techo corredizo panorámico",
+            "Vidrios traseros tinteados"
+        ],
+        "interior": [
+            "Asientos con ajuste en altura eléctrico y memoria",
+            "Asientos con ajuste lumbar eléctrico",
+            "Reposabrazo central delantero",
+            "Asientos delanteros calefaccionados",
+            "Volante multifuncional forrado en cuero",
+            "Retrovisor interior antideslumbrante automático"
+        ],
+        "seguridad": [
+            "ABS (Sistema de Frenos Antibloqueo)",
+            "ASR (Control de Tracción)",
+            "EDS (Bloqueo Electrónico del Diferencial)",
+            "ESC (Control Electrónico de Estabilidad)",
+            "Anclajes de asiento infantil. Sistema ISOFIX",
+            "Airbag frontal para conductor y pasajero delantero",
+            "Airbags laterales delanteros y traseros",
+            "Airbags de cortina",
+            "Airbag central delantero",
+            "Airbag de rodilla para el conductor",
+            "Inmovilizador electrónico",
+            "10 airbags"
+        ],
+        "tecnologia": [
+            "Alarma volumétrica",
+            "Bluetooth",
+            "Cámara de retroceso",
+            "Cargador inalámbrico",
+            "Cierre centralizado con control remoto",
+            "Climatizador automático 3-zonas",
+            "Control crucero",
+            "Digital Cockpit 10,25\"",
+            "Encendido automático de las luces",
+            "Entradas USB",
+            "Freno de mano electromecánico",
+            "Full Link inalámbrico (Android Auto & CarPlay)",
+            "Indicador de presión de neumáticos",
+            "Keyless Entry y botón de encendido",
+            "Levas de cambio/Paddle Shifters",
+            "Parlantes (11 + subwoofer)",
+            "Radio touchscreen de 12,9\"",
+            "Sensor de lluvia",
+            "Sensores de estacionamientos delanteros y traseros"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Glacial",
+        "Azul Fiord",
+        "Gris Grafeno",
+        "Gris Magnético",
+        "Gris Magnético Mate (*Disponible en versión VZ)",
+        "Negro Media Noche",
+        "Bronce Century Mate (*Disponible en versión VZ)",
+        "Gris Encelado Mate (*Disponible en versión VZ)",
+        "Dark Void",
+        "Gris Taiga"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica CUPRA (S=true, -=false; textos/valores tal cual)",
+        "fuente": "ficha-tecnica-Leon-Cupra-25.12.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyeron todos los datos técnicos, dimensiones, desempeño, capacidades, equipamiento exterior/interior/seguridad/funcionalidad y colores según tabla del PDF."
+    }
+}

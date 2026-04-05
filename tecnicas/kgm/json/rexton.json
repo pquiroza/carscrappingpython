@@ -1,0 +1,517 @@
+{
+    "vehiculo": {
+        "marca": "KGM",
+        "modelo": "REXTON",
+        "año": null,
+        "versiones": [
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA",
+            "BLACK EDITION YRX224"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "4 EN LÍNEA, MOTOR LONGITUDINAL",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "4 EN LÍNEA, MOTOR LONGITUDINAL",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "4 EN LÍNEA, MOTOR LONGITUDINAL",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "4 EN LÍNEA, MOTOR LONGITUDINAL",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "4 EN LÍNEA, MOTOR LONGITUDINAL",
+            "BLACK EDITION YRX224": "4 EN LÍNEA, MOTOR LONGITUDINAL"
+        },
+        "cilindrada": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": 2157,
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": 2157,
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": 2157,
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": 2157,
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": 2157,
+            "BLACK EDITION YRX224": 2157
+        },
+        "potencia_hp": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "202",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "202",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "202",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "202",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "202",
+            "BLACK EDITION YRX224": "202"
+        },
+        "potencia_rpm": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "3.800",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "3.800",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "3.800",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "3.800",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "3.800",
+            "BLACK EDITION YRX224": "3.800"
+        },
+        "torque_nm": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "441",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "441",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "441",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "441",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "441",
+            "BLACK EDITION YRX224": "441"
+        },
+        "torque_rpm": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "1.600 - 2.600",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "1.600 - 2.600",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "1.600 - 2.600",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "1.600 - 2.600",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "1.600 - 2.600",
+            "BLACK EDITION YRX224": "1.600 - 2.600"
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "Automática de 8 vel",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "Automática de 8 vel",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "Automática de 8 vel",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "Automática de 8 vel",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "Automática de 8 vel",
+            "BLACK EDITION YRX224": "Automática de 8 vel"
+        },
+        "traccion": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "2WD",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "2WD",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "4WD PART TIME (4H/4L)",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "4WD PART TIME (4H/4L)",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "4WD PART TIME (4H/4L)",
+            "BLACK EDITION YRX224": "4WD PART TIME (4H/4L)"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "235/70R17",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "255/60R18",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "255/60R18",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "255/60R18",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "255/50R20",
+            "BLACK EDITION YRX224": "255/50R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4850,
+        "ancho_mm": 1960,
+        "alto_mm": 1825,
+        "distancia_ejes_mm": 2865,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": 2850,
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": 2850,
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": 2960,
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": 2960,
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": 2960,
+            "BLACK EDITION YRX224": 2960
+        },
+        "capacidad_maletero_lts": "236 / 641",
+        "capacidad_estanque_lts": 70,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Emisiones de CO2 (g/km)",
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": null,
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": null,
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": null,
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": null,
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": null,
+            "BLACK EDITION YRX224": "232"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "8,5",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "8,5",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "8,5",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "8,5",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "8,5",
+            "BLACK EDITION YRX224": "8,5"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "14,2",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "14,2",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "14,2",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "14,2",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "14,2",
+            "BLACK EDITION YRX224": "14,2"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "11,4",
+            "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "11,5",
+            "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "11,6",
+            "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "11,7",
+            "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "11,8",
+            "BLACK EDITION YRX224": "11,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": true,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": true,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Apertura y cierre eléctrico del portalón y a distancia",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Control apertura y cierre de ventanas a distancia",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": false,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Parrilla frontal en gris oscuro",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": false,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Emblema frontal en gris oscuro",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": false,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Neblineros LED alargados",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": false,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Fender ensanchado en ambas ruedas",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": false,
+                "BLACK EDITION YRX224": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Dirección asistida",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "Hidráulicamente",
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "Hidráulicamente",
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "Hidráulicamente",
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "Electrónicamente",
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "Electrónicamente",
+                "BLACK EDITION YRX224": "Electrónicamente"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "17”",
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "18”",
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "18”",
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "18”",
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "20”",
+                "BLACK EDITION YRX224": "Negras 20”"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": "Tela",
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": "Eco cuero",
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": "Eco cuero",
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": "Cuero",
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "Cuero",
+                "BLACK EDITION YRX224": "Cuero"
+            },
+            {
+                "caracteristica": "Sistema de climatización bi zona touch",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": true,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": true,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Salida de aire acondicionado en tercera corrida",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Smart key (botón de arranque)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": true,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": true,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Comando electrónico de selección tracción (2H/4H/4L)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": true,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Asiento conductor con regulación eléctrica",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "3 memorias",
+                "BLACK EDITION YRX224": "3 memorias"
+            },
+            {
+                "caracteristica": "Asiento copiloto con regulación eléctrica",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico de celular",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": 2,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": 6,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": 6,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": 9,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": 9,
+                "BLACK EDITION YRX224": 9
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": true,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": true,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": true,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": true,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": "360º",
+                "BLACK EDITION YRX224": "360º"
+            },
+            {
+                "caracteristica": "Indicador electrónico de presión de neumáticos (TPMS)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Sistema de aviso de cambio involuntario de pista (LDWS)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Asistente de luces altas automáticas (HBA)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sistema de aviso de avance de vehículo delantero (FVSA)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia de cansancio del conductor (DAA)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de distancia de seguridad (SDA)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sistema de detección de punto ciego (BSW)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de tráfico cruzado (RCTA)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Sistema de frenado automático de emergencia (AEBS)",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo con Stop & Go",
+                "LX 2.2TD 8AT 2WD 2AB YRX200 SA": false,
+                "GLX 2.2TD 8AT 2WD 6AB YRX201 SA": false,
+                "GLX 2.2TD 8AT 4WD 6AB YRX211 SA": false,
+                "LIMITED 2.2TD 8AT 4WD 9AB YRX212 SA": false,
+                "LIMITED PLUS 2.2TD 8AT 4WD 9AB YRX712 SA": true,
+                "BLACK EDITION YRX224": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Tercera corrida de asientos",
+            "Espejos exteriores con defroster y ajustables eléctricamente",
+            "Luces LED delanteras y traseras",
+            "Luz día LED",
+            "Barras en techo"
+        ],
+        "interior": [
+            "Panel de climatización digital",
+            "Sistema de audio con Bluetooth y manos libres",
+            "Control de audio al volante",
+            "Control crucero",
+            "Puertos USB-C (2 delanteros y 2 traseros)",
+            "Volante multifunción forrado en cuero",
+            "Paddle shift (cambios detrás del volante)"
+        ],
+        "seguridad": [
+            "Frenos ABS",
+            "Sistema de arranque en pendiente (HSA)",
+            "Control de descenso en pendiente (HDC)",
+            "Sistema activo antivuelco (ARP)",
+            "Sistema de apoyo a la estabilidad del remolque (TSC)",
+            "Autohold",
+            "Sistema de anclaje ISOFIX",
+            "Sistema de control de estabilidad (ESP)",
+            "Sensor de estacionamiento trasero y delantero",
+            "Inmovilizador de motor antirrobo",
+            "Freno de estacionamiento eléctrico",
+            "Alarma",
+            "Neblineros delanteros y traseros"
+        ],
+        "tecnologia": [
+            "Pantalla flotante touch 12,5\" HD + Car Play y Android Auto"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "WHITE PEAR",
+        "SPACE BLACK",
+        "ATLANTIC BLUE",
+        "ELEMENTAL GRAY",
+        "MARBLE GRAY",
+        "GALAXIES GREY"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica KGM SsangYong (ticket negro=true, -=false; texto/valores tal cual)",
+        "fuente": "FICHA-TECNICA_REXTON_DIESEL-Black_compressed-3.pdf",
+        "versiones_en_documento": 6,
+        "notas": "Motor: relación de compresión 15.5:1; inyección Directa; sobrealimentación Turbo VGT; DOHC / 16 válvulas; norma de emisión EURO 6; país de fabricación Corea del Sur. Dimensiones adicionales: trocha delantera 1.640 mm; trocha trasera 1.640 mm. Capacidad remolque sin frenos 750 kg (todas). Capacidad remolque con frenos (kg): 2.700 (YRX200/YRX201) y 3.000 (YRX211/YRX212/YRX712/YRX224). Peso en orden de marcha (kg): 2.030 (YRX200/YRX201) y 2.130 (YRX211/YRX212/YRX712/YRX224). Caja de transferencia: PART TIME 4WD (para versiones 4WD)."
+    }
+}

@@ -1,0 +1,772 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "GS4 POWER",
+        "año": null,
+        "versiones": [
+            "1.5T GB MT",
+            "1.5 GB AT",
+            "1.5 GE AT",
+            "1.5 GL AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5T GB MT": "E-Turbo/GCCS/DCVVT",
+            "1.5 GB AT": "E-Turbo/GCCS/DCVVT",
+            "1.5 GE AT": "E-Turbo/GCCS/DCVVT",
+            "1.5 GL AT": "E-Turbo/GCCS/DCVVT"
+        },
+        "cilindrada": {
+            "1.5T GB MT": 1495,
+            "1.5 GB AT": 1495,
+            "1.5 GE AT": 1495,
+            "1.5 GL AT": 1495
+        },
+        "potencia_hp": {
+            "1.5T GB MT": "166",
+            "1.5 GB AT": "166",
+            "1.5 GE AT": "166",
+            "1.5 GL AT": "166"
+        },
+        "potencia_rpm": {
+            "1.5T GB MT": "5000",
+            "1.5 GB AT": "5000",
+            "1.5 GE AT": "5000",
+            "1.5 GL AT": "5000"
+        },
+        "torque_nm": {
+            "1.5T GB MT": "265",
+            "1.5 GB AT": "265",
+            "1.5 GE AT": "265",
+            "1.5 GL AT": "265"
+        },
+        "torque_rpm": {
+            "1.5T GB MT": "1700 - 4000",
+            "1.5 GB AT": "1700 - 4000",
+            "1.5 GE AT": "1700 - 4000",
+            "1.5 GL AT": "1700 - 4000"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5T GB MT": "MT",
+            "1.5 GB AT": "AT",
+            "1.5 GE AT": "AT",
+            "1.5 GL AT": "AT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electroasistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Frontal: McPherson Independent Suspension",
+        "suspension_trasera": "Trasera: Multi-link Beam Independiente",
+        "frenos_delanteros": "Discos 4 Ruedas",
+        "frenos_traseros": "Discos 4 Ruedas",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.5T GB MT": "225/60 R17",
+            "1.5 GB AT": "225/60 R17",
+            "1.5 GE AT": "225/55 R18",
+            "1.5 GL AT": "225/55 R18"
+        },
+        "rueda_repuesto": "Uso Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4545,
+        "ancho_mm": 1856,
+        "alto_mm": 1668,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1480kg-1540kg",
+        "capacidad_maletero_lts": "470L - 1560L",
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Km/L (Urbano)",
+            "1.5T GB MT": "10,2",
+            "1.5 GB AT": "10,8",
+            "1.5 GE AT": "10,8",
+            "1.5 GL AT": "10,8"
+        },
+        {
+            "caracteristica": "Consumo Km/L (Mixto)",
+            "1.5T GB MT": "13,0",
+            "1.5 GB AT": "14,5",
+            "1.5 GE AT": "14,5",
+            "1.5 GL AT": "14,5"
+        },
+        {
+            "caracteristica": "Consumo Km/L (Carretera)",
+            "1.5T GB MT": "15,4",
+            "1.5 GB AT": "17,9",
+            "1.5 GE AT": "17,9",
+            "1.5 GL AT": "17,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "1.5T GB MT": "Aleación",
+                "1.5 GB AT": "Aleación",
+                "1.5 GE AT": "Aleación",
+                "1.5 GL AT": "Aleación"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "1.5T GB MT": "225/60 R17",
+                "1.5 GB AT": "225/60 R17",
+                "1.5 GE AT": "225/55 R18",
+                "1.5 GL AT": "225/55 R18"
+            },
+            {
+                "caracteristica": "Rueda de repuesto",
+                "1.5T GB MT": "Uso Temporal",
+                "1.5 GB AT": "Uso Temporal",
+                "1.5 GE AT": "Uso Temporal",
+                "1.5 GL AT": "Uso Temporal"
+            },
+            {
+                "caracteristica": "Faros delanteros",
+                "1.5T GB MT": "Halógenos/Leading Lights",
+                "1.5 GB AT": "Halógenos/Leading Lights",
+                "1.5 GE AT": "LED/Leading Lights",
+                "1.5 GL AT": "LED/Leading Lights"
+            },
+            {
+                "caracteristica": "Headlights Height Adjustment/Alarm for Headlights On / Follow Me Home Funtion",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Regulación automática de la altura de los faros",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Luces de circulación diurna (DRL)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Luces antiniebla trasera",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Espejos laterales con ajuste eléctrico",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Espejos laterales con apertura eléctrica con desempañador",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Luz interior",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Interior oscuro",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Espejo de cortesía",
+                "1.5T GB MT": 2,
+                "1.5 GB AT": 2,
+                "1.5 GE AT": 2,
+                "1.5 GL AT": 2
+            },
+            {
+                "caracteristica": "Parasol",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Porta anteojos",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Porta documentos",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Porta vasos",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Encendedor",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "A/C",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado de segunda fila",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Volante tapizado en cuero sintético",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "1.5T GB MT": "Eco cuero",
+                "1.5 GB AT": "Eco cuero",
+                "1.5 GE AT": "Eco cuero",
+                "1.5 GL AT": "Eco cuero"
+            },
+            {
+                "caracteristica": "PM 2.5 Sensor",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Purificador de aire de iones negativos",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Parasoles delanteros dobles con espejos y luz",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con ajuste manual 6 posiciones",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": false,
+                "1.5 GL AT": false
+            },
+            {
+                "caracteristica": "Asiento del conductor con ajuste eléctrico 6 posiciones",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asiento del acompañante con ajuste manual 4 posiciones",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": false
+            },
+            {
+                "caracteristica": "Asiento del acompañante con ajuste eléctrico con 4 posiciones",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con soporte lumbar ajustable eléctricamente",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asiento del conductor ventilado",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Alzavidrio conductor one touch",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Reposacabeza central de la segunda fila",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos central de la segunda fila con portavasos",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": false,
+                "1.5 GL AT": false
+            },
+            {
+                "caracteristica": "Asientos abatibles 60/40 segunda fila",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Parabrisas trasero desempañado y descongelado",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "1.5T GB MT": true,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "1.5T GB MT": false,
+                "1.5 GB AT": true,
+                "1.5 GE AT": false,
+                "1.5 GL AT": false
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag frontal delantero",
+                "1.5T GB MT": "Piloto/Copiloto",
+                "1.5 GB AT": "Piloto/Copiloto",
+                "1.5 GE AT": "Piloto/Copiloto",
+                "1.5 GL AT": "Piloto/Copiloto"
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "1.5T GB MT": 2,
+                "1.5 GB AT": 2,
+                "1.5 GE AT": 2,
+                "1.5 GL AT": 2
+            },
+            {
+                "caracteristica": "Airbags laterales de cortina",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con cinturones de seguridad pretensionados",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asientos de segunda fila con cinturones de seguridad de tres puntos",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Alarma de no uso del cinturón de seguridad asientos delanteros - Luz+sonido",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Control electrónico de estabilidad (ESP)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Distribución de fuerza de frenado eléctrico (EBD)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asistencia de freno hidráulico (HBA)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Ayuda de arranque en pendiente (HHC)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Ayuda de descenso en pendientes (HDC)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Freno de mano electrónico (EPB) + Autohold",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Control de presión de neumáticos (TPMS)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Anclajes ISOFIX",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Seguro de niños en puertas traseras",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador del motor (con alarma antirrobo)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento con visión panorámica",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Frenado de emergencia autónomo (AEB)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo (ACC)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal (FCW)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asistencia de mantenimiento de carril (LKA)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asistente de luz de carretera (HMA)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Alerta de cambio involuntario de carril (LDW)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico (TJA)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Asistente de crucero integrado (ICA)",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": false,
+                "1.5 GL AT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio",
+                "1.5T GB MT": "Touch 8\"",
+                "1.5 GB AT": "Touch 8\"",
+                "1.5 GE AT": "Touch 12,3\"",
+                "1.5 GL AT": "Touch 12,3\""
+            },
+            {
+                "caracteristica": "Sistema de audio y video",
+                "1.5T GB MT": "CarPlay",
+                "1.5 GB AT": "CarPlay",
+                "1.5 GE AT": "Mirror Link",
+                "1.5 GL AT": "Mirror Link"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "1.5T GB MT": 6,
+                "1.5 GB AT": 6,
+                "1.5 GE AT": 6,
+                "1.5 GL AT": 6
+            },
+            {
+                "caracteristica": "Puerto USB",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Sistema de teléfono manos libres Bluetooth",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Control de crucero",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "PEPS (Entrada pasiva arranque pasivo)",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": false,
+                "1.5 GL AT": false
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento HD surround vision",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Botón START/STOP",
+                "1.5T GB MT": false,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Modo conducción ECO DRIVE",
+                "1.5T GB MT": false,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Modo conducción SPORT",
+                "1.5T GB MT": false,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Encendido motor a distancia",
+                "1.5T GB MT": false,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Sistema de apertura de puertas sin llave",
+                "1.5T GB MT": true,
+                "1.5 GB AT": true,
+                "1.5 GE AT": false,
+                "1.5 GL AT": false
+            },
+            {
+                "caracteristica": "Compatibilidad Power Watch",
+                "1.5T GB MT": false,
+                "1.5 GB AT": true,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            },
+            {
+                "caracteristica": "Navegación",
+                "1.5T GB MT": false,
+                "1.5 GB AT": false,
+                "1.5 GE AT": true,
+                "1.5 GL AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas (Aleación)",
+            "Rueda de repuesto (Uso Temporal)",
+            "Headlights Height Adjustment/Alarm for Headlights On / Follow Me Home Funtion",
+            "Regulación automática de la altura de los faros",
+            "Luces de circulación diurna (DRL)",
+            "Luces traseras LED",
+            "Luces antiniebla trasera",
+            "Espejos laterales con ajuste eléctrico",
+            "Espejos laterales con apertura eléctrica con desempañador"
+        ],
+        "interior": [
+            "Luz interior",
+            "Interior oscuro",
+            "Espejo de cortesía (2)",
+            "Parasol",
+            "Porta anteojos",
+            "Porta documentos",
+            "Porta vasos",
+            "Encendedor",
+            "A/C",
+            "Aire acondicionado de segunda fila",
+            "Volante multifuncional",
+            "Tapiz asientos (Eco cuero)",
+            "Alzavidrio conductor one touch",
+            "Reposacabeza central de la segunda fila",
+            "Asientos abatibles 60/40 segunda fila"
+        ],
+        "seguridad": [
+            "Airbag frontal delantero (Piloto/Copiloto)",
+            "Airbags laterales (2)",
+            "Asientos delanteros con cinturones de seguridad pretensionados",
+            "Alarma de no uso del cinturón de seguridad asientos delanteros - Luz+sonido",
+            "Control electrónico de estabilidad (ESP)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución de fuerza de frenado eléctrico (EBD)",
+            "Asistencia de freno hidráulico (HBA)",
+            "Ayuda de arranque en pendiente (HHC)",
+            "Ayuda de descenso en pendientes (HDC)",
+            "Control de presión de neumáticos (TPMS)",
+            "Anclajes ISOFIX",
+            "Seguro de niños en puertas traseras",
+            "Inmovilizador del motor (con alarma antirrobo)"
+        ],
+        "tecnologia": [
+            "Parlantes (6)",
+            "Puerto USB",
+            "Sistema de teléfono manos libres Bluetooth",
+            "Control de crucero",
+            "PEPS (Entrada pasiva arranque pasivo)"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_GS4-POWER.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Colores aparecen solo como muestras sin nombre en el documento. La normativa indicada es Euro 6B."
+    }
+}

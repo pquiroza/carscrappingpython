@@ -1,0 +1,343 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "Haval Jolion PRO",
+        "año": 2024,
+        "versiones": [
+            "ELITE",
+            "DELUXE",
+            "ELITE_HEV",
+            "DELUXE_HEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ELITE": "1.5 Turbo 4 cilindros 16V",
+            "DELUXE": "1.5 Turbo 4 cilindros 16V",
+            "ELITE_HEV": "1.5 4 cilindros 16V + eléctrico",
+            "DELUXE_HEV": "1.5 4 cilindros 16V + eléctrico"
+        },
+        "cilindrada": 1.5,
+        "potencia_hp": {
+            "ELITE": "141 (combustión)",
+            "DELUXE": "141 (combustión)",
+            "ELITE_HEV": "94 (ICE) + 154 (Eléctrica)",
+            "DELUXE_HEV": "94 (ICE) + 154 (Eléctrica)"
+        },
+        "potencia_rpm": {
+            "ELITE": "6000",
+            "DELUXE": "6000",
+            "ELITE_HEV": "6000 (ICE)",
+            "DELUXE_HEV": "6000 (ICE)"
+        },
+        "torque_nm": {
+            "ELITE": "210 (combustión)",
+            "DELUXE": "210 (combustión)",
+            "ELITE_HEV": "125 (ICE) + 250 (Eléctrico)",
+            "DELUXE_HEV": "125 (ICE) + 250 (Eléctrico)"
+        },
+        "torque_rpm": {
+            "ELITE": "2000-4500",
+            "DELUXE": "2000-4500",
+            "ELITE_HEV": "4400-5200 (ICE)",
+            "DELUXE_HEV": "4400-5200 (ICE)"
+        },
+        "combustible": null,
+        "transmision": {
+            "ELITE": "Automática DCT 7",
+            "DELUXE": "Automática DCT 7",
+            "ELITE_HEV": "Automática DHT",
+            "DELUXE_HEV": "Automática DHT"
+        },
+        "traccion": {
+            "todas_versiones": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "ELITE": "225/55 R18 negro",
+            "DELUXE": "225/55 R18 bi-tono",
+            "ELITE_HEV": "225/55 R18 negro",
+            "DELUXE_HEV": "225/55 R18 bi-tono"
+        },
+        "rueda_repuesto": {
+            "ELITE": "Provisoria",
+            "DELUXE": "Provisoria",
+            "ELITE_HEV": "Kit reparación neumático",
+            "DELUXE_HEV": "Kit reparación neumático"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4470,
+        "ancho_mm": 1898,
+        "alto_mm": 1625,
+        "distancia_ejes_mm": 2700,
+        "despeje_suelo_mm": 163,
+        "peso_bruto_kg": {
+            "ELITE": 1826,
+            "DELUXE": 1826,
+            "ELITE_HEV": 1940,
+            "DELUXE_HEV": 1940
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (Km/L)",
+            "ELITE": "10.2",
+            "DELUXE": "10.2",
+            "ELITE_HEV": "27",
+            "DELUXE_HEV": "27"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (Km/L)",
+            "ELITE": "12.9",
+            "DELUXE": "12.9",
+            "ELITE_HEV": "19.6",
+            "DELUXE_HEV": "19.6"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (Km/L)",
+            "ELITE": "15.3",
+            "DELUXE": "15.3",
+            "ELITE_HEV": "17.2",
+            "DELUXE_HEV": "17.2"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "ELITE": "225/55 R18 negro",
+            "DELUXE": "225/55 R18 bi-tono",
+            "ELITE_HEV": "225/55 R18 negro",
+            "DELUXE_HEV": "225/55 R18 bi-tono"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "ELITE": 1826,
+            "DELUXE": 1826,
+            "ELITE_HEV": 1940,
+            "DELUXE_HEV": 1940
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Pasajeros",
+            "ELITE": 5,
+            "DELUXE": 5,
+            "ELITE_HEV": 5,
+            "DELUXE_HEV": 5
+        },
+        {
+            "caracteristica": "Estanque (L)",
+            "ELITE": 55,
+            "DELUXE": 55,
+            "ELITE_HEV": 55,
+            "DELUXE_HEV": 55
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensores traseros",
+                "ELITE": "4",
+                "DELUXE": "6 + delanteros",
+                "ELITE_HEV": "4",
+                "DELUXE_HEV": "6 + delanteros"
+            },
+            {
+                "caracteristica": "Cámara 360",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Estacionamiento asistido",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Espejos con defroster",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Sensor lluvia",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "HUD",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Radio (tamaño)",
+                "ELITE": "10.3\"",
+                "DELUXE": "12.3\"",
+                "ELITE_HEV": "10.3\"",
+                "DELUXE_HEV": "12.3\""
+            },
+            {
+                "caracteristica": "Sistema sonido DTS",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Asiento copiloto eléctrico 4p",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Espejo interior automático",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            },
+            {
+                "caracteristica": "Rueda repuesto / kit reparación",
+                "ELITE": "Rueda repuesto provisoria",
+                "DELUXE": "Rueda repuesto provisoria",
+                "ELITE_HEV": "Kit reparación neumático",
+                "DELUXE_HEV": "Kit reparación neumático"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio (tamaño)",
+                "ELITE": "10.3\"",
+                "DELUXE": "12.3\"",
+                "ELITE_HEV": "10.3\"",
+                "DELUXE_HEV": "12.3\""
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Paquete ADAS",
+                "ELITE": false,
+                "DELUXE": true,
+                "ELITE_HEV": false,
+                "DELUXE_HEV": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ESP",
+            "TCS",
+            "HBA",
+            "RMI",
+            "SCM",
+            "HHC",
+            "HDC",
+            "TPMS",
+            "ISOFIX",
+            "Alarma e inmovilizador"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Salidas aire traseras",
+            "Panel digital 7\"",
+            "USB delanteros y traseros",
+            "Número parlantes (6)",
+            "Control crucero",
+            "Freno mano eléctrico",
+            "Autohold",
+            "Modos conducción",
+            "Volante ecocuero",
+            "Volante ajuste altura y profundidad",
+            "Asiento conductor eléctrico 6p",
+            "Asientos ecocuero",
+            "Apoyabrazos delantero y trasero",
+            "Asientos traseros 60:40"
+        ],
+        "exterior": [
+            "Focos LED regulables",
+            "DRL LED",
+            "Sensor luces automático",
+            "Follow me home",
+            "Neblineros traseros",
+            "Espejos eléctricos",
+            "Espejos plegables eléctricos",
+            "Vidrios traseros tinteados",
+            "Spoiler trasero",
+            "Barras techo",
+            "Llave inteligente (2)",
+            "Keyless",
+            "Cierre vidrios y sunroof a distancia"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Gris Metalizado",
+        "Blanco Titanio",
+        "Azul Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Conversión de JSON de ficha técnica a formato estándar (●=true, -=false)",
+        "fuente": "ficha-te-cnica_jolion-pro-1912-v1.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Conversión desde base_specs_or_equipment (Motorizacion/Dimensiones/Exterior/Interior/Seguridad/ADAS) al formato estándar. Garantías: 5 años o 150.000 km; 8 años o 160.000 km sistema híbrido."
+    }
+}

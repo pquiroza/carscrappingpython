@@ -1,0 +1,401 @@
+{
+    "vehiculo": {
+        "marca": "Subaru",
+        "modelo": "IMPREZA",
+        "año": 2026,
+        "versiones": [
+            "2.0I AWD CVT",
+            "2.0I AWD CVT DYNAMIC ES",
+            "2.0I AWD CVT TOURING ES HK"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "2.0I AWD CVT": "Horizontalmente opuesto, a gasolina, de 4 tiempos y 4 cilindros DOHC 16 válvulas",
+            "2.0I AWD CVT DYNAMIC ES": "Horizontalmente opuesto, a gasolina, de 4 tiempos y 4 cilindros DOHC 16 válvulas",
+            "2.0I AWD CVT TOURING ES HK": "Horizontalmente opuesto, a gasolina, de 4 tiempos y 4 cilindros DOHC 16 válvulas"
+        },
+        "cilindrada": {
+            "2.0I AWD CVT": 1995,
+            "2.0I AWD CVT DYNAMIC ES": 1995,
+            "2.0I AWD CVT TOURING ES HK": 1995
+        },
+        "potencia_hp": {
+            "2.0I AWD CVT": "156",
+            "2.0I AWD CVT DYNAMIC ES": "156",
+            "2.0I AWD CVT TOURING ES HK": "156"
+        },
+        "potencia_rpm": {
+            "2.0I AWD CVT": "6.000",
+            "2.0I AWD CVT DYNAMIC ES": "6.000",
+            "2.0I AWD CVT TOURING ES HK": "6.000"
+        },
+        "torque_nm": {
+            "2.0I AWD CVT": "196",
+            "2.0I AWD CVT DYNAMIC ES": "196",
+            "2.0I AWD CVT TOURING ES HK": "196"
+        },
+        "torque_rpm": {
+            "2.0I AWD CVT": "4.000",
+            "2.0I AWD CVT DYNAMIC ES": "4.000",
+            "2.0I AWD CVT TOURING ES HK": "4.000"
+        },
+        "combustible": "Inyección directa de combustible",
+        "transmision": {
+            "2.0I AWD CVT": "Sistema AWD de Distribución de Torque Activo",
+            "2.0I AWD CVT DYNAMIC ES": "Sistema AWD de Distribución de Torque Activo",
+            "2.0I AWD CVT TOURING ES HK": "Sistema AWD de Distribución de Torque Activo"
+        },
+        "traccion": "Sistema AWD de Distribución de Torque Activo"
+    },
+    "direccion": {
+        "tipo": "Sistema de dirección del tipo de asistencia eléctrica en el piñón"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Con tirantes MacPherson",
+        "suspension_trasera": "Con doble brazo oscilante",
+        "frenos_delanteros": "Frenos de disco ventilado",
+        "frenos_traseros": "Frenos de disco ventilado",
+        "freno_estacionamiento": "Electrónico con AVH",
+        "neumaticos": {
+            "2.0I AWD CVT": "205/50 R17",
+            "2.0I AWD CVT DYNAMIC ES": "205/50 R17",
+            "2.0I AWD CVT TOURING ES HK": "225/40 R18"
+        },
+        "rueda_repuesto": "205/50 R17"
+    },
+    "dimensiones": {
+        "largo_mm": 4475,
+        "ancho_mm": 1780,
+        "alto_mm": 1480,
+        "distancia_ejes_mm": 2670,
+        "despeje_suelo_mm": 130,
+        "peso_bruto_kg": {
+            "2.0I AWD CVT": 1441,
+            "2.0I AWD CVT DYNAMIC ES": 1444,
+            "2.0I AWD CVT TOURING ES HK": 1460
+        },
+        "capacidad_maletero_lts": 328,
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Diámetro & carrera (mm)",
+            "2.0I AWD CVT": "84,0 x 90,0",
+            "2.0I AWD CVT DYNAMIC ES": "84,0 x 90,0",
+            "2.0I AWD CVT TOURING ES HK": "84,0 x 90,0"
+        },
+        {
+            "caracteristica": "Relación de compresión",
+            "2.0I AWD CVT": "12,5",
+            "2.0I AWD CVT DYNAMIC ES": "12,5",
+            "2.0I AWD CVT TOURING ES HK": "12,5"
+        },
+        {
+            "caracteristica": "SI-Drive (Subaru Inteligent Drive)",
+            "2.0I AWD CVT": "2 modos (modo inteligente y deportivo)",
+            "2.0I AWD CVT DYNAMIC ES": "2 modos (modo inteligente y deportivo)",
+            "2.0I AWD CVT TOURING ES HK": "2 modos (modo inteligente y deportivo)"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "2.0I AWD CVT": "210",
+            "2.0I AWD CVT DYNAMIC ES": "210",
+            "2.0I AWD CVT TOURING ES HK": "210"
+        },
+        {
+            "caracteristica": "Relación de engranajes Posición D",
+            "2.0I AWD CVT": "4,066 - 0,503",
+            "2.0I AWD CVT DYNAMIC ES": "4,066 - 0,503",
+            "2.0I AWD CVT TOURING ES HK": "4,066 - 0,503"
+        },
+        {
+            "caracteristica": "Relación de engranajes 1a",
+            "2.0I AWD CVT": "4,066 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "4,066 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "4,066 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 2a",
+            "2.0I AWD CVT": "2,628 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "2,628 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "2,628 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 3a",
+            "2.0I AWD CVT": "1,911 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "1,911 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "1,911 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 4a",
+            "2.0I AWD CVT": "1,535 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "1,535 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "1,535 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 5a",
+            "2.0I AWD CVT": "1,195 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "1,195 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "1,195 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 6a",
+            "2.0I AWD CVT": "0,914 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "0,914 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "0,914 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 7a",
+            "2.0I AWD CVT": "0,717 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "0,717 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "0,717 (Modo manual)"
+        },
+        {
+            "caracteristica": "Relación de engranajes 8a",
+            "2.0I AWD CVT": "0,559 (Modo manual)",
+            "2.0I AWD CVT DYNAMIC ES": "0,559 (Modo manual)",
+            "2.0I AWD CVT TOURING ES HK": "0,559 (Modo manual)"
+        },
+        {
+            "caracteristica": "Reversa",
+            "2.0I AWD CVT": "4,379",
+            "2.0I AWD CVT DYNAMIC ES": "4,379",
+            "2.0I AWD CVT TOURING ES HK": "4,379"
+        },
+        {
+            "caracteristica": "Reducción final",
+            "2.0I AWD CVT": "3,9",
+            "2.0I AWD CVT DYNAMIC ES": "3,9",
+            "2.0I AWD CVT TOURING ES HK": "3,9"
+        },
+        {
+            "caracteristica": "Radio mínimo de giro (metros)",
+            "2.0I AWD CVT": "5,4",
+            "2.0I AWD CVT DYNAMIC ES": "5,4",
+            "2.0I AWD CVT TOURING ES HK": "5,4"
+        },
+        {
+            "caracteristica": "Trocha delantera (mm)",
+            "2.0I AWD CVT": 1540,
+            "2.0I AWD CVT DYNAMIC ES": 1540,
+            "2.0I AWD CVT TOURING ES HK": 1540
+        },
+        {
+            "caracteristica": "Trocha trasera (mm)",
+            "2.0I AWD CVT": 1545,
+            "2.0I AWD CVT DYNAMIC ES": 1545,
+            "2.0I AWD CVT TOURING ES HK": 1545
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sistema de luces sensibles a la dirección (SRH)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "2.0I AWD CVT": "17''",
+                "2.0I AWD CVT DYNAMIC ES": "17''",
+                "2.0I AWD CVT TOURING ES HK": "18''"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Subaru Infotainment con pantalla táctil",
+                "2.0I AWD CVT": "7'' Dual",
+                "2.0I AWD CVT DYNAMIC ES": "11,6''",
+                "2.0I AWD CVT TOURING ES HK": "11,6''"
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "2.0I AWD CVT": 4,
+                "2.0I AWD CVT DYNAMIC ES": 6,
+                "2.0I AWD CVT TOURING ES HK": 6
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "2.0I AWD CVT": true,
+                "2.0I AWD CVT DYNAMIC ES": "Adaptativa",
+                "2.0I AWD CVT TOURING ES HK": "Adaptativa"
+            },
+            {
+                "caracteristica": "Cargador de celular inalámbrico",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Pedales de aluminio",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Volante y palanca de cambios tapizados en cuero",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "2.0I AWD CVT": "Tricot",
+                "2.0I AWD CVT DYNAMIC ES": "Tricot",
+                "2.0I AWD CVT TOURING ES HK": "Cuero"
+            },
+            {
+                "caracteristica": "Asientos Conductor Ajuste Manual 6 posiciones",
+                "2.0I AWD CVT": true,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": false
+            },
+            {
+                "caracteristica": "Asientos Conductor Comando Eléctrico 10 posiciones",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Espejo retrovisor interior día/noche (antideslumbrante)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Frenado automático en reversa (RAB)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor del Punto Ciego (BSD)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Asistencia de Cambio de Carril (LCA)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Alerta de Tráfico Trasero Cruzado (RCTA)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Frenado Previo a la Colisión",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Gestión del Acelerador Previo a la Colisión",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Aviso de Arranque del Vehículo Precedente",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Advertencia de Salida Involuntaria de Carril",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Advertencia de Vaivén en el Carril",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": true,
+                "2.0I AWD CVT TOURING ES HK": true
+            },
+            {
+                "caracteristica": "Sistema de luces altas inteligente (HBA)",
+                "2.0I AWD CVT": false,
+                "2.0I AWD CVT DYNAMIC ES": false,
+                "2.0I AWD CVT TOURING ES HK": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros LED",
+            "Lavafocos de tipo pop up",
+            "Neblineros traseros",
+            "Faros traseros LED",
+            "Espejos laterales abatibles eléctricamente",
+            "Sensor de luz y lluvia",
+            "Spoiler de techo",
+            "Gardx: Protección de pintura, cristales y telas. Incluye kit de lavado, conservación, removedor de suciedad de pájaros y kit de reparación de neumáticos. Opcional"
+        ],
+        "interior": [
+            "Volante con regulación vertical y ajuste telescópico",
+            "CarPlay y Android Auto (sujeto a compatibilidad)",
+            "Medidor combinado",
+            "Display Multifuncional 4,2''",
+            "Selector de cambios en el volante \"Paddle Shift\"",
+            "SI-DRIVE (Subaru Inteligent Drive)",
+            "Controles de Bluetooth y audio al volante",
+            "Climatizador Bi-Zona",
+            "Entrada auxiliar y entrada USB",
+            "Sistema de acceso y encendido del motor sin llave - Smart Key",
+            "Cubre equipaje retráctil",
+            "Start Stop System con control de desactivación",
+            "Asiento trasero abatible 60/40"
+        ],
+        "seguridad": [
+            "Sistema de frenos ABS con EBD",
+            "Control electrónico de estabilidad (VDC)",
+            "Vectorización activa de torque (ATV)",
+            "N° de Airbag 8 (Frontales, laterales, de cortina, de rodilla y cojín asiento pasajero)",
+            "Asiento trasero con soporte tipo ISOFIX para silla de niños",
+            "Apoya cabeza delanteros activos",
+            "Freno estacionamiento electrónico con AVH",
+            "Cámara de visión trasera",
+            "Bloqueo de puertas automático"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Subaru (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "spec-impreza-2026-a4-web.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo la información visible de las 2 páginas del documento. No se informan colores en la ficha. En filas agrupadas por bloque ADAS/SRVD se respetó el patrón visible de equipamiento por versión sin inventar valores fuera de lo mostrado."
+    }
+}

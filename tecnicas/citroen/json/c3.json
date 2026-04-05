@@ -1,0 +1,137 @@
+{
+    "vehiculo": {
+        "marca": "CITROËN",
+        "modelo": "C3",
+        "año": null,
+        "versiones": [
+            "LIVE_PACK",
+            "FEEL",
+            "FEEL_YOU"
+        ]
+    },
+    "motor": {
+        "tipo": "Puretech (EB2) / VTi (EC5) / T200 (T3)",
+        "cilindrada": "1199 / 1587 / 999",
+        "potencia_hp": "82 / 115 / 125",
+        "potencia_rpm": null,
+        "torque_nm": "115 / 150 / 200",
+        "torque_rpm": "3750 / 4500 / 1750",
+        "combustible": "Gasolina",
+        "transmision": "Manual (5) / Automática (6) / Automática (7)",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos": {
+            "LIVE_PACK": "195/65 R15",
+            "FEEL": "195/65 R15",
+            "FEEL_YOU": "195/65 R15"
+        },
+        "rueda_repuesto": {
+            "LIVE_PACK": true,
+            "FEEL": true,
+            "FEEL_YOU": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": "3981",
+        "ancho_mm": "1733",
+        "alto_mm": "1604",
+        "distancia_ejes_mm": "2540",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "315",
+        "capacidad_estanque_lts": "47"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Sensor de presión de neumáticos (ITPMS)",
+            "LIVE_PACK": false,
+            "FEEL": false,
+            "FEEL_YOU": true
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Modos de conducción",
+            "LIVE_PACK": false,
+            "FEEL": false,
+            "FEEL_YOU": "3 (Drive, Manual y Sport)"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Volante ajustable en inclinación",
+                "LIVE_PACK": false,
+                "FEEL": true,
+                "FEEL_YOU": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con ajuste eléctrico",
+                "LIVE_PACK": false,
+                "FEEL": true,
+                "FEEL_YOU": true
+            },
+            {
+                "caracteristica": "Volante cuero premium",
+                "LIVE_PACK": false,
+                "FEEL": false,
+                "FEEL_YOU": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Luces diurnas LED",
+                "LIVE_PACK": false,
+                "FEEL": true,
+                "FEEL_YOU": true
+            },
+            {
+                "caracteristica": "Faros antiniebla",
+                "LIVE_PACK": false,
+                "FEEL": false,
+                "FEEL_YOU": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara trasera",
+                "LIVE_PACK": false,
+                "FEEL": false,
+                "FEEL_YOU": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Dirección eléctrica asistida",
+            "Sistema multimedia pantalla 10\"",
+            "Aire acondicionado",
+            "Computadora a bordo"
+        ],
+        "exterior": [
+            "Cristales tinteados",
+            "Barras de techo"
+        ],
+        "seguridad": [
+            "ABS",
+            "ESP",
+            "Hill Assist",
+            "Airbags frontales"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Citroën C3.pdf",
+        "versiones_en_documento": 3
+    }
+}

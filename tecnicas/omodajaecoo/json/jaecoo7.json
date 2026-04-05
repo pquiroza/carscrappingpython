@@ -1,0 +1,554 @@
+{
+    "vehiculo": {
+        "marca": "Omoda-jaecoo",
+        "modelo": "JAECOO 7",
+        "versiones": [
+            "New Elemental 1.6T DCT FWD",
+            "New Prime AWD 1.6T DCT AWD"
+        ]
+    },
+    "especificaciones_tecnicas": {
+        "motor": "1.6T GDi",
+        "cilindrada_cc": 1598,
+        "apertura_variable_valvulas": true,
+        "start_stop_desactivable": true,
+        "freno_epb_auto_hold": true,
+        "potencia_hp_rpm": "183@5500 rpm",
+        "potencia_kw_rpm": "136.5@5500 rpm",
+        "torque_nm_rpm": "275@2000-4000 rpm",
+        "norma_emision": "Euro 6c",
+        "direccion": "EPS",
+        "transmision": "DCT7",
+        "selector_marchas_electronico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "traccion": {
+            "New Elemental 1.6T DCT FWD": "FWD",
+            "New Prime AWD 1.6T DCT AWD": "AWD"
+        },
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Independiente Multi-Link",
+        "capacidad_bateria": "70Ah",
+        "airbags": {
+            "New Elemental 1.6T DCT FWD": 6,
+            "New Prime AWD 1.6T DCT AWD": 7
+        },
+        "frenos": "Discos Ventilados/Discos Solidos",
+        "llantas_aleacion": "19\"",
+        "neumaticos": "235/50R19",
+        "neumatico_repuesto": "Neumatico Completo 235/50R19",
+        "combustible": "Gasolina",
+        "consumo_km_l": {
+            "carretera": {
+                "New Elemental 1.6T DCT FWD": 16.0,
+                "New Prime AWD 1.6T DCT AWD": 14.9
+            },
+            "mixto": {
+                "New Elemental 1.6T DCT FWD": 13.5,
+                "New Prime AWD 1.6T DCT AWD": 13.2
+            },
+            "ciudad": {
+                "New Elemental 1.6T DCT FWD": 10.7,
+                "New Prime AWD 1.6T DCT AWD": 10.9
+            }
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4500,
+        "ancho_mm": 1865,
+        "alto_mm": 1680,
+        "distancia_entre_ejes_mm": 2672,
+        "despeje_suelo_mm": 200,
+        "angulo_ataque_grados": 21,
+        "angulo_salida_grados": 29,
+        "profundidad_vadeo_mm": 600,
+        "peso_neto_kg": {
+            "New Elemental 1.6T DCT FWD": 1558,
+            "New Prime AWD 1.6T DCT AWD": 1649
+        },
+        "peso_bruto_kg": {
+            "New Elemental 1.6T DCT FWD": 1933,
+            "New Prime AWD 1.6T DCT AWD": 2024
+        },
+        "capacidad_carga_kg": 375,
+        "maletero_detras_primera_fila_l": 1335,
+        "maletero_detras_segunda_fila_l": 410,
+        "capacidad_remolque_kg": 1350,
+        "tanque_combustible_l": {
+            "New Elemental 1.6T DCT FWD": 51,
+            "New Prime AWD 1.6T DCT AWD": 57
+        },
+        "pasajeros": 5
+    },
+    "equipamiento_y_tecnologia": {
+        "Pantalla_touch_13_2": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Pantalla_touch_14_8": {
+            "New Elemental 1.6T DCT FWD": false,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Pantalla_cluster_10_25": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Apple_CarPlay_Android_Auto_inalambrico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Bluetooth": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Audio_premium_Sony_8_parlantes": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Cargador_inalambrico_50W": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Reconocimiento_y_control_por_voz": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Multiples_puntos_USB": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Punto_tipo_C": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Navegacion_integrada": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Modos_de_manejo": {
+            "New Elemental 1.6T DCT FWD": "3 Modos",
+            "New Prime AWD 1.6T DCT AWD": "7 Modos"
+        },
+        "Control_crucero_electronico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Recordatorio_limite_velocidad": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Limite_velocidad_ajustable": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT FWD": true
+        },
+        "Recordatorio_cambio_de_marcha": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Portalon_trasero_electrico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_apertura_puertas": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_boton_encendido": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_encendido_remoto_motor": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_encendido_remoto_ac": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_ventanas_auto": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_apertura_cierre_portalon": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Smart_key_sensor_apertura_portalon": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Climatizador_bizona_enfriamiento_alta_capacidad": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Purificacion_calidad_aire_N95": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        }
+    },
+    "interior": {
+        "Tapiz_ecocuero_negro": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Asiento_piloto_electrico_6_pos": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Asiento_piloto_lumbar_electrico_4_pos": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Asiento_piloto_y_espejos_memoria": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Asiento_piloto_bienvenida_auto": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Asiento_copiloto_manual_4_pos": {
+            "New Elemental 1.6T DCT FWD": false,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Asiento_copiloto_electrico_4_pos": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Asientos_delanteros_calefaccionados": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Asientos_delanteros_ventilados": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Portamapa_trasero_delanteros": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Segunda_fila_abatible_60_40": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Control_multimedia_volante": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Volante_ecocuero": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Volante_ajuste_altura_profundidad": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Volante_calefaccionado": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Ventanas_one_touch": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Vidrios_traseros_oscurecidos": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Retrovisor_fotocromatico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Apoyabrazos_delantero_guantera_refrigerada": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Apoyabrazos_trasero_posavaso": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Luz_ambiente_interior_configurable": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Luz_lectura_del_tras": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Parasoles_espejo_luz_cortesia": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Toma_12V_delantero": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Toma_12V_maletero": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        }
+    },
+    "exterior": {
+        "DRL_LED": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Faros_proyector_LED_auto": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Ajuste_altura_faros_electrico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Follow_me_home": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Focos_traseros_LED": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Neblinero_delantero_y_trasero": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Espejos_abatibles_calefaccionados_senalizador": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Sunroof_techo_panoramico": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Sensor_lluvia": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Barras_techo": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Escape_dual_cromado": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Caliper_rojo": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Spoiler_tercera_luz": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Luz_bienvenida_espejos": {
+            "New Elemental 1.6T DCT FWD": false,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Protector_cubre_motor": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Protector_cubre_carter": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Gancho_remolque": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        }
+    },
+    "adas": {
+        "IHC": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "ICA": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "ACC": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "TJA": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "FCW": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "AEB": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "RCW": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "RCTA": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "RCTB": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "BSD": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "DOW": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "LCA": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "LDW": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "LDP": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "ELK": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "CSA": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "IES": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "DAI": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "TPMS": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "MCB": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        }
+    },
+    "seguridad": {
+        "Airbag_frontal_2": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Airbag_lateral_2": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Airbag_cortina_2": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Airbag_rodilla_piloto": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "ABS_EBD": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "BAS": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "BOS": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "ESP_EBA_TCS_HA": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "HAC": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "HDC": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Sensores_estacionamiento_perimetrales": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Camara_540_FHD": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "DVR": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": false
+        },
+        "Bloqueo_automatico_puertas": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Bloqueo_seguridad_ninos": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Apoyacabeza_ajuste_altura": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Cinturones_delanteros_pretensor_limitador": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Cinturones_traseros_pretensor_limitador": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Alerta_cinturon_del_tras": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Chasis_reforzado": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Zona_deformacion_programada": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Alarma_antirrobo": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "Inmovilizador_motor": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "ISOFIX": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        },
+        "TOP_TETHER": {
+            "New Elemental 1.6T DCT FWD": true,
+            "New Prime AWD 1.6T DCT AWD": true
+        }
+    },
+    "colores": [
+        "Gris Plata con techo negro",
+        "Gris Artemis con techo negro",
+        "Verde Jade con techo negro",
+        "Rojo Rubí con techo negro",
+        "Blanco Aura",
+        "Negro Eclipse"
+    ]
+}

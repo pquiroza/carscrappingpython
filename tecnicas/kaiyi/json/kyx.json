@@ -1,0 +1,405 @@
+{
+    "vehiculo": {
+        "marca": "Kaiyi",
+        "modelo": "KYX3",
+        "año": null,
+        "versiones": [
+            "KYX3_5MT_STD",
+            "KYX3_5MT_LUX",
+            "KYX3_CVT_LUX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "KYX3_5MT_STD": null,
+            "KYX3_5MT_LUX": null,
+            "KYX3_CVT_LUX": null
+        },
+        "cilindrada": {
+            "KYX3_5MT_STD": 1.499,
+            "KYX3_5MT_LUX": 1.499,
+            "KYX3_CVT_LUX": 1.499
+        },
+        "potencia_hp": {
+            "KYX3_5MT_STD": "114",
+            "KYX3_5MT_LUX": "114",
+            "KYX3_CVT_LUX": "114"
+        },
+        "potencia_rpm": {
+            "KYX3_5MT_STD": "6150",
+            "KYX3_5MT_LUX": "6150",
+            "KYX3_CVT_LUX": "6150"
+        },
+        "torque_nm": {
+            "KYX3_5MT_STD": "143",
+            "KYX3_5MT_LUX": "143",
+            "KYX3_CVT_LUX": "143"
+        },
+        "torque_rpm": {
+            "KYX3_5MT_STD": "4000",
+            "KYX3_5MT_LUX": "4000",
+            "KYX3_CVT_LUX": "4000"
+        },
+        "combustible": {
+            "KYX3_5MT_STD": "Gasolina",
+            "KYX3_5MT_LUX": "Gasolina",
+            "KYX3_CVT_LUX": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "KYX3_5MT_STD": "Inyección electrónica multipunto secuencial",
+            "KYX3_5MT_LUX": "Inyección electrónica multipunto secuencial",
+            "KYX3_CVT_LUX": "Inyección electrónica multipunto secuencial"
+        },
+        "norma_emisiones": {
+            "KYX3_5MT_STD": "Euro 6c",
+            "KYX3_5MT_LUX": "Euro 6c",
+            "KYX3_CVT_LUX": "Euro 6c"
+        },
+        "transmision": {
+            "KYX3_5MT_STD": "Mecánica 5 velocidades",
+            "KYX3_5MT_LUX": "Mecánica 5 velocidades",
+            "KYX3_CVT_LUX": "Automática CVT"
+        },
+        "traccion": {
+            "KYX3_5MT_STD": null,
+            "KYX3_5MT_LUX": null,
+            "KYX3_CVT_LUX": null
+        }
+    },
+    "direccion": {
+        "tipo": "Piñón cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco",
+        "freno_de_mano": "Electrónico + Autohold",
+        "neumaticos": {
+            "KYX3_5MT_STD": null,
+            "KYX3_5MT_LUX": null,
+            "KYX3_CVT_LUX": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4400,
+        "ancho_mm": 1831,
+        "alto_mm": 1653,
+        "distancia_ejes_mm": 2632,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": 51,
+        "capacidad_maletero_lts": 342
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo km/l (Ciudad, Carretera, Mixto)",
+            "KYX3_5MT_STD": "10,7 / 16,7 / 13,9",
+            "KYX3_5MT_LUX": "10,3 / 16,7 / 13,6",
+            "KYX3_CVT_LUX": "10,3 / 16,7 / 13,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles electrónicamente",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": false,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejos retrovisores",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Llantas Aleación 17\"",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": false
+            },
+            {
+                "caracteristica": "Llantas Aleación 18\"",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": false,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Barras en techo",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Spoiler Trasero",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Luces delanteras Led",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Luces traseras Led",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Luces diurnas",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Manillas color carrocería",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cierre Centralizado",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Smart Key y Botón de encendido",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Aire Acondicionado",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Asientos tapiz eco-cuero",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Volante forrado eco-cuero",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste manual",
+                "KYX3_5MT_STD": "4 posiciones",
+                "KYX3_5MT_LUX": "6 posiciones",
+                "KYX3_CVT_LUX": "6 posiciones"
+            },
+            {
+                "caracteristica": "Asiento copiloto ajuste manual",
+                "KYX3_5MT_STD": "4 posiciones",
+                "KYX3_5MT_LUX": "4 posiciones",
+                "KYX3_CVT_LUX": "4 posiciones"
+            },
+            {
+                "caracteristica": "Asiento trasero abatible",
+                "KYX3_5MT_STD": "60/40",
+                "KYX3_5MT_LUX": "60/40",
+                "KYX3_CVT_LUX": "60/40"
+            },
+            {
+                "caracteristica": "Tablero instrumentos color 7\"",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Radio touch 10.25\"",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Puertos USB frontales",
+                "KYX3_5MT_STD": "2",
+                "KYX3_5MT_LUX": "2",
+                "KYX3_CVT_LUX": "2"
+            },
+            {
+                "caracteristica": "Puertos USB traseros",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": false,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Modo de conducción (Sport Mode)",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos (one button down)",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": false,
+                "KYX3_CVT_LUX": false
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos (one button up & down)",
+                "KYX3_5MT_STD": false,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Parasoles delanteros con espejo de cortesía",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Portaanteojos",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Control Audio al Volante",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS + EBD",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "EBA: Asistencia electrónica de frenado",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "HDC: Control de partida en descenso",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "ESP: Control de estabilidad",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "TCS: Control de tracción",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "HHC: Control de partida en pendiente",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros ajustable en altura",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Cinturones del medio de tres puntas",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Anclaje ISOFIX",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Doble Airbag Delantero",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad trasero",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos (TPMS)",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            },
+            {
+                "caracteristica": "Seguro de niños en puertas traseras",
+                "KYX3_5MT_STD": true,
+                "KYX3_5MT_LUX": true,
+                "KYX3_CVT_LUX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [
+        "Rojo",
+        "Gris",
+        "Azul",
+        "Blanco",
+        "Celeste"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (●=true, vacío o -=false, columna única=aplica a todas las versiones).",
+        "fuente": "KAIYI_FT KYX3 (1).pdf",
+        "versiones_en_documento": 3,
+        "notas": "Enero 2023"
+    }
+}

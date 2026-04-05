@@ -1,0 +1,183 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "Cyberster",
+        "año": null,
+        "versiones": [
+            "77kWh_2WD",
+            "77kWh_AWD"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": null,
+        "potencia_hp": {
+            "77kWh_2WD": "335hp",
+            "77kWh_AWD": "201hp + 335hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": null,
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": null,
+        "traccion": {
+            "77kWh_2WD": "2WD",
+            "77kWh_AWD": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera de doble horquilla",
+        "suspension_trasera": "Suspensión trasera de 5 brazos",
+        "frenos_delanteros": "Freno de disco delantero/trasero",
+        "frenos_traseros": "Freno de disco delantero/trasero",
+        "neumaticos": {
+            "77kWh_2WD": "245/45275/40",
+            "77kWh_AWD": "245/40275/35"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación de 19",
+            "77kWh_2WD": true,
+            "77kWh_AWD": false
+        },
+        {
+            "caracteristica": "Llanta de aleación de 20",
+            "77kWh_2WD": false,
+            "77kWh_AWD": true
+        },
+        {
+            "caracteristica": "Tamaño del neumático",
+            "77kWh_2WD": "245/45275/40",
+            "77kWh_AWD": "245/40275/35"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "WLTP",
+            "77kWh_2WD": "490",
+            "77kWh_AWD": "446"
+        },
+        {
+            "caracteristica": "NEDC",
+            "77kWh_2WD": "552",
+            "77kWh_AWD": "500"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Cluster virtual 10,25\"",
+            "Pantalla táctil de 7\"",
+            "2 USB",
+            "FM+AM+8Altavoces BOSE",
+            "CAR PLAY/Android Auto",
+            "Volante ajustable en 4 direcciones",
+            "Volante PU",
+            "Calefacción del volante",
+            "Llave a distancia",
+            "One pedal",
+            "Bloqueo automático de puertas por velocidad",
+            "Asiento del conductor ajustable eléctricamente en 6 posiciones",
+            "Asiento del acompañante ajustable eléctricamente en 6 posiciones",
+            "Asientos delanteros calefactables (lado conductor y pasajero)",
+            "PM2.5",
+            "Toma de 12V",
+            "Parasoles con espejo",
+            "Guantera con Iluminación",
+            "Espejo retrovisor",
+            "Caja portagafas",
+            "Reposabrazos",
+            "Luz de ambiente",
+            "Pedal metálico",
+            "Recordatorio de devolución del volante",
+            "Recordatorio de revisión del vehículo"
+        ],
+        "exterior": [
+            "Tapa de carga manual",
+            "Recordatorio de desbloqueo del puerto de carga",
+            "Capota descapotable electrica",
+            "Velocidad de apertura y cierre de capota <15",
+            "Luces LED",
+            "Control automático de encendido/apagado de luces",
+            "Luces diurnas LED",
+            "Luces traseras LED",
+            "Luz de freno LED de montaje alto",
+            "Luz antiniebla trasera",
+            "Luz de marcha atrás",
+            "Luz de carga",
+            "Retrovisores exteriores",
+            "Retrovisores exteriores con ajuste eléctrico",
+            "Retrovisores exteriores eléctricos con calefacción",
+            "Espejos laterales abatibles eléctricamente",
+            "Elevalunas eléctricos (2 elevalunas de subida/bajada única)",
+            "Cristales tintados",
+            "Luneta trasera calefactada",
+            "Limpiaparabrisas Deshuesado",
+            "Puertas de tijera eléctricas",
+            "Puerta sin marco"
+        ],
+        "seguridad": [
+            "Alerta de cinturón de seguridad delantero",
+            "Pretensor cinturón seguridad delantero",
+            "Airbag Frontal",
+            "Airbag cabeza-tórax integrado",
+            "Etiqueta de advertencia del airbag",
+            "Interruptor on/off airbag pasajero",
+            "ECALL",
+            "Avisador acústico de peatones",
+            "Sensor estacionamiento delantero",
+            "Sensor estacionamiento trasero",
+            "Camara 360°",
+            "Sistema de medición directa de la presión de los neumáticos (TPMS)",
+            "ESP+iboost",
+            "EPS",
+            "Freno de estacionamiento eléctrico",
+            "Auto Hold",
+            "Bloqueo electrónico del diferencial",
+            "Launch Control",
+            "5 modos de conducción",
+            "AEB (Frenado Autónomo de Emergencia)",
+            "ACC (Control crucero adaptativo)",
+            "TJA ( Asistente de Atasco de Tráfico)",
+            "ISA (Adaptación inteligente de la velocidad)",
+            "SAS (Intelligent Speed Assist)",
+            "IHC (Sistema Inteligente de Control de Faros)",
+            "ELKS (Sistema de Mantenimiento de Carril de Emergencia)",
+            "BSD (Detección de ángulo muerto)",
+            "LCA (Asistencia de cambio de carril）",
+            "RCTA (Alerta de tráfico cruzado trasero",
+            "DOW (Alerta de apertura de puertas)",
+            "RCW (Aviso de colisión trasera)",
+            "RCTB (Freno Automático Cruce de Tráfico Trasero)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-cyberster.pdf",
+        "versiones_en_documento": 2,
+        "notas": "El PDF usa 'S' y '-' como marcadores en la tabla. Se mapearon a true/false solo en filas comparativas; el resto se dejó como texto literal en listas."
+    }
+}

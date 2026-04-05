@@ -1,0 +1,216 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "ZS EV",
+        "año": null,
+        "versiones": [
+            "51_DLX",
+            "72_DLX"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": null,
+        "potencia_hp": {
+            "51_DLX": "174",
+            "72_DLX": "154"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "51_DLX": "280",
+            "72_DLX": "280"
+        },
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": null,
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "51_DLX": "215/50 R17",
+            "72_DLX": "215/50 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4314,
+        "ancho_mm": 1809,
+        "alto_mm": 1648,
+        "distancia_ejes_mm": 2585,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "488/1166",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación bicolor «Torenmolen» 17\"",
+            "51_DLX": true,
+            "72_DLX": true
+        },
+        {
+            "caracteristica": "Neumáticos 215/50 R17",
+            "51_DLX": true,
+            "72_DLX": true
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "51_DLX": 1460,
+            "72_DLX": 1460
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Volumen maletero",
+            "51_DLX": "488/1166",
+            "72_DLX": "488/1166"
+        },
+        {
+            "caracteristica": "Batería (kWh)",
+            "51_DLX": "51",
+            "72_DLX": "72"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Tiempo de carga CA",
+            "51_DLX": "~7.5 h",
+            "72_DLX": "~7.5 h"
+        },
+        {
+            "caracteristica": "Tiempo de carga CC (30~80%)",
+            "51_DLX": "~40 min",
+            "72_DLX": "~40 min"
+        },
+        {
+            "caracteristica": "Autonomía WLTP",
+            "51_DLX": "320",
+            "72_DLX": "440"
+        },
+        {
+            "caracteristica": "Aceleración 0~50 km/h",
+            "51_DLX": "3.1 s",
+            "72_DLX": "3.1 s"
+        },
+        {
+            "caracteristica": "Aceleración 0~100 km/h",
+            "51_DLX": "8.2 s",
+            "72_DLX": "8.2 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Toma 12V",
+            "Tapa del maletero",
+            "Luz del maletero",
+            "Limitador de velocidad",
+            "Palanca de cambios con retroiluminación",
+            "Parasol con espejo",
+            "Función de encendido de faros",
+            "Embellecedor de puertas",
+            "Techo solar panorámico",
+            "Consola central flotante",
+            "Elevador eléctrico",
+            "Subida y bajada automática lado conductor",
+            "Antivuelco lado conductor",
+            "Ecocuero con pespunte",
+            "Volante Multifunción",
+            "Selección del modo de conducción",
+            "Sistema de regeneración de energía cinética (KERS)",
+            "2 portavasos en la consola",
+            "Ranura para tarjetas",
+            "Pantalla táctil de 10,1\"",
+            "6 altavoces",
+            "2 micrófonos",
+            "3 portales USB",
+            "Bluetooth",
+            "Carplay",
+            "Android Auto",
+            "MP3",
+            "Cierre a distancia",
+            "Entrada sin llave",
+            "Arranque del motor con un botón",
+            "Asiento conductor regulable en altura",
+            "Asiento del conductor ajustable eléctricamente",
+            "Bolsillo para mapas detrás de los asientos delanteros",
+            "Asientos PU",
+            "Asientos delanteros calefactables",
+            "Asientos traseros abatibles 40:60"
+        ],
+        "exterior": [
+            "Barras de techo",
+            "Spoiler",
+            "Logo MG con luz de respiración de carga",
+            "Limpiaparabrisas delantero deshuesado",
+            "Limpiaparabrisas trasero",
+            "Umbral de ventana cromado",
+            "Calefacción parabrisas delantero",
+            "Calefacción parabrisas trasero",
+            "Espejos exteriores con indicador de giro"
+        ],
+        "seguridad": [
+            "Alarma",
+            "Inmovilizador",
+            "Sistema E-call",
+            "ABS+EBD",
+            "ESP",
+            "EBA",
+            "Asistencia en pendiente",
+            "Auto hold",
+            "EPB",
+            "Seguro para niños en puertas traseras",
+            "ISOFIX",
+            "Sensor de lluvia",
+            "TPMS directo",
+            "Sensor de impacto lateral",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags de cortina",
+            "Desactivación airbag copiloto",
+            "ACC",
+            "IHC",
+            "SAS",
+            "AEB",
+            "LDW",
+            "TJA",
+            "TSR",
+            "LKA",
+            "BSM",
+            "RTA",
+            "LCW",
+            "Sensor estacionamiento trasero",
+            "Cámara 360°",
+            "Recordatorio cinturones"
+        ],
+        "tecnologia": [
+            "Luz diurna LED",
+            "Faros antiniebla traseros",
+            "Faros halógenos con nivelación",
+            "Sensor crepuscular",
+            "Luz freno alta LED",
+            "Luces traseras LED"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-zs-ev.pdf",
+        "versiones_en_documento": 2,
+        "notas": "El PDF usa marcadores ●. No hay diferencias de equipamiento entre versiones en la tabla."
+    }
+}

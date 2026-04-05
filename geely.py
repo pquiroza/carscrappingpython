@@ -9,9 +9,10 @@ import re
 import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+from utils import to_title_custom
 
 from playwright.async_api import async_playwright, TimeoutError as PWTimeout
-
+from utils import saveCar
 URL_LISTA_MODELOS = "https://geely.cl/modelos/"
 MODELOS_JSON = Path("geely_modelos.json")
 SALIDA_JSON = Path("geely_versiones_formato.json")
@@ -277,7 +278,17 @@ async def main():
     SALIDA_JSON.write_text(json.dumps(versiones_formato, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[OK] JSON -> {SALIDA_JSON.resolve()}")
     print(f"[INFO] Total versiones: {len(versiones_formato)}")
-
+    for v in versiones_formato:
+        tiposprecio = ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']
+        precio = [v['precio_lista']-v['bono_financiamiento'], v['precio_lista']-v['bono_financiamiento'], v['precio_lista'], v['precio_lista']]
+        datos = {
+            'marca': to_title_custom(v['brand']),
+            'modelo': to_title_custom(v['model']),
+            'modelDetail': to_title_custom(v['version']),
+            'precio': precio,
+            'tiposprecio': tiposprecio
+        }
+        saveCar('Geely',datos,'https://geely.cl')
 
 if __name__ == "__main__":
     asyncio.run(main())

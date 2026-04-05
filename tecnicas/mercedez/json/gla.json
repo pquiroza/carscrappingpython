@@ -1,0 +1,299 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLA",
+        "año": null,
+        "versiones": [
+            "GLA 200 Progressive Line",
+            "GLA 200 AMG Line",
+            "GLA 220 d 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLA 200 Progressive Line": "4 cilindros en línea",
+            "GLA 200 AMG Line": "4 cilindros en línea",
+            "GLA 220 d 4MATIC": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "GLA 200 Progressive Line": 1332,
+            "GLA 200 AMG Line": 1332,
+            "GLA 220 d 4MATIC": 1950
+        },
+        "potencia_hp": {
+            "GLA 200 Progressive Line": "163 CV",
+            "GLA 200 AMG Line": "163 CV",
+            "GLA 220 d 4MATIC": "190 CV"
+        },
+        "potencia_rpm": {
+            "GLA 200 Progressive Line": null,
+            "GLA 200 AMG Line": null,
+            "GLA 220 d 4MATIC": null
+        },
+        "torque_nm": {
+            "GLA 200 Progressive Line": "270 Nm",
+            "GLA 200 AMG Line": "270 Nm",
+            "GLA 220 d 4MATIC": "400 Nm"
+        },
+        "torque_rpm": {
+            "GLA 200 Progressive Line": null,
+            "GLA 200 AMG Line": null,
+            "GLA 220 d 4MATIC": null
+        },
+        "combustible": null,
+        "transmision": {
+            "GLA 200 Progressive Line": "7G-DCT / 4x2",
+            "GLA 200 AMG Line": "7G-DCT / 4x2",
+            "GLA 220 d 4MATIC": "8G-TRONIC / Variable 4MATIC"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLA 200 Progressive Line": "235/55 R18",
+            "GLA 200 AMG Line": "235/50 R19",
+            "GLA 220 d 4MATIC": "235/50 R19"
+        },
+        "rueda_repuesto": "Neumáticos con propiedades de rodaje de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 425,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLA 200 Progressive Line": "15,5 Km/l",
+            "GLA 200 AMG Line": "15,5 Km/l",
+            "GLA 220 d 4MATIC": "16,8 km/l"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLA 200 Progressive Line": "210 km/h",
+            "GLA 200 AMG Line": "210 km/h",
+            "GLA 220 d 4MATIC": "219 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLA 200 Progressive Line": "8,9 s",
+            "GLA 200 AMG Line": "8,9 s",
+            "GLA 220 d 4MATIC": "7,3 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "GLA 200 Progressive Line": "Progressive Night Package Line",
+                "GLA 200 AMG Line": "AMG Night Package Line",
+                "GLA 220 d 4MATIC": "AMG Night Package Line"
+            },
+            {
+                "caracteristica": "Cristales calorífugos",
+                "GLA 200 Progressive Line": "Protege a los pasajeros traseros y el habitáculo de miradas indiscretas y de la radiación solar directa",
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Luces LED HIGH PERFORMANCE",
+                "GLA 200 Progressive Line": true,
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Tren de rodaje",
+                "GLA 200 Progressive Line": "Confort",
+                "GLA 200 AMG Line": "Confort de altura rebajada",
+                "GLA 220 d 4MATIC": "Confort de altura rebajada"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "GLA 200 Progressive Line": "Cuero artico negro",
+                "GLA 200 AMG Line": "Cuero artico / microfibra dinámica negra",
+                "GLA 220 d 4MATIC": "Cuero artico / microfibra dinámica negra"
+            },
+            {
+                "caracteristica": "Volante",
+                "GLA 200 Progressive Line": "Deportivo multifunción en cuero",
+                "GLA 200 AMG Line": "Deportivo multifunción forrado en napa",
+                "GLA 220 d 4MATIC": "Deportivo multifunción forrado en napa"
+            },
+            {
+                "caracteristica": "Moldura",
+                "GLA 200 Progressive Line": "Elementos de adorno con efecto Star Pattern",
+                "GLA 200 AMG Line": "Elementos de adorno con estructura de carbono",
+                "GLA 220 d 4MATIC": "Elementos de adorno con estructura de carbono"
+            },
+            {
+                "caracteristica": "Asientos delanteros con paquete confort",
+                "GLA 200 Progressive Line": "Asientos de confort y calefacción",
+                "GLA 200 AMG Line": "Asientos deportivos y calefacción",
+                "GLA 220 d 4MATIC": "Asientos deportivos y calefacción"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles",
+                "GLA 200 Progressive Line": "Proporción 40/20/40 aumentando el espacio del maletero a 1.060L",
+                "GLA 200 AMG Line": "Proporción 40/20/40 aumentando el espacio del maletero a 1.060L",
+                "GLA 220 d 4MATIC": "Proporción 40/20/40 aumentando el espacio del maletero a 1.060L"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "GLA 200 Progressive Line": "Incluye windowbags + Airbag de rodillas",
+                "GLA 200 AMG Line": "Incluye windowbags + Airbag de rodillas",
+                "GLA 220 d 4MATIC": "Incluye windowbags + Airbag de rodillas"
+            },
+            {
+                "caracteristica": "Acceso Keyless-Go",
+                "GLA 200 Progressive Line": false,
+                "GLA 200 AMG Line": "Incluye Hands Free Access",
+                "GLA 220 d 4MATIC": false
+            },
+            {
+                "caracteristica": "Paquete de protección GUARD 360°",
+                "GLA 200 Progressive Line": false,
+                "GLA 200 AMG Line": "Incluye alarma y sensores volumétricos",
+                "GLA 220 d 4MATIC": false
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "GLA 200 Progressive Line": "12 sensores ultrasonido para detectar cada espacio y cuidar el vehículo",
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "GLA 200 Progressive Line": "Incluye refuerzo de frenado en caso de no ser suficiente por el conductor",
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Neumáticos con propiedades de rodaje de emergencia",
+                "GLA 200 Progressive Line": "Paredes reforzadas de los neumáticos que permiten abandonar con seguridad zonas de peligro",
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Función HOLD",
+                "GLA 200 Progressive Line": true,
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Paquete técnico Off-Road",
+                "GLA 200 Progressive Line": false,
+                "GLA 200 AMG Line": false,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Downhill-Speed-Regulation (DSR)",
+                "GLA 200 Progressive Line": false,
+                "GLA 200 AMG Line": false,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Brújula y medidores de inclinación",
+                "GLA 200 Progressive Line": false,
+                "GLA 200 AMG Line": false,
+                "GLA 220 d 4MATIC": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLA 200 Progressive Line": true,
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLA 200 Progressive Line": "<<Hey Mercedes>>",
+                "GLA 200 AMG Line": "<<Hey Mercedes>>",
+                "GLA 220 d 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos digital",
+                "GLA 200 Progressive Line": "Pantalla de 10,25 pulgadas",
+                "GLA 200 AMG Line": "Pantalla de 10,25 pulgadas",
+                "GLA 220 d 4MATIC": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología touch screen",
+                "GLA 200 Progressive Line": "Pantalla de 10,25 pulgadas",
+                "GLA 200 AMG Line": "Pantalla de 10,25 pulgadas",
+                "GLA 220 d 4MATIC": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Paquete USB Plus",
+                "GLA 200 Progressive Line": "Cinco interfaces USB-C y una caja de enchufe de 12 V",
+                "GLA 200 AMG Line": "Cinco interfaces USB-C y una caja de enchufe de 12 V",
+                "GLA 220 d 4MATIC": "Cinco interfaces USB-C y una caja de enchufe de 12 V"
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "GLA 200 Progressive Line": "Incluye sistema de carga inalámbrico para dispositivos delante",
+                "GLA 200 AMG Line": "Incluye sistema de carga inalámbrico para dispositivos delante",
+                "GLA 220 d 4MATIC": "Incluye sistema de carga inalámbrico para dispositivos delante"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "GLA 200 Progressive Line": "Incluye 8 conceptos cromáticos e iluminación en difusores de aire",
+                "GLA 200 AMG Line": "Incluye 8 conceptos cromáticos e iluminación en difusores de aire",
+                "GLA 220 d 4MATIC": "Incluye 8 conceptos cromáticos e iluminación en difusores de aire"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores eléctricos",
+                "GLA 200 Progressive Line": "Retrovisor interior y exterior con función de antideslumbramiento",
+                "GLA 200 AMG Line": "Retrovisor interior y exterior con función de antideslumbramiento",
+                "GLA 220 d 4MATIC": "Retrovisor interior y exterior con función de antideslumbramiento"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "GLA 200 Progressive Line": true,
+                "GLA 200 AMG Line": true,
+                "GLA 220 d 4MATIC": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "GLA 200 Progressive Line": "Incluye sensor de lluvia para cierre automático",
+                "GLA 200 AMG Line": "Incluye sensor de lluvia para cierre automático",
+                "GLA 220 d 4MATIC": "Incluye sensor de lluvia para cierre automático"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLA (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica GLA - Digital.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior diferenciando por versión."
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "vehiculo": {
+        "marca": "KGM",
+        "modelo": "ACTYON",
+        "año": null,
+        "versiones": [
+            "AY 112",
+            "AY 223"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "AY 112": "MOTOR GASOLINA G 1.5 DTF TURBO (163 CV / 280 NM)",
+            "AY 223": "MOTOR GASOLINA G 1.5 DTF TURBO (163 CV / 280 NM)"
+        },
+        "cilindrada": {
+            "AY 112": 1497,
+            "AY 223": 1497
+        },
+        "potencia_hp": {
+            "AY 112": "163",
+            "AY 223": "163"
+        },
+        "potencia_rpm": {
+            "AY 112": "5000 - 5500",
+            "AY 223": "5000 - 5500"
+        },
+        "torque_nm": {
+            "AY 112": "280",
+            "AY 223": "280"
+        },
+        "torque_rpm": {
+            "AY 112": "1500 - 4000",
+            "AY 223": "1500 - 4000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "AY 112": "Transmisión automática de 6 velocidades con selector electrónico",
+            "AY 223": "Transmisión automática de 6 velocidades con selector electrónico"
+        },
+        "traccion": {
+            "AY 112": "2WD (delantera)",
+            "AY 223": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson Strut",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Eléctrico (EPB)",
+        "neumaticos": {
+            "AY 112": "Aro 20",
+            "AY 223": "Aro 20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4740,
+        "ancho_mm": 1910,
+        "alto_mm": 1670,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 700,
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Emisiones de CO2 (g/km)",
+            "AY 112": "167",
+            "AY 223": "180"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "AY 112": "11,6",
+            "AY 223": "10,8"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "AY 112": "15,4",
+            "AY 223": "14,1"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "AY 112": "13,7",
+            "AY 223": "12,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos",
+                "AY 112": false,
+                "AY 223": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "AY 112": false,
+                "AY 223": true
+            },
+            {
+                "caracteristica": "Tracción integral activa (AWD) con bloqueo",
+                "AY 112": false,
+                "AY 223": true
+            },
+            {
+                "caracteristica": "Caja de transferencia",
+                "AY 112": false,
+                "AY 223": true
+            }
+        ],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luz antiniebla trasera LED",
+            "Luz diurna LED (DRL)",
+            "Espejos exteriores con plegado eléctrico + control eléctrico + calefacción + intermitente",
+            "Parabrisas tinteado",
+            "Vidrios de puertas delanteras - tinteados",
+            "Vidrios de puertas traseras y luneta trasera - tinteados",
+            "Luces traseras LED",
+            "Soporte de enganche de remolque"
+        ],
+        "interior": [
+            "Volante calefaccionado y forrado en cuero",
+            "Volante ajustable manualmente en altura y profundidad",
+            "Volante forrado en eco-cuero",
+            "Controles remotos en el volante",
+            "Reposabrazos traseros dobles (tipo plegable)",
+            "Asientos delanteros ajustables eléctricamente con cabeceras deslizantes",
+            "Soporte lumbar eléctrico de 2 vías para conductor",
+            "Asientos delanteros y traseros calefactados",
+            "Asientos delanteros ventilados",
+            "Asientos traseros abatibles",
+            "Iluminación ambiental en panel, puertas y consola",
+            "Aire acondicionado automático bizona delantero"
+        ],
+        "seguridad": [
+            "Sistema de anclaje ISOFIX",
+            "Cantidad de airbags: 6",
+            "Frenos (delanteros: disco ventilado, traseros: disco)",
+            "Freno de estacionamiento eléctrico (EPB)",
+            "Cámara de visión inferior trasera (HD)",
+            "Inmovilizador",
+            "Alarma antirrobo",
+            "Control electrónico de estabilidad (ESC)",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Sistema activo antivuelco (ARP)",
+            "Asistente de frenado de emergencia (BAS)",
+            "Sistema de arranque en pendiente (HSA)",
+            "Señal de parada de emergencia (ESS)",
+            "Control de descenso variable en pendiente (HDC)",
+            "Frenado multicolisión (MCB)",
+            "Sistema de apoyo a la estabilidad del remolque (TSC)"
+        ],
+        "tecnologia": [
+            "Sistema de audio inteligente con pantalla de 12,3”",
+            "6 altavoces",
+            "2 puertos USB-C delanteros (27W cada uno)",
+            "2 puertos de carga USB-C traseros (27W cada uno)",
+            "Manos libres Bluetooth + CarPlay + Android Auto",
+            "Control de crucero",
+            "Sistema de asistencia de velocidad",
+            "Sensores de estacionamiento delanteros y traseros (PASS)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Negro",
+        "Gris",
+        "Azul metálico",
+        "Beige arena",
+        "Cobre"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica KGM (ticket negro=true, -=false; texto/valores tal cual)",
+        "fuente": "FICHA-TECNICA-ACTYON-1.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Motor: relación de compresión 9.5:1; inyección directa; sobrealimentación Turbo EWGA; DOHC/16 válvulas; norma de emisión EURO 6D; país de fabricación Corea del Sur. Dimensiones adicionales: trocha delantera 1610 mm, trocha trasera 1630 mm. Capacidades: remolque con frenos 1500 kg, sin frenos 500 kg."
+    }
+}

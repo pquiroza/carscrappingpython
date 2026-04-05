@@ -1,0 +1,383 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "EXPLORER",
+        "año": null,
+        "versiones": [
+            "ACTIVE 4X2",
+            "ACTIVE 4WD",
+            "PLATINUM 4WD",
+            "ST"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ACTIVE 4X2": "2.3L EcoBoost® I-4",
+            "ACTIVE 4WD": "2.3L EcoBoost® I-4",
+            "PLATINUM 4WD": "2.3L EcoBoost® I-4",
+            "ST": "3.0L EcoBoost® V6"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "ACTIVE 4X2": "300",
+            "ACTIVE 4WD": "300",
+            "PLATINUM 4WD": "300",
+            "ST": "400"
+        },
+        "potencia_rpm": {
+            "ACTIVE 4X2": "5500",
+            "ACTIVE 4WD": "5500",
+            "PLATINUM 4WD": "5500",
+            "ST": "5500"
+        },
+        "torque_nm": {
+            "ACTIVE 4X2": "420",
+            "ACTIVE 4WD": "420",
+            "PLATINUM 4WD": "420",
+            "ST": "542"
+        },
+        "torque_rpm": {
+            "ACTIVE 4X2": "3500",
+            "ACTIVE 4WD": "3500",
+            "PLATINUM 4WD": "3500",
+            "ST": "3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "ACTIVE 4X2": "AT10",
+            "ACTIVE 4WD": "AT10",
+            "PLATINUM 4WD": "AT10",
+            "ST": "AT10 con SelectShift®"
+        },
+        "traccion": {
+            "ACTIVE 4X2": "RWD",
+            "ACTIVE 4WD": "4WD",
+            "PLATINUM 4WD": "4WD",
+            "ST": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "ACTIVE 4X2": "P255/65R18 All-Season",
+            "ACTIVE 4WD": "255/55R20 110V All-Season",
+            "PLATINUM 4WD": "255/55R20 110V All-Season",
+            "ST": "275/45R21 All-Season"
+        },
+        "llantas": {
+            "ACTIVE 4X2": "18\"",
+            "ACTIVE 4WD": "20\"",
+            "PLATINUM 4WD": "20\"",
+            "ST": "21\""
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5047,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": 3025,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "3ra_fila_l": {
+                "ACTIVE 4X2": 462,
+                "ACTIVE 4WD": 462,
+                "PLATINUM 4WD": 462,
+                "ST": 462
+            },
+            "2da_fila_l": {
+                "ACTIVE 4X2": 1303,
+                "ACTIVE 4WD": 1303,
+                "PLATINUM 4WD": 1303,
+                "ST": 1303
+            }
+        },
+        "capacidad_estanque_lts": {
+            "ACTIVE 4X2": 70,
+            "ACTIVE 4WD": 70,
+            "PLATINUM 4WD": 70,
+            "ST": 76.5
+        }
+    },
+    "tabla_comparativa_chasis": [
+        {
+            "caracteristica": "Frenos performance",
+            "ACTIVE 4X2": false,
+            "ACTIVE 4WD": false,
+            "PLATINUM 4WD": false,
+            "ST": true
+        },
+        {
+            "caracteristica": "Suspensión deportiva",
+            "ACTIVE 4X2": false,
+            "ACTIVE 4WD": false,
+            "PLATINUM 4WD": false,
+            "ST": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Salida escape cuádruple cromadas",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": false,
+                "ST": true
+            },
+            {
+                "caracteristica": "Espejos calefaccionados",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Señalizador integrado LED",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Abatibles electrónicos con memoria",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador tri-zona",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "ACTIVE 4X2": "10 Posiciones",
+                "ACTIVE 4WD": "10 Posiciones",
+                "PLATINUM 4WD": "8 Posiciones",
+                "ST": "8 Posiciones"
+            },
+            {
+                "caracteristica": "Asiento conductor con memoria",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Asientos delanteros refrigerados",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con masajeador",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Tercera fila abatible electrónicamente",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "ACTIVE 4X2": "ActiveX®",
+                "ACTIVE 4WD": "ActiveX®",
+                "PLATINUM 4WD": "Cuero con microperforaciones Miko®",
+                "ST": "ActiveX® con encaje Miko®, costuras rojas y logo ST"
+            },
+            {
+                "caracteristica": "Paddle Shifters",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": false,
+                "ST": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Advance Trac® con RSC®",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Cámara retroceso",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": false,
+                "ST": false
+            },
+            {
+                "caracteristica": "Cámara 360° vista dividida",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "ITPMS",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Isofix",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema Beosonic by Bang & Olufsen",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "ACTIVE 4X2": 6,
+                "ACTIVE 4WD": 6,
+                "PLATINUM 4WD": 14,
+                "ST": 14
+            },
+            {
+                "caracteristica": "Pantalla táctil",
+                "ACTIVE 4X2": "13,2\"",
+                "ACTIVE 4WD": "13,2\"",
+                "PLATINUM 4WD": "13,2\"",
+                "ST": "13,2\""
+            },
+            {
+                "caracteristica": "Carga inalámbrica",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Asistente frenado marcha atrás",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "HLA",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "HDC",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo Stop & Go",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Lane Centering",
+                "ACTIVE 4X2": true,
+                "ACTIVE 4WD": true,
+                "PLATINUM 4WD": true,
+                "ST": true
+            },
+            {
+                "caracteristica": "Sensor estacionamiento frontal",
+                "ACTIVE 4X2": false,
+                "ACTIVE 4WD": false,
+                "PLATINUM 4WD": true,
+                "ST": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "Advance Trac® con RSC®",
+            "ITPMS",
+            "Isofix"
+        ],
+        "interior": [
+            "Climatizador tri-zona",
+            "Asientos delanteros calefaccionados"
+        ],
+        "exterior": [
+            "Espejos calefaccionados"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Control crucero adaptativo Stop & Go",
+            "Lane Centering",
+            "HLA"
+        ]
+    },
+    "colores": [
+        "Negro Universo",
+        "Azul Vaporizado",
+        "Gris Carbonizado",
+        "Blanco Metálico",
+        "Plata Metálico",
+        "Rojo Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por múltiples versiones",
+        "fuente": "fcl-explorer-ficha-tecnica.pdf",
+        "versiones_en_documento": 4,
+        "notas": null
+    }
+}

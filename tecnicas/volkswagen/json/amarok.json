@@ -1,0 +1,240 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Nueva Amarok",
+        "año": null,
+        "versiones": [
+            "Comfortline",
+            "Highline",
+            "Extreme"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline": "3.0 TDI V6",
+            "Highline": "3.0 TDI V6",
+            "Extreme": "3.0 TDI V6"
+        },
+        "cilindrada": {
+            "Comfortline": 2967,
+            "Highline": 2967,
+            "Extreme": 2967
+        },
+        "potencia_hp": {
+            "Comfortline": "258",
+            "Highline": "258",
+            "Extreme": "258"
+        },
+        "potencia_rpm": {
+            "Comfortline": "3.250 - 4.000",
+            "Highline": "3.250 - 4.000",
+            "Extreme": "3.250 - 4.000"
+        },
+        "torque_nm": {
+            "Comfortline": "580",
+            "Highline": "580",
+            "Extreme": "580"
+        },
+        "torque_rpm": {
+            "Comfortline": "1.400 - 3.000",
+            "Highline": "1.400 - 3.000",
+            "Extreme": "1.400 - 3.000"
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "Comfortline": "AT8",
+            "Highline": "AT8",
+            "Extreme": "AT8"
+        },
+        "traccion": "4Motion - AWD (Permanente)"
+    },
+    "direccion": {
+        "tipo": "Asistida hidráulicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson, doble parrilla triangular, resortes helicoidales, amortiguadores hidráulicos y barra estabilizadora",
+        "suspension_trasera": "Eje rígido, ballestas semi-elípticas reforzada de 3 hojas y amortiguadores hidráulicos",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfortline": "245/65 R17",
+            "Highline": "255/55 R19",
+            "Extreme": "255/50 R20"
+        },
+        "rueda_repuesto": {
+            "Comfortline": "Acero",
+            "Highline": "Acero",
+            "Extreme": "Aleación"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 5350,
+        "ancho_mm": 1954,
+        "alto_mm": {
+            "Comfortline": 1851,
+            "Highline": 1859,
+            "Extreme": 1859
+        },
+        "distancia_ejes_mm": 3097,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2920,
+        "capacidad_maletero_lts": 1280,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline": "8,1",
+            "Highline": "8,1",
+            "Extreme": "8,1"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline": "10,3",
+            "Highline": "10,3",
+            "Extreme": "10,3"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline": "12,0",
+            "Highline": "12,0",
+            "Extreme": "12,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Franja lumínica de foco a foco LED",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores ajustables eléctricamente y calefaccionados",
+                "Comfortline": true,
+                "Highline": false,
+                "Extreme": false
+            },
+            {
+                "caracteristica": "Retrovisores exteriores ajustables y abatibles eléctricamente, y calefaccionados",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            },
+            {
+                "caracteristica": "Retrovisores exteriores y parachoque trasero cromado",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Comfortline": "Tela",
+                "Highline": "Parcialmente en cuero bi-color",
+                "Extreme": "Parcialmente en cuero bi-color"
+            },
+            {
+                "caracteristica": "Asientos delanteros con regulación eléctrica ergo Comfort (14 posiciones)",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            },
+            {
+                "caracteristica": "Volante multifunción forrado en cuero",
+                "Comfortline": true,
+                "Highline": false,
+                "Extreme": false
+            },
+            {
+                "caracteristica": "Volante multifunción forrado en cuero con levas de cambio",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            },
+            {
+                "caracteristica": "Aire acondicionado semi-automático",
+                "Comfortline": true,
+                "Highline": false,
+                "Extreme": false
+            },
+            {
+                "caracteristica": "Aire acondicionado \"Climatronic\" bi-zona",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Alerta de colisión frontal",
+                "Comfortline": false,
+                "Highline": true,
+                "Extreme": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces principales LED",
+            "Luces Diurnas LED (DRL)",
+            "Luces traseras LED",
+            "Retrovisores exteriores y manilla color carrocería",
+            "Neblineros delanteros y luces de curva",
+            "Aditivo Combustible AD BLUE"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Radio Touchscreen 9“ con App Connect",
+            "6 parlantes",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Cámara de retroceso",
+            "Sensor de lluvia",
+            "Parabrisas de vidrio laminado de seguridad con aislamiento térmico",
+            "Cierre centralizado con mando a distancia",
+            "Control de velocidad crucero",
+            "2 llaves plegables con mando a distancia"
+        ],
+        "seguridad": [
+            "Sistema de frenos antibloqueo ABS con función Off-Road",
+            "Distribución electrónica de la fuerza de frenado (EBD)",
+            "Sistema de frenado automático post-colisión",
+            "Asistente hidráulico de frenada de emergencia (HBA)",
+            "Regulación antideslizamiento de la tracción (ASR)",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de estabilidad (ESC)",
+            "Control de asistencia para arranques en pendientes (HHC)",
+            "Asistente para descenso en pendientes (HDC)",
+            "6 Airbags",
+            "Anclajes ISOFIX y TOP TETHER para asientos de niños",
+            "Inmovilizador electrónico y alarma de robo"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=de serie, -=no disponible; texto y valores exactos del documento).",
+        "fuente": "FT-Amarok-20251124.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajeron todos los datos técnicos, dimensiones, capacidades, consumos, equipamiento interior/exterior/seguridad y especificaciones de zona de carga indicadas en la ficha. Elementos no presentes en el documento se mantienen como null."
+    }
+}

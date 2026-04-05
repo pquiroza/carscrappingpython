@@ -1,0 +1,229 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Tucson Hibrido",
+        "año": null,
+        "versiones": [
+            "1.6T_HEV_PLUS_FL",
+            "1.6T_HEV_DESIGN_FL",
+            "1.6T_HEV_4WD_LIMITED_FL"
+        ]
+    },
+    "motor": {
+        "tipo": "1.6 Turbo HEV",
+        "cilindrada": "1.600 cc",
+        "potencia_hp": {
+            "motor_combustion": "227 hp a 5.500 rpm",
+            "motor_electrico": "47,7 kW / 64 Hp",
+            "combinada": "227 Hp @ 5.500 Rpm"
+        },
+        "potencia_rpm": "5.500",
+        "torque_nm": "350 Nm",
+        "torque_rpm": "1.500-4.500",
+        "combustible": "Gasolina",
+        "transmision": "6AT",
+        "traccion": {
+            "1.6T_HEV_PLUS_FL": "2WD",
+            "1.6T_HEV_DESIGN_FL": "2WD",
+            "1.6T_HEV_4WD_LIMITED_FL": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos Sólidos",
+        "neumaticos": {
+            "1.6T_HEV_PLUS_FL": "235/60R18",
+            "1.6T_HEV_DESIGN_FL": "235/60R18",
+            "1.6T_HEV_4WD_LIMITED_FL": "235/55R19"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4640,
+        "ancho_mm": 1865,
+        "alto_mm": 1665,
+        "distancia_ejes_mm": 2755,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.6T_HEV_PLUS_FL": 2210,
+            "1.6T_HEV_DESIGN_FL": 2210,
+            "1.6T_HEV_4WD_LIMITED_FL": 2270
+        },
+        "capacidad_maletero_lts": 582,
+        "capacidad_estanque_lts": 52
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "1.6T_HEV_PLUS_FL": "18\"",
+            "1.6T_HEV_DESIGN_FL": "19\"",
+            "1.6T_HEV_4WD_LIMITED_FL": "19\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "BCA - Asistencia punto ciego",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "FCA JX - Asistencia colisión al girar",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "RCCA - Alerta tráfico cruzado",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "SSC - Control crucero adaptativo",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "PCA - Asistencia evasión colisión estacionamiento reversa",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "BVM - Monitor punto ciego",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster digital",
+                "1.6T_HEV_PLUS_FL": "4,2\" TFT LCD",
+                "1.6T_HEV_DESIGN_FL": "12,3\" TFT LCD",
+                "1.6T_HEV_4WD_LIMITED_FL": "12,3\" TFT LCD"
+            },
+            {
+                "caracteristica": "Control crucero",
+                "1.6T_HEV_PLUS_FL": true,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": "Adaptativo"
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "1.6T_HEV_PLUS_FL": "Tela",
+                "1.6T_HEV_DESIGN_FL": "Cuero",
+                "1.6T_HEV_4WD_LIMITED_FL": "Cuero"
+            },
+            {
+                "caracteristica": "Selector de marchas al volante (E-Shift By Wire)",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Paddle Shifter",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": true,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con memoria",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            },
+            {
+                "caracteristica": "Audio Premium Bose",
+                "1.6T_HEV_PLUS_FL": false,
+                "1.6T_HEV_DESIGN_FL": false,
+                "1.6T_HEV_4WD_LIMITED_FL": true
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "Isofix",
+            "HAC + DBC",
+            "Asistente estabilización remolque",
+            "Asistente estacionamiento delantero/trasero",
+            "Cámara retroceso con guías dinámicas",
+            "Control estabilidad",
+            "Alerta pasajeros traseros",
+            "Inmovilizador",
+            "TPMS",
+            "LKA",
+            "LFA",
+            "Asistencia luces altas",
+            "Advertencia atención conductor"
+        ],
+        "interior": [
+            "Climatizador dual",
+            "Alza vidrios eléctricos totales Auto Up/Down/Safety",
+            "Asientos traseros 60/40",
+            "Barras techo",
+            "Bluetooth manos libres",
+            "Botón encendido entrada inteligente",
+            "Cobertor maletero",
+            "Espejos eléctricos calefaccionados",
+            "Espejos plegables eléctricos",
+            "Radio touch 12,3\" Apple CarPlay & Android Auto",
+            "Cargador inalámbrico",
+            "Luces DRL y posición LED",
+            "Luces delanteras LED",
+            "Sensor de luces",
+            "Selector modos manejo",
+            "Salidas aire plazas traseras",
+            "Volante controles radio y bluetooth",
+            "Volante regulable altura y profundidad",
+            "Freno estacionamiento eléctrico con Autohold",
+            "Sensor lluvia",
+            "Asientos delanteros calefaccionados",
+            "Luz ambiente"
+        ],
+        "exterior": [
+            "Luces traseras LED"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "hyu-tucson-hev-ficha-tecnica.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual del documento."
+    }
+}

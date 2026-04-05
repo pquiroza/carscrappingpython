@@ -1,0 +1,225 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "Nuevo SQ5",
+        "año": null,
+        "versiones": [
+            "TFSI quattro"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "TFSI quattro": "Motor Mild-Hybrid 3.0 V6 TFSI"
+        },
+        "cilindrada": {
+            "TFSI quattro": null
+        },
+        "potencia_hp": {
+            "TFSI quattro": "362"
+        },
+        "potencia_rpm": {
+            "TFSI quattro": "5500-6300"
+        },
+        "torque_nm": {
+            "TFSI quattro": "550"
+        },
+        "torque_rpm": {
+            "TFSI quattro": "1700-4000"
+        },
+        "combustible": null,
+        "transmision": {
+            "TFSI quattro": "S tronic 7 velocidades"
+        },
+        "traccion": {
+            "TFSI quattro": "Integral permanente quattro"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "ESC / ABS / EBD",
+        "frenos_traseros": "Sistema de frenos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "TFSI quattro": "Audi Sport 255/40 R21”"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4717,
+        "ancho_mm": 2155,
+        "alto_mm": 1662,
+        "distancia_ejes_mm": 2828,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2115,
+        "capacidad_maletero_lts": "475 / 1.446",
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento [km/l]*",
+            "TFSI quattro": "11,8"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "TFSI quattro": "4,5 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "TFSI quattro": "250 km/h"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "TFSI quattro": "Sensor trasero y delantero, con cámara 360° y Park Assist plus"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "TFSI quattro": "Matrix LED con Digital Light Signature"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "TFSI quattro": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "TFSI quattro": "Audi Sport 255/40 R21”"
+            },
+            {
+                "caracteristica": "Paquete de diseño",
+                "TFSI quattro": "Black Package Plus. Pinzas de freno en color rojo."
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "TFSI quattro": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Suspensión",
+                "TFSI quattro": "Tren de rodaje adaptativo S con suspensión neumática"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "TFSI quattro": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatización",
+                "TFSI quattro": "Automática 3 zonas"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "TFSI quattro": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "TFSI quattro": "LED multicolor"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "TFSI quattro": "MMI Navigation Plus con pantalla Touch 14,5” + Pantalla Touch 10,9’’ para el acompañante"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "TFSI quattro": "Virtual Cockpit Plus 11,9”"
+            },
+            {
+                "caracteristica": "Phone Box*",
+                "TFSI quattro": "Sí, con carga inalámbrica para Smartphones"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "TFSI quattro": "Bang &amp; Olufsen Sound System 16 altavoces + subwoofer 685W"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "TFSI quattro": "Cuero perforado, con logo S en relieve y techo interior en negro"
+            },
+            {
+                "caracteristica": "Head-up Display",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "TFSI quattro": "Deportivos con ajuste eléctrico, soporte lumbar, calefacción (delanteros y traseros), ventilación, función masaje y función memoria (conductor)"
+            },
+            {
+                "caracteristica": "Volante",
+                "TFSI quattro": "Deportivo S multifunción en cuero con levas de cambio"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros y traseros, central y de cortina",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Asistente de giro y evasión de obstáculos, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Fijación i-Size y Top Tether para asientos traseros",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Maletero con apertura y cierre eléctrico + Control gestual",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Kit de reparación de neumáticos y pernos de seguridad antirrobo",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "TFSI quattro": true
+            },
+            {
+                "caracteristica": "Alarma antirrobos",
+                "TFSI quattro": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Glaciar",
+        "Rojo Granada",
+        "Verde Distrito",
+        "Azul Ultra",
+        "Azul Navarra",
+        "Gris Daytona",
+        "Negro Mitos"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de ficha por versión Audi (valores/texto tal cual del PDF; Sí/No -> true/false cuando aplica)",
+        "fuente": "New-SQ5-TFSI-quattro.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Audi entrega un archivo por versión; este JSON corresponde a la versión incluida en el PDF. El documento indica retrovisores exteriores y suspensión como líneas específicas, por lo que se incluyeron en equipamiento exterior."
+    }
+}

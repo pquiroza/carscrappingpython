@@ -1,0 +1,138 @@
+{
+    "vehiculo": {
+        "marca": "Lexus",
+        "modelo": "LBX",
+        "año": null,
+        "versiones": [
+            "ACTIVE",
+            "URBAN"
+        ]
+    },
+    "motor": {
+        "tipo": "M15A-FXE",
+        "cilindrada": "1.490 cc, 3 cilindros en línea",
+        "potencia_hp": "134 hp",
+        "potencia_rpm": null,
+        "torque_nm": "185 Nm",
+        "torque_rpm": null,
+        "combustible": "Eléctrico Híbrido Auto Recargable",
+        "transmision": "CVT",
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos 15\" Del/Tras",
+        "frenos_traseros": "Discos 15\" Del/Tras",
+        "neumaticos": "225/60R17",
+        "rueda_repuesto": "Rueda repuesto reducida 17\" (Solo Active)"
+    },
+    "dimensiones": {
+        "largo_mm": 4190,
+        "ancho_mm": 1825,
+        "alto_mm": 1560,
+        "distancia_ejes_mm": 2580,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1280,
+        "capacidad_maletero_lts": 332,
+        "capacidad_estanque_lts": 36
+    },
+    "tabla_comparativa_ruedas": [],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "ACTIVE": "26.3",
+            "URBAN": "26.3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asiento conductor ajuste lumbar",
+                "ACTIVE": true,
+                "URBAN": false
+            },
+            {
+                "caracteristica": "Ajuste asiento conductor eléctrico con memoria",
+                "ACTIVE": true,
+                "URBAN": false
+            },
+            {
+                "caracteristica": "Pantalla tablero 12,3\"",
+                "ACTIVE": true,
+                "URBAN": false
+            },
+            {
+                "caracteristica": "Tapizado cuero sintético perforado",
+                "ACTIVE": true,
+                "URBAN": false
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Vidrios traseros Privacy UV",
+                "ACTIVE": true,
+                "URBAN": false
+            },
+            {
+                "caracteristica": "Bi-Tono Techo negro y pilar C",
+                "ACTIVE": true,
+                "URBAN": false
+            },
+            {
+                "caracteristica": "Sensor lluvia",
+                "ACTIVE": true,
+                "URBAN": false
+            }
+        ],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Lexus Safety System+",
+            "Control crucero adaptativo rango completo",
+            "ABS",
+            "VSC",
+            "PKSB",
+            "Sensores estacionamiento delanteros y traseros",
+            "HAC",
+            "8 Airbags",
+            "Luces altas automáticas (AHB)"
+        ],
+        "interior": [
+            "Climatizador bi-zona",
+            "Espejo electrocromático",
+            "EPB con Brake Hold",
+            "2 USB-C delanteros",
+            "2 tomas 12V",
+            "Pantalla Touch 9,8\"",
+            "Mandos volante",
+            "Modos conducción Normal/Eco/EV",
+            "Audio 6 parlantes"
+        ],
+        "exterior": [
+            "Focos Bi-LED",
+            "DRL",
+            "Nivelación automática focos",
+            "Smart Key",
+            "Cámara retroceso"
+        ],
+        "tecnologia": [
+            "Apple CarPlay inalámbrico",
+            "Android Auto con cable"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "FICHA_ESPEC_ONLINE_LEXUS_LBX_16DIC_v02_bgWUP51_d2qdbFu.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Equipamiento marcado con (*) corresponde solo a versión Active según el documento."
+    }
+}

@@ -1,0 +1,430 @@
+{
+    "vehiculo": {
+        "marca": "KGM",
+        "modelo": "MUSSO GRAND",
+        "año": null,
+        "versiones": [
+            "LX 2.2TD 6MT 2WD QL610",
+            "GLX 2.2TD 6MT 2WD QL612",
+            "GLX 2.2TD 6AT 2WD QL622",
+            "GLX 2.2TD 6MT 4WD QL712",
+            "LIMITED 2.2TD 6MT 4WD QL722",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 2.2TD 6MT 2WD QL610": "4 en línea, Motor Longitudinal",
+            "GLX 2.2TD 6MT 2WD QL612": "4 en línea, Motor Longitudinal",
+            "GLX 2.2TD 6AT 2WD QL622": "4 en línea, Motor Longitudinal",
+            "GLX 2.2TD 6MT 4WD QL712": "4 en línea, Motor Longitudinal",
+            "LIMITED 2.2TD 6MT 4WD QL722": "4 en línea, Motor Longitudinal",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "4 en línea, Motor Longitudinal"
+        },
+        "cilindrada": {
+            "LX 2.2TD 6MT 2WD QL610": 2157,
+            "GLX 2.2TD 6MT 2WD QL612": 2157,
+            "GLX 2.2TD 6AT 2WD QL622": 2157,
+            "GLX 2.2TD 6MT 4WD QL712": 2157,
+            "LIMITED 2.2TD 6MT 4WD QL722": 2157,
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": 2157
+        },
+        "potencia_hp": {
+            "LX 2.2TD 6MT 2WD QL610": "178",
+            "GLX 2.2TD 6MT 2WD QL612": "178",
+            "GLX 2.2TD 6AT 2WD QL622": "184",
+            "GLX 2.2TD 6MT 4WD QL712": "178",
+            "LIMITED 2.2TD 6MT 4WD QL722": "184",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "184"
+        },
+        "potencia_rpm": {
+            "LX 2.2TD 6MT 2WD QL610": "3.800",
+            "GLX 2.2TD 6MT 2WD QL612": "3.800",
+            "GLX 2.2TD 6AT 2WD QL622": "3.800",
+            "GLX 2.2TD 6MT 4WD QL712": "3.800",
+            "LIMITED 2.2TD 6MT 4WD QL722": "3.800",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "3.800"
+        },
+        "torque_nm": {
+            "LX 2.2TD 6MT 2WD QL610": "400",
+            "GLX 2.2TD 6MT 2WD QL612": "400",
+            "GLX 2.2TD 6AT 2WD QL622": "400",
+            "GLX 2.2TD 6MT 4WD QL712": "400",
+            "LIMITED 2.2TD 6MT 4WD QL722": "400",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "400"
+        },
+        "torque_rpm": {
+            "LX 2.2TD 6MT 2WD QL610": "1.400 - 2.800",
+            "GLX 2.2TD 6MT 2WD QL612": "1.400 - 2.800",
+            "GLX 2.2TD 6AT 2WD QL622": "1.400 - 2.800",
+            "GLX 2.2TD 6MT 4WD QL712": "1.400 - 2.800",
+            "LIMITED 2.2TD 6MT 4WD QL722": "1.400 - 2.800",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "1.400 - 2.800"
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "LX 2.2TD 6MT 2WD QL610": "Mecánica 6 vel",
+            "GLX 2.2TD 6MT 2WD QL612": "Mecánica 6 vel",
+            "GLX 2.2TD 6AT 2WD QL622": "Automática 6 vel",
+            "GLX 2.2TD 6MT 4WD QL712": "Mecánica 6 vel",
+            "LIMITED 2.2TD 6MT 4WD QL722": "Automática 6 vel",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "Automática 6 vel"
+        },
+        "traccion": {
+            "LX 2.2TD 6MT 2WD QL610": "2WD MT",
+            "GLX 2.2TD 6MT 2WD QL612": "2WD MT",
+            "GLX 2.2TD 6AT 2WD QL622": "2WD AT",
+            "GLX 2.2TD 6MT 4WD QL712": "4WD MT",
+            "LIMITED 2.2TD 6MT 4WD QL722": "4WD AT",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "4WD AT"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble Bandeja+Espiral +Barra Estabilizadora",
+        "suspension_trasera": {
+            "LX 2.2TD 6MT 2WD QL610": "Ballestas",
+            "GLX 2.2TD 6MT 2WD QL612": "Ballestas",
+            "GLX 2.2TD 6AT 2WD QL622": "Espiral (5 LINIO)",
+            "GLX 2.2TD 6MT 4WD QL712": "Ballestas",
+            "LIMITED 2.2TD 6MT 4WD QL722": "Ballestas",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "Espiral (5 LINIO)"
+        },
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LX 2.2TD 6MT 2WD QL610": "235 / 70R17”",
+            "GLX 2.2TD 6MT 2WD QL612": "235 / 70R17”",
+            "GLX 2.2TD 6AT 2WD QL622": "235 / 70R17”",
+            "GLX 2.2TD 6MT 4WD QL712": "235 / 70R17”",
+            "LIMITED 2.2TD 6MT 4WD QL722": "235 / 70R17”",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "255 / 60R18”"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5405,
+        "ancho_mm": 1950,
+        "alto_mm": 1820,
+        "distancia_ejes_mm": 3210,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "LX 2.2TD 6MT 2WD QL610": 3220,
+            "GLX 2.2TD 6MT 2WD QL612": 3220,
+            "GLX 2.2TD 6AT 2WD QL622": 3220,
+            "GLX 2.2TD 6MT 4WD QL712": 3220,
+            "LIMITED 2.2TD 6MT 4WD QL722": 3220,
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": 2880
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 75,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Emisiones de CO2 (g/km)",
+            "LX 2.2TD 6MT 2WD QL610": "214",
+            "GLX 2.2TD 6MT 2WD QL612": "214",
+            "GLX 2.2TD 6AT 2WD QL622": "221",
+            "GLX 2.2TD 6MT 4WD QL712": "214",
+            "LIMITED 2.2TD 6MT 4WD QL722": "221",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "229"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "LX 2.2TD 6MT 2WD QL610": "10,1",
+            "GLX 2.2TD 6MT 2WD QL612": "10,1",
+            "GLX 2.2TD 6AT 2WD QL622": "9,4",
+            "GLX 2.2TD 6MT 4WD QL712": "10,1",
+            "LIMITED 2.2TD 6MT 4WD QL722": "9,4",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "9,1"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "LX 2.2TD 6MT 2WD QL610": "14,2",
+            "GLX 2.2TD 6MT 2WD QL612": "14,2",
+            "GLX 2.2TD 6AT 2WD QL622": "14,2",
+            "GLX 2.2TD 6MT 4WD QL712": "14,2",
+            "LIMITED 2.2TD 6MT 4WD QL722": "14,2",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "13,6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "LX 2.2TD 6MT 2WD QL610": "12,3",
+            "GLX 2.2TD 6MT 2WD QL612": "12,3",
+            "GLX 2.2TD 6AT 2WD QL622": "11,9",
+            "GLX 2.2TD 6MT 4WD QL712": "12,3",
+            "LIMITED 2.2TD 6MT 4WD QL722": "11,9",
+            "LIMITED PLUS 2.2TD 6AT 4WD QL723": "11,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "LX 2.2TD 6MT 2WD QL610": "Tela",
+                "GLX 2.2TD 6MT 2WD QL612": "Tela",
+                "GLX 2.2TD 6AT 2WD QL622": "Tela",
+                "GLX 2.2TD 6MT 4WD QL712": "Tela",
+                "LIMITED 2.2TD 6MT 4WD QL722": "Tela",
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": "Eco cuero"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": "17”",
+                "GLX 2.2TD 6AT 2WD QL622": "17”",
+                "GLX 2.2TD 6MT 4WD QL712": "17”",
+                "LIMITED 2.2TD 6MT 4WD QL722": "17”",
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": "18” Negro"
+            },
+            {
+                "caracteristica": "Control crucero",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": true,
+                "GLX 2.2TD 6AT 2WD QL622": true,
+                "GLX 2.2TD 6MT 4WD QL712": true,
+                "LIMITED 2.2TD 6MT 4WD QL722": true,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Modos de conducción (Eco, Power, Winter)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": true,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": true,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Comando electrónico de selección de tracción (2H/4H/4L)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": true,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Sistema de climatización bi zona touch",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Panel digital de instrumentos",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Smart key (botón de arranque)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Luz día LED",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Barras en techo",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia y encendido automático de luces",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag",
+                "LX 2.2TD 6MT 2WD QL610": 2,
+                "GLX 2.2TD 6MT 2WD QL612": 2,
+                "GLX 2.2TD 6AT 2WD QL622": 2,
+                "GLX 2.2TD 6MT 4WD QL712": 2,
+                "LIMITED 2.2TD 6MT 4WD QL722": 2,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": 6
+            },
+            {
+                "caracteristica": "Sistema de control de estabilidad (ESP + EBD)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": true,
+                "GLX 2.2TD 6AT 2WD QL622": true,
+                "GLX 2.2TD 6MT 4WD QL712": true,
+                "LIMITED 2.2TD 6MT 4WD QL722": true,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Diferencial trasero autoblocante (LD)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Indicador electrónico de presión de neumáticos (TPMS)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Sistema de advertencia de cansancio del conductor (DAW)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Sistema de arranque en pendiente (HAS)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Control de descenso variable en pendiente (HDC)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Señal de parada de emergencia (ESS)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de tráfico cruzado (RCTA)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            },
+            {
+                "caracteristica": "Sistema de detección de punto ciego (BSD)",
+                "LX 2.2TD 6MT 2WD QL610": false,
+                "GLX 2.2TD 6MT 2WD QL612": false,
+                "GLX 2.2TD 6AT 2WD QL622": false,
+                "GLX 2.2TD 6MT 4WD QL712": false,
+                "LIMITED 2.2TD 6MT 4WD QL722": false,
+                "LIMITED PLUS 2.2TD 6AT 4WD QL723": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [
+            "Aire acondicionado",
+            "Sistema de audio Bluetooth",
+            "Pantalla touch + Car Play y Android Auto",
+            "Puerto de carga USB - C (delantero)",
+            "Espejos exteriores ajustables eléctricamente",
+            "Control apertura de puertas a distancia",
+            "Cinturones traseros de 3 puntas X2",
+            "Control de audio al volante"
+        ],
+        "seguridad": [
+            "Frenos ABS con EBD",
+            "Sistema de anclaje ISOFIX",
+            "Sensor de estacionamiento delantero",
+            "Sensor de estacionamiento trasero",
+            "Inmovilizador de motor antirrobo",
+            "Alarma",
+            "Cámara de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "GRAND WHITE",
+        "BEIGE ARENA",
+        "GALAXIES GREY",
+        "MARBLE GRAY",
+        "AMAZONA GREEN",
+        "SPACE BLACK",
+        "INDIAN RED"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica KGM SsangYong (ticket negro=true, -=false; texto/valores tal cual)",
+        "fuente": "FICHA-TECNICA_MUSSO_GRAND_compressed-3.pdf",
+        "versiones_en_documento": 6,
+        "notas": "Motor: relación de compresión 15.5:1; inyección Directa; sobrealimentación Turbo VGT; DOHC / 16 Válvulas; país de fabricación Corea del Sur. Caja de transferencias: PART TIME 4H - 4L (para versiones 4WD). Dimensiones adicionales: medidas del pickup 1.610 / 1.570 / 571 (mm); trocha delantera 1620 mm; trocha trasera 1620 mm. Carga útil (kg): QL610 1.000; QL612 1.000; QL622 770; QL712 1.000; QL722 770; QL723 770. Pesos y capacidades: peso en orden de marcha (kg) QL610 2.200; QL612 2.220; QL622 2.210; QL712 2.210; QL722 2.210; QL723 2.165. Remolque con frenos 3.000 kg; sin frenos 750 kg."
+    }
+}

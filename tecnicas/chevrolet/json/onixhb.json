@@ -1,0 +1,412 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "ONIX HB",
+        "año": null,
+        "versiones": [
+            "1.0 LTZ MT R",
+            "1.0 RS MT R",
+            "1.0 PREMIER AT R"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.0 LTZ MT R": "12 Válvulas / DOHC",
+            "1.0 RS MT R": "12 Válvulas / DOHC",
+            "1.0 PREMIER AT R": "12 Válvulas / DOHC"
+        },
+        "cilindrada": {
+            "1.0 LTZ MT R": "1.0 Turbo",
+            "1.0 RS MT R": "1.0 Turbo",
+            "1.0 PREMIER AT R": "1.0 Turbo"
+        },
+        "potencia_hp": {
+            "1.0 LTZ MT R": "116 CV",
+            "1.0 RS MT R": "116 CV",
+            "1.0 PREMIER AT R": "116 CV"
+        },
+        "potencia_rpm": {
+            "1.0 LTZ MT R": "5500",
+            "1.0 RS MT R": "5500",
+            "1.0 PREMIER AT R": "5500"
+        },
+        "torque_nm": {
+            "1.0 LTZ MT R": "160",
+            "1.0 RS MT R": "160",
+            "1.0 PREMIER AT R": "160"
+        },
+        "torque_rpm": {
+            "1.0 LTZ MT R": "2000-4500",
+            "1.0 RS MT R": "2000-4500",
+            "1.0 PREMIER AT R": "2000-4500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.0 LTZ MT R": "MT 5 vel.",
+            "1.0 RS MT R": "MT 5 vel.",
+            "1.0 PREMIER AT R": "AT 6 Vel."
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida Eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Frenos de discos delanteros",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.0 LTZ MT R": null,
+            "1.0 RS MT R": null,
+            "1.0 PREMIER AT R": null
+        },
+        "rueda_repuesto": "√"
+    },
+    "dimensiones": {
+        "largo_mm": 4163,
+        "ancho_mm": 1730,
+        "alto_mm": 1473,
+        "distancia_ejes_mm": 2551,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1438,
+        "capacidad_maletero_lts": "303/469",
+        "capacidad_estanque_lts": 44,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad",
+            "1.0 LTZ MT R": "13,1",
+            "1.0 RS MT R": "13,1",
+            "1.0 PREMIER AT R": "13,1"
+        },
+        {
+            "caracteristica": "Carretera",
+            "1.0 LTZ MT R": "22,9",
+            "1.0 RS MT R": "22,9",
+            "1.0 PREMIER AT R": "22,9"
+        },
+        {
+            "caracteristica": "Mixto",
+            "1.0 LTZ MT R": "18",
+            "1.0 RS MT R": "18",
+            "1.0 PREMIER AT R": "18"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores externos con ajuste de posición eléctrica",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Luces de Posicionamiento Diurnas",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Luz de posicionamiento LED",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Luces Frontales Halógenas",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Neblineros Delanteros",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Llantas",
+                "1.0 LTZ MT R": "16\" Aleación",
+                "1.0 RS MT R": "16\" Aleación negras",
+                "1.0 PREMIER AT R": "16\" Aleación bitono"
+            },
+            {
+                "caracteristica": "Grilla negra High Gloss",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Grilla Cromada",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Black Bowties",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Spoiler Trasero deportivo",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Molduras laterales RS",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": false
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire Acondicionado Manual",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Aire Acondicionado Digital",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable en 4 posiciones",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable en 6 posiciones",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Cargador de teléfono Inalámbrico",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Pantalla Touch de 8\"",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Proyección inalámbrica de teléfono en pantalla",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Radio, Bluetooth, AM/FM, USB",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Radio con tecnologia MyLink (Radio, AM/FM, USB)",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Radio con tecnologia MyLink (Radio, Bluetooth, AM/FM, USB)",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Equipo de sonido con 4 parlantes",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Equipo de sonido con 6 parlantes",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "ONSTAR",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "WIFI 4G LTE",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sistema Keyless con Botón de encendido",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Tapiz de tela",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": false
+            },
+            {
+                "caracteristica": "Tapiz de Vinyl",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Volante Deportivo forrado en Cuero",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags (2 Frontales, 2 Laterales, 2 Cortina)",
+                "1.0 LTZ MT R": 6,
+                "1.0 RS MT R": 6,
+                "1.0 PREMIER AT R": 6
+            },
+            {
+                "caracteristica": "Alerta de punto ciego (BSD)",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sensor de presión de neumáticos (TPMS)",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sensor estacionamiento delantero",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sensor estacionamiento trasero",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento asistido",
+                "1.0 LTZ MT R": false,
+                "1.0 RS MT R": false,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Control de estabilidad y tracción",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Inmovilizador de Motor",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Frenos ABS con EBD",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            },
+            {
+                "caracteristica": "Asistente de partida en pendiente (HSA)",
+                "1.0 LTZ MT R": true,
+                "1.0 RS MT R": true,
+                "1.0 PREMIER AT R": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [
+            "Alzavidrios delanteros eléctricos one touch express up/down",
+            "Alzavidrios traseros eléctricos one touch express up/down",
+            "Asiento del conductor ajustable en 6 posiciones",
+            "Cierre centralizado",
+            "Computador a bordo",
+            "Asientos traseros abatibles 60/40",
+            "Controles de radio y teléfono incorporados en el volante",
+            "ISOFIX",
+            "Pantalla Touch de 8\"",
+            "Proyección inalámbrica de teléfono en pantalla",
+            "Radio con tecnologia MyLink (Radio, Bluetooth, AM/FM, USB)",
+            "Equipo de sonido con 6 parlantes",
+            "ONSTAR",
+            "WIFI 4G LTE"
+        ],
+        "seguridad": [
+            "Airbags (2 Frontales, 2 Laterales, 2 Cortina)",
+            "Cámara de retroceso",
+            "Sensor estacionamiento trasero",
+            "Control de estabilidad y tracción",
+            "ISOFIX",
+            "Inmovilizador de Motor",
+            "Frenos ABS con EBD",
+            "Asistente de partida en pendiente (HSA)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Negro Metálico",
+        "Azul Nautilus Metálico",
+        "Plata Oscuro Metálico",
+        "Gris Oscuro Metálico",
+        "Rojo Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (ticket negro=presente, -=no presente; texto/valores tal cual)",
+        "fuente": "ft-onix-hb.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo toda la información del cuadro técnico (mecánicas/técnicas, dimensiones, equipamiento interior/exterior, seguridad, rendimiento y colores). Donde el documento indica '-' se marcó false."
+    }
+}

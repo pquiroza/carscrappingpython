@@ -1,0 +1,142 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "SUV 580",
+        "año": null,
+        "versiones": [
+            "1.8L COMFORT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.8L COMFORT": "SFG18"
+        },
+        "cilindrada": {
+            "1.8L COMFORT": 1800
+        },
+        "potencia_hp": {
+            "1.8L COMFORT": "138"
+        },
+        "potencia_rpm": {
+            "1.8L COMFORT": "5.600"
+        },
+        "torque_nm": {
+            "1.8L COMFORT": "187"
+        },
+        "torque_rpm": {
+            "1.8L COMFORT": "3600 - 4400"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.8L COMFORT": "5MT"
+        },
+        "traccion": {
+            "1.8L COMFORT": "4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida Electricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Independiente con barra de torsión",
+        "frenos_delanteros": "Delanteros y Traseros",
+        "frenos_traseros": "Delanteros y Traseros",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.8L COMFORT": "225/60 R-17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4680,
+        "ancho_mm": 1715,
+        "alto_mm": 1845,
+        "distancia_ejes_mm": 2780,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1985,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 58,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/lt)",
+            "1.8L COMFORT": "12,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Alzavidrios de un toque",
+                "1.8L COMFORT": "1"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "1.8L COMFORT": "10''"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag frontales",
+                "1.8L COMFORT": 2
+            },
+            {
+                "caracteristica": "Airbag laterales (En asiento delanteros)",
+                "1.8L COMFORT": 2
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas aleación",
+            "Manillas cromadas",
+            "Sunroof",
+            "Barras porta equipaje",
+            "Espejos laterales con regulador eléctrico y abatibles",
+            "Espejos laterales con señalador de viraje",
+            "Luces LED traseras",
+            "Luces diurnas",
+            "Neblineros delanteros",
+            "Neblineros traseros",
+            "Alarma de luces encendidas",
+            "Regulador de altura de luces"
+        ],
+        "interior": [
+            "Tapiz Ecocuero",
+            "Manubrio ajustable en altura",
+            "Número de parlantes 6",
+            "Apoya vasos",
+            "Aire acondicionado",
+            "Salida trasera aire",
+            "Alzavidrios eléctricos",
+            "Apertura y cierre de vidrios a distancia",
+            "USB / Auxiliar",
+            "Bluetooth",
+            "GPS",
+            "Control de radio al volante"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Control de estabilidad (ESP)",
+            "Alarma de cinturón conductor",
+            "Cámara retroceso",
+            "Sensor de proximidad trasero",
+            "Asistencia de partida en pendiente (HSC)",
+            "Cámara frontal sin registro ni almacenamiento"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Si=true, vacío/-=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica-suv580-2025-copia.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información visible en la tabla. No se indican colores, capacidad de maletero, despeje al suelo ni rueda de repuesto en el documento. Los ítems con valor numérico o textual único visibles en la tabla se mantuvieron tal cual."
+    }
+}

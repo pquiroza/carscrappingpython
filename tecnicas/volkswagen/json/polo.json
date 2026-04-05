@@ -1,0 +1,287 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Polo",
+        "año": null,
+        "versiones": [
+            "Comfortline MT",
+            "Comfortline AT",
+            "Highline AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline MT": "1.6 MSI",
+            "Comfortline AT": "1.6 MSI",
+            "Highline AT": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Comfortline MT": 1.6,
+            "Comfortline AT": 1.6,
+            "Highline AT": 1.0
+        },
+        "potencia_hp": {
+            "Comfortline MT": "110",
+            "Comfortline AT": "110",
+            "Highline AT": "109"
+        },
+        "potencia_rpm": {
+            "Comfortline MT": "5.800",
+            "Comfortline AT": "5.800",
+            "Highline AT": "5.000"
+        },
+        "torque_nm": {
+            "Comfortline MT": "155",
+            "Comfortline AT": "155",
+            "Highline AT": "170"
+        },
+        "torque_rpm": {
+            "Comfortline MT": "3.800-4.000",
+            "Comfortline AT": "3.800-4.000",
+            "Highline AT": "1.750"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfortline MT": "MT 5",
+            "Comfortline AT": "MT 5",
+            "Highline AT": "AT 6"
+        },
+        "traccion": "4X2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfortline MT": "185/65 R15",
+            "Comfortline AT": "185/65 R15",
+            "Highline AT": "195/55 R16"
+        },
+        "rueda_repuesto": {
+            "Comfortline MT": true,
+            "Comfortline AT": true,
+            "Highline AT": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "Comfortline MT": 4079,
+            "Comfortline AT": 4074,
+            "Highline AT": 4074
+        },
+        "ancho_mm": 1751,
+        "alto_mm": 1471,
+        "distancia_ejes_mm": 2566,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 300,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline MT": "11,5",
+            "Comfortline AT": "11,5",
+            "Highline AT": "12,9"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline MT": "14,7",
+            "Comfortline AT": "14,7",
+            "Highline AT": "16,7"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline MT": "17,2",
+            "Comfortline AT": "17,2",
+            "Highline AT": "20,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Encendido de luces automático",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Función Leaving and Coming Home",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Regulación del alcance de luces automáticas",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Reposabrazos central delantero",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Comfortline MT": "Tela",
+                "Comfortline AT": "Tela",
+                "Highline AT": "Cuero Sintético"
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "Comfortline MT": true,
+                "Comfortline AT": false,
+                "Highline AT": false
+            },
+            {
+                "caracteristica": "Volante multifunción en cuero con levas de cambio",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Salidas de aire traseras",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior electrocromático",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Aire acondicionado \"Climatic\"",
+                "Comfortline MT": true,
+                "Comfortline AT": true,
+                "Highline AT": false
+            },
+            {
+                "caracteristica": "Climatizador automático \"Climatronic\"",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos digital \"Active Info Display\"",
+                "Comfortline MT": "8”",
+                "Comfortline AT": "8”",
+                "Highline AT": "10,25”"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros y traseros",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Keyless-Entry y botón de encendido",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Start & Stop",
+                "Comfortline MT": false,
+                "Comfortline AT": true,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "Comfortline MT": false,
+                "Comfortline AT": false,
+                "Highline AT": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "Comfortline MT": 4,
+                "Comfortline AT": 4,
+                "Highline AT": 6
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación 15\" (Comfortline) y 16\" (Highline)",
+            "Luces principales LED",
+            "Luces traseras Halógenas",
+            "DRL (Luz de día)",
+            "Retrovisores exteriores eléctricos"
+        ],
+        "interior": [
+            "Asiento conductor con ajuste en altura",
+            "Asientos traseros abatibles",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Volante ajustable en altura y profundidad"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema de regulación del motor (MSR)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Control electrónico de tracción (ASR)",
+            "Bloqueo electrónico del diferencial (EDS)",
+            "Anclaje para 2 asientos de niños. Sistema ISOFIX",
+            "Alarma volumétrica",
+            "Inmovilizador electrónico",
+            "Cierre centralizado con control remoto",
+            "Rueda de repuesto",
+            "Asistente para arranque en pendientes",
+            "Indicador de presión de los neumáticos"
+        ],
+        "tecnologia": [
+            "Radio Touch 10,1”",
+            "App Connect con Apple CarPlay y Android Auto Inalámbrico",
+            "Puertos USB"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Metálico",
+        "Blanco Candy",
+        "Negro Ninja",
+        "Plata Sirius",
+        "Gris Platino"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=Disponible, -=No disponible; valores exactos del documento).",
+        "fuente": "FT-Polo-202510-EU6C-(1).pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajeron todos los datos técnicos incluyendo norma de emisión EU6C y TIER3 BIN 70, consumos homologados, dimensiones y equipamiento completo por versión según tabla."
+    }
+}

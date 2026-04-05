@@ -1,0 +1,455 @@
+{
+  "pdf": "out_nissan_brand/pdfs/0d1d3607af_FICHA_20TECNICA_20NUEVA_20NISSAN_20PATHFINDER.pdf",
+  "versions": [
+    "SENSE AT 3R 18\" Aluminio",
+    "ADVANCE AT 3R 20\" Aluminio",
+    "ADVANCE AT 3R 4WD 20\" Aluminio",
+    "EXCLUSIVE AT 3R 4WD 20\" Aluminio"
+  ],
+  "base_specs_or_equipment": {
+    "Motor": "3.5",
+    "Potencia (hp / rpm)": "270/6.400",
+    "Torque (nm 1 rpm)": "340/4.800",
+    "Número y disposición de cilindros": "V6",
+    "Relación de compresión": "11.01",
+    "Tipo de transmisión": "Automática 9 velocidades",
+    "Norma de emisiones": "Euro 6b",
+    "combustible recomendado": "Gasolina 93 Octanos 0 superior"
+  },
+  "specs_by_version": {
+    "SENSE AT 3R 18\" Aluminio": {
+      "OTROS": {
+        "Neumáticos": "●",
+        "Tracción Peso neto (kg) Carga Útil": "2WD 1.973 777",
+        "Número de pasajeros (3R) RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "●",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) SEGURIDAD Sistema descenso de pendientes (HDC)": "●",
+        "Sensores delanteros INTERIOR Tacómetro y velocímetro análogo con pantalla de 7\"": "●",
+        "Volante de ajuste manual de altura y profundidad": "●",
+        "Tapizado de asientos en tela": "●",
+        "Pantalla táctil de 8\"": "●",
+        "Parlantes x6": "●"
+      }
+    },
+    "ADVANCE AT 3R 20\" Aluminio": {
+      "OTROS": {
+        "Neumáticos": "●",
+        "Tracción Peso neto (kg) Carga Útil": "2WD ADVANCE AT 3R 1.966 ADVANCE AT 3R 754",
+        "Número de pasajeros (3R) RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "●",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) SEGURIDAD Sistema descenso de pendientes (HDC)": "●",
+        "Sensores delanteros INTERIOR Tacómetro y velocímetro análogo con pantalla de 7\"": "●",
+        "Espejo retrovisor electrocrómico": "●",
+        "Cargador inalámbrico": "●",
+        "Volante de ajuste manual de altura y profundidad": "●",
+        "Tapizado de asientos en cuero": "●",
+        "Asiento del conductor con memoria de posición": "●",
+        "Calefacción de asientos 2da fila": "●",
+        "Calefacción de asientos Iera fila": "●",
+        "Pantalla táctil de 8\"": "●",
+        "Parlantes x6": "●"
+      }
+    },
+    "ADVANCE AT 3R 4WD 20\" Aluminio": {
+      "OTROS": {
+        "Neumáticos": "●",
+        "Tracción Peso neto (kg) Carga Útil": "4WD ADVANCE AT 3R 4WD 2.084 ADVANCE AT 3R 4WD 666",
+        "Número de pasajeros (3R) RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "8 ADVANCE AT 3R 4WD 7,1",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) SEGURIDAD Sistema descenso de pendientes (HDC)": "10 ADVANCE AT 3R 4WD",
+        "Sensores delanteros INTERIOR Tacómetro y velocímetro análogo con pantalla de 7\"": "ADVANCE AT 3R 4WD",
+        "Espejo retrovisor electrocrómico": "●",
+        "Cargador inalámbrico": "●",
+        "Volante de ajuste manual de altura y profundidad": "●",
+        "Tapizado de asientos en cuero": "●",
+        "Asiento del conductor con memoria de posición": "●",
+        "Calefacción de asientos 2da fila": "●",
+        "Calefacción de asientos Iera fila": "●",
+        "Pantalla táctil de 8\"": "●",
+        "Sistema de sonido Bose": "●",
+        "Parlantes xI2 EXTERIOR Sunroof panorámico con apertura automática": "ADVANCE AT 3R 4WD"
+      }
+    },
+    "EXCLUSIVE AT 3R 4WD 20\" Aluminio": {
+      "OTROS": {
+        "Neumáticos": "●",
+        "Tracción Peso neto (kg) Carga Útil": "4WD EXCLUSIVE AT 3R 4WD 2.098 EXCLUSIVE AT 3R 4WD 652",
+        "Número de pasajeros (3R) RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "EXCLUSIVE AT 3R 4WD 71",
+        "Carretera (kmllts)": "●",
+        "Mixto (km/lts) SEGURIDAD Sistema descenso de pendientes (HDC)": "10 EXCLUSIVE AT 3R 4WD",
+        "Sensores delanteros INTERIOR Tacómetro y velocímetro análogo con pantalla de 7\"": "EXCLUSIVE AT 3R 4WD",
+        "Tacómetro y velocímetro análogo con pantalla de 12,3\"": "●",
+        "Proyector \"Head Up Display (HUD)": "●",
+        "Espejo retrovisor inteligente": "●",
+        "Cargador inalámbrico": "●",
+        "Luces de ambientación": "●",
+        "Volante con ajuste eléctrico de altura y profundidad + memoria de posición": "●",
+        "Tapizado de asientos en cuero Nappa": "●",
+        "Asiento del conductor con memoria de posición": "●",
+        "Asiento del acompañante con ajuste eléctrico": "●",
+        "Calefacción de asientos 2da fila": "●",
+        "Calefacción de asientos Iera fila": "●",
+        "Pantalla táctil de 9\"": "●",
+        "Sistema de sonido Bose": "●",
+        "Parlantes xI2 EXTERIOR Sunroof panorámico con apertura automática": "●"
+      }
+    }
+  },
+  "equipment_by_version": {
+    "SENSE AT 3R 18\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "SENSE AT 3R",
+        "Control crucero inteligente (ICC)": "No"
+      }
+    },
+    "ADVANCE AT 3R 20\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "ADVANCE AT 3R",
+        "Control crucero inteligente (ICC)": "No"
+      }
+    },
+    "ADVANCE AT 3R 4WD 20\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "ADVANCE AT 3R 4WD",
+        "Control crucero inteligente (ICC)": "No"
+      }
+    },
+    "EXCLUSIVE AT 3R 4WD 20\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "EXCLUSIVE AT 3R 4WD",
+        "Control crucero inteligente (ICC)": "No",
+        "Alerta de punto ciego con intervención (BSI)": "Sí",
+        "Monitor de inteligencia con visión 3605 (AVM) + Detector de objetos en movimiento (MOD)": "Sí"
+      }
+    }
+  },
+  "debug": {
+    "boxes_found": [
+      [
+        265,
+        5318,
+        5726,
+        466
+      ],
+      [
+        237,
+        5701,
+        5783,
+        1184
+      ],
+      [
+        262,
+        7386,
+        5740,
+        329
+      ],
+      [
+        261,
+        7871,
+        5742,
+        981
+      ],
+      [
+        259,
+        8767,
+        5769,
+        907
+      ],
+      [
+        262,
+        9682,
+        5754,
+        525
+      ],
+      [
+        245,
+        10210,
+        5765,
+        2155
+      ],
+      [
+        251,
+        12217,
+        5754,
+        2765
+      ],
+      [
+        263,
+        15449,
+        5735,
+        567
+      ],
+      [
+        258,
+        16237,
+        5745,
+        6937
+      ]
+    ],
+    "picked_kv_box": [
+      237,
+      5701,
+      5783,
+      1184
+    ],
+    "picked_comp_box": [
+      258,
+      16237,
+      5745,
+      6937
+    ],
+    "comp_matrix_preview": [
+      [
+        "Llantas",
+        "SENSE AT 3R 18\" Aluminio",
+        "ADVANCE AT 3R 20\" Aluminio",
+        "ADVANCE AT 3R 4WD 20\" Aluminio",
+        "EXCLUSIVE AT 3R 4WD 20\" Aluminio"
+      ],
+      [
+        "Neumáticos",
+        "●",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Tracción Peso neto (kg) Carga Útil",
+        "2WD 1.973 777",
+        "2WD ADVANCE AT 3R 1.966 ADVANCE AT 3R 754",
+        "4WD ADVANCE AT 3R 4WD 2.084 ADVANCE AT 3R 4WD 666",
+        "4WD EXCLUSIVE AT 3R 4WD 2.098 EXCLUSIVE AT 3R 4WD 652"
+      ],
+      [
+        "Número de pasajeros (3R) RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)",
+        "●",
+        "●",
+        "8 ADVANCE AT 3R 4WD 7,1",
+        "EXCLUSIVE AT 3R 4WD 71"
+      ],
+      [
+        "Carretera (kmllts)",
+        "●",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Mixto (km/lts) SEGURIDAD Sistema descenso de pendientes (HDC)",
+        "●",
+        "●",
+        "10 ADVANCE AT 3R 4WD",
+        "10 EXCLUSIVE AT 3R 4WD"
+      ],
+      [
+        "Sensores delanteros INTERIOR Tacómetro y velocímetro análogo con pantalla de 7\"",
+        "●",
+        "●",
+        "ADVANCE AT 3R 4WD",
+        "EXCLUSIVE AT 3R 4WD"
+      ],
+      [
+        "Tacómetro y velocímetro análogo con pantalla de 12,3\"",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Proyector \"Head Up Display (HUD)",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Espejo retrovisor electrocrómico",
+        "",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Espejo retrovisor inteligente",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Cargador inalámbrico",
+        "",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Luces de ambientación",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Volante de ajuste manual de altura y profundidad",
+        "●",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Volante con ajuste eléctrico de altura y profundidad + memoria de posición",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Tapizado de asientos en tela",
+        "●",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tapizado de asientos en cuero",
+        "",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Tapizado de asientos en cuero Nappa",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Asiento del conductor con memoria de posición",
+        "",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Asiento del acompañante con ajuste eléctrico",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Calefacción de asientos 2da fila",
+        "",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Calefacción de asientos Iera fila",
+        "",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Pantalla táctil de 8\"",
+        "●",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Pantalla táctil de 9\"",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Sistema de sonido Bose",
+        "",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Parlantes x6",
+        "●",
+        "●",
+        "",
+        ""
+      ],
+      [
+        "Parlantes xI2 EXTERIOR Sunroof panorámico con apertura automática",
+        "",
+        "",
+        "ADVANCE AT 3R 4WD",
+        "●"
+      ],
+      [
+        "NISSAN INTELLIGENT MOBILITY NISSAN INTELLIGENT MOBILITY",
+        "SENSE AT 3R",
+        "ADVANCE AT 3R",
+        "ADVANCE AT 3R 4WD",
+        "EXCLUSIVE AT 3R 4WD"
+      ],
+      [
+        "Control crucero inteligente (ICC)",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Alerta de punto ciego con intervención (BSI)",
+        "",
+        "",
+        "",
+        "●"
+      ],
+      [
+        "Monitor de inteligencia con visión 3605 (AVM) + Detector de objetos en movimiento (MOD)",
+        "",
+        "",
+        "",
+        "●"
+      ]
+    ],
+    "kv_matrix_preview": [
+      [
+        "Motor",
+        "3.5"
+      ],
+      [
+        "Potencia (hp / rpm)",
+        "270/6.400"
+      ],
+      [
+        "Torque (nm 1 rpm)",
+        "340/4.800"
+      ],
+      [
+        "Número y disposición de cilindros",
+        "V6"
+      ],
+      [
+        "Relación de compresión",
+        "11.01"
+      ],
+      [
+        "Tipo de transmisión",
+        "Automática 9 velocidades"
+      ],
+      [
+        "Norma de emisiones",
+        "Euro 6b"
+      ],
+      [
+        "combustible recomendado",
+        "Gasolina 93 Octanos 0 superior"
+      ]
+    ]
+  }
+}

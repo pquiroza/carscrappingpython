@@ -1,0 +1,213 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "T1 1.5T PHEV LIMITED",
+        "año": null,
+        "versiones": [
+            "T1_1.5T_PHEV_LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "T1_1.5T_PHEV_LIMITED": "1.5T"
+        },
+        "cilindrada": {
+            "T1_1.5T_PHEV_LIMITED": 1499
+        },
+        "potencia_hp": {
+            "T1_1.5T_PHEV_LIMITED": "140"
+        },
+        "potencia_rpm": {
+            "T1_1.5T_PHEV_LIMITED": null
+        },
+        "torque_nm": {
+            "T1_1.5T_PHEV_LIMITED": "215"
+        },
+        "torque_rpm": {
+            "T1_1.5T_PHEV_LIMITED": null
+        },
+        "combustible": {
+            "T1_1.5T_PHEV_LIMITED": null
+        },
+        "sistema_alimentacion": {
+            "T1_1.5T_PHEV_LIMITED": "Inyección directa"
+        },
+        "norma_emisiones": {
+            "T1_1.5T_PHEV_LIMITED": null
+        },
+        "transmision": {
+            "T1_1.5T_PHEV_LIMITED": "DHT"
+        },
+        "traccion": {
+            "T1_1.5T_PHEV_LIMITED": "4x2"
+        }
+    },
+    "motor_electrico": {
+        "total_potencia_hp": "201",
+        "torque_nm": "310",
+        "tipo_bateria": "LiFePO4",
+        "capacidad_bateria_kwh": "26,7",
+        "autonomia_bateria_km": "117",
+        "puerto_carga": "Europeo",
+        "carga_rapida_porcentaje": "30% - 80%",
+        "tiempo_carga_lenta_h_30_100": "4h",
+        "tiempo_carga_rapida_h": "0,5",
+        "funcion_descarga_ac": true,
+        "intensidad_recuperacion_ajustable": true,
+        "cargador_viaje_estandar_europeo": true
+    },
+    "rendimiento_combinado": {
+        "potencia_maxima_combinada_hp": "341",
+        "torque_maximo_combinado_nm": "525",
+        "autonomia_combinada_km": "+1.000 kms"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_de_estacionamiento": "Eléctrico + AUTOHOLD",
+        "neumaticos": "235/60 R19",
+        "rueda_repuesto": "Kit de reparación neumático repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4705,
+        "ancho_mm": 1967,
+        "alto_mm": 1843,
+        "distancia_ejes_mm": 2800,
+        "distancia_minima_suelo_mm": 160,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": 70,
+        "maletero_lts": 574
+    },
+    "modos": {
+        "conduccion": "Eco / Normal / Sport / Nieve",
+        "alimentacion_motor": "EV / HEV"
+    },
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Alzavidrios automático al salir del vehículo",
+            "Apertura del ventanas a distancia con smart key",
+            "Apertura y cierre inteligente",
+            "Barras de techo",
+            "Encendido remoto de vehículo",
+            "Espejos retrovisores abatibles electrónicamente",
+            "Espejos retrovisores eléctricos",
+            "Espejos retrovisores eléctricos calefaccionados",
+            "Limpiavidrio trasero",
+            "Luces delanteras automáticas",
+            "Luces delanteras LED",
+            "Luces direccionales",
+            "Luces diurnas LED (DRL)",
+            "Luces regulables en altura",
+            "Luces traseras LED",
+            "Neblinero delantero",
+            "Neblinero trasero",
+            "Señalizadores en espejos retrovisores",
+            "Soporte capot con bombín",
+            "Spoiler trasero",
+            "Sunroof con tela protectora solar",
+            "Sunroof panorámico",
+            "Vidrios traseros tintados"
+        ],
+        "interior": [
+            "Aire acondicionado climatizado bi-zona",
+            "Aire acondicionado eléctrico",
+            "Aire acondicionado modo estacionamiento",
+            "Alzavidrios eléctricos (one button up & down)",
+            "Asiento conductor ajuste eléctrico",
+            "Asiento conductor calefaccionado y ventilado",
+            "Asiento conductor con ajuste lumbar",
+            "Asiento conductor con función bienvenida",
+            "Asiento conductor con memoria",
+            "Asiento copiloto ajuste eléctrico",
+            "Asiento copiloto calefaccionado",
+            "Asiento copiloto con reposapiés",
+            "Asientos segunda fila reclinables",
+            "Asientos tapiz eco-cuero",
+            "Asientos traseros abatibles 60/40",
+            "Bluetooth",
+            "Cargador inalámbrico",
+            "Cierre centralizado",
+            "Comandos de voz (Español)",
+            "Conectividad Apple Car Play y Android auto",
+            "Conexión 12V delantera",
+            "Conexión 12V trasera",
+            "Control audio al volante",
+            "Filtro de aire CN95",
+            "Luces de lectura LED",
+            "Luz ambiental",
+            "Luz con función sígueme a casa",
+            "Luz en maletero (portalón)",
+            "Panel de instrumentos digital 10,25”",
+            "Parasoles delanteros con espejo de cortesía",
+            "Parasoles delanteros con luz de cortesía",
+            "Parlantes (9)",
+            "Porta anteojos",
+            "Portalón trasero ajustable con memoria",
+            "Portalón trasero eléctrico",
+            "Puntos de amarre en el maletero",
+            "Radio touch con conectividad 15,6”",
+            "Reposabrazos delantero",
+            "Reposabrazos trasero",
+            "Salida aire segunda fila",
+            "Sensor de lluvia delantero",
+            "Sistema de sonido Sony",
+            "Smart Key y botón de encendido",
+            "USB Frontales 2 (USB + Tipo C)",
+            "USB Traseros 2 (USB + Tipo C)",
+            "Ventanas antiatrapamiento",
+            "Ventanas doble vidrio",
+            "Volante con ajuste de rigidez",
+            "Volante con ajuste en profundidad y altura",
+            "Volante forrado eco-cuero"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "ACC: Control crucero adaptativo",
+            "Advertencia de colisión frontal (FCW)",
+            "AEB: Sistema avanzado de frenado de emergencia",
+            "Airbags de cortinas",
+            "Airbags doble delantero",
+            "Airbags laterales delanteros",
+            "Anclaje ISOFIX",
+            "Barras de acero laterales de puerta",
+            "BSD: Monitoreo de punto ciego",
+            "Cámara chasis transparente 180°",
+            "Cámara panorámica 360°",
+            "DOW: Advertencia de colisión lateral apertura de puerta",
+            "EBA: Asistencia electrónica de frenado",
+            "ESP: Control de estabilidad",
+            "HDC: Asistente control de descenso",
+            "HHC: Asistente control de partida en pendiente",
+            "HMA: Asistente de luces altas",
+            "Inmovilizador",
+            "LDWS: Sistema de advertencia de cambio de carril",
+            "LKA: Asistente de mantenimiento de carril",
+            "RCTA: Asistente de tráfico cruzado posterior",
+            "RCW: Alerta de colisión trasera",
+            "Seguro de niños en puertas traseras",
+            "Sensor de estacionamiento delantero",
+            "Sensor de estacionamiento trasero",
+            "TCS: Control de tracción",
+            "TOP TETHER",
+            "TPMS: Monitor de presión de neumáticos"
+        ]
+    },
+    "colores": [
+        "Blanco",
+        "Dorado",
+        "Verde mate",
+        "Gris",
+        "Negro"
+    ],
+    "garantia": "7 años o 200.000 km"
+}

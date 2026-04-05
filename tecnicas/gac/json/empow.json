@@ -1,0 +1,337 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "EMPOW",
+        "año": null,
+        "versiones": [
+            "EMPOW GE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EMPOW GE": "1.5 Turbo"
+        },
+        "cilindrada": {
+            "EMPOW GE": 1497
+        },
+        "potencia_hp": {
+            "EMPOW GE": "167"
+        },
+        "potencia_rpm": {
+            "EMPOW GE": "5500"
+        },
+        "torque_nm": {
+            "EMPOW GE": "270"
+        },
+        "torque_rpm": {
+            "EMPOW GE": "1400-4500"
+        },
+        "combustible": null,
+        "transmision": {
+            "EMPOW GE": "7WDCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electroasistida (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Delantera: McPherson Independent Suspension",
+        "suspension_trasera": "Trasera: Multi-link Beam Independiente",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de estacionamiento electrónico (con Autohold)",
+        "neumaticos": {
+            "EMPOW GE": "225/45 R18"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4700,
+        "ancho_mm": 1850,
+        "alto_mm": 1432,
+        "distancia_ejes_mm": 2736,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 415,
+        "capacidad_estanque_lts": 47,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/L)",
+            "EMPOW GE": "11,0"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/L)",
+            "EMPOW GE": "14,2"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/L)",
+            "EMPOW GE": "17,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Faros LED",
+                "EMPOW GE": "LED - Follow Me Home"
+            },
+            {
+                "caracteristica": "Luces LED de circulación diurna",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Faros automáticos",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Luces de lectura trasera",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Luz trasera antineblina",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos ajustables",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Espejos laterales plegables eléctricos con calefacción",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero con sensor de lluvia",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Parabrisas trasero con desempañador",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "EMPOW GE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "EMPOW GE": "Eco cuero"
+            },
+            {
+                "caracteristica": "Climatizador Bi-zona",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Aire acondicionado de segunda fila",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Filtro de aire PM 1.0",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Volante tapiz",
+                "EMPOW GE": "Eco cuero"
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Ajuste eléctrico de 6 direcciones asientos delanteros",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Apoyabrazos central trasero",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Reposacabezas central trasero",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Vidrios eléctricos Onetouch primera fila",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Vidrios eléctricos Onetouch segunda fila",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Luces ambientales interiores",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Ajuste respaldo segunda fila + plegado 40/60",
+                "EMPOW GE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales",
+                "EMPOW GE": 2
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "EMPOW GE": 2
+            },
+            {
+                "caracteristica": "Airbags laterales de cortina",
+                "EMPOW GE": 2
+            },
+            {
+                "caracteristica": "Control de espera en arranque en pendiente (HHC)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Programa Electrónico de Estabilidad (ESP)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Anclajes ISOFIX",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Inmovilizador del motor (con alarma antirrobo)",
+                "EMPOW GE": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control de crucero",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sistema de cámara de visión envolvente",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo (ACC)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Asistente de crucero integrado (ICA)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia (AEB)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión frontal (FCW)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sistema de reconocimiento de señales de tráfico (TSR)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Asistente para atascos de tráfico (TJA)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Faros inteligentes (HMA)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Control inteligente de límite de velocidad",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril (LDW)",
+                "EMPOW GE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Carplay inalámbrico",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Carbit Link - Android",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Pantalla táctil multifuncional",
+                "EMPOW GE": "10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Tablero de instrumentos LCD",
+                "EMPOW GE": "7 pulgadas"
+            },
+            {
+                "caracteristica": "6 Parlantes",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Sistema telefónico manos libres Bluetooth",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Encendido a distancia",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Modo Eco",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Modo Comfort",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Modo Sport",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Modo Sport +",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Modo DIY - Configuración personalizada",
+                "EMPOW GE": true
+            },
+            {
+                "caracteristica": "Válvula Mega Wave",
+                "EMPOW GE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_Empow.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Versión única EMPOW GE según documento. Norma de emisión Euro 6C."
+    }
+}

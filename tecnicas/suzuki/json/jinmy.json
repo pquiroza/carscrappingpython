@@ -1,0 +1,473 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Jimny",
+        "año": null,
+        "versiones": [
+            "3P GL MT",
+            "3P GL MT WINCHE",
+            "3P GL AT",
+            "3P GLX AT",
+            "5P GL MT",
+            "5P GLX MT",
+            "5P GLX AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "3P GL MT": "K15B",
+            "3P GL MT WINCHE": "K15B",
+            "3P GL AT": "K15B",
+            "3P GLX AT": "K15B",
+            "5P GL MT": "K15B",
+            "5P GLX MT": "K15B",
+            "5P GLX AT": "K15B"
+        },
+        "cilindrada": {
+            "3P GL MT": 1462,
+            "3P GL MT WINCHE": 1462,
+            "3P GL AT": 1462,
+            "3P GLX AT": 1462,
+            "5P GL MT": 1462,
+            "5P GLX MT": 1462,
+            "5P GLX AT": 1462
+        },
+        "potencia_hp": {
+            "3P GL MT": "100",
+            "3P GL MT WINCHE": "100",
+            "3P GL AT": "100",
+            "3P GLX AT": "100",
+            "5P GL MT": "100",
+            "5P GLX MT": "100",
+            "5P GLX AT": "100"
+        },
+        "potencia_rpm": {
+            "3P GL MT": "6.000",
+            "3P GL MT WINCHE": "6.000",
+            "3P GL AT": "6.000",
+            "3P GLX AT": "6.000",
+            "5P GL MT": "6.000",
+            "5P GLX MT": "6.000",
+            "5P GLX AT": "6.000"
+        },
+        "torque_nm": {
+            "3P GL MT": "130",
+            "3P GL MT WINCHE": "130",
+            "3P GL AT": "130",
+            "3P GLX AT": "130",
+            "5P GL MT": "130",
+            "5P GLX MT": "130",
+            "5P GLX AT": "130"
+        },
+        "torque_rpm": {
+            "3P GL MT": "4.000",
+            "3P GL MT WINCHE": "4.000",
+            "3P GL AT": "4.000",
+            "3P GLX AT": "4.000",
+            "5P GL MT": "4.000",
+            "5P GLX MT": "4.000",
+            "5P GLX AT": "4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "3P GL MT": "5MT",
+            "3P GL MT WINCHE": "5MT",
+            "3P GL AT": "4AT",
+            "3P GLX AT": "4AT",
+            "5P GL MT": "5MT",
+            "5P GLX MT": "5MT",
+            "5P GLX AT": "4AT"
+        },
+        "traccion": {
+            "3P GL MT": "4WD Part Time - ALLGRIP PRO",
+            "3P GL MT WINCHE": "4WD Part Time - ALLGRIP PRO",
+            "3P GL AT": "4WD Part Time - ALLGRIP PRO",
+            "3P GLX AT": "4WD Part Time - ALLGRIP PRO",
+            "5P GL MT": "4WD Part Time - ALLGRIP PRO",
+            "5P GLX MT": "4WD Part Time - ALLGRIP PRO",
+            "5P GLX AT": "4WD Part Time - ALLGRIP PRO"
+        }
+    },
+    "direccion": {
+        "tipo": {
+            "3P GL MT": "Servo asistida",
+            "3P GL MT WINCHE": "Servo asistida",
+            "3P GL AT": "Servo asistida",
+            "3P GLX AT": "Servo asistida",
+            "5P GL MT": "Asistida eléctricamente",
+            "5P GLX MT": "Asistida eléctricamente",
+            "5P GLX AT": "Asistida eléctricamente"
+        }
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Eje rígido, resortes helicoidales",
+        "suspension_trasera": "Eje rígido, resortes helicoidales",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor y zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "3P GL MT": "195 / 80 R15",
+            "3P GL MT WINCHE": "195 / 80 R15",
+            "3P GL AT": "195 / 80 R15",
+            "3P GLX AT": "195 / 80 R15",
+            "5P GL MT": "195 / 80 R15",
+            "5P GLX MT": "195 / 80 R15",
+            "5P GLX AT": "195 / 80 R15"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "3P GL MT": 3625,
+            "3P GL MT WINCHE": 3625,
+            "3P GL AT": 3625,
+            "3P GLX AT": 3625,
+            "5P GL MT": 3985,
+            "5P GLX MT": 3985,
+            "5P GLX AT": 3985
+        },
+        "ancho_mm": {
+            "3P GL MT": 1645,
+            "3P GL MT WINCHE": 1645,
+            "3P GL AT": 1645,
+            "3P GLX AT": 1645,
+            "5P GL MT": 1645,
+            "5P GLX MT": 1645,
+            "5P GLX AT": 1645
+        },
+        "alto_mm": {
+            "3P GL MT": 1725,
+            "3P GL MT WINCHE": 1725,
+            "3P GL AT": 1725,
+            "3P GLX AT": 1725,
+            "5P GL MT": 1720,
+            "5P GLX MT": 1720,
+            "5P GLX AT": 1720
+        },
+        "distancia_ejes_mm": {
+            "3P GL MT": 2250,
+            "3P GL MT WINCHE": 2250,
+            "3P GL AT": 2250,
+            "3P GLX AT": 2250,
+            "5P GL MT": 2590,
+            "5P GLX MT": 2590,
+            "5P GLX AT": 2590
+        },
+        "despeje_suelo_mm": {
+            "3P GL MT": 210,
+            "3P GL MT WINCHE": 210,
+            "3P GL AT": 210,
+            "3P GLX AT": 210,
+            "5P GL MT": 210,
+            "5P GLX MT": 210,
+            "5P GLX AT": 210
+        },
+        "peso_bruto_kg": {
+            "3P GL MT": 1435,
+            "3P GL MT WINCHE": 1435,
+            "3P GL AT": 1435,
+            "3P GLX AT": 1435,
+            "5P GL MT": 1545,
+            "5P GLX MT": 1545,
+            "5P GLX AT": 1545
+        },
+        "capacidad_maletero_lts": {
+            "3P GL MT": 85,
+            "3P GL MT WINCHE": 85,
+            "3P GL AT": 85,
+            "3P GLX AT": 85,
+            "5P GL MT": 211,
+            "5P GLX MT": 211,
+            "5P GLX AT": 211
+        },
+        "capacidad_estanque_lts": {
+            "3P GL MT": 40,
+            "3P GL MT WINCHE": 40,
+            "3P GL AT": 40,
+            "3P GLX AT": 40,
+            "5P GL MT": 40,
+            "5P GLX MT": 40,
+            "5P GLX AT": 40
+        },
+        "numero_pasajeros": {
+            "3P GL MT": 4,
+            "3P GL MT WINCHE": 4,
+            "3P GL AT": 4,
+            "3P GLX AT": 4,
+            "5P GL MT": 4,
+            "5P GLX MT": 4,
+            "5P GLX AT": 4
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "3P GL MT": "13,3",
+            "3P GL MT WINCHE": "13,3",
+            "3P GL AT": "12,6",
+            "3P GLX AT": "12,6",
+            "5P GL MT": "12,9",
+            "5P GLX MT": "12,9",
+            "5P GLX AT": "12,4"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "3P GL MT": "15,8",
+            "3P GL MT WINCHE": "15,8",
+            "3P GL AT": "14,5",
+            "3P GLX AT": "14,5",
+            "5P GL MT": "15,5",
+            "5P GLX MT": "15,5",
+            "5P GLX AT": "14,4"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "3P GL MT": "17,8",
+            "3P GL MT WINCHE": "17,8",
+            "3P GL AT": "15,9",
+            "3P GLX AT": "15,9",
+            "5P GL MT": "17,5",
+            "5P GLX MT": "17,5",
+            "5P GLX AT": "15,9"
+        },
+        {
+            "caracteristica": "Capacidad máxima de maletero (lt)",
+            "3P GL MT": "830",
+            "3P GL MT WINCHE": "830",
+            "3P GL AT": "830",
+            "3P GLX AT": "830",
+            "5P GL MT": "1.113",
+            "5P GLX MT": "1.113",
+            "5P GLX AT": "1.113"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": false,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Manillas de puerta color carrocería",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": false,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Ópticos frontales LED",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": false,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Winche",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": true,
+                "3P GL AT": false,
+                "3P GLX AT": false,
+                "5P GL MT": false,
+                "5P GLX MT": false,
+                "5P GLX AT": false
+            },
+            {
+                "caracteristica": "Espejos abatibles eléctricamente",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": false,
+                "5P GLX AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado con climatizador",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "3P GL MT": true,
+                "3P GL MT WINCHE": true,
+                "3P GL AT": true,
+                "3P GLX AT": false,
+                "5P GL MT": true,
+                "5P GLX MT": false,
+                "5P GLX AT": false
+            },
+            {
+                "caracteristica": "Aplicaciones interiores color plata",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil y bluetooth",
+                "3P GL MT": "9\"",
+                "3P GL MT WINCHE": "9\"",
+                "3P GL AT": null,
+                "3P GLX AT": "9\"",
+                "5P GL MT": "7\"",
+                "5P GLX MT": "9\"",
+                "5P GLX AT": "9\""
+            },
+            {
+                "caracteristica": "Sistema de encendido de luces automática",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Lavfaros",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Doble airbag frontal",
+                "3P GL MT": true,
+                "3P GL MT WINCHE": true,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": true,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Doble airbag de cortina",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            },
+            {
+                "caracteristica": "Doble airbag lateral",
+                "3P GL MT": false,
+                "3P GL MT WINCHE": false,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": false,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Android Auto / Apple CarPlay inalámbrico",
+                "3P GL MT": true,
+                "3P GL MT WINCHE": true,
+                "3P GL AT": false,
+                "3P GLX AT": true,
+                "5P GL MT": true,
+                "5P GLX MT": true,
+                "5P GLX AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neblineros",
+            "Rieles superiores bota agua",
+            "Luces de conducción diurna - DLR",
+            "Espejos ajustables eléctricamente"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos",
+            "Cierre centralizado de puertas",
+            "Volante regulable en altura"
+        ],
+        "seguridad": [
+            "Anclaje Isofix (2)",
+            "Asistencia en descenso - Hill Descent Control",
+            "Asistencia en pendiente - Hill Hold Control",
+            "Barras de protección en las puertas",
+            "Cinturones de seguridad traseros de tres puntas",
+            "Programa de estabilidad electrónica - ESP",
+            "Inmovilizador antirrobo",
+            "Sistema de frenos ABS + EBD",
+            "Cámara de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Verde Lima Techo Negro",
+        "Azul Techo Negro",
+        "Verde Oscuro",
+        "Gris",
+        "Negro",
+        "Plata",
+        "Blanco",
+        "Rojo Techo Negro",
+        "Marfil Techo Negro",
+        "Gris Granito",
+        "Negro Perlado",
+        "Azul Metálico Perlado",
+        "Blanco Perla"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "suzuki_jimny-3pplus5p_ficha-te-cnica_web_22abr.pdf",
+        "versiones_en_documento": 7,
+        "notas": "Se extrajo la información visible en la tabla comparativa de Jimny 3 puertas y Jimny 5 puertas. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

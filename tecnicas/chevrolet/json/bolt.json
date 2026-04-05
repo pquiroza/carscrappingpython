@@ -1,0 +1,141 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "BOLT EUV",
+        "año": null,
+        "versiones": [
+            "BOLT EUV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "BOLT EUV": "Eléctrico"
+        },
+        "cilindrada": {
+            "BOLT EUV": null
+        },
+        "potencia_hp": {
+            "BOLT EUV": "200"
+        },
+        "potencia_rpm": {
+            "BOLT EUV": null
+        },
+        "torque_nm": {
+            "BOLT EUV": "360"
+        },
+        "torque_rpm": {
+            "BOLT EUV": null
+        },
+        "combustible": "Vehículo eléctrico",
+        "transmision": {
+            "BOLT EUV": null
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "BOLT EUV": null
+        },
+        "rueda_repuesto": "Kit de inflado de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4306,
+        "ancho_mm": 1770,
+        "alto_mm": 1616,
+        "distancia_ejes_mm": 2675,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 462,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia [kW/Hp]",
+            "BOLT EUV": "147 / 200"
+        },
+        {
+            "caracteristica": "Capacidad de la Batería [kWh]",
+            "BOLT EUV": "65"
+        },
+        {
+            "caracteristica": "Rango maximo testeado en ciclo WLTP",
+            "BOLT EUV": "456 kms"
+        },
+        {
+            "caracteristica": "Peso neto [kg]",
+            "BOLT EUV": "1.669"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aluminio de 17\" diseño bitono",
+            "Luces diurnas LED",
+            "Luces frontales LED",
+            "Luces automáticas",
+            "Luces traseras LED",
+            "Barras de techo"
+        ],
+        "interior": [
+            "Aire acondicionado digital",
+            "Radio de pantalla táctil de 10,2\", Android Auto, Apple CarPlay sin cable.",
+            "Volante con regulación de altura y profundidad",
+            "Vidrios eléctricos con express UP/DOWN frontal",
+            "Espejos exteriores eléctricos con direccional",
+            "Volante en cuero",
+            "Asientos en cuero",
+            "Asientos delanteros con calefacción",
+            "Volante con calefacción",
+            "Espejo retrovisor interior fotosensible"
+        ],
+        "seguridad": [
+            "10 Airbags (2 frontales, 2 airbags de cortina, 2 airbags laterales, 2 airbags de pasajeros y 2 de rodilla)",
+            "Frenos de disco delantero y traseros",
+            "ABS + EBD",
+            "Cámara trasera HD",
+            "Indicador de presión de los Neumaticos",
+            "Freno de estacionamiento eléctrico",
+            "Control de velocidad de crucero",
+            "Control electrónico de tracción",
+            "Control electrónico de estabilidad",
+            "Asistente de arranque en pendiente",
+            "Kit de inflado de neumáticos"
+        ],
+        "tecnologia": [
+            "Conducción One Pedal (Regeneración de energía)",
+            "Freno Regenerativo",
+            "Boton de Emergencia [OnStar]",
+            "WiFi [OnStar]",
+            "GPS [OnStar]"
+        ],
+        "adas": [
+            "Asistente de frenado a baja velocidad",
+            "Asistente de cambio de carril",
+            "Detección frontal de peatones",
+            "Sensor de distancia frontal"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (ticket negro=presente, -=no presente; texto/valores tal cual)",
+        "fuente": "ft-bolt-euv-cl.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento muestra equipamiento marcado con √. No se observan filas con ausencia (- o vacío) en las secciones visibles del PDF."
+    }
+}

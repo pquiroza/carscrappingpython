@@ -1,0 +1,250 @@
+{
+    "vehiculo": {
+        "marca": "Nissan",
+        "modelo": "X-TRAIL e-POWER",
+        "año": null,
+        "versiones": [
+            "ADVANCE CVT 3R AWD E-4ORCE",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "e-POWER",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "e-POWER"
+        },
+        "cilindrada": {
+            "ADVANCE CVT 3R AWD E-4ORCE": 1497,
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": 1497
+        },
+        "potencia_hp": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "211",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "211"
+        },
+        "potencia_rpm": {
+            "ADVANCE CVT 3R AWD E-4ORCE": null,
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": null
+        },
+        "torque_nm": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "330 / 195",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "330 / 195"
+        },
+        "torque_rpm": {
+            "ADVANCE CVT 3R AWD E-4ORCE": null,
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": null
+        },
+        "combustible": "93 octanos o superior",
+        "transmision": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "Eléctrica e-POWER",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "Eléctrica e-POWER"
+        },
+        "traccion": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "AWD e-4orce",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "AWD e-4orce"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctricamente Asistida (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": "Freno de mano eléctrico (EPK-B) con función \"Auto Hold\"",
+        "neumaticos": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "235/60 R18",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "235/55 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4645,
+        "ancho_mm": 1840,
+        "alto_mm": 1695,
+        "distancia_ejes_mm": 2705,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2505,
+        "capacidad_maletero_lts": {
+            "ADVANCE CVT 3R AWD E-4ORCE": "485 / 1298",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "485 / 1298"
+        },
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "ADVANCE CVT 3R AWD E-4ORCE": "17,5",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "17,5"
+        },
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "ADVANCE CVT 3R AWD E-4ORCE": "17,3",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "17,3"
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "ADVANCE CVT 3R AWD E-4ORCE": "17,4",
+            "EXCLUSIVE CVT 3R AWD E-4ORCE": "17,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "ADVANCE CVT 3R AWD E-4ORCE": "18\" Aluminio",
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": "19\" Aluminio"
+            },
+            {
+                "caracteristica": "Limpia parabrisas automático variable, intermitente y con sensor de velocidad",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado automático en doble zona",
+                "ADVANCE CVT 3R AWD E-4ORCE": true,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": false
+            },
+            {
+                "caracteristica": "Aire acondicionado automático en triple zona",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Ajuste de asiento piloto: manual (deslizable, reclinable, altura y lumbar)",
+                "ADVANCE CVT 3R AWD E-4ORCE": true,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": false
+            },
+            {
+                "caracteristica": "Ajuste de asiento piloto: manual (deslizable, reclinable, altura) + ajuste lumbar eléctrico",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Ajuste de asiento piloto: eléctrico (deslizable, reclinable, altura, inclinación, lumbar)",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefactables",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Asientos de tela",
+                "ADVANCE CVT 3R AWD E-4ORCE": true,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": false
+            },
+            {
+                "caracteristica": "Asientos de cuero sintético",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Iluminación de ambiente",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 7\"",
+                "ADVANCE CVT 3R AWD E-4ORCE": true,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": false
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 12,3\"",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Proyector Head up Display (HUD)",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celular",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            },
+            {
+                "caracteristica": "Apertura maletero eléctrico, cerrado automático y manos libres (Hands free)",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "Monitor de visión periférica (AVM) + detector de objetos en movimiento (MOD)",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "A-IVI ST3.1 con pantalla de 8\" + 6 parlantes",
+                "ADVANCE CVT 3R AWD E-4ORCE": true,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": false
+            },
+            {
+                "caracteristica": "A-IVI ST3.1 con pantalla de 12,3\" + Bose 8 + 1 parlantes",
+                "ADVANCE CVT 3R AWD E-4ORCE": false,
+                "EXCLUSIVE CVT 3R AWD E-4ORCE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Spoiler trasero + luz de freno",
+            "Espejos retrovisores exteriores con ajuste eléctrico, plegables automáticos y calefactable",
+            "Vidrios traseros tintados",
+            "Faros delanteros LED con encendido automático + luces diurnas LED",
+            "Faros traseros LED + direccional LED",
+            "Techo panorámico de cristal fijo con cortina eléctrica"
+        ],
+        "interior": [
+            "Volante de cuero sintético",
+            "Espejo retrovisor interior antidestello automático",
+            "Freno de mano eléctrico (EPK-B) con función \"Auto Hold\"",
+            "Ajuste de asiento piloto manual (deslizable, reclinable)",
+            "Asientos traseros abatibles 40/20/40 (segunda fila)",
+            "5 modos de manejo (Carretera, sport, eco, montaña, nieve y off-road)",
+            "Botón de encendido y apagado de motor (Push engine start) ligado con la llave inteligente i-KEY",
+            "Puertos USB A y C",
+            "e-Pedal STEP"
+        ],
+        "seguridad": [
+            "Asistente de frenado (BA)",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Distribución electrónica de frenado (EBD)",
+            "Airbags frontales conductor y pasajero (2)",
+            "Airbags laterales (2) y cortina (2)",
+            "Cinturones de seguridad de 3 puntos",
+            "Sistema monitoreo presión de neumáticos (TPMS)",
+            "Anclaje ISOFIX",
+            "Control dinámico vehicular (VDC)",
+            "Cámara de visión trasera",
+            "Asistente de ascenso en pendientes (HSA)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Control crucero inteligente (ICC) y ajuste de límite de velocidad (ASL)",
+            "Alerta de abandono de carril (LDW)",
+            "Prevención cambio carril (LDP)",
+            "Alerta de colisión frontal (FCW)",
+            "Frenado de emergencia frontal (FEB) (ciudad e interurbano)",
+            "Alerta de punto ciego (BSW)",
+            "Alerta tráfico cruzado trasero (CTA)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Nissan (punto=true, vacío o -=false; filas con un solo punto se interpretan como aplicables a todas las versiones; texto/valores tal cual)",
+        "fuente": "FICHA TECNICA NISSAN X-TRAIL E-POWER.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo toda la información visible de la ficha. Donde el documento no muestra explícitamente un dato del formato requerido, se dejó null o arreglo vacío sin inferir."
+    }
+}

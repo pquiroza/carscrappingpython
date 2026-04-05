@@ -1,0 +1,283 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "D90",
+        "año": null,
+        "versiones": [
+            "ELITE",
+            "LUXURY",
+            "FLAGSHIP"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ELITE": "Bi-Turbo 2.0 + 48V",
+            "LUXURY": "Bi-Turbo 2.0 + 48V",
+            "FLAGSHIP": "Bi-Turbo 2.0 + 48V"
+        },
+        "cilindrada": {
+            "ELITE": 2.0,
+            "LUXURY": 2.0,
+            "FLAGSHIP": 2.0
+        },
+        "potencia_hp": {
+            "ELITE": "218",
+            "LUXURY": "218",
+            "FLAGSHIP": "218"
+        },
+        "potencia_rpm": {
+            "ELITE": null,
+            "LUXURY": null,
+            "FLAGSHIP": null
+        },
+        "torque_nm": {
+            "ELITE": "500",
+            "LUXURY": "500",
+            "FLAGSHIP": "500"
+        },
+        "torque_rpm": {
+            "ELITE": null,
+            "LUXURY": null,
+            "FLAGSHIP": null
+        },
+        "combustible": {
+            "ELITE": "Diesel",
+            "LUXURY": "Diesel",
+            "FLAGSHIP": "Diesel"
+        },
+        "sistema_alimentacion": {
+            "ELITE": null,
+            "LUXURY": null,
+            "FLAGSHIP": null
+        },
+        "norma_emisiones": {
+            "ELITE": "Euro 6C",
+            "LUXURY": "Euro 6C",
+            "FLAGSHIP": "Euro 6C"
+        },
+        "transmision": {
+            "ELITE": "8AT",
+            "LUXURY": "8AT",
+            "FLAGSHIP": "8AT"
+        },
+        "traccion": {
+            "ELITE": "SUPER 4WD",
+            "LUXURY": "SUPER 4WD",
+            "FLAGSHIP": "SUPER 4WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión de doble horquilla",
+        "suspension_trasera": "Independiente Multilink",
+        "frenos_delanteros": "Discos delanteros y traseros",
+        "frenos_traseros": "Discos delanteros y traseros",
+        "freno_de_mano": "Electrónico con Auto Hold",
+        "neumaticos": {
+            "ELITE": "265 / 60 R18",
+            "LUXURY": "265 / 50 R20",
+            "FLAGSHIP": "265 / 50 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5046,
+        "ancho_mm": 2016,
+        "alto_mm": 1876,
+        "distancia_ejes_mm": 2950,
+        "numero_pasajeros": 7,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Modos de conducción",
+            "ELITE": "Sport / Normal / Eco",
+            "LUXURY": "Sport / Normal / Eco",
+            "FLAGSHIP": "Sport / Normal / Eco"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Focos principales",
+                "ELITE": "LED",
+                "LUXURY": "LED",
+                "FLAGSHIP": "LED"
+            },
+            {
+                "caracteristica": "Apertura maletero",
+                "ELITE": "Manual",
+                "LUXURY": "Eléctrica",
+                "FLAGSHIP": "Eléctrica"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": "Panorámico"
+            },
+            {
+                "caracteristica": "Tipo de llanta",
+                "ELITE": "Aleación 18\"",
+                "LUXURY": "Aleación 20\"",
+                "FLAGSHIP": "Aleación 20\""
+            },
+            {
+                "caracteristica": "Bloqueo de diferencial",
+                "ELITE": "Central",
+                "LUXURY": "Central + Trasero",
+                "FLAGSHIP": "Delantero + Central + Trasero"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "ELITE": "Eco Cuero",
+                "LUXURY": "Eco Cuero",
+                "FLAGSHIP": "Eco Cuero"
+            },
+            {
+                "caracteristica": "Pantallas frontales",
+                "ELITE": "12,3\" + 12,3\"",
+                "LUXURY": "12,3\" + 12,3\"",
+                "FLAGSHIP": "12,3\" + 12,3\""
+            },
+            {
+                "caracteristica": "Asiento conductor ajustable",
+                "ELITE": "Manual - 6 posiciones",
+                "LUXURY": "Eléctrico 8 posiciones + 4 soporte lumbar",
+                "FLAGSHIP": "Eléctrico 8 posiciones + 4 soporte lumbar"
+            },
+            {
+                "caracteristica": "Asiento acompañante ajustable",
+                "ELITE": "Manual - 4 posiciones",
+                "LUXURY": "Eléctrico 4 posiciones + 4 soporte lumbar",
+                "FLAGSHIP": "Eléctrico 4 posiciones + 4 soporte lumbar"
+            },
+            {
+                "caracteristica": "Calefactor y ventilación asientos delanteros",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "ELITE": false,
+                "LUXURY": false,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "ELITE": "8",
+                "LUXURY": "12 (JBL)",
+                "FLAGSHIP": "12 (JBL)"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS + EBD",
+                "ELITE": true,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "ELITE": true,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Doble airbag frontal",
+                "ELITE": true,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "ELITE": true,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "AEB",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Monitor punto ciego (BSM)",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "LDW",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "LKA",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "ELITE": false,
+                "LUXURY": true,
+                "FLAGSHIP": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces encendido automático",
+            "Luz diurna",
+            "Espejos eléctricos y calefaccionados",
+            "Espejos abatibles electrónicamente",
+            "Spoiler trasero"
+        ],
+        "interior": [
+            "Climatizador",
+            "Salidas de aire plazas traseras",
+            "Volante multifunción",
+            "Volante forrado en cuero",
+            "Keyless entry con botón de encendido",
+            "2 USB + Bluetooth",
+            "Apple Carplay + Android QD Link",
+            "Alza vidrios eléctricos",
+            "Control crucero",
+            "Toma de corriente 220V"
+        ],
+        "seguridad": [
+            "HHC",
+            "TPMS",
+            "Alerta exceso de velocidad",
+            "Dashboard cámara",
+            "Sensores estacionamiento delanteros y traseros",
+            "Freno estacionamiento electrónico + Auto Hold",
+            "Inmovilizador",
+            "Alarma cinturón todas las plazas",
+            "ISOFIX",
+            "Cámara retroceso"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; columna única=aplica a todas las versiones)",
+        "fuente": "Ficha Tecnica D90.pdf",
+        "versiones_en_documento": 3,
+        "notas": null
+    }
+}

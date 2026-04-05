@@ -13,7 +13,7 @@ SLOWMO_MS = 0
 VIEWPORT = {"width": 1400, "height": 950}
 
 # Marcas del sidebar tal cual aparecen en el label
-BRANDS = ["Suzuki", "GWM", "Renault", "Changan", "JAC", "Deepal"]
+BRANDS = ["Suzuki", "GWM", "Renault", "Changan", "Deepal"]
 
 # =============== SELECTORES ===============
 # Cookies
@@ -554,7 +554,7 @@ def main():
         save_json(os.path.join("out", "plp_all.json"), all_rows)
         save_csv(os.path.join("out", "plp_all.csv"), all_rows)
         print(f"\n✅ Total global: {len(all_rows)} (out/plp_all.json & out/plp_all.csv)")
-
+        print("RUN_OK")
         if HEADLESS:
             ctx.close(); browser.close()
         else:

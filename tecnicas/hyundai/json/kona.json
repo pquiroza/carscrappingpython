@@ -1,0 +1,226 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "KONA",
+        "año": null,
+        "versiones": [
+            "2.0_CVT_PLUS",
+            "2.0_CVT_DESIGN",
+            "1.6T_AT_AWD_NLINE"
+        ]
+    },
+    "motor": {
+        "tipo": "GDI - CVVT",
+        "cilindrada": {
+            "2.0_CVT_PLUS": "1.999 cc",
+            "2.0_CVT_DESIGN": "1.999 cc",
+            "1.6T_AT_AWD_NLINE": "1.598 cc"
+        },
+        "potencia_hp": {
+            "2.0_CVT_PLUS": "147 hp a 6.200 rpm",
+            "2.0_CVT_DESIGN": "147 hp a 6.200 rpm",
+            "1.6T_AT_AWD_NLINE": "195 hp a 6.000 rpm"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "2.0_CVT_PLUS": "180 Nm",
+            "2.0_CVT_DESIGN": "180 Nm",
+            "1.6T_AT_AWD_NLINE": "265 Nm"
+        },
+        "torque_rpm": {
+            "2.0_CVT_PLUS": "4.500",
+            "2.0_CVT_DESIGN": "4.500",
+            "1.6T_AT_AWD_NLINE": "1.600 - 4.500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "2.0_CVT_PLUS": "CVT",
+            "2.0_CVT_DESIGN": "CVT",
+            "1.6T_AT_AWD_NLINE": "Automática 8 velocidades"
+        },
+        "traccion": {
+            "2.0_CVT_PLUS": "Delantera",
+            "2.0_CVT_DESIGN": "Delantera",
+            "1.6T_AT_AWD_NLINE": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "2.0_CVT_PLUS": "215/60R17",
+            "2.0_CVT_DESIGN": "215/55R18",
+            "1.6T_AT_AWD_NLINE": "235/45R19"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4350,
+        "ancho_mm": 1825,
+        "alto_mm": {
+            "2.0_CVT_PLUS": 1580,
+            "2.0_CVT_DESIGN": 1580,
+            "1.6T_AT_AWD_NLINE": 1585
+        },
+        "distancia_ejes_mm": 2660,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2.0_CVT_PLUS": 1885,
+            "2.0_CVT_DESIGN": 1885,
+            "1.6T_AT_AWD_NLINE": 2040
+        },
+        "capacidad_maletero_lts": "466 (min) / 1.241 (max)",
+        "capacidad_estanque_lts": 47
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "2.0_CVT_PLUS": "17\"",
+            "2.0_CVT_DESIGN": "18\"",
+            "1.6T_AT_AWD_NLINE": "19\" N-Line"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "FCA",
+                "2.0_CVT_PLUS": "Frontal",
+                "2.0_CVT_DESIGN": "Frontal",
+                "1.6T_AT_AWD_NLINE": "Frontal/Cruces/Giros"
+            },
+            {
+                "caracteristica": "BCA",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": true,
+                "1.6T_AT_AWD_NLINE": true
+            },
+            {
+                "caracteristica": "RCCA",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": true,
+                "1.6T_AT_AWD_NLINE": true
+            },
+            {
+                "caracteristica": "SSC",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": true,
+                "1.6T_AT_AWD_NLINE": true
+            },
+            {
+                "caracteristica": "Monitor punto ciego (BVM)",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": false,
+                "1.6T_AT_AWD_NLINE": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": false,
+                "1.6T_AT_AWD_NLINE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster",
+                "2.0_CVT_PLUS": "TFT 4,2\"",
+                "2.0_CVT_DESIGN": "12,3\"",
+                "1.6T_AT_AWD_NLINE": "12,3\""
+            },
+            {
+                "caracteristica": "Control crucero",
+                "2.0_CVT_PLUS": true,
+                "2.0_CVT_DESIGN": true,
+                "1.6T_AT_AWD_NLINE": "Adaptativo"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "2.0_CVT_PLUS": "Tela",
+                "2.0_CVT_DESIGN": "Eco-Cuero",
+                "1.6T_AT_AWD_NLINE": "Cuero Alcántara"
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": true,
+                "1.6T_AT_AWD_NLINE": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": false,
+                "1.6T_AT_AWD_NLINE": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras",
+                "2.0_CVT_PLUS": "LED",
+                "2.0_CVT_DESIGN": "Proyección + Señalizador Web",
+                "1.6T_AT_AWD_NLINE": "Proyección + Señalizador Web"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Audio Premium Bose",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": false,
+                "1.6T_AT_AWD_NLINE": true
+            },
+            {
+                "caracteristica": "Paquete N-Line",
+                "2.0_CVT_PLUS": false,
+                "2.0_CVT_DESIGN": false,
+                "1.6T_AT_AWD_NLINE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "ESC",
+            "HAC",
+            "LKA",
+            "LFA",
+            "MCB",
+            "TPMS",
+            "Sensor estacionamiento delantero y trasero",
+            "Cámara retroceso",
+            "ISOFIX"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos totales",
+            "Asientos abatibles 60/40",
+            "Asiento conductor regulable en altura",
+            "Barras techo",
+            "Cargador inalámbrico",
+            "Radio Touch 12,3\" Apple CarPlay & Android Auto inalámbrico",
+            "Volante regulable altura y profundidad",
+            "Freno mano electrónico con Auto Hold",
+            "Llave inteligente con botón encendido",
+            "Salida aire plazas traseras"
+        ],
+        "exterior": [
+            "Luces traseras LED",
+            "Luz día LED",
+            "Retrovisores eléctricos y abatibles",
+            "Sensor de lluvia"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-kona-sx2-ice.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual del documento."
+    }
+}

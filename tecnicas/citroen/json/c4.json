@@ -1,0 +1,204 @@
+{
+    "vehiculo": {
+        "marca": "CITROËN",
+        "modelo": "C4",
+        "año": null,
+        "versiones": [
+            "PLUS",
+            "MAX"
+        ]
+    },
+    "motor": {
+        "tipo": "Híbrido 3 en línea",
+        "cilindrada": "1199",
+        "potencia_hp": "136",
+        "potencia_rpm": "5500",
+        "torque_nm": "230",
+        "torque_rpm": "1750",
+        "combustible": "Gasolina",
+        "transmision": "Automática eDCT6",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "neumaticos": "215/60 R17",
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": "4350",
+        "ancho_mm": "1834",
+        "ancho_con_espejos_mm": "2032",
+        "alto_mm": "1525",
+        "distancia_ejes_mm": "2670",
+        "despeje_suelo_mm": "156",
+        "capacidad_maletero_lts": "380 / 1250",
+        "peso_bruto_kg": "1805",
+        "capacidad_estanque_lts": "44"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "PLUS": "8",
+            "MAX": "8"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "PLUS": "210",
+            "MAX": "210"
+        },
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "PLUS": "21.4",
+            "MAX": "21.4"
+        },
+        {
+            "caracteristica": "Consumo extraurbano (km/l)",
+            "PLUS": "26.3",
+            "MAX": "26.3"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "PLUS": "22.9",
+            "MAX": "22.9"
+        },
+        {
+            "caracteristica": "CO2 (g/km)",
+            "PLUS": "105",
+            "MAX": "105"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensores delanteros y visión 360°",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo Stop & GO",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asistencia mantenimiento de carril",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Freno de seguridad activo",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Reconocimiento señales ampliado",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asistente velocidad inteligente",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Detector ángulo muerto",
+                "PLUS": false,
+                "MAX": true
+            }
+        ],
+        "comfort": [
+            {
+                "caracteristica": "Cluster digital 5.5\"",
+                "PLUS": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Cluster digital 7\" color",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Sistema Keyless proximidad",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asientos calefactables",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Faros inteligentes HBA",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Espejo electrocromo",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Head-Up Display",
+                "PLUS": false,
+                "MAX": true
+            }
+        ],
+        "diseño": [
+            {
+                "caracteristica": "Techo panorámico",
+                "PLUS": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Carrocería bi-tono",
+                "PLUS": false,
+                "MAX": false
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags cortina",
+            "ESP",
+            "Hill Assist",
+            "ISOFIX",
+            "Cámara trasera",
+            "Sensores traseros"
+        ],
+        "comfort": [
+            "Volante cuero",
+            "Aire bi-zona",
+            "USB delanteros y traseros",
+            "Freno eléctrico",
+            "Asientos regulables"
+        ],
+        "multimedia": [
+            "Pantalla 10\"",
+            "Android Auto",
+            "Apple CarPlay",
+            "Audio 6 parlantes"
+        ],
+        "diseño": [
+            "Llantas 17\"",
+            "Spoiler trasero",
+            "Faros LED",
+            "Nuevo logo Citroën"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura literal tabla",
+        "fuente": "Ficha Técnica Citroën C4",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exclusivamente de la ficha técnica."
+    }
+}

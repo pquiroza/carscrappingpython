@@ -1,0 +1,290 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "CLA AMG",
+        "año": null,
+        "versiones": [
+            "CLA A 35 AMG 4MATIC Coupé",
+            "CLA 45s AMG 4MATIC+ Coupé"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CLA A 35 AMG 4MATIC Coupé": "4 cilindros en línea",
+            "CLA 45s AMG 4MATIC+ Coupé": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "CLA A 35 AMG 4MATIC Coupé": 1991,
+            "CLA 45s AMG 4MATIC+ Coupé": 1991
+        },
+        "potencia_hp": {
+            "CLA A 35 AMG 4MATIC Coupé": "306 CV (+22CV)",
+            "CLA 45s AMG 4MATIC+ Coupé": "421 CV"
+        },
+        "potencia_rpm": {
+            "CLA A 35 AMG 4MATIC Coupé": null,
+            "CLA 45s AMG 4MATIC+ Coupé": null
+        },
+        "torque_nm": {
+            "CLA A 35 AMG 4MATIC Coupé": "400 Nm (+200)",
+            "CLA 45s AMG 4MATIC+ Coupé": "500 Nm"
+        },
+        "torque_rpm": {
+            "CLA A 35 AMG 4MATIC Coupé": null,
+            "CLA 45s AMG 4MATIC+ Coupé": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "CLA A 35 AMG 4MATIC Coupé": "AMG SPEEDSHIFT DCT 8G",
+            "CLA 45s AMG 4MATIC+ Coupé": "AMG SPEEDSHIFT DCT 8G"
+        },
+        "traccion": {
+            "CLA A 35 AMG 4MATIC Coupé": "Integral",
+            "CLA 45s AMG 4MATIC+ Coupé": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CLA A 35 AMG 4MATIC Coupé": null,
+            "CLA 45s AMG 4MATIC+ Coupé": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 460,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "CLA A 35 AMG 4MATIC Coupé": "11,8 km/l",
+            "CLA 45s AMG 4MATIC+ Coupé": "11,1 km/l"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "CLA A 35 AMG 4MATIC Coupé": "250 Km/h",
+            "CLA 45s AMG 4MATIC+ Coupé": "270 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "CLA A 35 AMG 4MATIC Coupé": "4,9s",
+            "CLA 45s AMG 4MATIC+ Coupé": "4,1s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético",
+                "CLA A 35 AMG 4MATIC Coupé": "AMG Night Package",
+                "CLA 45s AMG 4MATIC+ Coupé": "AMG Night Package"
+            },
+            {
+                "caracteristica": "Faros LED High Performance",
+                "CLA A 35 AMG 4MATIC Coupé": "Incluye luces de carretera automáticas con cálido tono blanco uniforme",
+                "CLA 45s AMG 4MATIC+ Coupé": "Incluye luces de carretera automáticas con cálido tono blanco uniforme"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "CLA A 35 AMG 4MATIC Coupé": "Con cierre automático en caso de lluvia",
+                "CLA 45s AMG 4MATIC+ Coupé": "Con cierre automático en caso de lluvia"
+            },
+            {
+                "caracteristica": "Amortiguación adaptativa",
+                "CLA A 35 AMG 4MATIC Coupé": false,
+                "CLA 45s AMG 4MATIC+ Coupé": "AMG RIDE CONTROL"
+            },
+            {
+                "caracteristica": "Cristales calorífugos tintados",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "CLA A 35 AMG 4MATIC Coupé": "Llantas de aleación AMG de 19\" y 5 radios dobles optimizadas aerodinámicamente",
+                "CLA 45s AMG 4MATIC+ Coupé": "Llantas de aleación AMG de 19\" y 5 radios dobles con propiedades aerodinámicas"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "CLA A 35 AMG 4MATIC Coupé": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas",
+                "CLA 45s AMG 4MATIC+ Coupé": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos y con memorias",
+                "CLA A 35 AMG 4MATIC Coupé": "Deportivos",
+                "CLA 45s AMG 4MATIC+ Coupé": "AMG Performance, calefactados y multicontorno"
+            },
+            {
+                "caracteristica": "Molduras",
+                "CLA A 35 AMG 4MATIC Coupé": "Aluminio claro con rectificado longitudinal",
+                "CLA 45s AMG 4MATIC+ Coupé": "Aluminio en diseño AMG de color negro/plata"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "CLA A 35 AMG 4MATIC Coupé": "Cuero artico negro, costuras rojas",
+                "CLA 45s AMG 4MATIC+ Coupé": "Cuero artico negro, costuras rojas"
+            },
+            {
+                "caracteristica": "Volante AMG performance en napa",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": "Incluye teclas AMG inspiradas en la fórmula 1"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Incluye Windowbags + Airbag de rodillas",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Gel hermetizante para neumaticos TIREFIT",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Protección vehículo URBAN 360°",
+                "CLA A 35 AMG 4MATIC Coupé": false,
+                "CLA 45s AMG 4MATIC+ Coupé": "Incluye alarma con sensores volumétricos"
+            },
+            {
+                "caracteristica": "Asistente de maniobra evasiva",
+                "CLA A 35 AMG 4MATIC Coupé": false,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Función de reanudación de la marcha en autopistas",
+                "CLA A 35 AMG 4MATIC Coupé": false,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Asistente activo de dirección",
+                "CLA A 35 AMG 4MATIC Coupé": false,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Asistente activo de distancias DISTRONIC",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Función de advertencia de salida",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia Activo",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Información de presión de neumáticos",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "CLA A 35 AMG 4MATIC Coupé": "<<Hey Mecedes>>",
+                "CLA 45s AMG 4MATIC+ Coupé": "<<Hey Mecedes>>"
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "CLA A 35 AMG 4MATIC Coupé": "Incluye sistema de carga inalámbrico para las plazas delanteras",
+                "CLA 45s AMG 4MATIC+ Coupé": "Incluye sistema de carga inalámbrico para las plazas delanteras"
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos completamente digital",
+                "CLA A 35 AMG 4MATIC Coupé": "10,25 pulgadas",
+                "CLA 45s AMG 4MATIC+ Coupé": "10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios touch screen",
+                "CLA A 35 AMG 4MATIC Coupé": "10,25 pulgadas",
+                "CLA 45s AMG 4MATIC+ Coupé": "10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Paquete USB Plus de carga rápida",
+                "CLA A 35 AMG 4MATIC Coupé": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras",
+                "CLA 45s AMG 4MATIC+ Coupé": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras"
+            },
+            {
+                "caracteristica": "Paquete de estacionado con cámara marcha atrás",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": "Incluye asistencia de estacionado PARKTRONIC"
+            },
+            {
+                "caracteristica": "Sistema de sonido surround Burmester®",
+                "CLA A 35 AMG 4MATIC Coupé": "12 altavoces, 710 vatios y personalización del sonido",
+                "CLA 45s AMG 4MATIC+ Coupé": "12 altavoces, 710 vatios y personalización del sonido"
+            },
+            {
+                "caracteristica": "Sistema de acceso Keyless GO",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Sistema de Telemetría AMG TRACK PACE",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Climatización automática THERMATIC",
+                "CLA A 35 AMG 4MATIC Coupé": true,
+                "CLA 45s AMG 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Paquete de retrovisores eléctricos",
+                "CLA A 35 AMG 4MATIC Coupé": "Incluye tecnología con antideslumbramiento automático",
+                "CLA 45s AMG 4MATIC+ Coupé": "Incluye tecnología con antideslumbramiento automático"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz CLA AMG (ticket=presente, vacío o -=no presente; si aparece centrado aplica a ambas versiones; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica_CLA_AMG_digitalv112.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior para CLA A 35 AMG 4MATIC Coupé y CLA 45s AMG 4MATIC+ Coupé."
+    }
+}

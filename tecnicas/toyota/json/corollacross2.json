@@ -1,0 +1,288 @@
+{
+  "vehiculo": {
+    "marca": "Toyota",
+    "modelo": "Corolla Cross",
+    "año": null,
+    "versiones": [
+      "XEI HV",
+      "SEG HV"
+    ]
+  },
+  "motor": {
+    "tipo": "Híbrido",
+    "cilindrada": "1.8",
+    "potencia_hp": "122",
+    "potencia_rpm": "5200",
+    "torque_nm": "142",
+    "torque_rpm": "3600",
+    "combustible": "CVT",
+    "transmision": null,
+    "traccion": "2WD"
+  },
+  "direccion": {
+    "tipo": "Eléctrica"
+  },
+  "suspension_frenos": {
+    "suspension_delantera": "McPherson / Barra de Torsión",
+    "suspension_trasera": null,
+    "frenos_delanteros": "Disco Ventilado/ Disco Sólido",
+    "frenos_traseros": null,
+    "neumaticos": null,
+    "rueda_repuesto": null
+  },
+  "dimensiones": {
+    "largo_mm": "4460",
+    "ancho_mm": "1825",
+    "alto_mm": "1620",
+    "distancia_ejes_mm": "2640",
+    "despeje_suelo_mm": null,
+    "peso_bruto_kg": "2215/2617",
+    "capacidad_maletero_lts": null,
+    "capacidad_estanque_lts": null
+  },
+  "tabla_comparativa_ruedas": [
+    {
+      "caracteristica": "Llantas",
+      "VERSION_1": null,
+      "VERSION_2": null
+    }
+  ],
+  "tabla_comparativa_peso": [
+    {
+      "caracteristica": "Peso neto (kg)",
+      "VERSION_1": "1798",
+      "VERSION_2": null
+    }
+  ],
+  "tabla_comparativa_capacidades": [
+    {
+      "caracteristica": "Carga util (kg)",
+      "VERSION_1": null,
+      "VERSION_2": null
+    },
+    {
+      "caracteristica": "Numero de pasajeros",
+      "VERSION_1": "5",
+      "VERSION_2": "5"
+    }
+  ],
+  "tabla_comparativa_rendimiento": [
+    {
+      "caracteristica": "Ciudad (km/lts)",
+      "VERSION_1": "25.6",
+      "VERSION_2": "21.7"
+    },
+    {
+      "caracteristica": "Carretera (km/lts)",
+      "VERSION_1": null,
+      "VERSION_2": "23.3"
+    },
+    {
+      "caracteristica": "Mixto (km/lts)",
+      "VERSION_1": null,
+      "VERSION_2": null
+    }
+  ],
+  "equipamiento_diferencial_detallado": {
+    "interior": [
+      {
+        "caracteristica": "Pantalla información tablero TFT",
+        "VERSION_1": "7\"",
+        "VERSION_2": "12\" (Full Digital Meter Display)"
+      },
+      {
+        "caracteristica": "Volante forrado en cuero",
+        "VERSION_1": null,
+        "VERSION_2": "Si"
+      },
+      {
+        "caracteristica": "Puerta USB (Tipo C)",
+        "VERSION_1": "Si (delantero + segunda corrida x2)",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Freno Mano",
+        "VERSION_1": "Electrónico (EPB)",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Control Crucero",
+        "VERSION_1": "Si",
+        "VERSION_2": "Adaptativo"
+      },
+      {
+        "caracteristica": "Freno regenerativo",
+        "VERSION_1": "Reducida 1°",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Asiento conductor",
+        "VERSION_1": "Manual",
+        "VERSION_2": "Eléctrico (controlador)"
+      },
+      {
+        "caracteristica": "Material asientos",
+        "VERSION_1": "Tela",
+        "VERSION_2": "Cuero"
+      },
+      {
+        "caracteristica": "Ajuste asiento delantero",
+        "VERSION_1": "Manual",
+        "VERSION_2": "Eléctrico (controlador)"
+      },
+      {
+        "caracteristica": "Número de altavoces",
+        "VERSION_1": "Si, 60:40",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Parlantes",
+        "VERSION_1": "6",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Cargador inalámbrico",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Apertura maletero",
+        "VERSION_1": "Convencional",
+        "VERSION_2": "Manos Libres (Kick Sensor)"
+      },
+      {
+        "caracteristica": "Audio",
+        "VERSION_1": "Si con Android Auto y Apple Car Play inalámbrico",
+        "VERSION_2": null
+      }
+    ],
+    "exterior": [
+      {
+        "caracteristica": "Llantas aleación",
+        "VERSION_1": "17\"",
+        "VERSION_2": "18\""
+      },
+      {
+        "caracteristica": "Sistema de llave inteligente - Smart Key",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Cámara retroceso",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Spoiler de techo",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Barras de techo",
+        "VERSION_1": "Si (Negras)",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Limpiaparabrisas delantero",
+        "VERSION_1": "Con ajuste de tiempo",
+        "VERSION_2": "Con sensor de lluvia"
+      },
+      {
+        "caracteristica": "Luces delanteras",
+        "VERSION_1": "LED",
+        "VERSION_2": "LED + AHB + Secuencial"
+      },
+      {
+        "caracteristica": "Nivelación focos",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Neblineros",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Luces diurnas (DRL)",
+        "VERSION_1": "LED",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Espejo retrovisor",
+        "VERSION_1": "Eléctricos con función Auto-fold",
+        "VERSION_2": null
+      }
+    ],
+    "seguridad": [
+      {
+        "caracteristica": "Alerta omisión de seguridad",
+        "VERSION_1": "Si ( conductor + pasajero + segunda corrida)",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Sistema de frenos ABS con distribución electrónica de frenado (EBD)",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Control de estabilidad (VSC)",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Asistencia de Arranque en Pendientes (HAC)",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Airbags",
+        "VERSION_1": "Si",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "SRS Airbag",
+        "VERSION_1": "7",
+        "VERSION_2": null
+      },
+      {
+        "caracteristica": "Sensor estacionamiento",
+        "VERSION_1": "Trasero",
+        "VERSION_2": "Delantero + Trasero"
+      }
+    ],
+    "tecnologia": [
+      {
+        "caracteristica": "PCS (Pre-Collision System/Sistema de Pre-Colisión)",
+        "VERSION_1": "No",
+        "VERSION_2": "Si"
+      },
+      {
+        "caracteristica": "LTA (Lane Tracing Assist/Asistente de Trazado de carril)",
+        "VERSION_1": "No",
+        "VERSION_2": "Si"
+      },
+      {
+        "caracteristica": "AHB (Automatic High Beam/Luces Altas Automáticas)",
+        "VERSION_1": "No",
+        "VERSION_2": "Si"
+      },
+      {
+        "caracteristica": "ACC (Adaptive Cruise Control/Velocidad Crucero Adaptativa)",
+        "VERSION_1": "No",
+        "VERSION_2": "Si"
+      }
+    ]
+  },
+  "equipamiento_estandar_todas_versiones": {
+    "interior": [],
+    "exterior": [],
+    "seguridad": []
+  },
+  "metadata": {
+    "fecha_extraccion": "2026-02-17",
+    "metodo_extraccion": "Claude Vision",
+    "fuente": "Corolla_Cross_V.2.pdf",
+    "versiones_en_documento": 2,
+    "notas": "Document shows XEI HV and SEG HV versions with detailed equipment comparison"
+  }
+}

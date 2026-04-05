@@ -1,0 +1,166 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "INSTER",
+        "año": null,
+        "versiones": [
+            "EV_PLUS",
+            "EV_DESIGN_BAT_EXT"
+        ]
+    },
+    "motor": {
+        "tipo": "Permanent Magnet Synchronous Motor",
+        "cilindrada": null,
+        "potencia_hp": {
+            "EV_PLUS": "71 kW / 96 hp",
+            "EV_DESIGN_BAT_EXT": "84.5 kW / 113 hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": "147 Nm",
+        "torque_rpm": null,
+        "combustible": "Electricidad",
+        "transmision": "Caja reductora de velocidad única",
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Eléctrica-Asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "CTBA",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "EV_PLUS": "185/65 R15",
+            "EV_DESIGN_BAT_EXT": "205/45 R17"
+        },
+        "rueda_repuesto": "Kit de movilidad temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 3825,
+        "ancho_mm": 1610,
+        "alto_mm": 1575,
+        "distancia_ejes_mm": 2580,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "EV_PLUS": 1730,
+            "EV_DESIGN_BAT_EXT": 1745
+        },
+        "capacidad_maletero_lts": "280 (min) / 1059 (max)",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "EV_PLUS": "15\"",
+            "EV_DESIGN_BAT_EXT": "17\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía (WLTP)",
+            "EV_PLUS": "327 KM",
+            "EV_DESIGN_BAT_EXT": "360 KM"
+        },
+        {
+            "caracteristica": "Autonomía según consumo homologado",
+            "EV_PLUS": "298 KM",
+            "EV_DESIGN_BAT_EXT": "338 KM"
+        },
+        {
+            "caracteristica": "Consumo (km/kWh)",
+            "EV_PLUS": "7,1",
+            "EV_DESIGN_BAT_EXT": "6,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Alzavidrios eléctricos",
+                "EV_PLUS": "Piloto autodown",
+                "EV_DESIGN_BAT_EXT": "Auto Up/down & Safety"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras",
+                "EV_PLUS": "Halógenas",
+                "EV_DESIGN_BAT_EXT": "LED de proyección"
+            },
+            {
+                "caracteristica": "Luces traseras",
+                "EV_PLUS": "Halógenas",
+                "EV_DESIGN_BAT_EXT": "LED"
+            },
+            {
+                "caracteristica": "Neblineros",
+                "EV_PLUS": false,
+                "EV_DESIGN_BAT_EXT": "LED"
+            },
+            {
+                "caracteristica": "Carrocería Bi-Tono",
+                "EV_PLUS": false,
+                "EV_DESIGN_BAT_EXT": true
+            }
+        ],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "Asistente partida pendiente HAC",
+            "Cámara retroceso con guías dinámicas",
+            "Control Estabilidad ESC",
+            "TPMS",
+            "Sensor estacionamiento trasero",
+            "Alerta pasajeros traseros sin sensor",
+            "LKA",
+            "LFA",
+            "FCA",
+            "Asistencia luces altas",
+            "Advertencia atención conductor"
+        ],
+        "interior": [
+            "Asiento conductor regulable altura",
+            "Asientos abatibles 50/50",
+            "E-Shift By Wire",
+            "Barras techo",
+            "Cierre centralizado",
+            "Cargador inalámbrico celular",
+            "Climatizador + desempañador automático",
+            "Función Driver Only",
+            "Cluster digital 10,25\"",
+            "Cobertor maletero",
+            "Control crucero",
+            "Control audio y bluetooth volante",
+            "Encendido luces automático",
+            "Freno mano electrónico Auto Hold",
+            "Llave inteligente botón encendido",
+            "Encendido remoto",
+            "Luz día y posicionamiento LED",
+            "Paddle Shift con frenado regenerativo (5 niveles)",
+            "Manejo 1 pedal (I-Pedal)",
+            "Radio Touch 8\" Apple CarPlay & Android Auto inalámbrico",
+            "Retrovisores plegables eléctricos",
+            "Retrovisores eléctricos calefaccionados",
+            "Selección modo manejo (Normal, Sport, ECO, Nieve)",
+            "Tapiz Tela",
+            "Tweeters",
+            "Volante regulación altura y profundidad",
+            "Volante forrado en cuero"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-inster.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos únicamente desde la tabla comparativa visual."
+    }
+}

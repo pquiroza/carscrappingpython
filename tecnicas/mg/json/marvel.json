@@ -1,0 +1,240 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "Marvel R",
+        "año": null,
+        "versiones": [
+            "DLX"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": null,
+        "potencia_hp": {
+            "DLX": "183"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "DLX": "410"
+        },
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": null,
+        "traccion": {
+            "DLX": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección Asistida Eléctrica (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión Delantera McPherson",
+        "suspension_trasera": "Suspensión Trasera Multi-Link",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "DLX": "235/45 R19"
+        },
+        "rueda_repuesto": "Kit de Reparación de Neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4678,
+        "ancho_mm": 1919,
+        "alto_mm": 1618,
+        "distancia_ejes_mm": 2800,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 357,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas Aleación de 19\"",
+            "DLX": true
+        },
+        {
+            "caracteristica": "Neumáticos 235/45 R19",
+            "DLX": true
+        },
+        {
+            "caracteristica": "Kit de Reparación de Neumáticos",
+            "DLX": true
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad del Maletero (L)",
+            "DLX": "357"
+        },
+        {
+            "caracteristica": "Batería (kWh)",
+            "DLX": "72"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad Máxima (km/h)",
+            "DLX": "200"
+        },
+        {
+            "caracteristica": "Rango WLTP (km)",
+            "DLX": "402"
+        },
+        {
+            "caracteristica": "Carga DC (kW)",
+            "DLX": "120"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Parasol con Espejo y Luz",
+            "Guantera con Amortiguador",
+            "Manilla de Puerta Cromada",
+            "Moldura de Puertas de Ecocuero",
+            "Pedales Deportivos de Aleación",
+            "Consola Central con Iluminación",
+            "Control de Limpiaparabrisas Variable",
+            "Alfombra de Maletero",
+            "Cubierta del Maletero",
+            "Gancho en Maletero",
+            "Sunroof Panorámico con Cortina y Anti Atrape",
+            "Placa Protectora con Logo MG en Parte Delantera",
+            "Luces de Lectura LED",
+            "Función \"Follow Me Home\"",
+            "Luces de Bienvenida",
+            "Luz de Proyección de Bienvenida",
+            "Luces Ambientales",
+            "Luz en la Guantera",
+            "Luz en Maletero",
+            "Luz de Advertencia de Apagado",
+            "Asiento del Conductor con Memoria",
+            "Asiento del Conductor Ajustable Eléctricamente en 6 Posiciones",
+            "Asiento del Copiloto Ajustable Eléctricamente en 4 Posiciones",
+            "Soporte Lumbar del Asiento del Conductor",
+            "Bolsillo en Asientos Delanteros",
+            "Asientos Traseros Abatibles 60/40",
+            "Apoyabrazos Trasero con Posavasos",
+            "Calefacción de Asientos Delanteros de 3 Niveles",
+            "Asientos de Ecocuero",
+            "Alarma Perimetral",
+            "Alzavidrio de Toque Arriba y Abajo en Todas las Ventanas",
+            "Ventanas con Anti Atrape",
+            "Entrada sin Llave",
+            "Cierre Centralizado",
+            "Desbloqueo Automático",
+            "Bloqueo Automático",
+            "Apertura a Distancia del Maletero",
+            "Puerta del Maletero Eléctrica",
+            "Maletero con Pie Virtual",
+            "Climatizador Automático Bi Zona",
+            "Deempañador Activo",
+            "Volante Ajustable en 4 Posiciones",
+            "Volante con Decoraciones en Cromo",
+            "Volante en Forma D",
+            "Volante de Ecocuero",
+            "Volante Multifunción"
+        ],
+        "exterior": [
+            "Luces LED",
+            "Control Inteligente de Focos (IHC)",
+            "Neblineros LED Traseros",
+            "Luces Día LED",
+            "Luz de Frenado de Emergencia LED",
+            "Luces Traseras LED",
+            "Sensor Crepuscular",
+            "Rieles en el Techo",
+            "Spoiler",
+            "Molduras de Puertas Pulidas",
+            "Embellecedor de Ventana HIGH GLOSS BLACK",
+            "Embellecedor de Carrocería Cromado",
+            "Embellecedor Decorativo Para Parrilla",
+            "Entrada de Aire Lateral",
+            "Limpiaparabrisas Trasero",
+            "Antena Tipo Tiburón",
+            "Vidrios Delanteros Tinteados",
+            "Ventana Frontal Insonorizada de Doble Capa",
+            "Espejos Exteriores con Memoria de Posición y Ajuste de Asiento",
+            "Espejos Exteriores con Inclinación Automática al Dar Marcha Atrás",
+            "Espejos Exteriores con Plegado Eléctrico",
+            "Espejos Exteriores con Luces Indicadoras LED",
+            "Espejos Exteriores con Ajuste Eléctrico",
+            "Espejos Exteriores con Defroster",
+            "Manillas de Puerta Ocultas",
+            "Manillas de Puerta con Expulsión Automática"
+        ],
+        "seguridad": [
+            "Sistema de Control de Estabilidad (ESP)",
+            "Protección Activa Anti Vuelco (ARP)",
+            "Control de Descensos (HDC)",
+            "Sistema de Frenado de Emergencia (EBA)",
+            "Auto Hold",
+            "Freno de Mano Eléctrico",
+            "Sistema de Monitoreo de Presión de Naumáticos",
+            "Tapa del Maletero",
+            "ISOFIX",
+            "Atenuación Automática del Espejo Interior",
+            "Sistema de Alerta Audible del Vehículo (AVAS)",
+            "Sensor de Lluvia",
+            "Reposacabezas Delantero Regulable en Altura",
+            "Ecall",
+            "Airbag del Copiloto con Desactivación",
+            "Airbags Delanteros x2",
+            "Airbags Laterales x2",
+            "Airbags de Cortina x2",
+            "Airbag central lateral x1",
+            "Cinturón de Seguridad de 3 puntas en Todos los Asientos",
+            "Cinturón de Seguridad Delantero Ajustable en Altura",
+            "Cinturón de Seguridad Delantero con Pretensión y Límite de Carga",
+            "Cinturón de Seguridad Trasero con Pretensión Izquierda y Derecha",
+            "Advertencia de Todos los Cinturones de Seguridad",
+            "4 Sensores de Estacionamiento Trasero",
+            "4 Sensores de Estacionamiento Delantero",
+            "Cámara 360"
+        ],
+        "tecnologia": [
+            "Inmobilizador",
+            "Batería con Precalentamiento",
+            "Batería con Líquido Enfriante",
+            "Carga de CA Trifásica (Cargador Integrado de 11 kW)",
+            "Cargador de Casa 220V",
+            "Cable de Carga CA Tipo 2 Modo 3",
+            "Luz Indicadora de Carga",
+            "Frenado Regenerativo (KERS)",
+            "MG Pilot: Control Crucero Adaptativo (ACC)",
+            "MG Pilot: Frenado de Emergencia Autónomo (AEB)",
+            "MG Pilot: Advertencia de Colisión Frontal (FCW)",
+            "MG Pilot: Asistente de Tráfico (TJA)",
+            "MG Pilot: Asistente de Mantenimiento de Carril (LKA)",
+            "MG Pilot: Advertencia Salida de Carril (LDW)",
+            "MG Pilot: Sistema de Alerta de Velocidad (SAS)",
+            "MG Pilot: Reconocimiento de Señales de Tráfico (TSR)",
+            "MG Pilot: Frenado de Colisión Múltiple (MCB)",
+            "MG Pilot: Mantenimiento de Carril de Emergencia (ELK)",
+            "MG Pilot: Monitoreo de Punto Ciego (BSM)",
+            "MG Pilot: Advertencia de Puerta Abierta (DOW)",
+            "MG Pilot: Asistente de Tráfico Trasero (RTA)",
+            "MG Pilot: Advertencia Cambio de Carril (LCW)",
+            "Apple Carplay + Android Auto",
+            "8 Parlantes",
+            "4 USB",
+            "Pantalla Touch de 14\"",
+            "Radio AM+FM",
+            "Bluetooth",
+            "Cargador de Celular Inalámbrico"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "marvel-r.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento presenta una sola versión (DLX). Los ítems marcados con '●' se mapearon a true cuando aplica. Campos no presentes (p.ej., transmisión, combustible, frenos) se dejaron como null. El PDF incluye listados de seguridad, exterior, interior y tecnología sin comparación entre versiones."
+    }
+}

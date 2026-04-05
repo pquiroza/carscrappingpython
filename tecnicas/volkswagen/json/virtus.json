@@ -1,0 +1,153 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Virtus",
+        "año": null,
+        "versiones": [
+            "Comfortline AT Plus"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline AT Plus": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Comfortline AT Plus": 1.0
+        },
+        "potencia_hp": {
+            "Comfortline AT Plus": "109"
+        },
+        "potencia_rpm": {
+            "Comfortline AT Plus": "5.000"
+        },
+        "torque_nm": {
+            "Comfortline AT Plus": "170"
+        },
+        "torque_rpm": {
+            "Comfortline AT Plus": "1.750"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfortline AT Plus": "AT 6"
+        },
+        "traccion": "4X2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfortline AT Plus": "205/55 R16"
+        },
+        "rueda_repuesto": {
+            "Comfortline AT Plus": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4561,
+        "ancho_mm": 1751,
+        "alto_mm": 1477,
+        "distancia_ejes_mm": 2651,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 521,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline AT Plus": "12,9"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline AT Plus": "16,5"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline AT Plus": "19,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación 16\"",
+            "Neumáticos 205/55 R16",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Luces diurnas LED (DRL)",
+            "Neblineros delanteros",
+            "Retrovisores exteriores ajustables eléctricamente",
+            "Retrovisores exteriores con señalizador",
+            "Función Leaving and Coming Home"
+        ],
+        "interior": [
+            "Reposabrazos central delantero",
+            "Asiento conductor con ajuste en altura",
+            "Asientos traseros abatibles",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Tapizado de asientos Cuero Sintético",
+            "Salida de aire trasera",
+            "Palanca de cambio en cuero",
+            "Espejo retrovisor interior antideslumbrante automático",
+            "Volante ajustable en altura y profundidad",
+            "Volante multifunción en cuero con levas de cambio"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema de regulación del motor (MSR)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Control electrónico de tracción (ASR)",
+            "Bloqueo electrónico del diferencial (EDS)",
+            "Asistente para arranque en pendientes",
+            "Front Assist: Frenado automático de emergencia",
+            "Anclaje para 2 asientos de niños. Sistema ISOFIX",
+            "Inmovilizador electrónico",
+            "Rueda de repuesto",
+            "Indicador de presión de los neumáticos",
+            "Detector de fatiga"
+        ],
+        "tecnologia": [
+            "Alarma volumétrica",
+            "Cierre centralizado con control remoto",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Cargador inalámbrico",
+            "Control de Velocidad Crucero Adaptativo (ACC)",
+            "Radio Touch 10\" con Wireless App Connect",
+            "Parlantes (6)",
+            "Active Info Display 10,25\"",
+            "Climatizador automático \"Climatronic\"",
+            "Keyless Entry y botón de encendido",
+            "Cámara de retroceso",
+            "Sensor de lluvia"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Candy",
+        "Gris Platino",
+        "Plata Sirius",
+        "Azul Viscaya"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=Disponible, -=No disponible; valores exactos del documento).",
+        "fuente": "Ficha-Nuevo-Virtus-T3BIN70.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajeron todos los datos técnicos (incluyendo normativa de emisión Tier 3 Bin 70, consumo homologado y garantía), dimensiones, equipamiento completo y colores exactamente como figuran en la ficha."
+    }
+}

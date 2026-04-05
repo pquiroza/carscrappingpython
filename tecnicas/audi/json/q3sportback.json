@@ -1,0 +1,199 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "Q3 Sportback",
+        "año": null,
+        "versiones": [
+            "35 TFSI",
+            "35 TFSI MY26",
+            "35 TFSI S line",
+            "35 TFSI S line MY26"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "35 TFSI": "1.4 TFSI",
+            "35 TFSI MY26": "1.5 TFSI",
+            "35 TFSI S line": "1.4 TFSI",
+            "35 TFSI S line MY26": "1.5 TFSI"
+        },
+        "cilindrada": {
+            "35 TFSI": null,
+            "35 TFSI MY26": null,
+            "35 TFSI S line": null,
+            "35 TFSI S line MY26": null
+        },
+        "potencia_hp": {
+            "35 TFSI": "150",
+            "35 TFSI MY26": "150",
+            "35 TFSI S line": "150",
+            "35 TFSI S line MY26": "150"
+        },
+        "potencia_rpm": {
+            "35 TFSI": "5000-6000",
+            "35 TFSI MY26": "5000-6000",
+            "35 TFSI S line": "5000-6000",
+            "35 TFSI S line MY26": "5000-6000"
+        },
+        "torque_nm": {
+            "35 TFSI": "250",
+            "35 TFSI MY26": "250",
+            "35 TFSI S line": "250",
+            "35 TFSI S line MY26": "250"
+        },
+        "torque_rpm": {
+            "35 TFSI": "1500-3500",
+            "35 TFSI MY26": "1500-3500",
+            "35 TFSI S line": "1500-3500",
+            "35 TFSI S line MY26": "1500-3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "35 TFSI": "S tronic 6 velocidades",
+            "35 TFSI MY26": "S tronic 7 velocidades",
+            "35 TFSI S line": "S tronic 6 velocidades",
+            "35 TFSI S line MY26": "S tronic 7 velocidades"
+        },
+        "traccion": {
+            "35 TFSI": "Delantera",
+            "35 TFSI MY26": "Delantera",
+            "35 TFSI S line": "Delantera",
+            "35 TFSI S line MY26": "Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "ABS",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "35 TFSI": "235/55 R18”",
+            "35 TFSI MY26": "235/55 R18”",
+            "35 TFSI S line": "235/50 R19”",
+            "35 TFSI S line MY26": "235/50 R19”"
+        },
+        "rueda_repuesto": "Rueda de repuesto y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4500,
+        "ancho_mm": 2022,
+        "alto_mm": 1567,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1570,
+        "capacidad_maletero_lts": "530 / 1400",
+        "capacidad_estanque_lts": 58,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento [km/l]*",
+            "35 TFSI": "14,1",
+            "35 TFSI MY26": "14,1",
+            "35 TFSI S line": "14,1",
+            "35 TFSI S line MY26": "14,1"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "35 TFSI": "9,6 seg",
+            "35 TFSI MY26": "9,6 seg",
+            "35 TFSI S line": "9,6 seg",
+            "35 TFSI S line MY26": "9,6 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "35 TFSI": "210 km/h",
+            "35 TFSI MY26": "210 km/h",
+            "35 TFSI S line": "210 km/h",
+            "35 TFSI S line MY26": "210 km/h"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "35 TFSI": true,
+                "35 TFSI MY26": true,
+                "35 TFSI S line": true,
+                "35 TFSI S line MY26": true
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "35 TFSI": "LED con asistencia de luces de carretera",
+                "35 TFSI MY26": "LED con asistencia de luces de carretera",
+                "35 TFSI S line": "LED con asistencia de luces de carretera y lavafaros",
+                "35 TFSI S line MY26": "LED con asistencia de luces de carretera y lavafaros"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "35 TFSI": "Halógenos",
+                "35 TFSI MY26": "Halógenos",
+                "35 TFSI S line": "LED con indicador dinámico",
+                "35 TFSI S line MY26": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Paquete de diseño",
+                "35 TFSI": "No",
+                "35 TFSI MY26": "No",
+                "35 TFSI S line": "S Line. Black Package: Parrilla frontal y detalles exteriores en negro.",
+                "35 TFSI S line MY26": "S Line. Black Package: Parrilla frontal y detalles exteriores en negro."
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sistema de sonido",
+                "35 TFSI": "Basic Plus 6 parlantes - 80 W",
+                "35 TFSI MY26": "Basic Plus 6 parlantes - 80 W",
+                "35 TFSI S line": "Audi Sound System 10 altavoces + subwoofer – 180W",
+                "35 TFSI S line MY26": "Audi Sound System 10 altavoces + subwoofer – 180W"
+            },
+            {
+                "caracteristica": "Soporte lumbar",
+                "35 TFSI": false,
+                "35 TFSI MY26": false,
+                "35 TFSI S line": true,
+                "35 TFSI S line MY26": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            "Airbags frontales, laterales delanteros y de cortina",
+            "Anclaje para asientos traseros ISOFIX y Top Tether",
+            "Aviso de presión de neumáticos",
+            "Control crucero con limitador de velocidad",
+            "Retrovisor interior con función antideslumbrante automática",
+            "Sensor lluvia y luz",
+            "Asistente de mantenimiento de carril y Attention Assist",
+            "Control electrónico de estabilidad"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Glaciar",
+        "Plata Rocío",
+        "Plata Florete",
+        "Azul Navarra",
+        "Gris Chrono",
+        "Gris Nano",
+        "Gris Daytona",
+        "Negro Mitos"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de fichas técnicas Audi por versión (texto literal del PDF)",
+        "fuente": "Q3-Sportback-35-TFSI.pdf + MY26 + S line + S line MY26",
+        "versiones_en_documento": 4,
+        "notas": "Consolidación de 4 fichas individuales del modelo Q3 Sportback."
+    }
+}

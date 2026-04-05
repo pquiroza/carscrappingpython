@@ -1,0 +1,123 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 4 PRO MAX",
+        "año": null,
+        "versiones": [
+            "1_5_MT_GLS"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5L",
+        "combustible": "Gasolina",
+        "cilindrada": "1499",
+        "potencia_hp": "114",
+        "potencia_rpm": "6150",
+        "torque_nm": "143",
+        "torque_rpm": "4000",
+        "modos_conduccion": "NORMAL",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "tipo": "MT 5",
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Independiente con barra de torsión",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true
+    },
+    "dimensiones": {
+        "plazas": 5,
+        "largo_mm": "4320",
+        "ancho_mm": "1831",
+        "alto_mm": "1652",
+        "distancia_ejes_mm": "2610",
+        "capacidad_maletero_lts": "340",
+        "capacidad_estanque_lts": "51"
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Aire acondicionado con encendido a distancia",
+            "Botón de encendido",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Cierre centralizado",
+            "Indicador de mantención",
+            "Computador a bordo",
+            "Tapiz ecocuero",
+            "Cubre portaequipajes",
+            "Asiento trasero abatible 60/40",
+            "Asiento conductor ajuste manual",
+            "Asiento copiloto ajuste manual",
+            "Volante regulable en altura",
+            "Volante multifunción cuero",
+            "Control crucero",
+            "Radio 6 parlantes",
+            "Puertos USB delanteros y traseros",
+            "Pantalla 10.25\"",
+            "Bluetooth",
+            "Apple CarPlay + Android Auto inalámbrico",
+            "Luz lectura mapas",
+            "Parasoles con espejo",
+            "Espejo retrovisor antireflejo",
+            "Porta anteojos",
+            "Regulador altura faros",
+            "Panel instrumentos 10.25\" color"
+        ],
+        "exterior": [
+            "Espejos eléctricos",
+            "Espejos abatibles manuales",
+            "Señalizadores en espejos",
+            "Cierre remoto",
+            "Follow me home",
+            "Limpia luneta",
+            "Faros automáticos",
+            "Luz diurna LED",
+            "Luz LED trasera",
+            "Neblineros traseros",
+            "Spoiler",
+            "Sensor estacionamiento trasero",
+            "Cámara retroceso con guías",
+            "Barras techo",
+            "Llantas aleación 17\"",
+            "Neumáticos 215/60 R17",
+            "Repuesto temporal"
+        ],
+        "seguridad": [
+            "Sistema antirrobo",
+            "Inmovilizador",
+            "Alarma",
+            "Recordatorio límite velocidad",
+            "Apoya cabezas delanteros y traseros",
+            "Airbags delanteros",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ESP",
+            "HHC",
+            "EBA",
+            "TCS",
+            "TPMS",
+            "Cinturones pretensionados",
+            "Limitador de fuerza",
+            "Bloqueo emergencia trasero",
+            "Advertencia cinturón conductor",
+            "Advertencia cinturón copiloto",
+            "Advertencia cinturón segunda fila",
+            "Parachoques absorción impacto",
+            "ISOFIX",
+            "Seguro niños puertas traseras"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 4 Pro Max",
+        "versiones_en_documento": 1,
+        "notas": "Datos tomados literalmente de la tabla técnica."
+    }
+}

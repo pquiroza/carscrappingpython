@@ -1,0 +1,296 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "OKAVANGO",
+        "año": 2025,
+        "versiones": [
+            "EXCLUSIVE",
+            "SIGNATURE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EXCLUSIVE": "2,0T / 4 cilindros en línea",
+            "SIGNATURE": "2,0T / 4 cilindros en línea"
+        },
+        "cilindrada": {
+            "EXCLUSIVE": 1969,
+            "SIGNATURE": 1969
+        },
+        "potencia_hp": {
+            "EXCLUSIVE": "218",
+            "SIGNATURE": "218"
+        },
+        "potencia_rpm": {
+            "EXCLUSIVE": "5500",
+            "SIGNATURE": "5500"
+        },
+        "torque_nm": {
+            "EXCLUSIVE": "235",
+            "SIGNATURE": "235"
+        },
+        "torque_rpm": {
+            "EXCLUSIVE": "2000 - 3500",
+            "SIGNATURE": "2000 - 3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "EXCLUSIVE": "7DCT",
+            "SIGNATURE": "7DCT"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "EPS (Electric Power Steering) dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión independiente McPherson (barr estabilizadora)",
+        "suspension_trasera": "Suspensión independiente multibrazo(barr estabilizadora)",
+        "frenos_delanteros": "Disco de freno ventilado",
+        "frenos_traseros": "Disco de freno sólido",
+        "freno_estacionamiento": "Freno de mano eléctrico con función Auto Hold",
+        "neumaticos": {
+            "EXCLUSIVE": "235 / 50R19",
+            "SIGNATURE": "235 / 50R19"
+        },
+        "rueda_repuesto": "Neumáticos de repuesto T125/80D17 temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4860,
+        "ancho_mm": 1910,
+        "alto_mm": 1770,
+        "distancia_ejes_mm": 2825,
+        "despeje_suelo_mm": 184,
+        "peso_bruto_kg": {
+            "EXCLUSIVE": 1780,
+            "SIGNATURE": 1780
+        },
+        "capacidad_maletero_lts": "227 - 2360",
+        "capacidad_estanque_lts": 60,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo carretera / ciudad / mixto (km/lt)",
+            "EXCLUSIVE": "7,7",
+            "SIGNATURE": "7,7"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "EXCLUSIVE": "7,9",
+            "SIGNATURE": "7,9"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "EXCLUSIVE": "200",
+            "SIGNATURE": "200"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Portalón trasero eléctrico con función antipinzamineto",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas sin marco con sensor de lluvia",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento conductor con memoría",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asiento copiloto con ajuste eléctrico en 4 posiciones",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de cortina",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Cámara 360° (visión panorámica)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control inteligente de luces altas (IHBC)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (AEB)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Sistema de mantenimiento de carril (LKS)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Prevención de saluda de carril (LDW)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico denso (TJA)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril de emergencia (ELKA)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Detección de punto ciego (BSD)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de apertura de puertas (DOW)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril (LCA)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de colisión trasera (RCW)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Tablero de instrumentos 3,5” - display segmentado",
+                "EXCLUSIVE": true,
+                "SIGNATURE": false
+            },
+            {
+                "caracteristica": "Tablero de instrumentos 10,25” - LCD",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Focos delanteros LED con encendido / apagado automático",
+            "Focos delanteros LED con función Follow-me Home",
+            "Luces diurnas LED (DRL)",
+            "Luces interminentes y traseras LED",
+            "Tercera luz de freno (LED)",
+            "Barras de techo",
+            "Antena tipo aleta de tiburón",
+            "Doble salida de escape a ambos lados",
+            "Techo panorámico eléctrico con cortina eléctrica",
+            "Espejos exteriores con ajuste eléctrico",
+            "Espejos exteriores abatibles eléctrico",
+            "Espejos exteriores calefaccionados",
+            "Llantas de aleación de aluminio 19”"
+        ],
+        "interior": [
+            "Volante multifunción",
+            "Volante con ajuste manual en 4 posiciones",
+            "Tapiz PVC microperforado (con costuras deportivas)",
+            "Asiento conductor con ajuste eléctrico en 6 posiciones",
+            "Apoyacabezas delantero/trasero con ajuste 2 posiciones",
+            "Apoyacabezas central trasero",
+            "2° fila: 3 asientos plegables",
+            "3° fila: 2 asientos plegables",
+            "Resplado 2° fila abatible con un toque (manual)",
+            "Asientos traseros con plegado total",
+            "ISOFIX",
+            "Revestimiento de puertas en cuero sintético",
+            "Parasoles delanteros con espejo de corteía",
+            "Alzavidrios eléctricos delanteros y traseros onte-touch",
+            "Entrada Keyless y botón de encendido",
+            "Climatizador automático bi-zona",
+            "Salidas de aire 2° y 3° fila",
+            "Filtro de aire CN95"
+        ],
+        "seguridad": [
+            "Control crucero",
+            "Sistema de freno antibloqueo (ABS)",
+            "Distribución electrónica de frenado (EBD)",
+            "Asistente de frenado (BA)",
+            "Control tracción (TCS)",
+            "Control electrónico de estabilidad Bosch (ESP)",
+            "Asistente de partida en pendiente (HAC)",
+            "Control de descenso en pendiente (HDC)",
+            "Programa antivuelco (ARP)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Airbags frontales para conductor y copiloto",
+            "Airbags laterales en asientos para conductor y copiloto",
+            "Sistema de corte por colisión",
+            "Recordatorio de cinturón delantero",
+            "Alerta de exceso de velocidad (sonora)",
+            "Cinturones 1°fila sin limitador de carga",
+            "Cinturones laterales 2° fila sin limitador de carga",
+            "Cinturon central 2°fila sin limitador de carga",
+            "Sesores de estacionamiento traseros",
+            "Cierre automático en movimiento",
+            "Seguros para niños",
+            "Desbloqueo de puertas por detencción de impacto",
+            "Inmovilizador electrónico",
+            "Sistema electrónico antirrobo del vehículo",
+            "Sistema antirrobo de capot"
+        ],
+        "tecnologia": [
+            "Pantalla táctil 12,3”",
+            "USB x4 (Tipo A)",
+            "Toma de 12 V - 1° fila y maletero",
+            "Apple CarPlay",
+            "Smartphone mirrorlink"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "OKAVANGO-FICHA-TECNICA-2-1.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se consolidaron las múltiples tablas del documento en el mismo formato JSON usado anteriormente. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

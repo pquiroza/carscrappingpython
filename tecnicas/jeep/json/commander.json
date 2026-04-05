@@ -1,0 +1,177 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Commander",
+        "año": null,
+        "versiones": [
+            "LIMITED",
+            "OVERLAND"
+        ]
+    },
+    "motor": {
+        "tipo": "Turbo Gasolina",
+        "cilindrada": "1332 cc",
+        "disposicion_cilindros": "4 cilindros en línea",
+        "potencia_hp": "175 CV (129 kW)",
+        "potencia_rpm": null,
+        "torque_nm": "270 Nm",
+        "torque_rpm": null,
+        "combustible": "Gasolina",
+        "transmision": "AT6",
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson con brazos oscilantes inferiores, amortiguadores hidráulicos y barra estabilizadora",
+        "suspension_trasera": "Independiente tipo McPherson con brazos transversales y barra estabilizadora",
+        "neumaticos": {
+            "LIMITED": "235/55R18",
+            "OVERLAND": "235/50R19"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "numero_plazas": 7,
+        "capacidad_tanque_lts": 61,
+        "capacidad_baul_normal_lts": 233,
+        "capacidad_baul_3ra_fila_rebatida_lts": 661,
+        "capacidad_baul_2da_3ra_rebatidas_lts": 1760,
+        "peso_bruto_kg": {
+            "LIMITED": 2221,
+            "OVERLAND": 2255
+        },
+        "distancia_ejes_mm": 2794,
+        "alto_mm": 1700,
+        "largo_mm": 4769,
+        "ancho_mm": 1859,
+        "despeje_suelo_mm": {
+            "LIMITED": 209,
+            "OVERLAND": 208
+        }
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "LIMITED": "R18\"",
+            "OVERLAND": "R19\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "LIMITED": 2221,
+            "OVERLAND": 2255
+        }
+    ],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asientos tapizados en cuero",
+                "LIMITED": "Color negro",
+                "OVERLAND": "Color marrón"
+            },
+            {
+                "caracteristica": "Asiento conductor con memoria",
+                "LIMITED": false,
+                "OVERLAND": true
+            },
+            {
+                "caracteristica": "Techo interior color negro",
+                "LIMITED": false,
+                "OVERLAND": true
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "LIMITED": "6 parlantes",
+                "OVERLAND": "Premium Harman Kardon"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Detalles exteriores color carrocería",
+                "LIMITED": true,
+                "OVERLAND": false
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "LIMITED": false,
+                "OVERLAND": true
+            }
+        ],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "7 airbags",
+            "Asistencia de frenado de emergencia (PBA)",
+            "Control de velocidad crucero adaptativa (ACC)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Asistente de centrado de carril (Active Driving Assist)",
+            "Monitor de punto ciego (BSD)",
+            "Detección de fatiga del conductor (DDD)",
+            "Sensor de estacionamiento ParkSense",
+            "Reconocimiento de señales de tránsito (TSR)",
+            "Jeep Traction Control+",
+            "Fijación de asientos para niños (ISOFIX)",
+            "Detector de colisión"
+        ],
+        "interior": [
+            "Volante tapizado en cuero",
+            "Volante regulable",
+            "Comandos al volante",
+            "Levas al volante",
+            "Tres filas de asientos",
+            "Asiento conductor con regulación eléctrica 8 direcciones",
+            "Asiento pasajero con regulación manual 4 direcciones",
+            "Segunda fila bipartida reclinable (14 cm recorrido)",
+            "Tercera fila reclinable",
+            "Apoyabrazos central delantero",
+            "Freno de estacionamiento electrónico",
+            "Encendido por botón (Keyless Enter-N-Go)",
+            "Pantalla tablero TFT 10.25\"",
+            "Espejo retrovisor electrocrómico",
+            "Climatizador dual",
+            "Salidas ventilación plazas traseras",
+            "Tomacorriente 12V",
+            "Alfombras interiores"
+        ],
+        "exterior": [
+            "Rueda de auxilio temporal",
+            "Barras longitudinales portaequipaje",
+            "Repetidor LED en espejos",
+            "Espejos laterales plegables eléctricamente",
+            "Faros antiniebla LED",
+            "Faros delanteros Bi-LED",
+            "Faros traseros LED",
+            "Techo bitono negro"
+        ],
+        "tecnologia": [
+            "Cierre centralizado sensible a la velocidad",
+            "Uconnect pantalla táctil 10.1\"",
+            "Conectividad USB A-C",
+            "Apple CarPlay / Android Auto inalámbrico",
+            "Pad carga inalámbrica",
+            "Cámara retroceso ParkView",
+            "Función Auto Hold",
+            "Sistema automático luces altas",
+            "Sistema control presión neumáticos (TPM)",
+            "Detector de pasajeros",
+            "Park Assist semi-automático",
+            "Encendido remoto",
+            "Apertura maletero eléctrica",
+            "Sensor de lluvia"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 1 y 2",
+        "fuente": "FT-COMMANDER.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exclusivamente desde las tablas visuales del documento."
+    }
+}

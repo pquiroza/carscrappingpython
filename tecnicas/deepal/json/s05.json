@@ -1,0 +1,470 @@
+{
+    "vehiculo": {
+        "marca": "Deepal",
+        "modelo": "S05",
+        "año": null,
+        "versiones": [
+            "S05 REEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "S05 REEV": "Range Extender (REEV)"
+        },
+        "cilindrada": {
+            "S05 REEV": 1497
+        },
+        "potencia_hp": {
+            "S05 REEV": "72 kW (combustión) / 160 kW (eléctrico)"
+        },
+        "potencia_rpm": {
+            "S05 REEV": null
+        },
+        "torque_nm": {
+            "S05 REEV": "125 (combustión) / 320 (eléctrico)"
+        },
+        "torque_rpm": {
+            "S05 REEV": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "S05 REEV": "Automática"
+        },
+        "traccion": "Trasera"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Suspensión Multi-Link Independiente",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": "Automático (APB)",
+        "neumaticos": {
+            "S05 REEV": "245/45 R20"
+        },
+        "rueda_repuesto": "Kit antipinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 4620,
+        "ancho_mm": 1900,
+        "alto_mm": 1600,
+        "distancia_ejes_mm": 2880,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2270,
+        "capacidad_maletero_lts": 423,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Tiempo de aceleración de 0 a 100 KM (s)",
+            "S05 REEV": "7,9"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "S05 REEV": "175"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica pura NEDC (km)",
+            "S05 REEV": "160"
+        },
+        {
+            "caracteristica": "NEDC Range batería (Km)",
+            "S05 REEV": "160 Km"
+        },
+        {
+            "caracteristica": "NEDC Range combustión (Km)",
+            "S05 REEV": "969 Km"
+        },
+        {
+            "caracteristica": "NEDC Range combinado (Km)",
+            "S05 REEV": "1.129 Km"
+        },
+        {
+            "caracteristica": "Carga media hasta 7 kW",
+            "S05 REEV": "≤4 hrs"
+        },
+        {
+            "caracteristica": "Carga rápida hasta 151 kW",
+            "S05 REEV": "11 min."
+        },
+        {
+            "caracteristica": "Rendimiento eléctrico ponderado (km/kWh)",
+            "S05 REEV": "4,5"
+        },
+        {
+            "caracteristica": "Rendimiento combustible ponderado (km/L)",
+            "S05 REEV": "100"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo solar",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Portalón automático",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Función \"Follow Me Home\"",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Luz trasera antiniebla",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Cámaras exteriores",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Plumillas con sensor de lluvia",
+                "S05 REEV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Salida de aire en plazas traseras",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Pantalla infroentretenimiento",
+                "S05 REEV": "15,4\""
+            },
+            {
+                "caracteristica": "Cargador inalámbrico rápido (50 W)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "S05 REEV": "Ecocuero"
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "S05 REEV": "6 Posiciones"
+            },
+            {
+                "caracteristica": "Asiento acompañante eléctrico",
+                "S05 REEV": "4 Posiciones"
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento",
+                "S05 REEV": "Automático"
+            },
+            {
+                "caracteristica": "Alzavidrios delanteros/traseros",
+                "S05 REEV": "Electrónico One Touch"
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Luz LED en maletero",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Volante ajustable",
+                "S05 REEV": "4 posiciones"
+            },
+            {
+                "caracteristica": "Sistema de audio de alta fidelidad",
+                "S05 REEV": "8 altavoces"
+            },
+            {
+                "caracteristica": "Entradas USB",
+                "S05 REEV": "2 / trasero - delantero"
+            },
+            {
+                "caracteristica": "Entrada Tipo C",
+                "S05 REEV": "1 / trasero"
+            },
+            {
+                "caracteristica": "Enfriador y calefactor de asiento",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Asiento gravedad cero copiloto",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Tomacorriente maletero 12V",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Apoya brazos central con portavasos",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Tapa cubre motor delantera plástica",
+                "S05 REEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "6 airbags (frontal, lateral y de cortina)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Inmobilizador antirrobo",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Asistencia de arranque en pendiente (HHC)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Asistencia de frenado (BA)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Cámara 360° (visión 540°) con simulación 3D",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Control de descenso en pendiente (HDC)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Distribución eléctrica de frenada (EBD)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Freno de mano automático (APB)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Retención automática del vehículo (AVH)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Seguro de niño electrónico",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Modos de manejo (4)",
+                "S05 REEV": "Eco / Normal / Sport / Personalizable"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento (n°)",
+                "S05 REEV": 6
+            },
+            {
+                "caracteristica": "Sistema de alerta acústica de vehículo (AVAS)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Sistema ISOFIX (X2)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en velocidad",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Desbloqueo automático de puertas por colisión",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad frontales y traseros de 3 puntas",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Alerta de cinturones desabrochados (5)",
+                "S05 REEV": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Advertencia colisión frontal (FCW)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Sistema de reconocimiento de señalética (TSR)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (peatones, ciclistas) (AEB)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Alerta de salida de carril (LDW)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Centrado de carril (LCC)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Asistente de tráfico (TJA)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Luces automáticas de emergencia (HBA)",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Detector punto ciego (BSD)",
+                "S05 REEV": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Control por voz",
+                "S05 REEV": "Español"
+            },
+            {
+                "caracteristica": "Sistema de partida inteligente sin botón de encendido",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Entrada y salida con mando a distancia",
+                "S05 REEV": true
+            },
+            {
+                "caracteristica": "Conector de carga",
+                "S05 REEV": "Tipo 2 / CCS2"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Techo solar",
+            "Portalón automático",
+            "Espejos laterales abatibles",
+            "Luces diurnas (DRL)",
+            "Función \"Follow Me Home\"",
+            "Luces traseras LED",
+            "Luces delanteras LED",
+            "Luz trasera antiniebla",
+            "Cámaras exteriores",
+            "Plumillas con sensor de lluvia"
+        ],
+        "interior": [
+            "Climatizador",
+            "Salida de aire en plazas traseras",
+            "Pantalla infroentretenimiento 15,4\"",
+            "Cargador inalámbrico rápido (50 W)",
+            "Tapiz Ecocuero",
+            "Asiento conductor eléctrico 6 Posiciones",
+            "Asiento acompañante eléctrico 4 Posiciones",
+            "Espejo retrovisor antiencandilamiento Automático",
+            "Alzavidrios delanteros/traseros Electrónico One Touch",
+            "Head Up Display",
+            "Luz LED en maletero",
+            "Volante ajustable 4 posiciones",
+            "Sistema de audio de alta fidelidad 8 altavoces",
+            "Entradas USB 2 / trasero - delantero",
+            "Entrada Tipo C 1 / trasero",
+            "Enfriador y calefactor de asiento",
+            "Asiento gravedad cero copiloto",
+            "Tomacorriente maletero 12V",
+            "Apoya brazos central con portavasos",
+            "Tapa cubre motor delantera plástica"
+        ],
+        "seguridad": [
+            "6 airbags (frontal, lateral y de cortina)",
+            "Inmobilizador antirrobo",
+            "Asistencia de arranque en pendiente (HHC)",
+            "Asistencia de frenado (BA)",
+            "Cámara 360° (visión 540°) con simulación 3D",
+            "Control crucero adaptativo",
+            "Control de descenso en pendiente (HDC)",
+            "Control de estabilidad (ESP)",
+            "Distribución eléctrica de frenada (EBD)",
+            "Freno de mano automático (APB)",
+            "Retención automática del vehículo (AVH)",
+            "Seguro de niño electrónico",
+            "Modos de manejo (4): Eco / Normal / Sport / Personalizable",
+            "Sensores de estacionamiento (6)",
+            "Sistema de alerta acústica de vehículo (AVAS)",
+            "Sistema de control de tracción (TCS)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Sistema ISOFIX (X2)",
+            "Bloqueo automático de puertas en velocidad",
+            "Desbloqueo automático de puertas por colisión",
+            "Cinturones de seguridad frontales y traseros de 3 puntas",
+            "Alerta de cinturones desabrochados (5)"
+        ],
+        "tecnologia": [
+            "Control por voz (Español)",
+            "Sistema de partida inteligente sin botón de encendido",
+            "Entrada y salida con mando a distancia",
+            "Conector de carga Tipo 2 / CCS2"
+        ],
+        "adas": [
+            "Advertencia colisión frontal (FCW)",
+            "Sistema de reconocimiento de señalética (TSR)",
+            "Frenado autónomo de emergencia (peatones, ciclistas) (AEB)",
+            "Alerta de salida de carril (LDW)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Asistente de cambio de carril",
+            "Centrado de carril (LCC)",
+            "Asistente de tráfico (TJA)",
+            "Luces automáticas de emergencia (HBA)",
+            "Detector punto ciego (BSD)"
+        ]
+    },
+    "colores": [
+        "Azul",
+        "Blanco",
+        "Gris",
+        "Negro",
+        "Plata"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-23",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Deepal (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica_deepal_s05.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información visible del documento para la versión S05 REEV, incluyendo especificaciones generales, batería, autonomía, equipamiento exterior, interior, seguridad e inteligente."
+    }
+}

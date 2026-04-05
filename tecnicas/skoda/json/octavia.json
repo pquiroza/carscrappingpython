@@ -1,0 +1,149 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Nuevo Octavia",
+        "año": null,
+        "versiones": [
+            "Design 1.5 mHEV TSI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Design 1.5 mHEV TSI": "1.5 TSI Mild-Hybrid"
+        },
+        "cilindrada": {
+            "Design 1.5 mHEV TSI": "1.5"
+        },
+        "potencia_hp": {
+            "Design 1.5 mHEV TSI": "150"
+        },
+        "potencia_rpm": {
+            "Design 1.5 mHEV TSI": "5.000-6.000"
+        },
+        "torque_nm": {
+            "Design 1.5 mHEV TSI": "250"
+        },
+        "torque_rpm": {
+            "Design 1.5 mHEV TSI": "1.500-3.500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Design 1.5 mHEV TSI": "DSG 7 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con brazos triangulares inferiores y estabilizador de torsión",
+        "suspension_trasera": "Eje rígido con barra de torsión",
+        "frenos_delanteros": "Freno de disco delantero y trasero",
+        "frenos_traseros": "Freno de disco delantero y trasero",
+        "freno_estacionamiento": "Freno de mano electrónico",
+        "neumaticos": {
+            "Design 1.5 mHEV TSI": "Lerna R18” 225/45 91Y"
+        },
+        "rueda_repuesto": "Rueda de repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4698,
+        "ancho_mm": 2003,
+        "alto_mm": 1470,
+        "distancia_ejes_mm": 2686,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "600 / 1.555",
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "Design 1.5 mHEV TSI": "18,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros LED con asistente de luces en carretera",
+            "Faros traseros LED con indicador dinámico",
+            "Llantas de aleación/Neumáticos Lerna R18” 225/45 91Y",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Limpiaparabrisas trasero",
+            "Retrovisores exteriores eléctricos, calefactados y abatibles eléctricamente",
+            "Regulación automática de altura de luces",
+            "Preparación para tiro de arrastre",
+            "Vidrios traseros tinteados"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos con interruptor confort y limitador de fuerza",
+            "Alfombrillas en la parte delantera y trasera",
+            "Apoyabrazos central delantero",
+            "Asientos delanteros Comfort",
+            "Asientos delanteros con ajuste de altura y soporte lumbar manual",
+            "Inserciones interiores Silver Squares Haptik",
+            "Maletero iluminado con compartimentos de almacenaje y redes",
+            "Retrovisor interior con función antideslumbrante",
+            "Tapizado en Tela",
+            "Virtual Cockpit de 10”",
+            "Volante regulable en altura y profundidad",
+            "Volante multifunción en cuero con levas de cambio"
+        ],
+        "seguridad": [
+            "8 Airbags: frontales, de rodilla para el conductor, laterales delanteros, delantero central, y de cortina",
+            "Anclaje para asientos de niños",
+            "Alarma antirrobos con protección de remolque",
+            "Aviso de cinturón de seguridad – Asientos delanteros y traseros",
+            "Aviso de presión de neumáticos",
+            "Bloqueo electrónico de diferencial (EDS)",
+            "Control de tracción electrónico (ASR)",
+            "Control de asistencia para arranque en pendiente",
+            "Driver Alert: Detector de fatiga del conductor",
+            "Inmovilizador electrónico",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema de regulación del motor (MSR)",
+            "Sistema electrónico de estabilización (ESP)",
+            "Front Assist: Radar con función frenado de emergencia"
+        ],
+        "tecnologia": [
+            "Cámara de retroceso",
+            "Carga inalámbrica para smartphones*",
+            "Climatizador \"Climatronic\" de 2 zonas",
+            "Control de velocidad crucero con limitador de velocidad",
+            "Entradas USB-C",
+            "Pantalla infotainment Touchscreen 10”",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Sensor de luz y lluvia",
+            "Sistema Start-Stop con recuperación de energía",
+            "Sistema de sonido 8 altavoces",
+            "Smart Link Android Auto y Apple CarPlay"
+        ],
+        "adas": [
+            "Driver Alert: Detector de fatiga del conductor",
+            "Front Assist: Radar con función frenado de emergencia"
+        ]
+    },
+    "colores": [
+        "Negro Metálico",
+        "Gris Grafito",
+        "Gris Acero",
+        "Plata Brillante",
+        "Azul Carrera",
+        "Rojo Velvet",
+        "Blanco Glaciar"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (●=presente; 〇/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Octavia-MY26.pdf",
+        "versiones_en_documento": 1,
+        "notas": "En el PDF aparece la leyenda ‘● = De serie’ y ‘◎ = No disponible’. En dimensiones, el ancho se muestra como ‘2.003’ en la tabla (sin el valor alternativo de ‘incluyendo espejos’ detallado en texto)."
+    }
+}

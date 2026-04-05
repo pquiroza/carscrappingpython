@@ -1,0 +1,349 @@
+{
+    "vehiculo": {
+        "marca": "MITSUBISHI",
+        "modelo": "ECLIPSE CROSS",
+        "año": null,
+        "versiones": [
+            "RX",
+            "RT",
+            "RS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "RX": "1,5 Lts 16-Válvulas MIVEC TURBO CARGADOR",
+            "RT": "1,5 Lts 16-Válvulas MIVEC TURBO CARGADOR",
+            "RS": "1,5 Lts 16-Válvulas MIVEC TURBO CARGADOR"
+        },
+        "cilindrada": {
+            "RX": 1449,
+            "RT": 1449,
+            "RS": 1449
+        },
+        "potencia_hp": {
+            "RX": "147",
+            "RT": "147",
+            "RS": "147"
+        },
+        "potencia_rpm": {
+            "RX": "5500",
+            "RT": "5500",
+            "RS": "5500"
+        },
+        "torque_nm": {
+            "RX": "250",
+            "RT": "250",
+            "RS": "250"
+        },
+        "torque_rpm": {
+            "RX": "2000",
+            "RT": "2000",
+            "RS": "2000"
+        },
+        "combustible": "Bencina",
+        "transmision": {
+            "RX": "CVT",
+            "RT": "CVT",
+            "RS": "CVT con Sport Mode"
+        },
+        "traccion": {
+            "RX": "2WD",
+            "RT": "2WD",
+            "RS": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson, con espirales y barra estabilizadora",
+        "suspension_trasera": "Multi Link, con espirales y barra estabilizadora",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "RX": "225/55R18",
+            "RT": "225/55R18",
+            "RS": "225/55R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4545,
+        "ancho_mm": 1805,
+        "alto_mm": 1685,
+        "distancia_ejes_mm": 2670,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 437,
+        "capacidad_estanque_lts": 60,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo km/l (Ciudad / Carretera / Mixto)",
+            "RX": "10,2 / 15,4 / 13",
+            "RT": "10,2 / 15,4 / 13",
+            "RS": "10,2 / 15,4 / 13"
+        },
+        {
+            "caracteristica": "Norma de emisiones",
+            "RX": "EURO VI",
+            "RT": "EURO VI",
+            "RS": "EURO VI"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (Kg)",
+            "RX": "1480",
+            "RT": "1480",
+            "RS": "1480"
+        },
+        {
+            "caracteristica": "Capacidad maletero con corrida de asientos replegada (l)",
+            "RX": "1074",
+            "RT": "1074",
+            "RS": "1074"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores eléctricos",
+                "RX": true,
+                "RT": true,
+                "RS": false
+            },
+            {
+                "caracteristica": "Espejos exteriores eléctricos con defroster",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con plegado eléctrico",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Luces de circulación diurnas (D.R.L) LED",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Sunroof y techo panorámico trasero",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Lava faros",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio doble DIN con pantalla touch AM/FM",
+                "RX": true,
+                "RT": false,
+                "RS": false
+            },
+            {
+                "caracteristica": "Radio con pantalla LCD 8\" touch a color",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Conectividad Apple CarPlay & Android Auto",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "RX": false,
+                "RT": true,
+                "RS": false
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo (ACC)",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "RX": true,
+                "RT": true,
+                "RS": false
+            },
+            {
+                "caracteristica": "Climatizador bi-zona",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Apertura sin llave (Botón manilla) + Encendido sin llaves (Botón star/stop)",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Volante de cuero ecológico",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de cuero ecológico",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Asientos con calefacción",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero con sensor de lluvia",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Pantalla frontal (HUD)",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento eléctrico (EPB) con Auto hold",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor de estacionamiento delantero y trasero",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Sistema ultrasónico de mitigación de aceleración errónea (UMS)",
+                "RX": false,
+                "RT": true,
+                "RS": true
+            },
+            {
+                "caracteristica": "Luces altas automáticas (AHB)",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Sistema de mitigación de colisión frontal (FCM)",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            },
+            {
+                "caracteristica": "Advertencia de Punto ciego (BSW) con asistencia de cambio de carril (LCA)",
+                "RX": false,
+                "RT": false,
+                "RS": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores con luces de viraje",
+            "Luces de posición LED",
+            "Manillas exteriores color",
+            "Neblineros delanteros LED",
+            "Vidrios traseros tinteados",
+            "Llantas de aleación aro 18",
+            "Barras de techo",
+            "Antena en el techo"
+        ],
+        "interior": [
+            "Manos libres",
+            "Control de audio en volante",
+            "Bluetooth",
+            "Puerto USB",
+            "Entrada remota sin llaves (Botón control remoto)",
+            "Volante regulable en altura y profundidad",
+            "Alza vidrios eléctricos",
+            "Consola central con apoya brazos delantera",
+            "Apoya brazos central trasero con porta vasos",
+            "Apagado automático de luces",
+            "Cubre maleta"
+        ],
+        "seguridad": [
+            "Carrocería con deformación programada (RISE Body)",
+            "Anclaje ISOFIX",
+            "Inmovilizador",
+            "Cierre centralizado",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Recordatorio de cinturón de seguridad (Piloto-Copiloto)",
+            "Alarma antirrobo (bocina y luces)",
+            "Airbags dobles delanteros",
+            "Airbags dobles laterales",
+            "Airbags dobles cortina",
+            "Cinturón de seguridad de 3 puntos (todas posiciones)",
+            "Airbags rodilla",
+            "Cámara de retroceso",
+            "Frenos ABS con EBD",
+            "Control activo de estabilidad (ASC) con Control de Tracción (TCL)",
+            "Asistente de partida en pendiente (HSA)",
+            "Sistema de asistencia al frenado (hidráulico)",
+            "Active Yaw Control (AYC)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco perla",
+        "Plata",
+        "Grafito",
+        "Rojo diamante",
+        "Azul",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de tabla ficha técnica Mitsubishi (ticket verde=true, x roja=false; texto/valores tal cual)",
+        "fuente": "ficha-eclipse-cross-sept.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Dimensiones, capacidades y especificaciones mecánicas aparecen como comunes para las versiones RX/RT/RS. La transmisión se diferencia: RS indica 'CVT con Sport Mode'."
+    }
+}

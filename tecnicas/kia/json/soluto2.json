@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "Soluto",
+        "año": null,
+        "versiones": [
+            "LX 1.4L 5MT G LL",
+            "EX 1.4L 5MT G SRF FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 1.4L 5MT G LL": "Inyección multipunto (MPI)",
+            "EX 1.4L 5MT G SRF FULL": "Inyección multipunto (MPI)"
+        },
+        "cilindrada": {
+            "LX 1.4L 5MT G LL": 1368,
+            "EX 1.4L 5MT G SRF FULL": 1368
+        },
+        "potencia_hp": {
+            "LX 1.4L 5MT G LL": "94",
+            "EX 1.4L 5MT G SRF FULL": "94"
+        },
+        "potencia_rpm": {
+            "LX 1.4L 5MT G LL": "6.000",
+            "EX 1.4L 5MT G SRF FULL": "6.000"
+        },
+        "torque_nm": {
+            "LX 1.4L 5MT G LL": "132",
+            "EX 1.4L 5MT G SRF FULL": "132"
+        },
+        "torque_rpm": {
+            "LX 1.4L 5MT G LL": "4.000",
+            "EX 1.4L 5MT G SRF FULL": "4.000"
+        },
+        "combustible": "Gasolina (95)",
+        "transmision": {
+            "LX 1.4L 5MT G LL": "Mecánica 5 velocidades",
+            "EX 1.4L 5MT G SRF FULL": "Mecánica 5 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra Torsión",
+        "frenos_delanteros": "Frenos ABS con EBD",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LX 1.4L 5MT G LL": "175 / 70 R14",
+            "EX 1.4L 5MT G SRF FULL": "175 / 70 R14"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4300,
+        "ancho_mm": 1700,
+        "alto_mm": 1460,
+        "distancia_ejes_mm": 2570,
+        "despeje_suelo_mm": 150,
+        "peso_bruto_kg": 1450,
+        "capacidad_maletero_lts": 475,
+        "capacidad_estanque_lts": 43,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "LX 1.4L 5MT G LL": "13,1",
+            "EX 1.4L 5MT G SRF FULL": "13,1"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "LX 1.4L 5MT G LL": "20,7",
+            "EX 1.4L 5MT G SRF FULL": "20,7"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "LX 1.4L 5MT G LL": "17,0",
+            "EX 1.4L 5MT G SRF FULL": "17,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Neblinero delantero",
+                "LX 1.4L 5MT G LL": false,
+                "EX 1.4L 5MT G SRF FULL": true
+            },
+            {
+                "caracteristica": "Sunroof delantero",
+                "LX 1.4L 5MT G LL": false,
+                "EX 1.4L 5MT G SRF FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Palanca de cambios con moldura cromada",
+                "LX 1.4L 5MT G LL": false,
+                "EX 1.4L 5MT G SRF FULL": true
+            },
+            {
+                "caracteristica": "Asiento conductor regulable en altura",
+                "LX 1.4L 5MT G LL": false,
+                "EX 1.4L 5MT G SRF FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor trasero de estacionamiento",
+                "LX 1.4L 5MT G LL": false,
+                "EX 1.4L 5MT G SRF FULL": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos",
+            "Espejos exteriores color carrocería",
+            "Nivelación manual de focos delanteros",
+            "Luces de posicionamiento",
+            "Manillas exteriores color carrocería",
+            "Parachoques color carrocería",
+            "Guardafangos delanteros y traseros",
+            "Llantas de aleación aro 14\"",
+            "Rueda repuesto temporal",
+            "Vidrios tintados (leve)"
+        ],
+        "interior": [
+            "Radio con pantalla LCD 7” touch a color",
+            "Conectividad Apple CarPlay & Android Auto",
+            "AUX - USB",
+            "Bluetooth",
+            "Control de audio en volante",
+            "Tweeters",
+            "Alzavidrios eléctricos totales",
+            "Computador a bordo 2,8\" LCD",
+            "Apoyabrazo en asiento conductor",
+            "Volante regulable en altura",
+            "Posavasos delantero con compartimiento",
+            "Apertura remota de puertas",
+            "Parasol pasajero con espejo",
+            "Aire acondicionado",
+            "Luz en maletero"
+        ],
+        "seguridad": [
+            "Cierre centralizado",
+            "Anclaje ISOFIX",
+            "Seguro para niños en asientos traseros",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Barras de protección doble en las puertas",
+            "Carrocería deformada programada",
+            "Columna de dirección colapsable",
+            "Estructura de acero de máxima resistencia",
+            "Doble airbag delantero",
+            "Cámara de retroceso incorporada en radio",
+            "Neblinero trasero*",
+            "Inmovilizador",
+            "Frenos ABS con EBD",
+            "Control de estabilidad (ESC)",
+            "Asistente de partida en pendiente (HAC)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura de ficha técnica KIA Soluto (punto negro=true, punto blanco=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Kia-Soluto.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Segundo bloque del PDF, ubicado en las páginas 7 y 8. Códigos de versión: 2328 y 2329."
+    }
+}

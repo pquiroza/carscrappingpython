@@ -1,0 +1,131 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 7 LIMITED",
+        "año": null,
+        "versiones": [
+            "1_5T_CVT_LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5 Turbo",
+        "combustible": "Gasolina",
+        "cilindrada": "1499",
+        "potencia_hp": "145",
+        "potencia_rpm": "5500",
+        "torque_nm": "210",
+        "torque_rpm": "1750-4000",
+        "modos_conduccion": "ECO - SPORT",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "tipo": "CVT 9 Vel",
+        "traccion": "Delantera",
+        "palanca": "E-Shift"
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multilink Independiente",
+        "frenos_sistema": "ABS + EBD + BAS",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 5,
+        "largo_mm": "4500",
+        "ancho_mm": "1842",
+        "alto_mm": "1746",
+        "distancia_ejes_mm": "2670",
+        "capacidad_maletero_lts": "450",
+        "capacidad_estanque_lts": "51"
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Aire acondicionado eléctrico",
+            "Salidas aire acondicionado segunda fila",
+            "Apertura Keyless",
+            "Botón start/stop",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Cierre centralizado",
+            "Indicador de mantención",
+            "Computador a bordo",
+            "Tapiz eco cuero",
+            "Luz en maletero",
+            "Asiento trasero abatible 60/40",
+            "Asiento conductor manual",
+            "Asiento copiloto manual",
+            "Volante regulable altura/profundidad",
+            "Volante cuero multifunción",
+            "Control crucero",
+            "Radio 6 parlantes",
+            "Puertos USB",
+            "Pantalla 10.25\"",
+            "Bluetooth",
+            "Apple CarPlay + Android Auto",
+            "Parasoles con espejo",
+            "Porta anteojos",
+            "Espejo antireflejo",
+            "Regulador altura faros",
+            "Panel instrumentos LCD 7\""
+        ],
+        "exterior": [
+            "Encendido remoto",
+            "Espejos eléctricos",
+            "Espejos abatibles manuales",
+            "Señalizadores en espejos",
+            "Cierre remoto",
+            "Maletero eléctrico remoto",
+            "Follow me home",
+            "Limpia luneta",
+            "Faros automáticos",
+            "Luz diurna LED",
+            "Luz trasera LED",
+            "Neblineros traseros",
+            "Spoiler",
+            "Sensor estacionamiento trasero",
+            "Cámara retroceso con guías",
+            "Barras techo",
+            "Llantas aleación 18\"",
+            "Neumáticos 225/60 R18",
+            "Repuesto temporal"
+        ],
+        "seguridad": [
+            "Sistema antirrobo",
+            "Inmovilizador",
+            "Alarma",
+            "Indicador exceso velocidad",
+            "Apoya cabezas delanteros y traseros",
+            "Airbags delanteros",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ESP",
+            "HAC",
+            "HDC",
+            "TCS",
+            "TPMS",
+            "Barra acero puertas",
+            "Carrocería deformación programada",
+            "Cinturones limitador fuerza",
+            "Cinturones pretensionados",
+            "Cinturones traseros 3 puntas",
+            "Alertas cinturón",
+            "Columna dirección colapsable",
+            "Jaula integrada",
+            "Parachoques absorción impactos",
+            "ISOFIX",
+            "Seguro niños"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 7 Limited",
+        "versiones_en_documento": 1,
+        "notas": "Datos tomados literalmente del PDF oficial."
+    }
+}

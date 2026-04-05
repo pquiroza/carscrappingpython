@@ -1,0 +1,139 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 7 PRO MAX PHEV",
+        "año": null,
+        "versiones": [
+            "1_5T_DHT_PHEV_CSH"
+        ]
+    },
+    "motor_combustion": {
+        "tipo": "1.5 Turbo",
+        "combustible": "Gasolina",
+        "cilindrada": "1499",
+        "potencia_hp": "141",
+        "potencia_rpm": "5500",
+        "torque_nm": "215",
+        "torque_rpm": "1750-4000",
+        "modos_conduccion": "ECO - NORMAL - SPORT",
+        "norma_emisiones": "EURO 6C"
+    },
+    "motor_electrico": {
+        "tipo": "Motor síncrono / imán permanente",
+        "potencia_kw": "150",
+        "potencia_hp": "201",
+        "torque_nm": "310",
+        "bateria_kwh": "18.30",
+        "tiempo_carga": "5-6 horas",
+        "puerto_carga": "Tipo 2",
+        "autonomia_km_nedc": "90"
+    },
+    "desempeno_combinado": {
+        "potencia_hp": "315",
+        "torque_nm": "525",
+        "aceleracion_0_100": "8.2 s"
+    },
+    "transmision": {
+        "tipo": "Híbrida DHT",
+        "traccion": "Delantera",
+        "palanca": "E-Shift"
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Independiente",
+        "sistema_frenos": "ABS + EBD + BAS",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 5,
+        "largo_mm": "4553",
+        "ancho_mm": "1862",
+        "alto_mm": "1696",
+        "distancia_ejes_mm": "2650",
+        "maletero_lts": "475",
+        "estanque_lts": "60"
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Salidas aire segunda fila",
+            "Apertura keyless",
+            "Encendido con pedal",
+            "Alzavidrios eléctricos",
+            "Cierre centralizado",
+            "Indicador mantención",
+            "Computador a bordo",
+            "Tapiz eco cuero",
+            "Cubre maletero",
+            "Punto carga 12V maletero",
+            "Asiento trasero 60/40",
+            "Asientos eléctricos",
+            "Asientos calefacción y ventilación",
+            "Apoya brazos refrigerado",
+            "Cargador inalámbrico 50W",
+            "Volante cuero multifunción",
+            "Techo panorámico",
+            "Control crucero",
+            "Audio Sony 8 parlantes",
+            "Pantalla 12.3\"",
+            "Panel instrumentos 12.3\"",
+            "Apple CarPlay inalámbrico",
+            "Android Auto inalámbrico"
+        ],
+        "exterior": [
+            "Encendido remoto",
+            "Vidrios acústicos",
+            "Maletero eléctrico manos libres",
+            "Faros LED automáticos",
+            "Cámara 540° HD",
+            "Sensores delanteros y traseros",
+            "Llantas aleación 18\"",
+            "Neumáticos 225/60 R18",
+            "Kit inflado"
+        ],
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "Airbag rodilla conductor",
+            "ESP",
+            "HAC",
+            "HDC",
+            "TCS",
+            "TPMS",
+            "ISOFIX",
+            "Jaula integrada",
+            "Barras acero puertas"
+        ],
+        "ADAS": [
+            "ACC",
+            "TJA",
+            "ICA",
+            "FCW",
+            "AEB",
+            "BSD",
+            "RCW",
+            "RTCA",
+            "RTCB",
+            "LDW",
+            "LCA",
+            "ELK",
+            "LDP",
+            "DOW",
+            "IHC"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 7 Pro Max PHEV",
+        "versiones_en_documento": 1,
+        "notas": "Datos extraídos literalmente de la ficha técnica oficial."
+    }
+}

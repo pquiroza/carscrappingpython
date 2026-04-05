@@ -1,0 +1,189 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "EV9",
+        "año": null,
+        "versiones": [
+            "GT-LINE 99.8KWH AWD 6P1",
+            "GT-LINE 99.8KWH AWD 6P2",
+            "GT-LINE 99.8KWH AWD 6P3",
+            "GT-LINE 99.8KWH AWD 7P"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GT-LINE 99.8KWH AWD 6P1": "Permanent Magnet Synchronous Motor (PMSM)",
+            "GT-LINE 99.8KWH AWD 6P2": "Permanent Magnet Synchronous Motor (PMSM)",
+            "GT-LINE 99.8KWH AWD 6P3": "Permanent Magnet Synchronous Motor (PMSM)",
+            "GT-LINE 99.8KWH AWD 7P": "Permanent Magnet Synchronous Motor (PMSM)"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "GT-LINE 99.8KWH AWD 6P1": "380",
+            "GT-LINE 99.8KWH AWD 6P2": "380",
+            "GT-LINE 99.8KWH AWD 6P3": "380",
+            "GT-LINE 99.8KWH AWD 7P": "380"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "GT-LINE 99.8KWH AWD 6P1": "700",
+            "GT-LINE 99.8KWH AWD 6P2": "700",
+            "GT-LINE 99.8KWH AWD 6P3": "700",
+            "GT-LINE 99.8KWH AWD 7P": "700"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": {
+            "GT-LINE 99.8KWH AWD 6P1": "Caja reductora de velocidad única (accionamiento automático)",
+            "GT-LINE 99.8KWH AWD 6P2": "Caja reductora de velocidad única (accionamiento automático)",
+            "GT-LINE 99.8KWH AWD 6P3": "Caja reductora de velocidad única (accionamiento automático)",
+            "GT-LINE 99.8KWH AWD 7P": "Caja reductora de velocidad única (accionamiento automático)"
+        },
+        "traccion": {
+            "GT-LINE 99.8KWH AWD 6P1": "e-AWD",
+            "GT-LINE 99.8KWH AWD 6P2": "e-AWD",
+            "GT-LINE 99.8KWH AWD 6P3": "e-AWD",
+            "GT-LINE 99.8KWH AWD 7P": "e-AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (R-MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson Strut Multi-Link",
+        "suspension_trasera": "Multi-Link (5-link)",
+        "frenos_delanteros": null,
+        "frenos_traseros": "Frenos de disco traseros y delanteros",
+        "freno_estacionamiento": "Freno de estacionamiento eléctrico (EPB) con Autohold",
+        "neumaticos": {
+            "GT-LINE 99.8KWH AWD 6P1": "285/45R21",
+            "GT-LINE 99.8KWH AWD 6P2": "285/45R21",
+            "GT-LINE 99.8KWH AWD 6P3": "285/45R21",
+            "GT-LINE 99.8KWH AWD 7P": "285/45R21"
+        },
+        "rueda_repuesto": "Kit temporal de movilidad (TMK)"
+    },
+    "dimensiones": {
+        "largo_mm": 5015,
+        "ancho_mm": 1980,
+        "alto_mm": 1780,
+        "distancia_ejes_mm": 3100,
+        "despeje_suelo_mm": 177,
+        "peso_bruto_kg": 3240,
+        "capacidad_maletero_lts": {
+            "GT-LINE 99.8KWH AWD 6P1": "2.393 / 333",
+            "GT-LINE 99.8KWH AWD 6P2": "2.393 / 333",
+            "GT-LINE 99.8KWH AWD 6P3": "2.393 / 333",
+            "GT-LINE 99.8KWH AWD 7P": "2.318 / 333"
+        },
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": {
+            "GT-LINE 99.8KWH AWD 6P1": 6,
+            "GT-LINE 99.8KWH AWD 6P2": 6,
+            "GT-LINE 99.8KWH AWD 6P3": 6,
+            "GT-LINE 99.8KWH AWD 7P": 7
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia total (kW)",
+            "GT-LINE 99.8KWH AWD 6P1": "283",
+            "GT-LINE 99.8KWH AWD 6P2": "283",
+            "GT-LINE 99.8KWH AWD 6P3": "283",
+            "GT-LINE 99.8KWH AWD 7P": "283"
+        },
+        {
+            "caracteristica": "Potencia total (Hp)",
+            "GT-LINE 99.8KWH AWD 6P1": "380",
+            "GT-LINE 99.8KWH AWD 6P2": "380",
+            "GT-LINE 99.8KWH AWD 6P3": "380",
+            "GT-LINE 99.8KWH AWD 7P": "380"
+        },
+        {
+            "caracteristica": "Torque total (Nm)",
+            "GT-LINE 99.8KWH AWD 6P1": "700",
+            "GT-LINE 99.8KWH AWD 6P2": "700",
+            "GT-LINE 99.8KWH AWD 6P3": "700",
+            "GT-LINE 99.8KWH AWD 7P": "700"
+        },
+        {
+            "caracteristica": "0 a 100 km/h",
+            "GT-LINE 99.8KWH AWD 6P1": "5,3 s",
+            "GT-LINE 99.8KWH AWD 6P2": "5,3 s",
+            "GT-LINE 99.8KWH AWD 6P3": "5,3 s",
+            "GT-LINE 99.8KWH AWD 7P": "5,3 s"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "GT-LINE 99.8KWH AWD 6P1": "200",
+            "GT-LINE 99.8KWH AWD 6P2": "200",
+            "GT-LINE 99.8KWH AWD 6P3": "200",
+            "GT-LINE 99.8KWH AWD 7P": "200"
+        },
+        {
+            "caracteristica": "Autonomía - AER (km)",
+            "GT-LINE 99.8KWH AWD 6P1": "589",
+            "GT-LINE 99.8KWH AWD 6P2": "589",
+            "GT-LINE 99.8KWH AWD 6P3": "589",
+            "GT-LINE 99.8KWH AWD 7P": "589"
+        },
+        {
+            "caracteristica": "Capacidad energía (kWh)",
+            "GT-LINE 99.8KWH AWD 6P1": "99,8 (Long-range)",
+            "GT-LINE 99.8KWH AWD 6P2": "99,8 (Long-range)",
+            "GT-LINE 99.8KWH AWD 6P3": "99,8 (Long-range)",
+            "GT-LINE 99.8KWH AWD 7P": "99,8 (Long-range)"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [
+            {
+                "caracteristica": "Asientos 2da fila con función giratoria (Swivel seats)",
+                "GT-LINE 99.8KWH AWD 6P1": false,
+                "GT-LINE 99.8KWH AWD 6P2": true,
+                "GT-LINE 99.8KWH AWD 6P3": false,
+                "GT-LINE 99.8KWH AWD 7P": false
+            },
+            {
+                "caracteristica": "Asientos 2da fila con función relajación (Relaxation seats)",
+                "GT-LINE 99.8KWH AWD 6P1": false,
+                "GT-LINE 99.8KWH AWD 6P2": false,
+                "GT-LINE 99.8KWH AWD 6P3": true,
+                "GT-LINE 99.8KWH AWD 7P": false
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores color black high glossy",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Espejos exteriores con señalizador/abatibles eléctricamente",
+            "Barras de techo",
+            "Manillas exteriores ocultas con apertura automática",
+            "Vidrios tintados tipo solar y privacy glass",
+            "Spoiler trasero con 3ra luz de freno LED integrada",
+            "Luces delanteras de proyección LED",
+            "Luces diurnas (DRL) LED",
+            "Neblineros traseros LED",
+            "Luces traseras LED",
+            "Llantas de aleación aro 21\" (negras diamantadas)",
+            "Sunroof dual delantero y trasero"
+        ],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura de ficha técnica KIA EV9 (punto negro=true, punto blanco=false; texto/valores tal cual)",
+        "fuente": "NEW-FT-EV9_ene2025_imp.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajeron las especificaciones técnicas y equipamiento visibles para las versiones GT-LINE AWD 6P1, 6P2, 6P3 y 7P."
+    }
+}

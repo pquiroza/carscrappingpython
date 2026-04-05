@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "CLE Coupé AMG",
+        "año": null,
+        "versiones": [
+            "CLE 53 4MATIC+ Coupé"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CLE 53 4MATIC+ Coupé": null
+        },
+        "cilindrada": {
+            "CLE 53 4MATIC+ Coupé": 2999
+        },
+        "potencia_hp": {
+            "CLE 53 4MATIC+ Coupé": "449 CV (+23 CV)"
+        },
+        "potencia_rpm": {
+            "CLE 53 4MATIC+ Coupé": null
+        },
+        "torque_nm": {
+            "CLE 53 4MATIC+ Coupé": "560 Nm (+205 Nm)"
+        },
+        "torque_rpm": {
+            "CLE 53 4MATIC+ Coupé": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "CLE 53 4MATIC+ Coupé": "AMG SPEEDSHIFT MCT 9G"
+        },
+        "traccion": {
+            "CLE 53 4MATIC+ Coupé": "Integral Variable"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CLE 53 4MATIC+ Coupé": "Eje delantero: 265/35 - Eje trasero: 295/30"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 410,
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "CLE 53 4MATIC+ Coupé": "4,2 s"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "CLE 53 4MATIC+ Coupé": "270 km/h"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "CLE 53 4MATIC+ Coupé": "10,5 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "CLE 53 4MATIC+ Coupé": "AMG Night"
+            },
+            {
+                "caracteristica": "Faros DIGITAL LIGHT",
+                "CLE 53 4MATIC+ Coupé": "Más de un millón de píxeles por faro"
+            },
+            {
+                "caracteristica": "Perfil Aerodinámico AMG",
+                "CLE 53 4MATIC+ Coupé": "Elemento aerodinámico visible del color de la carrocería"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "CLE 53 4MATIC+ Coupé": "Incluye función de cerrado autónomo en caso de lluvia"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "CLE 53 4MATIC+ Coupé": "AMG de 20\" en diseño de radios en Y optimizado aerodinámicamente, pintura negro mate, 265/35 (eje delantero) y 295/30 (eje trasero)"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Línea interior",
+                "CLE 53 4MATIC+ Coupé": "AMG"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "CLE 53 4MATIC+ Coupé": "Cuero ARTICO / microfibra MICROCUT"
+            },
+            {
+                "caracteristica": "Molduras",
+                "CLE 53 4MATIC+ Coupé": "Elemento de adorno de fibra de carbono AMG"
+            },
+            {
+                "caracteristica": "Asientos delanteros con aproximador de cinturón",
+                "CLE 53 4MATIC+ Coupé": "Incluye kit de memorias, calefacción y cinturones rojos"
+            },
+            {
+                "caracteristica": "Volante AMG Performance en napa/microfibra MICROCUT",
+                "CLE 53 4MATIC+ Coupé": "Incluye teclas al Volante inspiradas en la Fórmula 1"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "10 Airbags de serie",
+                "CLE 53 4MATIC+ Coupé": "Incluye Windowbags + Central + Rodillas"
+            },
+            {
+                "caracteristica": "Sistema ATTENTION ASSIST",
+                "CLE 53 4MATIC+ Coupé": "Sistema de aviso por señales de somnolencia"
+            },
+            {
+                "caracteristica": "Asistente activo de distancia DISTRONIC",
+                "CLE 53 4MATIC+ Coupé": "Automatización de velocidad, distancia y frenado"
+            },
+            {
+                "caracteristica": "Detector activo de cambio de carril",
+                "CLE 53 4MATIC+ Coupé": "Incluye asistente activo de dirección y de maniobra evasiva"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "CLE 53 4MATIC+ Coupé": "Incluye función de advertencia de salida"
+            },
+            {
+                "caracteristica": "Sistema de seguridad PRE-SAFE®",
+                "CLE 53 4MATIC+ Coupé": "Incluye impulso lateral en caso de colisión"
+            },
+            {
+                "caracteristica": "Asistente activo de estacionamiento PARKTRONIC",
+                "CLE 53 4MATIC+ Coupé": "Incluye cámara 360°"
+            },
+            {
+                "caracteristica": "Eje direccional trasero",
+                "CLE 53 4MATIC+ Coupé": "Ajuste del ángulo de giro de hasta 2,5°"
+            },
+            {
+                "caracteristica": "Protección Vehículo GUARD 360°",
+                "CLE 53 4MATIC+ Coupé": "Incluye alarmas volumétricas"
+            },
+            {
+                "caracteristica": "Control de presión de los neumáticos",
+                "CLE 53 4MATIC+ Coupé": "Supervisión activa de la presión de neumáticos"
+            },
+            {
+                "caracteristica": "Extintor",
+                "CLE 53 4MATIC+ Coupé": "Debajo del asiento del piloto"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX",
+                "CLE 53 4MATIC+ Coupé": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "CLE 53 4MATIC+ Coupé": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "CLE 53 4MATIC+ Coupé": "12,3\""
+            },
+            {
+                "caracteristica": "Visualizador de cuadro de instrumentos digital",
+                "CLE 53 4MATIC+ Coupé": "11,9\""
+            },
+            {
+                "caracteristica": "Realidad aumentada para navegación",
+                "CLE 53 4MATIC+ Coupé": "Información gráfica sobre la navegación en visualizador"
+            },
+            {
+                "caracteristica": "Integración Smartphone Inalámbrico",
+                "CLE 53 4MATIC+ Coupé": "Con sistema de carga inalámbrico"
+            },
+            {
+                "caracteristica": "Paquete Confort Keyless Go",
+                "CLE 53 4MATIC+ Coupé": "Incluye Hands Free Access y acceso Keyless"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente plus",
+                "CLE 53 4MATIC+ Coupé": "Incluye apoyo visual en control de punto ciego"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "CLE 53 4MATIC+ Coupé": "Surround Burmester® 3D con 15 altavoces"
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "CLE 53 4MATIC+ Coupé": "Holograma a color con información de la conducción"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles eléctricamente",
+                "CLE 53 4MATIC+ Coupé": "Incluye función antideslumbrante y proyección de logotipo AMG"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz CLE 53 AMG (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha_Tecnica_CLE 53 Coupé AMG_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior para CLE 53 4MATIC+ Coupé."
+    }
+}

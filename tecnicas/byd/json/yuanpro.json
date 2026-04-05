@@ -1,0 +1,246 @@
+{
+    "vehiculo": {
+        "marca": "BYD",
+        "modelo": "YUAN PRO",
+        "año": null,
+        "versiones": [
+            "GL",
+            "GS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL": "Motor eléctrico",
+            "GS": "Motor eléctrico"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "GL": "70",
+            "GS": "130"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "GL": "180",
+            "GS": "290"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": null,
+        "traccion": {
+            "GL": "Tracción delantera",
+            "GS": "Tracción delantera"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica tipo columna asistida (C-EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión delantera: MacPherson",
+        "suspension_trasera": "Suspensión trasera: Viga de torsión",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Sistema de estacionamiento electrónico (EPB)",
+        "neumaticos": {
+            "GL": "Neumáticos de 16 pulgadas",
+            "GS": "Neumáticos de 17 pulgadas"
+        },
+        "rueda_repuesto": "Neumáticos de repuesto de tamaño no completo"
+    },
+    "dimensiones": {
+        "largo_mm": 4310,
+        "ancho_mm": 1830,
+        "alto_mm": 1675,
+        "distancia_ejes_mm": 2620,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "GL": 1840,
+            "GS": 1960
+        },
+        "capacidad_maletero_lts": {
+            "GL": 265,
+            "GS": 265
+        },
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": "2 + 3 filas de asientos"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Peso vacío (kg)",
+            "GL": "1430",
+            "GS": "1550"
+        },
+        {
+            "caracteristica": "Capacidad de la batería (kWh)",
+            "GL": "32",
+            "GS": "45.12"
+        },
+        {
+            "caracteristica": "Autonomía EV (km) CLTC",
+            "GL": "301",
+            "GS": "401"
+        },
+        {
+            "caracteristica": "Autonomía EV (km) NEDC",
+            "GL": "280",
+            "GS": "380"
+        },
+        {
+            "caracteristica": "Aceleración de 0 a 100 km/h (s)",
+            "GL": "12",
+            "GS": "7.9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Neumáticos de 16 pulgadas",
+                "GL": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Neumáticos de 17 pulgadas",
+                "GL": false,
+                "GS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tamaño de pantalla central: 10.1 pulgadas",
+                "GL": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Tamaño de pantalla central: 12.8 pulgadas",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Carga de teléfonos móviles inalámbricos",
+                "GL": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Asiento del pasajero delantero con ajuste manual en 4 posiciones",
+                "GL": true,
+                "GS": false
+            },
+            {
+                "caracteristica": "Asiento del pasajero delantero con ajuste eléctrico en 4 posiciones",
+                "GL": false,
+                "GS": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámaras panorámicas HD",
+                "GL": false,
+                "GS": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Un solo color",
+            "Apertura del maletero: Apertura manual",
+            "Ruedas de aluminio",
+            "Luces delanteras LED",
+            "Ajuste manual de luces delanteras",
+            "Luz antiniebla trasera",
+            "Encendido automático de los faros delanteros",
+            "Encendido y apagado por adelantado de faros \"Follow me home\"",
+            "Luces traseras combinadas (LED)",
+            "Luz de freno alta (LED)",
+            "Lámpara del maletero",
+            "Lámpara del compartimento delantero&trasero (LED)",
+            "Luces ambientales multicolores",
+            "Limpiaparabrisas sin hueso",
+            "Limpiaparabrisas trasero",
+            "Calefacción eléctrica de desempañamiento y descongelación",
+            "Descongelación de espejos exteriores con calefacción",
+            "Espejo retrovisor interno antideslumbrante manual",
+            "Espejo retrovisor exterior con lámpara de pie"
+        ],
+        "interior": [
+            "Asiento imitación cuero",
+            "Asientos traseros abatibles 4:6",
+            "Asiento del conductor con ajuste manual en 6 posiciones",
+            "Bolsa de documentos en la parte trasera del asiento del conductor",
+            "Bolsa del respaldo del asiento del pasajero",
+            "Reposabrazos centrales para asientos traseros",
+            "Anclajes para sillas infantiles ISO-FIX",
+            "Sistema de Cabina Inteligente BYD",
+            "Radio FM & AM",
+            "GPS sistema de navegación (Here Maps)",
+            "CarPlay & Android Auto",
+            "Sistema de interacción de voz de doble área de sonido",
+            "Actualización remota OTA",
+            "Servicio BYD cloud",
+            "Conexión de red 4G",
+            "6 altavoces",
+            "Puerto USB frontal (Tipo A+ Tipo A)",
+            "Puerto USB trasero (Tipo A+ Tipo C)",
+            "Material del volante: Imitación de cuero",
+            "Tamaño del LCD panel de instrumentos: 8.8 pulgadas",
+            "Parasol del conductor con espejo de tocador (con lámpara)",
+            "Parasol del pasajero delantero con espejo de tocador (con lámpara)",
+            "Portaequipajes"
+        ],
+        "seguridad": [
+            "Sistema inteligente de potencia de frenado (IPBS)",
+            "Sistema de control de tracción (TCS)",
+            "Distribución electrónica de la fuerza de frenado (EBD)",
+            "Parada de confort (CST)",
+            "Control de descenso de pendientes (HDC)",
+            "Sistema de orientación del freno (BOS)",
+            "Control de velocidad crucero (CC)",
+            "2 radares delanteros",
+            "4 radares traseros",
+            "Sistema de monitoreo directo de la presión de los neumáticos",
+            "Bloqueo automático por inducción de velocidad",
+            "Sistema antirrobo del sistema de transmisión de potencia",
+            "Sistema electrónico antirrobo de la carrocería",
+            "Líquido de mantenimiento de neumáticos",
+            "Bolsas de aire para conductor y pasajero delantero",
+            "Bolsas de aire laterales delanteras",
+            "Cortina de aire lateral integrada delantera y trasera",
+            "Cinturón de seguridad delantero: cinturón de seguridad precargado con limitación de fuerza",
+            "Cinturón de seguridad trasero: cinturón de seguridad precargado con limitación de fuerza",
+            "Recordatorio del cinturón de seguridad delantero y trasero",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Control electrónico de estabilidad (ESC)"
+        ],
+        "tecnologia": [
+            "Entrada y arranque sin llave",
+            "Encender sin llave",
+            "Modo de conducción: deportivo, cómodo, económico",
+            "Modo topográfico: nieve",
+            "Aire acondicionado automático",
+            "Filtro de alta eficiencia PM2.5 (cn95 + sin pantalla pm2.5)",
+            "Calefacción por bomba de calor",
+            "Sistema de enfriamiento de la batería de energía (enfriamiento directo)",
+            "Sistema de calefacción de baterías de energía (calefacción directa)",
+            "Función de reserva para cargar",
+            "Puerto de carga AC (7 kW)",
+            "Puerto de carga DC (65 kW)",
+            "Puerto de carga DC (45 kW)",
+            "AC cargador 7kW (EU/ TIPO 1/ TIPO2)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Milky Gray-green",
+        "Time Gray",
+        "Skiing White",
+        "Malachite Darkcyan",
+        "Gravel Beige"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla BYD (●=true, ○=opcional, -=false; texto/valores tal cual)",
+        "fuente": "BYD-YUAN-PRO-CHILE.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Especificaciones actualizadas: julio de 2024. Se extrajeron todos los datos visibles en la tabla de configuraciones."
+    }
+}

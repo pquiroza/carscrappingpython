@@ -1,0 +1,151 @@
+{
+    "vehiculo": {
+        "marca": "Volvo",
+        "modelo": "EX30 Cross Country",
+        "año": null,
+        "versiones": [
+            "ULTRA"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ULTRA": null
+        },
+        "cilindrada": {
+            "ULTRA": null
+        },
+        "potencia_hp": {
+            "ULTRA": "428"
+        },
+        "potencia_rpm": {
+            "ULTRA": null
+        },
+        "torque_nm": {
+            "ULTRA": "543"
+        },
+        "torque_rpm": {
+            "ULTRA": null
+        },
+        "combustible": null,
+        "transmision": {
+            "ULTRA": "Electric Drive Train™, 1 velocidad"
+        },
+        "traccion": "AWD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "ULTRA": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía eléctrica (km) hasta*",
+            "ULTRA": "436"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces delanteras LED activas",
+            "Llantas de aleación (A)",
+            "Sensor de lluvia",
+            "Color de techo: Onyx Black",
+            "Portalón eléctrico",
+            "Sunroof panorámico fijo",
+            "Retrovisores retráctiles",
+            "Vidrios tintados",
+            "Alerón trasero color negro mate",
+            "A = 19\" 5-Spoke Matte Graphite/Matte Black Wheels"
+        ],
+        "interior": [
+            "Climatizador: 2 Zonas",
+            "Panel de instrumentos digital de 12,3\"",
+            "Cargador de smartphone inalámbrico",
+            "Integración Apple Car Play inalámbrico",
+            "Sistema de audio: Harman Kardon",
+            "Keyless entry",
+            "Tarjeta inteligente",
+            "Toma corriente 12V en maletero",
+            "Volante deportivo",
+            "Iluminación interior",
+            "Asistente de estacionamiento piloto",
+            "Sensores estacionamiento delantero",
+            "Sensores estacionamiento trasero",
+            "Cámaras de estacionamiento (delantera y trasera): 360º",
+            "Retrovisor interior y exteriores antideslumbrantes",
+            "Asiento conductor eléctrico",
+            "Asiento acompañante eléctrico",
+            "Asientos delanteros con soporte lumbar eléctrico",
+            "Asientos delanteros calefaccionados",
+            "Volante calefaccionado"
+        ],
+        "seguridad": [
+            "ABS con EBD - Sistema electrónico de distribución de frenado",
+            "Airbag delanteros (2) con inflado de dos etapas",
+            "Airbags de cortinas inflables laterales (2)",
+            "Airbags laterales (2)",
+            "Alarma de colisión trasera",
+            "Alerta de distancia y limitador de velocidad",
+            "Cierre electrónico de seguridad para niños",
+            "Cinturones de seguridad con pretensores y limitador de carga",
+            "EBA - Sistema electrónico de asistencia de frenado",
+            "EBL - Luz de freno parpadeante y advertencia de peligro",
+            "ESC - Control electrónico de estabilidad",
+            "Estructura interior absorbente de energía ante impacto",
+            "HDC - Control de descenso en pendiente",
+            "HSA - Asiste de partida en pendientes",
+            "ISOFIX - Sistema de anclaje para sillas de seguridad de niños",
+            "Safe Space Technology - Detecta ciclistas, peatones y animales grandes; con frenado autónomo",
+            "Safety Cage - Cabina de seguridad para pasajeros de acero reforzado",
+            "SIPS - Sistema de protección contra impactos laterales",
+            "TPMS - Monitoreo de presión de neumáticos",
+            "WHIPS - Protección contra latigazos en asientos delanteros"
+        ],
+        "tecnologia": [
+            "Asistente de cambio de carril",
+            "Clean Zone - Tecnología que filtra impurezas y mejora la calidad del aire",
+            "Control Crucero Adaptative",
+            "Google System - Sistema de infoentretenimiento y conectividad intuitiva, incluye control por voz",
+            "Lane Keeping Aid - Ayuda de permanencia en el carril",
+            "Pilot Assist - Conjunto de tecnologías capaces de proporcionar una conducción asistida hasta 130 km/h",
+            "Safe Space Technology - Conjunto de tecnologías de asistencia para tu seguridad",
+            "Soporte de Mitigación de colisión delantera",
+            "Volvo On Call"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Volvo (✓=true, -=false/vacío; texto/valores tal cual)",
+        "fuente": "ficha_tecnica_ex30_crosscountry_my26.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento presenta una sola versión (ULTRA) y el equipamiento aparece marcado con ✓. Se incluyó además la nota A asociada a llantas."
+    }
+}

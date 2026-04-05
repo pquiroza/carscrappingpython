@@ -1,0 +1,223 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "A1 Sportback",
+        "año": null,
+        "versiones": [
+            "30 TFSI Sport – Special Edition"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "30 TFSI Sport – Special Edition": "1.0 TFSI"
+        },
+        "cilindrada": {
+            "30 TFSI Sport – Special Edition": null
+        },
+        "potencia_hp": {
+            "30 TFSI Sport – Special Edition": "116"
+        },
+        "potencia_rpm": {
+            "30 TFSI Sport – Special Edition": "5000-5500"
+        },
+        "torque_nm": {
+            "30 TFSI Sport – Special Edition": "200"
+        },
+        "torque_rpm": {
+            "30 TFSI Sport – Special Edition": "2000-3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "30 TFSI Sport – Special Edition": "S tronic 7 velocidades"
+        },
+        "traccion": {
+            "30 TFSI Sport – Special Edition": "Delantera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "30 TFSI Sport – Special Edition": "215/45 R17”"
+        },
+        "rueda_repuesto": "Rueda de repuesto y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4029,
+        "ancho_mm": 1940,
+        "alto_mm": 1409,
+        "distancia_ejes_mm": 2563,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1205,
+        "capacidad_maletero_lts": "335 / 1090",
+        "capacidad_estanque_lts": 40,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "30 TFSI Sport – Special Edition": "18,9"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "30 TFSI Sport – Special Edition": "9,4 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "30 TFSI Sport – Special Edition": "200"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Focos delanteros",
+                "30 TFSI Sport – Special Edition": "LED con asistencia de luces de carretera"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "30 TFSI Sport – Special Edition": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "30 TFSI Sport – Special Edition": "Eléctricos, calefactados, y abatibles eléctricamente"
+            },
+            {
+                "caracteristica": "Spoiler S line",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Comfort Key",
+                "30 TFSI Sport – Special Edition": false
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "30 TFSI Sport – Special Edition": "Automática 2 zonas"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "30 TFSI Sport – Special Edition": "MMI con pantalla Touch 10,1”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos Virtual Cockpit",
+                "30 TFSI Sport – Special Edition": "12,3”"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "30 TFSI Sport – Special Edition": "Audi Sound System 8 altavoces + subwoofer - 180W"
+            },
+            {
+                "caracteristica": "Soporte lumbar",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Tapizado",
+                "30 TFSI Sport – Special Edition": "Tela “Novum”"
+            },
+            {
+                "caracteristica": "Volante",
+                "30 TFSI Sport – Special Edition": "Multifunción en cuero Plus"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "30 TFSI Sport – Special Edition": "Deportivos con ajuste manual, calefactados"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS (Sistema antibloqueo de frenos)",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Control electrónico de estabilidad",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros y de cortina",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Sistema Start/Stop",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Anclaje para asientos traseros ISOFIX",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Sensor lluvia y luz",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Control crucero con limitador de velocidad",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Alarma Antirrobo",
+                "30 TFSI Sport – Special Edition": true
+            },
+            {
+                "caracteristica": "Asistencia al arranque en pendiente",
+                "30 TFSI Sport – Special Edition": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Conectividad",
+                "30 TFSI Sport – Special Edition": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "30 TFSI Sport – Special Edition": "Sensor trasero y delantero, con cámara de retroceso"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Gris Manhattan",
+        "Blanco Glaciar",
+        "Gris Flecha",
+        "Negro Mitos",
+        "Rojo Progresivo",
+        "Azul Navarra",
+        "Plata Rocío",
+        "Verde Distrito"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha por versión Audi (valores/texto tal cual; Sí/No -> true/false)",
+        "fuente": "A1-30-TFSI-Sport-Special-Edition.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Este modelo viene en archivo separado por versión; este JSON corresponde a la versión incluida en el PDF."
+    }
+}

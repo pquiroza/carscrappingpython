@@ -1,0 +1,477 @@
+{
+    "vehiculo": {
+        "marca": "BYD",
+        "modelo": "YUAN PLUS",
+        "año": null,
+        "versiones": [
+            "410KM GL",
+            "480KM GL",
+            "480KM GS",
+            "480KM DE LUJO"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "410KM GL": "Motor síncrono de imán permanente",
+            "480KM GL": "Motor síncrono de imán permanente",
+            "480KM GS": "Motor síncrono de imán permanente",
+            "480KM DE LUJO": "Motor síncrono de imán permanente"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "410KM GL": "150 kW",
+            "480KM GL": "150 kW",
+            "480KM GS": "150 kW",
+            "480KM DE LUJO": "150 kW"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "410KM GL": "310",
+            "480KM GL": "310",
+            "480KM GS": "310",
+            "480KM DE LUJO": "310"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": null,
+        "traccion": {
+            "410KM GL": "Tracción delantera",
+            "480KM GL": "Tracción delantera",
+            "480KM GS": "Tracción delantera",
+            "480KM DE LUJO": "Tracción delantera"
+        }
+    },
+    "direccion": {
+        "tipo": "Sistema de dirección asistida eléctrica (C-EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi-enlace",
+        "frenos_delanteros": "Disco ventilado perforado",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Freno de estacionamiento eléctrico (EPB)",
+        "neumaticos": {
+            "410KM GL": "215/60R17",
+            "480KM GL": "215/55R18",
+            "480KM GS": "215/55R18",
+            "480KM DE LUJO": "215/55R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4455,
+        "ancho_mm": 1875,
+        "alto_mm": 1615,
+        "distancia_ejes_mm": 2720,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2050,
+        "capacidad_maletero_lts": "440 / 312 (con rueda de repuesto)",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía NEDC (km)",
+            "410KM GL": "410",
+            "480KM GL": "480",
+            "480KM GS": "480",
+            "480KM DE LUJO": "480"
+        },
+        {
+            "caracteristica": "Capacidad nominal de la batería (kWh)",
+            "410KM GL": "49.92",
+            "480KM GL": "60.48",
+            "480KM GS": "60.48",
+            "480KM DE LUJO": "60.48"
+        },
+        {
+            "caracteristica": "Tiempo de carga",
+            "410KM GL": "30 minutos (30%-80% de carga DC)",
+            "480KM GL": "30 minutos (30%-80% de carga DC)",
+            "480KM GS": "30 minutos (30%-80% de carga DC)",
+            "480KM DE LUJO": "30 minutos (30%-80% de carga DC)"
+        },
+        {
+            "caracteristica": "Aceleración de 0~100km/h (s)",
+            "410KM GL": "7.3",
+            "480KM GL": "7.3",
+            "480KM GS": "7.3",
+            "480KM DE LUJO": "7.3"
+        },
+        {
+            "caracteristica": "Carga estándar DC",
+            "410KM GL": "70 kW",
+            "480KM GL": "80 kW",
+            "480KM GS": "80 kW",
+            "480KM DE LUJO": "80 kW"
+        },
+        {
+            "caracteristica": "Carga estándar AC",
+            "410KM GL": "7 kW",
+            "480KM GL": "7 kW",
+            "480KM GS": "7 kW",
+            "480KM DE LUJO": "7 kW"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Apertura y cierre de sunroof con un solo botón anti-pellizco",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Portaequipajes de aluminio",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Apertura eléctrica de la puerta del baúl",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": false,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Neumático de 17 pulgadas",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "Neumático de 18 pulgadas",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Interruptor de control de crucero",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "Interruptor de control de crucero adaptativo",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Cortina de techo corredizo panorámico",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Llave de tarjeta NFC",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": false,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antideslumbrante manual",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antideslumbrante automático",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Focos para espejos retrovisores exteriores",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Luces interiores traseras (LED)",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "Luces interiores laterales traseras (LED)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Luz ambiental interior monocromática",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Luz ambiental interior multicolor",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Recordatorio del cinturón de seguridad de la fila trasera",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Imagen panorámica",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Imagen de reversa",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "Control de crucero (CC)",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "Cortina de aire lateral integrada delantera y trasera",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Detección de punto ciego (BSD)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero adaptativo (ACC)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Reconocimiento de señales de tráfico (TSR)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia (AEB)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril (LDW)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Radares de marcha atrás (2 delanteros)",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de cabina inteligente BYD",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Sistema de navegación GPS",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Sistema inteligente de control de voz",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "CarPlay inalámbrico",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Actualizaciones inalámbricas OTA",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Servicio de almacenamiento en la nube",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Red 4G LTE",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "Pantalla multimedia giratoria eléctrica (12.8 pulgadas)",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            },
+            {
+                "caracteristica": "6 altavoces",
+                "410KM GL": true,
+                "480KM GL": true,
+                "480KM GS": false,
+                "480KM DE LUJO": false
+            },
+            {
+                "caracteristica": "8 altavoces",
+                "410KM GL": false,
+                "480KM GL": false,
+                "480KM GS": true,
+                "480KM DE LUJO": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Cuerpo de un solo color",
+            "Limpiaparabrisas sin marco",
+            "Limpiaparabrisas trasero",
+            "Parabrisas y luna trasera con desempañado y descongelado de calefacción eléctrica",
+            "Una presión hacia arriba/abajo de 4 ventanas con protección contra atascos",
+            "Espejo retrovisor exterior con desempañado y descongelado de calefacción eléctrica",
+            "Espejo retrovisor exterior plegado eléctrico",
+            "Regulación manual de la altura de los faros LED delanteros",
+            "Faros delanteros automáticos",
+            "\"Sígueme a casa\" Faro delantero prendido por adelantado y retrasado",
+            "Luces de circulación diurna (LED)",
+            "Luces traseras combinadas (LED)",
+            "Lámpara del maletero",
+            "Luces interiores delanteras (LED)"
+        ],
+        "interior": [
+            "Color interior azul y gris",
+            "Volante de cuero de imitación",
+            "Instrumento combinado TFT LCD de 5 pulgadas",
+            "Carga inalámbrica de teléfonos móviles",
+            "Visera solar con espejo y luz para conductor & copiloto",
+            "Techo de tela tejida",
+            "Reposabrazos central en la fila trasera (con dos portavasos)",
+            "Portaequipajes",
+            "Toma corrientes del vehículo de 12V"
+        ],
+        "seguridad": [
+            "Recordatorio del cinturón de seguridad del conductor",
+            "Recordatorio del cinturón de seguridad del copiloto",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Programa electrónico de estabilidad (ESP)",
+            "Freno de potencia integrado (IPB)",
+            "Sistema de control de tracción (TCS)",
+            "Distribución electrónica de la fuerza de frenado (EBD)",
+            "Función de frenado de confort (CST)",
+            "Control de descenso de pendientes (HDC)",
+            "Radares de marcha atrás (4 traseros)",
+            "Sistema de control directo de la presión de los neumáticos",
+            "Bloqueo mecánico de seguridad para niños",
+            "Bolsa de aire frontal del conductor",
+            "Bolsa de aire del copiloto",
+            "Bolsas de aire laterales delanteras",
+            "Cinturones de seguridad con limitador de fuerza precargados en la fila delantera",
+            "Cinturones de seguridad con limitador de fuerza precargados en la fila trasera"
+        ],
+        "tecnologia": [
+            "Sistema de cabina inteligente BYD",
+            "Sistema de navegación GPS",
+            "Sistema inteligente de control de voz",
+            "CarPlay inalámbrico",
+            "Actualizaciones inalámbricas OTA",
+            "Servicio de almacenamiento en la nube",
+            "Red 4G LTE",
+            "Radio FM",
+            "Interfaz USB delantera (2)",
+            "Interfaz USB trasera (2)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Surfing Blue",
+        "Adventuring Green",
+        "Climbing Grey",
+        "Skiing White",
+        "Freerunning Red",
+        "Blue and Grey"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla BYD (●=true, —=false, ○=null; texto/valores tal cual)",
+        "fuente": "yuan-plus-flyer-es.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyeron especificaciones y configuraciones del folleto (Mayo 2023). Los ítems marcados como opcionales (○) se registran como null."
+    }
+}

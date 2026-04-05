@@ -1,0 +1,270 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "TERRITORY",
+        "año": null,
+        "versiones": [
+            "TREND 1.5L AT",
+            "TITANIUM 1.5L AT",
+            "TITANIUM 1.5L FHEV AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "TREND 1.5L AT": "1.5L EcoBoost",
+            "TITANIUM 1.5L AT": "1.5L EcoBoost",
+            "TITANIUM 1.5L FHEV AT": "1.5L EcoBoost Híbrido"
+        },
+        "cilindrada": {
+            "TREND 1.5L AT": 1.490,
+            "TITANIUM 1.5L AT": 1.490,
+            "TITANIUM 1.5L FHEV AT": 1.490
+        },
+        "potencia_hp": {
+            "TREND 1.5L AT": "158",
+            "TITANIUM 1.5L AT": "158",
+            "TITANIUM 1.5L FHEV AT": "148"
+        },
+        "torque_nm": {
+            "TREND 1.5L AT": "248",
+            "TITANIUM 1.5L AT": "248",
+            "TITANIUM 1.5L FHEV AT": "230"
+        },
+        "motor_electrico_potencia_hp": {
+            "TREND 1.5L AT": null,
+            "TITANIUM 1.5L AT": null,
+            "TITANIUM 1.5L FHEV AT": "212"
+        },
+        "motor_electrico_torque_nm": {
+            "TREND 1.5L AT": null,
+            "TITANIUM 1.5L AT": null,
+            "TITANIUM 1.5L FHEV AT": "315"
+        },
+        "combustible": {
+            "TREND 1.5L AT": "Gasolina",
+            "TITANIUM 1.5L AT": "Gasolina",
+            "TITANIUM 1.5L FHEV AT": "Gasolina (híbrido no enchufable)"
+        },
+        "transmision": {
+            "TREND 1.5L AT": "Automática Doble Embrague (7 Velocidades)",
+            "TITANIUM 1.5L AT": "Automática Doble Embrague (7 Velocidades)",
+            "TITANIUM 1.5L FHEV AT": "Automática DHT (2 Velocidades)"
+        },
+        "traccion": {
+            "TREND 1.5L AT": "4x2 (FWD)",
+            "TITANIUM 1.5L AT": "4x2 (FWD)",
+            "TITANIUM 1.5L FHEV AT": "4x2 (FWD)"
+        },
+        "start_stop": {
+            "TREND 1.5L AT": true,
+            "TITANIUM 1.5L AT": true,
+            "TITANIUM 1.5L FHEV AT": false
+        },
+        "bateria_kwh": {
+            "TREND 1.5L AT": null,
+            "TITANIUM 1.5L AT": null,
+            "TITANIUM 1.5L FHEV AT": "1,8"
+        },
+        "bateria_tipo": {
+            "TREND 1.5L AT": null,
+            "TITANIUM 1.5L AT": null,
+            "TITANIUM 1.5L FHEV AT": "NCM"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "TREND 1.5L AT": "235/55 R18",
+            "TITANIUM 1.5L AT": "235/50 R19",
+            "TITANIUM 1.5L FHEV AT": "235/50 R19"
+        },
+        "llantas": {
+            "TREND 1.5L AT": "Aluminio 18\"",
+            "TITANIUM 1.5L AT": "Aluminio 19\" gris/negro",
+            "TITANIUM 1.5L FHEV AT": "Aluminio 19\" gris/negro"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4685,
+        "ancho_mm": {
+            "con_espejos": 2177,
+            "sin_espejos": 1935
+        },
+        "alto_mm": 1706,
+        "distancia_ejes_mm": 2726,
+        "peso_vacio_kg": {
+            "TREND 1.5L AT": 1605,
+            "TITANIUM 1.5L AT": 1605,
+            "TITANIUM 1.5L FHEV AT": 1715
+        },
+        "peso_bruto_kg": {
+            "TREND 1.5L AT": 2025,
+            "TITANIUM 1.5L AT": 2025,
+            "TITANIUM 1.5L FHEV AT": 2140
+        },
+        "capacidad_carga_kg": {
+            "TREND 1.5L AT": 420,
+            "TITANIUM 1.5L AT": 420,
+            "TITANIUM 1.5L FHEV AT": 425
+        },
+        "capacidad_estanque_lts": 60,
+        "capacidad_maletero_lts": 448,
+        "capacidad_maletero_abatido_lts": 1422,
+        "pasajeros": 5
+    },
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Encendido automático luces",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "Espejos abatibles eléctricos",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "Techo panorámico eléctrico",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "Grilla iluminación LED",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": false,
+                "TITANIUM 1.5L FHEV AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "TREND 1.5L AT": "Manual",
+                "TITANIUM 1.5L AT": "Bi-zona",
+                "TITANIUM 1.5L FHEV AT": "Bi-zona"
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "Asientos refrigerados",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Tablero digital (pulgadas)",
+                "TREND 1.5L AT": "7,0",
+                "TITANIUM 1.5L AT": "12,3",
+                "TITANIUM 1.5L FHEV AT": "12,3"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "TREND 1.5L AT": "6",
+                "TITANIUM 1.5L AT": "8",
+                "TITANIUM 1.5L FHEV AT": "8"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara retroceso",
+                "TREND 1.5L AT": true,
+                "TITANIUM 1.5L AT": false,
+                "TITANIUM 1.5L FHEV AT": false
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            },
+            {
+                "caracteristica": "AEB",
+                "TREND 1.5L AT": false,
+                "TITANIUM 1.5L AT": true,
+                "TITANIUM 1.5L FHEV AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales (2)",
+            "Airbags laterales (2)",
+            "Airbags cortina (2)",
+            "ABS",
+            "EBD",
+            "ESP",
+            "TCS",
+            "HDC",
+            "HLA",
+            "BLIS"
+        ],
+        "interior": [
+            "Keyless",
+            "Arranque sin llave",
+            "Encendido remoto"
+        ],
+        "exterior": [
+            "Luces delanteras LED",
+            "Luces traseras LED",
+            "Espejos eléctricos",
+            "Barras longitudinales"
+        ],
+        "tecnologia": [
+            "Pantalla central 12,0\""
+        ],
+        "adas": [
+            "Mantenimiento carril"
+        ]
+    },
+    "colores": [
+        "Blanco Perlado",
+        "Gris Brillante",
+        "Azul Lunar",
+        "Gris Jet",
+        "Azul Pantera",
+        "Negro Pantera",
+        "Rojo Ruby",
+        "Blanco Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por múltiples versiones",
+        "fuente": "fcl-territory-ficha-tecnica.pdf",
+        "versiones_en_documento": 3,
+        "notas": null
+    }
+}

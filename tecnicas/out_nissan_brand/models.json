@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "NISSAN",
+    "model": "Versa",
+    "vehicle_id": "L02D",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nuevo-nissan-versa.html"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "Sentra",
+    "vehicle_id": "29813",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nissan-sentra.html"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "Nuevo Kicks",
+    "vehicle_id": "P16",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nuevo-kicks.html"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "Qashqai",
+    "vehicle_id": "P32SV",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nissan-qashqai.html"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "X-Trail",
+    "vehicle_id": "P32R",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nueva-nissan-xtrail.html"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "X-Trail e-POWER",
+    "vehicle_id": "P32E",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nissan-xtrail-epower.html"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "PATHFINDER",
+    "vehicle_id": "P42K",
+    "detail_url": "https://www.nissan.cl/vehiculos/nuevos/nueva-nissan-pathfinder.html"
+  }
+]

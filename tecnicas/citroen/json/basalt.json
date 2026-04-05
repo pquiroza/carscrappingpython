@@ -1,0 +1,157 @@
+{
+    "vehiculo": {
+        "marca": "CITROËN",
+        "modelo": "BASALT",
+        "año": null,
+        "versiones": [
+            "FEEL_PACK_115_HP_MT",
+            "SHINE_TURBO_125_HP_AT"
+        ]
+    },
+    "motor": {
+        "tipo": "4 en línea / 3 en línea",
+        "cilindrada": "1587 / 999",
+        "potencia_hp": "115 / 125",
+        "potencia_rpm": null,
+        "torque_nm": "150 / 200",
+        "torque_rpm": "4000 / 1750",
+        "combustible": "Gasolina",
+        "transmision": "Manual / Automática CVT",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos": {
+            "FEEL_PACK_115_HP_MT": "205/60 R16",
+            "SHINE_TURBO_125_HP_AT": "205/60 R16"
+        },
+        "rueda_repuesto": {
+            "FEEL_PACK_115_HP_MT": true,
+            "SHINE_TURBO_125_HP_AT": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": "4343",
+        "ancho_mm": "1741",
+        "ancho_con_espejos_mm": "2014",
+        "alto_mm": "1585",
+        "distancia_ejes_mm": "2645",
+        "despeje_suelo_mm": "180",
+        "peso_bruto_kg": "1584",
+        "capacidad_maletero_lts": "490 / 1540",
+        "capacidad_estanque_lts": "47"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "FEEL_PACK_115_HP_MT": "10.6",
+            "SHINE_TURBO_125_HP_AT": "10.4"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "FEEL_PACK_115_HP_MT": "185",
+            "SHINE_TURBO_125_HP_AT": "186"
+        },
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "FEEL_PACK_115_HP_MT": "10.8",
+            "SHINE_TURBO_125_HP_AT": "10.8"
+        },
+        {
+            "caracteristica": "Consumo extraurbano (km/l)",
+            "FEEL_PACK_115_HP_MT": "17.3",
+            "SHINE_TURBO_125_HP_AT": "17.3"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "FEEL_PACK_115_HP_MT": "14.1",
+            "SHINE_TURBO_125_HP_AT": "14.1"
+        },
+        {
+            "caracteristica": "CO2 (g/km)",
+            "FEEL_PACK_115_HP_MT": "163",
+            "SHINE_TURBO_125_HP_AT": "163"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": true
+            },
+            {
+                "caracteristica": "Faros antiniebla delanteros",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": true
+            }
+        ],
+        "comfort": [
+            {
+                "caracteristica": "Climatizador automático",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": true
+            },
+            {
+                "caracteristica": "Regulador y limitador velocidad",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": true
+            }
+        ],
+        "diseño": [
+            {
+                "caracteristica": "Skidplate delantero y trasero",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": true
+            },
+            {
+                "caracteristica": "Volante cuero",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": true
+            },
+            {
+                "caracteristica": "Carrocería bi-tono",
+                "FEEL_PACK_115_HP_MT": false,
+                "SHINE_TURBO_125_HP_AT": false
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS",
+            "ESP",
+            "Hill Assist",
+            "Airbags frontales",
+            "Airbags laterales",
+            "ISOFIX",
+            "Cámara trasera",
+            "Detector presión neumáticos"
+        ],
+        "comfort": [
+            "Aire acondicionado",
+            "Pantalla táctil 10\"",
+            "Android Auto",
+            "Apple CarPlay",
+            "Bluetooth",
+            "Panel digital 7\"",
+            "Alzavidrios eléctricos",
+            "Volante multifunción"
+        ],
+        "diseño": [
+            "Luces LED DRL",
+            "Llantas 16\"",
+            "Espejos negro brillante"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura literal tabla",
+        "fuente": "Ficha Técnica Citroën Basalt",
+        "versiones_en_documento": 2,
+        "notas": "Datos tomados exclusivamente de la tabla técnica."
+    }
+}

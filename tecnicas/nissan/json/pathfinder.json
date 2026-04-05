@@ -1,0 +1,386 @@
+{
+    "vehiculo": {
+        "marca": "Nissan",
+        "modelo": "Pathfinder",
+        "año": null,
+        "versiones": [
+            "SENSE AT 3R",
+            "ADVANCE AT 3R",
+            "ADVANCE AT 3R 4WD",
+            "EXCLUSIVE AT 3R 4WD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SENSE AT 3R": "3.5",
+            "ADVANCE AT 3R": "3.5",
+            "ADVANCE AT 3R 4WD": "3.5",
+            "EXCLUSIVE AT 3R 4WD": "3.5"
+        },
+        "cilindrada": {
+            "SENSE AT 3R": null,
+            "ADVANCE AT 3R": null,
+            "ADVANCE AT 3R 4WD": null,
+            "EXCLUSIVE AT 3R 4WD": null
+        },
+        "potencia_hp": {
+            "SENSE AT 3R": "270",
+            "ADVANCE AT 3R": "270",
+            "ADVANCE AT 3R 4WD": "270",
+            "EXCLUSIVE AT 3R 4WD": "270"
+        },
+        "potencia_rpm": {
+            "SENSE AT 3R": "6.400",
+            "ADVANCE AT 3R": "6.400",
+            "ADVANCE AT 3R 4WD": "6.400",
+            "EXCLUSIVE AT 3R 4WD": "6.400"
+        },
+        "torque_nm": {
+            "SENSE AT 3R": "340",
+            "ADVANCE AT 3R": "340",
+            "ADVANCE AT 3R 4WD": "340",
+            "EXCLUSIVE AT 3R 4WD": "340"
+        },
+        "torque_rpm": {
+            "SENSE AT 3R": "4.800",
+            "ADVANCE AT 3R": "4.800",
+            "ADVANCE AT 3R 4WD": "4.800",
+            "EXCLUSIVE AT 3R 4WD": "4.800"
+        },
+        "combustible": "Gasolina 93 Octanos o superior",
+        "transmision": {
+            "SENSE AT 3R": "Automática 9 velocidades",
+            "ADVANCE AT 3R": "Automática 9 velocidades",
+            "ADVANCE AT 3R 4WD": "Automática 9 velocidades",
+            "EXCLUSIVE AT 3R 4WD": "Automática 9 velocidades"
+        },
+        "traccion": {
+            "SENSE AT 3R": "2WD",
+            "ADVANCE AT 3R": "2WD",
+            "ADVANCE AT 3R 4WD": "4WD",
+            "EXCLUSIVE AT 3R 4WD": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mcpherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": "Freno de estacionamiento electrónico + Auto Hold",
+        "neumaticos": {
+            "SENSE AT 3R": "255/60 R18",
+            "ADVANCE AT 3R": "255/50 R20",
+            "ADVANCE AT 3R 4WD": "255/50 R20",
+            "EXCLUSIVE AT 3R 4WD": "255/50 R20"
+        },
+        "rueda_repuesto": "Neumático de repuesto temporal y kit de reparación"
+    },
+    "dimensiones": {
+        "largo_mm": 5004,
+        "ancho_mm": 1978,
+        "alto_mm": 1800,
+        "distancia_ejes_mm": 2900,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": 2750,
+        "capacidad_maletero_lts": "detrás de 1ra fila 782 / 2a fila 554 / 3ra fila 205",
+        "capacidad_estanque_lts": 70,
+        "numero_pasajeros": {
+            "SENSE AT 3R": 8,
+            "ADVANCE AT 3R": 8,
+            "ADVANCE AT 3R 4WD": 8,
+            "EXCLUSIVE AT 3R 4WD": 7
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "SENSE AT 3R": "7,5",
+            "ADVANCE AT 3R": "7,5",
+            "ADVANCE AT 3R 4WD": "7,1",
+            "EXCLUSIVE AT 3R 4WD": "7,1"
+        },
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "SENSE AT 3R": "13,5",
+            "ADVANCE AT 3R": "13,5",
+            "ADVANCE AT 3R 4WD": "13",
+            "EXCLUSIVE AT 3R 4WD": "13"
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "SENSE AT 3R": "10,4",
+            "ADVANCE AT 3R": "10,4",
+            "ADVANCE AT 3R 4WD": "10",
+            "EXCLUSIVE AT 3R 4WD": "10"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "SENSE AT 3R": "18\" Aluminio",
+                "ADVANCE AT 3R": "20\" Aluminio",
+                "ADVANCE AT 3R 4WD": "20\" Aluminio",
+                "EXCLUSIVE AT 3R 4WD": "20\" Aluminio"
+            },
+            {
+                "caracteristica": "Sunroof panorámico con apertura automática",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 7\"",
+                "SENSE AT 3R": true,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Tacómetro y velocímetro análogo con pantalla de 12,3\"",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Proyector \"Head Up Display\" (HUD)",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocrómico",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Espejo retrovisor inteligente",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Luces de ambientación",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Volante de ajuste manual de altura y profundidad",
+                "SENSE AT 3R": true,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Volante con ajuste eléctrico de altura y profundidad + memoria de posición",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Tapizado de asientos en tela",
+                "SENSE AT 3R": true,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Tapizado de asientos en cuero",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Tapizado de asientos en cuero Nappa",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con memoria de posición",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Asiento del acompañante con ajuste eléctrico",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Calefacción de asientos 2da fila",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Calefacción de asientos 1era fila",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema descenso de pendientes (HDC)",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Sensores delanteros",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero inteligente (ICC)",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Alerta de punto ciego con intervención (BSI)",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Monitor de inteligencia con visión 360° (AVM) + Detector de objetos en movimiento (MOD)",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Pantalla táctil de 8\"",
+                "SENSE AT 3R": true,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Pantalla táctil de 9\"",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": false,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Sistema de sonido Bose",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            },
+            {
+                "caracteristica": "Parlantes x6",
+                "SENSE AT 3R": true,
+                "ADVANCE AT 3R": true,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": false
+            },
+            {
+                "caracteristica": "Parlantes x12",
+                "SENSE AT 3R": false,
+                "ADVANCE AT 3R": false,
+                "ADVANCE AT 3R 4WD": true,
+                "EXCLUSIVE AT 3R 4WD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neumático de repuesto temporal y kit de reparación",
+            "Faros delanteros LED con encendido automático",
+            "Faros de niebla LED",
+            "Faros traseros LED",
+            "Rieles de techo",
+            "Espejos exteriores con ajuste electrónico",
+            "Espejos exteriores con calefacción",
+            "Espejos abatibles eléctricamente"
+        ],
+        "interior": [
+            "Aire acondicionado automático trizona",
+            "Llave inteligente con sensor, botón de encendido remoto y apertura de maleta",
+            "Puerta de maletera eléctrica con apertura vía sensor de movimiento",
+            "Conectividad Apple CarPlay & Android auto",
+            "Puertos USB Tipo A (x2) y C (x2)",
+            "Controles en el volante audio, teléfono y velocidad crucero",
+            "Volante forrado en cuero",
+            "Paddle Shifter + modo manual",
+            "Ventanas eléctricas de un solo toque con apertura remota",
+            "Freno de estacionamiento electrónico + Auto Hold",
+            "Asiento del conductor con ajuste electrónico + ajuste lumbar",
+            "Calefacción de asientos 1era fila",
+            "Segunda fila de asientos abatible 60:40"
+        ],
+        "seguridad": [
+            "Asistente de frenado (BA)",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Distribución electrónica de frenado (EBD)",
+            "Airbags frontales, conductor y pasajero",
+            "Airbags laterales (2) y cortina (2)",
+            "Airbags de rodilla (conductor)",
+            "Inmovilizador y alarma",
+            "Control dinámico vehicular (VDC)",
+            "Anclaje ISOFIX",
+            "Asistente de ascenso en pendientes (HSA)",
+            "Cámara de retroceso",
+            "Sensores de retroceso",
+            "Sistema de monitoreo, presión de neumáticos"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Alerta de abandono de carril (LDW)",
+            "Prevención cambio de carril (LDP)",
+            "Frenado emergencia frontal (FEB) (Ciudad e interurbano)",
+            "Alerta punto ciego (BSW)",
+            "Alerta de tráfico cruzado trasero (CTA)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura visual de tabla de ficha técnica Nissan (punto=true, vacío o -=false; filas con un solo punto se interpretan como aplicables a todas las versiones; texto/valores tal cual)",
+        "fuente": "FICHA TECNICA NUEVA NISSAN PATHFINDER.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajo toda la información visible de la ficha. Donde el documento no muestra explícitamente un dato del formato requerido, se dejó null o arreglo vacío sin inferir."
+    }
+}

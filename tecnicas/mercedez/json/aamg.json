@@ -1,0 +1,287 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A AMG",
+        "año": null,
+        "versiones": [
+            "A 35 AMG 4MATIC",
+            "A 45s AMG 4MATIC+"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "A 35 AMG 4MATIC": "4 cilindros en línea",
+            "A 45s AMG 4MATIC+": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "A 35 AMG 4MATIC": 1991,
+            "A 45s AMG 4MATIC+": 1991
+        },
+        "potencia_hp": {
+            "A 35 AMG 4MATIC": "306 CV (+22CV)",
+            "A 45s AMG 4MATIC+": "421 CV"
+        },
+        "potencia_rpm": {
+            "A 35 AMG 4MATIC": null,
+            "A 45s AMG 4MATIC+": null
+        },
+        "torque_nm": {
+            "A 35 AMG 4MATIC": "400 Nm (+200)",
+            "A 45s AMG 4MATIC+": "500 Nm"
+        },
+        "torque_rpm": {
+            "A 35 AMG 4MATIC": null,
+            "A 45s AMG 4MATIC+": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "A 35 AMG 4MATIC": "AMG SPEEDSHIFT DCT 8G/Integral",
+            "A 45s AMG 4MATIC+": "AMG SPEEDSHIFT DCT 8G /Integral"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "A 35 AMG 4MATIC": null,
+            "A 45s AMG 4MATIC+": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 370,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "A 35 AMG 4MATIC": "11,8 km/l",
+            "A 45s AMG 4MATIC+": "11,1 km/l"
+        },
+        {
+            "caracteristica": "Velocidad máxima (AMG Driver) (Km/h)",
+            "A 35 AMG 4MATIC": "250 Km/h",
+            "A 45s AMG 4MATIC+": "270 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "A 35 AMG 4MATIC": "4,7 s",
+            "A 45s AMG 4MATIC+": "3,9 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "AMG Night Package",
+                "A 35 AMG 4MATIC": "AMG Night Package",
+                "A 45s AMG 4MATIC+": "AMG Night Package"
+            },
+            {
+                "caracteristica": "Faros LED High Performance",
+                "A 35 AMG 4MATIC": "Incluye luces de carretera automáticas con cálido tono blanco uniforme",
+                "A 45s AMG 4MATIC+": "Incluye luces de carretera automáticas con cálido tono blanco uniforme"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "A 35 AMG 4MATIC": "Con cierre automático en caso de lluvia",
+                "A 45s AMG 4MATIC+": "Con cierre automático en caso de lluvia"
+            },
+            {
+                "caracteristica": "Kit estético",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Amortiguación adaptativa",
+                "A 35 AMG 4MATIC": false,
+                "A 45s AMG 4MATIC+": "AMG RIDE CONTROL"
+            },
+            {
+                "caracteristica": "Cristales calorífugos tinteados",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": false
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "A 35 AMG 4MATIC": "19\" y 5 radios dobles color negro",
+                "A 45s AMG 4MATIC+": "19\" y 5 radios dobles color negro"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "A 35 AMG 4MATIC": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas",
+                "A 45s AMG 4MATIC+": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos y con memorias",
+                "A 35 AMG 4MATIC": "Deportivos",
+                "A 45s AMG 4MATIC+": "AMG Performance, calefactados y multicontorno"
+            },
+            {
+                "caracteristica": "Molduras",
+                "A 35 AMG 4MATIC": "Aluminio claro con rectificado longitudinal",
+                "A 45s AMG 4MATIC+": "Aluminio en diseño AMG de color negro/plata"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "A 35 AMG 4MATIC": "Cuero ártico con costuras rojas",
+                "A 45s AMG 4MATIC+": "Cuero ártico con costuras rojas"
+            },
+            {
+                "caracteristica": "Volante AMG performance en napa",
+                "A 35 AMG 4MATIC": "Incluye teclas AMG inspiradas en la fórmula 1",
+                "A 45s AMG 4MATIC+": "Incluye teclas AMG inspiradas en la fórmula 1"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": "Incluye windowbags + Airbag de rodillas"
+            },
+            {
+                "caracteristica": "Gel hermetizante para neumáticos TIREFIT",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": "Incluye compresor de inflado para neumáticos"
+            },
+            {
+                "caracteristica": "Protección vehículo URBAN 360°",
+                "A 35 AMG 4MATIC": false,
+                "A 45s AMG 4MATIC+": "Incluye alarma con sensores volumétricos"
+            },
+            {
+                "caracteristica": "Asistente de maniobra evasiva",
+                "A 35 AMG 4MATIC": false,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Función de reanudación de la marcha en autopistas",
+                "A 35 AMG 4MATIC": false,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Asistente activo de dirección",
+                "A 35 AMG 4MATIC": false,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": false
+            },
+            {
+                "caracteristica": "Asistente activo de distancias DISTRONIC",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": false
+            },
+            {
+                "caracteristica": "Función de advertencia de salida",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": false
+            },
+            {
+                "caracteristica": "Servofreno de emergencia Activo",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": false
+            },
+            {
+                "caracteristica": "Información de presión de neumáticos",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": false
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Incluye mando fónico <<Hey Mecedes>> Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "A 35 AMG 4MATIC": "Incluye sistema de carga inalámbrico para las plazas delanteras",
+                "A 45s AMG 4MATIC+": "Incluye sistema de carga inalámbrico para las plazas delanteras"
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos full digital",
+                "A 35 AMG 4MATIC": "10,25 pulgadas",
+                "A 45s AMG 4MATIC+": "10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios touch screen",
+                "A 35 AMG 4MATIC": "10,25 pulgadas",
+                "A 45s AMG 4MATIC+": "10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Paquete USB Plus de carga rápida",
+                "A 35 AMG 4MATIC": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras",
+                "A 45s AMG 4MATIC+": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras"
+            },
+            {
+                "caracteristica": "Paquete de estacionado con cámara marcha atrás",
+                "A 35 AMG 4MATIC": "Incluye asistencia de estacionado PARKTRONIC",
+                "A 45s AMG 4MATIC+": "Incluye asistencia de estacionado PARKTRONIC"
+            },
+            {
+                "caracteristica": "Sistema de sonido surround Burmester®",
+                "A 35 AMG 4MATIC": "12 altavoces, 590 vatios y personalización del sonido",
+                "A 45s AMG 4MATIC+": "12 altavoces, 590 vatios y personalización del sonido"
+            },
+            {
+                "caracteristica": "Sistema de acceso Keyless GO",
+                "A 35 AMG 4MATIC": true,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Sistema de Telemetría AMG TRACK PACE",
+                "A 35 AMG 4MATIC": false,
+                "A 45s AMG 4MATIC+": true
+            },
+            {
+                "caracteristica": "Climatización automática THERMATIC",
+                "A 35 AMG 4MATIC": "Incluye elementos de mando DEFROST",
+                "A 45s AMG 4MATIC+": "Incluye elementos de mando DEFROST"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores eléctricos",
+                "A 35 AMG 4MATIC": "Incluye tecnología con antideslumbramiento automático",
+                "A 45s AMG 4MATIC+": "Incluye tecnología con antideslumbramiento automático"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Mercedes-Benz (✓=true, vacío o -=false; regla adicional: si el ✓/texto aparece centrado, aplica a todas las versiones; texto/valores tal cual)",
+        "fuente": "Ficha Técnica Clase A AMG - Digital.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Documento con tablas: Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior y Equipamiento Interior para A 35 AMG 4MATIC y A 45s AMG 4MATIC+."
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "vehiculo": {
+        "marca": "Opel",
+        "modelo": "Crossland",
+        "año": null,
+        "versiones": [
+            "GS_MHEV",
+            "GS_ELECTRIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GS_MHEV": "1.200 cc Turbo",
+            "GS_ELECTRIC": "BEV 83 kW"
+        },
+        "cilindrada": {
+            "GS_MHEV": "1.200 cc",
+            "GS_ELECTRIC": null
+        },
+        "potencia_hp": {
+            "GS_MHEV": "136 HP",
+            "GS_ELECTRIC": "113 HP"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "GS_MHEV": "230 Nm",
+            "GS_ELECTRIC": "124,5 Nm"
+        },
+        "torque_rpm": null,
+        "combustible": {
+            "GS_MHEV": "Gasolina",
+            "GS_ELECTRIC": "Eléctrico"
+        },
+        "transmision": "Automática",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de torsión Semi Independiente",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "215/60 R17",
+        "rueda_repuesto": {
+            "GS_MHEV": "Homogénea / Kit Antipinchazo (Versión 7P)",
+            "GS_ELECTRIC": "Kit Antipinchazo"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4385,
+        "ancho_mm": 1795,
+        "alto_mm": 1655,
+        "distancia_ejes_mm": 2670,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "GS_MHEV": "1.830 / 2.020",
+            "GS_ELECTRIC": 2030
+        },
+        "capacidad_maletero_lts": {
+            "min": 460,
+            "max": 1600
+        },
+        "capacidad_estanque_lts": {
+            "GS_MHEV": 44,
+            "GS_ELECTRIC": null
+        },
+        "capacidad_bateria_kwh": {
+            "GS_MHEV": 0.88,
+            "GS_ELECTRIC": 44.2
+        }
+    },
+    "tabla_comparativa_ruedas": [],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "GS_MHEV": "1.830 / 2.020",
+            "GS_ELECTRIC": 2030
+        }
+    ],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "GS_MHEV": 26,
+            "GS_ELECTRIC": null
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GS_MHEV": 23.2,
+            "GS_ELECTRIC": null
+        },
+        {
+            "caracteristica": "Consumo extraurbano (km/l)",
+            "GS_MHEV": 21.9,
+            "GS_ELECTRIC": null
+        },
+        {
+            "caracteristica": "Rendimiento eléctrico promedio (km/kWh)",
+            "GS_MHEV": null,
+            "GS_ELECTRIC": 8
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "GS_MHEV": 194,
+            "GS_ELECTRIC": 143
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [],
+        "interior": [
+            {
+                "caracteristica": "Tercera fila de asientos",
+                "GS_MHEV": "Opcional",
+                "GS_ELECTRIC": false
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Doble Airbag frontal - Lateral - Cortina (6)",
+            "Asistente de Partida en Pendientes (HSA)",
+            "Cámara de Retroceso 130°",
+            "Control de Tracción",
+            "Control de Estabilidad ESP",
+            "Detector de presión de Neumáticos",
+            "Frenos ABS + EBD",
+            "Sensor de estacionamiento trasero",
+            "Sensor de estacionamiento delantero",
+            "Sensor de Punto Ciego"
+        ],
+        "interior": [
+            "Conectividad Apple Car Play & Android Auto Inalámbrica",
+            "Bluetooth 5.1",
+            "Cierre Centralizado",
+            "Climatizador",
+            "Computador a bordo",
+            "Control de radio al volante",
+            "Control de velocidad crucero y limitador",
+            "Espejo retrovisor electrocromático",
+            "Freno de mano eléctrico",
+            "Pantalla touch color 10\" + Panel Digital 10\"",
+            "Radio IVI High",
+            "Asientos Intelli-Seat",
+            "Volante con ajuste en altura y profundidad",
+            "Volante multifunción",
+            "Volante forrado en cuero"
+        ],
+        "exterior": [
+            "Barras de techo negras",
+            "Espejos exteriores abatibles eléctricamente",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Llantas de Aleación 17\" Bi-Tono",
+            "Luces delanteras LED",
+            "Luces de conducción diurna LED (DRL)",
+            "Luces Traseras LED",
+            "Luces de encendido automático",
+            "Luces de nivelación automáticas",
+            "Neblineros delanteros y traseros LED",
+            "Opel Vizor",
+            "Techo, espejos y manillas color negro"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 2 y 3",
+        "fuente": "New Crossland.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos únicamente desde las tablas comparativas visuales."
+    }
+}

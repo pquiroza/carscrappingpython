@@ -1,0 +1,201 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "RX5",
+        "año": null,
+        "versiones": [
+            "1.5T_MT_COM",
+            "1.5T_DCT_COM",
+            "1.5T_DCT_LUX"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5T",
+        "cilindrada": null,
+        "potencia_hp": "168",
+        "potencia_rpm": "2000-4000",
+        "torque_nm": "275",
+        "torque_rpm": "5600",
+        "combustible": null,
+        "transmision": {
+            "1.5T_MT_COM": "MT 6",
+            "1.5T_DCT_COM": "DCT 7",
+            "1.5T_DCT_LUX": "DCT 7"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Front Mcpherson",
+        "suspension_trasera": "Rear Multi-link",
+        "frenos_delanteros": "Front Disc Brake",
+        "frenos_traseros": "Rear Disc Brake",
+        "neumaticos": {
+            "1.5T_MT_COM": "235/50 R18",
+            "1.5T_DCT_COM": "235/50 R18",
+            "1.5T_DCT_LUX": "235/45 R19"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4571,
+        "ancho_mm": 1855,
+        "alto_mm": 1719,
+        "distancia_ejes_mm": 2708,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1,972",
+        "capacidad_maletero_lts": "430/1639",
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad",
+            "1.5T_MT_COM": "10,7",
+            "1.5T_DCT_COM": "10,6",
+            "1.5T_DCT_LUX": "10,6"
+        },
+        {
+            "caracteristica": "Consumo Carretera",
+            "1.5T_MT_COM": "15,8",
+            "1.5T_DCT_COM": "15,9",
+            "1.5T_DCT_LUX": "15,9"
+        },
+        {
+            "caracteristica": "Consumo Mixto",
+            "1.5T_MT_COM": "13,5",
+            "1.5T_DCT_COM": "13,4",
+            "1.5T_DCT_LUX": "13,4"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta",
+            "1.5T_MT_COM": "18\" Alloy",
+            "1.5T_DCT_COM": "18\" Alloy",
+            "1.5T_DCT_LUX": "19\" Alloy"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Sensor delantero estacionamiento",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Retrovisores plegables eléctricos",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Paquete deportivo",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento ecocuero",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Volante cuero",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": true,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Retrovisor interior atenuación automática",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Cluster digital virtual",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_COM": false,
+                "1.5T_DCT_LUX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ESP",
+            "ABS+EBD",
+            "EBA",
+            "CBC",
+            "TPMS",
+            "Airbags frontales",
+            "ISOFIX"
+        ],
+        "interior": [
+            "Asiento trasero 60/40",
+            "Volante multifunción",
+            "Sunroof panorámico",
+            "Control crucero"
+        ],
+        "exterior": [
+            "Faros LED",
+            "DRL",
+            "Barras en techo",
+            "Cristales privacidad"
+        ],
+        "tecnologia": [
+            "Pantalla 14.1\"",
+            "Apple Carplay",
+            "Android Auto",
+            "Bluetooth",
+            "USB"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-rx5.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se mapearon ● a true y - a false. Valores técnicos copiados literal del PDF."
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "2008",
+        "año": 2025,
+        "versiones": [
+            "1.2 Gasolina 130 MT",
+            "1.2 Gasolina 130 AT",
+            "1.5 Diesel 130 AT",
+            "1.2 Hybrid 136 AT"
+        ]
+    },
+    "motor": {
+        "tipo": "EB2 / DV5 / EB2 MHEV",
+        "cilindrada": "1199 / 1499",
+        "potencia_hp": "130 / 136",
+        "potencia_rpm": "5500 / 3750",
+        "torque_nm": "230 / 300",
+        "torque_rpm": "1750",
+        "combustible": "Gasolina / Diésel / Híbrido",
+        "transmision": "Manual / Automática",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": null,
+        "rueda_repuesto": "Temporal tipo galleta"
+    },
+    "dimensiones": {
+        "largo_mm": "4304",
+        "ancho_mm": "1987 / 1770",
+        "alto_mm": "1523 - 1550",
+        "distancia_ejes_mm": "2605",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1715 / 1740 / 1775 / 1790",
+        "capacidad_maletero_lts": "434 / 1467",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "GAS_130_MT": "215/65 R16 o 215/60 R17",
+            "GAS_130_AT": "215/60 R17",
+            "DIESEL_130_AT": "215/60 R17 o 215/55 R18",
+            "HYBRID_136_AT": "215/55 R18"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "GAS_130_MT": "1192",
+            "GAS_130_AT": "1205",
+            "DIESEL_130_AT": "1270",
+            "HYBRID_136_AT": "1297"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Peso remolcable (kg)",
+            "GAS_130_MT": "1200",
+            "GAS_130_AT": "1200",
+            "DIESEL_130_AT": "1200",
+            "HYBRID_136_AT": "1100"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "GAS_130_MT": "199",
+            "GAS_130_AT": "203",
+            "DIESEL_130_AT": "197",
+            "HYBRID_136_AT": "206"
+        },
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "GAS_130_MT": "10,7",
+            "GAS_130_AT": "10,3",
+            "DIESEL_130_AT": "10,3",
+            "HYBRID_136_AT": "8,3"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GAS_130_MT": "17,5",
+            "GAS_130_AT": "17,8",
+            "DIESEL_130_AT": "26,9",
+            "HYBRID_136_AT": "24,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Tapiz interior",
+                "STYLE": "Renzo",
+                "ACTIVE_PACK": "Tela",
+                "ALLURE_PACK": "Tela / TEP",
+                "GT": "Alcántara / TEP"
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico",
+                "STYLE": false,
+                "ACTIVE_PACK": false,
+                "ALLURE_PACK": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "STYLE": false,
+                "ACTIVE_PACK": false,
+                "ALLURE_PACK": false,
+                "GT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "STYLE": "16\"",
+                "ACTIVE_PACK": "16\"",
+                "ALLURE_PACK": "17\"",
+                "GT": "18\""
+            },
+            {
+                "caracteristica": "Techo Black Diamond",
+                "STYLE": false,
+                "ACTIVE_PACK": false,
+                "ALLURE_PACK": false,
+                "GT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control crucero adaptativo Stop&Go",
+                "STYLE": false,
+                "ACTIVE_PACK": false,
+                "ALLURE_PACK": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Active Safety Brake",
+                "STYLE": false,
+                "ACTIVE_PACK": false,
+                "ALLURE_PACK": false,
+                "GT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "i-Cockpit Digital",
+                "STYLE": "2D",
+                "ACTIVE_PACK": "2D",
+                "ALLURE_PACK": "3D",
+                "GT": "3D"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador automático",
+            "Volante forrado en cuero",
+            "Volante regulable en altura y profundidad",
+            "Dirección asistida eléctrica",
+            "Alzavidrios eléctricos one-touch",
+            "Bandeja cubre equipaje"
+        ],
+        "exterior": [
+            "Retrovisores exteriores negros",
+            "Parabrisas acústico tinteado",
+            "Molduras de protección laterales"
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "AFU",
+            "ESP",
+            "Hill Assist",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ISOFIX",
+            "TPMS"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica 2008 MCA 05/2025",
+        "versiones_en_documento": 4,
+        "notas": "Equipamiento cruzado por niveles Style / Active Pack / Allure Pack / GT. Datos técnicos desde tabla página 2."
+    }
+}

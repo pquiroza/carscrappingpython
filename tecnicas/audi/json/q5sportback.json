@@ -1,0 +1,269 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "Nuevo Q5 Sportback",
+        "año": null,
+        "versiones": [
+            "TFSI quattro",
+            "TFSI quattro S line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "TFSI quattro": "Motor Mild-Hybrid 2.0 TFSI",
+            "TFSI quattro S line": "Motor Mild-Hybrid 2.0 TFSI"
+        },
+        "cilindrada": {
+            "TFSI quattro": null,
+            "TFSI quattro S line": null
+        },
+        "potencia_hp": {
+            "TFSI quattro": "201",
+            "TFSI quattro S line": "201"
+        },
+        "potencia_rpm": {
+            "TFSI quattro": "4300-6000",
+            "TFSI quattro S line": "4300-6000"
+        },
+        "torque_nm": {
+            "TFSI quattro": "340",
+            "TFSI quattro S line": "340"
+        },
+        "torque_rpm": {
+            "TFSI quattro": "2000-4000",
+            "TFSI quattro S line": "2000-4000"
+        },
+        "combustible": null,
+        "transmision": {
+            "TFSI quattro": "S tronic 7 velocidades",
+            "TFSI quattro S line": "S tronic 7 velocidades"
+        },
+        "traccion": {
+            "TFSI quattro": "Integral permanente quattro",
+            "TFSI quattro S line": "Integral permanente quattro"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "ESC / ABS / EBD",
+        "frenos_traseros": "Sistema de frenos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "TFSI quattro": "235/55 R19”",
+            "TFSI quattro S line": "Audi Sport 255/45 R20”"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4717,
+        "ancho_mm": 2155,
+        "alto_mm": 1656,
+        "distancia_ejes_mm": 2828,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1985,
+        "capacidad_maletero_lts": "515 / 1.415",
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento [km/l]*",
+            "TFSI quattro": "13,5",
+            "TFSI quattro S line": "13,5"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "TFSI quattro": "7,2 seg",
+            "TFSI quattro S line": "7,2 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "TFSI quattro": "226 km/h",
+            "TFSI quattro S line": "226 km/h"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "TFSI quattro": false,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "TFSI quattro": "Sensor trasero y delantero, con cámara de retroceso y Park Assist plus",
+                "TFSI quattro S line": "Sensor trasero y delantero, con cámara 360° y Park Assist plus"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "TFSI quattro": "LED con asistencia de luces en carretera",
+                "TFSI quattro S line": "Matrix LED con Digital Light Signature"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "TFSI quattro": "LED con indicador dinámico",
+                "TFSI quattro S line": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "TFSI quattro": "235/55 R19”",
+                "TFSI quattro S line": "Audi Sport 255/45 R20”"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "TFSI quattro": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "TFSI quattro S line": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "TFSI quattro": false,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "TFSI quattro": "Automática 3 zonas",
+                "TFSI quattro S line": "Automática 3 zonas"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "TFSI quattro": "LED multicolor",
+                "TFSI quattro S line": "LED multicolor"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "TFSI quattro": "MMI Navigation Plus con pantalla Touch 14,5”",
+                "TFSI quattro S line": "MMI Navigation Plus con pantalla Touch 14,5”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "TFSI quattro": "Virtual Cockpit Plus 11,9”",
+                "TFSI quattro S line": "Virtual Cockpit Plus 11,9”"
+            },
+            {
+                "caracteristica": "Phone Box*",
+                "TFSI quattro": "Sí, con carga inalámbrica para Smartphones",
+                "TFSI quattro S line": "Sí, con carga inalámbrica para Smartphones"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "TFSI quattro": "Audi Sound System 8 altavoces + subwoofer 180 W",
+                "TFSI quattro S line": "Audi Sound System 8 altavoces + subwoofer 180 W"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "TFSI quattro": "Leather - Leatherette",
+                "TFSI quattro S line": "Leather – Leatherette perforado"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "TFSI quattro": "Apple Car Play y Android Auto",
+                "TFSI quattro S line": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "TFSI quattro": "Estándar con ajuste eléctrico y soporte lumbar",
+                "TFSI quattro S line": "Deportivos con ajuste eléctrico, soporte lumbar, calefacción, ventilación y función memoria (conductor)"
+            },
+            {
+                "caracteristica": "Volante",
+                "TFSI quattro": "Multifunción en cuero con levas de cambio",
+                "TFSI quattro S line": "Multifunción en cuero con levas de cambio"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros, central y de cortina",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Asistente de giro y evasión de obstáculos, Attention Assist, Detector de punto ciego",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Exit Warning System y Rear Cross Traffic Alert",
+                "TFSI quattro": false,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Fijación i-Size y Top Tether para asientos traseros",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Inmovilizador antirrobos",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Maletero con apertura y cierre eléctrico + Control gestual",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Kit de reparación de neumáticos y pernos de seguridad antirrobo",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            },
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "TFSI quattro": true,
+                "TFSI quattro S line": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul Navarra",
+        "Negro Mitos",
+        "Gris Tambora",
+        "Blanco Glaciar",
+        "Rojo Granada",
+        "Verde Distrito",
+        "Plata Florete",
+        "Azul Ultra",
+        "Gris Daytona"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de fichas por versión Audi (valores/texto tal cual del PDF; Sí/No -> true/false cuando aplica)",
+        "fuente": "New-Q5-Sportback-TFSI-quattro.pdf | New-Q5-Sportback-TFSI-quattro-S-line.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Audi entrega un archivo por versión; se consolidaron ambas versiones del modelo New Q5 Sportback en un solo JSON manteniendo la estructura."
+    }
+}

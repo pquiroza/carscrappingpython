@@ -1,0 +1,407 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "New CS35 Plus",
+        "año": 2024,
+        "versiones": [
+            "COMFORT",
+            "LUXURY",
+            "ELITE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "COMFORT": "BlueCore NE14T-AA",
+            "LUXURY": "BlueCore NE14T-AA",
+            "ELITE": "BlueCore NE14T-AA"
+        },
+        "cilindrada": {
+            "COMFORT": 1392,
+            "LUXURY": 1392,
+            "ELITE": 1392
+        },
+        "potencia_hp": {
+            "COMFORT": "155",
+            "LUXURY": "155",
+            "ELITE": "155"
+        },
+        "potencia_rpm": {
+            "COMFORT": null,
+            "LUXURY": null,
+            "ELITE": null
+        },
+        "torque_nm": {
+            "COMFORT": "255",
+            "LUXURY": "255",
+            "ELITE": "255"
+        },
+        "torque_rpm": {
+            "COMFORT": null,
+            "LUXURY": null,
+            "ELITE": null
+        },
+        "combustible": "Gasolina 93 octanos",
+        "transmision": {
+            "COMFORT": "Automática tipo tiptronic de 7 velocidades",
+            "LUXURY": "Automática tipo tiptronic de 7 velocidades",
+            "ELITE": "Automática tipo tiptronic de 7 velocidades"
+        },
+        "traccion": {
+            "COMFORT": "4x2",
+            "LUXURY": "4x2",
+            "ELITE": "4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "De Piñón y Cremallera"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Semi - Independiente",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "COMFORT": "215/55 R17",
+            "LUXURY": "215/55 R17",
+            "ELITE": "225/45 R18"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4335,
+        "ancho_mm": 1825,
+        "alto_mm": 1660,
+        "distancia_ejes_mm": 2600,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": 1810,
+        "capacidad_maletero_lts": 403,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5,
+        "peso_orden_marcha_kg": 1432
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "COMFORT": "9,8",
+            "LUXURY": "9,8",
+            "ELITE": "9,8"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "COMFORT": "17,6",
+            "LUXURY": "17,6",
+            "ELITE": "17,6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "COMFORT": "13,6",
+            "LUXURY": "13,6",
+            "ELITE": "13,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejo abatible eléctrico",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Calefactor espejo lateral",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17\"",
+                "COMFORT": true,
+                "LUXURY": true,
+                "ELITE": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 18\"",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Manilla de puertas color carrocería",
+                "COMFORT": true,
+                "LUXURY": true,
+                "ELITE": false
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Alzavidrios Auto-down y Auto-up conductor y pasajeros",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Apoyabrazos delantero con portaobjetos",
+                "COMFORT": true,
+                "LUXURY": true,
+                "ELITE": false
+            },
+            {
+                "caracteristica": "Asiento de conductor con regulación manual en 6 direcciones",
+                "COMFORT": true,
+                "LUXURY": true,
+                "ELITE": false
+            },
+            {
+                "caracteristica": "Asiento de conductor con regulación eléctrica en 2 direcciones y manual en 4 direcciones",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asientos",
+                "COMFORT": "Tela",
+                "LUXURY": "Ecocuero",
+                "ELITE": "Ecocuero"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Entradas USB",
+                "COMFORT": 2,
+                "LUXURY": 3,
+                "ELITE": 2
+            },
+            {
+                "caracteristica": "Luces de lectura independientes para asientos delanteros y traseros",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "COMFORT": 4,
+                "LUXURY": 4,
+                "ELITE": 6
+            },
+            {
+                "caracteristica": "Pantalla instrumentos 7”",
+                "COMFORT": true,
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales (2)",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Airbags cortina (2)",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Apertura de ventanas con control remoto",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable con absorción de energía",
+                "COMFORT": true,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control de descenso (HDC)",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Freno de emergencia automático",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de alarma anticolisión",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Recordatorio cinturón de seguridad asiento copiloto",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de control de partida en pendiente (HHC)",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de frenado de emergencia DBF",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "COMFORT": true,
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de refuerzo de frenado HBB",
+                "COMFORT": false,
+                "LUXURY": true,
+                "ELITE": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Freno de emergencia automático",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de alarma anticolisión",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "COMFORT": false,
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Apertura maletero a distancia",
+            "Barras de techo longitudinales",
+            "Espejos exteriores ajustables eléctricamente desde el interior",
+            "Espejos laterales con luces de viraje LED",
+            "Limpia y lava luneta trasera",
+            "Limpiaparabrisas delantero intermitente + intervalo variable",
+            "Llantas bitono",
+            "Luces con función Follow Me Home",
+            "Neblineros traseros",
+            "Spoiler color carrocería",
+            "Luz de día LED"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Alzavidrios conductor Auto-down",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Asiento de copiloto con regulación manual en 4 direcciones",
+            "Autohold",
+            "Cámara retroceso",
+            "Cierre centralizado",
+            "Computador a bordo",
+            "Encendido remoto de motor",
+            "Espejo interior día/noche",
+            "Luces de lectura para asientos delanteros",
+            "Radio touch de 10\" con Bluetooth",
+            "Regulación de altura de luces eléctrico",
+            "Sistema de apertura y arranque sin llaves Keyless",
+            "Tacómetro",
+            "Tapa cubre maletas retráctil",
+            "Toma de corriente 12 V",
+            "Visera piloto y copiloto con espejo de cortesía",
+            "Volante en ecocuero",
+            "Volante multifunción",
+            "Volante regulable en altura y profundidad",
+            "Porta lentes central"
+        ],
+        "seguridad": [
+            "Airbags frontales (2)",
+            "Asistencia de dirección con 3 modos",
+            "Barras de protección laterales",
+            "Alarma antirrobo",
+            "Anti pinch vidrios (niños)",
+            "Cámara de retroceso con líneas auxiliares de retroceso",
+            "Cinturones de seguridad con limitador de fuerza en asiento conductor",
+            "Cinturones de seguridad con limitador de fuerza en asiento copiloto",
+            "Encendido de luces automático",
+            "Freno de mano eléctrico (EPB)",
+            "Frenos con sistema antibloqueo (ABS), distribución electrónica (EBD) y asistencia de frenado (BA)",
+            "Inmovilizador antirrobos",
+            "Puertas traseras con seguro de niños",
+            "Recordatorio cinturón de seguridad asiento conductor",
+            "Sensores de estacionamiento traseros",
+            "Sistema de anclaje para sillas de bebe ISOFIX asientos traseros",
+            "Sistema de control de estabilidad (ESP)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Asistencia de dirección con 3 modos"
+        ]
+    },
+    "colores": [
+        "Blanco",
+        "Gris",
+        "Azul",
+        "Negro",
+        "Rojo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (check=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-técnica-changan-new-cs35-plus-2024.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo toda la información visible de las tablas de exterior, interior, seguridad, dimensiones, motor, dirección, transmisión, suspensión, frenos, tracción, rendimiento y colores."
+    }
+}

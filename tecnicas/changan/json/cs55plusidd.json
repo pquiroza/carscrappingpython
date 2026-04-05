@@ -1,0 +1,321 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "CS55 PLUS IDD",
+        "año": null,
+        "versiones": [
+            "LUXURY",
+            "ELITE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LUXURY": "PHEV",
+            "ELITE": "PHEV"
+        },
+        "cilindrada": {
+            "LUXURY": "1.5L",
+            "ELITE": "1.5L"
+        },
+        "potencia_hp": {
+            "LUXURY": "105",
+            "ELITE": "105"
+        },
+        "potencia_rpm": {
+            "LUXURY": null,
+            "ELITE": null
+        },
+        "torque_nm": {
+            "LUXURY": "133",
+            "ELITE": "133"
+        },
+        "torque_rpm": {
+            "LUXURY": null,
+            "ELITE": null
+        },
+        "combustible": "Híbrido enchufable",
+        "transmision": {
+            "LUXURY": "Electrónica",
+            "ELITE": "Electrónica"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Asistida electrónica y ajustable de 3 niveles"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Macpherson",
+        "suspension_trasera": "Suspensión Independiente Multi Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LUXURY": "225/60 (R18)",
+            "ELITE": "225/55 (R19)"
+        },
+        "rueda_repuesto": "Kit antipinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 4539,
+        "ancho_mm": 1865,
+        "alto_mm": 1680,
+        "distancia_ejes_mm": 2656,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2055,
+        "capacidad_maletero_lts": 475,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Carga máxima (kW/h)",
+            "LUXURY": "3,3",
+            "ELITE": "3,3"
+        },
+        {
+            "caracteristica": "Potencia total motor eléctrico (kW)",
+            "LUXURY": "158",
+            "ELITE": "158"
+        },
+        {
+            "caracteristica": "Potencia máxima motor eléctrico (kW)",
+            "LUXURY": "81",
+            "ELITE": "81"
+        },
+        {
+            "caracteristica": "Potencia motor eléctrico (HP / Nm)",
+            "LUXURY": "212/330 Nm",
+            "ELITE": "212/330 Nm"
+        },
+        {
+            "caracteristica": "Capacidad de batería (kW/h)",
+            "LUXURY": "18.4",
+            "ELITE": "18.4"
+        },
+        {
+            "caracteristica": "NEDC Range (km)",
+            "LUXURY": "120",
+            "ELITE": "120"
+        },
+        {
+            "caracteristica": "Rendimiento ponderado",
+            "LUXURY": "76,9 Km/L",
+            "ELITE": "76,9 Km/L"
+        },
+        {
+            "caracteristica": "Tipo de conector de carga",
+            "LUXURY": "Tipo 2",
+            "ELITE": "Tipo 2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo Solar",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "LUXURY": true,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Cámaras Exteriores",
+                "LUXURY": 4,
+                "ELITE": 4
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla Touch LCD",
+                "LUXURY": "10,2\"",
+                "ELITE": "12,3\""
+            },
+            {
+                "caracteristica": "Cargador Inalámbrico",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asiento Acompañante",
+                "LUXURY": "Manual - 4 posiciones",
+                "ELITE": "Manual - 4 posiciones"
+            },
+            {
+                "caracteristica": "Asiento Conductor",
+                "LUXURY": "Eléctrico - 6 posiciones",
+                "ELITE": "Eléctrico - 4 posiciones"
+            },
+            {
+                "caracteristica": "Capacidad de Pasajeros",
+                "LUXURY": 5,
+                "ELITE": 5
+            },
+            {
+                "caracteristica": "Sistema de Purificación de Aire",
+                "LUXURY": "PM2.5 Filter",
+                "ELITE": "PM2.5 Filter"
+            },
+            {
+                "caracteristica": "Aire Acondicionado en Plazas Traseras",
+                "LUXURY": "Salida de aire",
+                "ELITE": "Salida de aire"
+            },
+            {
+                "caracteristica": "Panel de Instrumentos Digital",
+                "LUXURY": "10\"",
+                "ELITE": "10\""
+            },
+            {
+                "caracteristica": "Toma de Corriente",
+                "LUXURY": "12 V",
+                "ELITE": "12 V"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "LUXURY": "Ecocuero - Bi color",
+                "ELITE": "Ecocuero - Bi color"
+            },
+            {
+                "caracteristica": "Alzavidrios Delanteros / Traseros",
+                "LUXURY": "One touch up/down",
+                "ELITE": "One touch up/down"
+            },
+            {
+                "caracteristica": "Capacidad Maletero (L)",
+                "LUXURY": 475,
+                "ELITE": 475
+            },
+            {
+                "caracteristica": "Volante Ajustable",
+                "LUXURY": "4 posiciones",
+                "ELITE": "4 posiciones"
+            },
+            {
+                "caracteristica": "Altavoces",
+                "LUXURY": 6,
+                "ELITE": 6
+            },
+            {
+                "caracteristica": "Entradas USB-A",
+                "LUXURY": "1 frontal / 2 traseros",
+                "ELITE": "1 frontal / 2 traseros"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "LUXURY": 6,
+                "ELITE": 6
+            },
+            {
+                "caracteristica": "Sensores de Estacionamiento Traseros (N°)",
+                "LUXURY": 3,
+                "ELITE": 3
+            },
+            {
+                "caracteristica": "Seguro de Niño",
+                "LUXURY": "Manual puertas traseras",
+                "ELITE": "Manual puertas traseras"
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Advertencia de Colisión Frontal (FCW)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Frenado Autónomo de Emergencia (AEB)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Alerta de Salida de Carril (LDW)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asistente de Mantenimiento de Carril (LKA)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Detector de Punto Ciego (BSD)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Centrado de Carril (LCC)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Asistente de Tráfico (TJA)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Encendido Remoto de Motor",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Avance/Retroceso remoto",
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de Conexión Multimedia",
+                "LUXURY": "Apple CarPlay - Android Auto inalámbricos",
+                "ELITE": "Apple CarPlay - Android Auto inalámbricos"
+            },
+            {
+                "caracteristica": "Sistema de Comandos Por Voz",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Localización remota del vehículo (bocina + luces)",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Control Remoto de Ventanas",
+                "LUXURY": false,
+                "ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de Partida con Botón",
+                "LUXURY": false,
+                "ELITE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [
+            "Apple CarPlay - Android Auto inalámbricos"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Gris",
+        "Negro",
+        "Gris ARENA",
+        "Rojo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (punto negro=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-cs55-plus-idd_2026.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó la información legible de las tablas de especificaciones generales, batería, equipamiento interior, equipamiento exterior, seguridad, equipamiento inteligente y colores, sin inventar valores no visibles."
+    }
+}

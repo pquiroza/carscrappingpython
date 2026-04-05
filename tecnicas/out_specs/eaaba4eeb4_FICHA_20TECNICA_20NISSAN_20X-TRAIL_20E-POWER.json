@@ -1,0 +1,504 @@
+{
+  "pdf": "out_nissan_brand/pdfs/eaaba4eeb4_FICHA_20TECNICA_20NISSAN_20X-TRAIL_20E-POWER.pdf",
+  "versions": [
+    "●",
+    "ANCE CVT 3R AWD E-4ORCE 18\" Aluminio",
+    "EXCLUSIVE CVT 3R AWD E-4ORCE 19\" Aluminio"
+  ],
+  "base_specs_or_equipment": {},
+  "specs_by_version": {
+    "●": {
+      "OTROS": {
+        "ESPECIFIC Motor eléctrico delantero": "●",
+        "Tipo de dirección Delantera": "●",
+        "Trasera Delanteros": "●",
+        "Tipo transmisión": "●",
+        "Tren de tracción DIMENSIONE Distancia entre ejes (mm)": "●"
+      },
+      "PESO Y DIMENSIONES": {
+        "Filas de asiento": "●",
+        "Capacidad maletero con asientos de tercera fila abatida": "●",
+        "Volant": "INTE 2de CU",
+        "Espeio retrovisor ir": "●",
+        "Freno de mano eléctri": "●",
+        "Aiuste de asiento pilc": "●",
+        "Asientos traseros al": "●",
+        "5 modos de manejo (Carrete": "●",
+        "Botón de encendido y apagado de motor": "●",
+        "Pu Spoiler t": "ertos XTE rasere",
+        "Espejos retrovisores exteriores con aju": "●",
+        "Vidrio": "●",
+        "Faros delanteros LED con er": "●",
+        "Faros traser": "●",
+        "Techo panorámico ( Airbags frontal": "le crist EGUL es cor",
+        "Airbags la": "●",
+        "Cinturones (": "●",
+        "Sistema monitorec": "●",
+        "Control dil": "●",
+        "Cámar": "●",
+        "Asistente de a NISSAN INTEL": "censc LIGED 2-Pedz",
+        "Control crucero inteligente": "●",
+        "Alerta de al": "●",
+        "Prevencie": "●",
+        "Alerta de": "colisic",
+        "Frenado de emergenciz": "●",
+        "Alerta d": "●",
+        "Alerta tráfic": "●",
+        "EQUIPAMIENTO D": "●",
+        "Neumáticos RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "ADL",
+        "Mixto (km/lts) INTERIOR Aire acondicionado automático en doble zona": "ADV",
+        "Asientos de cuero sintético": "-"
+      }
+    },
+    "ANCE CVT 3R AWD E-4ORCE 18\" Aluminio": {
+      "OTROS": {
+        "ESPECIFIC Motor eléctrico delantero": "NES TÉCNICAS 150",
+        "Motor eléctrico trasero": "●",
+        "Número y disposición de cilindros": "●",
+        "Potencia combinada (hP)": "●",
+        "Torque motor eléctrico delantero (nm)": "●",
+        "Torque motor eléctrico trasero (nm)": "●",
+        "Generador de energía motor": "●",
+        "Norma de emisiones": "●",
+        "Combustible recomendado": "●",
+        "Tipo de tracción": "●",
+        "Tipo de dirección Delantera": "CIÓN Eléctricamente NSIÓN Indeper",
+        "Trasera Delanteros": "Mult Discos Ve",
+        "Traseros": "●",
+        "Tipo transmisión": "MISIÓN Eléctrica",
+        "Tren de tracción DIMENSIONE Distancia entre ejes (mm)": "Av TERIORES Y PESO 2",
+        "Largo (mm)": "●",
+        "Ancho (mm)": "●",
+        "Alto (mm)": "●"
+      },
+      "PESO Y DIMENSIONES": {
+        "Peso neto (kg)": "●",
+        "Peso bruto (kg)": "●",
+        "Filas de asiento": "●",
+        "Capacidad maletero (Its)": "●",
+        "Capacidad maletero con asientos de tercera fila abatida": "●",
+        "Capacidad tanque combustible (Its)": "●",
+        "Volant": "RIOR Jero sintético",
+        "Espeio retrovisor ir": "antidestello automático",
+        "Freno de mano eléctri": "<-B)con función \"Auto Hold\"",
+        "Aiuste de asiento pilc": "nual (deslizable; reclinable)",
+        "Asientos traseros al": "5 40/20/40 (segunda fila)",
+        "5 modos de manejo (Carrete": "rt, eco, montaña, nieve y off",
+        "Botón de encendido y apagado de motor": "engine start) ligado con la Ila",
+        "Pu Spoiler t": "JSB Ay c RIOR 4 luz de freno",
+        "Espejos retrovisores exteriores con aju": "ctrico; plegables automático",
+        "Vidrio": "ros tintados",
+        "Faros delanteros LED con er": "do automático 4 luces diurna",
+        "Faros traser": "+ direccional LED",
+        "Techo panorámico ( Airbags frontal": "al fijo con cortina eléctrica RIDAD iductor y pasajero (2)",
+        "Airbags la": "5 (2)ycortina (2)",
+        "Cinturones (": "Jridad de 3 puntos",
+        "Sistema monitorec": "5n de neumáticos (TPMS)",
+        "Control dil": "2 vehicular (VDC)",
+        "Cámar": "isión trasera",
+        "Asistente de a NISSAN INTEL": "en pendientes (HSA) NISSAN INTELLIGENT MOBILITY VT MOBILITY I STEP",
+        "Control crucero inteligente": "ajuste de límite de velocidad",
+        "Alerta de al": "no de carril (LDW)",
+        "Prevencie": "Jbio carril (LDP)",
+        "Alerta de": "n frontal (FCW)",
+        "Frenado de emergenciz": "al (FEB) (ciudad e interurbanc",
+        "Alerta d": "0 ciego (BSW)",
+        "Alerta tráfic": "ado trasero (CTA)",
+        "EQUIPAMIENTO D": "ENCIAL POR VERS",
+        "Neumáticos RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "235/60 R18 ANCE CVT 3R AWD E-4ORCE 17,5",
+        "Carretera (km/lts)": "●",
+        "Mixto (km/lts) INTERIOR Aire acondicionado automático en doble zona": "17,4 ANCE CVT 3R AWD E-4ORCE",
+        "Asientos de tela": "●",
+        "Tacómetro y velocímetro análogo con pantalla de 7\"": "●",
+        "A-IVI ST3.1 con pantalla de 8\" + 6 parlantes": "●",
+        "A-IVI ST3.1 con pantalla de 12,3\" Bose 8 + 1 parlantes EXTERIOR Limpia parabrisas automático variable, intermitente y con sensor de velocidad": "ANCE CVT 3R AWD E-4ORCE"
+      }
+    },
+    "EXCLUSIVE CVT 3R AWD E-4ORCE 19\" Aluminio": {
+      "OTROS": {
+        "ESPECIFIC Motor eléctrico delantero": "●",
+        "Motor eléctrico trasero": "●",
+        "Número y disposición de cilindros": "●",
+        "Potencia combinada (hP)": "11",
+        "Torque motor eléctrico delantero (nm)": "●",
+        "Torque motor eléctrico trasero (nm)": "●",
+        "Generador de energía motor": "●",
+        "Norma de emisiones": "●",
+        "Combustible recomendado": "0 superior",
+        "Tipo de tracción": "●",
+        "Tipo de dirección Delantera": "' Asistida (EPS) idiente",
+        "Trasera Delanteros": "ilink ntilados",
+        "Traseros": "ntilados",
+        "Tipo transmisión": "●",
+        "Tren de tracción DIMENSIONE Distancia entre ejes (mm)": "●",
+        "Largo (mm)": "●",
+        "Ancho (mm)": "●",
+        "Alto (mm)": "●"
+      },
+      "PESO Y DIMENSIONES": {
+        "Peso neto (kg)": "●",
+        "Peso bruto (kg)": "●",
+        "Capacidad maletero (Its)": "●",
+        "Capacidad maletero con asientos de tercera fila abatida": "●",
+        "Capacidad tanque combustible (Its)": "●",
+        "5 modos de manejo (Carrete": "●",
+        "Botón de encendido y apagado de motor": "ve inteligente i-KEY",
+        "Espejos retrovisores exteriores con aju": "5 y calefactable",
+        "Faros delanteros LED con er": "●",
+        "Control crucero inteligente": "●",
+        "EQUIPAMIENTO D": "IÓN",
+        "Neumáticos RENDIMIENTO DE COMBUSTIBLE Cuidad (km/lts)": "235/55 R19 EXCLUSIVE CVT 3R AWD E-4ORCE 17,5",
+        "Carretera (km/lts)": "●",
+        "Mixto (km/lts) INTERIOR Aire acondicionado automático en doble zona": "17,4 EXCLUSIVE CVT 3R AWD E-4ORCE",
+        "Aire acondicionado automático en triple zona": "●",
+        "Asientos delanteros calefactables": "●",
+        "Asientos de cuero sintético": "●",
+        "lluminación de ambiente": "●",
+        "Tacómetro y velocímetro análogo con pantalla de 12,3\"": "●",
+        "Proyector Head up Display (HUD)": "●",
+        "Cargador inalámbrico para celular": "●",
+        "A-IVI ST3.1 con pantalla de 12,3\" Bose 8 + 1 parlantes EXTERIOR Limpia parabrisas automático variable, intermitente y con sensor de velocidad": "EXCLUSIVE CVT 3R AWD E-4ORCE"
+      }
+    }
+  },
+  "equipment_by_version": {
+    "●": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "ADV",
+        "Monitor de visión periférica (AVM) 4 detector de objetos en movimiento (MOD)": "No"
+      }
+    },
+    "ANCE CVT 3R AWD E-4ORCE 18\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "ANCE CVT 3R AWD E-4ORCE",
+        "Monitor de visión periférica (AVM) 4 detector de objetos en movimiento (MOD)": "No"
+      }
+    },
+    "EXCLUSIVE CVT 3R AWD E-4ORCE 19\" Aluminio": {
+      "NISSAN INTELLIGENT MOBILITY": {
+        "NISSAN INTELLIGENT MOBILITY": "EXCLUSIVE CVT 3R AWD E-4ORCE",
+        "Monitor de visión periférica (AVM) 4 detector de objetos en movimiento (MOD)": "No"
+      }
+    }
+  },
+  "debug": {
+    "boxes_found": [
+      [
+        259,
+        5326,
+        5742,
+        16089
+      ]
+    ],
+    "picked_kv_box": null,
+    "picked_comp_box": [
+      259,
+      5326,
+      5742,
+      16089
+    ],
+    "comp_matrix_preview": [
+      [
+        "ESPECIFIC Motor eléctrico delantero",
+        "●",
+        "NES TÉCNICAS 150",
+        "●"
+      ],
+      [
+        "Motor eléctrico trasero",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Número y disposición de cilindros",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Potencia combinada (hP)",
+        "",
+        "●",
+        "11"
+      ],
+      [
+        "Torque motor eléctrico delantero (nm)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Torque motor eléctrico trasero (nm)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Generador de energía motor",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Norma de emisiones",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Combustible recomendado",
+        "",
+        "●",
+        "0 superior"
+      ],
+      [
+        "Tipo de tracción",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Tipo de dirección Delantera",
+        "●",
+        "CIÓN Eléctricamente NSIÓN Indeper",
+        "' Asistida (EPS) idiente"
+      ],
+      [
+        "Trasera Delanteros",
+        "●",
+        "Mult Discos Ve",
+        "ilink ntilados"
+      ],
+      [
+        "Traseros",
+        "",
+        "●",
+        "ntilados"
+      ],
+      [
+        "Asistente de frenado (BA)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Sistema antibloqueo de frenos (ABS)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Distribución electrónica de frenado (EBD)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tipo transmisión",
+        "●",
+        "MISIÓN Eléctrica",
+        "●"
+      ],
+      [
+        "Tren de tracción DIMENSIONE Distancia entre ejes (mm)",
+        "●",
+        "Av TERIORES Y PESO 2",
+        "●"
+      ],
+      [
+        "Largo (mm)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Ancho (mm)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Alto (mm)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Peso neto (kg)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Peso bruto (kg)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Filas de asiento",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Número de pasajeros",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Capacidad maletero (Its)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Capacidad maletero con asientos de tercera fila abatida",
+        "●",
+        "●",
+        "●"
+      ],
+      [
+        "Capacidad tanque combustible (Its)",
+        "",
+        "●",
+        "●"
+      ],
+      [
+        "Volant",
+        "INTE 2de CU",
+        "RIOR Jero sintético",
+        ""
+      ],
+      [
+        "Espeio retrovisor ir",
+        "●",
+        "antidestello automático",
+        ""
+      ],
+      [
+        "Freno de mano eléctri",
+        "●",
+        "<-B)con función \"Auto Hold\"",
+        ""
+      ],
+      [
+        "Aiuste de asiento pilc",
+        "●",
+        "nual (deslizable; reclinable)",
+        ""
+      ],
+      [
+        "Asientos traseros al",
+        "●",
+        "5 40/20/40 (segunda fila)",
+        ""
+      ],
+      [
+        "5 modos de manejo (Carrete",
+        "●",
+        "rt, eco, montaña, nieve y off",
+        "●"
+      ],
+      [
+        "Botón de encendido y apagado de motor",
+        "●",
+        "engine start) ligado con la Ila",
+        "ve inteligente i-KEY"
+      ],
+      [
+        "Pu Spoiler t",
+        "ertos XTE rasere",
+        "JSB Ay c RIOR 4 luz de freno",
+        ""
+      ],
+      [
+        "Espejos retrovisores exteriores con aju",
+        "●",
+        "ctrico; plegables automático",
+        "5 y calefactable"
+      ],
+      [
+        "Vidrio",
+        "●",
+        "ros tintados",
+        ""
+      ],
+      [
+        "Faros delanteros LED con er",
+        "●",
+        "do automático 4 luces diurna",
+        "●"
+      ],
+      [
+        "Faros traser",
+        "●",
+        "+ direccional LED",
+        ""
+      ],
+      [
+        "Techo panorámico ( Airbags frontal",
+        "le crist EGUL es cor",
+        "al fijo con cortina eléctrica RIDAD iductor y pasajero (2)",
+        ""
+      ],
+      [
+        "Airbags la",
+        "●",
+        "5 (2)ycortina (2)",
+        ""
+      ],
+      [
+        "Cinturones (",
+        "●",
+        "Jridad de 3 puntos",
+        ""
+      ],
+      [
+        "Sistema monitorec",
+        "●",
+        "5n de neumáticos (TPMS)",
+        ""
+      ],
+      [
+        "",
+        "●",
+        "●",
+        ""
+      ],
+      [
+        "Control dil",
+        "●",
+        "2 vehicular (VDC)",
+        ""
+      ],
+      [
+        "Cámar",
+        "●",
+        "isión trasera",
+        ""
+      ],
+      [
+        "Asistente de a NISSAN INTEL",
+        "censc LIGED 2-Pedz",
+        "en pendientes (HSA) NISSAN INTELLIGENT MOBILITY VT MOBILITY I STEP",
+        ""
+      ],
+      [
+        "Control crucero inteligente",
+        "●",
+        "ajuste de límite de velocidad",
+        "●"
+      ],
+      [
+        "Alerta de al",
+        "●",
+        "no de carril (LDW)",
+        ""
+      ]
+    ],
+    "kv_matrix_preview": []
+  }
+}

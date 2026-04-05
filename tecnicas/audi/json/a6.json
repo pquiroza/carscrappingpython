@@ -1,0 +1,282 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "A6 Sportback e-tron",
+        "año": null,
+        "versiones": [
+            "S line",
+            "Performance S line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "S line": "Motor eléctrico (1 motor sincrónico en eje trasero)",
+            "Performance S line": "Motor eléctrico (1 motor sincrónico en eje trasero)"
+        },
+        "cilindrada": {
+            "S line": null,
+            "Performance S line": null
+        },
+        "potencia_hp": {
+            "S line": "282",
+            "Performance S line": "362"
+        },
+        "potencia_rpm": {
+            "S line": null,
+            "Performance S line": null
+        },
+        "torque_nm": {
+            "S line": "435",
+            "Performance S line": "565"
+        },
+        "torque_rpm": {
+            "S line": null,
+            "Performance S line": null
+        },
+        "combustible": null,
+        "transmision": {
+            "S line": "Automática de 1 velocidad",
+            "Performance S line": "Automática de 1 velocidad"
+        },
+        "traccion": {
+            "S line": "Trasera",
+            "Performance S line": "Trasera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "S line": "Audi Sport, Delanteras 245/40 R21” – Traseras 275/35 R21”",
+            "Performance S line": "Audi Sport, Delanteras 245/40 R21” – Traseras 275/35 R21”"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4928,
+        "ancho_mm": 2137,
+        "alto_mm": 1501,
+        "distancia_ejes_mm": 2951,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2175,
+        "capacidad_maletero_lts": "502 / 1.330",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía eléctrica (km)",
+            "S line": "Hasta 627 km",
+            "Performance S line": "Hasta 756 km"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "S line": "6,0 seg",
+            "Performance S line": "5,4 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "S line": "210 km/h",
+            "Performance S line": "210 km/h"
+        },
+        {
+            "caracteristica": "Capacidad bruta de la batería",
+            "S line": "83 kW",
+            "Performance S line": "100 kW"
+        },
+        {
+            "caracteristica": "Velocidad de carga (Cargador de 150kW DC)",
+            "S line": "30 min",
+            "Performance S line": "30 min"
+        },
+        {
+            "caracteristica": "Velocidad de carga (Cargador de 11kW AC)",
+            "S line": "7 horas",
+            "Performance S line": "7 horas"
+        },
+        {
+            "caracteristica": "Velocidad de carga (Cargador de 1,6kW AC)",
+            "S line": "60 horas",
+            "Performance S line": "60 horas"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Diseño",
+                "S line": "S line, calipers en color rojo, logo trasero Audi iluminado.",
+                "Performance S line": "S line, calipers en color rojo, logo trasero Audi iluminado."
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "S line": "Sensor trasero y delantero, con cámara 360° y park assist",
+                "Performance S line": "Sensor trasero y delantero, con cámara 360° y park assist"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "S line": "Matrix LED con indicador dinámico y Digital Light Signature (8 opciones)",
+                "Performance S line": "Matrix LED con indicador dinámico y Digital Light Signature (8 opciones)"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "S line": "LED con indicador dinámico",
+                "Performance S line": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Suspensión",
+                "S line": "Tren de rodaje dinámico",
+                "Performance S line": "Tren de rodaje dinámico"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "S line": "Sí, con ajuste de transparencia",
+                "Performance S line": "Sí, con ajuste de transparencia"
+            },
+            {
+                "caracteristica": "Portalón",
+                "S line": "Apertura y cierre eléctrico",
+                "Performance S line": "Apertura y cierre eléctrico"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "S line": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "Performance S line": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "S line": "Automática 3 zonas, con preclimatización",
+                "Performance S line": "Automática 3 zonas, con preclimatización"
+            },
+            {
+                "caracteristica": "Head-up Display",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Iluminación",
+                "S line": "LED multicolor, Proyección LED en puertas con logo e-tron",
+                "Performance S line": "LED multicolor, Proyección LED en puertas con logo e-tron"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "S line": "MMI con pantalla Touch 14,5” + Pantalla Touch 10,9’’ para el acompañante",
+                "Performance S line": "MMI con pantalla Touch 14,5” + Pantalla Touch 10,9’’ para el acompañante"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "S line": "Virtual Cockpit Plus 11,9”",
+                "Performance S line": "Virtual Cockpit Plus 11,9”"
+            },
+            {
+                "caracteristica": "Phone Box*",
+                "S line": "Cargador compacto e-tron de hasta 11kW (AC) / Cable para carga pública modo 3",
+                "Performance S line": "Cargador compacto e-tron de hasta 11kW (AC) / Cable para carga pública modo 3"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "S line": "Bang &amp; Olufsen 16 altavoces + subwoofer 705W",
+                "Performance S line": "Bang &amp; Olufsen 16 altavoces + subwoofer 705W"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "S line": "Leather-Leatherette con logo S en relieve y techo interior en negro",
+                "Performance S line": "Leather-Leatherette con logo S en relieve y techo interior en negro"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "S line": "Apple Car Play y Android Auto",
+                "Performance S line": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "S line": "Deportivos con ajuste eléctrico y función memoria (conductor), calefactados (delanteros y traseros), ventilados y con soporte lumbar",
+                "Performance S line": "Deportivos con ajuste eléctrico y función memoria (conductor), calefactados (delanteros y traseros), ventilados y con soporte lumbar"
+            },
+            {
+                "caracteristica": "Volante",
+                "S line": "Deportivo multifunción en cuero con levas de cambio y calefactado",
+                "Performance S line": "Deportivo multifunción en cuero con levas de cambio y calefactado"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros y traseros, de cortina",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Asistencia al arranque en pendiente",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo con limitador de velocidad",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Kit de reparación de neumáticos y pernos de seguridad antirrobo",
+                "S line": true,
+                "Performance S line": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "S line": true,
+                "Performance S line": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul Pacífico",
+        "Azul Plasma",
+        "Beige Siam",
+        "Blanco Glaciar",
+        "Gris Daytona",
+        "Gris Magnético",
+        "Negro Mitos"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de fichas por versión Audi (valores/texto tal cual; Sí/No -> true/false cuando aplica)",
+        "fuente": "A6-Sportback-e-tron-S-line.pdf | A6-Sportback-e-tron-Performance-S-line.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Audi entrega un archivo por versión; se consolidaron ambas versiones del modelo A6 Sportback e-tron en un solo JSON manteniendo la estructura. En los PDFs, se indica “Capacidad bruta de la batería” (kW) y tipo de batería, pero no se especifica capacidad de estanque (por ser EV), por eso capacidad_estanque_lts queda null."
+    }
+}

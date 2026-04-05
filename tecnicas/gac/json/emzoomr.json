@@ -1,0 +1,401 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "EMZOOM R-STYLE",
+        "año": null,
+        "versiones": [
+            "1.5 GL R-STYLE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5 GL R-STYLE": "1.5 Turbo"
+        },
+        "cilindrada": {
+            "1.5 GL R-STYLE": 1497
+        },
+        "potencia_hp": {
+            "1.5 GL R-STYLE": "174"
+        },
+        "potencia_rpm": {
+            "1.5 GL R-STYLE": "5500"
+        },
+        "torque_nm": {
+            "1.5 GL R-STYLE": "270"
+        },
+        "torque_rpm": {
+            "1.5 GL R-STYLE": "1400 - 4500"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5 GL R-STYLE": "7WDCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctrica (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson Independent Suspension",
+        "suspension_trasera": "Multi-link Beam Independiente",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de estacionamiento electrónico (con Autohold)",
+        "neumaticos": {
+            "1.5 GL R-STYLE": "235/45R19"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4410,
+        "ancho_mm": 1850,
+        "alto_mm": 1600,
+        "distancia_ejes_mm": 2650,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "341L / 1271L",
+        "capacidad_estanque_lts": 47,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "1.5 GL R-STYLE": "12.7"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "1.5 GL R-STYLE": "19.6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "1.5 GL R-STYLE": "16.4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Neumático de repuesto",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Manijas de puerta ocultas eléctricas",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Faros LED",
+                "1.5 GL R-STYLE": "LED / Función Follow Me Home / Alarma luces encendidas"
+            },
+            {
+                "caracteristica": "Luces LED de circulación diurna",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Faros automáticos",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Luces de lectura trasera",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Luz trasera antiniebla",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos ajustables",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Espejos laterales plegables eléctricos con calefacción",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero con sensor de lluvia",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Parabrisas trasero calefactable",
+                "1.5 GL R-STYLE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Aire acondicionado de segunda fila",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Filtro de aire PM 1.0",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Volante de cuero",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Asientos de ecocuero",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Ajuste manual de 6 posiciones del asiento del conductor",
+                "1.5 GL R-STYLE": false
+            },
+            {
+                "caracteristica": "Ajuste eléctrico de 6 direcciones del asiento del conductor",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Ajuste manual de 4 direcciones del asiento del pasajero delantero",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Apoyabrazos central trasero",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Reposacabezas central trasero",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Ajuste del respaldo del asiento de la segunda fila + plegado dividido 40/60",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Ventanas eléctricas de subida y bajada con un solo toque en la fila delantera y segunda fila",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Parasol (con espejo)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Parasol delantero (con espejo y luz)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Luces ambientales interiores",
+                "1.5 GL R-STYLE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales dobles",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Airbags laterales de cortina",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de la primera fila con limitadores de fuerza",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de la primera fila con pretensores y limitadores de fuerza",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de la primera fila con recordatorios de desabrochado (luz y sonido)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de segunda fila con limitadores de fuerza",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de segunda fila con pretensores y limitadores de fuerza",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de segunda fila con recordatorios de desabrochado",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Control de espera en arranque en pendiente (HHC)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Control de descenso de pendientes (HDC)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento electrónico (con Autohold)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Programa Electrónico de Estabilidad (ESP)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Anclajes ISOFIX para asientos de seguridad para niños",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Inmovilizador del motor (con alarma antirrobo)",
+                "1.5 GL R-STYLE": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control de crucero",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Sistema de cámara de visión trasera",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Sistema de cámara de visión envolvente",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo (ACC)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Asistente de crucero integrado (ICA)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia (AEB)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión frontal (FCW)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Sistema de reconocimiento de señales de tráfico (TSR)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Asistente para atascos de tráfico (TJA)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Asistente de luces altas (HMA)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Control inteligente de límite de velocidad",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril (LDW)",
+                "1.5 GL R-STYLE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Carplay inalámbrico",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Carbit Link - Android",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Pantalla táctil multifuncional de 10,25 pulgadas",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Tablero de instrumentos LCD de 7 pulgadas",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "6 Parlantes",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Puertos USB frontales (TIPO C)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Puertos USB frontales (TIPO A)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Puerto USB trasero (TIPO A)",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Sistema telefónico manos libres Bluetooth",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Encendido a distancia",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Modo Eco",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Modo Comfort",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Modo Sport",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Modo Sport+",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Maleta ajustable en apertura con memoria",
+                "1.5 GL R-STYLE": true
+            },
+            {
+                "caracteristica": "Válvula apertura de escape",
+                "1.5 GL R-STYLE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_EMZOOM-RSTYLE.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información visible en tablas y secciones del documento (5 páginas). Norma Euro 6C."
+    }
+}

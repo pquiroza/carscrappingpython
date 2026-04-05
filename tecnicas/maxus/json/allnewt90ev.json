@@ -1,0 +1,480 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "ALL NEW T90 EV",
+        "año": null,
+        "versiones": [
+            "GL_4X4",
+            "GLX_4X4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL_4X4": "Motores eléctricos 250 kW + 150 kW",
+            "GLX_4X4": "Motores eléctricos 250 kW + 150 kW"
+        },
+        "cilindrada": {
+            "GL_4X4": null,
+            "GLX_4X4": null
+        },
+        "potencia_hp": {
+            "GL_4X4": "442",
+            "GLX_4X4": "442"
+        },
+        "potencia_rpm": {
+            "GL_4X4": null,
+            "GLX_4X4": null
+        },
+        "torque_nm": {
+            "GL_4X4": "700",
+            "GLX_4X4": "700"
+        },
+        "torque_rpm": {
+            "GL_4X4": null,
+            "GLX_4X4": null
+        },
+        "combustible": {
+            "GL_4X4": "Electricidad",
+            "GLX_4X4": "Electricidad"
+        },
+        "sistema_alimentacion": {
+            "GL_4X4": null,
+            "GLX_4X4": null
+        },
+        "norma_emisiones": {
+            "GL_4X4": null,
+            "GLX_4X4": null
+        },
+        "transmision": {
+            "GL_4X4": "Automática",
+            "GLX_4X4": "Automática"
+        },
+        "traccion": {
+            "GL_4X4": "4WD",
+            "GLX_4X4": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Independiente",
+        "frenos_delanteros": "Disco (en 4 ruedas)",
+        "frenos_traseros": "Disco (en 4 ruedas)",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "GL_4X4": "265/65 R18 AT",
+            "GLX_4X4": "275/55 R20"
+        },
+        "rueda_repuesto": {
+            "GL_4X4": "265/65 R18 AT",
+            "GLX_4X4": "275/55 R20"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 5500,
+        "ancho_mm": 1997,
+        "alto_mm": {
+            "GL_4X4": 1860,
+            "GLX_4X4": 1874
+        },
+        "distancia_ejes_mm": 3300,
+        "numero_pasajeros": null,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de batería (kW)",
+            "GL_4X4": "102,2",
+            "GLX_4X4": "102,2"
+        },
+        {
+            "caracteristica": "Tipo de conector de carga",
+            "GL_4X4": "Tipo 2 / CCS2",
+            "GLX_4X4": "Tipo 2 / CCS2"
+        },
+        {
+            "caracteristica": "Potencia máxima de carga en AC / Tiempo de carga 5%-100%",
+            "GL_4X4": "11 kW / 12H",
+            "GLX_4X4": "11 kW / 12H"
+        },
+        {
+            "caracteristica": "Potencia máxima de carga en DC / Tiempo de carga 5%-100%",
+            "GL_4X4": "115 kW / 0,7H",
+            "GLX_4X4": "115 kW / 0,7H"
+        },
+        {
+            "caracteristica": "Modos de conducción",
+            "GL_4X4": "Normal / Eco / Sport",
+            "GLX_4X4": "Normal / Eco / Sport"
+        },
+        {
+            "caracteristica": "Modo conducción todo terreno",
+            "GL_4X4": true,
+            "GLX_4X4": true
+        },
+        {
+            "caracteristica": "Profundidad de vadeo (mm)",
+            "GL_4X4": "550",
+            "GLX_4X4": "550"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre (kg) (carro con freno)",
+            "GL_4X4": "3.500",
+            "GLX_4X4": "3.500"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "GL_4X4": "650",
+            "GLX_4X4": "620"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "GL_4X4": "3.500",
+            "GLX_4X4": "3.500"
+        },
+        {
+            "caracteristica": "Despeje del suelo (mm)",
+            "GL_4X4": "230",
+            "GLX_4X4": "230"
+        },
+        {
+            "caracteristica": "Llantas de aleación",
+            "GL_4X4": "18\"",
+            "GLX_4X4": "20\""
+        },
+        {
+            "caracteristica": "Neumáticos",
+            "GL_4X4": "265/65 R18 AT",
+            "GLX_4X4": "275/55 R20"
+        },
+        {
+            "caracteristica": "Rueda de repuesto",
+            "GL_4X4": "265/65 R18 AT",
+            "GLX_4X4": "275/55 R20"
+        },
+        {
+            "caracteristica": "Marca de neumáticos",
+            "GL_4X4": "KUMHO",
+            "GLX_4X4": "CONTINENTAL"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Maletero frontal con apertura eléctrica",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con ajuste eléctrico",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Espejos exteriores calefaccionados",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Iluminación exterior frontal",
+                "GL_4X4": "LED",
+                "GLX_4X4": "LED"
+            },
+            {
+                "caracteristica": "Iluminación exterior trasera",
+                "GL_4X4": "LED",
+                "GLX_4X4": "LED"
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Iluminación LED diurna",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "GL_4X4": "Delanteros y traseros",
+                "GLX_4X4": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero automático",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Volante forrado en ecocuero",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Volante ajustable en altura y profundidad",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor anti encandilamiento",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Ajuste asiento conductor",
+                "GL_4X4": "Eléctrico 6 posiciones",
+                "GLX_4X4": "Eléctrico 8 posiciones"
+            },
+            {
+                "caracteristica": "Ajuste asiento copiloto",
+                "GL_4X4": "Manual 6 posiciones",
+                "GLX_4X4": "Eléctrico 6 posiciones"
+            },
+            {
+                "caracteristica": "Asiento conducto con masajeador",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Tapiz de asientos",
+                "GL_4X4": "Tela",
+                "GLX_4X4": "Ecocuero"
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "GL_4X4": "Digital 12,3\"",
+                "GLX_4X4": "Digital 12,3\""
+            },
+            {
+                "caracteristica": "Cargador inalámbrico 15W",
+                "GL_4X4": false,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Keyless",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Botón de encendido",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Iluminación ambiente",
+                "GL_4X4": false,
+                "GLX_4X4": "SI, 64 colores"
+            },
+            {
+                "caracteristica": "Salida de aire en plazas traseras",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Conectividad inalámbrica Apple Car Play / Android Auto",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "GL_4X4": "4",
+                "GLX_4X4": "8 (JBL)"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Certificación",
+                "GL_4X4": "5 estrellas EURONCAP",
+                "GLX_4X4": "5 estrellas EURONCAP"
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Alarma de cambio de carril LDW",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Asistencia de cambio de carril LKA",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Monitor de punto ciego",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Monitor de fatiga del conductor",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Sistema de mitigación de vuelco",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Sistema antibloqueo de frenos ABS",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Asistente de frenado de emergencia EBA",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Control de estabilidad ESP",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos TPMS",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Airbag central",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "GL_4X4": "Trasera",
+                "GLX_4X4": "360° HD"
+            },
+            {
+                "caracteristica": "Alarma de exceso de velocidad ajustable",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad con pretensor",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Sistema para protección de niños ISOFIX + TopTether",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Recordatorio de uso de cinturón de seguridad",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "GL_4X4": true,
+                "GLX_4X4": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; cuando hay una sola columna, aplica a todas las versiones).",
+        "fuente": "MAXUS_FT-ALL NEW T90 EV (1).pdf",
+        "versiones_en_documento": 2,
+        "notas": "Garantía general: 5 años o 160.000 km; Batería: 8 años o 200.000 km"
+    }
+}

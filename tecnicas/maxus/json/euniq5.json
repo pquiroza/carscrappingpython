@@ -1,0 +1,311 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "EUNIQ 5",
+        "año": null,
+        "versiones": [
+            "EUNIQ5"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EUNIQ5": "Motor sincrono de iman permanente (PMSM)"
+        },
+        "cilindrada": {
+            "EUNIQ5": null
+        },
+        "potencia_hp": {
+            "EUNIQ5": "174"
+        },
+        "potencia_rpm": {
+            "EUNIQ5": null
+        },
+        "torque_nm": {
+            "EUNIQ5": "310"
+        },
+        "torque_rpm": {
+            "EUNIQ5": null
+        },
+        "combustible": {
+            "EUNIQ5": "Eléctrico"
+        },
+        "sistema_alimentacion": {
+            "EUNIQ5": null
+        },
+        "norma_emisiones": {
+            "EUNIQ5": null
+        },
+        "transmision": {
+            "EUNIQ5": "Automática"
+        },
+        "traccion": {
+            "EUNIQ5": "Delantera 4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección eléctricamente asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Sistema MacPherson con barra estabilizadora",
+        "suspension_trasera": "Sistema Multi-link independiente",
+        "frenos_delanteros": "Frenos de disco delanteros y traseros",
+        "frenos_traseros": "Frenos de disco delanteros y traseros",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "EUNIQ5": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4825,
+        "ancho_mm": 1825,
+        "alto_mm": 1800,
+        "distancia_ejes_mm": 2800,
+        "numero_pasajeros": 6,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Peso en orden de marcha (kg)",
+            "EUNIQ5": "1.810"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "EUNIQ5": "2.351"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre (kg)",
+            "EUNIQ5": "400"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "EUNIQ5": "160"
+        },
+        {
+            "caracteristica": "Modos de conducción (Eco/Normal/Sport)",
+            "EUNIQ5": true
+        },
+        {
+            "caracteristica": "Tipo de baterías",
+            "EUNIQ5": "Litio-ferrofosfato (LFP)"
+        },
+        {
+            "caracteristica": "Capacidad de batería (kWh)",
+            "EUNIQ5": "70"
+        },
+        {
+            "caracteristica": "Potencia de carga en DC (kW)",
+            "EUNIQ5": "60"
+        },
+        {
+            "caracteristica": "Potencia de carga en AC (kW)",
+            "EUNIQ5": "7"
+        },
+        {
+            "caracteristica": "Sistema de refrigeración/calentamiento de baterías",
+            "EUNIQ5": true
+        },
+        {
+            "caracteristica": "Rendimiento 3CV",
+            "EUNIQ5": "3,9 km/kWh"
+        },
+        {
+            "caracteristica": "Tiempo de carga AC (20% al 100% a potencia máx.)",
+            "EUNIQ5": "8 horas"
+        },
+        {
+            "caracteristica": "Tiempo de carga DC (20% al 80% a potencia máx.)",
+            "EUNIQ5": "45 minutos"
+        },
+        {
+            "caracteristica": "WLTP - ciclo combinado (km)",
+            "EUNIQ5": "360*"
+        },
+        {
+            "caracteristica": "WLTP - ciclo ciudad (km)",
+            "EUNIQ5": "437*"
+        },
+        {
+            "caracteristica": "Freno regenerativo",
+            "EUNIQ5": "3 niveles"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces principales LED",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Luz diurna LED",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Luces de posicionamiento traseras LED",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Espejos con ajuste eléctricos y calefaccionados",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Espejos abatibles eléctricamente",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Llantas de aleación de 17''",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Puerta de maletero eléctrica con anti atrape",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Spoiler trasero",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "EUNIQ5": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Asientos de cuero",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Calefacción de asientos delanteros",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos digital de 12''",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Pantalla touch de 12''",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Conexión Apple Carplay",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Volante multifunción forrado en cuero",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico de celulares",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Keyless entry y botón de encendido",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Luces ambiente multicolor",
+                "EUNIQ5": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS / EBD / EBA",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESC)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente (HHC)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Monitoreo de presión de neumáticos (TPMS)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Doble airbag frontal",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Airbag lateral",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Airbag de cortina",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros y traseros",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento electrónico + Autohold",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Alarma de cinturón de seguridad en 5 plazas",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Anclajes Isofix",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Alarma de colisión frontal (FCWS)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (AEB)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado (RCTA)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Alarma cambio de carril (LDW)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Reconocimiento señales de tráfico",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "EUNIQ5": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "EUNIQ5": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; cuando hay una sola columna, aplica a todas las versiones).",
+        "fuente": "MAXUS_FT-EUNIQ 5.pdf",
+        "versiones_en_documento": 1,
+        "notas": "*Valores WLTP indicados en documento de homologación (según nota del PDF)."
+    }
+}

@@ -358,7 +358,10 @@ async def main():
 
         for r in all_rows:
             tiposprecio = ['Crédito inteligente','Crédito convencional','Todo medio de pago','Precio de lista']
-            precio = [r['precio_desde']-r['bono_financiamiento'],r['precio_lista']-r['bono_directo'],r['precio_lista'],r['precio_lista']]
+            if (r['bono_financiamiento'] is not None):
+                precio = [r['precio_desde']-r['bono_financiamiento'],r['precio_lista']-r['bono_directo'],r['precio_lista'],r['precio_lista']]
+            else:
+                precio = [r['precio_desde'],r['precio_lista']-r['bono_directo'],r['precio_lista'],r['precio_lista']]
             datos = {
                 'modelo': r['model'],
                 'marca': r['brand'],
@@ -368,7 +371,7 @@ async def main():
               
             }
             saveCar('DFSK',datos,"https://www.dfsk.cl/product-list-page")
-
+        print("RUN_OK")
         with open(out_file, "w", encoding="utf-8") as f:
             json.dump(all_rows, f, ensure_ascii=False, indent=2)
 

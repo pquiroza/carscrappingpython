@@ -1,0 +1,162 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Celerio",
+        "año": null,
+        "versiones": [
+            "GLX MT PLUS",
+            "GLX AMT PLUS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLX MT PLUS": "K10C",
+            "GLX AMT PLUS": "K10C"
+        },
+        "cilindrada": {
+            "GLX MT PLUS": 998,
+            "GLX AMT PLUS": 998
+        },
+        "potencia_hp": {
+            "GLX MT PLUS": "68",
+            "GLX AMT PLUS": "68"
+        },
+        "potencia_rpm": {
+            "GLX MT PLUS": "5.600",
+            "GLX AMT PLUS": "5.600"
+        },
+        "torque_nm": {
+            "GLX MT PLUS": "94,6",
+            "GLX AMT PLUS": "94,6"
+        },
+        "torque_rpm": {
+            "GLX MT PLUS": "4.300",
+            "GLX AMT PLUS": "4.300"
+        },
+        "combustible": null,
+        "transmision": {
+            "GLX MT PLUS": "Mecánica",
+            "GLX AMT PLUS": "Mecánica automatizada (AMT)"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Barra de torsión con resorte",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Tambor y zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLX MT PLUS": "175/60 R15",
+            "GLX AMT PLUS": "175/60 R15"
+        },
+        "rueda_repuesto": "165/70 R14"
+    },
+    "dimensiones": {
+        "largo_mm": 3695,
+        "ancho_mm": 1655,
+        "alto_mm": 1555,
+        "distancia_ejes_mm": 2435,
+        "despeje_suelo_mm": 170,
+        "peso_bruto_kg": 1260,
+        "capacidad_maletero_lts": 295,
+        "capacidad_estanque_lts": 32,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GLX MT PLUS": "20,1",
+            "GLX AMT PLUS": "20,3"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GLX MT PLUS": "22,7",
+            "GLX AMT PLUS": "22,5"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GLX MT PLUS": "24,6",
+            "GLX AMT PLUS": "23,9"
+        },
+        {
+            "caracteristica": "Norma de emisiones",
+            "GLX MT PLUS": "Euro 6C",
+            "GLX AMT PLUS": "Euro 6C"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            {
+                "caracteristica": "Asistencia en pendiente - Hill Hold Control",
+                "GLX MT PLUS": false,
+                "GLX AMT PLUS": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos color carrocería",
+            "Parachoques color carrocería",
+            "Manillas exteriores color carrocería",
+            "Focos principales multireflector halógeno",
+            "Luz día halógena",
+            "Llantas de aleación R15\""
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Comando de radio al volante",
+            "Cierre centralizado con comando a distancia",
+            "Computador a bordo",
+            "Espejos exteriores ajustables eléctricamente",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Radio multimedia con pantalla táctil 7\"",
+            "Android Auto/Apple CarPlay",
+            "Volante regulable en altura",
+            "Apertura tapa de gasolina desde interior",
+            "Salida 12V",
+            "Asientos traseros abatibles 60:40",
+            "Sistema Start/Stop",
+            "Tacómetro"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Programa de estabilidad electrónica (ESP)",
+            "Doble airbag frontal",
+            "Airbags laterales (2) y cortina (2)",
+            "Anclaje Isofix (2)",
+            "Seguro de niños puertas traseras",
+            "Barras de protección laterales en las puertas",
+            "Inmovilizador antirrobo",
+            "Cinturones de seguridad delanteros de 3 puntas con pretensores y limitador de fuerza",
+            "Cinturones de seguridad traseros de 3 puntas",
+            "Alerta uso de cinturones de seguridad delanteros",
+            "Alerta uso de cinturones de seguridad traseros",
+            "Cámara de retroceso",
+            "Sensores de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata",
+        "Azul metálico",
+        "Blanco perla",
+        "Gris metálico",
+        "Rojo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "suzuki_celerio_ficha-tecnica_1_web.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "vehiculo": {
+        "marca": "Skoda",
+        "modelo": "Karoq",
+        "año": null,
+        "versiones": [
+            "Selection 1.4 TSI AT",
+            "Design 1.4 TSI AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Selection 1.4 TSI AT": "1,4 TSI",
+            "Design 1.4 TSI AT": "1,4 TSI"
+        },
+        "cilindrada": {
+            "Selection 1.4 TSI AT": "1,4",
+            "Design 1.4 TSI AT": "1,4"
+        },
+        "potencia_hp": {
+            "Selection 1.4 TSI AT": "150",
+            "Design 1.4 TSI AT": "150"
+        },
+        "potencia_rpm": {
+            "Selection 1.4 TSI AT": "5.000-6.000",
+            "Design 1.4 TSI AT": "5.000-6.000"
+        },
+        "torque_nm": {
+            "Selection 1.4 TSI AT": "250",
+            "Design 1.4 TSI AT": "250"
+        },
+        "torque_rpm": {
+            "Selection 1.4 TSI AT": "1.500-4.000",
+            "Design 1.4 TSI AT": "1.500-4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Selection 1.4 TSI AT": "Automática 8 velocidades",
+            "Design 1.4 TSI AT": "Automática 8 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con brazos triangulares inferiores y estabilizador de torsión",
+        "suspension_trasera": "Semi – independiente de eje torsional",
+        "frenos_delanteros": "Freno de disco delantero y trasero",
+        "frenos_traseros": "Freno de disco delantero y trasero",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Selection 1.4 TSI AT": "R16” 215/60 95V",
+            "Design 1.4 TSI AT": "R17” 215/55 94V"
+        },
+        "rueda_repuesto": "Rueda de repuesto"
+    },
+    "dimensiones": {
+        "largo_mm": 4390,
+        "ancho_mm": 1841,
+        "alto_mm": 1603,
+        "distancia_ejes_mm": 2638,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "588 / 1.605",
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Barras de techo",
+                "Selection 1.4 TSI AT": "Negras",
+                "Design 1.4 TSI AT": "Negras Brillantes"
+            },
+            {
+                "caracteristica": "Faros delanteros",
+                "Selection 1.4 TSI AT": "LED",
+                "Design 1.4 TSI AT": "Full LED"
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Faros delanteros Matrix LED",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": "Op."
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero con difusores de lavado térmicos",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Regulación dinámica del alcance de las luces con “Cornering Lights”",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos delanteros con soporte lumbar",
+                "Selection 1.4 TSI AT": "Manual",
+                "Design 1.4 TSI AT": "Eléctrico"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "Selection 1.4 TSI AT": "Tela",
+                "Design 1.4 TSI AT": "Cuero"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefactados",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros Comfort",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con ajuste eléctrico y función memoria",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado y con levas de cambio",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Control de velocidad crucero con limitador de velocidad",
+                "Selection 1.4 TSI AT": true,
+                "Design 1.4 TSI AT": false
+            },
+            {
+                "caracteristica": "Radio con pantalla touch",
+                "Selection 1.4 TSI AT": "8\"",
+                "Design 1.4 TSI AT": "9,2\""
+            },
+            {
+                "caracteristica": "Tiro de arrastre plegable manual y extraíble",
+                "Selection 1.4 TSI AT": "manual",
+                "Design 1.4 TSI AT": "eléctrico con adaptador"
+            },
+            {
+                "caracteristica": "Control crucero adaptativo con limitador de velocidad",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "“Keyless Access”",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Modos de conducción",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            },
+            {
+                "caracteristica": "Navegación",
+                "Selection 1.4 TSI AT": false,
+                "Design 1.4 TSI AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros neblineros delanteros",
+            "Faros traseros LED con indicador dinámico",
+            "Limpiaparabrisas trasero con control intermitente",
+            "Luz antiniebla trasera",
+            "Luz de marcha diurna con función Coming Home y Leaving Home",
+            "Retrovisores exteriores eléctricos, calefactados, abatibles eléctricamente y antideslumbrante en lado del conductor",
+            "Vidrios traseros tintados"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos con interruptor confort y limitador de fuerza",
+            "Apoyabrazos delantero \"Jumbo Box\"",
+            "Asientos con sistema VarioFlex",
+            "Pomo/empuñadura de la palanca de cambio en cuero",
+            "Retrovisor interior con función antideslumbrante",
+            "Volante multifunción en cuero de 2 radios",
+            "Alfombrillas en la parte delantera y trasera"
+        ],
+        "seguridad": [
+            "7 Airbags: frontales, laterales delanteros, de cortina y rodilla conductor",
+            "Alarma con vigilancia del habitáculo, sirena y protección contra remolque",
+            "Anclaje para asientos de niños – ISOFIX",
+            "Aviso de cinturón de seguridad – Asientos delanteros y traseros",
+            "Aviso de presión de neumáticos",
+            "Bloqueo electrónico de diferencial (EDS)",
+            "Control de tracción electrónico (ASR)",
+            "Driver Alert: Detector de fatiga del conductor",
+            "Front Assist: Radar con función frenado de emergencia",
+            "Rueda de repuesto",
+            "Sistema electrónico de estabilización (ESC)",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Control de asistencia para arranque en pendientes"
+        ],
+        "tecnologia": [
+            "Altavoces 8",
+            "Botón de encendido",
+            "Carga inalámbrica de teléfono*",
+            "Climatizador \"Climatronic\" de 2 zonas",
+            "Entrada USB-C (X2)",
+            "Sensor de luz y lluvia",
+            "Cámara y sensores de estacionamiento delanteros y traseros",
+            "Sistema Start-Stop con frenado regenerativo",
+            "Smart Link Android Auto y Apple CarPlay inalámbrico",
+            "Paquete Simply Clever: mallas y portaobjetos en maletero, basurero y embudo",
+            "Virtual Cockpit 10,25”"
+        ],
+        "adas": [
+            "Driver Alert: Detector de fatiga del conductor",
+            "Front Assist: Radar con función frenado de emergencia"
+        ]
+    },
+    "colores": [
+        "Azul Lava",
+        "Rojo Velvet",
+        "Naranjo Phoenix",
+        "Blanco Glaciar",
+        "Negro Mágico",
+        "Plata Brillante",
+        "Gris Acero",
+        "Gris Grafito"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Škoda (⬤=presente; 〇/vacío=no presente; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Karoq-copy1.pdf",
+        "versiones_en_documento": 2,
+        "notas": "En dimensiones, el ancho aparece como ‘1.841 / 2.025 (incluyendo espejos)’. En el PDF la leyenda indica ‘● = De serie’ y ‘◎ = No disponible’; además aparece ‘Op.’ en ‘Faros delanteros Matrix LED’ para la versión Design."
+    }
+}

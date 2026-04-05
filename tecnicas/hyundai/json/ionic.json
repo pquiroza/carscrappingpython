@@ -1,0 +1,222 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "IONIQ 5",
+        "año": null,
+        "versiones": [
+            "NE_PREMIUM",
+            "NE_LIMITED",
+            "NE_LIMITED_AWD_PACKAGE"
+        ]
+    },
+    "motor": {
+        "tipo": "Permanent Magnet Synchronous Motor",
+        "cilindrada": null,
+        "potencia_hp": {
+            "NE_PREMIUM": "160 kW / 214 hp",
+            "NE_LIMITED": "160 kW / 214 hp",
+            "NE_LIMITED_AWD_PACKAGE": "225 kW / 301 hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "NE_PREMIUM": "350 Nm",
+            "NE_LIMITED": "350 Nm",
+            "NE_LIMITED_AWD_PACKAGE": "605 Nm"
+        },
+        "torque_rpm": null,
+        "combustible": "Electricidad",
+        "transmision": "Caja reductora de velocidad única",
+        "traccion": {
+            "NE_PREMIUM": "TRASERA",
+            "NE_LIMITED": "TRASERA",
+            "NE_LIMITED_AWD_PACKAGE": "INTEGRAL (AWD)"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica-Asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólido",
+        "neumaticos": {
+            "NE_PREMIUM": "235/55 R19",
+            "NE_LIMITED": "235/55 R19",
+            "NE_LIMITED_AWD_PACKAGE": "255/45 R20"
+        },
+        "rueda_repuesto": "Kit de movilidad temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4635,
+        "ancho_mm": 1890,
+        "alto_mm": 1605,
+        "distancia_ejes_mm": 3000,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "NE_PREMIUM": 2430,
+            "NE_LIMITED": 2430,
+            "NE_LIMITED_AWD_PACKAGE": 2540
+        },
+        "capacidad_maletero_lts": "527 (min) / 1587 (max)",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "NE_PREMIUM": "19\"",
+            "NE_LIMITED": "19\"",
+            "NE_LIMITED_AWD_PACKAGE": "20\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía",
+            "NE_PREMIUM": "481 KM",
+            "NE_LIMITED": "451 KM",
+            "NE_LIMITED_AWD_PACKAGE": "430 KM"
+        },
+        {
+            "caracteristica": "Consumo (km/kWh)",
+            "NE_PREMIUM": "5,0",
+            "NE_LIMITED": "5,0",
+            "NE_LIMITED_AWD_PACKAGE": "5,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "FCA JX (Giros/Cruces)",
+                "NE_PREMIUM": "Frontal y Giros",
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "BVM - Monitor Punto Ciego",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "Cámara 360° Realidad aumentada",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "NE_PREMIUM": "Cuero",
+                "NE_LIMITED": "Cuero",
+                "NE_LIMITED_AWD_PACKAGE": "Cuero"
+            },
+            {
+                "caracteristica": "Asientos eléctricos",
+                "NE_PREMIUM": "Conductor",
+                "NE_LIMITED": "Conductor (con memoria)",
+                "NE_LIMITED_AWD_PACKAGE": "Conductor (con memoria)"
+            },
+            {
+                "caracteristica": "Asientos traseros eléctricos",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": "2 posiciones",
+                "NE_LIMITED_AWD_PACKAGE": "2 posiciones"
+            },
+            {
+                "caracteristica": "Asientos con función relajación",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "Vision Roof (techo panorámico)",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            },
+            {
+                "caracteristica": "Cargador Bidireccional (V2L)",
+                "NE_PREMIUM": false,
+                "NE_LIMITED": true,
+                "NE_LIMITED_AWD_PACKAGE": true
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "HAC",
+            "Cámara retroceso",
+            "ESC",
+            "TPMS",
+            "Sensor estacionamiento delantero y trasero",
+            "Alerta pasajeros traseros",
+            "BCA",
+            "LKA",
+            "LFA",
+            "RCCA",
+            "SSC",
+            "Asistencia luces altas",
+            "Advertencia atención conductor",
+            "SEA"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos totales auto up/down",
+            "Asientos abatibles 60/40",
+            "Cargador inalámbrico",
+            "Climatizador Bi-Zona",
+            "Cluster digital 12,3\"",
+            "Control audio bluetooth volante",
+            "Encendido luces automático",
+            "Espejo electrocrómico",
+            "Freno mano eléctrico Auto Hold",
+            "Llave inteligente",
+            "Luces LED Parametric Pixel",
+            "Luces interiores LED",
+            "Paddle Shift",
+            "Pedales metálicos",
+            "Portalón trasero eléctrico inteligente",
+            "Radio Touch 12,3\" Apple CarPlay & Android Auto",
+            "Retrovisores eléctricos plegables calefaccionados",
+            "Selección modo manejo (Normal, Sport, ECO, Nieve)",
+            "Tweeters",
+            "Vidrios traseros privacidad",
+            "Volante regulable altura/profundidad",
+            "Volante cuero",
+            "Audio Premium Bose - 8 Parlantes"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-ioniq-5.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos únicamente desde la tabla comparativa visual del documento."
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "año": null,
+        "versiones": [
+            "S 580 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "S 580 4MATIC": "V8"
+        },
+        "cilindrada": {
+            "S 580 4MATIC": 3982
+        },
+        "potencia_hp": {
+            "S 580 4MATIC": "503 CV (+20 CV)"
+        },
+        "potencia_rpm": {
+            "S 580 4MATIC": null
+        },
+        "torque_nm": {
+            "S 580 4MATIC": "700 Nm (+200 Nm)"
+        },
+        "torque_rpm": {
+            "S 580 4MATIC": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "S 580 4MATIC": "9G-TRONIC"
+        },
+        "traccion": {
+            "S 580 4MATIC": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "S 580 4MATIC": "Delante 255/45 R19, Detrás 285/40 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 535,
+        "capacidad_estanque_lts": 76,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "S 580 4MATIC": "250 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "S 580 4MATIC": "4,4 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "S 580 4MATIC": "9,9 km/l"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "S 580 4MATIC": "19 pulgadas en diseño de 5 radios dobles"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "S 580 4MATIC": "Delante 255/45 R19, Detrás 285/40 R19"
+            },
+            {
+                "caracteristica": "Dirección de eje trasero para mayor estabilidad",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Cristal laminado, insonorizante y reflector de rayos calorífugos",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Suspensión AIRMATIC",
+                "S 580 4MATIC": "Regulación automática de altura en función de la carga y la velocidad"
+            },
+            {
+                "caracteristica": "Faros MULTIBEAM LED",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico de dos módulos",
+                "S 580 4MATIC": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz de asientos",
+                "S 580 4MATIC": "Cuero"
+            },
+            {
+                "caracteristica": "Volante",
+                "S 580 4MATIC": "Deportivo multifuncion en napa"
+            },
+            {
+                "caracteristica": "Elementos de adorno",
+                "S 580 4MATIC": "Madera de raíz de nogal marrón brillante"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "S 580 4MATIC": "Con función memoria y climatizados"
+            },
+            {
+                "caracteristica": "Paquete de asientos multicontorno activos",
+                "S 580 4MATIC": "Amplias opciones de ajuste y masajes reactivante o relajante"
+            },
+            {
+                "caracteristica": "Visualizador central de medios OLED",
+                "S 580 4MATIC": "Pantalla táctil de 12,8 pulgadas"
+            },
+            {
+                "caracteristica": "Paquete de protección solar",
+                "S 580 4MATIC": "Persianas eléctricas en puertas traseras y luneta trasera"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "11 Airbags de serie (incluye de rodilla y novedosos airbags traseros)",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Tirefit con compresor para inflado de neumáticos",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Sensores para alarma volumétrica URBAN GUARD",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente activo de distancia DISTRONIC",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente activo de dirección",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Detector activo de cambio de carril",
+                "S 580 4MATIC": "Incluye ángulo muerto"
+            },
+            {
+                "caracteristica": "PRE-SAFE impulso Lateral en plazas delanteras con cámaras inflables",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia BAS",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (ASR)",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Attention Assist (Sistema de alerta por cansancio)",
+                "S 580 4MATIC": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "S 580 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Perfiles de conducción personalizables MBUX",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Realidad aumentada para navegación MBUX",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Head-Up Display",
+                "S 580 4MATIC": "Informacion seleccionada se visualizan en alta definición en parabrisas"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara 360",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Ayuda activa para aparcar con PARKTRONIC",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Acceso KEYLESS GO",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Servocierre para las puertas",
+                "S 580 4MATIC": "Cierre suave y silencioso de las puertas desde el primer encastre"
+            },
+            {
+                "caracteristica": "Sistema inalámbrico de carga para dispositivos móviles delante",
+                "S 580 4MATIC": true
+            },
+            {
+                "caracteristica": "Sistema de sonido surround Burmester® 3D",
+                "S 580 4MATIC": "15 altavoces y una potencia total de 710 vatios"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha_tecnica_Clase S580_digital (2).pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior para S 580 4MATIC."
+    }
+}

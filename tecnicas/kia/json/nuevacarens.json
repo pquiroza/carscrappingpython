@@ -1,0 +1,372 @@
+{
+    "vehiculo": {
+        "marca": "Kia",
+        "modelo": "Nueva Carens",
+        "año": 2026,
+        "versiones": [
+            "LX 1.5L 6MT 7P",
+            "EX 1.5T 7DCT 7P",
+            "EX 1.5T 7DCT 7P FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 1.5L 6MT 7P": "1.5 MPI",
+            "EX 1.5T 7DCT 7P": "1.5 Turbo-GDI",
+            "EX 1.5T 7DCT 7P FULL": "1.5 Turbo-GDI"
+        },
+        "cilindrada": {
+            "LX 1.5L 6MT 7P": 1497,
+            "EX 1.5T 7DCT 7P": 1482,
+            "EX 1.5T 7DCT 7P FULL": 1482
+        },
+        "potencia_hp": {
+            "LX 1.5L 6MT 7P": "113",
+            "EX 1.5T 7DCT 7P": "158",
+            "EX 1.5T 7DCT 7P FULL": "158"
+        },
+        "potencia_rpm": {
+            "LX 1.5L 6MT 7P": "6.200",
+            "EX 1.5T 7DCT 7P": "5.500",
+            "EX 1.5T 7DCT 7P FULL": "5.500"
+        },
+        "torque_nm": {
+            "LX 1.5L 6MT 7P": "144",
+            "EX 1.5T 7DCT 7P": "253",
+            "EX 1.5T 7DCT 7P FULL": "253"
+        },
+        "torque_rpm": {
+            "LX 1.5L 6MT 7P": "4.500",
+            "EX 1.5T 7DCT 7P": "1.500 ~ 3.500",
+            "EX 1.5T 7DCT 7P FULL": "1.500 ~ 3.500"
+        },
+        "combustible": "Gasolina (95)",
+        "transmision": {
+            "LX 1.5L 6MT 7P": "Mecánica 6 velocidades",
+            "EX 1.5T 7DCT 7P": "Automática DCT 7 velocidades",
+            "EX 1.5T 7DCT 7P FULL": "Automática DCT 7 velocidades"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": "Asistida Eléctricamente (C-MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson strut",
+        "suspension_trasera": "Doble barra de torsión",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": {
+            "LX 1.5L 6MT 7P": "Manual",
+            "EX 1.5T 7DCT 7P": "Manual",
+            "EX 1.5T 7DCT 7P FULL": "Electrónico + Autohold (EPB)"
+        },
+        "neumaticos": {
+            "LX 1.5L 6MT 7P": "195 / 65R15",
+            "EX 1.5T 7DCT 7P": "215 / 55R17",
+            "EX 1.5T 7DCT 7P FULL": "215 / 55R17"
+        },
+        "rueda_repuesto": {
+            "LX 1.5L 6MT 7P": "Full Size (Acero)",
+            "EX 1.5T 7DCT 7P": "Temporal (Downsizing 16\")",
+            "EX 1.5T 7DCT 7P FULL": "Temporal (Downsizing 16\")"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4550,
+        "ancho_mm": 1800,
+        "alto_mm": "1700 / 1720",
+        "distancia_ejes_mm": 2780,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": {
+            "LX 1.5L 6MT 7P": 1910,
+            "EX 1.5T 7DCT 7P": 1980,
+            "EX 1.5T 7DCT 7P FULL": 1980
+        },
+        "capacidad_maletero_lts": "1.973 / 216",
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "LX 1.5L 6MT 7P": "13,9",
+            "EX 1.5T 7DCT 7P": "15,1",
+            "EX 1.5T 7DCT 7P FULL": "15,1"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "LX 1.5L 6MT 7P": "10,9",
+            "EX 1.5T 7DCT 7P": "12,5",
+            "EX 1.5T 7DCT 7P FULL": "12,5"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "LX 1.5L 6MT 7P": "16,6",
+            "EX 1.5T 7DCT 7P": "17,1",
+            "EX 1.5T 7DCT 7P FULL": "17,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación aro 15\"",
+                "LX 1.5L 6MT 7P": true,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": false
+            },
+            {
+                "caracteristica": "Llanta de repuesto full size (acero)",
+                "LX 1.5L 6MT 7P": true,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": false
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17\" Bi-tono",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Vidrios delanteros tintados tipo solar",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Rueda de repuesto temporal",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL) LED",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Espejos exteriores abatibles eléctricamente",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio con pantalla LCD 8\" touch a color",
+                "LX 1.5L 6MT 7P": true,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": false
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "LX 1.5L 6MT 7P": true,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": false
+            },
+            {
+                "caracteristica": "Alzavidrio conductor con función Auto Up/Down & Safety",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Modo de selección de manejo (Eco/Normal/Sport)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Radio con pantalla LCD 12,3\" touch a color",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Climatizador digital con touch switch",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Smart key y botón de encendido",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celulares",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento eléctrico con Autohold (EPB)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Volante y palanca de cambio de eco-cuero",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Mesa plegable en respaldo asiento copiloto",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Limitador de velocidad",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": true,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Sensores de proximidad delanteros",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero adaptativo con Stop & Go (SCC)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Asistente de colisión frontal (FCA)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Asistente de colisión frontal en giro/cruces (FCA-JX)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Asistente de seguimiento de carril (LFA)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Asistente de intervención de punto ciego (BCA)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            },
+            {
+                "caracteristica": "Asistente de intervención de tráfico cruzado (RCCA)",
+                "LX 1.5L 6MT 7P": false,
+                "EX 1.5T 7DCT 7P": false,
+                "EX 1.5T 7DCT 7P FULL": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena tiburón",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Espejos exteriores con señalizador",
+            "Vidrios tintados",
+            "Guardafangos delanteros y traseros",
+            "Neblineros traseros",
+            "Luces traseras LED + halógenas",
+            "Luces delanteras halógenas",
+            "Barras de techo"
+        ],
+        "interior": [
+            "Conectividad inalámbrica Apple CarPlay & Android Auto",
+            "Bluetooth con reconocimiento de voz",
+            "Control de audio en volante",
+            "Encendido automático de luces",
+            "Volante regulable en altura",
+            "Alzavidrios eléctricos totales",
+            "Portavasos con función Cooler/Warmer",
+            "Asientos con tapiz de tela",
+            "Asientos traseros 2da fila abatibles 60/40",
+            "Asientos traseros 3ra fila abatibles 50/50",
+            "Asientos abatibles 2da fila con función \"One Touch\"",
+            "Asientos traseros con reclinación",
+            "Asiento conductor con ajuste en altura",
+            "Apoyabrazos central con compartimiento",
+            "Parasol con espejo para copiloto",
+            "Tweeters",
+            "2 Cargadores frontales USB",
+            "2 Cargadores USB-C en 2da fila",
+            "2 Cargadores USB-C en 3ra fila",
+            "Toma de corriente 12V",
+            "Cluster de supervisión LCD color 4.2\""
+        ],
+        "seguridad": [
+            "Airbags frontales delanteros",
+            "Airbags laterales y airbags de cortina",
+            "Cámara de retroceso",
+            "Sensores de proximidad traseros",
+            "Estructura de acero de alta resistencia",
+            "Anclaje ISOFIX",
+            "Inmovilizador",
+            "Alarma",
+            "Cierre centralizado en ambas puertas",
+            "Cierre centralizado automático con apertura frente a impacto",
+            "Cierre centralizado por sensor de velocidad (20 km/h)",
+            "Cinturones de seguridad delanteros con altura regulable",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad con alerta recordatorio total (5)",
+            "Seguro de puertas para niños",
+            "Frenos de disco trasero y delantero",
+            "Frenos ABS con EBD",
+            "Control de estabilidad (ESC)",
+            "Asistente de partida en pendiente (HAC)",
+            "Asistente de descenso en pendiente (DBC)",
+            "Alerta de pasajero en asiento trasero (ROA)"
+        ],
+        "tecnologia": [
+            "Conectividad inalámbrica Apple CarPlay & Android Auto"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-16",
+        "metodo_extraccion": "Lectura visual de ficha técnica Kia (punto negro=true, punto blanco o -=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-NuevaCarens.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo toda la información visible de las 3 páginas. El documento no muestra colores en las páginas disponibles, por eso se dejó el arreglo vacío."
+    }
+}

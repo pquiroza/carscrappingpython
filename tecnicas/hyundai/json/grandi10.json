@@ -1,0 +1,170 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Grand i10 Ai3 HB",
+        "año": null,
+        "versiones": [
+            "1.0_MT_GO",
+            "1.2_MT_PLUS",
+            "1.2_AT_PLUS",
+            "1.2_MT_DESIGN"
+        ]
+    },
+    "motor": {
+        "tipo": "MPi / DCVVT",
+        "cilindrada": {
+            "1.0_MT_GO": "998 cc",
+            "1.2_MT_PLUS": "1197 cc",
+            "1.2_AT_PLUS": "1197 cc",
+            "1.2_MT_DESIGN": "1197 cc"
+        },
+        "potencia_hp": {
+            "1.0_MT_GO": "65 Hp",
+            "1.2_MT_PLUS": "82 Hp",
+            "1.2_AT_PLUS": "82 Hp",
+            "1.2_MT_DESIGN": "82 Hp"
+        },
+        "potencia_rpm": {
+            "1.0_MT_GO": "5.500",
+            "otros": "6.000"
+        },
+        "torque_nm": {
+            "1.0_MT_GO": "94 Nm",
+            "otros": "114 Nm"
+        },
+        "torque_rpm": {
+            "1.0_MT_GO": "3.500",
+            "otros": "4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.0_MT_GO": "Manual / 5",
+            "1.2_MT_PLUS": "Manual / 5",
+            "1.2_AT_PLUS": "Automática / 4",
+            "1.2_MT_DESIGN": "Manual / 5"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Eléctricamente asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos": "165/70R14",
+        "rueda_repuesto": {
+            "1.0_MT_GO": "Rueda repuesto acero tamaño completo",
+            "otros": "Rueda repuesto 14\""
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 3815,
+        "ancho_mm": 1680,
+        "alto_mm": 1520,
+        "distancia_ejes_mm": 2450,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.0_MT_GO": 1380,
+            "1.2_MT_PLUS": 1380,
+            "1.2_AT_PLUS": 1400,
+            "1.2_MT_DESIGN": 1380
+        },
+        "capacidad_maletero_lts": 260,
+        "capacidad_estanque_lts": 37
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "1.0_MT_GO": "14\" con tapa rueda",
+            "1.2_MT_PLUS": "15\"",
+            "1.2_AT_PLUS": "15\"",
+            "1.2_MT_DESIGN": "15\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de retroceso",
+                "1.0_MT_GO": false,
+                "1.2_MT_PLUS": true,
+                "1.2_AT_PLUS": true,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Sensores estacionamiento trasero",
+                "1.0_MT_GO": false,
+                "1.2_MT_PLUS": true,
+                "1.2_AT_PLUS": true,
+                "1.2_MT_DESIGN": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio 9\" Apple CarPlay & Android Auto",
+                "1.0_MT_GO": false,
+                "1.2_MT_PLUS": true,
+                "1.2_AT_PLUS": true,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "1.0_MT_GO": false,
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Botón encendido con llave inteligente",
+                "1.0_MT_GO": false,
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "Frenos ABS + EBD",
+            "Control estabilidad (ESC)",
+            "Asistente arranque pendiente (HAC)",
+            "Carrocería deformación programada",
+            "Cinturones con pre-tensores delanteros",
+            "Seguro puertas niños",
+            "Volante colapsable",
+            "Inmovilizador"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Salida aire plazas traseras",
+            "Bluetooth",
+            "Cierre centralizado",
+            "Control audio volante",
+            "Puerto USB (2)",
+            "Puerto 12V",
+            "Volante regulable en altura",
+            "Asiento conductor ajustable altura"
+        ],
+        "exterior": [
+            "Luces de posición",
+            "Luces combinadas LED traseras",
+            "Luz maletero",
+            "Espejos eléctricos"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura visual tabla PDF (página 2)",
+        "fuente": "ft-grand-i10hb.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Documento contiene especificaciones en tabla comparativa de 4 versiones."
+    }
+}

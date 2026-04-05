@@ -1,0 +1,258 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "Q4 Sportback e-tron",
+        "año": null,
+        "versiones": [
+            "e-tron",
+            "e-tron S line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "e-tron": "Motor eléctrico (1 motor sincrónico en eje trasero)",
+            "e-tron S line": "Motor eléctrico (1 motor sincrónico en eje trasero)"
+        },
+        "cilindrada": {
+            "e-tron": null,
+            "e-tron S line": null
+        },
+        "potencia_hp": {
+            "e-tron": "282",
+            "e-tron S line": "282"
+        },
+        "potencia_rpm": {
+            "e-tron": null,
+            "e-tron S line": null
+        },
+        "torque_nm": {
+            "e-tron": "545",
+            "e-tron S line": "545"
+        },
+        "torque_rpm": {
+            "e-tron": null,
+            "e-tron S line": null
+        },
+        "combustible": null,
+        "transmision": {
+            "e-tron": "Automática de 1 velocidad",
+            "e-tron S line": "Automática de 1 velocidad"
+        },
+        "traccion": {
+            "e-tron": "Trasera",
+            "e-tron S line": "Trasera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "e-tron": "Delanteras 235/50 R20” – Traseras 255/45 R20”",
+            "e-tron S line": "Audi Sport, Delanteras 235/50 R20” – Traseras 255/45 R20”"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 4591,
+        "ancho_mm": 2108,
+        "alto_mm": 1622,
+        "distancia_ejes_mm": 2773,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2145,
+        "capacidad_maletero_lts": "535 / 1.460",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía eléctrica (km)",
+            "e-tron": "Hasta 579 km",
+            "e-tron S line": "Hasta 579 km"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "e-tron": "6,7 seg",
+            "e-tron S line": "6,7 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "e-tron": "180 km/h",
+            "e-tron S line": "180 km/h"
+        },
+        {
+            "caracteristica": "Tipo de batería",
+            "e-tron": "Ion de litio",
+            "e-tron S line": "Ion de litio"
+        },
+        {
+            "caracteristica": "Capacidad bruta de la batería",
+            "e-tron": "82 kW",
+            "e-tron S line": "82 kW"
+        },
+        {
+            "caracteristica": "Velocidad de carga (Cargador de 150kW DC)",
+            "e-tron": "30 min",
+            "e-tron S line": "30 min"
+        },
+        {
+            "caracteristica": "Velocidad de carga (Cargador de 11kW AC)",
+            "e-tron": "7 horas",
+            "e-tron S line": "7 horas"
+        },
+        {
+            "caracteristica": "Velocidad de carga (Cargador de 1,6kW AC)",
+            "e-tron": "60 horas",
+            "e-tron S line": "60 horas"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "e-tron": true,
+                "e-tron S line": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "e-tron": "Sensor trasero y delantero, con cámara de retroceso",
+                "e-tron S line": "Sensor trasero y delantero, con cámara de retroceso"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "e-tron": "LED con asistencia de luces de carretera y lavafaros",
+                "e-tron S line": "LED con asistente de luces en carretera y lavafaros"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "e-tron": "LED",
+                "e-tron S line": "LED"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "e-tron": "Delanteras 235/50 R20” – Traseras 255/45 R20”",
+                "e-tron S line": "Audi Sport, Delanteras 235/50 R20” – Traseras 255/45 R20”"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "e-tron": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes",
+                "e-tron S line": "Eléctricos, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "e-tron": false,
+                "e-tron S line": true
+            },
+            {
+                "caracteristica": "Portalón",
+                "e-tron": "Apertura y cierre eléctrico",
+                "e-tron S line": "Apertura y cierre eléctrico"
+            },
+            {
+                "caracteristica": "Paquete de diseño",
+                "e-tron": "Standard / Advanced",
+                "e-tron S line": "S line"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "e-tron": true,
+                "e-tron S line": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "e-tron": "Automática 2 zonas / Automática 3 zonas",
+                "e-tron S line": "Automática 2 zonas / Automática 3 zonas"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "e-tron": "LED / LED, Proyección LED en puertas con logo e-tron",
+                "e-tron S line": "LED / LED, Proyección LED en puertas con logo e-tron"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "e-tron": "MMI con pantalla Touch 10,1” / MMI Navigation Plus con pantalla Touch 11,6”",
+                "e-tron S line": "MMI con pantalla Touch 10,1” / MMI Navigation Plus con pantalla Touch 11,6”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "e-tron": "Digital 10,25” / Virtual Cockpit 10,25”",
+                "e-tron S line": "Digital 10,25” / Virtual Cockpit 10,25”"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "e-tron": "Basic Plus 6 parlantes - 80 W / Audi Sound System 8 altavoces + subwoofer 180W",
+                "e-tron S line": "Basic Plus 6 parlantes - 80 W / SONOS Premium Sound System 10 altavoces + subwoofer 580W"
+            },
+            {
+                "caracteristica": "Soporte lumbar",
+                "e-tron": false,
+                "e-tron S line": null
+            },
+            {
+                "caracteristica": "Tapizado",
+                "e-tron": "Leather - Leatherette / Leather-Leatherette, techo interior gris",
+                "e-tron S line": "Leather - Leatherette / Leather / Leatherette con “S” en relieve, techo interior negro"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "e-tron": "Apple Car Play y Android Auto",
+                "e-tron S line": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "e-tron": "Asiento estándar con ajuste manual / Estándar con ajuste eléctrico (conductor), calefactados, con soporte lumbar",
+                "e-tron S line": "Asiento estándar con ajuste manual / Deportivos con ajuste eléctrico y función memoria (conductor), calefactados, con soporte lumbar"
+            },
+            {
+                "caracteristica": "Volante",
+                "e-tron": "Multifunción en cuero con levas de cambio / Multifunción en cuero",
+                "e-tron S line": "Multifunción en cuero con levas de cambio / Deportivo multifunción en cuero con levas de cambio"
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [
+            "Cargador compacto e-tron de hasta 11kW (AC) / Cable para carga pública modo 3"
+        ],
+        "seguridad": [
+            "Aviso de presión de neumáticos",
+            "Airbags frontales, laterales delanteros y de cortina",
+            "Asistencia al arranque en pendiente",
+            "Control crucero adaptativo con limitador de velocidad",
+            "Retrovisor interior con función antideslumbrante automática",
+            "Kit de reparación de neumáticos y pernos de seguridad antirrobo",
+            "Sensor lluvia y luz",
+            "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata Florete",
+        "Gris Tifón",
+        "Gris Balasto",
+        "Blanco Glaciar",
+        "Azul Navarra",
+        "Azul Geyser",
+        "Violeta Aurora",
+        "Negro Mitos"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de fichas por versión Audi (valores/texto tal cual del PDF)",
+        "fuente": "Q4-Sportback-e-tron-copy3.pdf | Q4-Sportback-e-tron-S-line-copy3.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Audi entrega un archivo por versión; se consolidaron ambas versiones del modelo Q4 Sportback e-tron recibidas. En el PDF aparecen dos bloques de equipamiento interior (por paquete de diseño), por eso algunos ítems quedan como 'A / B' dentro de una misma versión."
+    }
+}

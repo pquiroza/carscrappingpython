@@ -1,0 +1,317 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "Morning",
+        "año": null,
+        "versiones": [
+            "LX 1.0L 5MT",
+            "LX 1.2L 5MT",
+            "LX 1.2L 5AMT",
+            "EX 1.2L 5MT FULL",
+            "EX 1.2L 5AMT FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 1.0L 5MT": "1.0L",
+            "LX 1.2L 5MT": "1.2L",
+            "LX 1.2L 5AMT": "1.2L",
+            "EX 1.2L 5MT FULL": "1.2L",
+            "EX 1.2L 5AMT FULL": "1.2L"
+        },
+        "cilindrada": {
+            "LX 1.0L 5MT": 998,
+            "LX 1.2L 5MT": 1248,
+            "LX 1.2L 5AMT": 1248,
+            "EX 1.2L 5MT FULL": 1248,
+            "EX 1.2L 5AMT FULL": 1248
+        },
+        "potencia_hp": {
+            "LX 1.0L 5MT": "66",
+            "LX 1.2L 5MT": "83",
+            "LX 1.2L 5AMT": "83",
+            "EX 1.2L 5MT FULL": "83",
+            "EX 1.2L 5AMT FULL": "83"
+        },
+        "potencia_rpm": {
+            "LX 1.0L 5MT": "5.500",
+            "LX 1.2L 5MT": "6.000",
+            "LX 1.2L 5AMT": "6.000",
+            "EX 1.2L 5MT FULL": "6.000",
+            "EX 1.2L 5AMT FULL": "6.000"
+        },
+        "torque_nm": {
+            "LX 1.0L 5MT": "95",
+            "LX 1.2L 5MT": "115",
+            "LX 1.2L 5AMT": "115",
+            "EX 1.2L 5MT FULL": "115",
+            "EX 1.2L 5AMT FULL": "115"
+        },
+        "torque_rpm": {
+            "LX 1.0L 5MT": "3.750",
+            "LX 1.2L 5MT": "4.200",
+            "LX 1.2L 5AMT": "4.200",
+            "EX 1.2L 5MT FULL": "4.200",
+            "EX 1.2L 5AMT FULL": "4.200"
+        },
+        "combustible": "Gasolina (95)",
+        "transmision": {
+            "LX 1.0L 5MT": "Mecánica 5 velocidades",
+            "LX 1.2L 5MT": "Mecánica 5 velocidades",
+            "LX 1.2L 5AMT": "Automática AMT (Manual automatizada) 5 velocidades",
+            "EX 1.2L 5MT FULL": "Mecánica 5 velocidades",
+            "EX 1.2L 5AMT FULL": "Automática AMT (Manual automatizada) 5 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson y barra estabilizadora",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": "ABS con EBD",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LX 1.0L 5MT": "175 / 65R14",
+            "LX 1.2L 5MT": "175 / 65R14",
+            "LX 1.2L 5AMT": "175 / 65R14",
+            "EX 1.2L 5MT FULL": "175 / 65R14",
+            "EX 1.2L 5AMT FULL": "175 / 65R14"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 3595,
+        "ancho_mm": 1595,
+        "alto_mm": 1495,
+        "distancia_ejes_mm": 2400,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "LX 1.0L 5MT": 1370,
+            "LX 1.2L 5MT": 1370,
+            "LX 1.2L 5AMT": 1380,
+            "EX 1.2L 5MT FULL": 1370,
+            "EX 1.2L 5AMT FULL": 1380
+        },
+        "capacidad_maletero_lts": 255,
+        "capacidad_estanque_lts": 35,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado/Mixto (km/l)",
+            "LX 1.0L 5MT": "17,7",
+            "LX 1.2L 5MT": "17,3",
+            "LX 1.2L 5AMT": "16,6",
+            "EX 1.2L 5MT FULL": "17,3",
+            "EX 1.2L 5AMT FULL": "16,6"
+        },
+        {
+            "caracteristica": "Urbano sin autopista (km/l)",
+            "LX 1.0L 5MT": "14,5",
+            "LX 1.2L 5MT": "14,2",
+            "LX 1.2L 5AMT": "13,4",
+            "EX 1.2L 5MT FULL": "14,2",
+            "EX 1.2L 5AMT FULL": "13,4"
+        },
+        {
+            "caracteristica": "Urbano con autopista urbana (km/l)",
+            "LX 1.0L 5MT": "19,4",
+            "LX 1.2L 5MT": "18,6",
+            "LX 1.2L 5AMT": "17,9",
+            "EX 1.2L 5MT FULL": "18,6",
+            "EX 1.2L 5AMT FULL": "17,9"
+        },
+        {
+            "caracteristica": "Rural con autopista rural (km/l)",
+            "LX 1.0L 5MT": "20,6",
+            "LX 1.2L 5MT": "19,9",
+            "LX 1.2L 5AMT": "19,4",
+            "EX 1.2L 5MT FULL": "19,9",
+            "EX 1.2L 5AMT FULL": "19,4"
+        },
+        {
+            "caracteristica": "Autopista interurbana (km/l)",
+            "LX 1.0L 5MT": "16,2",
+            "LX 1.2L 5MT": "16,0",
+            "LX 1.2L 5AMT": "15,5",
+            "EX 1.2L 5MT FULL": "16,0",
+            "EX 1.2L 5AMT FULL": "15,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras halógenas bifunc. de proyección",
+                "LX 1.0L 5MT": true,
+                "LX 1.2L 5MT": true,
+                "LX 1.2L 5AMT": true,
+                "EX 1.2L 5MT FULL": false,
+                "EX 1.2L 5AMT FULL": false
+            },
+            {
+                "caracteristica": "Espejos exteriores con señalizador y abatibles eléctricamente",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 14\"",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Luces diurnas transversales (DRL) LED",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL) LED",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Beltline cromado",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster de supervisión LCD 4,2\" a color",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": true,
+                "EX 1.2L 5MT FULL": false,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Puerto USB en segunda corrida",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Apoyabrazo central con compartimiento",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            },
+            {
+                "caracteristica": "Encendido automático de luces",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": false,
+                "LX 1.2L 5AMT": false,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor de proximidad trasero",
+                "LX 1.0L 5MT": false,
+                "LX 1.2L 5MT": true,
+                "LX 1.2L 5AMT": true,
+                "EX 1.2L 5MT FULL": true,
+                "EX 1.2L 5AMT FULL": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Manillas exteriores color carrocería",
+            "Parachoques color carrocería",
+            "Vidrios tintados (leve)",
+            "Guardafangos delanteros y traseros",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Luces diurnas (DRL)"
+        ],
+        "interior": [
+            "Radio touch con pantalla LCD 8\"",
+            "Conectividad Apple CarPlay & Android Auto",
+            "Cluster digital",
+            "Control de audio en volante",
+            "Conexión frontal USB y toma corriente 12V",
+            "Bluetooth con reconocimiento de voz",
+            "Alzavidrios eléctricos totales",
+            "Volante regulable en altura",
+            "Posavasos delanteros",
+            "Parasol con espejo para conductor y pasajero",
+            "4 Parlantes",
+            "Bolsillos traseros en asientos de conductor y pasajeros",
+            "Cubre equipaje",
+            "Asientos traseros abatibles 60/40",
+            "Apertura remota de puertas",
+            "Aire acondicionado",
+            "Volante regulable en altura",
+            "Asiento conductor regulable en altura",
+            "Puerto USB delantero"
+        ],
+        "seguridad": [
+            "Airbags frontales delanteros",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Anclaje ISOFIX",
+            "Barras de protección doble en las puertas",
+            "Carrocería con deformación programada",
+            "Estructura de acero de alta resistencia",
+            "Cierre centralizado",
+            "Columna de dirección colapsable",
+            "Inmovilizador",
+            "Cinturones de seguridad delanteros con altura regulable",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad traseros de 3 puntas",
+            "Control de estabilidad (ESC)",
+            "Frenos ABS con EBD",
+            "Cámara de retroceso con líneas adaptativas"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura de ficha técnica KIA Morning (punto negro=true, punto blanco=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Kia-Morning.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Primer bloque de 5 columnas del PDF. Código versión: 2454, 2455, 2457, 2456, 2458."
+    }
+}

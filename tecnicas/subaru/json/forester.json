@@ -1,0 +1,637 @@
+{
+    "vehiculo": {
+        "marca": "Subaru",
+        "modelo": "ALL NEW FORESTER",
+        "año": 2026,
+        "versiones": [
+            "2.5 AWD CVT XS ES",
+            "2.5 AWD CVT DYNAMIC ES",
+            "2.5 AWD CVT SPORT ES",
+            "2.5 AWD CVT TOURING ES",
+            "2.5 HEV AWD CVT ADVENTURE ES",
+            "2.5 HEV AWD CVT TOURING ES"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "2.5 AWD CVT XS ES": "Horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.5 AWD CVT DYNAMIC ES": "Horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.5 AWD CVT SPORT ES": "Horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.5 AWD CVT TOURING ES": "Horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.5 HEV AWD CVT ADVENTURE ES": "Subaru E-Boxer Híbrido, horizontalmente opuesto, de 4 cilindros DOHC",
+            "2.5 HEV AWD CVT TOURING ES": "Subaru E-Boxer Híbrido, horizontalmente opuesto, de 4 cilindros DOHC"
+        },
+        "cilindrada": {
+            "2.5 AWD CVT XS ES": 2498,
+            "2.5 AWD CVT DYNAMIC ES": 2498,
+            "2.5 AWD CVT SPORT ES": 2498,
+            "2.5 AWD CVT TOURING ES": 2498,
+            "2.5 HEV AWD CVT ADVENTURE ES": 2498,
+            "2.5 HEV AWD CVT TOURING ES": 2498
+        },
+        "potencia_hp": {
+            "2.5 AWD CVT XS ES": "185",
+            "2.5 AWD CVT DYNAMIC ES": "185",
+            "2.5 AWD CVT SPORT ES": "185",
+            "2.5 AWD CVT TOURING ES": "185",
+            "2.5 HEV AWD CVT ADVENTURE ES": "194",
+            "2.5 HEV AWD CVT TOURING ES": "194"
+        },
+        "potencia_rpm": {
+            "2.5 AWD CVT XS ES": "5.800",
+            "2.5 AWD CVT DYNAMIC ES": "5.800",
+            "2.5 AWD CVT SPORT ES": "5.800",
+            "2.5 AWD CVT TOURING ES": "5.800",
+            "2.5 HEV AWD CVT ADVENTURE ES": "5.600",
+            "2.5 HEV AWD CVT TOURING ES": "5.600"
+        },
+        "torque_nm": {
+            "2.5 AWD CVT XS ES": "247",
+            "2.5 AWD CVT DYNAMIC ES": "247",
+            "2.5 AWD CVT SPORT ES": "247",
+            "2.5 AWD CVT TOURING ES": "247",
+            "2.5 HEV AWD CVT ADVENTURE ES": "209",
+            "2.5 HEV AWD CVT TOURING ES": "209"
+        },
+        "torque_rpm": {
+            "2.5 AWD CVT XS ES": "3.700",
+            "2.5 AWD CVT DYNAMIC ES": "3.700",
+            "2.5 AWD CVT SPORT ES": "3.700",
+            "2.5 AWD CVT TOURING ES": "3.700",
+            "2.5 HEV AWD CVT ADVENTURE ES": "3.600 a 4.800",
+            "2.5 HEV AWD CVT TOURING ES": "3.600 a 4.800"
+        },
+        "combustible": "Sistema de inyección directa",
+        "transmision": {
+            "2.5 AWD CVT XS ES": "Sistema AWD de Distribución de Torque Activo",
+            "2.5 AWD CVT DYNAMIC ES": "Sistema AWD de Distribución de Torque Activo",
+            "2.5 AWD CVT SPORT ES": "Sistema AWD de Distribución de Torque Activo",
+            "2.5 AWD CVT TOURING ES": "Sistema AWD de Distribución de Torque Activo",
+            "2.5 HEV AWD CVT ADVENTURE ES": "Sistema AWD de Distribución de Torque Activo",
+            "2.5 HEV AWD CVT TOURING ES": "Sistema AWD de Distribución de Torque Activo"
+        },
+        "traccion": "Sistema AWD de Distribución de Torque Activo"
+    },
+    "direccion": {
+        "tipo": "Sistema de dirección del tipo de asistencia eléctrica doble piñón"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mac Pherson",
+        "suspension_trasera": "Con doble brazo oscilante",
+        "frenos_delanteros": "Frenos de disco ventilado",
+        "frenos_traseros": "Frenos de disco ventilado",
+        "freno_estacionamiento": "Electrónico con AVH",
+        "neumaticos": {
+            "2.5 AWD CVT XS ES": "225/60R17 99H",
+            "2.5 AWD CVT DYNAMIC ES": "225/55R18 98V",
+            "2.5 AWD CVT SPORT ES": "235/50R19 99V",
+            "2.5 AWD CVT TOURING ES": "235/50R19 99V",
+            "2.5 HEV AWD CVT ADVENTURE ES": "235/50R19 99V",
+            "2.5 HEV AWD CVT TOURING ES": "235/50R19 99V"
+        },
+        "rueda_repuesto": {
+            "2.5 AWD CVT XS ES": true,
+            "2.5 AWD CVT DYNAMIC ES": true,
+            "2.5 AWD CVT SPORT ES": true,
+            "2.5 AWD CVT TOURING ES": true,
+            "2.5 HEV AWD CVT ADVENTURE ES": false,
+            "2.5 HEV AWD CVT TOURING ES": "Kit Antipinchazos"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4655,
+        "ancho_mm": 1830,
+        "alto_mm": 1730,
+        "distancia_ejes_mm": 2670,
+        "despeje_suelo_mm": 220,
+        "peso_bruto_kg": {
+            "2.5 AWD CVT XS ES": 1594,
+            "2.5 AWD CVT DYNAMIC ES": 1616,
+            "2.5 AWD CVT SPORT ES": 1634,
+            "2.5 AWD CVT TOURING ES": 1643,
+            "2.5 HEV AWD CVT ADVENTURE ES": 1760,
+            "2.5 HEV AWD CVT TOURING ES": 1760
+        },
+        "capacidad_maletero_lts": {
+            "2.5 AWD CVT XS ES": 509,
+            "2.5 AWD CVT DYNAMIC ES": 509,
+            "2.5 AWD CVT SPORT ES": 509,
+            "2.5 AWD CVT TOURING ES": 509,
+            "2.5 HEV AWD CVT ADVENTURE ES": 484,
+            "2.5 HEV AWD CVT TOURING ES": 484
+        },
+        "capacidad_estanque_lts": 63,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia máxima motor eléctrico Kw (CV)",
+            "2.5 AWD CVT XS ES": null,
+            "2.5 AWD CVT DYNAMIC ES": null,
+            "2.5 AWD CVT SPORT ES": null,
+            "2.5 AWD CVT TOURING ES": null,
+            "2.5 HEV AWD CVT ADVENTURE ES": "90 (122)",
+            "2.5 HEV AWD CVT TOURING ES": "90 (122)"
+        },
+        {
+            "caracteristica": "Torque máximo motor eléctrico Nm",
+            "2.5 AWD CVT XS ES": null,
+            "2.5 AWD CVT DYNAMIC ES": null,
+            "2.5 AWD CVT SPORT ES": null,
+            "2.5 AWD CVT TOURING ES": null,
+            "2.5 HEV AWD CVT ADVENTURE ES": "270",
+            "2.5 HEV AWD CVT TOURING ES": "270"
+        },
+        {
+            "caracteristica": "Relación de engranajes Posición D",
+            "2.5 AWD CVT XS ES": "4.066 — 0.503",
+            "2.5 AWD CVT DYNAMIC ES": "4.066 — 0.503",
+            "2.5 AWD CVT SPORT ES": "4.066 — 0.503",
+            "2.5 AWD CVT TOURING ES": "4.066 — 0.503",
+            "2.5 HEV AWD CVT ADVENTURE ES": "No aplica",
+            "2.5 HEV AWD CVT TOURING ES": "No aplica"
+        },
+        {
+            "caracteristica": "Cantidad de marchas modo manual",
+            "2.5 AWD CVT XS ES": 8,
+            "2.5 AWD CVT DYNAMIC ES": 8,
+            "2.5 AWD CVT SPORT ES": 8,
+            "2.5 AWD CVT TOURING ES": 8,
+            "2.5 HEV AWD CVT ADVENTURE ES": 6,
+            "2.5 HEV AWD CVT TOURING ES": 6
+        },
+        {
+            "caracteristica": "Reversa",
+            "2.5 AWD CVT XS ES": "4.379",
+            "2.5 AWD CVT DYNAMIC ES": "4.379",
+            "2.5 AWD CVT SPORT ES": "4.379",
+            "2.5 AWD CVT TOURING ES": "4.379",
+            "2.5 HEV AWD CVT ADVENTURE ES": "No aplica",
+            "2.5 HEV AWD CVT TOURING ES": "No aplica"
+        },
+        {
+            "caracteristica": "Reducción final",
+            "2.5 AWD CVT XS ES": "3,900",
+            "2.5 AWD CVT DYNAMIC ES": "3,900",
+            "2.5 AWD CVT SPORT ES": "3,900",
+            "2.5 AWD CVT TOURING ES": "3,900",
+            "2.5 HEV AWD CVT ADVENTURE ES": "3,700",
+            "2.5 HEV AWD CVT TOURING ES": "3,700"
+        },
+        {
+            "caracteristica": "Radio mínimo de giro (metros)",
+            "2.5 AWD CVT XS ES": "5,4",
+            "2.5 AWD CVT DYNAMIC ES": "5,4",
+            "2.5 AWD CVT SPORT ES": "5,4",
+            "2.5 AWD CVT TOURING ES": "5,4",
+            "2.5 HEV AWD CVT ADVENTURE ES": "5,4",
+            "2.5 HEV AWD CVT TOURING ES": "5,4"
+        },
+        {
+            "caracteristica": "Trocha delantera (mm)",
+            "2.5 AWD CVT XS ES": 1565,
+            "2.5 AWD CVT DYNAMIC ES": 1565,
+            "2.5 AWD CVT SPORT ES": 1565,
+            "2.5 AWD CVT TOURING ES": 1565,
+            "2.5 HEV AWD CVT ADVENTURE ES": 1570,
+            "2.5 HEV AWD CVT TOURING ES": 1570
+        },
+        {
+            "caracteristica": "Trocha trasera (mm)",
+            "2.5 AWD CVT XS ES": 1570,
+            "2.5 AWD CVT DYNAMIC ES": 1570,
+            "2.5 AWD CVT SPORT ES": 1570,
+            "2.5 AWD CVT TOURING ES": 1570,
+            "2.5 HEV AWD CVT ADVENTURE ES": 1575,
+            "2.5 HEV AWD CVT TOURING ES": 1575
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luz de portalón trasero",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": false,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": false
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": "LED",
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": "LED"
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles automáticos",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": false,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Espejos laterales calefaccionados",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Espejos laterales color carrocería",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": "Cromados",
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": "Cromados"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "2.5 AWD CVT XS ES": "17''",
+                "2.5 AWD CVT DYNAMIC ES": "18''",
+                "2.5 AWD CVT SPORT ES": "19''",
+                "2.5 AWD CVT TOURING ES": "19''",
+                "2.5 HEV AWD CVT ADVENTURE ES": "19''",
+                "2.5 HEV AWD CVT TOURING ES": "19''"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": false,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Spoiler de techo",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Portalón",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": "Eléctrico",
+                "2.5 AWD CVT SPORT ES": "Eléctrico",
+                "2.5 AWD CVT TOURING ES": "Eléctrico",
+                "2.5 HEV AWD CVT ADVENTURE ES": "Eléctrico",
+                "2.5 HEV AWD CVT TOURING ES": "Eléctrico"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Subaru Infotainment con pantalla táctil",
+                "2.5 AWD CVT XS ES": "7'' (dos pantallas)",
+                "2.5 AWD CVT DYNAMIC ES": "7'' (dos pantallas)",
+                "2.5 AWD CVT SPORT ES": "7'' (dos pantallas)",
+                "2.5 AWD CVT TOURING ES": "7'' (dos pantallas)",
+                "2.5 HEV AWD CVT ADVENTURE ES": "11,6''",
+                "2.5 HEV AWD CVT TOURING ES": "11,6''"
+            },
+            {
+                "caracteristica": "Sistema de audio premium Harman Kardon",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": false,
+                "2.5 AWD CVT SPORT ES": false,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "2.5 AWD CVT XS ES": 4,
+                "2.5 AWD CVT DYNAMIC ES": 6,
+                "2.5 AWD CVT SPORT ES": 6,
+                "2.5 AWD CVT TOURING ES": "10+amplificador+sub woofer (HK)",
+                "2.5 HEV AWD CVT ADVENTURE ES": "10+amplificador+sub woofer (HK)",
+                "2.5 HEV AWD CVT TOURING ES": "10+amplificador+sub woofer (HK)"
+            },
+            {
+                "caracteristica": "Navegador satelital",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": false,
+                "2.5 AWD CVT SPORT ES": false,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Medidor combinado",
+                "2.5 AWD CVT XS ES": "4,2",
+                "2.5 AWD CVT DYNAMIC ES": "4,2",
+                "2.5 AWD CVT SPORT ES": "4,2",
+                "2.5 AWD CVT TOURING ES": "4,2",
+                "2.5 HEV AWD CVT ADVENTURE ES": "12,3",
+                "2.5 HEV AWD CVT TOURING ES": "12,3"
+            },
+            {
+                "caracteristica": "Selector de cambios en el volante \"Paddle Shift\"",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "X-MODE",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": "Avanzado",
+                "2.5 AWD CVT TOURING ES": "Avanzado",
+                "2.5 HEV AWD CVT ADVENTURE ES": "Avanzado",
+                "2.5 HEV AWD CVT TOURING ES": "Avanzado"
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "2.5 AWD CVT XS ES": "Adaptativo",
+                "2.5 AWD CVT DYNAMIC ES": "Adaptativo",
+                "2.5 AWD CVT SPORT ES": "Adaptativo",
+                "2.5 AWD CVT TOURING ES": "Adaptativo",
+                "2.5 HEV AWD CVT ADVENTURE ES": "Adaptativo",
+                "2.5 HEV AWD CVT TOURING ES": "Adaptativo"
+            },
+            {
+                "caracteristica": "Entrada auxiliar y entrada USB",
+                "2.5 AWD CVT XS ES": "1 USB & 1 AUX",
+                "2.5 AWD CVT DYNAMIC ES": "2 USB & 1 AUX",
+                "2.5 AWD CVT SPORT ES": "2 USB & 1 AUX",
+                "2.5 AWD CVT TOURING ES": "2 USB & 1 AUX",
+                "2.5 HEV AWD CVT ADVENTURE ES": "2 USB & 1 AUX",
+                "2.5 HEV AWD CVT TOURING ES": "2 USB & 1 AUX"
+            },
+            {
+                "caracteristica": "Entrada USB traseros",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Cargador de celular inalámbrico",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Volante cuero",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Palanca de cambios tapizados en cuero",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": false,
+                "2.5 AWD CVT SPORT ES": false,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": false,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "2.5 AWD CVT XS ES": "Tela",
+                "2.5 AWD CVT DYNAMIC ES": "Cuero",
+                "2.5 AWD CVT SPORT ES": "Cuero/Alcantara",
+                "2.5 AWD CVT TOURING ES": "Cuero",
+                "2.5 HEV AWD CVT ADVENTURE ES": "Cuero",
+                "2.5 HEV AWD CVT TOURING ES": "Cuero/Alcantara"
+            },
+            {
+                "caracteristica": "Asientos piloto y co-piloto con ajuste",
+                "2.5 AWD CVT XS ES": "Manual",
+                "2.5 AWD CVT DYNAMIC ES": "Eléctrico",
+                "2.5 AWD CVT SPORT ES": "Eléctrico",
+                "2.5 AWD CVT TOURING ES": "Eléctrico",
+                "2.5 HEV AWD CVT ADVENTURE ES": "Eléctrico",
+                "2.5 HEV AWD CVT TOURING ES": "Eléctrico"
+            },
+            {
+                "caracteristica": "Asientos conductor con memoria 2 posiciones",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de visión delantera",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Cámara 360",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Frenado automático en reversa (RAB)",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Sistema de monitorización del conductor (DMS)",
+                "2.5 AWD CVT XS ES": false,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Sistema de maniobra de emergencia EDSS",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor del Punto Ciego (BSD)",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Asistencia de Cambio de Carril (LCA)",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Alerta de Tráfico Trasero Cruzado (RCTA)",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Frenado Previo a la Colisión",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Gestión del Acelerador Previo a la Colisión",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Aviso de Arranque del Vehículo Precedente",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Advertencia de Salida Involuntaria de Carril",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Advertencia de Vaivén en el Carril",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            },
+            {
+                "caracteristica": "Corrección de Volante",
+                "2.5 AWD CVT XS ES": true,
+                "2.5 AWD CVT DYNAMIC ES": true,
+                "2.5 AWD CVT SPORT ES": true,
+                "2.5 AWD CVT TOURING ES": true,
+                "2.5 HEV AWD CVT ADVENTURE ES": true,
+                "2.5 HEV AWD CVT TOURING ES": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros LED",
+            "Sistema de luces sensibles a la dirección (SRH)",
+            "Luz de giro",
+            "Lavafocos de tipo pop up",
+            "Espejos laterales abatibles eléctricamente",
+            "Sensor de luz y lluvia",
+            "Rieles de techo"
+        ],
+        "interior": [
+            "Volante con regulación vertical y ajuste telescópico",
+            "CarPlay y Android Auto (sujeto a compatibilidad)",
+            "SI-DRIVE (Subaru Inteligent Drive)",
+            "Controles de Bluetooth y audio al volante",
+            "Climatizador BI-zona",
+            "Sistema de acceso y encendido del motor sin llave - Smart Key",
+            "Cubre equipaje retráctil",
+            "Start Stop System con control de desactivación",
+            "Asiento trasero abatible 60/40",
+            "Asientos abatibles y reclinables de un solo toque"
+        ],
+        "seguridad": [
+            "Symmetrical AWD, tracción permanente en las cuatro ruedas",
+            "Sistema de frenos ABS con EBD",
+            "Control electrónico de estabilidad (VDC)",
+            "Vectorización activa de torque (ATV)",
+            "N° de Airbags 8",
+            "Asiento trasero con soporte tipo ISOFIX para silla de niños",
+            "Freno estacionamiento electrónico con AVH",
+            "Cámara de visión trasera",
+            "Sensor de presión de neumáticos (TPMS)",
+            "Bloqueo de puertas automático",
+            "Sistema de detección trasera de vehículos (SRVD)"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Sistema de Asistencia a la Conducción Subaru EyeSight"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Subaru (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "spec-all-new-forester-2026-a4-web_compressed (1).pdf",
+        "versiones_en_documento": 6,
+        "notas": "Se extrajo la información visible de las 2 páginas del documento. No se informan colores en la ficha. En celdas agrupadas de la tabla se respetó el valor común visible por versión, sin inventar datos."
+    }
+}

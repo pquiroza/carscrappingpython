@@ -1,0 +1,200 @@
+{
+    "vehiculo": {
+        "marca": "CUPRA",
+        "modelo": "TERRAMAR",
+        "año": null,
+        "versiones": [
+            "1.5 TSI",
+            "VZ 2.0 TSI 4DRIVE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5 TSI": "Turbo inyección directa",
+            "VZ 2.0 TSI 4DRIVE": "Turbo inyección directa"
+        },
+        "cilindrada": {
+            "1.5 TSI": 1498,
+            "VZ 2.0 TSI 4DRIVE": 1984
+        },
+        "potencia_hp": {
+            "1.5 TSI": "150",
+            "VZ 2.0 TSI 4DRIVE": "265"
+        },
+        "potencia_rpm": {
+            "1.5 TSI": null,
+            "VZ 2.0 TSI 4DRIVE": null
+        },
+        "torque_nm": {
+            "1.5 TSI": "250",
+            "VZ 2.0 TSI 4DRIVE": "400"
+        },
+        "torque_rpm": {
+            "1.5 TSI": "1.500-3.500",
+            "VZ 2.0 TSI 4DRIVE": "1.650-4.350"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5 TSI": "DSG 7",
+            "VZ 2.0 TSI 4DRIVE": "DSG 7"
+        },
+        "traccion": {
+            "1.5 TSI": "Delantera",
+            "VZ 2.0 TSI 4DRIVE": "4Drive"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": {
+            "1.5 TSI": "Discos sólidos",
+            "VZ 2.0 TSI 4DRIVE": "Discos ventilados"
+        },
+        "freno_estacionamiento": "Freno de mano electromecánico (con Auto Hold)",
+        "neumaticos": {
+            "1.5 TSI": "235/55 R18",
+            "VZ 2.0 TSI 4DRIVE": "255/40 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4519,
+        "ancho_mm": 1863,
+        "alto_mm": 1584,
+        "distancia_ejes_mm": 2681,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 540,
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "1.5 TSI": "205",
+            "VZ 2.0 TSI 4DRIVE": "243"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (segundos)",
+            "1.5 TSI": "9,3",
+            "VZ 2.0 TSI 4DRIVE": "5,9"
+        },
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "1.5 TSI": "13,7",
+            "VZ 2.0 TSI 4DRIVE": "9,5"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "1.5 TSI": "19,6",
+            "VZ 2.0 TSI 4DRIVE": "15,6"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "1.5 TSI": "16,8",
+            "VZ 2.0 TSI 4DRIVE": "12,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación (pulgadas)",
+                "1.5 TSI": "18\"",
+                "VZ 2.0 TSI 4DRIVE": "20\""
+            }
+        ],
+        "interior": [],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "1.5 TSI": false,
+                "VZ 2.0 TSI 4DRIVE": true
+            },
+            {
+                "caracteristica": "Detector de punto ciego Side Assist",
+                "1.5 TSI": false,
+                "VZ 2.0 TSI 4DRIVE": true
+            },
+            {
+                "caracteristica": "Intelligent Park Assist (IPA)",
+                "1.5 TSI": false,
+                "VZ 2.0 TSI 4DRIVE": true
+            },
+            {
+                "caracteristica": "Sistema de navegación",
+                "1.5 TSI": false,
+                "VZ 2.0 TSI 4DRIVE": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores con ajuste eléctrico y térmicos",
+            "Espejos exteriores abatibles eléctricos",
+            "Luces diurnas LED",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Techo corredizo panorámico",
+            "Vidrios traseros tinteados"
+        ],
+        "interior": [
+            "Asientos delanteros calefaccionados",
+            "Asientos con ajuste eléctrico y memoria conductor",
+            "Asientos con ajuste lumbar eléctrico",
+            "Tapiz Cuero",
+            "Volante multifuncional forrado en cuero"
+        ],
+        "seguridad": [
+            "ABS",
+            "ASR",
+            "EDS",
+            "ESC",
+            "ISOFIX",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags de cortina",
+            "Airbag central delantero",
+            "Airbag de rodilla conductor",
+            "Inmovilizador electrónico"
+        ],
+        "tecnologia": [
+            "Bluetooth",
+            "Cámara de retroceso",
+            "Cargador inalámbrico",
+            "Climatizador automático 3 zonas",
+            "Control crucero",
+            "Digital Cockpit",
+            "Entradas USB",
+            "Full Link inalámbrico (Android Auto & CarPlay)",
+            "Indicador de presión de neumáticos",
+            "Keyless Entry y botón de encendido",
+            "Levas de cambio",
+            "Radio touchscreen 12,9\"",
+            "Sensor de lluvia",
+            "Sensores de estacionamiento delanteros y traseros"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Glacial",
+        "Azul Fiord",
+        "Gris Grafeno",
+        "Gris Magnético",
+        "Negro Media Noche",
+        "Gris Encelado Mate",
+        "Bronce Century Mate"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica CUPRA (S=true, -=false; textos/valores tal cual)",
+        "fuente": "ficha-tecnica-Terramar-Cupra-25.12.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyeron todos los datos técnicos, desempeño, capacidades, equipamiento y colores según tabla del PDF."
+    }
+}

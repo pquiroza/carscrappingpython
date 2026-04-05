@@ -1,0 +1,286 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLC Coupé AMG",
+        "año": null,
+        "versiones": [
+            "AMG GLC 43 4MATIC",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "AMG GLC 43 4MATIC": "4 cilindros en línea",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "AMG GLC 43 4MATIC": 1991,
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": 1991
+        },
+        "potencia_hp": {
+            "AMG GLC 43 4MATIC": "421 CV (+14 CV)",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "476 CV (+204 CV)"
+        },
+        "potencia_rpm": {
+            "AMG GLC 43 4MATIC": null,
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": null
+        },
+        "torque_nm": {
+            "AMG GLC 43 4MATIC": "500 Nm (+150 Nm)",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "545 Nm (+320 Nm)"
+        },
+        "torque_rpm": {
+            "AMG GLC 43 4MATIC": null,
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "AMG GLC 43 4MATIC": "AMG SPEEDSHIFT MCT 9G con función Race Start",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "AMG SPEEDSHIFT MCT 9G con función Race Start"
+        },
+        "traccion": {
+            "AMG GLC 43 4MATIC": "Integral AMG Performance 4MATIC",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Integral AMG Performance 4MATIC+"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": {
+            "AMG GLC 43 4MATIC": "Equipo de frenos de alto rendimiento con inscripción AMG con discos perforados",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Equipo de frenos de alto rendimiento AMG con discos de material compuesto"
+        },
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "AMG GLC 43 4MATIC": "Delante: 265/45 Detrás: 295/40",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Delante: 265/40 Detrás: 295/35"
+        },
+        "rueda_repuesto": "Gel hermetizante Tirefit"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": {
+            "AMG GLC 43 4MATIC": 62,
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": 65
+        },
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima",
+            "AMG GLC 43 4MATIC": "250 km/h",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "275 km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "AMG GLC 43 4MATIC": "4,8 s",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "3,5 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "AMG GLC 43 4MATIC": "10,1 km/L",
+            "AMG GLC 63s E-PERFORMANCE 4MATIC+": "10 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "AMG GLC 43 4MATIC": "AMG Line con perfil aerodinámico",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "AMG Line con perfil aerodinámico"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "AMG GLC 43 4MATIC": "Peldaños en efecto aluminio con tacos de goma",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Peldaños en efecto aluminio con tacos de goma"
+            },
+            {
+                "caracteristica": "Dirección del eje trasero",
+                "AMG GLC 43 4MATIC": "Ángulo de la dirección en un margen de 2,5° y cambio de dirección a los 60 Km/h",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Ángulo de la dirección en un margen de 2,5° y cambio de dirección a los 60 Km/h"
+            },
+            {
+                "caracteristica": "Faros DIGITAL LIGHT",
+                "AMG GLC 43 4MATIC": "Incluye luces de carretera Ultra Range y compensación topográfica",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye luces de carretera Ultra Range y compensación topográfica"
+            },
+            {
+                "caracteristica": "AMG Night Package",
+                "AMG GLC 43 4MATIC": "Cristales calorífugos tintados, retrovisores oscuros y sistema de escapes cromados",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Cristales calorífugos tintados, retrovisores oscuros y sistema de escapes cromados"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "AMG GLC 43 4MATIC": "Incluye cierre automático en caso de lluvia",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye cierre automático en caso de lluvia"
+            },
+            {
+                "caracteristica": "Llantas",
+                "AMG GLC 43 4MATIC": "Llantas de aleación AMG de 20\" y 10 radios dobles pintado en negro mate",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Llantas forjadas AMG de 21\" en diseño de radios cruzados en negro mate"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "AMG GLC 43 4MATIC": "Cuero ARTICO negro y cinturones de seguridad rojos AMG",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Cuero ARTICO negro y cinturones de seguridad rojos AMG"
+            },
+            {
+                "caracteristica": "Volante",
+                "AMG GLC 43 4MATIC": "Volante AMG Performance en napa",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Volante AMG Performance en diseño de fibra de carbono con MICROCUT"
+            },
+            {
+                "caracteristica": "Molduras",
+                "AMG GLC 43 4MATIC": "Elementos de adorno en estructura de metal",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Elemento de adorno de fibra de carbono AMG"
+            },
+            {
+                "caracteristica": "Asientos delanteros deportivos con ajuste eléctrico y memoria",
+                "AMG GLC 43 4MATIC": "Incluye calefacción y apoyo lumbar con 4 vías de ajuste",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye calefacción y apoyo lumbar con 4 vías de ajuste"
+            },
+            {
+                "caracteristica": "Climatización",
+                "AMG GLC 43 4MATIC": "THERMATIC Bizona",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "THERMOTRONIC de 4 zonas"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente",
+                "AMG GLC 43 4MATIC": "64 colores con diez conceptos cromáticos",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "64 colores con diez conceptos cromáticos"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de serie",
+                "AMG GLC 43 4MATIC": "9 Incluye Windowbags + Rodillas",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "11 Incluye Windowbags + Rodillas + Laterales traseros"
+            },
+            {
+                "caracteristica": "PRE-SAFE® Impulso lateral",
+                "AMG GLC 43 4MATIC": "Impulso a los pasajeros delanteros hacia el interior del vehículo en caso de colisión lateral",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Impulso a los pasajeros delanteros hacia el interior del vehículo en caso de colisión lateral"
+            },
+            {
+                "caracteristica": "Paquete de asistencia a la conducción",
+                "AMG GLC 43 4MATIC": "Conducción parcialmente automatizada por el asistente activo de distancia DISTRONIC",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Conducción parcialmente automatizada por el asistente activo de distancia DISTRONIC"
+            },
+            {
+                "caracteristica": "Sensores de asistencia a la conducción",
+                "AMG GLC 43 4MATIC": "Incluye visualización de capó transparente",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye visualización de capó transparente"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara 360°",
+                "AMG GLC 43 4MATIC": "Más confort y seguridad al maniobrar",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Más confort y seguridad al maniobrar"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "AMG GLC 43 4MATIC": "Sistema detecta espacios adecuados y asiste al estacionar",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Sistema detecta espacios adecuados y asiste al estacionar"
+            },
+            {
+                "caracteristica": "ATTENTION ASSIST",
+                "AMG GLC 43 4MATIC": "Sistema propone detenerse en caso de detectar cansancio",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Sistema propone detenerse en caso de detectar cansancio"
+            },
+            {
+                "caracteristica": "Tren de rodaje DYNAMIC BODY CONTROL",
+                "AMG GLC 43 4MATIC": "Elección entre agilidad o confort de manejo",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Elección entre agilidad o confort de manejo"
+            },
+            {
+                "caracteristica": "Control de presión de neumáticos",
+                "AMG GLC 43 4MATIC": "Supervisión de presión y advertencia",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Supervisión de presión y advertencia"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "AMG GLC 43 4MATIC": "Sistema multimedia digitalizado personalizable",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "AMG GLC 43 4MATIC": "<<Hey Mercedes>>",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "AMG Track Pace",
+                "AMG GLC 43 4MATIC": "Selección de datos telemétricos en tiempo real",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Selección de datos telemétricos en tiempo real"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos",
+                "AMG GLC 43 4MATIC": "12,3 pulgadas de alta definición",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "12,3 pulgadas de alta definición"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "AMG GLC 43 4MATIC": "11,9 pulgadas completamente acristalada en formato vertical",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "11,9 pulgadas completamente acristalada en formato vertical"
+            },
+            {
+                "caracteristica": "MBUX Navegación Plus",
+                "AMG GLC 43 4MATIC": "Incluye datos cartográficos actuales en 3D con navegación por disco duro",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye datos cartográficos actuales en 3D con navegación por disco duro"
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "AMG GLC 43 4MATIC": true,
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": true
+            },
+            {
+                "caracteristica": "Paquete KEYLESS GO",
+                "AMG GLC 43 4MATIC": "Incluye acceso al habitáculo Keyless y cierre de confort para maletero",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye acceso al habitáculo Keyless y cierre de confort para maletero"
+            },
+            {
+                "caracteristica": "Paquete de personalización multimedia MBUX",
+                "AMG GLC 43 4MATIC": "Conceptos acústicos adicionales para mejorar la experiencia del sonido",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Conceptos acústicos adicionales para mejorar la experiencia del sonido"
+            },
+            {
+                "caracteristica": "Integración de Smartphone inalámbrico",
+                "AMG GLC 43 4MATIC": "Incluye sistema de carga inalámbrico",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Incluye sistema de carga inalámbrico"
+            },
+            {
+                "caracteristica": "Realidad aumentada MBUX",
+                "AMG GLC 43 4MATIC": "Orientación digital para navegación en visualizador de medios",
+                "AMG GLC 63s E-PERFORMANCE 4MATIC+": "Orientación digital para navegación en visualizador de medios"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLC Coupé AMG (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica_GLC_AMG_digital.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó todo el equipamiento, seguridad, tecnología, interior y exterior diferenciando por versión según ficha técnica."
+    }
+}

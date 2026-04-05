@@ -1,0 +1,351 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "3 Sport",
+        "año": null,
+        "versiones": [
+            "ENTRY 2.0 7G 6MT",
+            "CORE 2.0 7G 6MT",
+            "CORE 2.0 7G 6AT",
+            "HIGH 2.5 7G 6AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ENTRY 2.0 7G 6MT": "2.0",
+            "CORE 2.0 7G 6MT": "2.0",
+            "CORE 2.0 7G 6AT": "2.0",
+            "HIGH 2.5 7G 6AT": "2.5"
+        },
+        "cilindrada": {
+            "ENTRY 2.0 7G 6MT": null,
+            "CORE 2.0 7G 6MT": null,
+            "CORE 2.0 7G 6AT": null,
+            "HIGH 2.5 7G 6AT": null
+        },
+        "potencia_hp": {
+            "ENTRY 2.0 7G 6MT": "153",
+            "CORE 2.0 7G 6MT": "153",
+            "CORE 2.0 7G 6AT": "153",
+            "HIGH 2.5 7G 6AT": "186"
+        },
+        "potencia_rpm": {
+            "ENTRY 2.0 7G 6MT": "6.000",
+            "CORE 2.0 7G 6MT": "6.000",
+            "CORE 2.0 7G 6AT": "6.000",
+            "HIGH 2.5 7G 6AT": "6.000"
+        },
+        "torque_nm": {
+            "ENTRY 2.0 7G 6MT": "200",
+            "CORE 2.0 7G 6MT": "200",
+            "CORE 2.0 7G 6AT": "200",
+            "HIGH 2.5 7G 6AT": "252"
+        },
+        "torque_rpm": {
+            "ENTRY 2.0 7G 6MT": "4.000",
+            "CORE 2.0 7G 6MT": "4.000",
+            "CORE 2.0 7G 6AT": "4.000",
+            "HIGH 2.5 7G 6AT": "4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "ENTRY 2.0 7G 6MT": "Manual",
+            "CORE 2.0 7G 6MT": "Manual",
+            "CORE 2.0 7G 6AT": "Automática",
+            "HIGH 2.5 7G 6AT": "Automática"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de mano eléctrico",
+        "neumaticos": {
+            "ENTRY 2.0 7G 6MT": "205/60 R16",
+            "CORE 2.0 7G 6MT": "215/45 R18",
+            "CORE 2.0 7G 6AT": "215/45 R18",
+            "HIGH 2.5 7G 6AT": "215/45 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4460,
+        "ancho_mm": 2025,
+        "alto_mm": 1440,
+        "distancia_ejes_mm": 2725,
+        "despeje_suelo_mm": 135,
+        "peso_bruto_kg": {
+            "ENTRY 2.0 7G 6MT": 1857,
+            "CORE 2.0 7G 6MT": 1857,
+            "CORE 2.0 7G 6AT": 1870,
+            "HIGH 2.5 7G 6AT": 1926
+        },
+        "capacidad_maletero_lts": {
+            "ENTRY 2.0 7G 6MT": 305,
+            "CORE 2.0 7G 6MT": 305,
+            "CORE 2.0 7G 6AT": 305,
+            "HIGH 2.5 7G 6AT": 299
+        },
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "ENTRY 2.0 7G 6MT": "15,1",
+            "CORE 2.0 7G 6MT": "15,1",
+            "CORE 2.0 7G 6AT": "14,6",
+            "HIGH 2.5 7G 6AT": "13,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejo lateral exterior piloto con antideslumbramiento",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": false,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "ENTRY 2.0 7G 6MT": "205/60 R16",
+                "CORE 2.0 7G 6MT": "215/45 R18",
+                "CORE 2.0 7G 6AT": "215/45 R18",
+                "HIGH 2.5 7G 6AT": "215/45 R18"
+            },
+            {
+                "caracteristica": "Luces diurnas",
+                "ENTRY 2.0 7G 6MT": "Halógenas",
+                "CORE 2.0 7G 6MT": "LED",
+                "CORE 2.0 7G 6AT": "LED",
+                "HIGH 2.5 7G 6AT": "LED"
+            },
+            {
+                "caracteristica": "Máscara Frontal",
+                "ENTRY 2.0 7G 6MT": "Negro",
+                "CORE 2.0 7G 6MT": "Negro",
+                "CORE 2.0 7G 6AT": "Negro",
+                "HIGH 2.5 7G 6AT": "Negro"
+            },
+            {
+                "caracteristica": "Color llantas",
+                "ENTRY 2.0 7G 6MT": "Plata",
+                "CORE 2.0 7G 6MT": "Negro",
+                "CORE 2.0 7G 6AT": "Negro",
+                "HIGH 2.5 7G 6AT": "Negro"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla multimedia Mazda connect",
+                "ENTRY 2.0 7G 6MT": "8\"",
+                "CORE 2.0 7G 6MT": "10\"",
+                "CORE 2.0 7G 6AT": "10\"",
+                "HIGH 2.5 7G 6AT": "10\""
+            },
+            {
+                "caracteristica": "Apple Carplay",
+                "ENTRY 2.0 7G 6MT": "Con cable",
+                "CORE 2.0 7G 6MT": "Con cable",
+                "CORE 2.0 7G 6AT": "Con cable",
+                "HIGH 2.5 7G 6AT": "Con cable"
+            },
+            {
+                "caracteristica": "Android Auto",
+                "ENTRY 2.0 7G 6MT": "Con cable",
+                "CORE 2.0 7G 6MT": "Con cable",
+                "CORE 2.0 7G 6AT": "Con cable",
+                "HIGH 2.5 7G 6AT": "Con cable"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "ENTRY 2.0 7G 6MT": "USB Tipo C",
+                "CORE 2.0 7G 6MT": "USB Tipo C",
+                "CORE 2.0 7G 6AT": "USB Tipo C",
+                "HIGH 2.5 7G 6AT": "USB Tipo C"
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Limpia parabrisas con sensor de lluvia e intermitencia ajustable",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antideslumbramiento",
+                "ENTRY 2.0 7G 6MT": "Automático",
+                "CORE 2.0 7G 6MT": "Automático",
+                "CORE 2.0 7G 6AT": "Automático",
+                "HIGH 2.5 7G 6AT": "Automático sin bordes"
+            },
+            {
+                "caracteristica": "Sistema de Audio",
+                "ENTRY 2.0 7G 6MT": "8 parlantes",
+                "CORE 2.0 7G 6MT": "8 parlantes",
+                "CORE 2.0 7G 6AT": "8 parlantes",
+                "HIGH 2.5 7G 6AT": "Bose 12 parlantes"
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "ENTRY 2.0 7G 6MT": "Bizona con salida trasera",
+                "CORE 2.0 7G 6MT": "Bizona con salida trasera",
+                "CORE 2.0 7G 6AT": "Bizona con salida trasera",
+                "HIGH 2.5 7G 6AT": "Bizona con salida trasera"
+            },
+            {
+                "caracteristica": "Asientos",
+                "ENTRY 2.0 7G 6MT": "Ajuste manual",
+                "CORE 2.0 7G 6MT": "Ajuste manual",
+                "CORE 2.0 7G 6AT": "Ajuste manual",
+                "HIGH 2.5 7G 6AT": "Ajuste eléctrico con memoria"
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "ENTRY 2.0 7G 6MT": "Tela",
+                "CORE 2.0 7G 6MT": "Tela",
+                "CORE 2.0 7G 6AT": "Tela",
+                "HIGH 2.5 7G 6AT": "Cuero"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": false,
+                "HIGH 2.5 7G 6AT": "Delanteros"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": false,
+                "HIGH 2.5 7G 6AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag",
+                "ENTRY 2.0 7G 6MT": 7,
+                "CORE 2.0 7G 6MT": 7,
+                "CORE 2.0 7G 6AT": 7,
+                "HIGH 2.5 7G 6AT": 7
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "ENTRY 2.0 7G 6MT": "Traseros",
+                "CORE 2.0 7G 6MT": "Traseros",
+                "CORE 2.0 7G 6AT": "Traseros",
+                "HIGH 2.5 7G 6AT": "Traseros y delanteros"
+            },
+            {
+                "caracteristica": "Sistema de apertura",
+                "ENTRY 2.0 7G 6MT": "Keyless",
+                "CORE 2.0 7G 6MT": "Smart Keyless",
+                "CORE 2.0 7G 6AT": "Smart Keyless",
+                "HIGH 2.5 7G 6AT": "Smart Keyless"
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Modo Manejo Sport",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true,
+                "HIGH 2.5 7G 6AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos laterales eléctricos abatibles",
+            "Foco principal LED"
+        ],
+        "interior": [
+            "Freno de mano eléctrico"
+        ],
+        "seguridad": [
+            "Asistencia al arranque en pendientes (HLA)",
+            "Señal de frenado de emergencia (ESS)",
+            "Cámara de retroceso con líneas de guía",
+            "Bloqueo automático de puertas en movimiento",
+            "i- STOP: Sistema de apagado y encendido automático del motor",
+            "G-vectoring Control Plus (GVC Plus)",
+            "ISOFIX"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Cristal",
+        "Blanco Perla",
+        "Gris Polymetal",
+        "Azul Oscuro Metalizado",
+        "Negro",
+        "Gris Metálico",
+        "Blanco Cerámico",
+        "Plata Cuarzo"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_mazda-3-sport_octubre2025.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

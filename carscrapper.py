@@ -289,7 +289,8 @@ def toyota(driver):
 
 
 def bruno(driver):
-    brunos = ["toyota","nissan","peugeot","citroen","ram","chery","mg","lexus","hyundai","opel","jeep","fiat","exeed","omoda-jaecoo"]
+    #brunos = ["toyota","nissan","peugeot","citroen","ram","chery","mg","lexus","hyundai","opel","jeep","fiat","exeed","omoda-jaecoo"]
+    brunos = ["hyundai"]
     id=0
     for b in brunos: 
         id+=1
@@ -358,6 +359,7 @@ def bruno(driver):
                 })
                     
                 print("-"*100)
+    print("RUN_OK")
 
 
 

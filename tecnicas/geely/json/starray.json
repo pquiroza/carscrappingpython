@@ -1,0 +1,280 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "STARRAY",
+        "año": null,
+        "versiones": [
+            "EXCLUSIVE",
+            "SIGNATURE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EXCLUSIVE": "2.0T / 1969 / 4 cilindros en línea",
+            "SIGNATURE": "2.0T / 1969 / 4 cilindros en línea"
+        },
+        "cilindrada": {
+            "EXCLUSIVE": 1969,
+            "SIGNATURE": 1969
+        },
+        "potencia_hp": {
+            "EXCLUSIVE": "218",
+            "SIGNATURE": "218"
+        },
+        "potencia_rpm": {
+            "EXCLUSIVE": "4500",
+            "SIGNATURE": "4500"
+        },
+        "torque_nm": {
+            "EXCLUSIVE": "325",
+            "SIGNATURE": "325"
+        },
+        "torque_rpm": {
+            "EXCLUSIVE": null,
+            "SIGNATURE": null
+        },
+        "combustible": null,
+        "transmision": {
+            "EXCLUSIVE": "DCT de 7 velocidades",
+            "SIGNATURE": "DCT de 7 velocidades"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mcpherson",
+        "suspension_trasera": "Multi - Link",
+        "frenos_delanteros": "Ventilados",
+        "frenos_traseros": "Sólidos",
+        "freno_estacionamiento": "Eléctrico (EPB)",
+        "neumaticos": {
+            "EXCLUSIVE": "Llantas de aleación 19”",
+            "SIGNATURE": "Neumáticos 235/50 R20 Goodyear Eagle F1 / Llantas de aleación 20”"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4670,
+        "ancho_mm": 1900,
+        "alto_mm": 1705,
+        "distancia_ejes_mm": 2777,
+        "despeje_suelo_mm": 215,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "650 / 1610",
+        "capacidad_estanque_lts": 54,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "EXCLUSIVE": "16,7",
+            "SIGNATURE": "16,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo Bi-Tono y detalles en negro",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico con altura programable",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con sensor de lluvia",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Llantas de aleación 19”",
+                "EXCLUSIVE": true,
+                "SIGNATURE": false
+            },
+            {
+                "caracteristica": "Llantas de aleación 20”",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Neumáticos 235/50 R20 Goodyear Eagle F1",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz en cuero (PVC)",
+                "EXCLUSIVE": true,
+                "SIGNATURE": false
+            },
+            {
+                "caracteristica": "Tapiz en cuero (PVC) perforado",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Soporte lumbar eléctrico 4 vías para el conductor",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Memoria para asiento del conductor y espejos exteriores",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Extensión de cojín para muslos del conductor",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asiento acompañante eléctrico en 4 vías",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Parasoles con visor UV y espejo de vanidad iluminado",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Iluminación ambiental sincronizada con la música",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensores de estacionamiento delanteros",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Cámara de visión 360º HD (AVM) con perspectiva 540º",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de audio de 6 parlantes",
+                "EXCLUSIVE": true,
+                "SIGNATURE": false
+            },
+            {
+                "caracteristica": "Sistema de audio Harman InfinityTM de 9 parlantes",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para smartphone",
+                "EXCLUSIVE": false,
+                "SIGNATURE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Focos Delanteros LED automáticos de encendido/apagado",
+            "Iluminación de bienvenida y despedida",
+            "Luces diurnas LED (DRL)",
+            "Luces traseras LED",
+            "Logo iluminado",
+            "Intermitentes (señalizadores) LED",
+            "Barras de techo",
+            "Antena tipo aleta de tiburón",
+            "Sunroof panorámico eléctrico con cortina eléctrica",
+            "Espejos exteriores eléctricos color carrocería",
+            "Espejos abatibles eléctricos",
+            "Espejos calefaccionados"
+        ],
+        "interior": [
+            "Color de interior: Azul y Gris",
+            "Volante multifunción con tratamiento antimicrobiano",
+            "Volante forrado en cuero (PVC)",
+            "Volante con ajuste manual en 4 vías",
+            "Asiento conductor eléctrico en 6 vías",
+            "Todos los apoyacabezas con ajuste manual (2 vías)",
+            "Apoyacabezas central trasero",
+            "Apoyabrazos central trasero con posavasos",
+            "Asiento trasero abatible 60/40 (manual)",
+            "Anclajes ISOFIX",
+            "Parasoles delanteros con espejo de vanidad iluminado",
+            "Guantera iluminada LED",
+            "Luces de lectura delanteras y traseras",
+            "Alzavidrios delanteros y traseros one-touch",
+            "Apertura/cierre remoto de ventanas y sunroof",
+            "Acceso y encendido sin llave inteligente a distancia",
+            "Climatizador automático bi-zona",
+            "Salidas de aire para pasajeros traseros",
+            "Filtro de cocina CN95 de alta eficiencia (antiviral)",
+            "Renovación automática inteligente del aire",
+            "Iluminación ambiental",
+            "Freno de estacionamiento eléctrico (EPB)",
+            "Auto Hold (mantención automática en detención)"
+        ],
+        "seguridad": [
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución Electrónica de frenado (EBD)",
+            "Asistencia de Frenado (BA)",
+            "Control de Tracción (TCS)",
+            "Control de estabilidad electrónico BOSCHTM v.93 (ESC)",
+            "Asistente de partida en pendiente (HSA/HAC)",
+            "Control de Descenso en Pendiente (HDC)",
+            "Programa anti-vuelco (ARP)",
+            "Monitor de presión de neumáticos (TPMS)",
+            "Airbags frontales para conductor y pasajero",
+            "Airbags laterales delanteros para conductor de pasajero",
+            "Airbags de cortina para todas las plazas laterales",
+            "Recordatorio de cinturón para todas las plazas (SBR)",
+            "Sensores de estacionamiento traseros",
+            "Seguro para niños en puertas traseras",
+            "Cierre automático de puertas en movimiento"
+        ],
+        "tecnologia": [
+            "Panel de instrumentos digital de 12,2” a color",
+            "Tres puertas USB-C y un puerto USB-A",
+            "Toma de 12 V",
+            "Apple carplay / Smartphone Mirroring",
+            "Pantalla táctil HD de 13,2” a color",
+            "Chip QualcommTM Snapdragon 8155",
+            "16 GB RAM & 128 GB ROM",
+            "Streaming de audio por Bluetooth"
+        ],
+        "adas": [
+            "Control de Velocidad Crucero",
+            "Control de Crucero Adaptativo (ACC)",
+            "Frenado Automático de Emergencia (AEB)",
+            "Frenado Automático de Emergencia para Peatones (AEB-P)",
+            "Alerta de Salida de Carril (LDW)",
+            "Reconocimiento de Señales de Tránsito (TSI)",
+            "Asistente de Conducción en Autopista (HWA)",
+            "Asistente de Luces Altas Inteligentes (IHBC)",
+            "Head-Up Display (HUD)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "06_STARRAY-FICHA-TECNICA-2-FINAL-FINAL.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se consolidaron las múltiples tablas del documento en el mismo formato JSON usado anteriormente. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

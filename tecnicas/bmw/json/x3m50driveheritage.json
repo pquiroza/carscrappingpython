@@ -1,0 +1,163 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "año": null,
+        "versiones": [
+            "M50 xDrive Heritage"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "M50 xDrive Heritage": "Gasolina, 6 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "M50 xDrive Heritage": 2998
+        },
+        "potencia_hp": {
+            "M50 xDrive Heritage": "398"
+        },
+        "potencia_rpm": {
+            "M50 xDrive Heritage": "5,200-6,250"
+        },
+        "torque_nm": {
+            "M50 xDrive Heritage": "580"
+        },
+        "torque_rpm": {
+            "M50 xDrive Heritage": "1,900 – 4,800"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "M50 xDrive Heritage": "Automática Steptronic de 8 velocidades con levas en el volante"
+        },
+        "traccion": "xDrive"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "M50 xDrive Heritage": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4755,
+        "ancho_mm": 1920,
+        "alto_mm": 1660,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 216,
+        "peso_bruto_kg": 1950,
+        "capacidad_maletero_lts": "570 L (ampliables a 1700 L con asientos reclinados)",
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "M50 xDrive Heritage": "4.6"
+        },
+        {
+            "caracteristica": "Combinado (km/l)",
+            "M50 xDrive Heritage": "12"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Pintura de acabado metálico",
+            "Llantas de aleación aro 21”",
+            "Caliper delanteros en acabo rojo brillante",
+            "Rieles de techo portaequipajes en negro brillante",
+            "Sunroof eléctrico"
+        ],
+        "interior": [
+            "Climatizador automático bizona",
+            "Cámara interior",
+            "Asientos Veganza perforado ventilados y calefaccionados",
+            "Paquete de iluminación interior (incluye Welcome Light Carpet y 6 alternativas)",
+            "Asientos delanteros deportivos con ajuste eléctrico y memoria en piloto",
+            "Operación automática de maletero",
+            "Espejos exteriores abatibles eléctricamente",
+            "Volante deportivo de cuero multifunción",
+            "Revestimiento interior en negro brillante “Piano black”",
+            "Alfombrillas de velours"
+        ],
+        "seguridad": [
+            "Sistema de alarma",
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Recuperación de energía en frenada",
+            "Control de descenso en pendiente (HDC)",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido Harman Kardon",
+            "BMW Live Cockpit Professional",
+            "Head Up Display",
+            "Pantalla de panel de instrumentos digital de 10,25’’ (1920x720 pixeles)",
+            "Pantalla de control de alta resolución (1920x960 pixeles) de 10,7’’",
+            "Sistema operativo BMW iDrive 9.0 con widgets y pantallas personalizables",
+            "Preparación para Apple CarPlay y Android Auto",
+            "Permite conexión inalámbrica con iPhone® y dispositivo Android® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, Audiobooks))",
+            "Bandeja para carga inalámbrica de dispositivos móviles"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos",
+            "Luces de día LED",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Paquete de luces exterior (luces de bienvenida en las puertas, luces ambientes interior: estación de carga smartphone, posavasos)",
+            "BMW Iconic Glow (parrilla frontal iluminada)",
+            "Paquete Parking Assistant Professional",
+            "Asistente de estacionamiento en perpendicular/paralelo",
+            "Control remoto de estacionamiento (MY BMW APP)",
+            "Control activo de la distancia de estacionamiento",
+            "Asistente de reversa",
+            "Asistente de maniobra",
+            "Sensores de estacionamiento delantero y trasero (PDC)",
+            "Cámara de 360°",
+            "Paquete Driving Assistant Professional",
+            "Control Crucero adaptativo con función Stop and Go",
+            "Mantenimiento de carril",
+            "Asistente de frenado en caso de colisión frontal",
+            "Asistente automático de limitador de velocidad",
+            "Asistente de evasiones",
+            "Alerta de salida de carril",
+            "Detección de luces de tráfico",
+            "Asistente de intersecciones",
+            "Alerta de carril en contra",
+            "Modos de conducción (Personal, Efficient y Sport)",
+            "Función Auto Start-Stop",
+            "Retrovisor int. / ext. anti-deslumbramiento automático",
+            "Start-off Assistant (asistente de partida en pendiente)"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_new_bmw_x3_m50_xdrive_heritage.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

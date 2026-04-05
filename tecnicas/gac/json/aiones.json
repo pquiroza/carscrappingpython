@@ -1,0 +1,334 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "AION ES",
+        "año": null,
+        "versiones": [
+            "AION ES"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": null,
+        "potencia_hp": {
+            "AION ES": "134"
+        },
+        "potencia_rpm": {
+            "AION ES": null
+        },
+        "torque_nm": {
+            "AION ES": "225"
+        },
+        "torque_rpm": {
+            "AION ES": null
+        },
+        "combustible": null,
+        "transmision": {
+            "AION ES": null
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electroasistida EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Delantera: McPherson suspensión independiente",
+        "suspension_trasera": "Trasera: Barra de torsión",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "AION ES": "215/55 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4810,
+        "ancho_mm": 1880,
+        "alto_mm": 1545,
+        "distancia_ejes_mm": 2750,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 453,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rango de autonomía (km)",
+            "AION ES": "234 km Autonomía según homologación de Centro de Control y Certificación Vehicular 3CV"
+        },
+        {
+            "caracteristica": "Rendimiento (km/kWh)",
+            "AION ES": "4,6 km/kWh"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Faros LED",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Follow me home",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Faros automáticos",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Luces LED de circulación diurna (DRL)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Luces antiniebla traseras",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delanteros con sensor de lluvia",
+                "AION ES": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Color interior",
+                "AION ES": "Negro"
+            },
+            {
+                "caracteristica": "Luz maleta",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Apoya cabeza central",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Apoya brazos central con portavasos",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior sin bordes con antideslumbramiento automático y puerto de carga USB",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Vidrios eléctricos One touch asiento conductor",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Climatizador Bi-zona",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Filtro de aire (PM2,5)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Aire acondicionado de segunda fila",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Volante eco cuero",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Asientos eco cuero",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Ajuste eléctrico de 6 direcciones asientos delanteros",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Asiento del pasajero delantero ajustable manualmente en 4 direcciones",
+                "AION ES": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags frontales",
+                "AION ES": 2
+            },
+            {
+                "caracteristica": "Freno de mano electrónico EPB",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Auto Hold",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Distribución electrónica de la fuerza de frenado (EBD)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Programa Electrónico de Estabilidad (ESP)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Frenos hidráulicos asistidos HBA",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Control de espera en arranque en pendiente (HHC)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Anclajes ISOFIX para asientos de seguridad para niños",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Alarma de cinturón de seguridad desatado del asiento delantero (luz y timbre)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad con limitadores de fuerza en asientos de la primera fila",
+                "AION ES": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control Crucero",
+                "AION ES": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de audio y vídeo en español",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "I PEDAL (Pedal electrónico)",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos LCD de 3,5 pulgadas",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Pantalla táctil de 8 pulgadas",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Sistema de teléfono manos libres Bluetooth",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "USB Primera fila",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "USB Segunda fila",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Entrada sin llave",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Apple Carplay",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Modo de conducción ECO",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Modo de conducción NORMAL",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Modo de conducción SPORT",
+                "AION ES": true
+            },
+            {
+                "caracteristica": "Modo de conducción con frenado regenerativo bajo / medio / alto",
+                "AION ES": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros LED",
+            "Follow me home",
+            "Faros automáticos",
+            "Luces LED de circulación diurna (DRL)",
+            "Luces antiniebla traseras",
+            "Espejos retrovisores eléctricos",
+            "Limpiaparabrisas delanteros con sensor de lluvia"
+        ],
+        "interior": [
+            "Luz maleta",
+            "Apoya cabeza central",
+            "Apoya brazos central con portavasos",
+            "Espejo retrovisor interior sin bordes con antideslumbramiento automático y puerto de carga USB",
+            "Vidrios eléctricos One touch asiento conductor",
+            "Climatizador Bi-zona",
+            "Filtro de aire (PM2,5)",
+            "Aire acondicionado de segunda fila",
+            "Volante eco cuero",
+            "Asientos eco cuero",
+            "Ajuste eléctrico de 6 direcciones asientos delanteros",
+            "Asiento del pasajero delantero ajustable manualmente en 4 direcciones"
+        ],
+        "seguridad": [
+            "Airbags frontales (2)",
+            "Freno de mano electrónico EPB",
+            "Auto Hold",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución electrónica de la fuerza de frenado (EBD)",
+            "Programa Electrónico de Estabilidad (ESP)",
+            "Frenos hidráulicos asistidos HBA",
+            "Control de espera en arranque en pendiente (HHC)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Sensores de estacionamiento traseros",
+            "Anclajes ISOFIX para asientos de seguridad para niños",
+            "Alarma de cinturón de seguridad desatado del asiento delantero (luz y timbre)",
+            "Cinturones de seguridad con limitadores de fuerza en asientos de la primera fila"
+        ],
+        "tecnologia": [
+            "Sistema de audio y vídeo en español",
+            "I PEDAL (Pedal electrónico)",
+            "Cuadro de instrumentos LCD de 3,5 pulgadas",
+            "Pantalla táctil de 8 pulgadas",
+            "Sistema de teléfono manos libres Bluetooth",
+            "USB Primera fila",
+            "USB Segunda fila",
+            "Entrada sin llave",
+            "Apple Carplay",
+            "Modo de conducción ECO",
+            "Modo de conducción NORMAL",
+            "Modo de conducción SPORT",
+            "Modo de conducción con frenado regenerativo bajo / medio / alto"
+        ],
+        "adas": [
+            "Control Crucero"
+        ]
+    },
+    "colores": [
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_AION-ES_151025.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento incluye: tipo de batería (Fosfato de Hierro y Litio) y capacidad (55.2kWh) en la tabla de características; se mantienen como texto en tabla_comparativa_rendimiento/metadata (sin inventar campos nuevos). Los colores disponibles se muestran como muestras; solo aparece explícitamente 'Negro'."
+    }
+}

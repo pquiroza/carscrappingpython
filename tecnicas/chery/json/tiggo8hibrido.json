@@ -1,0 +1,132 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 8 PRO MAX PHEV",
+        "año": null,
+        "versiones": [
+            "1_5T_DHT_PHEV_CSH"
+        ]
+    },
+    "motor_combustion": {
+        "tipo": "1.5 Turbo",
+        "combustible": "Gasolina",
+        "cilindrada": "1499",
+        "potencia_hp": "141",
+        "potencia_rpm": "5500",
+        "torque_nm": "215",
+        "torque_rpm": "1750-4000",
+        "modos_conduccion": "ECO - NORMAL - SPORT",
+        "norma_emisiones": "EURO 6C"
+    },
+    "motor_electrico": {
+        "tipo": "Motor síncrono / Imán permanente",
+        "potencia_kw": "150",
+        "potencia_hp": "201",
+        "torque_nm": "310",
+        "torque_rpm": "0-3300",
+        "bateria_kwh": "18.40",
+        "tiempo_carga": "5-6 horas",
+        "puerto_carga": "Tipo 2",
+        "autonomia_km_nedc": "95"
+    },
+    "desempeno_combinado": {
+        "potencia_hp": "342",
+        "torque_nm": "525",
+        "aceleracion_0_100": "8.5 segundos"
+    },
+    "transmision": {
+        "tipo": "Híbrida DHT",
+        "traccion": "Delantera",
+        "palanca": "E-Shift"
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "sistema": "ABS + EBD + BAS + BOS",
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Independiente",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 7,
+        "largo_mm": "4725",
+        "ancho_mm": "1860",
+        "alto_mm": "1705",
+        "distancia_ejes_mm": "2710",
+        "capacidad_maletero_lts": "890",
+        "capacidad_estanque_lts": "60"
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Filtro aire cabina N95",
+            "Salidas aire 2da fila",
+            "Alzavidrios eléctricos",
+            "Cierre automático puertas",
+            "Computador a bordo",
+            "Tapiz eco cuero",
+            "Asiento eléctrico conductor",
+            "Apoyo lumbar eléctrico",
+            "Asientos calefacción y ventilación",
+            "Apoya brazos refrigerado",
+            "Cargador inalámbrico",
+            "Volante multifunción cuero",
+            "Techo panorámico",
+            "Radio 12 parlantes Sony",
+            "Pantalla 15.6\"",
+            "Panel LCD 10.25\"",
+            "Apple CarPlay inalámbrico",
+            "Android Auto inalámbrico"
+        ],
+        "exterior": [
+            "Encendido remoto",
+            "Vidrios acústicos",
+            "Maletero eléctrico manos libres",
+            "Faros LED automáticos",
+            "Cámara 540° HD",
+            "Sensores delanteros y traseros",
+            "Llantas aleación 19\"",
+            "Neumáticos 235/50 R19",
+            "Kit inflado"
+        ],
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "Airbag rodilla conductor",
+            "ESP",
+            "HAC",
+            "HDC",
+            "EBA",
+            "TCS",
+            "TPMS",
+            "ISOFIX"
+        ],
+        "ADAS": [
+            "ACC",
+            "TJA",
+            "ICA",
+            "FCW",
+            "AEB",
+            "BSD",
+            "RTCA",
+            "LDW",
+            "LKA",
+            "ELK",
+            "DOW",
+            "IHC",
+            "HUD"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 8 Pro Max PHEV",
+        "versiones_en_documento": 1,
+        "notas": "Datos extraídos literalmente de la ficha técnica oficial."
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Santa Fe",
+        "año": null,
+        "versiones": [
+            "2.5_AT_PLUS",
+            "2.5_AT_DESIGN",
+            "2.5_AT_4WD_PREMIUM",
+            "2.5T_AT_4WD_LIMITED",
+            "2.5T_AT_4WD_CALLIGRAPHY"
+        ]
+    },
+    "motor": {
+        "tipo": "GDI / T-GDI",
+        "cilindrada": {
+            "2.5_AT_PLUS": "2.497 cc",
+            "2.5_AT_DESIGN": "2.497 cc",
+            "2.5_AT_4WD_PREMIUM": "2.497 cc",
+            "2.5T_AT_4WD_LIMITED": "2.497 cc Turbo",
+            "2.5T_AT_4WD_CALLIGRAPHY": "2.497 cc Turbo"
+        },
+        "potencia_hp": {
+            "2.5_AT_PLUS": "191 HP a 6.100 rpm",
+            "2.5_AT_DESIGN": "191 HP a 6.100 rpm",
+            "2.5_AT_4WD_PREMIUM": "191 HP a 6.100 rpm",
+            "2.5T_AT_4WD_LIMITED": "277 HP a 5.800 rpm",
+            "2.5T_AT_4WD_CALLIGRAPHY": "277 HP a 5.800 rpm"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "2.5_AT_PLUS": "246 Nm",
+            "2.5_AT_DESIGN": "246 Nm",
+            "2.5_AT_4WD_PREMIUM": "246 Nm",
+            "2.5T_AT_4WD_LIMITED": "422 Nm",
+            "2.5T_AT_4WD_CALLIGRAPHY": "422 Nm"
+        },
+        "torque_rpm": {
+            "2.5_AT_PLUS": "4.000",
+            "2.5_AT_DESIGN": "4.000",
+            "2.5_AT_4WD_PREMIUM": "4.000",
+            "2.5T_AT_4WD_LIMITED": "1.700-4.000",
+            "2.5T_AT_4WD_CALLIGRAPHY": "1.700-4.000"
+        },
+        "combustible": "Bencina",
+        "transmision": {
+            "2.5_AT_PLUS": "AT 8 Velocidades",
+            "2.5_AT_DESIGN": "AT 8 Velocidades",
+            "2.5_AT_4WD_PREMIUM": "AT 8 Velocidades",
+            "2.5T_AT_4WD_LIMITED": "DCT 8 Velocidades",
+            "2.5T_AT_4WD_CALLIGRAPHY": "DCT 8 Velocidades"
+        },
+        "traccion": {
+            "2.5_AT_PLUS": "2WD",
+            "2.5_AT_DESIGN": "2WD",
+            "2.5_AT_4WD_PREMIUM": "4WD",
+            "2.5T_AT_4WD_LIMITED": "4WD",
+            "2.5T_AT_4WD_CALLIGRAPHY": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": {
+            "2.5_AT_PLUS": "235/60R18",
+            "2.5_AT_DESIGN": "235/60R18",
+            "2.5_AT_4WD_PREMIUM": "235/60R18",
+            "2.5T_AT_4WD_LIMITED": "255/45R20",
+            "2.5T_AT_4WD_CALLIGRAPHY": "245/45R21"
+        },
+        "rueda_repuesto": {
+            "2.5_AT_PLUS": "Tamaño completo de aleación",
+            "otros": "Temporal"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4830,
+        "ancho_mm": 1900,
+        "alto_mm": "1720 (1770 con barras)",
+        "distancia_ejes_mm": 2815,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2.5_AT_PLUS": 2550,
+            "2.5_AT_DESIGN": 2550,
+            "2.5_AT_4WD_PREMIUM": 2550,
+            "2.5T_AT_4WD_LIMITED": 2650,
+            "2.5T_AT_4WD_CALLIGRAPHY": 2650
+        },
+        "capacidad_maletero_lts": "642 (desde la segunda corrida)",
+        "capacidad_estanque_lts": 67
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "2.5_AT_PLUS": "18\"",
+            "2.5_AT_DESIGN": "18\"",
+            "2.5_AT_4WD_PREMIUM": "18\"",
+            "2.5T_AT_4WD_LIMITED": "20\"",
+            "2.5T_AT_4WD_CALLIGRAPHY": "21\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "BCA / RCCA / SAE",
+                "2.5_AT_PLUS": false,
+                "2.5_AT_DESIGN": false,
+                "2.5_AT_4WD_PREMIUM": true,
+                "2.5T_AT_4WD_LIMITED": true,
+                "2.5T_AT_4WD_CALLIGRAPHY": true
+            },
+            {
+                "caracteristica": "BVM / PCA / Cámara 360°",
+                "2.5_AT_PLUS": false,
+                "2.5_AT_DESIGN": false,
+                "2.5_AT_4WD_PREMIUM": false,
+                "2.5T_AT_4WD_LIMITED": true,
+                "2.5T_AT_4WD_CALLIGRAPHY": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tablero digital",
+                "2.5_AT_PLUS": "4\"",
+                "2.5_AT_DESIGN": "4\"",
+                "2.5_AT_4WD_PREMIUM": "4\"",
+                "2.5T_AT_4WD_LIMITED": "12,3\"",
+                "2.5T_AT_4WD_CALLIGRAPHY": "12,3\""
+            },
+            {
+                "caracteristica": "Tapiz",
+                "2.5_AT_PLUS": "Tela",
+                "2.5_AT_DESIGN": "Tela",
+                "2.5_AT_4WD_PREMIUM": "Cuero",
+                "2.5T_AT_4WD_LIMITED": "Cuero",
+                "2.5T_AT_4WD_CALLIGRAPHY": "Nappa"
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "2.5_AT_PLUS": false,
+                "2.5_AT_DESIGN": false,
+                "2.5_AT_4WD_PREMIUM": false,
+                "2.5T_AT_4WD_LIMITED": true,
+                "2.5T_AT_4WD_CALLIGRAPHY": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "2.5_AT_PLUS": false,
+                "2.5_AT_DESIGN": false,
+                "2.5_AT_4WD_PREMIUM": false,
+                "2.5T_AT_4WD_LIMITED": true,
+                "2.5T_AT_4WD_CALLIGRAPHY": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Acabado Calligraphy",
+                "2.5_AT_PLUS": false,
+                "2.5_AT_DESIGN": false,
+                "2.5_AT_4WD_PREMIUM": false,
+                "2.5T_AT_4WD_LIMITED": false,
+                "2.5T_AT_4WD_CALLIGRAPHY": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "ESP",
+            "HAC + DBC",
+            "TPMS",
+            "FCA JX",
+            "LFA",
+            "LKA",
+            "SSC",
+            "Advertencia atención conductor",
+            "Sensor estacionamiento delantero y trasero"
+        ],
+        "interior": [
+            "Alza vidrios eléctricos totales",
+            "Asientos abatibles 60/40",
+            "Asientos tercera corrida 50/50",
+            "Climatizador Dual",
+            "Control audio al volante",
+            "Llave inteligente con botón encendido",
+            "Paddle Shift",
+            "Portalón eléctrico inteligente",
+            "Radio Touch 12,3\" Apple CarPlay/Android Auto inalámbrico",
+            "Selector modo de manejo",
+            "Volante regulable en altura y profundidad",
+            "Volante forrado en cuero",
+            "Puertos USB (4-6 según versión)"
+        ],
+        "exterior": [
+            "Luces delanteras LED",
+            "Luces traseras LED",
+            "DRL LED",
+            "Neblinero trasero LED",
+            "Vidrios traseros tinteados"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-new-santa-fe.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual."
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "CX-3",
+        "año": null,
+        "versiones": [
+            "CORE 2.0 MT",
+            "CORE 2.0 AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CORE 2.0 MT": "2.0",
+            "CORE 2.0 AT": "2.0"
+        },
+        "cilindrada": {
+            "CORE 2.0 MT": null,
+            "CORE 2.0 AT": null
+        },
+        "potencia_hp": {
+            "CORE 2.0 MT": "148",
+            "CORE 2.0 AT": "148"
+        },
+        "potencia_rpm": {
+            "CORE 2.0 MT": "6.000",
+            "CORE 2.0 AT": "6.000"
+        },
+        "torque_nm": {
+            "CORE 2.0 MT": "195",
+            "CORE 2.0 AT": "195"
+        },
+        "torque_rpm": {
+            "CORE 2.0 MT": "2.800",
+            "CORE 2.0 AT": "2.800"
+        },
+        "combustible": null,
+        "transmision": {
+            "CORE 2.0 MT": "Manual",
+            "CORE 2.0 AT": "Automática"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de mano eléctrico",
+        "neumaticos": {
+            "CORE 2.0 MT": "215/50 R18",
+            "CORE 2.0 AT": "215/50 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4275,
+        "ancho_mm": 1765,
+        "alto_mm": 1535,
+        "distancia_ejes_mm": 2570,
+        "despeje_suelo_mm": 155,
+        "peso_bruto_kg": {
+            "CORE 2.0 MT": 1685,
+            "CORE 2.0 AT": 1729
+        },
+        "capacidad_maletero_lts": "240/1.150",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "CORE 2.0 MT": "15",
+            "CORE 2.0 AT": "14,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos laterales eléctricos abatibles",
+            "Neumáticos y llantas 215/50 R18"
+        ],
+        "interior": [
+            "Pantalla Multimedia Mazda Connect 7\"",
+            "Android Auto Carplay con cable",
+            "Cámara de retroceso",
+            "Audio 6 parlantes",
+            "Freno de mano eléctrico",
+            "Control Crucero",
+            "Volante forrado en cuero",
+            "Climatizador",
+            "Asientos tapizado tela"
+        ],
+        "seguridad": [
+            "Airbag 2 frontales + 2 laterales + 2 cortina",
+            "Sensores de estacionamiento traseros",
+            "Sistema Auto Hold",
+            "Señal de frenado de emergencia (ESS)",
+            "Sistema de apertura Keyless",
+            "ISOFIX",
+            "i- STOP: Sistema de apagado y encendido automático del motor",
+            "G-Vectoring Control Plus (GVC Plus)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Cristal",
+        "Blanco Perla",
+        "Gris Metalizado",
+        "Plata Cuarzo",
+        "Gris Polymetal"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda",
+        "fuente": "Mazda CX-3 Octubre / 2025",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null. No se observaron tablas diferenciales por versión fuera de transmisión, peso bruto y rendimiento mixto."
+    }
+}

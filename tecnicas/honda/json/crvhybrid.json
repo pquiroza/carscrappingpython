@@ -1,0 +1,174 @@
+{
+    "vehiculo": {
+        "marca": "Honda",
+        "modelo": "CR-V",
+        "año": null,
+        "versiones": [
+            "Advanced Hybrid"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Advanced Hybrid": "Atkinson: 4 cilindros en línea - aleación de aluminio"
+        },
+        "cilindrada": {
+            "Advanced Hybrid": 1993
+        },
+        "potencia_hp": {
+            "Advanced Hybrid": "146"
+        },
+        "potencia_rpm": {
+            "Advanced Hybrid": "6100"
+        },
+        "torque_nm": {
+            "Advanced Hybrid": "183"
+        },
+        "torque_rpm": {
+            "Advanced Hybrid": "4500"
+        },
+        "combustible": "Inyección directa",
+        "transmision": {
+            "Advanced Hybrid": null
+        },
+        "traccion": "4WD"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Independiente de doble brazo Multi-Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": "Freno de mano eléctrico EPB (Electric Parking Brake) con Brake Hold",
+        "neumaticos": {
+            "Advanced Hybrid": "235/55 R19"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos (TRK)"
+    },
+    "dimensiones": {
+        "largo_mm": 4706,
+        "ancho_mm": 1866,
+        "alto_mm": 1691,
+        "distancia_ejes_mm": 2700,
+        "despeje_suelo_mm": 208,
+        "peso_bruto_kg": 1824,
+        "capacidad_maletero_lts": "581 / 1643",
+        "capacidad_estanque_lts": 53,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros delanteros con tecnología Full LED",
+            "Luces de marcha diurnas DRL (LED)",
+            "Faros delanteros antiniebla Full LED",
+            "Encendido automático de luces con sensor crepuscular",
+            "Ajuste automático de altura de faros delanteros",
+            "Faros traseros con tecnología Full LED",
+            "Espejos retrovisores laterales con luces intermitentes (LED), rebatibles eléctricamente",
+            "Limpiaparabrisas intermitente de velocidad variable con sensor de lluvia",
+            "Spray rociador incluido en limpiaparabrisas",
+            "Antena en el techo tipo aleta de tiburón",
+            "Llantas de aleación R19\" color piano black y detallado en laqueado brillante",
+            "Barras longitudinales",
+            "Techo solar panorámico eléctrico one-touch",
+            "Sensores de estacionamiento (4 delanteros y 4 traseros)"
+        ],
+        "interior": [
+            "Climatizador digital con ajuste automático de temperatura (Dual Zone)",
+            "Ventilación de aire acondicionado trasero",
+            "Instrumental TFT de alta resolución 10,2\"",
+            "Head-Up Display (HUD)",
+            "Botón de bloqueo de puertas con bloqueo automático de velocidad",
+            "One touch en todas las ventanillas con antipinzamiento",
+            "Portón trasero eléctrico con altura programable (manos libres)",
+            "Espejo retrovisor de oscurecimiento automático",
+            "Espejos retrovisores laterales con ajuste eléctrico",
+            "Sistema de acceso inteligente sin llave (Smart Entry Keyless)",
+            "Encendido remoto del motor",
+            "Botón de arranque (Start/Stop)",
+            "Volante y palanca de cambios revestido en cuero ecológico",
+            "Columna de dirección regulable en altura y profundidad",
+            "Toma frontal de 12V (180W max)",
+            "Toma en baúl de 12V (180W max)",
+            "Acabado de interior con detalles de apliques en madera",
+            "Asiento de conductor con ajustes eléctricos de 8 posiciones y regulación lumbar de 4 vías (con memoria)",
+            "Asiento de acompañante con ajustes eléctricos de 8 posiciones",
+            "Asientos traseros rebatibles y plegables 60/40",
+            "Asientos traseros con apoyabrazos central y portavasos abatibles",
+            "Apoyacabezas en todas las plazas (5)",
+            "Tapizado de cuero ecológico"
+        ],
+        "seguridad": [
+            "Estructura de deformación progresiva con ingeniería de compatibilidad avanzada (ACE™)",
+            "Inmovilizador de motor",
+            "Alarma de seguridad con inmovilizador ECU",
+            "Freno con sistema ABS y EBD",
+            "BA (Brake Assistance)",
+            "Sistema de control de tracción y estabilidad VSA",
+            "Sistema de asistencia para arranque en pendientes (HSA)",
+            "Sistema de asistencia para control de descenso en pendientes (HDC)",
+            "Señal de balizas de emergencias automático (ESS)",
+            "Sistema automático de retención de frenado (Brake Hold)",
+            "Sistema AHA (Vehicle Handling Assist)",
+            "Recordatorio de objetos del asiento trasero",
+            "Sistema de airbags delanteros (2)",
+            "Sistema de airbags laterales (2)",
+            "Sistema de airbags laterales tipo cortina (2)",
+            "Sistema airbags laterales para pasajeros de segunda fila (2)",
+            "Cinturones de seguridad delanteros 3 puntos con limitador y pretensionador",
+            "Cinturones de seguridad traseros 3 puntos",
+            "Aviso visual y sonoro de cinturones para todos los ocupantes",
+            "Bloqueo de seguridad para niños en puertas traseras",
+            "Sistema de retención infantil ISOFIX",
+            "Cámara de visión trasera de 3 ángulos con guías dinámicas",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Sistema Honda LaneWatch™",
+            "Sistema de advertencia Driver Attention Level"
+        ],
+        "tecnologia": [
+            "Sistema Display Audio con pantalla multimedia de 9\"",
+            "Flujo de potencia que indica modo de tracción (eléctrico / combustión / híbrido)",
+            "Interface Apple CarPlay y Android Auto (cable/inalámbrico)",
+            "Sistema de audio 8 parlantes + 4 tweeters + subwoofer (Bose Premium Audio)",
+            "Enlace manos libres Bluetooth®",
+            "Volante multifunción con controles de audio - HFT",
+            "Puertos USB delanteros (1 USB y 1 USB-C)",
+            "Puertos USB traseros (1 USB y 1 USB-C)",
+            "Cargador inalámbrico para celulares",
+            "Transmisión de audio por Bluetooth®",
+            "Cancelador activo de ruidos (ANS)",
+            "Compensación de volumen sensible a la velocidad (SVC)"
+        ],
+        "adas": [
+            "Control de velocidad crucero adaptativo (ACC) con seguimiento a baja velocidad (LSF)",
+            "Sistema de frenado con mitigación de colisión (CMBS)",
+            "Advertencia de colisión frontal (FCW)",
+            "Sistema de asistencia para mantenerse en el carril (LKAS)",
+            "Advertencia de salida de carril (LDW)",
+            "Sistema de mitigación de salida de carril (RDM)",
+            "Función luces altas automáticas (AHB)"
+        ]
+    },
+    "colores": [
+        "Azul",
+        "Grafito",
+        "Plateado",
+        "Blanco"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Honda (SI=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FICHA-ADVANCE-HYBRID.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Incluye especificaciones completas de motor combustión y eléctrico, tracción 4WD, suspensión, dimensiones, seguridad, Honda Sensing, equipamiento exterior/interior, sistema de audio y colores."
+    }
+}

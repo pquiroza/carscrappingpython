@@ -119,7 +119,33 @@ def guarda_usado(record):
      doc_id = doc_ref.id
      doc_ref.set(datac)
      
-
+def guarda_autocl(record):
+    datos_b = build_model_search_fields(record['modelo'], record['version'])
+    try:
+        id_marca = marcas[record['marca']]
+    except:
+        id_marca = 999
+    datac = {
+        'carID': record['id'],
+        'model': record['modelo'],
+        'modelDetail': record['version'],
+        'brandID': id_marca,
+        'marca': record['marca'],
+        'precio': record['precio'],
+        'date_add': record['scraped_at'],
+        'fuente': record['url'],
+        'kilometraje': record['kilometraje'],
+        'combustible': record['combustible'],
+        'anio': record['año'],
+        'transmision': record['transmision'],
+        'model_norm': datos_b['model_norm'],
+        'model_tokens': datos_b['model_tokens']
+    }
+    doc_ref = db.collection("usados").document()
+    print(datac)
+    doc_id = doc_ref.id
+    doc_ref.set(datac)
+     
 def borrar_error():
      col_ref = db.collection("modelos")
      query = col_ref.where("marca", "==", "Chevrolet").stream()
@@ -136,7 +162,7 @@ def to_title_custom(texto: str) -> str:
     return " ".join(
         [p.capitalize() if p not in excepciones else p for p in palabras]
     )
-def saveCar(marca,datos,fuente):
+def saveCar2(marca,datos,fuente):
     
     id_marca = marcas[marca]
     doc_ref = db.collection("modelos").document()
@@ -160,3 +186,62 @@ def saveCar(marca,datos,fuente):
     doc_ref.set(arreglo)
     print(f"Guardando {marca} {datos}")
 
+
+
+
+def guardaSpecs(marca,modelo,version,datos):
+     id_marca = marcas[marca]
+     doc_ref = db.collection("especificaciones").document()
+     arreglo = {
+        'brandID': id_marca,
+        'marca': marca,
+        'modelo': modelo,
+        'version': version,
+        'specs': datos,
+        'date_add':int(time.time())
+     }
+     doc_ref.set(arreglo)
+
+
+def saveCar(marca, datos, fuente):
+    
+    id_marca = marcas[marca]
+
+    # Buscar si ya existe un modelo previo con misma marca + modelo + modelDetail
+    existing_docs = db.collection("modelos") \
+        .where("marca", "==", marca) \
+        .where("model", "==", datos['modelo']) \
+        .where("modelDetail", "==", datos['modelDetail']) \
+        .limit(1) \
+        .stream()
+
+    # Extraer categoria y origen si existen
+    categoria = None
+    origen = None
+    for doc in existing_docs:
+        existing_data = doc.to_dict()
+        categoria = existing_data.get("categoria")
+        origen = existing_data.get("origen")
+        print(f"Datos previos encontrados → categoria: {categoria}, origen: {origen}")
+        break
+
+    doc_ref = db.collection("modelos").document()
+    doc_id = doc_ref.id
+
+    arreglo = {
+        'carID': doc_id,
+        'model': datos['modelo'],
+        'modelDetail': datos['modelDetail'],
+        'brandID': id_marca,
+        'marca': marca,
+        'tiposprecio': datos['tiposprecio'],
+        'precio': datos['precio'],
+        'date_add': int(time.time()),
+        'fuente': fuente,
+        'categoria': categoria,
+        'origen': origen,
+    }
+
+    print(arreglo)
+    doc_ref.set(arreglo)
+    print(f"Guardando {marca} {datos}")

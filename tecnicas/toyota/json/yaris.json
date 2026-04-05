@@ -1,0 +1,338 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "YARIS",
+        "año": null,
+        "versiones": [
+            "I MT",
+            "E MT",
+            "E CVT",
+            "G HEV"
+        ]
+    },
+    "motor": {
+        "tipo": "2NR-VE (Euro 6c) / 2NR-HEV (Euro 6c)",
+        "cilindrada": "1.496",
+        "potencia_hp": "105 / 90",
+        "potencia_rpm": "6.000 / 5500",
+        "torque_nm": "138 / 121",
+        "torque_rpm": "4.200 / 4000-4800",
+        "combustible": "Gasolina / Gas-Híbrido",
+        "transmision": "Manual 5 velocidades / CVT 7 vel. eCVT",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": null,
+        "neumaticos": null,
+        "rueda_repuesto": "Full size"
+    },
+    "dimensiones": {
+        "largo_mm": "4.425",
+        "ancho_mm": "1.740",
+        "alto_mm": "1.480",
+        "distancia_ejes_mm": "2.620",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "475",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "I_MT": "195/65 R15",
+            "E_MT": "195/65 R15",
+            "E_CVT": "195/60 R16",
+            "G_HEV": "195/60 R16"
+        },
+        {
+            "caracteristica": "Llantas de aleación",
+            "I_MT": false,
+            "E_MT": false,
+            "E_CVT": true,
+            "G_HEV": true
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "I_MT": "1.460",
+            "E_MT": "1.460",
+            "E_CVT": "1.460",
+            "G_HEV": "1.580"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad estanque combustible (l)",
+            "I_MT": "40",
+            "E_MT": "40",
+            "E_CVT": "40",
+            "G_HEV": "36"
+        },
+        {
+            "caracteristica": "Volumen de carga maletero (lt VDA)",
+            "I_MT": "475",
+            "E_MT": "475",
+            "E_CVT": "475",
+            "G_HEV": "475"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ciudad (km/l)",
+            "I_MT": "13,3",
+            "E_MT": "13,3",
+            "E_CVT": "14,8",
+            "G_HEV": null
+        },
+        {
+            "caracteristica": "Carretera (km/l)",
+            "I_MT": "20,4",
+            "E_MT": "20,4",
+            "E_CVT": "21,5",
+            "G_HEV": null
+        },
+        {
+            "caracteristica": "Mixto (km/l)",
+            "I_MT": "16,9",
+            "E_MT": "16,9",
+            "E_CVT": "18,5",
+            "G_HEV": null
+        },
+        {
+            "caracteristica": "Urbano sin Autopista (km/l)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_HEV": "31,1"
+        },
+        {
+            "caracteristica": "Urbano con Autopista Urbana (km/l)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_HEV": "25,7"
+        },
+        {
+            "caracteristica": "Rural con Autopista (km/l)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_HEV": "25,5"
+        },
+        {
+            "caracteristica": "Autopista Interurbana (km/l)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_HEV": "20"
+        },
+        {
+            "caracteristica": "Combinado (km/l)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_HEV": "23,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "I_MT": true,
+                "E_MT": true,
+                "E_CVT": true,
+                "G_HEV": "Automático"
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "I_MT": true,
+                "E_MT": true,
+                "E_CVT": true,
+                "G_HEV": "Si, con detector de velocidad"
+            },
+            {
+                "caracteristica": "Control de clima digital",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": true,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "Smart Key y botón de encendido",
+                "I_MT": false,
+                "E_MT": true,
+                "E_CVT": true,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "Radio pantalla touch con Android Auto/ Apple Carplay inalámbrico",
+                "I_MT": "7\"",
+                "E_MT": "7\"",
+                "E_CVT": "7\"",
+                "G_HEV": "10,1\""
+            },
+            {
+                "caracteristica": "Numero de parlantes",
+                "I_MT": "2",
+                "E_MT": "4",
+                "E_CVT": "4",
+                "G_HEV": "6"
+            },
+            {
+                "caracteristica": "Material tapiz",
+                "I_MT": "Tela",
+                "E_MT": "Tela",
+                "E_CVT": "Tela",
+                "G_HEV": "Eco cuero"
+            },
+            {
+                "caracteristica": "Volante forrado ecocuero",
+                "I_MT": false,
+                "E_MT": true,
+                "E_CVT": true,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "I_MT": true,
+                "E_MT": true,
+                "E_CVT": true,
+                "G_HEV": "Sí y profundidad"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores abatibles eléctricamente con señalizador",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": true,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "Faros Delanteros LED",
+                "I_MT": "Full",
+                "E_MT": "Full",
+                "E_CVT": "Full",
+                "G_HEV": "Full con DRL"
+            },
+            {
+                "caracteristica": "Faros Traseros LED",
+                "I_MT": "Freno + Posición Full",
+                "E_MT": "Freno + Posición Full",
+                "E_CVT": "Freno + Posición Full",
+                "G_HEV": "Full con señalizador secuencial"
+            },
+            {
+                "caracteristica": "Grilla delantera piano black",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": true,
+                "G_HEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Toyota Safety System",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": false,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "ACC (Control de velocidad crucero adaptativo)",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": false,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "LDA (Sistema de alerta de cambio de carril con corrección)",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": false,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "RTCA (Alerta trafico cruzado trasero)",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": false,
+                "G_HEV": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": false,
+                "G_HEV": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "I_MT": true,
+                "E_MT": true,
+                "E_CVT": true,
+                "G_HEV": "360°"
+            },
+            {
+                "caracteristica": "Frenos traseros",
+                "I_MT": "Tambor",
+                "E_MT": "Tambor",
+                "E_CVT": "Tambor",
+                "G_HEV": "Disco"
+            },
+            {
+                "caracteristica": "Freno de estacionamiento",
+                "I_MT": "Mecánico",
+                "E_MT": "Mecánico",
+                "E_CVT": "Mecánico",
+                "G_HEV": "Eléctrico"
+            },
+            {
+                "caracteristica": "Freno con función Hold",
+                "I_MT": false,
+                "E_MT": false,
+                "E_CVT": false,
+                "G_HEV": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Alzavidrios eléctrico",
+            "Apertura remota maletero",
+            "Control de mandos al volante",
+            "Cargador Inalámbrico"
+        ],
+        "exterior": [
+            "Espejos exteriores ajustables eléctricamente"
+        ],
+        "seguridad": [
+            "Airbags (N°) 6",
+            "Anclajes ISOFIX",
+            "Barras laterales",
+            "Carrocería con deformación programada",
+            "Frenos delanteros Discos Ventilados",
+            "Rueda de repuesto full size",
+            "Inmovilizador + alarma por apertura de puertas",
+            "Seguro para niños en puertas traseras",
+            "Sistema de frenos ABS + EBD",
+            "VSC (Control de estabilidad)",
+            "HAC (Control asistencia partida en pendiente)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FT_Yaris_SD_HEV_bZPb7TZ.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Celdas vacías en la tabla se dejaron como null. Se mantuvieron textos tal cual aparecen (por ejemplo 7\" y 10,1\")."
+    }
+}

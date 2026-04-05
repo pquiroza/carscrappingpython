@@ -1,0 +1,302 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "600 PHEV",
+        "año": null,
+        "versiones": [
+            "SUV600 PHEV ELITE",
+            "SUV600 PHEV ELITE PRO"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ELITE": "F31A + TZ220XYL",
+            "ELITE PRO": "F31A + TZ220XYL"
+        },
+        "cilindrada": {
+            "ELITE": 1498,
+            "ELITE PRO": 1498
+        },
+        "potencia_hp": {
+            "ELITE": "81 kW + 130 kW",
+            "ELITE PRO": "81 kW + 130 kW"
+        },
+        "potencia_rpm": {
+            "ELITE": null,
+            "ELITE PRO": null
+        },
+        "torque_nm": {
+            "ELITE": "135 + 300",
+            "ELITE PRO": "135 + 300"
+        },
+        "torque_rpm": {
+            "ELITE": null,
+            "ELITE PRO": null
+        },
+        "combustible": "Híbrido enchufable",
+        "transmision": {
+            "ELITE": "E-CVT",
+            "ELITE PRO": "E-CVT"
+        },
+        "traccion": {
+            "ELITE": "4x2",
+            "ELITE PRO": "4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión independiente MacPherson",
+        "suspension_trasera": "Suspensión independiente multilink",
+        "frenos_delanteros": "Tipo de disco delantero y trasero",
+        "frenos_traseros": "Tipo de disco delantero y trasero",
+        "freno_estacionamiento": "Freno de mano electrónico",
+        "neumaticos": {
+            "ELITE": "225/55 R18",
+            "ELITE PRO": "235/50 R19"
+        },
+        "rueda_repuesto": "Líquido reparador de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4760,
+        "ancho_mm": 1865,
+        "alto_mm": 1710,
+        "distancia_ejes_mm": 2785,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 60,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía de batería pura (km)",
+            "ELITE": "87",
+            "ELITE PRO": "87"
+        },
+        {
+            "caracteristica": "Tiempo de carga (h)",
+            "ELITE": "4h",
+            "ELITE PRO": "4h"
+        },
+        {
+            "caracteristica": "Rendimiento ponderado combustible (Km/L)",
+            "ELITE": "55,5",
+            "ELITE PRO": "55,5"
+        },
+        {
+            "caracteristica": "Rendimiento ponderado eléctrico (Km/kWh)",
+            "ELITE": "6,9",
+            "ELITE PRO": "6,9"
+        },
+        {
+            "caracteristica": "Capacidad de la batería (kWh)",
+            "ELITE": "17,52",
+            "ELITE PRO": "17,52"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof",
+                "ELITE": "Techo corredizo pequeño",
+                "ELITE PRO": "Panorámico"
+            },
+            {
+                "caracteristica": "Método de apertura de puerta trasera",
+                "ELITE": "Contact switch",
+                "ELITE PRO": "Electric control"
+            },
+            {
+                "caracteristica": "Llantas",
+                "ELITE": "Llanta de aluminio",
+                "ELITE PRO": "Llanta de aluminio con baja resistencia al viento"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Volante ajustable",
+                "ELITE": "Ajustable hacia arriba y hacia abajo",
+                "ELITE PRO": "Ajustable hacia arriba y hacia abajo + ajustable en la parte delantera y trasera"
+            },
+            {
+                "caracteristica": "Sistema de purificación",
+                "ELITE": false,
+                "ELITE PRO": "Sistema inteligente de purificación de aire (sensor PM2.5, generador de iones negativos, filtro de álcali sólido)"
+            },
+            {
+                "caracteristica": "Luz interior",
+                "ELITE": "Primera fila, 1 fila central, 1 (halógeno)",
+                "ELITE PRO": "Fila delantera, 1 fila central, 2 (LED, blanco). Opcional: luz de lectura frontal con SOS"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "ELITE": 4,
+                "ELITE PRO": "12 (4 delanteros, 4 traseros + 4 altavoces Sky de techo + amplificador)"
+            },
+            {
+                "caracteristica": "Amplificador externo independiente",
+                "ELITE": false,
+                "ELITE PRO": false
+            },
+            {
+                "caracteristica": "Carga inalámbrica de teléfonos móviles",
+                "ELITE": false,
+                "ELITE PRO": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag",
+                "ELITE": 4,
+                "ELITE PRO": 6
+            },
+            {
+                "caracteristica": "Radar de estacionamiento",
+                "ELITE": "Radar trasero",
+                "ELITE PRO": "Radar delantero y trasero"
+            },
+            {
+                "caracteristica": "Auto-hold",
+                "ELITE": false,
+                "ELITE PRO": true
+            },
+            {
+                "caracteristica": "Control de descenso de pendientes (HDC)",
+                "ELITE": false,
+                "ELITE PRO": true
+            },
+            {
+                "caracteristica": "Camara 360°",
+                "ELITE": false,
+                "ELITE PRO": "Alta definición"
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Sistema de monitoreo de punto ciego (BSD)",
+                "ELITE": false,
+                "ELITE PRO": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril (LCA)",
+                "ELITE": false,
+                "ELITE PRO": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión trasera (RCW)",
+                "ELITE": false,
+                "ELITE PRO": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "ELITE": false,
+                "ELITE PRO": true
+            },
+            {
+                "caracteristica": "Advertencia de apertura de puerta (DOW)",
+                "ELITE": false,
+                "ELITE PRO": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Selección del modo de conducción",
+                "ELITE": false,
+                "ELITE PRO": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Riel porta equipajes • (Color Plata)",
+            "Antena aleta de tiburón",
+            "Faro delantero combinado LED",
+            "Luz de circulación diurna • (LED)",
+            "Intermitentes laterales LED",
+            "Nieblineros traseros dobles, halógenos",
+            "Luz de freno LED",
+            "Luz del maletero •",
+            "Alza vidrios eléctricos",
+            "Puertas delanteras y puertas traseras (cuatro puertas con elevación con un botón)",
+            "Función anti-pinch de las ventanas",
+            "Ajuste eléctrico del espejo retrovisor exterior",
+            "Calefacción de los espejos retrovisores exteriores",
+            "Espejo retrovisor exterior plegable eléctrico",
+            "Defroster",
+            "Método abierto del tanque de combustible y carga eléctrica: Apertura eléctrica"
+        ],
+        "interior": [
+            "Interior color Negro",
+            "Salpicadero: Moldura blanda granizada Negro",
+            "Reposabrazos: Las tapicerías laterales y los reposabrazos están tapizados en napa negra",
+            "Porta gafas",
+            "Visera: Doble visera, asientos del conductor y del pasajero con espejo de maquillaje y luces",
+            "Volante Multifunción+cuero",
+            "Cuadro de instrumentos: Pantalla LCD de 7 pulgadas",
+            "Climatización: Control eléctronico",
+            "12V poder automóvil • (1)",
+            "Interfaz USB • (2)",
+            "Mecanismo de control de cambio de marchas: Cambio de marchas electrónico",
+            "Caja de almacenamiento de equipaje",
+            "Descripción de los asientos: 2+3+2",
+            "Ventilación de los asientos • (Asientos del conductor y del pasajero delantero)",
+            "Calefacción de asientos • (Asientos del conductor y del pasajero delantero)",
+            "Espejo retrovisor interior Antirreflejos manual",
+            "Car video system: Doble pantalla (cuadro de instrumentos LCD de 7 pulgadas + MP5 de 12,3 pulgadas)",
+            "Apple car play",
+            "Android auto",
+            "GPS",
+            "PEPS",
+            "Sistema de control de crucero",
+            "Cambio electrónico",
+            "Cerradura electrónica de carga",
+            "Bloqueo de carga",
+            "Sistema antirrobo de energía",
+            "Pantalla de gestión de energía",
+            "Aviso de peatones a baja velocidad",
+            "Protección contra cortes de energía por colisión",
+            "Gestión térmica del sistema de baterías",
+            "Retroalimentación de energía de deslizamiento",
+            "Sistema de freno regenerativo (RBS)",
+            "Carga inteligente de 12 V",
+            "Mantenimiento de seguridad de alto voltaje",
+            "Selección de modo",
+            "Método de apertura del puerto de carga: Apertura eléctrica"
+        ],
+        "seguridad": [
+            "Alarma de recordatorio de uso del cinturón de seguridad",
+            "Child seat interface",
+            "TPMS",
+            "Sistema de frenos antibloqueo (ABS+EBD)",
+            "Controlador electrónico de estabilidad (ESP / ESC)",
+            "Asistencia electrónica de frenado (EBA/BAS/BA)",
+            "Sistema de control de tracción (ASR / TCS / TEC)",
+            "Electronic Brake Assist (EBA/BAS/BA)",
+            "Traction Control System (ASR/TCS/TEC)",
+            "Control de asistencia de arranque en pendiente (HAC/HHC/HSA)",
+            "Camara trasera de estacionamiento",
+            "Grabadora de conducción",
+            "Sistema de registro de datos de eventos (EDR)",
+            "Alarma de freno de emergencia",
+            "Recordatorio de doble flash"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro",
+        "Blanco",
+        "Gris",
+        "Verde",
+        "Dorado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (●=true, vacío/-=false; texto/valores tal cual)",
+        "fuente": "ficha-suv-600-phev-copia.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información visible del documento. La ficha entrega potencias en kW y no en HP, por lo que se conservaron tal cual dentro del campo potencia_hp para no inventar conversiones. La ficha también muestra motor/extensor de rango F31A, motor eléctrico TZ220XYL, autonomía pura de batería de 87 km WLTC y batería de 17,52 kWh."
+    }
+}

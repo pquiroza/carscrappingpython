@@ -1,0 +1,225 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Venue",
+        "año": null,
+        "versiones": [
+            "1.6_MT_GO",
+            "1.6_MT_PLUS",
+            "1.6_AT_PLUS",
+            "1.6_AT_PREMIUM"
+        ]
+    },
+    "motor": {
+        "tipo": "MPI",
+        "cilindrada": "1.591 cc",
+        "potencia_hp": "123 HP",
+        "potencia_rpm": null,
+        "torque_nm": "15.4 Kgm",
+        "torque_rpm": "4.850",
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.6_MT_GO": "6 MT",
+            "1.6_MT_PLUS": "6 MT",
+            "1.6_AT_PLUS": "6 AT",
+            "1.6_AT_PREMIUM": "6 AT"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Eje Torsión",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": {
+            "1.6_MT_GO": "Tambor",
+            "otros": "Discos Sólidos"
+        },
+        "neumaticos": "205/55 R17",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4040,
+        "ancho_mm": 1770,
+        "alto_mm": "1565 (1592 con Barras de Techo)",
+        "distancia_ejes_mm": 2520,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.6_MT_GO": 1670,
+            "1.6_MT_PLUS": 1670,
+            "1.6_AT_PLUS": 1700,
+            "1.6_AT_PREMIUM": 1700
+        },
+        "capacidad_maletero_lts": 355,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas aleación",
+            "1.6_MT_GO": "17\"",
+            "1.6_MT_PLUS": "17\"",
+            "1.6_AT_PLUS": "17\"",
+            "1.6_AT_PREMIUM": "17\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [],
+        "interior": [
+            {
+                "caracteristica": "Aire Acondicionado",
+                "1.6_MT_GO": true,
+                "1.6_MT_PLUS": true,
+                "1.6_AT_PLUS": true,
+                "1.6_AT_PREMIUM": "Climatizador"
+            },
+            {
+                "caracteristica": "Alza vidrios eléctricos totales",
+                "1.6_MT_GO": true,
+                "1.6_MT_PLUS": true,
+                "1.6_AT_PLUS": "Conductor Auto Down",
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Apoya Brazos central",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": true,
+                "1.6_AT_PLUS": true,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Cluster",
+                "1.6_MT_GO": "3,5 TFT",
+                "1.6_MT_PLUS": "3,5 TFT",
+                "1.6_AT_PLUS": "3,5 TFT",
+                "1.6_AT_PREMIUM": "Digital con pantalla MONO-LCD 4,2 TFT"
+            },
+            {
+                "caracteristica": "Espejo retrovisor Electrocromatico",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Smart Key y Botón de encendido",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "1.6_MT_GO": "Tela",
+                "1.6_MT_PLUS": "Tela",
+                "1.6_AT_PLUS": "Tela",
+                "1.6_AT_PREMIUM": "Tela y Cuero"
+            },
+            {
+                "caracteristica": "Volante forrado en Cuero",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Barras en el techo",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": true,
+                "1.6_AT_PLUS": true,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "1.6_MT_GO": "Halógenos Projection",
+                "1.6_MT_PLUS": "Halógenos Projection",
+                "1.6_AT_PLUS": "Halógenos Projection",
+                "1.6_AT_PREMIUM": "Halógenos Projection w/ Static Bending"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "1.6_MT_GO": "Halógenos",
+                "1.6_MT_PLUS": "Halógenos",
+                "1.6_AT_PLUS": "Halógenos",
+                "1.6_AT_PREMIUM": "LED"
+            },
+            {
+                "caracteristica": "Luces de posicionamiento LED",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Modos de Manejo/Tracción",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": true,
+                "1.6_AT_PREMIUM": true
+            },
+            {
+                "caracteristica": "Carrocería exterior bitono",
+                "1.6_MT_GO": false,
+                "1.6_MT_PLUS": false,
+                "1.6_AT_PLUS": false,
+                "1.6_AT_PREMIUM": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "Alarma",
+            "Anclaje Isofix",
+            "Asistencia arranque pendiente (HAC)",
+            "Cámara de retroceso",
+            "Control Estabilidad (ESC)",
+            "Frenos ABS con EBD",
+            "Inmovilizador",
+            "Sensor estacionamiento trasero"
+        ],
+        "interior": [
+            "Asiento conductor regulable en altura",
+            "Asientos traseros abatibles 60/40",
+            "Bluetooth manos libres",
+            "Cierre centralizado",
+            "Control audio volante",
+            "Cubre equipaje",
+            "Radio Touch 8\" con Apple Carplay & Android Auto",
+            "Volante regulable en altura y profundidad"
+        ],
+        "exterior": [
+            "Luces Automáticas",
+            "Llantas de aleación 17\""
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-venue.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual."
+    }
+}

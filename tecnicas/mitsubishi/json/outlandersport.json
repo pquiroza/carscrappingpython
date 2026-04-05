@@ -1,0 +1,310 @@
+{
+    "vehiculo": {
+        "marca": "MITSUBISHI",
+        "modelo": "OUTLANDER SPORT",
+        "año": null,
+        "versiones": [
+            "GL",
+            "GLX",
+            "GLS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL": "4A91 DOHC MIVEC",
+            "GLX": "4A91 DOHC MIVEC",
+            "GLS": "4A91 DOHC MIVEC"
+        },
+        "cilindrada": {
+            "GL": 1500,
+            "GLX": 1500,
+            "GLS": 1500
+        },
+        "potencia_hp": {
+            "GL": "103",
+            "GLX": "103",
+            "GLS": "103"
+        },
+        "potencia_rpm": {
+            "GL": "6.000",
+            "GLX": "6.000",
+            "GLS": "6.000"
+        },
+        "torque_nm": {
+            "GL": "141",
+            "GLX": "141",
+            "GLS": "141"
+        },
+        "torque_rpm": {
+            "GL": "4.000",
+            "GLX": "4.000",
+            "GLS": "4.000"
+        },
+        "combustible": "MPI Gasolina",
+        "transmision": {
+            "GL": "CVT (F1CWA)",
+            "GLX": "CVT (F1CWA)",
+            "GLS": "CVT (F1CWA)"
+        },
+        "traccion": {
+            "GL": "Delantera 2WD",
+            "GLX": "Delantera 2WD",
+            "GLS": "Delantera 2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera con asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson con barra estabilizadora",
+        "suspension_trasera": "Eje rígido con barra de Torsión - amortiguadores telescópicos y espirales",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": "Eléctrico EPB con Auto hold",
+        "neumaticos": {
+            "GL": "205/60 R17",
+            "GLX": "225/50 R18",
+            "GLS": "225/50 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4390,
+        "ancho_mm": 1810,
+        "alto_mm": 1660,
+        "distancia_ejes_mm": 2650,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1730,
+        "capacidad_maletero_lts": 410,
+        "capacidad_estanque_lts": 42,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo km/l (Ciudad)",
+            "GL": "13",
+            "GLX": "13",
+            "GLS": "13"
+        },
+        {
+            "caracteristica": "Consumo km/l (Carretera)",
+            "GL": "17,8",
+            "GLX": "17,8",
+            "GLS": "17,8"
+        },
+        {
+            "caracteristica": "Consumo km/l (Mixto)",
+            "GL": "15,7",
+            "GLX": "15,7",
+            "GLS": "15,7"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 (segundos)",
+            "GL": "13.6",
+            "GLX": "13.6",
+            "GLS": "13.6"
+        },
+        {
+            "caracteristica": "Velocidad máxima (KPH)",
+            "GL": "170",
+            "GLX": "170",
+            "GLS": "170"
+        },
+        {
+            "caracteristica": "Capacidad de carga (Lts)",
+            "GL": "415",
+            "GLX": "415",
+            "GLS": "415"
+        },
+        {
+            "caracteristica": "Ángulos entrada / ventral / salida (grados)",
+            "GL": "21 / 20.5 / 30.5",
+            "GLX": "21 / 20.5 / 30.5",
+            "GLS": "21 / 20.5 / 30.5"
+        },
+        {
+            "caracteristica": "Radio de giro mínimo (Mts)",
+            "GL": "5.2",
+            "GLX": "5.2",
+            "GLS": "5.2"
+        },
+        {
+            "caracteristica": "Emisiones de CO2 (g/km)",
+            "GL": "144",
+            "GLX": "144",
+            "GLS": "144"
+        },
+        {
+            "caracteristica": "Peso en vacío (Kg)",
+            "GL": "1220",
+            "GLX": "1240",
+            "GLS": "1250"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Apertura eléctrica portalón trasero - función manos libres",
+                "GL": false,
+                "GLX": false,
+                "GLS": true
+            },
+            {
+                "caracteristica": "Vidrios traseros con lámina de seguridad tintada",
+                "GL": false,
+                "GLX": true,
+                "GLS": true
+            },
+            {
+                "caracteristica": "Color moldura parachoques delantero y trasero",
+                "GL": false,
+                "GLX": false,
+                "GLS": "Color vehículo"
+            },
+            {
+                "caracteristica": "Llantas de aleación (Pulgadas)",
+                "GL": "17",
+                "GLX": "18",
+                "GLS": "18 (Bitono)"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio pantalla touch multimedia LCD",
+                "GL": "8\"",
+                "GLX": "8\"",
+                "GLS": "12,3\" (Inalámbrico)"
+            },
+            {
+                "caracteristica": "Climatizador bi-zona NANOE™X",
+                "GL": false,
+                "GLX": true,
+                "GLS": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "GL": false,
+                "GLX": false,
+                "GLS": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático",
+                "GL": false,
+                "GLX": false,
+                "GLS": "Auto"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags dobles cortina",
+                "GL": false,
+                "GLX": false,
+                "GLS": true
+            },
+            {
+                "caracteristica": "Monitor presión neumáticos TPMS",
+                "GL": false,
+                "GLX": false,
+                "GLS": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero RCTA",
+                "GL": false,
+                "GLX": false,
+                "GLS": true
+            },
+            {
+                "caracteristica": "Advertencia de Punto ciego BSW con asistencia de cambio de carril LCA (luz testigo + sonido)",
+                "GL": false,
+                "GLX": false,
+                "GLS": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces LED (posición, DRL, frontales, señalizadores, traseras)",
+            "Espejos exteriores ajuste eléctrico y plegado eléctrico",
+            "Cámara de retroceso",
+            "Sensor de estacionamiento trasero",
+            "Desempañador de ventana trasera con timer",
+            "Mascara frontal negro brillante",
+            "Pilar A-B-C Black",
+            "Spoiler",
+            "Molduras arcos de rueda",
+            "Cobertor de motor inferior",
+            "Parabrisas con reducción de rayos UV"
+        ],
+        "interior": [
+            "Apple CarPlay® & Android Auto®",
+            "Parlantes (6)",
+            "Llamadas y control de audio en volante",
+            "Control crucero",
+            "Puerto USB delantero tipo A y C",
+            "Puerto USB trasero tipo A y C",
+            "Salida 12V",
+            "Aire acondicionado",
+            "Salida de aire para las rodillas del conductor",
+            "Ventilación trasera",
+            "Apoya brazos central delantero con refrigeración",
+            "Iluminación ambiental",
+            "Limpiaparabrisas con sensor de lluvia",
+            "Cubre maleta",
+            "Encendido automático de luces",
+            "Apagado automático de luces",
+            "Luz de bienvenida/regreso a casa",
+            "Freno de estacionamiento eléctrico EPB con Auto hold",
+            "Asientos traseros abatibles 60:40",
+            "Asiento conductor con ajuste de altura",
+            "Porta lentes",
+            "Apoya brazos trasero / porta vasos / bolsillo de smartphone",
+            "Apertura a distancia (botón control)",
+            "Encendido sin llaves (Botón encendido)",
+            "Apertura sin llaves (Botón manilla)",
+            "Volante y pomo de transmisión en eco cuero",
+            "Volante regulable en altura y profundidad",
+            "Alza vidrios eléctricos"
+        ],
+        "seguridad": [
+            "Carrocería con deformación programada RISE Body",
+            "Airbags dobles delanteros",
+            "Airbags dobles laterales",
+            "Cinturón de seguridad de 3 puntos todas las posiciones",
+            "Cinturones de seguridad delanteros con pretensor",
+            "Recordatorio de cinturón de seguridad todas las posiciones",
+            "Frenos ABS con EBD",
+            "Control activo de estabilidad y tracción ASTC",
+            "Asistente de frenado de emergencia BA",
+            "Asistente de partida en pendiente HSA",
+            "Apoya cabeza para 5 usuarios",
+            "Control Activo de Derrape AYC",
+            "Señal de frenado de emergencia ESS",
+            "Inmovilizador motor-llave",
+            "Bloqueo de transmisión automática",
+            "Cierre centralizado por velocidad",
+            "Alarma antirrobo (bocina y luces)",
+            "Sistema de recordatorio de llaves",
+            "Anclaje trasero ISOFIX"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco diamante",
+        "Grafito",
+        "Plata",
+        "Rojo oscuro",
+        "Amarillo mostaza",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de tabla ficha técnica Mitsubishi (ticket verde=true, x roja=false; cuando hay una sola columna aplica a todas las versiones; texto y valores exactamente como aparecen en PDF)",
+        "fuente": "FICHA-OUSPORT-DESKTOP-EURO6B-V2-1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Especificaciones técnicas (motor, suspensión, frenos, dirección, consumo, dimensiones y performance) comunes para todas las versiones según tabla del PDF."
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "Nuevo Haval Jolion",
+        "año": 2025,
+        "versiones": [
+            "ACTIVE_MT",
+            "ELITE_MT",
+            "ELITE_AT",
+            "DELUXE_AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "todas_versiones": "Turbo 4 cilindros 16V"
+        },
+        "cilindrada": 1.5,
+        "potencia_hp": {
+            "todas_versiones": "141"
+        },
+        "potencia_rpm": {
+            "todas_versiones": "5.600 - 6.000"
+        },
+        "torque_nm": {
+            "todas_versiones": "210"
+        },
+        "torque_rpm": {
+            "todas_versiones": "2.000 - 4.500"
+        },
+        "combustible": null,
+        "transmision": {
+            "ACTIVE_MT": "Mecánica 6 velocidades",
+            "ELITE_MT": "Mecánica 6 velocidades",
+            "ELITE_AT": "Automática DCT 7",
+            "DELUXE_AT": "Automática DCT 7"
+        },
+        "traccion": {
+            "todas_versiones": "4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "ACTIVE_MT": "215/60 R17",
+            "ELITE_MT": "215/60 R17",
+            "ELITE_AT": "225/55 R18",
+            "DELUXE_AT": "225/55 R18"
+        },
+        "rueda_repuesto": {
+            "todas_versiones": "Rueda repuesto provisoria"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4472,
+        "ancho_mm": 1842,
+        "alto_mm": 1619,
+        "distancia_ejes_mm": 2700,
+        "despeje_suelo_mm": 163,
+        "peso_bruto_kg": {
+            "ACTIVE_MT": 1740,
+            "ELITE_MT": 1765,
+            "ELITE_AT": 1826,
+            "DELUXE_AT": 1826
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (Km/L)",
+            "ACTIVE_MT": "9.3",
+            "ELITE_MT": "9.3",
+            "ELITE_AT": "10.2",
+            "DELUXE_AT": "10.2"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (Km/L)",
+            "ACTIVE_MT": "12.6",
+            "ELITE_MT": "12.6",
+            "ELITE_AT": "12.9",
+            "DELUXE_AT": "12.9"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (Km/L)",
+            "ACTIVE_MT": "15.9",
+            "ELITE_MT": "15.9",
+            "ELITE_AT": "15.3",
+            "DELUXE_AT": "15.3"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "ACTIVE_MT": "215/60 R17",
+            "ELITE_MT": "215/60 R17",
+            "ELITE_AT": "225/55 R18",
+            "DELUXE_AT": "225/55 R18"
+        },
+        {
+            "caracteristica": "Llantas",
+            "ACTIVE_MT": "Llanta 17\" bi-tono",
+            "ELITE_MT": "Llanta 17\" bi-tono",
+            "ELITE_AT": "Llanta 18\" bi-tono",
+            "DELUXE_AT": "Llanta 18\" bi-tono"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "ACTIVE_MT": 1740,
+            "ELITE_MT": 1765,
+            "ELITE_AT": 1826,
+            "DELUXE_AT": 1826
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Pasajeros",
+            "ACTIVE_MT": 5,
+            "ELITE_MT": 5,
+            "ELITE_AT": 5,
+            "DELUXE_AT": 5
+        },
+        {
+            "caracteristica": "Estanque (L)",
+            "ACTIVE_MT": 55,
+            "ELITE_MT": 55,
+            "ELITE_AT": 55,
+            "DELUXE_AT": 55
+        },
+        {
+            "caracteristica": "Altura al suelo (mm)",
+            "ACTIVE_MT": 163,
+            "ELITE_MT": 163,
+            "ELITE_AT": 163,
+            "DELUXE_AT": 163
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensores traseros",
+                "ACTIVE_MT": "3",
+                "ELITE_MT": "3",
+                "ELITE_AT": "6 + delanteros",
+                "DELUXE_AT": "6 + delanteros"
+            },
+            {
+                "caracteristica": "Cámara 360",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Estacionamiento asistido",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Focos (tipo)",
+                "ACTIVE_MT": "Halógenos regulables",
+                "ELITE_MT": "Halógenos regulables",
+                "ELITE_AT": "LED regulables",
+                "DELUXE_AT": "LED regulables"
+            },
+            {
+                "caracteristica": "Sensor luces automático",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Espejos defroster",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Espejos plegables eléctricos",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Sensor lluvia",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": false,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Barras techo",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Llave inteligente (2)",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Keyless",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Cierre vidrios y sunroof a distancia",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": false,
+                "DELUXE_AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado / Climatizador",
+                "ACTIVE_MT": "Aire acondicionado",
+                "ELITE_MT": "Climatizador",
+                "ELITE_AT": "Climatizador",
+                "DELUXE_AT": "Climatizador"
+            },
+            {
+                "caracteristica": "Salidas aire traseras",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Alzavidrios anti-atrape one-touch",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Botón keyless",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Panel (tipo)",
+                "ACTIVE_MT": "Panel 3.5\"",
+                "ELITE_MT": "Panel digital 7\"",
+                "ELITE_AT": "Panel digital 7\"",
+                "DELUXE_AT": "Panel digital 7\""
+            },
+            {
+                "caracteristica": "Radio (tamaño)",
+                "ACTIVE_MT": "10.3\"",
+                "ELITE_MT": "10.3\"",
+                "ELITE_AT": "12.3\"",
+                "DELUXE_AT": "12.3\""
+            },
+            {
+                "caracteristica": "Número parlantes",
+                "ACTIVE_MT": 4,
+                "ELITE_MT": 4,
+                "ELITE_AT": 6,
+                "DELUXE_AT": 6
+            },
+            {
+                "caracteristica": "Sistema sonido DTS",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Modos conducción",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Volante ecocuero",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Paletas cambio",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Asiento conductor (tipo)",
+                "ACTIVE_MT": "Manual 6p",
+                "ELITE_MT": "Manual 6p",
+                "ELITE_AT": "Eléctrico 6p",
+                "DELUXE_AT": "Eléctrico 6p"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "ACTIVE_MT": "Tela",
+                "ELITE_MT": "Tela",
+                "ELITE_AT": "Ecocuero",
+                "DELUXE_AT": "Ecocuero"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": false,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos trasero",
+                "ACTIVE_MT": false,
+                "ELITE_MT": false,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Espejo interior",
+                "ACTIVE_MT": "Manual",
+                "ELITE_MT": "Manual",
+                "ELITE_AT": "Manual",
+                "DELUXE_AT": "Eléctrico"
+            },
+            {
+                "caracteristica": "Parasol (tipo)",
+                "ACTIVE_MT": "Parasol con espejo",
+                "ELITE_MT": "Parasol con espejo",
+                "ELITE_AT": "Parasol con espejo y luz",
+                "DELUXE_AT": "Parasol con espejo y luz"
+            },
+            {
+                "caracteristica": "Estuche gafas",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Luces lectura",
+                "ACTIVE_MT": false,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio (tamaño)",
+                "ACTIVE_MT": "10.3\"",
+                "ELITE_MT": "10.3\"",
+                "ELITE_AT": "12.3\"",
+                "DELUXE_AT": "12.3\""
+            },
+            {
+                "caracteristica": "USB parabrisas",
+                "ACTIVE_MT": true,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "USB delanteros y traseros",
+                "ACTIVE_MT": true,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            },
+            {
+                "caracteristica": "Volumen automático",
+                "ACTIVE_MT": true,
+                "ELITE_MT": true,
+                "ELITE_AT": true,
+                "DELUXE_AT": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "vehiculo": {
+        "marca": "Honda",
+        "modelo": "WRV",
+        "año": 2026,
+        "versiones": [
+            "EX",
+            "TOURING"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EX": "1.5 I-VTEC",
+            "TOURING": "1.5 I-VTEC"
+        },
+        "cilindrada": {
+            "EX": null,
+            "TOURING": null
+        },
+        "potencia_hp": {
+            "EX": "119",
+            "TOURING": "119"
+        },
+        "potencia_rpm": {
+            "EX": "6.600",
+            "TOURING": "6.600"
+        },
+        "torque_nm": {
+            "EX": "145",
+            "TOURING": "145"
+        },
+        "torque_rpm": {
+            "EX": "4.300",
+            "TOURING": "4.300"
+        },
+        "combustible": null,
+        "transmision": {
+            "EX": "Automática tipo CVT",
+            "TOURING": "Automática tipo CVT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "EX": "215/55R17",
+            "TOURING": "215/55R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4325,
+        "ancho_mm": 1790,
+        "alto_mm": 1650,
+        "distancia_ejes_mm": 2650,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 458,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Faros antiniebla",
+                "EX": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Rieles de techo",
+                "EX": false,
+                "TOURING": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos",
+                "EX": "TELA",
+                "TOURING": "CUERO"
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sensores de estacionamiento con alerta sonora",
+                "EX": "TRASEROS",
+                "TOURING": "TRASEROS"
+            },
+            {
+                "caracteristica": "Paddle shift",
+                "EX": true,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Aire-acondicionado digital",
+                "EX": "AUTOMÁTICO CON VENTILACIÓN PARA LOS OCUPANTES TRASEROS",
+                "TOURING": "AUTOMÁTICO CON VENTILACIÓN PARA LOS OCUPANTES TRASEROS"
+            },
+            {
+                "caracteristica": "Asiento trasero con apoyabrazos central y portavasos",
+                "EX": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "EX": false,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Multimedia de 10'' con pantalla táctil e interfaz inalámbrica para smartphones con Apple Carplay y Android Auto™",
+                "EX": true,
+                "TOURING": true
+            },
+            {
+                "caracteristica": "Panel digital TFT de alta resolución",
+                "EX": "7\"",
+                "TOURING": "7\""
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena tipo tiburón"
+        ],
+        "interior": [],
+        "seguridad": [
+            "Sistema VSA (Asistencia de estabilidad del vehículo)",
+            "Sistema HSA (Asistente de partida en pendiente)",
+            "ESS (Sistema de luces de emergencia)",
+            "Airbags delanteros, laterales y tipo cortina",
+            "Cámara de reversa (tres vistas) con líneas dinámicas"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "Honda Sensing® - Tecnología exclusiva de seguridad y asistencia al conductor",
+            "ACC™ Control de crucero adaptativo",
+            "CMBS™ Sistema de frenado para mitigación de colisiones",
+            "LKAS™ Sistema de asistencia para mantenerse en el carril",
+            "RDM™ Sistema de mitigación de salida de carril",
+            "AHB™ Ajuste automático de las luces altas"
+        ]
+    },
+    "colores": [
+        "Verde",
+        "Azul",
+        "Plata",
+        "Grafito",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Honda (●=true, vacío/--=false; texto/valores tal cual)",
+        "fuente": "Ficha-WRV-Final-19_12-2026.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información visible en las tablas: ficha técnica, dimensiones, seguridad, acabado, confort/tecnología, colores y desglose Honda Sensing."
+    }
+}

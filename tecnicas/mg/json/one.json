@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "ONE",
+        "año": null,
+        "versiones": [
+            "1.5T_CVT_COM",
+            "1.5T_CVT_DLX"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5T",
+        "cilindrada": 1490,
+        "potencia_hp": {
+            "1.5T_CVT_COM": "168",
+            "1.5T_CVT_DLX": "168"
+        },
+        "potencia_rpm": "5600",
+        "torque_nm": {
+            "1.5T_CVT_COM": "275",
+            "1.5T_CVT_DLX": "275"
+        },
+        "torque_rpm": "2000-4000",
+        "combustible": "Gasolina",
+        "transmision": "CVT",
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi-link",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "neumaticos": {
+            "1.5T_CVT_COM": "225/55R18",
+            "1.5T_CVT_DLX": "225/50R19"
+        },
+        "rueda_repuesto": "135/80R17"
+    },
+    "dimensiones": {
+        "largo_mm": 4581,
+        "ancho_mm": 1871,
+        "alto_mm": 1617,
+        "distancia_ejes_mm": 2670,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "336/1120",
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad",
+            "1.5T_CVT_COM": "10,4",
+            "1.5T_CVT_DLX": "10,4"
+        },
+        {
+            "caracteristica": "Consumo carretera",
+            "1.5T_CVT_COM": "16,4",
+            "1.5T_CVT_DLX": "16,4"
+        },
+        {
+            "caracteristica": "Consumo mixto",
+            "1.5T_CVT_COM": "13,6",
+            "1.5T_CVT_DLX": "13,6"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta",
+            "1.5T_CVT_COM": "18\" aleación",
+            "1.5T_CVT_DLX": "19\" aleación"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            },
+            {
+                "caracteristica": "Volante eco-cuero",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            },
+            {
+                "caracteristica": "Climatizador Bi-Zona",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Spoiler grande",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            },
+            {
+                "caracteristica": "Barras en techo",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag cortina",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            },
+            {
+                "caracteristica": "ACC",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            },
+            {
+                "caracteristica": "BSD",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Cámara 360°",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5T_CVT_COM": false,
+                "1.5T_CVT_DLX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ESP",
+            "ABS",
+            "EBD",
+            "EBA",
+            "ARP",
+            "TCS",
+            "Auto Hold",
+            "EPB",
+            "Airbags frontales",
+            "Airbags laterales",
+            "ISOFIX"
+        ],
+        "interior": [
+            "Asientos eco-cuero",
+            "Volante multifunción",
+            "Filtro PM2.5",
+            "Cluster digital",
+            "Pantalla 12.3\"",
+            "Android Auto + CarPlay"
+        ],
+        "exterior": [
+            "Luces LED",
+            "DRL",
+            "Neblineros",
+            "Retrovisores eléctricos"
+        ],
+        "tecnologia": [
+            "Bluetooth",
+            "USB",
+            "Computador a bordo"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-one.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se respetaron valores literales del PDF. Diferencias por versión mapeadas boolean."
+    }
+}

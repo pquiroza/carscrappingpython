@@ -1,0 +1,183 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "HS",
+        "año": null,
+        "versiones": [
+            "1.5T_MT_COM",
+            "1.5T_DCT_DLX",
+            "1.5T_DCT_TROPHY"
+        ]
+    },
+    "motor": {
+        "tipo": "SGE 1.5T",
+        "cilindrada": null,
+        "potencia_hp": "166",
+        "potencia_rpm": "5600",
+        "torque_nm": "250",
+        "torque_rpm": "1700-4400",
+        "combustible": null,
+        "transmision": {
+            "1.5T_MT_COM": "6MT",
+            "1.5T_DCT_DLX": "7DCT",
+            "1.5T_DCT_TROPHY": "7DCT"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "EPS Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multibrazo",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "neumaticos": {
+            "1.5T_MT_COM": "215/60R17",
+            "1.5T_DCT_DLX": "235/50R18",
+            "1.5T_DCT_TROPHY": "235/50R18"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4610,
+        "ancho_mm": 1876,
+        "alto_mm": 1685,
+        "distancia_ejes_mm": 2720,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "463/1287",
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad",
+            "1.5T_MT_COM": "11,1",
+            "1.5T_DCT_DLX": "10,9",
+            "1.5T_DCT_TROPHY": "10,9"
+        },
+        {
+            "caracteristica": "Consumo Carretera",
+            "1.5T_MT_COM": "15,5",
+            "1.5T_DCT_DLX": "14,8",
+            "1.5T_DCT_TROPHY": "14,8"
+        },
+        {
+            "caracteristica": "Consumo Mixto",
+            "1.5T_MT_COM": "13,5",
+            "1.5T_DCT_DLX": "13,1",
+            "1.5T_DCT_TROPHY": "13,1"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "1.5T_MT_COM": "190",
+            "1.5T_DCT_DLX": "190",
+            "1.5T_DCT_TROPHY": "190"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta aluminio",
+            "1.5T_MT_COM": "17\"",
+            "1.5T_DCT_DLX": "18\"",
+            "1.5T_DCT_TROPHY": "18\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de cortina",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": false,
+                "1.5T_DCT_TROPHY": true
+            },
+            {
+                "caracteristica": "Recordatorio cinturón acompañante",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": true,
+                "1.5T_DCT_TROPHY": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Luces de bienvenida",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": true,
+                "1.5T_DCT_TROPHY": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": false,
+                "1.5T_DCT_TROPHY": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": false,
+                "1.5T_DCT_TROPHY": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": true,
+                "1.5T_DCT_TROPHY": true
+            },
+            {
+                "caracteristica": "Climatizador Bi-Zona",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": false,
+                "1.5T_DCT_TROPHY": true
+            },
+            {
+                "caracteristica": "Butacas deportivas",
+                "1.5T_MT_COM": false,
+                "1.5T_DCT_DLX": false,
+                "1.5T_DCT_TROPHY": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ESP (ABS+EBD+CBC+TCS+VDC+HAZ+HHC+BDW+ARP+HDC)",
+            "Autohold",
+            "TPMS",
+            "EPB",
+            "Cámara trasera",
+            "Sensor trasero",
+            "ISOFIX",
+            "Airbags frontales",
+            "Airbags laterales"
+        ],
+        "interior": [
+            "Volante eco cuero",
+            "Control crucero",
+            "Pantalla 10.1\"",
+            "Bluetooth",
+            "Carplay y Android Auto",
+            "6 parlantes"
+        ],
+        "exterior": [
+            "Luces LED",
+            "Luces automáticas",
+            "DRL LED",
+            "Barras en techo"
+        ],
+        "tecnologia": [
+            "Clúster digital",
+            "USB delanteros y traseros"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-hs.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se mapearon ● a true y - a false. Valores técnicos copiados literal."
+    }
+}

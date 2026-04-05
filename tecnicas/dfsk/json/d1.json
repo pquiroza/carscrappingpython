@@ -1,0 +1,188 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "PICK UP D1",
+        "año": 2024,
+        "versiones": [
+            "COMFORT 4x2 MT",
+            "LUXURY 4x4 MT",
+            "LUXURY 4x4 AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "COMFORT 4x2 MT": null,
+            "LUXURY 4x4 MT": null,
+            "LUXURY 4x4 AT": null
+        },
+        "cilindrada": {
+            "COMFORT 4x2 MT": 2298,
+            "LUXURY 4x4 MT": 2298,
+            "LUXURY 4x4 AT": 2298
+        },
+        "potencia_hp": {
+            "COMFORT 4x2 MT": "161",
+            "LUXURY 4x4 MT": "161",
+            "LUXURY 4x4 AT": "161"
+        },
+        "potencia_rpm": {
+            "COMFORT 4x2 MT": null,
+            "LUXURY 4x4 MT": null,
+            "LUXURY 4x4 AT": null
+        },
+        "torque_nm": {
+            "COMFORT 4x2 MT": "380",
+            "LUXURY 4x4 MT": "380",
+            "LUXURY 4x4 AT": "380"
+        },
+        "torque_rpm": {
+            "COMFORT 4x2 MT": null,
+            "LUXURY 4x4 MT": null,
+            "LUXURY 4x4 AT": null
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "COMFORT 4x2 MT": "6MT",
+            "LUXURY 4x4 MT": "6MT",
+            "LUXURY 4x4 AT": "8AT"
+        },
+        "traccion": {
+            "COMFORT 4x2 MT": "4X2",
+            "LUXURY 4x4 MT": "4X4",
+            "LUXURY 4x4 AT": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente doble bandeja",
+        "suspension_trasera": "Resorte tipo ballesta",
+        "frenos_delanteros": {
+            "COMFORT 4x2 MT": "Disco",
+            "LUXURY 4x4 MT": "Disco",
+            "LUXURY 4x4 AT": "Disco"
+        },
+        "frenos_traseros": {
+            "COMFORT 4x2 MT": "Tambor",
+            "LUXURY 4x4 MT": "Tambor",
+            "LUXURY 4x4 AT": "Tambor"
+        },
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "COMFORT 4x2 MT": "255/70R16",
+            "LUXURY 4x4 MT": "255/70R16",
+            "LUXURY 4x4 AT": "255/70R16"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5290,
+        "ancho_mm": 1850,
+        "alto_mm": 1810,
+        "distancia_ejes_mm": 3150,
+        "despeje_suelo_mm": 207,
+        "peso_bruto_kg": {
+            "COMFORT 4x2 MT": 2625,
+            "LUXURY 4x4 MT": 2715,
+            "LUXURY 4x4 AT": 2755
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 73,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de Carga (Kg)",
+            "COMFORT 4x2 MT": "790",
+            "LUXURY 4x4 MT": "790",
+            "LUXURY 4x4 AT": "765"
+        },
+        {
+            "caracteristica": "Velocidad máxima (Km/H)",
+            "COMFORT 4x2 MT": "150",
+            "LUXURY 4x4 MT": "150",
+            "LUXURY 4x4 AT": "150"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces principales automáticas",
+                "COMFORT 4x2 MT": false,
+                "LUXURY 4x4 MT": true,
+                "LUXURY 4x4 AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Panel de instrumentos de 3,5\" en blanco y negro",
+                "COMFORT 4x2 MT": true,
+                "LUXURY 4x4 MT": false,
+                "LUXURY 4x4 AT": false
+            },
+            {
+                "caracteristica": "Panel de instrumentos de 3,5\" multicolor",
+                "COMFORT 4x2 MT": false,
+                "LUXURY 4x4 MT": true,
+                "LUXURY 4x4 AT": true
+            },
+            {
+                "caracteristica": "Número de Parlantes",
+                "COMFORT 4x2 MT": 4,
+                "LUXURY 4x4 MT": 6,
+                "LUXURY 4x4 AT": 6
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neblineros delanteros y traseros",
+            "Luces diurnas LED",
+            "Espejos retrovisores color carrocería",
+            "Espejos retrovisores con ajuste eléctrico",
+            "Parachoques trasero negro",
+            "Manillas de puertas cromadas"
+        ],
+        "interior": [
+            "Aire Acondicionado",
+            "Asiento del conductor con ajuste manual (6 posiciones)",
+            "Asiento chofer deslizable",
+            "Asiento copiloto deslizable",
+            "Tapiz de asientos Eco cuero",
+            "Volante multifunción",
+            "Volante ajustable en altura y profunidad",
+            "Luz de lectura",
+            "Espejo retrovisor interior antideslumbramiento",
+            "Radio touch 10\" con Bluetooth",
+            "Android Auto & Apple CarPlay",
+            "Botón Keyless de encendido y apagado de motor"
+        ],
+        "seguridad": [
+            "Airbags",
+            "Frenos ABS y EBD",
+            "Control de tracción (TCS)",
+            "Control dinámico vehicular (VDC)",
+            "Asistencia hidráulica al frenado (HBA)",
+            "Asistente de partida en pendiente (HHC)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Cinturón de seguridad de tres puntas",
+            "Bloqueo de puertas para niños",
+            "Cámara de retroceso",
+            "Sensor de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Sí=true, No=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica-d1-2024-2-copia-1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó toda la información visible en la tabla de especificaciones. El documento no detalla colores ni tipo de motor más allá de indicar motor diésel 2.3L en portada. La dimensión del compartimento de carga indicada en el documento es 1510/1562/475."
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "año": null,
+        "versiones": [
+            "Clase G 450d",
+            "Clase G 500"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Clase G 450d": "6L",
+            "Clase G 500": "6L"
+        },
+        "cilindrada": {
+            "Clase G 450d": 2989,
+            "Clase G 500": 2999
+        },
+        "potencia_hp": {
+            "Clase G 450d": "367 CV (+20CV)",
+            "Clase G 500": "449 CV (+23 Cv)"
+        },
+        "potencia_rpm": {
+            "Clase G 450d": null,
+            "Clase G 500": null
+        },
+        "torque_nm": {
+            "Clase G 450d": "750 Nm (+205 Nm)",
+            "Clase G 500": "560 Nm (+205 Nm)"
+        },
+        "torque_rpm": {
+            "Clase G 450d": null,
+            "Clase G 500": null
+        },
+        "combustible": {
+            "Clase G 450d": "Diesel",
+            "Clase G 500": "Gasolina"
+        },
+        "transmision": {
+            "Clase G 450d": "9G-TRONIC",
+            "Clase G 500": "9G-TRONIC"
+        },
+        "traccion": {
+            "Clase G 450d": "Integral",
+            "Clase G 500": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Clase G 450d": "265/60 R18",
+            "Clase G 500": "265/60 R18"
+        },
+        "rueda_repuesto": {
+            "Clase G 450d": "Rueda de repuesto en la parte posterior",
+            "Clase G 500": "Rueda de repuesto en la parte posterior"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "Clase G 450d": 640,
+            "Clase G 500": 454
+        },
+        "capacidad_estanque_lts": 100,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima",
+            "Clase G 450d": "210 KM/H",
+            "Clase G 500": "210 KM/H"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "Clase G 450d": "5,8 s",
+            "Clase G 500": "5,4 s"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "Clase G 450d": "12 km/L",
+            "Clase G 500": "9,7 km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "Clase G 450d": "Exclusive Line",
+                "Clase G 500": "Exclusive Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "Clase G 450d": "18 pulgadas y 5 radios dobles",
+                "Clase G 500": "18 pulgadas y 5 radios dobles"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "Clase G 450d": "265/60 R18",
+                "Clase G 500": "265/60 R18"
+            },
+            {
+                "caracteristica": "Luces LED MULTIBEAM",
+                "Clase G 450d": "Luces de carretera automáticas Plus",
+                "Clase G 500": "Luces de carretera automáticas Plus"
+            },
+            {
+                "caracteristica": "Faldillas guardabarros traseras",
+                "Clase G 450d": "Incluye faldillas guardabarros traseras y pisaderas laterales",
+                "Clase G 500": "Incluye faldillas guardabarros traseras y pisaderas laterales"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "Clase G 450d": "Cuero",
+                "Clase G 500": "Cuero"
+            },
+            {
+                "caracteristica": "Volante",
+                "Clase G 450d": "Volante multifunción en napa",
+                "Clase G 500": "Volante multifunción en napa"
+            },
+            {
+                "caracteristica": "Moldura",
+                "Clase G 450d": "Elementos de adorno de madera de fresno marrón brillante",
+                "Clase G 500": "Elementos de adorno de madera de fresno marrón brillante"
+            },
+            {
+                "caracteristica": "Asientos calefactados en todas las plazas",
+                "Clase G 450d": "Incluye kit de memorias en asientos delanteros",
+                "Clase G 500": "Incluye kit de memorias en asientos delanteros"
+            },
+            {
+                "caracteristica": "Respaldos traseros abatibles",
+                "Clase G 450d": true,
+                "Clase G 500": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de serie",
+                "Clase G 450d": "Incluye Airbags en cada ventana lateral y en rodillas",
+                "Clase G 500": "Incluye Airbags en cada ventana lateral y en rodillas"
+            },
+            {
+                "caracteristica": "Asistente activo DISTRONIC",
+                "Clase G 450d": "Incluye cambio de carril y de asistente de distancia",
+                "Clase G 500": "Incluye cambio de carril y de asistente de distancia"
+            },
+            {
+                "caracteristica": "Acceso Keyless-Go",
+                "Clase G 450d": true,
+                "Clase G 500": true
+            },
+            {
+                "caracteristica": "Visual de capó transparente",
+                "Clase G 450d": "Virtualiza la zona situada justo delante de tu vehículo en la pantalla multimedia",
+                "Clase G 500": "Virtualiza la zona situada justo delante de tu vehículo en la pantalla multimedia"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara 360°",
+                "Clase G 450d": "Incluye ayuda activa para estacionar PARKTRONIC",
+                "Clase G 500": "Incluye ayuda activa para estacionar PARKTRONIC"
+            },
+            {
+                "caracteristica": "Control de ángulo muerto",
+                "Clase G 450d": "Sistema advierte con señales ópticas la presencia de vehículos difíciles de visualizar",
+                "Clase G 500": "Sistema advierte con señales ópticas la presencia de vehículos difíciles de visualizar"
+            },
+            {
+                "caracteristica": "Sistema PRE-SAFE®",
+                "Clase G 450d": true,
+                "Clase G 500": true
+            },
+            {
+                "caracteristica": "Protección de vehículo GUARD 360°",
+                "Clase G 450d": true,
+                "Clase G 500": true
+            },
+            {
+                "caracteristica": "Bloqueos de diferenciales 100%",
+                "Clase G 450d": "Incluye desmultiplicación todoterreno LOW RANGE",
+                "Clase G 500": "Incluye desmultiplicación todoterreno LOW RANGE"
+            },
+            {
+                "caracteristica": "Tren de rodaje con amortiguación adaptativa regulable",
+                "Clase G 450d": true,
+                "Clase G 500": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "Clase G 450d": "Sistema multimedia digitalizado personalizable",
+                "Clase G 500": "Sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos",
+                "Clase G 450d": "12,3 pulgadas de alta definición y fácil uso",
+                "Clase G 500": "12,3 pulgadas de alta definición y fácil uso"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "Clase G 450d": "12,3 pulgadas completamente acristalada",
+                "Clase G 500": "12,3 pulgadas completamente acristalada"
+            },
+            {
+                "caracteristica": "Portavasos con control de temperatura",
+                "Clase G 450d": "Botellas, latas y tazas de hasta 0,5L entre 8° y 55°C",
+                "Clase G 500": "Botellas, latas y tazas de hasta 0,5L entre 8° y 55°C"
+            },
+            {
+                "caracteristica": "Paquete de confort térmico",
+                "Clase G 450d": "Incluye calefacción al volante y parabrisas calefactado",
+                "Clase G 500": "Incluye calefacción al volante y parabrisas calefactado"
+            },
+            {
+                "caracteristica": "Techo corredizo eléctrico",
+                "Clase G 450d": "Incluye cierre automático en caso de lluvia",
+                "Clase G 500": "Incluye cierre automático en caso de lluvia"
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "Clase G 450d": "Apple CarPlay / Android Auto inalámbrico",
+                "Clase G 500": "Apple CarPlay / Android Auto inalámbrico"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "Clase G 450d": "Incluye diez conceptos cromáticos y elementos de iluminación en difusores de aire",
+                "Clase G 500": "Incluye diez conceptos cromáticos y elementos de iluminación en difusores de aire"
+            },
+            {
+                "caracteristica": "Sistema de carga inalámbrica",
+                "Clase G 450d": "Para dispositivo en plazas delanteras debajo de la consola central",
+                "Clase G 500": "Para dispositivo en plazas delanteras debajo de la consola central"
+            },
+            {
+                "caracteristica": "Climatización THERMOTRONIC",
+                "Clase G 450d": "Climatización automática de 3 zonas",
+                "Clase G 500": "Climatización automática de 3 zonas"
+            },
+            {
+                "caracteristica": "Sistema de sonido Surround Burmester®",
+                "Clase G 450d": "Incluye Sound Preset (sonoridad envolvente)",
+                "Clase G 500": "Incluye Sound Preset (sonoridad envolvente)"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz Clase G (ticket=true, vacío o -=false; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica_Nuevo_Clase_G_digital-suv-clase-g.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información disponible de especificaciones técnicas, seguridad, equipamiento exterior, interior y tecnología."
+    }
+}

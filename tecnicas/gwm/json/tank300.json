@@ -1,0 +1,219 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "NUEVO TANK 300",
+        "año": null,
+        "versiones": [
+            "4WD_LIMITED"
+        ]
+    },
+    "pdf": "ficha-técnica-tank-300_010925_v1.pdf",
+    "motor": {
+        "tipo": {
+            "4WD_LIMITED": "4 cilindros en línea 2.0 turbo inyección directa"
+        },
+        "cilindrada_descripcion": {
+            "4WD_LIMITED": "2.0 turbo inyección directa"
+        },
+        "potencia_hp_rpm": {
+            "4WD_LIMITED": "217 / 5.500"
+        },
+        "torque_nm_rpm": {
+            "4WD_LIMITED": "380 / 1.800 - 3.600"
+        },
+        "norma_emision": {
+            "4WD_LIMITED": "Euro VI C"
+        },
+        "traccion": {
+            "4WD_LIMITED": "4x4 con caja reductora"
+        },
+        "transmision": {
+            "4WD_LIMITED": "Automática de 8 velocidades"
+        },
+        "direccion": {
+            "4WD_LIMITED": "Piñón y cremallera"
+        }
+    },
+    "chasis_y_suspension": {
+        "suspension_delantera": {
+            "4WD_LIMITED": "Independiente de doble bandeja con barra estabilizadora"
+        },
+        "suspension_trasera": {
+            "4WD_LIMITED": "Eje rígido con tirantes y muelles helicoidales"
+        },
+        "frenos": {
+            "4WD_LIMITED": "Discos delanteros y traseros con ABS & ESP"
+        },
+        "neumaticos": {
+            "4WD_LIMITED": "265/65 R17 All Terrain (AT)"
+        }
+    },
+    "dimensiones_y_capacidades": {
+        "largo_ancho_alto_mm": {
+            "4WD_LIMITED": "4760 x 1930 x 1903"
+        },
+        "distancia_entre_ejes_mm": {
+            "4WD_LIMITED": "2750"
+        },
+        "peso_bruto_vehicular_kg": {
+            "4WD_LIMITED": "2552"
+        },
+        "pasajeros": {
+            "4WD_LIMITED": 5
+        },
+        "maletero_l": {
+            "4WD_LIMITED": "400 / 1.635 (solo / abatidos)"
+        },
+        "estanque_l": {
+            "4WD_LIMITED": "70"
+        },
+        "rendimiento_ciudad_km_l": {
+            "4WD_LIMITED": "8,1"
+        },
+        "rendimiento_mixto_km_l": {
+            "4WD_LIMITED": "9,8"
+        },
+        "rendimiento_carretera_km_l": {
+            "4WD_LIMITED": "11,1"
+        }
+    },
+    "capacidades_offroad": {
+        "despeje_suelo_mm": "224",
+        "capacidad_vadeo_mm": "700",
+        "angulo_ataque": "33°",
+        "angulo_salida": "34°",
+        "chasis_tipo_bastidor": true,
+        "proteccion_inferior_chasis": true,
+        "bloqueo_diferencial_delantero_electronico": true,
+        "bloqueo_diferencial_trasero_electronico": true,
+        "asistente_giro_tab": true,
+        "control_crucero_offroad": true,
+        "enfriamiento_motor_offroad": true,
+        "selector_electronico_2h_4h_4l": true,
+        "modos_4h": true,
+        "modos_4l": true,
+        "camara_chasis_transparente_360": true,
+        "puerto_remolque_13_pines": true,
+        "ganchos_remolque_frontales_traseros": true,
+        "rueda_repuesto_tamano_completo": true,
+        "barra_bloqueo_portalon": true
+    },
+    "equipamiento": {
+        "interior": [
+            "Climatizador bizona",
+            "Salida aire trasera",
+            "Alzavidrios eléctricos",
+            "Alzavidrio conductor anti-atrape one-touch",
+            "Botón keyless",
+            "Start/Stop",
+            "Panel digital 12.3\"",
+            "Radio touch 12.3\" CarPlay Android Auto",
+            "CarPlay Android inalámbrico",
+            "Comando voz",
+            "USB delantero (A+C)",
+            "USB segunda fila",
+            "Audio Infinity 8 parlantes + subwoofer",
+            "Cargador inalámbrico",
+            "Palanca cambios electrónica",
+            "Freno mano electrónico",
+            "Autohold",
+            "Volante ecocuero",
+            "Volante calefaccionado",
+            "Volante 3 niveles rigidez",
+            "Volante regulable altura/profundidad",
+            "Paletas cambio",
+            "Parasol espejo y luz",
+            "Asiento conductor eléctrico 8 posiciones",
+            "Asiento copiloto eléctrico 4 posiciones",
+            "Soporte lumbar eléctrico 4 posiciones",
+            "Asientos ecocuero",
+            "Asientos delanteros calefaccionados",
+            "Asientos ventilados",
+            "Masaje asiento conductor",
+            "Asientos traseros 60:40 reclinables",
+            "Apoyabrazos delantero y trasero",
+            "Apoyabrazos delantero refrigerado",
+            "3 apoyacabezas traseros",
+            "Luz ambiente interior 64 colores",
+            "Luces lectura, techo, maletero y guantera",
+            "Espejo central electrocrómico",
+            "Toma corriente 12V delantera y trasera",
+            "Enchufe 220V 120W",
+            "Mesa picnic",
+            "Malla cubre equipaje"
+        ],
+        "exterior": [
+            "Focos LED regulables altura",
+            "Luces diurnas LED",
+            "Neblineros LED delanteros y traseros",
+            "Neblineros con encendido al girar",
+            "Luces traseras LED",
+            "Follow me home",
+            "Llanta aleación aro 17\" negro",
+            "Versión todoterreno (parachoques, molduras, guardabarros)",
+            "Entrada sin llave",
+            "Llave inteligente (2)",
+            "Sensor lluvia",
+            "Barras techo y pisaderas",
+            "Vidrios traseros tinteados",
+            "Sunroof con apertura y cortina",
+            "Espejos defroster plegables eléctricos",
+            "Luneta trasera con defroster"
+        ],
+        "seguridad": [
+            "Airbags frontales / laterales / cortina",
+            "ESP BOSCH",
+            "Columna dirección colapsable",
+            "Frenos 4 ruedas",
+            "TCS",
+            "HBA",
+            "RMI",
+            "SCM",
+            "HHC",
+            "HDC",
+            "DST",
+            "TPMS",
+            "Sensores estacionamiento traseros (4)",
+            "Cámara 360°",
+            "Cinturones pretensor delanteros",
+            "Cinturones 3 puntas todos ocupantes",
+            "Aviso cinturón delantero y trasero",
+            "ISOFIX (2)",
+            "Seguro niños",
+            "Cierre automático por velocidad",
+            "Aviso puertas abiertas",
+            "Inmovilizador y alarma",
+            "Desbloqueo automático colisión",
+            "Activación señalizadores emergencia",
+            "Corte automático combustible"
+        ],
+        "adas": [
+            "ACC",
+            "LDW",
+            "LKA",
+            "LCK",
+            "Asistente rebase vehículo grande",
+            "BSM",
+            "DOW",
+            "RCW",
+            "Aviso tráfico trasero",
+            "AEB",
+            "Luces altas inteligentes"
+        ]
+    },
+    "colores": [
+        "Naranjo",
+        "Gris",
+        "Negro",
+        "Blanco"
+    ],
+    "garantia": {
+        "general": "6 años o 200.000 km",
+        "motor_transmision": "10 años o 1.000.000 km"
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización a formato estándar por versión única (sin agregar información externa)",
+        "versiones_en_documento": 1
+    }
+}

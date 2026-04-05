@@ -1,0 +1,166 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "EQUINOX EV",
+        "año": null,
+        "versiones": [
+            "LT eAWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LT eAWD": "Motores propulsores eléctricos de 3ra generación"
+        },
+        "cilindrada": {
+            "LT eAWD": null
+        },
+        "potencia_hp": {
+            "LT eAWD": "286"
+        },
+        "potencia_rpm": {
+            "LT eAWD": null
+        },
+        "torque_nm": {
+            "LT eAWD": null
+        },
+        "torque_rpm": {
+            "LT eAWD": null
+        },
+        "combustible": "Vehículo eléctrico",
+        "transmision": {
+            "LT eAWD": null
+        },
+        "traccion": "eAWD"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LT eAWD": "245/55R19 SL 103H"
+        },
+        "rueda_repuesto": "Kit de inflado"
+    },
+    "dimensiones": {
+        "largo_mm": 4844,
+        "ancho_mm": 1920,
+        "alto_mm": 1611,
+        "distancia_ejes_mm": 2954,
+        "despeje_suelo_mm": 193,
+        "peso_bruto_kg": 2850,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rango máximo ciclo EPA (kms)",
+            "LT eAWD": "488"
+        },
+        {
+            "caracteristica": "Potencia kW/Hp",
+            "LT eAWD": "213 / 286"
+        },
+        {
+            "caracteristica": "Batería Ultium de 10 módulos",
+            "LT eAWD": "√"
+        },
+        {
+            "caracteristica": "Cargador de 22kW AC",
+            "LT eAWD": "√"
+        },
+        {
+            "caracteristica": "Carga rápida de hasta 150kW",
+            "LT eAWD": "√"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos, calefaccionados, abatibles eléctricamente y con señalizador",
+            "Rieles en el techo",
+            "Portalón trasero eléctrico, con apertura sin manos",
+            "Sunroof panorámico",
+            "Llantas de aluminio de 19\""
+        ],
+        "interior": [
+            "Interior negro",
+            "Asiento conductor con ajuste eléctrico de 8 posiciones",
+            "Asiento conductor con ajuste lumbar eléctrico",
+            "Asiento pasajero ajustable en 6 posiciones",
+            "Asientos delanteros calefaccionados",
+            "Volante calefaccionado",
+            "Volante con regulación de altura y profundidad",
+            "Apoyabrazos central delantero",
+            "Aire acondicionado digital",
+            "Parasol delantero con espejo y luz de cortesía",
+            "Espejo interior fotocromático",
+            "Clúster de 11\"",
+            "Pantalla touch de 17.7\"",
+            "Aplicaciones de navegación",
+            "Encendido remoto con My Chevrolet APP",
+            "ONSTAR"
+        ],
+        "seguridad": [
+            "Airbags 8",
+            "Sensor de presión de neumáticos (TPMS)",
+            "Asiento piloto con sistema de alertas de seguridad por vibración",
+            "Control crucero adaptativo",
+            "Alerta de colisión frontal (FCA)",
+            "Sensor de retroceso con evasión y mitigación de impacto",
+            "Alerta de tráfico cruzado trasero con frenado",
+            "Alerta de tráfico cruzado (RCTA) con frenado",
+            "Asistente de mantención de carril (retorno óptimo)",
+            "Alerta frontal de peatones y ciclistas",
+            "Alerta frontal de peatones y ciclistas al abrir puertas",
+            "Indicador de distancia de seguimiento",
+            "Identificador de señales de tránsito mejorado",
+            "Detección trasera de peatones",
+            "Sensores de proximidad traseros",
+            "Cámara 360° HD",
+            "Seguridad lateral activa, detección de obstáculos mejorada y asistencia de dirección",
+            "Asistente de enganche",
+            "Encendido automático de luces"
+        ],
+        "tecnologia": [
+            "Conector Tipo 2",
+            "Cordset portable, con conector de red intercambiable"
+        ],
+        "adas": [
+            "Control crucero adaptativo",
+            "Alerta de colisión frontal (FCA)",
+            "Asistente de mantención de carril (retorno óptimo)",
+            "Alerta de tráfico cruzado trasero con frenado",
+            "Detección trasera de peatones",
+            "Cámara 360° HD",
+            "Indicador de distancia de seguimiento",
+            "Identificador de señales de tránsito mejorado",
+            "Alerta frontal de peatones y ciclistas"
+        ]
+    },
+    "colores": [
+        "Negro",
+        "Azul Eléctrico Metálico",
+        "Rojo Metálico",
+        "Gris Metálico",
+        "Blanco Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (ticket negro=presente, -=no presente; texto/valores tal cual)",
+        "fuente": "ft-equinox-ev-chile.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento muestra una sola versión (LT eAWD) con equipamiento marcado como disponible. Donde el PDF no entrega un valor (p. ej., torque, frenos, suspensión, capacidad de remolque), se dejó null."
+    }
+}

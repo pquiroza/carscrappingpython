@@ -1,0 +1,390 @@
+{
+    "vehiculo": {
+        "marca": "Volvo",
+        "modelo": "EX30",
+        "año": null,
+        "versiones": [
+            "CORE E40",
+            "PLUS E60",
+            "ULTRA E60"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CORE E40": null,
+            "PLUS E60": null,
+            "ULTRA E60": null
+        },
+        "cilindrada": {
+            "CORE E40": null,
+            "PLUS E60": null,
+            "ULTRA E60": null
+        },
+        "potencia_hp": {
+            "CORE E40": "272",
+            "PLUS E60": "272",
+            "ULTRA E60": "272"
+        },
+        "potencia_rpm": {
+            "CORE E40": null,
+            "PLUS E60": null,
+            "ULTRA E60": null
+        },
+        "torque_nm": {
+            "CORE E40": "343",
+            "PLUS E60": "343",
+            "ULTRA E60": "343"
+        },
+        "torque_rpm": {
+            "CORE E40": null,
+            "PLUS E60": null,
+            "ULTRA E60": null
+        },
+        "combustible": null,
+        "transmision": {
+            "CORE E40": "Electric Drive Train, 1 veloc.",
+            "PLUS E60": "Electric Drive Train, 1 veloc.",
+            "ULTRA E60": "Electric Drive Train, 1 veloc."
+        },
+        "traccion": "RWD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CORE E40": null,
+            "PLUS E60": null,
+            "ULTRA E60": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad batería (kWh)",
+            "CORE E40": "51 (kWh)",
+            "PLUS E60": "69 (kWh)",
+            "ULTRA E60": "69 (kWh)"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/hr)",
+            "CORE E40": "180",
+            "PLUS E60": "180",
+            "ULTRA E60": "180"
+        },
+        {
+            "caracteristica": "Aceleración de 0 - 100 (seg)",
+            "CORE E40": "5,7",
+            "PLUS E60": "5,3",
+            "ULTRA E60": "5,3"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica (km) hasta*",
+            "CORE E40": "344",
+            "PLUS E60": "480",
+            "ULTRA E60": "480"
+        },
+        {
+            "caracteristica": "* Ciclo WLTP combinado",
+            "CORE E40": null,
+            "PLUS E60": null,
+            "ULTRA E60": null
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras LED activas",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "CORE E40": "A",
+                "PLUS E60": "B",
+                "ULTRA E60": "C"
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Color de techo",
+                "CORE E40": false,
+                "PLUS E60": "Onyx Black",
+                "ULTRA E60": "Onyx Black"
+            },
+            {
+                "caracteristica": "Portalón eléctrico",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico fijo",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Retrovisores retráctiles",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Vidrios tintados",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "A = 18\" 5-spoke Aero",
+                "CORE E40": true,
+                "PLUS E60": false,
+                "ULTRA E60": false
+            },
+            {
+                "caracteristica": "B = 19\" 5-spoke Aero",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": false
+            },
+            {
+                "caracteristica": "C = 20\" 5-spoke Aero",
+                "CORE E40": false,
+                "PLUS E60": false,
+                "ULTRA E60": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "CORE E40": "1 Zona",
+                "PLUS E60": "2 Zonas",
+                "ULTRA E60": "2 Zonas"
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital 12,3\"",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Cargador de smartphone inalámbrico",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Integración Apple Carplay inalámbrico",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "CORE E40": "High Performance Audio",
+                "PLUS E60": "Harman Kardon",
+                "ULTRA E60": "Harman Kardon"
+            },
+            {
+                "caracteristica": "Keyless entry",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Tarjeta inteligente",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Toma corriente 12V en maletero",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Volante deportivo",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Iluminación interior",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Asistente de estacionamiento",
+                "CORE E40": false,
+                "PLUS E60": false,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Sensores estacionamientos delanteros",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Sensores estacionamientos traseros",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento trasera",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": "360°"
+            },
+            {
+                "caracteristica": "Retrovisor interior y exteriores antideslumbrantes",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con soporte lumbar eléctrico",
+                "CORE E40": false,
+                "PLUS E60": false,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Pilot Assist - Conjunto de tecnologías capaces de proporcionar una conducción asistida hasta 130 km/h",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Safe Space Technology - Conjunto de tecnologías de asistencia para tu seguridad.",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Google System - Sistema de infoentretenimiento y conectividad intuitiva, incluye control por voz.",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Clean Zone - Tecnología que filtra impurezas y mejora la calidad del aire.",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Lane Keeping Aid - Ayuda de permanencia en el carril.",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril",
+                "CORE E40": false,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Soporte de Mitigación de colisión delantera",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptative",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            },
+            {
+                "caracteristica": "Volvo on Call",
+                "CORE E40": true,
+                "PLUS E60": true,
+                "ULTRA E60": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            "Airbag delanteros (2) con inflado de dos etapas",
+            "Airbags laterales (2)",
+            "Airbags de Cortinas inflables laterales (2)",
+            "Cinturones de seguridad con pretensores y limitador de carga",
+            "Alarma de colisión trasera",
+            "Estructura interior absorbente de energía ante impacto",
+            "Alerta de distancia y limitador de velocidad",
+            "Cierre electrónico de seguridad para niños",
+            "Safe Space Technology - Detecta ciclistas, peatones y animales grandes; con frenado autónomo",
+            "SIPS - Sistema de protección contra impactos laterales",
+            "WHIPS - Protección contra latigazos en asientos delanteros",
+            "Safety Cage - Cabina de seguridad para pasajeros de acero reforzado",
+            "ABS con EBD - Sistema electrónico de distribución de frenado",
+            "EBA - Sistema electrónico de asistencia de frenado",
+            "ESC - Control electrónico de estabilidad",
+            "HDC - Control de descenso en pendiente",
+            "HSA - Asistente de partida en pendientes",
+            "ISOFIX - Sistema de anclaje para sillas de seguridad de niños",
+            "EBL - Luz de freno parpadeante y advertencia de peligro",
+            "TPMS - Monitoreo de presión de neumáticos"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Volvo (✓=true, -=false/vacío; texto/valores tal cual)",
+        "fuente": "ficha_tecnica_ex30_premios_my26.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyeron: especificaciones técnicas (batería, potencia, torque, velocidad, 0-100, transmisión, tracción, autonomía), equipamiento interior, equipamiento exterior, tecnología y el bloque de Seguridad Estándar."
+    }
+}

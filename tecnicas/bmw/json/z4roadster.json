@@ -1,0 +1,158 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "Z4 Roadster",
+        "año": null,
+        "versiones": [
+            "M40i LCI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "M40i LCI": "6 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "M40i LCI": 2998
+        },
+        "potencia_hp": {
+            "M40i LCI": "387"
+        },
+        "potencia_rpm": {
+            "M40i LCI": "5,800 – 6,500"
+        },
+        "torque_nm": {
+            "M40i LCI": "500"
+        },
+        "torque_rpm": {
+            "M40i LCI": "1,800 – 5,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "M40i LCI": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "M40i LCI": null
+        },
+        "rueda_repuesto": "Kit de reparación de pinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 4324,
+        "ancho_mm": 1864,
+        "alto_mm": 1304,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 114,
+        "peso_bruto_kg": 1570,
+        "capacidad_maletero_lts": "281",
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "M40i LCI": "13.2"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "M40i LCI": "4.1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de reversa",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "BMW Welcome Light Carpet",
+            "Frenos deportivos M azules",
+            "Diferencial deportivo M",
+            "Suspensión adaptativa M",
+            "Llantas de aleación M de rayos dobles aro 19 Jetblack",
+            "Terminaciones negras BMW Individual Shadow Line de brillo intenso con contenido extendido (parrilla doble frontal y tubos de escape negros)",
+            "Capota eléctrica con deflector de viento"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático bizona",
+            "Paquete de iluminación ambiental",
+            "Alfombrillas de velours",
+            "Asientos delanteros deportivos M tipo butaca, eléctricos con memoria y calefaccionados",
+            "Asientos de cuero Vernasca con pespuntado de decoración",
+            "Soporte lumbar en asientos delanteros",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Sistema de acceso sin llaves Comfort Access con apertura y cierre por proximidad",
+            "Volante deportivo de cuero M multifunción",
+            "Terminaciones interiores en aluminio Tetragon",
+            "Tablero de instrumentos en Sensatec"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Kit de reparación de pinchazos",
+            "Indicador de falla en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido surround Harman Kardon (12 altavoces; 408 vatios; 7 canales: 1 altavoz central de tonos agudos en el centro del tablero de instrumentos, 1 altavoz central de tonos medios en el centro del tablero de instrumentos, 2 altavoces de tonos agudos en los triángulos del espejo (con anagrama 'harman/kardon'), 2 altavoces de tonos medios en los revestimientos de puertas delanteras, 2 altavoces de graves centrales detrás de los asientos, 2 altavoces de tonos agudos y 2 altavoces de tonos medios en la pared de separación)",
+            "Conjunto de indicadores compuesto por un cuadro de instrumentos de 10,25\" completamente digital y una pantalla de control de 10,25\" de alta resolución",
+            "BMW Operating System 7 con Widgets variables y configurables que muestran información en tiempo real, función de navegación",
+            "BMW Intelligent Personal Assistant (control por voz natural con el comando \"Hey BMW\")",
+            "Mando táctil en el display de control",
+            "Controlador iDrive táctil con función giratoria y de presión y botones de favoritos",
+            "Preparación para Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone®",
+            "Visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, TuneIn Radio, Audiobooks)"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos",
+            "Luces de freno dinámicas",
+            "Asistente de luces en carretera",
+            "Sensores de lluvia y luz",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero con función de frenado en pendiente",
+            "Función Start-off assistant",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura directa de ficha técnica BMW en texto corrido, manteniendo solo datos explícitos del documento",
+        "fuente": "ficha_tecnica_bmw_z4_roadster_m40i_lci.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información explícita de la ficha. Garantía y mantenimiento informados en el documento: 5 años de mantenciones, 3 años de garantía y asistencia en ruta."
+    }
+}

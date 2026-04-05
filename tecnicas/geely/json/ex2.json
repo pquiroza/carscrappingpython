@@ -1,0 +1,299 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "EX2",
+        "año": 2026,
+        "versiones": [
+            "PRO",
+            "MAX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PRO": "Un motor síncrono de imanes permanentes (PMSM)",
+            "MAX": "Un motor síncrono de imanes permanentes (PMSM)"
+        },
+        "cilindrada": {
+            "PRO": null,
+            "MAX": null
+        },
+        "potencia_hp": {
+            "PRO": "114",
+            "MAX": "114"
+        },
+        "potencia_rpm": {
+            "PRO": null,
+            "MAX": null
+        },
+        "torque_nm": {
+            "PRO": "150",
+            "MAX": "150"
+        },
+        "torque_rpm": {
+            "PRO": null,
+            "MAX": null
+        },
+        "combustible": null,
+        "transmision": {
+            "PRO": "Unidad de propulsión eléctrica 11 en 1",
+            "MAX": "Unidad de propulsión eléctrica 11 en 1"
+        },
+        "traccion": "Trasera (RDW)"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mcpherson",
+        "suspension_trasera": "Multi - Link",
+        "frenos_delanteros": "Ventilados",
+        "frenos_traseros": "Solidos",
+        "freno_estacionamiento": "Electrónico",
+        "neumaticos": {
+            "PRO": "Llanta de acero R15",
+            "MAX": "Llanta aleación R16"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4135,
+        "ancho_mm": 1850,
+        "alto_mm": 1580,
+        "distancia_ejes_mm": 2650,
+        "despeje_suelo_mm": 160,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 375,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (Km / H)",
+            "PRO": "130",
+            "MAX": "130"
+        },
+        {
+            "caracteristica": "Aceleración 0-50",
+            "PRO": "4,6 seg",
+            "MAX": "4,6 seg"
+        },
+        {
+            "caracteristica": "Capacidad batería (kWh)",
+            "PRO": "39,4",
+            "MAX": "39,4"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica pura combinada según el ciclo WLTP (Km)",
+            "PRO": "325",
+            "MAX": "325"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica pura combinada según el ciclo NEDC (Km)",
+            "PRO": "395",
+            "MAX": "395"
+        },
+        {
+            "caracteristica": "Modo manejo",
+            "PRO": "Eco / Normal / Sport",
+            "MAX": "Eco / Normal / Sport"
+        },
+        {
+            "caracteristica": "Duración teórica de la carga de corriente alterna (25 °C 10% ~ 100% estado de carga)",
+            "PRO": "6,5 Hr",
+            "MAX": "6,5 Hr"
+        },
+        {
+            "caracteristica": "Duración teórica de la carga de corriente continua (25 °C 30% ~ 80% estado de carga)",
+            "PRO": "21 Min",
+            "MAX": "21 Min"
+        },
+        {
+            "caracteristica": "Potencia máxima de carga DC",
+            "PRO": "70 Kw",
+            "MAX": "70 Kw"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llanta de acero R15",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Llanta aleación R16",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Color exterior bitono",
+                "PRO": false,
+                "MAX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Espejo interior con ajuste automático de oscurecimiento",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Iluminación ambiental dinámica de 256 colores",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asiento del conductor manuales de 6 posiciones",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Asiento del pasajero delantero eléctrico de 6 posiciones",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto manual de 4 posiciones",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Climatizador Manual",
+                "PRO": true,
+                "MAX": false
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara trasera",
+                "PRO": true,
+                "MAX": false
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control Crucero",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Frenado autonómo de emergencia (AEB)",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Advertencia de salida de carril (LDW)",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Control inteligente de luces altas (IHBC)",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Cámara panoramica 540° (SVM)",
+                "PRO": false,
+                "MAX": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de sonido con 4 altavoces",
+                "PRO": true,
+                "MAX": false
+            },
+            {
+                "caracteristica": "Sistema de sonido con 6 altavoces",
+                "PRO": false,
+                "MAX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "PRO": false,
+                "MAX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros LED econ encendido automático",
+            "Luces diurnas LED",
+            "Luces traseras LED",
+            "Función Follow Me Home",
+            "Manilla automáticas retráctiles",
+            "Neblineros Traseros",
+            "Maletero delantero",
+            "Espejos exteriores calefactados"
+        ],
+        "interior": [
+            "Negro",
+            "Cuero Sintético Perforado",
+            "Panel de instrumentos cubierto de cuero sintético",
+            "Volante multifunción con superficie de microfibra",
+            "Volante con ajuste manual de 2 posiciones",
+            "Alzavidrio eléctrico con función one touch 4 ventanas",
+            "Control a distancia de ventanas",
+            "Asientos traseros abatibles 60:40",
+            "Reposabrazos central trasero y reposacabezas",
+            "Aire condicionado plazas traseras",
+            "Control desde la App para Aire acondicionado",
+            "Cajón de almacenamiento del lado del pasajero",
+            "Asiento de seguridad para niños",
+            "ISO-FIX - Asientos traseros"
+        ],
+        "seguridad": [
+            "Carrocería con deformación programada",
+            "Airbags Frontales",
+            "Airbags Laterales",
+            "Airbags de cortinas para plazas traseras",
+            "Sistema electrónico de control de estabilidad",
+            "Sistema de frenos antibloqueo",
+            "Distribución electrónica de la fuerza de frenado",
+            "Sistema de asistencia de frenado",
+            "Antivuelco electrónico",
+            "Control de asistencia de arranque en pendiente",
+            "Control de descenso de pendientes",
+            "Recordatorio de cinturón de seguridad para los asientos delanteros",
+            "Recordatorio de cinturón de seguridad para los asientos traseros",
+            "Sistema de control de presión de neumáticos (TPMS)",
+            "Sensores de estacionamiento traseros",
+            "Sistema electrónico antirrobo",
+            "Alarma antirrobo",
+            "Cierre automático de puertas en movimiento.",
+            "Kit de emergencia antipinchazo",
+            "El sistema de recuperación de energía de frenado",
+            "Autohold"
+        ],
+        "tecnologia": [
+            "Apertura y arranque sin llave",
+            "Sistema de infoentretenimiento para vehículos FLYME AUTO",
+            "Carplay & Android auto",
+            "Pantalla táctil HD de 14,6\"",
+            "Cuadro de instrumentos LCD de 8,8\"",
+            "Conexión con teléfono inteligente",
+            "Conectividad Bluetooth",
+            "Conexión a red 4G.",
+            "Radio FM",
+            "Puerto USB y tipo C delantero",
+            "Puerto USB trasero",
+            "Carga inteligente programada",
+            "Suministro de carga a dispositivos externos (V2L)",
+            "Suministro de carga a vehículos eléctricos (V2V)"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "FICHA-TECNICA-EX2-2-5-1.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se consolidaron las múltiples tablas del documento en el mismo formato JSON usado anteriormente. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

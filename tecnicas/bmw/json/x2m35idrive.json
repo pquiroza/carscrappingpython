@@ -1,0 +1,168 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X2",
+        "año": null,
+        "versiones": [
+            "M35i xDrive"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "M35i xDrive": "4 cilindros BMW M TwinPower Turbo"
+        },
+        "cilindrada": {
+            "M35i xDrive": 1998
+        },
+        "potencia_hp": {
+            "M35i xDrive": "300"
+        },
+        "potencia_rpm": {
+            "M35i xDrive": "5,750 – 6,500"
+        },
+        "torque_nm": {
+            "M35i xDrive": "400"
+        },
+        "torque_rpm": {
+            "M35i xDrive": "2,000 – 4,500"
+        },
+        "combustible": null,
+        "transmision": {
+            "M35i xDrive": "Automática deportiva de doble embrague de 7 velocidades con levas en el volante"
+        },
+        "traccion": "Tracción total inteligente BMW xDrive"
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "M35i xDrive": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4567,
+        "ancho_mm": 1845,
+        "alto_mm": 1575,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 191,
+        "peso_bruto_kg": 1695,
+        "capacidad_maletero_lts": "560 litros (1,470 litros con asientos abatidos)",
+        "capacidad_estanque_lts": 54,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "M35i xDrive": "5.4"
+        },
+        {
+            "caracteristica": "Rendimiento combinado (km/l)",
+            "M35i xDrive": "12.5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Parking Assistant Plus",
+            "Asistente de estacionamiento automático en paralelo (volante, aceleración, frenos y marchas)",
+            "Asistente de reversa (memoriza últimos 50 m a menos de 35 km/h para retroceder automáticamente en caso de necesitar volver marcha atrás)",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Cámaras 360° Surround View con Top View",
+            "Llantas de aleación M aro 20”",
+            "BMW Welcome Light Carpet",
+            "Paquete deportivo M: Parachoques delanteros y traseros en color carrocería con insertos en negro brillante",
+            "Parrilla frontal en aluminio satinado",
+            "Faldón de diseño especifico M",
+            "Estribos en puertas delanteras con identificación M",
+            "Logos M en exterior y llave M especifica",
+            "Suspensión adaptativa M",
+            "Parrilla iluminada BMW IconicGlow"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Asientos delanteros deportivos tipo butacas BMW M",
+            "Tapiz en combinación Alcantara/Veganza",
+            "Asientos delanteros eléctricos con memoria y calefaccionados",
+            "Operación automática de portón trasero",
+            "Sistema de acceso sin llaves Comfort Access con apertura y cierre por proximidad",
+            "Alfrombrilla de velours",
+            "Paquete de iluminación ambiental",
+            "Espejos exteriores eléctricos abatibles",
+            "Espejos int./ext. Anti-deslumbramiento automáticos",
+            "Volante deportivo M de cuero multifunción",
+            "Pedales con insertos de aluminio M",
+            "Techo panorámico sin apertura",
+            "Molduras en aluminio Hexagon"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Indicador de presión en neumáticos",
+            "Tracción total inteligente BMW xDrive"
+        ],
+        "tecnologia": [
+            "Sistema de sonido Harman Kardon (12 altavoces)",
+            "BMW Live Cockpit Professional",
+            "Pantalla panorámica curva con cuadro de instrumentos de 10,25\" y pantalla CID de 10,7\"",
+            "BMW Operating System 9 con widgets variables y configurables que muestran información en tiempo real",
+            "BMW Intelligent Personal Assistant (control por voz natural mediante el comando \"Hey BMW\")",
+            "Panel de mando táctil en el display de control",
+            "Elementos de mando en el volante multifuncional para el cuadro de instrumentos, audio y teléfono con teclas de marcación",
+            "Sintonizador con recepción de antena Diversity y RDS (radio AM [disponibilidad específica del país] y radio FM)",
+            "Integración del teléfono móvil para usar Apple CarPlay o Android Auto",
+            "Bluetooth con sistema de manos libres",
+            "Navegación con \"Augmented View\" incl. indicaciones de giro, sugerencia de carril, indicación de Puntos de Interés, etc.",
+            "BMW Head-Up Display",
+            "Bandeja para carga inalámbrica de dispositivos móviles"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos",
+            "Asistente de luces en carretera",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero activo con Stop & Go (regulación de distancia con vehículo antecesor)",
+            "Driving Assistant Professional",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera",
+            "Asistente de parada de emergencia"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_all_new_bmw_x2_m35i_xdrive.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

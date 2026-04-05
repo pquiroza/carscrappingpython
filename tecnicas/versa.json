@@ -1,0 +1,349 @@
+{
+  "vehiculo": {
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "versiones": [
+      "SENSE MT",
+      "SENSE CVT",
+      "ADVANCE MT",
+      "EXCLUSIVE CVT"
+    ]
+  },
+  "motor": {
+    "tipo": "1,6",
+    "cilindrada": "4 cilindros",
+    "potencia_hp": "118 / 6.300",
+    "torque_nm": "149 / 4.000",
+    "combustible": "93 octanos o superior",
+    "transmision": "MT5 / CVT",
+    "traccion": "2WD"
+  },
+  "dimensiones": {
+    "ancho_mm": "1.740",
+    "alto_mm": "1.465-1.475",
+    "distancia_ejes_mm": "2.620",
+    "peso_bruto_kg": "1.490-1.533"
+  },
+  "suspension_frenos": {
+    "suspension_delantera": "Independiente tipo Mc Pherson con barra estabilizadora",
+    "suspension_trasera": "Eje semirrigido",
+    "frenos_delanteros": "Disco frontal",
+    "frenos_traseros": "Tambor"
+  },
+  "tabla_comparativa_ruedas": [
+    {
+      "caracteristica": "Llantas",
+      "SENSE MT": "15\" Aluminio",
+      "SENSE CVT": "15\" Aluminio",
+      "ADVANCE MT": "16\" Aluminio",
+      "EXCLUSIVE CVT": "17\" Aluminio"
+    },
+    {
+      "caracteristica": "Neumaticos",
+      "SENSE MT": "195/65 R15",
+      "SENSE CVT": "195/65 R15",
+      "ADVANCE MT": "205/55 R16",
+      "EXCLUSIVE CVT": "205/50 R17"
+    }
+  ],
+  "tabla_comparativa_peso": [
+    {
+      "caracteristica": "Peso neto (kg)",
+      "SENSE MT": "1.090",
+      "SENSE CVT": "1.115",
+      "ADVANCE MT": "1.105",
+      "EXCLUSIVE CVT": "1.148"
+    },
+    {
+      "caracteristica": "Peso bruto (kg)",
+      "SENSE MT": "1.490",
+      "SENSE CVT": "1.533",
+      "ADVANCE MT": "1.490",
+      "EXCLUSIVE CVT": "1.533"
+    },
+    {
+      "caracteristica": "Alto (mm)",
+      "SENSE MT": "1.465",
+      "SENSE CVT": "1.465",
+      "ADVANCE MT": "1.465",
+      "EXCLUSIVE CVT": "1.475"
+    }
+  ],
+  "tabla_comparativa_capacidades": [
+    {
+      "caracteristica": "Capacidad de maletera (lts)",
+      "SENSE MT": "466",
+      "SENSE CVT": "466",
+      "ADVANCE MT": "482",
+      "EXCLUSIVE CVT": "482"
+    }
+  ],
+  "tabla_comparativa_rendimiento": [
+    {
+      "caracteristica": "Ciudad (km/lts)",
+      "SENSE MT": "11,4",
+      "SENSE CVT": "11,5",
+      "ADVANCE MT": "11,4",
+      "EXCLUSIVE CVT": "11,5"
+    },
+    {
+      "caracteristica": "Carretera (km/lts)",
+      "SENSE MT": "19,0",
+      "SENSE CVT": "19,2",
+      "ADVANCE MT": "19,0",
+      "EXCLUSIVE CVT": "19,2"
+    },
+    {
+      "caracteristica": "Mixto (km/lts)",
+      "SENSE MT": "15,2",
+      "SENSE CVT": "15,4",
+      "ADVANCE MT": "15,2",
+      "EXCLUSIVE CVT": "15,4"
+    }
+  ],
+  "equipamiento_diferencial_detallado": {
+    "interior": [
+      {
+        "caracteristica": "Aire acondicionado manual",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Aire acondicionado automatico",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Asientos con tapizado en tela",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Asientos de cuero sintético",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Asiento trasero abatible 60:40",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Asistente de conductor con display 3,5\" (TFT)",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Asistente de conductor con display 7\" a color (TFT)",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Volante con ajuste telescópico y de altura / forrado con cuero",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Cargador inalambrico",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Descansa brazos delantero para conductor",
+        "SENSE MT": false,
+        "SENSE CVT": true,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Sistema de audio con 4 parlantes, pantalla tactil 7\" Android y Carplay + USB + Aux",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Sistema de audio con 4 parlantes, reconocimiento de voz, pantalla tactil 7\" Android y Carplay + USB + Aux",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Sistema de audio con 6 parlantes, reconocimiento de voz, pantalla tactil 8\" Android y Carplay + USB + Aux",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      }
+    ],
+    "exterior": [
+      {
+        "caracteristica": "Antena tipo aleta de tiburón",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Espejos exteriores abatibles recubiertos de plastico con ajuste eléctrico",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Espejos exteriores abatibles de color de la carroceria con ajuste eléctrico",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Espejos exteriores abatibles de color de la carroceria con ajuste eléctrico y señalizador",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Faros con encendido y apagado automatico / Faros de LED con Signature Lamp",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Neblineros",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Llantas de aluminio 15\"",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Llantas de aluminio 16\" (con acabado maquinado)",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Llantas de aluminio 17\" (con acabado maquinado)",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Aleron trasero",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      }
+    ],
+    "tecnologia": [
+      {
+        "caracteristica": "Controles de audio, manos libres (Bluetooth)",
+        "SENSE MT": true,
+        "SENSE CVT": true,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": false
+      },
+      {
+        "caracteristica": "Controles de audio, manos libres (Bluetooth) con reconocimiento de voz",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Alerta de cinturón asiento trasero",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": true,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Alerta de punto ciego (BSW)",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Alerta de trafico cruzado (RCTA)",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      },
+      {
+        "caracteristica": "Monitor de vision periférica (AVM) con detección de objetos en movimiento",
+        "SENSE MT": false,
+        "SENSE CVT": false,
+        "ADVANCE MT": false,
+        "EXCLUSIVE CVT": true
+      }
+    ]
+  },
+  "equipamiento_estandar_todas_versiones": {
+    "interior": [
+      "USB (1 Frontal & 2 Consola Central) & 12V",
+      "Asiento del conductor con ajuste de altura",
+      "Asientos delanteros con cabeceras ajustables",
+      "Consola central con portavasos delanteros (2)",
+      "Cristales eléctricos con apertura de un solo toque (conductor)",
+      "Espejo de vanidad para conductor y pasajero",
+      "Luz en maletera",
+      "Seguros eléctricos con cierre centralizado",
+      "Volante con ajuste telescópico y de altura"
+    ],
+    "exterior": [
+      "Limpiaparabrisas intermitente con velocidad variable",
+      "Llanta de repuesto Temporal"
+    ],
+    "seguridad": [
+      "Sistema de frenado antibloqueo (ABS), distribución eléctronico de frenado (EBD) y asistencia de frenado (BA)",
+      "Recordatorio de cinturones de seguridad (conductor y pasajero)",
+      "Sensores de retroceso (4)",
+      "Botón de encendido y apagado de motor (ligado a llave inteligente)",
+      "Llave inteligente i-Key con función de apertura, cierre de puertas, cajuela y alarma de pánico",
+      "Anclaje ISOFIX",
+      "Alarma a control remoto con inmovilizador",
+      "Asistente de ascenso en pendientes (HSA)",
+      "Airbags frontales, laterales y tipo cortina",
+      "Cinturones de seguridad delanteros retráctiles de 3 puntos (ELR)",
+      "Cinturones de seguridad traseros retráctiles de 3 puntos (3) (ELR)",
+      "Control dinámico vehicular (VDC)",
+      "Control de Velocidad Crucero",
+      "Alerta de colisión frontal (FCW)",
+      "Frenado frontal de emergencia (FEB)"
+    ]
+  }
+}

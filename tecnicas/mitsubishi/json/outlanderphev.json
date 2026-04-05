@@ -1,0 +1,532 @@
+{
+    "vehiculo": {
+        "marca": "MITSUBISHI",
+        "modelo": "OUTLANDER PHEV",
+        "año": null,
+        "versiones": [
+            "OUTLANDER PHEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "OUTLANDER PHEV": "2.4L 16VALV DOHC MIVEC"
+        },
+        "cilindrada": {
+            "OUTLANDER PHEV": 2360
+        },
+        "potencia_hp": {
+            "OUTLANDER PHEV": "96 kW"
+        },
+        "potencia_rpm": {
+            "OUTLANDER PHEV": null
+        },
+        "torque_nm": {
+            "OUTLANDER PHEV": "195"
+        },
+        "torque_rpm": {
+            "OUTLANDER PHEV": null
+        },
+        "combustible": "Gasolina 93",
+        "transmision": {
+            "OUTLANDER PHEV": null
+        },
+        "traccion": {
+            "OUTLANDER PHEV": "S-AWC"
+        }
+    },
+    "direccion": {
+        "tipo": "Cremallera y piñón con asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente MacPherson con barra estabilizadora",
+        "suspension_trasera": "Independiente Multi-link con barra estabilizadora",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": "Eléctrico EPB con Auto hold",
+        "neumaticos": {
+            "OUTLANDER PHEV": "255/45 R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4710,
+        "ancho_mm": 1862,
+        "alto_mm": 1740,
+        "distancia_ejes_mm": 2706,
+        "despeje_suelo_mm": 201,
+        "peso_bruto_kg": 2695,
+        "capacidad_maletero_lts": 637,
+        "capacidad_estanque_lts": 56,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia máxima motor eléctrico (kW)",
+            "OUTLANDER PHEV": "185"
+        },
+        {
+            "caracteristica": "Torque máximo motor eléctrico (Nm)",
+            "OUTLANDER PHEV": "450"
+        },
+        {
+            "caracteristica": "Capacidad de la batería (kWh)",
+            "OUTLANDER PHEV": "20"
+        },
+        {
+            "caracteristica": "Tiempo 30-80% (aprox)",
+            "OUTLANDER PHEV": "38 minutos"
+        },
+        {
+            "caracteristica": "Rendimiento de Combustible Eléctrico (km/kWH)",
+            "OUTLANDER PHEV": "5,7"
+        },
+        {
+            "caracteristica": "Norma de emisiones",
+            "OUTLANDER PHEV": "Euro 6c (Tier3-Bin70)"
+        },
+        {
+            "caracteristica": "Modos de conducción",
+            "OUTLANDER PHEV": "7"
+        },
+        {
+            "caracteristica": "Capacidad máxima de remolque (Kg)",
+            "OUTLANDER PHEV": "680"
+        },
+        {
+            "caracteristica": "Capacidad máxima de carga en el techo (kg)",
+            "OUTLANDER PHEV": "80"
+        },
+        {
+            "caracteristica": "Llantas de aleación (Pulgadas)",
+            "OUTLANDER PHEV": "20”"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces de posición",
+                "OUTLANDER PHEV": "LED"
+            },
+            {
+                "caracteristica": "Luces de circulación diurnas DRL",
+                "OUTLANDER PHEV": "LED"
+            },
+            {
+                "caracteristica": "Frontales",
+                "OUTLANDER PHEV": "LED"
+            },
+            {
+                "caracteristica": "Traseras Combinadas",
+                "OUTLANDER PHEV": "LED"
+            },
+            {
+                "caracteristica": "Señalizadores",
+                "OUTLANDER PHEV": "LED"
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "OUTLANDER PHEV": "LED"
+            },
+            {
+                "caracteristica": "Ajuste nivelación",
+                "OUTLANDER PHEV": "Automático"
+            },
+            {
+                "caracteristica": "Lava faros",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Luz exterior de bienvenida/regreso a casa",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Ajuste eléctrico (espejos exteriores)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Plegado y desplegado eléctrico (espejos exteriores)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Defroster (espejos exteriores)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Con luz de viraje (espejos exteriores)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Inclinación automática al retroceder (espejos exteriores)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Techo panorámico con Sunroof",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "OUTLANDER PHEV": "360°"
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero y trasero",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apertura eléctrica portalón trasero - función manos libres",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Vidrios delanteros dobles anti ruido",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Parabrisas con reducción de rayos UV",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Desempañador de ventana trasera con timer",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Spoiler",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aluminio",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Manillas exteriores de las puertas color de la carrocería",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Máscara frontal negro brillante",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Pilar A-B-C Black",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Antena Tiburón",
+                "OUTLANDER PHEV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio pantalla touch multimedia con Bluetooth° (Pulgadas)",
+                "OUTLANDER PHEV": "9”"
+            },
+            {
+                "caracteristica": "Apple CarPlay® inalámbrico & Google Android Auto°",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "OUTLANDER PHEV": "6"
+            },
+            {
+                "caracteristica": "Tablero de instrumento digital (Pulgadas)",
+                "OUTLANDER PHEV": "12.3”"
+            },
+            {
+                "caracteristica": "Proyección de tablero de instrumentos en parabrisas",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Navegador satelital (GPS Nativo)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento eléctrico EPB con Auto hold",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apertura a distancia (Botón control)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apertura sin llave (Botón manilla) + Encendido sin llaves (Botón start/stop)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Volante multifunción (llamadas y control de audio) regulable en altura y profundidad",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Volante y palanca de transmisión en eco cuero",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Paddle Freno regenerativo",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Acabado panel central de transmisión (negro piano, tipo fibra de carbono)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Porta lentes",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Puerto USB delantero",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Puerto USB trasero",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Alza vidrios eléctricos con función one touch",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Iluminación ambiental",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "OUTLANDER PHEV": "Tri-zona"
+            },
+            {
+                "caracteristica": "Ventilación trasera",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con sensor de lluvia",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Encendido automático de luces",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apagado automático de luces",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Material de asientos y color",
+                "OUTLANDER PHEV": "Eco cuero negro"
+            },
+            {
+                "caracteristica": "Asientos delanteros con calefacción",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asientos segunda fila abatibles 40:20:40",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Segunda corrida de asientos con función deslizable y reclinable",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apoya brazos central delantero con porta vasos",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apoya brazos central trasero con porta vasos",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Tercera corrida de asientos",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico 8 posiciones",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asiento conductor con memoria",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Parasol con espejo de cortesía e iluminación (piloto/copiloto)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Cubre maleta",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Guantera iluminada",
+                "OUTLANDER PHEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Carrocería con deformación programada RISE Body",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Airbags dobles delanteros (2)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Airbags dobles laterales delanteros y traseros (4)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Airbags dobles cortina (2)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Airbags dobles rodilla (2)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Airbags central delantero (1)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asiento trasero con anclajes de butaca de seguridad infantil ISOFIX x2",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Cinturón de seguridad de 3 puntas todas las plazas",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros con pre tensor",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Recordatorio de cinturón en todas las plazas",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de frenado antibloqueo ABS con distribución electrónica EBD",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Control activo de estabilidad y Tracción ASTC",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asistente de estabilidad para el remolque TSA",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asistente de frenado de emergencia BA",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Asistente de partida en pendiente HSA",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Apoya cabeza para 7 usuarios",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Monitor presión neumáticos TPMS",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de bloqueo de aceleración al frenar",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Pedal de freno retráctil",
+                "OUTLANDER PHEV": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Super All-Wheel Control S-AWC",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Control Activo de Derrape AYC",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de mitigación de aceleración errónea UMS",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Recordatorio de descanso",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Alerta de atención al conductor DAA",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Sistema de mitigación de colisión frontal FCM",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero RCTA",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Advertencia de Punto ciego BSW con asistencia de cambio de carril LCA (luz testigo + sonido)",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Señal de frenado de emergencia ESS",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril LDW",
+                "OUTLANDER PHEV": true
+            },
+            {
+                "caracteristica": "Control de descenso HDC",
+                "OUTLANDER PHEV": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Colores: Blanco Diamante",
+            "Colores: Plata",
+            "Colores: Gris Grafito",
+            "Colores: Azul Metálico"
+        ],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Diamante",
+        "Gris Grafito",
+        "Plata",
+        "Azul Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura de tablas ficha técnica Mitsubishi (ticket verde=true, x roja=false; cuando hay una sola columna se interpreta como común a todas las versiones; texto/valores tal cual)",
+        "fuente": "ficha-outlander-phev-v4.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El PDF muestra columnas únicas para OUTLANDER PHEV (equipamiento común). En 'Tren motriz' la potencia del motor de combustión aparece en kW (96) y no se indica rpm; se deja 'potencia_rpm' en null para no inventar. Tampoco se muestra el tipo de transmisión en la tabla, por lo que se deja en null."
+    }
+}

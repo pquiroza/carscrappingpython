@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLA AMG",
+        "año": null,
+        "versiones": [
+            "GLA 35 AMG 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLA 35 AMG 4MATIC": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "GLA 35 AMG 4MATIC": 1991
+        },
+        "potencia_hp": {
+            "GLA 35 AMG 4MATIC": "306 CV (+14CV)"
+        },
+        "potencia_rpm": {
+            "GLA 35 AMG 4MATIC": null
+        },
+        "torque_nm": {
+            "GLA 35 AMG 4MATIC": "400 Nm (+150Nm)"
+        },
+        "torque_rpm": {
+            "GLA 35 AMG 4MATIC": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "GLA 35 AMG 4MATIC": "Integral / AMG SPEEDSHIFT DT 8G"
+        },
+        "traccion": {
+            "GLA 35 AMG 4MATIC": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLA 35 AMG 4MATIC": "255/40 R20"
+        },
+        "rueda_repuesto": "Gel hermetizante Tirefit"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 435,
+        "capacidad_estanque_lts": 51,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLA 35 AMG 4MATIC": "12,9 Km/L"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLA 35 AMG 4MATIC": "250 Km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLA 35 AMG 4MATIC": "5,2 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "GLA 35 AMG 4MATIC": "Night Package AMG"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "GLA 35 AMG 4MATIC": "AMG de 20\" y 5 radios dobles color negro mate"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "GLA 35 AMG 4MATIC": "255/40 R20"
+            },
+            {
+                "caracteristica": "Luces LED HIGH PERFORMANCE",
+                "GLA 35 AMG 4MATIC": "Incluye luces de carretera automáticas"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "GLA 35 AMG 4MATIC": "Incluye barras longitudinales"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "GLA 35 AMG 4MATIC": "Cuero ARTICO negro"
+            },
+            {
+                "caracteristica": "Volante",
+                "GLA 35 AMG 4MATIC": "AMG Performance en napa"
+            },
+            {
+                "caracteristica": "Moldura",
+                "GLA 35 AMG 4MATIC": "De aluminio claro con rectificado longitudinal"
+            },
+            {
+                "caracteristica": "Asientos deportivos",
+                "GLA 35 AMG 4MATIC": "Con ajuste eléctrico y calefactados"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "GLA 35 AMG 4MATIC": "Automática de 2 zonas"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie (incluye windowbags+Airbag de rodillas)",
+                "GLA 35 AMG 4MATIC": true
+            },
+            {
+                "caracteristica": "Gel hermetizante Tirefit",
+                "GLA 35 AMG 4MATIC": "Incluye compresor inflado de neumáticos"
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "GLA 35 AMG 4MATIC": "Reconocer vehículos circulando o detenidos en la zona de peligro"
+            },
+            {
+                "caracteristica": "Paquete KEYLESS GO",
+                "GLA 35 AMG 4MATIC": "Incluye acceso al habitáculo Keyless y cierre de confort para maletero"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara marcha atrás",
+                "GLA 35 AMG 4MATIC": "Incluye ayuda activa para aparcar incluyendo PARKTRONIC"
+            },
+            {
+                "caracteristica": "Tren de rodaje",
+                "GLA 35 AMG 4MATIC": "AMG RIDE CONTROL"
+            },
+            {
+                "caracteristica": "ATTENTION ASSIST",
+                "GLA 35 AMG 4MATIC": "Cuando sistema detecta signos de cansancio, propone realizar pausa de descanso"
+            },
+            {
+                "caracteristica": "Protección GUARD 360°",
+                "GLA 35 AMG 4MATIC": "Incluye alarma y sensores volumétricos"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "GLA 35 AMG 4MATIC": "Advertencia de una posible colisión con una señal acústica y visual para los laterales"
+            },
+            {
+                "caracteristica": "Control de presión de neumáticos",
+                "GLA 35 AMG 4MATIC": "Supervisión de la presión de neumáticos y advertencia en caso de insuficiencia"
+            },
+            {
+                "caracteristica": "Función HOLD",
+                "GLA 35 AMG 4MATIC": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLA 35 AMG 4MATIC": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLA 35 AMG 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos completamente digital",
+                "GLA 35 AMG 4MATIC": "10,25\""
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "GLA 35 AMG 4MATIC": "10,25\""
+            },
+            {
+                "caracteristica": "Sistema de sonido surround Burmester®",
+                "GLA 35 AMG 4MATIC": "12 altavoces y una potencia total de 590 vatios"
+            },
+            {
+                "caracteristica": "Integración Smartphone",
+                "GLA 35 AMG 4MATIC": "Apple CarPlay / Android Auto"
+            },
+            {
+                "caracteristica": "Carga inalámbrica delante",
+                "GLA 35 AMG 4MATIC": true
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles eléctricamente",
+                "GLA 35 AMG 4MATIC": "Incluye antideslumbramiento automático interior e izquierdo"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente",
+                "GLA 35 AMG 4MATIC": "64 colores a escoger y 10 conceptos cromáticos"
+            },
+            {
+                "caracteristica": "Personalización de manejo AMG",
+                "GLA 35 AMG 4MATIC": "Regulación del tren de rodaje, ESP y programas de conducción"
+            },
+            {
+                "caracteristica": "Navegación por disco duro",
+                "GLA 35 AMG 4MATIC": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz GLA 35 AMG (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha_Técnica_GLA 35 AMG_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior."
+    }
+}

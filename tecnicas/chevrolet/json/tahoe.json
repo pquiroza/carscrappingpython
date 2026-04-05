@@ -1,0 +1,238 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "TAHOE",
+        "año": 2026,
+        "versiones": [
+            "TAHOE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "TAHOE": "5.3L V8 EcoTec3 Dynamic Fuel Management (DFM) Inyección directa (DI), Apertura de Válvulas Variable (VVT)"
+        },
+        "cilindrada": {
+            "TAHOE": "5.3L"
+        },
+        "potencia_hp": {
+            "TAHOE": "355"
+        },
+        "potencia_rpm": {
+            "TAHOE": "5600"
+        },
+        "torque_nm": {
+            "TAHOE": "518"
+        },
+        "torque_rpm": {
+            "TAHOE": "4100"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "TAHOE": "Automática de 10 velocidades"
+        },
+        "traccion": {
+            "TAHOE": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (EPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Independiente Multilink",
+        "frenos_delanteros": "Discos 17'' Duralife®",
+        "frenos_traseros": "Discos 17'' Duralife®",
+        "freno_estacionamiento": "Freno de Mano eléctrico",
+        "neumaticos": {
+            "TAHOE": "All Terrain 275/60R20"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5351,
+        "ancho_mm": 2058,
+        "alto_mm": 1927,
+        "distancia_ejes_mm": 3071,
+        "despeje_suelo_mm": 216,
+        "peso_bruto_kg": 3357,
+        "capacidad_maletero_lts": "3.476 / 2.052 / 722",
+        "capacidad_estanque_lts": 91,
+        "numero_pasajeros": 8
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Ángulo de ataque (°)",
+            "TAHOE": "22,7"
+        },
+        {
+            "caracteristica": "Ángulo de salida (°)",
+            "TAHOE": "19,5"
+        },
+        {
+            "caracteristica": "Peso neto vehicular (kg)",
+            "TAHOE": "2.627"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "TAHOE": "3.357"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "TAHOE": "730"
+        },
+        {
+            "caracteristica": "Capacidad maletero (lts) detrás de primera fila",
+            "TAHOE": "3.476"
+        },
+        {
+            "caracteristica": "Capacidad maletero (lts) detrás de segunda fila",
+            "TAHOE": "2.052"
+        },
+        {
+            "caracteristica": "Capacidad maletero (lts) detrás de tercera fila",
+            "TAHOE": "722"
+        },
+        {
+            "caracteristica": "Capacidad de remolque (kg)",
+            "TAHOE": "3737"
+        },
+        {
+            "caracteristica": "Tanque de combustible (lts)",
+            "TAHOE": "91"
+        },
+        {
+            "caracteristica": "Número de ocupantes",
+            "TAHOE": "8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luz de posicionamiento DRL LED Dinámicos",
+            "Faros delanteros proyector LED",
+            "Faros delanteros Intellibeam",
+            "Faros traseros LED",
+            "Espejos exteriores eléctricos, calefaccionados y con señalizador",
+            "Espejos exteriores abatibles eléctricamente",
+            "Espejos exteriores con memoria configurable",
+            "Sunroof panorámico eléctrico",
+            "Barras techo negras",
+            "Spoiler trasero con tercera luz de freno",
+            "Sensor de lluvia con encendido automático",
+            "Desempañador de luneta trasera",
+            "Limpiador de camara de retroceso",
+            "Doble gancho de tiro rojo",
+            "Protector inferior de radiador, motor y transfer",
+            "Pisadera exterior fija",
+            "Manijas exteriores bodycolor"
+        ],
+        "interior": [
+            "Aire acondicionado con control Tri-Zona",
+            "Salidas de aire acondicionado para todos los ocupantes",
+            "Control Multimedia al volante",
+            "Múltiples puntos de conexión y carga 6 USB-C y 2 USB-A",
+            "Sistema de audio Premium BOSE ® - 10 Parlantes con amplificador surround",
+            "Pantalla Cluster central de 11\" avanzada a color",
+            "Velocidad crucero adaptativo",
+            "Asientos delanteros tipo butaca forrados en EcoCuero",
+            "Asiento Conductor con ajuste eléctrico de 8 posiciones",
+            "Asiento Conductor con ajuste lumbar eléctrico de 2 posiciones",
+            "Asiento Conductor con memoria configurable",
+            "Asiento Pasajero con ajuste eléctrico de 8 posiciones",
+            "Asiento pasajero con ajuste lumbar eléctrico de 2 posiciones",
+            "Asiento conductor y pasajero calefaccionado",
+            "Asiento segunda fila tipo banca forrada en EcoCuero",
+            "Asiento segunda fila reclinable y abatible eléctricamente",
+            "Asiento segunda fila calefaccionados",
+            "Asiento tercera fila tipo banca forrada en EcoCuero",
+            "Asiento tercera fila reclinable y abatible eléctricamente",
+            "Volante forrado en EcoCuero con paddles shift",
+            "Volante con calefacción",
+            "Volante con ajuste en altura y profundidad",
+            "Apertura portalón trasero eléctrica con altura configurable",
+            "Apertura portalón trasero con control remoto",
+            "Apertura ventana de portalón trasero eléctrico",
+            "Apertura ventana de portalón trasero con control remoto",
+            "Alza vidrios eléctricos con Express Up/Down en todas las ventanas",
+            "Apertura y Cierre de ventanas con control remoto",
+            "Smart Key con apertura de puertas",
+            "Encendido remoto de motor desde la llave.",
+            "Cierre centralizado con mando a distancia",
+            "Espejo retrovisor interior fotocromático con opcion de video",
+            "Parasol delantero con espejo y luz de cortesía",
+            "Manillas de asistencia de acceso en segunda fila",
+            "Receptáculo eléctrico de 230V en segunda fila y en maletero"
+        ],
+        "seguridad": [
+            "Tecnología OnStar ®",
+            "N° de Airbags 7",
+            "Frenos de disco en 4 ruedas con ABS + EBD",
+            "Asistente de frenado hidráulico (HBA)",
+            "Control de Estabilidad (ESC)",
+            "Control de Tracción (TCS)",
+            "Asistente de arranque en pendiente (HSA)",
+            "Control de descenso (HDC)",
+            "Control de remolque",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Freno de Mano eléctrico",
+            "Sistema de control de tráiler",
+            "Freno integrado para tráiler",
+            "Indicador líquido de freno",
+            "Apoya cabeza con ajuste de altura en todos los asientos",
+            "Cinturón de seguridad de 3 puntas en todos los asientos",
+            "Zona de deformación programada",
+            "Sistema inmovilizador antirrobo",
+            "TOP TETHER",
+            "ISOFIX",
+            "Sensor de estacionamiento Trasero",
+            "Sensor de estacionamiento Delantero"
+        ],
+        "tecnologia": [
+            "WIFI 5G LTE",
+            "Pantalla MyLink 17.7'' FHD",
+            "Conectividad Apple Car Play & Android Auto",
+            "Conectividad inalámbrica de celular en pantalla",
+            "Cargador de celular inalámbrico",
+            "Bluetooth® conectividad manos libres para teléfonos y audio streaming",
+            "Sistema de reconocimiento de voz",
+            "Botón de encendido START/STOP",
+            "Cámara de retroceso FHD - 360° View",
+            "Cámara de retroceso con líneas guías y múltiples visualizaciones",
+            "Sistema de infoentretenimiento con Google Integrado",
+            "Recuperación vehicular en caso de robo",
+            "Respuesta automática en caso de colisión",
+            "Asistencia en ruta",
+            "Servicio de acompañamiento seguro",
+            "MyChevrolet App",
+            "Servicios de conectividad y entretenimiento"
+        ],
+        "adas": [
+            "Asistente indicador de distancia",
+            "Alerta de colisión frontal",
+            "Frenado automático de baja y alta velocidad",
+            "Frenado automático en reversa",
+            "Detector delantero de peatón y ciclista",
+            "Detector de peatón trasero",
+            "Detector lateral de peatones, ciclistas y vehículos para apertura de puertas",
+            "Asistente de estacionamiento automático con IA",
+            "Asistente de permanencia en el carril",
+            "Asistente de deteccion y evación de obstaculos",
+            "Sistema de detección de punto ciego",
+            "Sistema de detección de tráfico cruzado"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (● negro=presente, ○ blanco/vacío=no presente; texto/valores tal cual)",
+        "fuente": "tahoe-cl-ft-2026.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento muestra una sola configuración de Tahoe y listas de especificaciones/equipamiento marcadas como incorporado. La capacidad de maletero se dejó como string en el orden del PDF: detrás de primera / segunda / tercera fila."
+    }
+}

@@ -1,0 +1,445 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "T60 DX",
+        "año": null,
+        "versiones": [
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT",
+            "4X2_DX_6MT",
+            "4X2_DX_PLUS_6MT",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6",
+            "4X4_DX_6MT",
+            "4X4_DX_PLUS_6MT",
+            "4X4_ANCAP_6MT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "SAIC D20 TURBO",
+            "4X2_DX_6MT": "SAIC D20 TURBO",
+            "4X2_DX_PLUS_6MT": "SAIC D20 TURBO",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "SAIC D20 TURBO",
+            "4X4_DX_6MT": "SAIC D20 TURBO",
+            "4X4_DX_PLUS_6MT": "SAIC D20 TURBO",
+            "4X4_ANCAP_6MT": "SAIC D20 TURBO"
+        },
+        "cilindrada": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": 1.996,
+            "4X2_DX_6MT": 1.996,
+            "4X2_DX_PLUS_6MT": 1.996,
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": 1.996,
+            "4X4_DX_6MT": 1.996,
+            "4X4_DX_PLUS_6MT": 1.996,
+            "4X4_ANCAP_6MT": 1.996
+        },
+        "potencia_hp": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "163",
+            "4X2_DX_6MT": "163",
+            "4X2_DX_PLUS_6MT": "163",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "163",
+            "4X4_DX_6MT": "163",
+            "4X4_DX_PLUS_6MT": "163",
+            "4X4_ANCAP_6MT": "163"
+        },
+        "potencia_rpm": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": null,
+            "4X2_DX_6MT": null,
+            "4X2_DX_PLUS_6MT": null,
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": null,
+            "4X4_DX_6MT": null,
+            "4X4_DX_PLUS_6MT": null,
+            "4X4_ANCAP_6MT": null
+        },
+        "torque_nm": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "400",
+            "4X2_DX_6MT": "400",
+            "4X2_DX_PLUS_6MT": "400",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "400",
+            "4X4_DX_6MT": "400",
+            "4X4_DX_PLUS_6MT": "400",
+            "4X4_ANCAP_6MT": "400"
+        },
+        "torque_rpm": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": null,
+            "4X2_DX_6MT": null,
+            "4X2_DX_PLUS_6MT": null,
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": null,
+            "4X4_DX_6MT": null,
+            "4X4_DX_PLUS_6MT": null,
+            "4X4_ANCAP_6MT": null
+        },
+        "combustible": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "Diesel",
+            "4X2_DX_6MT": "Diesel",
+            "4X2_DX_PLUS_6MT": "Diesel",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "Diesel",
+            "4X4_DX_6MT": "Diesel",
+            "4X4_DX_PLUS_6MT": "Diesel",
+            "4X4_ANCAP_6MT": "Diesel"
+        },
+        "sistema_alimentacion": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": null,
+            "4X2_DX_6MT": null,
+            "4X2_DX_PLUS_6MT": null,
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": null,
+            "4X4_DX_6MT": null,
+            "4X4_DX_PLUS_6MT": null,
+            "4X4_ANCAP_6MT": null
+        },
+        "norma_emisiones": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "Euro 6C",
+            "4X2_DX_6MT": "Euro 6C",
+            "4X2_DX_PLUS_6MT": "Euro 6C",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "Euro 6C",
+            "4X4_DX_6MT": "Euro 6C",
+            "4X4_DX_PLUS_6MT": "Euro 6C",
+            "4X4_ANCAP_6MT": "Euro 6C"
+        },
+        "transmision": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "Mecánica 6 velocidades",
+            "4X2_DX_6MT": "Mecánica 6 velocidades",
+            "4X2_DX_PLUS_6MT": "Mecánica 6 velocidades",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "Mecánica 6 velocidades",
+            "4X4_DX_6MT": "Mecánica 6 velocidades",
+            "4X4_DX_PLUS_6MT": "Mecánica 6 velocidades",
+            "4X4_ANCAP_6MT": "Mecánica 6 velocidades"
+        },
+        "traccion": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "4X2",
+            "4X2_DX_6MT": "4X2",
+            "4X2_DX_PLUS_6MT": "4X2",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "4X4",
+            "4X4_DX_6MT": "4X4",
+            "4X4_DX_PLUS_6MT": "4X4",
+            "4X4_ANCAP_6MT": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": "Hidráulica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Ballestas",
+        "frenos_delanteros": "Disco (en 4 ruedas)",
+        "frenos_traseros": "Disco (en 4 ruedas)",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "245/70 R16",
+            "4X2_DX_6MT": "245/70 R16",
+            "4X2_DX_PLUS_6MT": "245/70 R16",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "245/70 R16",
+            "4X4_DX_6MT": "245/70 R16 AT",
+            "4X4_DX_PLUS_6MT": "245/70 R16 AT",
+            "4X4_ANCAP_6MT": "245/70 R16 AT"
+        },
+        "rueda_repuesto": {
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "245/70 R16",
+            "4X2_DX_6MT": "245/70 R16",
+            "4X2_DX_PLUS_6MT": "245/70 R16",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "245/70 R16",
+            "4X4_DX_6MT": "245/70 R16 AT",
+            "4X4_DX_PLUS_6MT": "245/70 R16 AT",
+            "4X4_ANCAP_6MT": "245/70 R16 AT"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 5365,
+        "ancho_mm": 1900,
+        "alto_mm": 1809,
+        "distancia_ejes_mm": 3155,
+        "numero_pasajeros": null,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de arrastre (kg) (carro con frenos)",
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "3000",
+            "4X2_DX_6MT": "3000",
+            "4X2_DX_PLUS_6MT": "3000",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "3000",
+            "4X4_DX_6MT": "3000",
+            "4X4_DX_PLUS_6MT": "3000",
+            "4X4_ANCAP_6MT": "3000"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "1210",
+            "4X2_DX_6MT": "800",
+            "4X2_DX_PLUS_6MT": "1110",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "1170",
+            "4X4_DX_6MT": "800",
+            "4X4_DX_PLUS_6MT": "1050",
+            "4X4_ANCAP_6MT": "800"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "3000",
+            "4X2_DX_6MT": "2850",
+            "4X2_DX_PLUS_6MT": "3000",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "3050",
+            "4X4_DX_6MT": "3000",
+            "4X4_DX_PLUS_6MT": "3050",
+            "4X4_ANCAP_6MT": "3000"
+        },
+        {
+            "caracteristica": "Asientos",
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "2",
+            "4X2_DX_6MT": "5",
+            "4X2_DX_PLUS_6MT": "5",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "2",
+            "4X4_DX_6MT": "5",
+            "4X4_DX_PLUS_6MT": "5",
+            "4X4_ANCAP_6MT": "5"
+        },
+        {
+            "caracteristica": "Puertas",
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "2",
+            "4X2_DX_6MT": "4",
+            "4X2_DX_PLUS_6MT": "4",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "2",
+            "4X4_DX_6MT": "4",
+            "4X4_DX_PLUS_6MT": "4",
+            "4X4_ANCAP_6MT": "4"
+        },
+        {
+            "caracteristica": "Despeje mínimo del suelo (mm)",
+            "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "215",
+            "4X2_DX_6MT": "215",
+            "4X2_DX_PLUS_6MT": "215",
+            "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "215",
+            "4X4_DX_6MT": "215",
+            "4X4_DX_PLUS_6MT": "215",
+            "4X4_ANCAP_6MT": "215"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores con ajuste eléctrico",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": true,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": true,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": true,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": true,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Manilla portalon con cerradura",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": true,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": true,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": true,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": true,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Iluminación exterior frontal",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "Halógena",
+                "4X2_DX_6MT": "Halógena",
+                "4X2_DX_PLUS_6MT": "Halógena",
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "Halógena",
+                "4X4_DX_6MT": "Halógena",
+                "4X4_DX_PLUS_6MT": "Halógena",
+                "4X4_ANCAP_6MT": "LED"
+            },
+            {
+                "caracteristica": "Iluminación exterior trasera",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "Halógena",
+                "4X2_DX_6MT": "Halógena",
+                "4X2_DX_PLUS_6MT": "Halógena",
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "Halógena",
+                "4X4_DX_6MT": "Halógena",
+                "4X4_DX_PLUS_6MT": "Halógena",
+                "4X4_ANCAP_6MT": "LED"
+            },
+            {
+                "caracteristica": "Iluminación LED diurna",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero automático",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Indicador de Ad Blue",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "Digital",
+                "4X2_DX_6MT": "Testigo",
+                "4X2_DX_PLUS_6MT": "Digital",
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "Digital",
+                "4X4_DX_6MT": "Testigo",
+                "4X4_DX_PLUS_6MT": "Digital",
+                "4X4_ANCAP_6MT": "Digital"
+            },
+            {
+                "caracteristica": "Radio MP3 Bluetooth",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": true,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": true,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": false
+            },
+            {
+                "caracteristica": "Radio Touchscreen 10,25\"",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": true,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": true,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": true,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": true,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Conectividad Apple CarPlay / Android Auto",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": true,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": true,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": true,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": true,
+                "4X4_ANCAP_6MT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Alarma de cambio de carril (LDW)",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Monitor de fatiga del conductor",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Sistema de protección antivuelco",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": true,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": true,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": true,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": true,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos (TPMS)",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": false,
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": false,
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": false,
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": false,
+                "4X4_ANCAP_6MT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "CABINA_SIMPLE_4X2_DX_PLUS_6MT": "SI - HD",
+                "4X2_DX_6MT": false,
+                "4X2_DX_PLUS_6MT": "SI - HD",
+                "CABINA_SIMPLE_4X4_DX_PLUS_6MT_E6": "SI - HD",
+                "4X4_DX_6MT": false,
+                "4X4_DX_PLUS_6MT": "SI - HD",
+                "4X4_ANCAP_6MT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Barra trasera protectora de carga",
+            "Neblineros traseros",
+            "Ganchos de carga (Interiores y exteriores)"
+        ],
+        "interior": [
+            "Regulador de luces altas",
+            "Volante multifunción",
+            "Volante ajustable en altura",
+            "Ajuste asiento conductor (Manual 6 posiciones)",
+            "Ajuste asiento copiloto (Manual 4 posiciones)",
+            "Tapiz de asientos (Tela)",
+            "Computador a bordo",
+            "Llave con control remoto",
+            "Aire acondicionado",
+            "Parlantes (4)"
+        ],
+        "seguridad": [
+            "Control crucero",
+            "Asistente de inicio en pendiente",
+            "Control de descenso",
+            "Sistema antibloqueo de frenos (ABS)",
+            "Asistente de frenado de emergencia (EBA)",
+            "Control de estabilidad (ESP)",
+            "Airbags frontales",
+            "Sensores de estacionamiento (Traseros)",
+            "Cinturones de seguridad con pretensor",
+            "Sistema para protección de niños (ISOFIX)",
+            "Cierre centralizado",
+            "Inmovilizador"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; columna única=aplica a todas las versiones).",
+        "fuente": "MAXUS_FT T60 DX (1).pdf",
+        "versiones_en_documento": 7,
+        "notas": null
+    }
+}

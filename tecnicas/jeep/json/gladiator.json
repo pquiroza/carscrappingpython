@@ -1,0 +1,128 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Gladiator",
+        "año": null,
+        "versiones": [
+            "RUBICON"
+        ]
+    },
+    "motor": {
+        "tipo": "3.6L V6 24V VVT",
+        "cilindrada": "3.604 cc",
+        "disposicion_cilindros": "6 cilindros en V (60°)",
+        "potencia_hp": "285 HP",
+        "potencia_rpm": "6400 rpm",
+        "torque_nm": "353 Nm",
+        "torque_rpm": "4400 rpm",
+        "combustible": "Gasolina",
+        "transmision": "Automática 8 velocidades",
+        "traccion": "Rock-Trac HD Full Time 4WD (relación final 4.10)"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida hidráulicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Eje rígido con resortes de espirales, brazos tensores de suspensión superior e inferior, barra estabilizadora y amortiguadores heavy duty",
+        "suspension_trasera": "Eje rígido con ruedas semi independientes, resortes tipo ballesta, amortiguadores heavy duty, brazos oscilantes longitudinales y barra",
+        "neumaticos": "255/75R17",
+        "rueda_repuesto": "Tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 5539,
+        "ancho_mm": 1875,
+        "alto_mm": 1907,
+        "distancia_ejes_mm": 3487,
+        "despeje_suelo_mm": 283,
+        "peso_bruto_kg": 2835,
+        "peso_neto_kg": 2290,
+        "capacidad_carga_max_kg": 544,
+        "capacidad_remolque_max_kg": 3175,
+        "capacidad_estanque_lts": 83.5,
+        "largo_pickup_mm": 1531,
+        "ancho_entre_paredes_mm": 1442,
+        "ancho_entre_ruedas_mm": 1137,
+        "alto_pickup_mm": 861
+    },
+    "tabla_comparativa_ruedas": [],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {},
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Argollas para amarre de carga",
+            "Asiento trasero plegable 60/40",
+            "Controles de audio montados en el volante",
+            "Espejo retrovisor con atenuación automática",
+            "Pantalla TFT 7.0\" en tablero",
+            "Pantalla control presión neumáticos",
+            "Sistema alerta presión inflado seleccionable",
+            "Ventana trasera deslizable con desempañador",
+            "Volante ajustable en altura y profundidad tapizado en cuero",
+            "Pomo palanca cambios y manilla freno estacionamiento en cuero",
+            "Iluminación interior LED ambiental",
+            "Luz trabajo compartimiento consola central",
+            "Aire acondicionado automático con filtrado cabina",
+            "Asientos individuales tela prem respaldo bajo",
+            "Visera con espejo de cortesía iluminado"
+        ],
+        "seguridad": [
+            "6 airbags",
+            "Control crucero adaptativo (ACC)",
+            "Sensor estacionamiento ParkSense trasero",
+            "Amortiguación balanceo remolque (TSD)",
+            "ISOFIX",
+            "Asistente partida en pendiente (HSA)",
+            "Cámara retroceso ParkView",
+            "Mitigación electrónica de vuelcos (ERM)",
+            "Cierre centralizado sensible a la velocidad",
+            "Sistema inmovilizador Sentry Key",
+            "Control electrónico estabilidad (ESC)",
+            "Control de velocidades Selec-Speed",
+            "Suspensión alto desempeño"
+        ],
+        "tecnologia": [
+            "Batería AGM 650 AMP",
+            "Central multimedia Uconnect 12.3\"",
+            "Cámara Off Road integrada",
+            "Apple CarPlay / Android Auto inalámbrico",
+            "Entrada remota sin llave (RKE)",
+            "Centro conexión multimedia USB/AUX",
+            "Toma 12V",
+            "Sistema refrigeración motor heavy duty",
+            "Sistema 4WD Rock-Trac HD Full Time",
+            "Sistema audio Premium Alpine",
+            "Sistema navegación GPS"
+        ],
+        "exterior": [
+            "Llantas aleación negras 17x7.5\"",
+            "Luces diurnas LED",
+            "Neblineros delanteros LED",
+            "Neumático repuesto tamaño completo",
+            "Faros delanteros LED reflectores premium",
+            "Luces traseras LED",
+            "Ganchos remolque rojos",
+            "Bandeja almacenamiento compartimiento trasero",
+            "Capó doble ventilación Power Dome",
+            "Neblineros traseros",
+            "Espejos exteriores visión angular",
+            "Cerradura eléctrica portón trasero",
+            "Placa protectora transmisión / transfer / tanque",
+            "Compartimento almacenamiento trasero",
+            "Espejos eléctricos con señalizadores",
+            "Barra deportiva acolchada",
+            "Barra estabilizadora trasera",
+            "Barra estabilizadora delantera desconexión eléctrica",
+            "Pantallas información estilo todoterreno",
+            "Parachoques trasero acero"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha-tecnica-GLADIATOR.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Datos extraídos exclusivamente del contenido textual del documento."
+    }
+}

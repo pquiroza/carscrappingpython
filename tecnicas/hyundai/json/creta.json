@@ -1,0 +1,234 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Creta",
+        "año": null,
+        "versiones": [
+            "1.5_MT_GO",
+            "1.5_MT_PLUS",
+            "1.5_CVT_PLUS",
+            "1.5_CVT_DESIGN"
+        ]
+    },
+    "motor": {
+        "tipo": "DOHC D-CVVT 4 en línea 16 válvulas",
+        "cilindrada": "1500 cc",
+        "potencia_hp": "113 Hp",
+        "potencia_rpm": "6.300",
+        "torque_nm": "144 Nm",
+        "torque_rpm": "4.500",
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.5_MT_GO": "6MT",
+            "1.5_MT_PLUS": "6MT",
+            "1.5_CVT_PLUS": "CVT",
+            "1.5_CVT_DESIGN": "CVT"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "CTBA",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "215/60 R17",
+        "rueda_repuesto": "Fierro tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 4330,
+        "ancho_mm": 1790,
+        "alto_mm": {
+            "1.5_MT_GO": 1620,
+            "1.5_MT_PLUS": 1620,
+            "1.5_CVT_PLUS": 1635,
+            "1.5_CVT_DESIGN": 1635
+        },
+        "distancia_ejes_mm": 2610,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.5_MT_GO": 1660,
+            "1.5_MT_PLUS": 1660,
+            "1.5_CVT_PLUS": 1685,
+            "1.5_CVT_DESIGN": 1685
+        },
+        "capacidad_maletero_lts": 433,
+        "capacidad_estanque_lts": 40
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "1.5_MT_GO": "17\"",
+            "1.5_MT_PLUS": "17\"",
+            "1.5_CVT_PLUS": "17\"",
+            "1.5_CVT_DESIGN": "17\" Bi-Tono"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "BCA - Asistencia punto ciego",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "RCCA - Alerta tráfico cruzado",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "LKA - Asistencia mantenimiento carril",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "LFA - Seguimiento carril",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "FCA - Asistencia colisión frontal",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "SSC - Control Crucero Adaptativo",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "Tablero de instrumentos",
+                "1.5_MT_GO": "4.2\" TFT LCD",
+                "1.5_MT_PLUS": "4.2\" TFT LCD",
+                "1.5_CVT_PLUS": "4.2\" TFT LCD",
+                "1.5_CVT_DESIGN": "10.25\" Digital"
+            },
+            {
+                "caracteristica": "Radio",
+                "1.5_MT_GO": "8\"",
+                "1.5_MT_PLUS": "8\"",
+                "1.5_CVT_PLUS": "8\"",
+                "1.5_CVT_DESIGN": "10.25\""
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "1.5_MT_GO": "4",
+                "1.5_MT_PLUS": "4",
+                "1.5_CVT_PLUS": "6",
+                "1.5_CVT_DESIGN": "6"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": true,
+                "1.5_CVT_PLUS": true,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "Volante y palanca de cambios en cuero",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": true,
+                "1.5_CVT_PLUS": true,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "Botón encendido y llave inteligente",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": true,
+                "1.5_CVT_PLUS": true,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "Modos conducción (Nieve/Barro/Arena)",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "1.5_MT_GO": false,
+                "1.5_MT_PLUS": false,
+                "1.5_CVT_PLUS": false,
+                "1.5_CVT_DESIGN": true
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ABS + EBD",
+            "6 Airbags",
+            "Alarma",
+            "Isofix",
+            "HAC",
+            "Cámara retroceso",
+            "ESC",
+            "Inmovilizador",
+            "TPMS",
+            "Asistente estacionamiento trasero",
+            "Freno mano eléctrico + Autohold",
+            "Alerta pasajeros traseros"
+        ],
+        "interior": [
+            "Salida aire plazas traseras",
+            "Alzavidrios eléctricos totales",
+            "Asientos traseros 60/40",
+            "Asiento conductor regulable altura",
+            "Apoya brazos traseros",
+            "Cubre maleta",
+            "Cierre centralizado",
+            "Bluetooth",
+            "Control audio volante",
+            "Puertos USB 2 delanteros / 1 trasero"
+        ],
+        "exterior": [
+            "Luz de posición LED",
+            "Luces traseras LED combinadas",
+            "Retrovisores eléctricos",
+            "Retrovisores con señalizadores"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-creta-2.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual del documento."
+    }
+}

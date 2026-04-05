@@ -1,0 +1,170 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Nuevo Jetta GLI",
+        "año": null,
+        "versiones": [
+            "GLI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLI": "2.0 TSI"
+        },
+        "cilindrada": {
+            "GLI": 2.0
+        },
+        "potencia_hp": {
+            "GLI": "230"
+        },
+        "potencia_rpm": {
+            "GLI": "4.700-6.200"
+        },
+        "torque_nm": {
+            "GLI": "350"
+        },
+        "torque_rpm": {
+            "GLI": "1.500-4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "GLI": "AT - DSG 7"
+        },
+        "traccion": "4X2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Electrónico Auto-Hold",
+        "neumaticos": {
+            "GLI": "225/45 R18"
+        },
+        "rueda_repuesto": {
+            "GLI": null
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4738,
+        "ancho_mm": 1799,
+        "alto_mm": 1480,
+        "distancia_ejes_mm": 2688,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 510,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "GLI": "9,6"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "GLI": "13,3"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "GLI": "17"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación 18\"",
+            "Neumáticos 225/45 R18",
+            "Luces principales LED",
+            "Luces Diurnas LED (DRL)",
+            "Luces traseras LED",
+            "Retrovisores exteriores ajustables eléctricamente y calefaccionados",
+            "Retrovisores exteriores con memoria",
+            "Retrovisores exteriores con señalizador",
+            "Retrovisores exteriores y manilla color carrocería",
+            "Sunroof panorámico",
+            "Inserto \"GLI\"",
+            "Detalles en rojo en parrilla del vehículo"
+        ],
+        "interior": [
+            "Tapizado de asientos Cuero",
+            "Reposabrazo central delantero",
+            "Asiento del conductor con soporte lumbar eléctrico",
+            "Asiento del conductor con ajuste de altura",
+            "Asiento del conductor eléctrico con memoria",
+            "Asientos delanteros calefaccionados",
+            "Asientos delanteros climatizados",
+            "Volante multifunción forrado en cuero",
+            "Asientos deportivos",
+            "Retrovisor interior con ajuste antideslumbrante automático",
+            "Luces en la zona reposapiés delantera",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Iluminación ambiental con 10 colores elegibles"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortinas",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Control Electrónico de Estabilidad (ESC)",
+            "Control electrónico de tracción (ASR)",
+            "Asistente de luz de carretera \"Light Assist\"",
+            "Control de velocidad crucero Adaptativo (ACC)",
+            "Asistente de mantenimiento de carril (Lane Assist)",
+            "Asistente de punto ciego (Blind Spot)",
+            "Asistente de tráfico cruzado",
+            "Travel Assist",
+            "Detector de fatiga",
+            "Front Assist",
+            "Emergency Assist",
+            "Anclaje ISOFIX para asientos de niños",
+            "Indicador de presión de neumáticos",
+            "Inmovilizador electrónico con sistema de alarma antirrobo"
+        ],
+        "tecnologia": [
+            "Climatizador automático Bi-Zona (Climatronic)",
+            "Asistencia para arranque en pendientes Auto-Hold",
+            "Freno de estacionamiento electrónico Auto-Hold",
+            "Cierre centralizado con mando a distancia",
+            "Luces automáticas",
+            "Función Coming y Leaving Home",
+            "Puertos USB-C (3)",
+            "Parlantes (6)",
+            "Radio Touchscreen 10,1\" con App Connect (Tecnología Wireless)",
+            "Sistema Start & Stop",
+            "Cámara de retroceso",
+            "Función ECO",
+            "Selección del modo de conducción",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Cuadro de instrumentos digital configurable 10,25\"",
+            "Keyless Entry y botón de encendido",
+            "Sensor de lluvia",
+            "Levas de cambio (Paddle Shift)"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Rey",
+        "Azul Glaciar",
+        "Gris Flannel",
+        "Blanco Puro",
+        "Negro Ninja",
+        "Gris Platino"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (x=De serie, -=No disponible; valores exactos del documento).",
+        "fuente": "FT-Nuevo-GLI-Mayo_2025.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajeron todos los datos técnicos (Euro 6B, consumo homologado, garantía 3 años o 100.000 kms), dimensiones, equipamiento completo funcional, seguridad y tecnología exactamente como figuran en la ficha."
+    }
+}

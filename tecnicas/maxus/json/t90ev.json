@@ -1,0 +1,342 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "T90 EV",
+        "año": null,
+        "versiones": [
+            "T90_EV_4X2"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "T90_EV_4X2": "Motor sincrono de iman permanente (PMSM)"
+        },
+        "cilindrada": {
+            "T90_EV_4X2": null
+        },
+        "potencia_hp": {
+            "T90_EV_4X2": "174"
+        },
+        "potencia_rpm": {
+            "T90_EV_4X2": null
+        },
+        "torque_nm": {
+            "T90_EV_4X2": "310"
+        },
+        "torque_rpm": {
+            "T90_EV_4X2": null
+        },
+        "combustible": {
+            "T90_EV_4X2": "Eléctrico"
+        },
+        "sistema_alimentacion": {
+            "T90_EV_4X2": null
+        },
+        "norma_emisiones": {
+            "T90_EV_4X2": null
+        },
+        "transmision": {
+            "T90_EV_4X2": "Automática"
+        },
+        "traccion": {
+            "T90_EV_4X2": "Trasera 4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Ballestas",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "T90_EV_4X2": "245/65 R17 HT"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5365,
+        "ancho_mm": 1900,
+        "alto_mm": 1809,
+        "distancia_ejes_mm": 3155,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": {
+            "solo": "1485 / 1510 / 530",
+            "segunda_tercera_fila_abatibles": null
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Despeje del suelo (mm)",
+            "T90_EV_4X2": "187"
+        },
+        {
+            "caracteristica": "Vadeo (mm)",
+            "T90_EV_4X2": "550"
+        },
+        {
+            "caracteristica": "Ángulo de entrada (%)",
+            "T90_EV_4X2": "27"
+        },
+        {
+            "caracteristica": "Ángulo de salida (%)",
+            "T90_EV_4X2": "24"
+        },
+        {
+            "caracteristica": "Peso Bruto Vehicular (Kg)",
+            "T90_EV_4X2": "3300"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (Kg)",
+            "T90_EV_4X2": "2300"
+        },
+        {
+            "caracteristica": "Carga útil (Kg)",
+            "T90_EV_4X2": "1000"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre sin freno (kg)",
+            "T90_EV_4X2": "750"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre con freno (kg)",
+            "T90_EV_4X2": "1000"
+        },
+        {
+            "caracteristica": "Capacidad de batería (kWh)",
+            "T90_EV_4X2": "88,5"
+        },
+        {
+            "caracteristica": "Potencia de carga AC (kW)",
+            "T90_EV_4X2": "11"
+        },
+        {
+            "caracteristica": "Tiempo carga AC (20%-100%)",
+            "T90_EV_4X2": "6,5 horas"
+        },
+        {
+            "caracteristica": "Potencia de carga DC (kW)",
+            "T90_EV_4X2": "80"
+        },
+        {
+            "caracteristica": "Tiempo carga DC (20%-100%)",
+            "T90_EV_4X2": "40 minutos"
+        },
+        {
+            "caracteristica": "Voltaje batería (V)",
+            "T90_EV_4X2": "354,2"
+        },
+        {
+            "caracteristica": "Capacidad (Ah)",
+            "T90_EV_4X2": "250"
+        },
+        {
+            "caracteristica": "Gradeabilidad (%)",
+            "T90_EV_4X2": "30"
+        },
+        {
+            "caracteristica": "Garantía batería alto voltaje",
+            "T90_EV_4X2": "6 años o 160.000 km"
+        },
+        {
+            "caracteristica": "Estándar de carga",
+            "T90_EV_4X2": "Tipo 2 en AC / CCS2 en DC"
+        },
+        {
+            "caracteristica": "WLTP ciclo combinado (km)",
+            "T90_EV_4X2": "330"
+        },
+        {
+            "caracteristica": "WLTP ciclo ciudad (km)",
+            "T90_EV_4X2": "471"
+        },
+        {
+            "caracteristica": "Rendimiento",
+            "T90_EV_4X2": "3CV 2.9 km/kWh"
+        },
+        {
+            "caracteristica": "Freno regenerativo",
+            "T90_EV_4X2": true
+        },
+        {
+            "caracteristica": "Modos de manejo (Eco/Normal/Sport)",
+            "T90_EV_4X2": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces principales halógenas",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Luz diurna LED",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Luces con encendido automático",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Neblinero trasero",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Espejos con ajuste eléctrico",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Cubre pick up tipo \"Spray In\"",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Gancho de carga exteriores",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "T90_EV_4X2": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado + filtro de polen",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Asientos de ecocuero",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Computador a bordo",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Pantalla Touch 10,25\" + Bluetooth + USB",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Conexión Apple CarPlay",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "2 parlantes + 2 tweeter",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Auto down en ventana de chofer",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Salida 12 V delantera",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Dos salidas USB delantera",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Salida 220 V trasera",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Terceros apoyacabezas trasero",
+                "T90_EV_4X2": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS + EBD + EBA",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "ESP",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente (HHC)",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Control de descenso (HDC)",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Doble airbag frontal",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Airbag lateral",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Airbag de cortina",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Sensores de retroceso",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Alarma de cinturón de seguridad en 5 plazas",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Cierre centralizado con sensor de velocidad",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "T90_EV_4X2": true
+            },
+            {
+                "caracteristica": "Follow me home",
+                "T90_EV_4X2": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; columna única aplica a todas las versiones).",
+        "fuente": "Maxus_FT-T90EV (1).pdf",
+        "versiones_en_documento": 1,
+        "notas": null
+    }
+}

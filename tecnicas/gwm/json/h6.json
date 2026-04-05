@@ -1,0 +1,614 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "Haval H6",
+        "año": 2024,
+        "versiones": [
+            "ACTIVE_2WD",
+            "ELITE_2WD",
+            "DELUXE_2WD",
+            "DELUXE_AWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ACTIVE_2WD": "2.0 Turbo 4 cilindros 16V",
+            "ELITE_2WD": "2.0 Turbo 4 cilindros 16V",
+            "DELUXE_2WD": "2.0 Turbo 4 cilindros 16V",
+            "DELUXE_AWD": "2.0 Turbo 4 cilindros 16V"
+        },
+        "cilindrada": 2.0,
+        "potencia_hp": {
+            "ACTIVE_2WD": "201",
+            "ELITE_2WD": "201",
+            "DELUXE_2WD": "201",
+            "DELUXE_AWD": "201"
+        },
+        "potencia_rpm": {
+            "ACTIVE_2WD": "6.000 - 6.300",
+            "ELITE_2WD": "6.000 - 6.300",
+            "DELUXE_2WD": "6.000 - 6.300",
+            "DELUXE_AWD": "6.000 - 6.300"
+        },
+        "torque_nm": {
+            "ACTIVE_2WD": "320",
+            "ELITE_2WD": "320",
+            "DELUXE_2WD": "320",
+            "DELUXE_AWD": "320"
+        },
+        "torque_rpm": {
+            "ACTIVE_2WD": "1.500 - 4.000",
+            "ELITE_2WD": "1.500 - 4.000",
+            "DELUXE_2WD": "1.500 - 4.000",
+            "DELUXE_AWD": "1.500 - 4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "ACTIVE_2WD": "DCT 7",
+            "ELITE_2WD": "DCT 7",
+            "DELUXE_2WD": "DCT 7",
+            "DELUXE_AWD": "DCT 7"
+        },
+        "traccion": {
+            "ACTIVE_2WD": "2WD",
+            "ELITE_2WD": "2WD",
+            "DELUXE_2WD": "2WD",
+            "DELUXE_AWD": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "ACTIVE_2WD": "225/60 R18",
+            "ELITE_2WD": "225/60 R18",
+            "DELUXE_2WD": "225/60 R18",
+            "DELUXE_AWD": "225/55 R19"
+        },
+        "rueda_repuesto": "Rueda repuesto provisoria"
+    },
+    "dimensiones": {
+        "largo_mm": 4653,
+        "ancho_mm": 1886,
+        "alto_mm": 1730,
+        "distancia_ejes_mm": 2738,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "ACTIVE_2WD": 2000,
+            "ELITE_2WD": 2000,
+            "DELUXE_2WD": 2000,
+            "DELUXE_AWD": 2075
+        },
+        "capacidad_maletero_lts": 600,
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "ACTIVE_2WD": "225/60 R18",
+            "ELITE_2WD": "225/60 R18",
+            "DELUXE_2WD": "225/60 R18",
+            "DELUXE_AWD": "225/55 R19"
+        },
+        {
+            "caracteristica": "Llanta (aro)",
+            "ACTIVE_2WD": "18\"",
+            "ELITE_2WD": "18\"",
+            "DELUXE_2WD": "18\"",
+            "DELUXE_AWD": "19\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "ACTIVE_2WD": 2000,
+            "ELITE_2WD": 2000,
+            "DELUXE_2WD": 2000,
+            "DELUXE_AWD": 2075
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad pasajeros",
+            "ACTIVE_2WD": 5,
+            "ELITE_2WD": 5,
+            "DELUXE_2WD": 5,
+            "DELUXE_AWD": 5
+        },
+        {
+            "caracteristica": "Maletero (L)",
+            "ACTIVE_2WD": 600,
+            "ELITE_2WD": 600,
+            "DELUXE_2WD": 600,
+            "DELUXE_AWD": 600
+        },
+        {
+            "caracteristica": "Estanque (L)",
+            "ACTIVE_2WD": 55,
+            "ELITE_2WD": 55,
+            "DELUXE_2WD": 55,
+            "DELUXE_AWD": 55
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensores delanteros",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Cámara 360",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Estacionamiento asistido",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Neblineros delanteros LED",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Neblineros iluminación asistida",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Espejos defroster plegables",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Señalizador en espejos",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Desempañador parabrisas",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Sensor lluvia",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Barras techo",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Llave inteligente",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Cierre vidrios a distancia",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Keyless puertas delanteras",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Llanta aro",
+                "ACTIVE_2WD": "18\"",
+                "ELITE_2WD": "18\"",
+                "DELUXE_2WD": "18\"",
+                "DELUXE_AWD": "19\""
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "ACTIVE_2WD": true,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": false,
+                "DELUXE_AWD": false
+            },
+            {
+                "caracteristica": "Climatizador bizona",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Salidas aire traseras",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Purificador aire",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Botón keyless",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "HUD",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Modos conducción",
+                "ACTIVE_2WD": "Normal, Eco, Sport, Nieve",
+                "ELITE_2WD": "Normal, Eco, Sport, Nieve",
+                "DELUXE_2WD": "Normal, Eco, Sport, Nieve, Arena, Offroad",
+                "DELUXE_AWD": "Normal, Eco, Sport, Nieve, Arena, Offroad"
+            },
+            {
+                "caracteristica": "Número parlantes",
+                "ACTIVE_2WD": 6,
+                "ELITE_2WD": 8,
+                "DELUXE_2WD": 8,
+                "DELUXE_AWD": 8
+            },
+            {
+                "caracteristica": "Sistema sonido DTS",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Volante ecocuero",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Paletas cambio",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "ACTIVE_2WD": "Manual 6p",
+                "ELITE_2WD": "Eléctrico 6p",
+                "DELUXE_2WD": "Eléctrico 8p",
+                "DELUXE_AWD": "Eléctrico 8p"
+            },
+            {
+                "caracteristica": "Asiento copiloto",
+                "ACTIVE_2WD": "Manual 4p",
+                "ELITE_2WD": "Manual 4p",
+                "DELUXE_2WD": "Eléctrico 4p",
+                "DELUXE_AWD": "Eléctrico 4p"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "ACTIVE_2WD": "Tela",
+                "ELITE_2WD": "Ecocuero",
+                "DELUXE_2WD": "Ecocuero",
+                "DELUXE_AWD": "Ecocuero"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Asientos ventilados",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": false,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Toma 12V maletero",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Espejo interior",
+                "ACTIVE_2WD": "Manual",
+                "ELITE_2WD": "Manual",
+                "DELUXE_2WD": "Eléctrico",
+                "DELUXE_AWD": "Eléctrico"
+            },
+            {
+                "caracteristica": "Parasol",
+                "ACTIVE_2WD": "Espejo",
+                "ELITE_2WD": "Espejo y luz",
+                "DELUXE_2WD": "Espejo y luz",
+                "DELUXE_AWD": "Espejo y luz"
+            },
+            {
+                "caracteristica": "Luz techo LED",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Luces laterales lectura",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico con memoria",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            }
+        ],
+        "tecnologia": [],
+        "adas": [
+            {
+                "caracteristica": "AAC",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "IACC",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "TJA",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "LDW",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "LKA",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "LCK",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "LCA",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "BSW",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "ELK",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "FCW",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "RCW",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "AEB",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "AEB-P",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "AEB-B",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "TSR",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "DOW",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            },
+            {
+                "caracteristica": "Tráfico cruzado + frenado automático",
+                "ACTIVE_2WD": false,
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_AWD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ESP",
+            "TCS",
+            "HBA",
+            "RMI",
+            "SCM",
+            "HHC",
+            "HDC",
+            "TPMS",
+            "Sensores traseros",
+            "Cámara retroceso",
+            "ISOFIX",
+            "Alarma e inmovilizador"
+        ],
+        "interior": [
+            "Indicador temperatura exterior",
+            "Alzavidrios eléctricos",
+            "Alzavidrio conductor anti-atrape one touch",
+            "Cierre centralizado",
+            "Control multifunción apertura remota",
+            "Start/Stop",
+            "Computador a bordo",
+            "Panel digital 10.25\"",
+            "Ajuste luz panel",
+            "Volumen radio automático",
+            "Control crucero",
+            "Freno mano eléctrico",
+            "Autohold",
+            "Pantalla touch CarPlay Android Auto",
+            "USB delanteros (2) y traseros (2)",
+            "Volante control radio teléfono",
+            "Volante ajustable altura profundidad",
+            "Apoyabrazos delantero y trasero",
+            "Asientos traseros 3 apoyacabezas",
+            "Asientos traseros 60:40",
+            "Toma 12V delantera",
+            "Luz techo central",
+            "Cubre equipaje",
+            "Rueda repuesto provisoria"
+        ],
+        "exterior": [
+            "Luces traseras LED",
+            "DRL",
+            "Sensor luces automático",
+            "Follow me home",
+            "Neblinero trasero LED",
+            "Espejos eléctricos",
+            "Luneta trasera defroster",
+            "Spoiler trasero",
+            "Antena aleta",
+            "Focos principales LED"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul zafiro",
+        "Blanco titanio",
+        "Gris metalizado",
+        "Negro perlado",
+        "Rojo granate"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Conversión de JSON de ficha técnica a formato estándar (●=true, -=false)",
+        "fuente": "ficha-h6_jul_2024_web.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Conversión desde estructura base_specs_or_equipment (Motorización/Dimensiones/Interior/Exterior/Seguridad/ADAS) al formato estándar de tu pipeline."
+    }
+}

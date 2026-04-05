@@ -1,0 +1,293 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "TOURING EV",
+        "año": null,
+        "versiones": [
+            "TOURING EV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "TOURING EV": "DE IMÁN PERMANENTE"
+        },
+        "cilindrada": {
+            "TOURING EV": null
+        },
+        "potencia_hp": {
+            "TOURING EV": "161"
+        },
+        "potencia_rpm": {
+            "TOURING EV": null
+        },
+        "torque_nm": {
+            "TOURING EV": "320"
+        },
+        "torque_rpm": {
+            "TOURING EV": null
+        },
+        "combustible": "CORRIENTE",
+        "transmision": {
+            "TOURING EV": "ACCIONAMIENTO ELÉCTRICO"
+        },
+        "traccion": "TRASERA"
+    },
+    "direccion": {
+        "tipo": "ELECTROASISTIDA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "PAQUETE DE RESORTE INDEPENDIENTE",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "TAMBOR",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "TOURING EV": "225 / 65 R16"
+        },
+        "rueda_repuesto": "225 / 65 R16"
+    },
+    "dimensiones": {
+        "largo_mm": 5696,
+        "ancho_mm": 1972,
+        "alto_mm": 2240,
+        "distancia_ejes_mm": 3570,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 3490,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 3
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Antena",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejo retrovisor",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Cierre con comando a distancia puertas",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Faros",
+                "TOURING EV": "HALÓGENOS"
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Guardafangos",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "TOURING EV": "ACERO"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "TOURING EV": "225 / 65 R16"
+            },
+            {
+                "caracteristica": "Neumático de repuesto tipo / medida",
+                "TOURING EV": "225 / 65 R16"
+            },
+            {
+                "caracteristica": "Presión de inflado PSI",
+                "TOURING EV": "31"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Económetro (consumo instantáneo)",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "TOURING EV": "TELA"
+            },
+            {
+                "caracteristica": "Asiento del piloto ajustable manual",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto deslizable y con ajuste manual",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Bolsillo porta mapa puertas delanteras",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Radio",
+                "TOURING EV": "USB/ 2 PARLANTES 2 TWITTER"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "TOURING EV": "7’’MP5"
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Luz delantera para lectura de mapas",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Parasol con espejo de cortesía",
+                "TOURING EV": "COPILOTO"
+            },
+            {
+                "caracteristica": "Portaanteojos",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Portavasos",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Regulador de altura de faros",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Tacómetro",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antirreflejo",
+                "TOURING EV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema antirrobo (llave codificada)",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Alarma",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Apoya cabezas",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Airbags delanteros",
+                "TOURING EV": 2
+            },
+            {
+                "caracteristica": "ABS",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "ABS + EBD",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Barra acero laterales de puerta",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Carrocería con zona de deformación programada",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros con bloqueo de emergencia",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Luz indicador del no uso del cinturón de seguridad del conductor",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Carrocería y jaula integrada",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Parachoques con sistema de absorción de impactos",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Seguros de niños en puertas traseras",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Alarma de olvido de llaves",
+                "TOURING EV": true
+            },
+            {
+                "caracteristica": "Alarma puerta abierta (luz piloto en tablero)",
+                "TOURING EV": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "PLATA",
+        "BLANCO"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.TOURINGEV-220126.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Batería: fosfato de hierro y litio; capacidad 65 kWh; sistema voltaje AC & DC; capacidad carga baterías 173 A; entrada IEC (Europeo); autonomía NEDC 300 km; autonomía máxima (a 40 km/h) 460 km; velocidad máxima 120 km/h; normativa Europea. Recarga: rápida ≤120 kW (0-80% 48 min) y lenta 6.6 kW (0-80% 10-11 horas). Carga domiciliaria: CCS2 hacia vehículo / Tipo L lado red, 220V, 173A, norma IEC 62196. Carga rápida red pública: modo 4, CCS2, 376V, 173A. Dimensiones/capacidades adicionales: N° puertas 3; capacidad de carga 1293 kg; capacidad de carga (volumen) 8,5 m3."
+    }
+}

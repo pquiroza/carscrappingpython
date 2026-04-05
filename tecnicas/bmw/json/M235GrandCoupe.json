@@ -1,0 +1,172 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "M235 Gran Coupé",
+        "año": null,
+        "versiones": [
+            "xDrive HEA"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "xDrive HEA": "4 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "xDrive HEA": 1998
+        },
+        "potencia_hp": {
+            "xDrive HEA": "317"
+        },
+        "potencia_rpm": {
+            "xDrive HEA": "5750 - 6500"
+        },
+        "torque_nm": {
+            "xDrive HEA": "400"
+        },
+        "torque_rpm": {
+            "xDrive HEA": "2000 - 4500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "xDrive HEA": "Automática Steptronic de deportiva de 7 velocidades con levas al volante"
+        },
+        "traccion": "Tracción total inteligente BMW xDrive"
+    },
+    "direccion": {
+        "tipo": "Dirección deportiva variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "xDrive HEA": null
+        },
+        "rueda_repuesto": "Kit de reparación de pinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 4546,
+        "ancho_mm": 1800,
+        "alto_mm": 1445,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 644,
+        "peso_bruto_kg": 1650,
+        "capacidad_maletero_lts": "430",
+        "capacidad_estanque_lts": 49,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "xDrive HEA": "12,2"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "xDrive HEA": "4.9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de aparcamiento",
+            "Control activo de distancia de aparcamiento",
+            "Asistente de marcha atrás",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Sistema de acceso sin llaves Comfort Access System con apertura por cierre",
+            "Llantas de aleación M de rayos dobles aro 19 Bicolor",
+            "Paquete aerodinámico M Sport",
+            "Suspensión deportiva M (10mm rebajada)",
+            "Bordes de las puertas en BMW Individual Shadow Line",
+            "Sunroof panorámico eléctrico",
+            "Faros delanteros de LED adaptativos con luces de día",
+            "Asistente de luces en carretera",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Iluminación ambiental (6 colores, Welcome Light Carpet, etc)"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador bizona automático",
+            "Alfombrillas de velours específicas M",
+            "Asientos de Alcantara eléctricos con memoria",
+            "Asientos calefaccionados delanteros deportivos tipo butaca BMW M",
+            "Volante M deportivo de cuero multifunción",
+            "Espejos int./ext. Anti-deslumbramiento",
+            "Espejos exteriores abatibles eléctricamente con exterior negro brillante",
+            "Terminaciones interiores “Iluminated Boston”",
+            "Paquete M sport",
+            "Zócalo en puertas especifico M",
+            "Tablero de instrumentos con costuras en contraste",
+            "Reposapiés del conductor de aluminio M",
+            "Pedales look acero inoxidable",
+            "Llave con insertos en negro brillante y designación M"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Kit de reparación de pinchazos",
+            "Tracción total inteligente BMW xDrive"
+        ],
+        "tecnologia": [
+            "Sistema de sonido HiFi Harman Kardon (12 altavoces y amplificador de 205W)",
+            "BMW Live Cockpit Professional",
+            "Pantalla de panel de instrumentos digital de 10,3”",
+            "Pantalla de control de alta resolución (1920x720 píxeles) de 10,3”",
+            "Sistema operativo BMW iDrive 9.0 con widgets y pantallas personalizables",
+            "Navegador con puntos de referencia en 3D",
+            "Modelos de Micro City",
+            "Búsqueda de direcciones en texto libre y destinos especiales",
+            "Instrucciones y guías con auto zoom",
+            "BMW Intelligent Personal Assistant (“Hola BMW”)",
+            "Mando iDrive Touch",
+            "Sistema con disco duro de 20 GB para archivos de audio",
+            "Bluetooth (streaming / phone)",
+            "Preparación para Apple CarPlay"
+        ],
+        "adas": [
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero con función de frenado",
+            "Función Start-Off assistant (asistente de partida en pendiente)",
+            "Performance Control (Control mediante motor y frenos en curvas para mayor agilidad)",
+            "Driving Assistant: Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Asistente de control de línea",
+            "Asistente de evasión",
+            "Advertencia de intersección",
+            "Advertencia de sentido contrario",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-10",
+        "metodo_extraccion": "Lectura directa de ficha técnica BMW en texto corrido, manteniendo solo datos explícitos del documento",
+        "fuente": "ficha_tecnica_all_new_bmw_m235_xdrive_hea.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información explícita de la ficha. Garantía y mantenimiento informados en el documento: 5 años de mantenciones, 3 años de garantía y asistencia en ruta."
+    }
+}

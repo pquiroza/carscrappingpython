@@ -1,0 +1,458 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "GRAND AVENUE LIMITED",
+        "año": null,
+        "versiones": [
+            "4x4 AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4x4 AT": "PUMA (FORD)"
+        },
+        "cilindrada": {
+            "4x4 AT": "2.3 TURBO"
+        },
+        "potencia_hp": {
+            "4x4 AT": "177"
+        },
+        "potencia_rpm": {
+            "4x4 AT": "3200"
+        },
+        "torque_nm": {
+            "4x4 AT": "450"
+        },
+        "torque_rpm": {
+            "4x4 AT": "1500-2400"
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "4x4 AT": "AUTOMATICA 8 VELOCIDADES"
+        },
+        "traccion": "4X4"
+    },
+    "direccion": {
+        "tipo": "HIDRAULICA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "MULTI-LINK + WATTS LINK",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "DISCO",
+        "freno_estacionamiento": "ELECTRÓNICO",
+        "neumaticos": {
+            "4x4 AT": "265/65R18"
+        },
+        "rueda_repuesto": "ACERO 265/65 R18"
+    },
+    "dimensiones": {
+        "largo_mm": 5435,
+        "ancho_mm": 1935,
+        "alto_mm": 1872,
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 3125,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 67,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo 3CV ciudad / carretera / mixto (km/L)",
+            "4x4 AT": "9,3 / 14,9 / 12,2"
+        },
+        {
+            "caracteristica": "Emisiones 3CV (g/km)",
+            "4x4 AT": "216"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejo retrovisor",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cierre con comando a distancia puertas",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Follow me home",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Parachoques a tono de carrocería",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Faros",
+                "4x4 AT": "LED"
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Camara de retroceso",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Vidrios tinteados",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Guardafangos",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "4x4 AT": "ALEACIÓN"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "4x4 AT": "265/65R18"
+            },
+            {
+                "caracteristica": "Neumático de repuesto tipo / medida",
+                "4x4 AT": "ACERO 265/65 R18"
+            },
+            {
+                "caracteristica": "Presión de inflado PSI",
+                "4x4 AT": "33 PSI"
+            },
+            {
+                "caracteristica": "Portalon trasero \"easy lift\"",
+                "4x4 AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "One touch",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Anti trap",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Trip computer (consumo instantáneo)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sistema selectivo de marchas en el volante paddle shift",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "4x4 AT": "ECO CUERO"
+            },
+            {
+                "caracteristica": "Apertura desde el interior de la tapa de bencina",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Ajuste asiento piloto",
+                "4x4 AT": "ELECTRÓNICO 8 POSICIONES"
+            },
+            {
+                "caracteristica": "Ajuste asiento copiloto",
+                "4x4 AT": "ELECTRÓNICO 6 POSICIONES"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con ventilación",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Bolsillo porta mapa puertas delanteras",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Bolsillo porta revista respaldo de asientos delanteros",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en ecucuero",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en profundidad",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sunroof",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Radio",
+                "4x4 AT": "CARPLAY ANDROID AUTO"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "4x4 AT": "4 PARLANTES 2 TWITTER"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "4x4 AT": "12\""
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Luz delantera para lectura de mapas",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Parasol con espejo de cortesía",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Portavasos",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antireflejo",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Regulador de altura de faros",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Tacómetro",
+                "4x4 AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema antirrobo (llave codificada)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sistema de regeneración selectivo",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "4x4 AT": 2
+            },
+            {
+                "caracteristica": "Freno estacionamiento electrónico",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Freno estacionamiento con acople automático",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sistema de arranque",
+                "4x4 AT": "PEPS"
+            },
+            {
+                "caracteristica": "Alarma",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asistente de descenso",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asistente de ascenso",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Apoya cabezas delanteros y traseros",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Airbags delanteros",
+                "4x4 AT": 4
+            },
+            {
+                "caracteristica": "Airbags cortina",
+                "4x4 AT": 2
+            },
+            {
+                "caracteristica": "ABS (control antideslizante)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Barra acero laterales de puerta",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Carrocería con zona de deformación programada",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros con bloqueo de emergencia",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cinturones traseros laterales tres puntas",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cinturon trasero central",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad tres puntas",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Luz indicador del no uso del cinturón de seguridad del conductor",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Carroceria y jaula integrada",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Parachoques con sistema de absorción de impactos",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Seguros de niños en puertas traseras",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Alarma de olvido de llaves",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Alarma puerta abierta (luz piloto en tablero)",
+                "4x4 AT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asistente alto tráfico (TJA)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Alerta colisión frontal (FCW)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Freno de emergencia autónomo (AEB)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asistente permanencia en carril (LKA)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Alerta cambio carril (LDW)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Control permanencia en carril (LCC)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Reconocimiento señales del tránsito (TSR)",
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Detección punto ciego (BSD)",
+                "4x4 AT": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "VERDE",
+        "GRAFITO",
+        "NEGRO",
+        "PLATA",
+        "BLANCO PERLA"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.GALIMITED-071125.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Norma de emisiones: EURO 6C. Convertidor catalítico: 4 vías. Tipo de aceite/cantidad: MOBIL 5W-30 / 8 L. Dimensiones adicionales: medidas de pick up 55 alto / 154 ancho / 159 largo; capacidad estanque urea 11 lt; capacidad de carga 870; presión inflado 33 PSI."
+    }
+}

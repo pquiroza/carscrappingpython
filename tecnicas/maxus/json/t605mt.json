@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "T60",
+        "año": null,
+        "versiones": [
+            "T60_GASOLINA_4X2_DX_5MT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "T60_GASOLINA_4X2_DX_5MT": null
+        },
+        "cilindrada": {
+            "T60_GASOLINA_4X2_DX_5MT": 2.4
+        },
+        "potencia_hp": {
+            "T60_GASOLINA_4X2_DX_5MT": "158"
+        },
+        "potencia_rpm": {
+            "T60_GASOLINA_4X2_DX_5MT": null
+        },
+        "torque_nm": {
+            "T60_GASOLINA_4X2_DX_5MT": "225"
+        },
+        "torque_rpm": {
+            "T60_GASOLINA_4X2_DX_5MT": null
+        },
+        "combustible": {
+            "T60_GASOLINA_4X2_DX_5MT": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "T60_GASOLINA_4X2_DX_5MT": null
+        },
+        "norma_emisiones": {
+            "T60_GASOLINA_4X2_DX_5MT": "Euro 6C"
+        },
+        "transmision": {
+            "T60_GASOLINA_4X2_DX_5MT": "5 MT"
+        },
+        "traccion": {
+            "T60_GASOLINA_4X2_DX_5MT": "4X2"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble brazo tipo McPherson",
+        "suspension_trasera": "Ballestas",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "T60_GASOLINA_4X2_DX_5MT": "245/70 R16"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5395,
+        "ancho_mm": 1900,
+        "alto_mm": 1809,
+        "distancia_ejes_mm": 3155,
+        "numero_pasajeros": null,
+        "capacidad_estanque_lts": 73,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Voladizo delantero (mm)",
+            "T60_GASOLINA_4X2_DX_5MT": "942"
+        },
+        {
+            "caracteristica": "Voladizo trasero (mm)",
+            "T60_GASOLINA_4X2_DX_5MT": "1268"
+        },
+        {
+            "caracteristica": "Dimensiones pick up (mm) (largo en el piso / ancho desde arriba / alto)",
+            "T60_GASOLINA_4X2_DX_5MT": "1485 / 1510 / 530"
+        },
+        {
+            "caracteristica": "Despeje mínimo al suelo (mm)",
+            "T60_GASOLINA_4X2_DX_5MT": "215"
+        },
+        {
+            "caracteristica": "Capacidad de carga pick up (kg)",
+            "T60_GASOLINA_4X2_DX_5MT": "1055"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre (carro con frenos) (kg)",
+            "T60_GASOLINA_4X2_DX_5MT": "3000"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre (carro sin frenos) (kg)",
+            "T60_GASOLINA_4X2_DX_5MT": "750"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "T60_GASOLINA_4X2_DX_5MT": "2850"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (kg)",
+            "T60_GASOLINA_4X2_DX_5MT": "1795"
+        },
+        {
+            "caracteristica": "Marca motor",
+            "T60_GASOLINA_4X2_DX_5MT": "Mitsubishi"
+        },
+        {
+            "caracteristica": "Cilindrada (cc)",
+            "T60_GASOLINA_4X2_DX_5MT": "2400"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Gancho de carga pick up",
+                "T60_GASOLINA_4X2_DX_5MT": null
+            },
+            {
+                "caracteristica": "Neblineros",
+                "T60_GASOLINA_4X2_DX_5MT": "Traseros"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "T60_GASOLINA_4X2_DX_5MT": "Opcional"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "T60_GASOLINA_4X2_DX_5MT": "16\""
+            }
+        ],
+        "interior": [],
+        "seguridad": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Parachoques color negro",
+            "Luces halógenas",
+            "Defroster trasero",
+            "Cubre pick up tipo \"Spray-in\"",
+            "Barra trasera protectora de carga"
+        ],
+        "interior": [
+            "Aire acondicionado + filtro de polen",
+            "Asiento de conductor manual con 6 ajustes",
+            "Asiento de copiloto manual con 4 ajustes",
+            "Tapiz de tela",
+            "Tercer apoyacabezas trasero",
+            "Alzavidrios eléctricos",
+            "Cierre centralizado",
+            "Regulador de altura luces",
+            "Salida 12V delantera",
+            "Auto up/down chofer",
+            "2 parlantes + 2 tweeter",
+            "Volante regulable en altura",
+            "Volante retroiluminado",
+            "Control de velocidad crucero",
+            "Computador a bordo"
+        ],
+        "seguridad": [
+            "ABS/EBD/EBS",
+            "Doble airbag frontal",
+            "Sensor retroceso",
+            "Cinturón 3 puntas en 5 plazas",
+            "Pre-tensor cinturón de seguridad",
+            "Alarma cinturón de seguridad",
+            "Inmovilizador"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; columna única=aplica a todas las versiones). En este documento existe 1 versión y algunos ítems de exterior vienen como texto/estado (p. ej. \"Traseros\", \"Opcional\") o sin valor (null).",
+        "fuente": "MAXUS_FT-T60 GSL.pdf",
+        "versiones_en_documento": 1,
+        "notas": null
+    }
+}

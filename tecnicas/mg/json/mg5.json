@@ -1,0 +1,145 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "5",
+        "año": 2025,
+        "versiones": [
+            "1.5L_MT_STD",
+            "1.5L_MT_COM",
+            "1.5L_CVT_COM",
+            "1.5L_CVT_DEL"
+        ]
+    },
+    "motor": {
+        "tipo": "1.5L",
+        "cilindrada": 1495,
+        "potencia_hp": "108",
+        "potencia_rpm": "4500",
+        "torque_nm": "142",
+        "torque_rpm": "6000",
+        "combustible": null,
+        "transmision": {
+            "1.5L_MT_STD": "MT",
+            "1.5L_MT_COM": "MT",
+            "1.5L_CVT_COM": "CVT",
+            "1.5L_CVT_DEL": "CVT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electronic power steering"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson strut",
+        "suspension_trasera": "Torsion beam",
+        "frenos_delanteros": "Front and rear disc",
+        "frenos_traseros": "Front and rear disc",
+        "neumaticos": {
+            "1.5L_MT_STD": "195/65R15",
+            "1.5L_MT_COM": "205/55R16",
+            "1.5L_CVT_COM": "205/55R16",
+            "1.5L_CVT_DEL": "205/55R16"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4607,
+        "ancho_mm": 1818,
+        "alto_mm": 1489,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 406,
+        "capacidad_estanque_lts": 45
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "1.5L_MT_STD": "193",
+            "1.5L_MT_COM": "193",
+            "1.5L_CVT_COM": "184",
+            "1.5L_CVT_DEL": "184"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta",
+            "1.5L_MT_STD": "15\" Steel Wheel",
+            "1.5L_MT_COM": "16\" Alloy Wheel",
+            "1.5L_CVT_COM": "16\" Alloy Wheel",
+            "1.5L_CVT_DEL": "16\" Alloy Wheel"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asientos",
+                "1.5L_MT_STD": "Fabric",
+                "1.5L_MT_COM": "PVC leather",
+                "1.5L_CVT_COM": "PVC leather",
+                "1.5L_CVT_DEL": "PVC leather"
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico 6 posiciones",
+                "1.5L_MT_STD": false,
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": false,
+                "1.5L_CVT_DEL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "1.5L_MT_STD": 4,
+                "1.5L_MT_COM": 4,
+                "1.5L_CVT_COM": 4,
+                "1.5L_CVT_DEL": 6
+            }
+        ],
+        "exterior": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Cluster virtual 12.3\"",
+                "1.5L_MT_STD": false,
+                "1.5L_MT_COM": false,
+                "1.5L_CVT_COM": true,
+                "1.5L_CVT_DEL": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ESP",
+            "EPB",
+            "ISOFIX",
+            "Alarma cinturón conductor",
+            "Alarma cinturón pasajero"
+        ],
+        "interior": [
+            "Volante multifunción",
+            "Control crucero",
+            "Aire acondicionado electrónico",
+            "Filtro PM2.5"
+        ],
+        "exterior": [
+            "Faros LED",
+            "Luces diurnas LED",
+            "Faros con sensor automático"
+        ],
+        "tecnologia": [
+            "Pantalla 10.25\"",
+            "Android Auto",
+            "Apple CarPlay",
+            "Bluetooth"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura manual desde imagen PDF",
+        "fuente": "mg-5_2025.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Documento escaneado. Se transcribieron valores exactamente como aparecen."
+    }
+}

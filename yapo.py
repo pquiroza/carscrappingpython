@@ -1,11 +1,12 @@
 # yapo_daily_ads.py
 # Scraper diario (Opción A): solo procesa AVISOS nuevos (por ad_id) y corta temprano
 # Incluye:
-#  - Título completo (h1)
-#  - Fecha de publicación (label "Publicado" / "Publicación" / "Fecha..." flexible)
-#  - Marca, Modelo, Precio, Año, Kilómetros, Combustible, Transmisión (desde bloque insight dt/dd)
+#  - Título completo
+#  - Fecha de publicación
+#  - Marca, Modelo, Precio, Año, Kilómetros, Combustible, Transmisión
 #  - Persistencia incremental por ad_id leyendo JSONL
 #  - Corte temprano cuando encuentra muchos avisos seguidos ya vistos
+#  - Validación: si no logra extraer precio válido, NO guarda el aviso
 #
 # Requisitos:
 #   pip install playwright
@@ -29,7 +30,7 @@ SLEEP_LIST = 0.6
 SLEEP_DETAIL = 0.4
 
 # Límites (útil para pruebas)
-MAX_LIST_PAGES: Optional[int] = None   # None = todas (ojo: muchas)
+MAX_LIST_PAGES: Optional[int] = None   # None = todas
 MAX_ADS_TOTAL: Optional[int] = None    # None = sin límite
 
 # Corte temprano: cuando ya encontramos muchos avisos seguidos ya guardados,
@@ -79,30 +80,31 @@ def build_list_url(page: int) -> str:
 def parse_clp_price(text: str) -> Optional[int]:
     """
     Extrae el primer monto tipo CLP del texto.
-    - Ignora porcentajes (ej: 4%, 4 %)
-    - Prioriza formato con puntos de miles (ej: 119.900.000)
-    - Fallback: primer número largo (>=5 dígitos)
     """
     if not text:
         return None
 
     t = str(text)
 
-    # 1) elimina porcentajes (4%, 4 %, 4.5%, etc.)
-    t = re.sub(r"\b\d+(?:[.,]\d+)?\s*%\b", " ", t)
+    # elimina porcentajes
+    t = re.sub(r"\b\d+(?:[.,]\d+)?\s*%", " ", t)
 
-    # 2) primer monto con puntos de miles: 119.900.000
-    m = re.search(r"(\d{1,3}(?:\.\d{3})+)", t)
+    # prioridad: montos con símbolo $
+    m = re.search(r"\$\s*(\d{1,3}(?:\.\d{3})+)", t)
     if m:
         return int(m.group(1).replace(".", ""))
 
-    # 3) fallback: primer número largo (evita "4" o "2026")
-    m2 = re.search(r"\d{5,}", t)
-    if m2:
-        return int(m2.group(0))
+    # monto con puntos de miles sin $
+    m = re.search(r"\b(\d{1,3}(?:\.\d{3})+)\b", t)
+    if m:
+        return int(m.group(1).replace(".", ""))
+
+    # fallback: número largo
+    m = re.search(r"\b(\d{5,})\b", t)
+    if m:
+        return int(m.group(1))
 
     return None
-
 
 
 def normalize_transmision(t: Optional[str]) -> Optional[str]:
@@ -114,6 +116,8 @@ def normalize_transmision(t: Optional[str]) -> Optional[str]:
     if "manual" in tt:
         return "Manual"
     return t.strip()
+
+
 def parse_int_digits(s: str) -> Optional[int]:
     if not s:
         return None
@@ -127,7 +131,7 @@ def parse_fecha_publicado_to_iso(texto: Optional[str]) -> Optional[str]:
     Soporta:
       - "02 ene 2026", "2 enero 2026"
       - "02/01/2026" o "02-01-2026"
-      - Relativo simple: "hace 3 días", "hace 2 horas", "hace 1 semana" (aprox.)
+      - Relativo simple: "hace 3 días", "hace 2 horas", "hace 1 semana"
     """
     if not texto:
         return None
@@ -157,7 +161,7 @@ def parse_fecha_publicado_to_iso(texto: Optional[str]) -> Optional[str]:
             except ValueError:
                 return None
 
-    # Relativo: "hace 3 días/horas/semanas/meses"
+    # Relativo
     m = re.search(r"\bhace\s+(\d+)\s+(minuto|minutos|hora|horas|día|dias|días|semana|semanas|mes|meses)\b", t)
     if m:
         n = int(m.group(1))
@@ -172,7 +176,7 @@ def parse_fecha_publicado_to_iso(texto: Optional[str]) -> Optional[str]:
         elif unit.startswith("semana"):
             dt = now - timedelta(days=7 * n)
         elif unit.startswith("mes"):
-            dt = now - timedelta(days=30 * n)  # aproximación
+            dt = now - timedelta(days=30 * n)
         else:
             return None
         return dt.date().isoformat()
@@ -187,12 +191,10 @@ def parse_fecha_publicado_to_iso(texto: Optional[str]) -> Optional[str]:
 
 async def safe_goto(page, url: str, wait_css: str, timeout: int = 60000):
     await page.goto(url, wait_until="domcontentloaded", timeout=timeout)
-    # "attached" = existe en DOM, no exige visible (evita timeouts por overlays/viewport)
     await page.wait_for_selector(wait_css, timeout=timeout, state="attached")
 
 
 async def try_close_cookie_banner(page):
-    # Best-effort
     for sel in [
         "button:has-text('Aceptar')",
         "button:has-text('Acepto')",
@@ -230,8 +232,10 @@ async def extract_ad_ids_from_list_page(page) -> List[str]:
         const out = [];
         for (const s of scripts) {
           const t = s.textContent || "";
-          const m = t.match(/ga4addata\\[(\\d+)\\]\\s*=\\s*\\{/);
-          if (m && m[1]) out.push(m[1]);
+          const matches = [...t.matchAll(/ga4addata\\[(\\d+)\\]\\s*=\\s*\\{/g)];
+          for (const m of matches) {
+            if (m[1]) out.push(m[1]);
+          }
         }
         return out;
       }
@@ -247,7 +251,7 @@ async def extract_ad_ids_from_list_page(page) -> List[str]:
 
 async def find_detail_url_for_ad(page, ad_id: str) -> Optional[str]:
     """
-    Busca un <a href=".../ad_id"> dentro del listado. Esto suele existir.
+    Busca un <a href=".../ad_id"> dentro del listado.
     """
     return await page.evaluate(
         """(adid) => {
@@ -263,23 +267,16 @@ async def find_detail_url_for_ad(page, ad_id: str) -> Optional[str]:
 
 
 async def extract_fecha_publicado_from_labels(page) -> Optional[str]:
-    """
-    Busca una etiqueta <dt> que contenga publicado/publicación/fecha,
-    y devuelve su <dd> asociado (el dd hermano inmediato).
-    Además tiene fallback a textos sueltos tipo "Publicado hace 3 días".
-    """
     return await page.evaluate("""
       () => {
         const clean = (s) => (s || '').replace(/\\s+/g,' ').trim();
         const norm = (s) => clean(s).toLowerCase()
-          .normalize('NFD').replace(/[\\u0300-\\u036f]/g,''); // sin tildes
+          .normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
 
         const wanted = (k) => {
-          // publicado / publicacion / fecha de publicacion
           return k.includes('public') || (k.includes('fecha') && k.includes('public'));
         };
 
-        // 1) Caso ideal: dt + dd en el mismo dl (dd como hermano inmediato)
         const dts = Array.from(document.querySelectorAll('dt'));
         for (const dt of dts) {
           const key = norm(dt.textContent);
@@ -291,7 +288,6 @@ async def extract_fecha_publicado_from_labels(page) -> Optional[str]:
             if (val) return val;
           }
 
-          // a veces dt y dd no son hermanos directos
           const dl = dt.closest('dl');
           if (dl) {
             const all = Array.from(dl.querySelectorAll('dt'));
@@ -306,7 +302,6 @@ async def extract_fecha_publicado_from_labels(page) -> Optional[str]:
           }
         }
 
-        // 2) Fallback: texto suelto (común en algunos layouts)
         const candidates = Array.from(document.querySelectorAll('body *'))
           .map(n => clean(n.textContent))
           .filter(t => t && t.length <= 80);
@@ -314,7 +309,6 @@ async def extract_fecha_publicado_from_labels(page) -> Optional[str]:
         for (const t of candidates) {
           const nt = norm(t);
           if (nt.startsWith('publicado') || nt.includes('publicado hace') || nt.includes('publicacion')) {
-            // devuelve el texto tal cual, parse_fecha_publicado_to_iso lo intentará convertir
             return t;
           }
         }
@@ -324,13 +318,49 @@ async def extract_fecha_publicado_from_labels(page) -> Optional[str]:
     """)
 
 
+async def extract_precio_from_page(page) -> Optional[str]:
+    """
+    Intenta obtener el precio visible del aviso desde distintos lugares del DOM,
+    no solo desde el bloque dt/dd.
+    """
+    return await page.evaluate("""
+      () => {
+        const clean = (s) => (s || '').replace(/\\s+/g, ' ').trim();
+
+        const candidates = [
+          '[data-testid*="price"]',
+          '[class*="price"]',
+          '[class*="Price"]',
+          'strong',
+          'b',
+          'dd',
+          'span',
+          'div'
+        ];
+
+        for (const sel of candidates) {
+          const nodes = Array.from(document.querySelectorAll(sel));
+          for (const n of nodes) {
+            const t = clean(n.textContent);
+            if (!t) continue;
+
+            if (/\\$\\s*\\d{1,3}(?:\\.\\d{3})+/.test(t)) return t;
+            if (/\\b\\d{1,3}(?:\\.\\d{3})+\\b/.test(t) && t.includes('.')) return t;
+          }
+        }
+
+        const bodyText = clean(document.body?.innerText || '');
+        const m = bodyText.match(/\\$\\s*\\d{1,3}(?:\\.\\d{3})+/);
+        if (m) return m[0];
+
+        return null;
+      }
+    """)
 
 
 async def scrape_detail(page, url: str, ad_id: str) -> AdData:
     await safe_goto(page, url, wait_css="body", timeout=60000)
 
-    # ✅ Espera activa: a veces el contenedor existe pero está vacío
-    # Esperamos a que aparezca al menos un dt con "Marca" o "Año"
     try:
         await page.wait_for_selector(
             "dl.d3-property-insight__attribute-details dt",
@@ -340,7 +370,7 @@ async def scrape_detail(page, url: str, ad_id: str) -> AdData:
     except:
         pass
 
-    # KV del insight (normaliza keys: Año -> ano, Kilómetros -> kilometros)
+    # KV del insight
     data: Dict[str, str] = await page.evaluate("""
       () => {
         const out = {};
@@ -349,9 +379,8 @@ async def scrape_detail(page, url: str, ad_id: str) -> AdData:
         const normKey = (s) => clean(s)
           .toLowerCase()
           .normalize('NFD')
-          .replace(/[\\u0300-\\u036f]/g,''); // quita tildes
+          .replace(/[\\u0300-\\u036f]/g,'');
 
-        // ✅ root flexible: a veces está en d3-container, a veces en el wrapper
         const root =
           document.querySelector('div.d3-container.d3-property__insight') ||
           document.querySelector('div.d3-property-insight.d3-property__insight--wrapped') ||
@@ -373,7 +402,6 @@ async def scrape_detail(page, url: str, ad_id: str) -> AdData:
       }
     """)
 
-    # ✅ Título real suele ser H2
     titulo = await page.evaluate("""
       () => {
         const clean = (s) => (s || '').replace(/\\s+/g,' ').trim();
@@ -385,7 +413,6 @@ async def scrape_detail(page, url: str, ad_id: str) -> AdData:
       }
     """)
 
-    # Fecha publicación (desde label en el HTML)
     fecha_texto = await extract_fecha_publicado_from_labels(page)
     fecha_iso = parse_fecha_publicado_to_iso(fecha_texto)
 
@@ -398,27 +425,26 @@ async def scrape_detail(page, url: str, ad_id: str) -> AdData:
         raw=data
     )
 
-    # ✅ ahora las keys vienen normalizadas (sin tildes)
     ad.marca = data.get("marca")
     ad.modelo = data.get("modelo")
     ad.transmision = normalize_transmision(data.get("transmision"))
+
     ad.precio_texto = data.get("precio")
+    if not ad.precio_texto:
+        ad.precio_texto = await extract_precio_from_page(page)
+
     ad.precio = parse_clp_price(ad.precio_texto or "")
     ad.anio = parse_int_digits(data.get("ano") or "")
     ad.kilometros_texto = data.get("kilometros")
     ad.kilometros = parse_int_digits(ad.kilometros_texto or "")
     ad.combustible = data.get("combustible")
 
-    # 🔎 debug útil (puedes dejarlo un par de corridas)
     if not data:
         print("⚠️ Insight vacío:", url)
     else:
         print("✅ Insight:", data)
 
     return ad
-
-
-
 
 
 def load_seen_from_jsonl(path: str) -> Set[str]:
@@ -483,7 +509,6 @@ async def main():
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
         )
 
-        # Bloquear pesados (reduce requests y mejora estabilidad)
         async def block_heavy(route):
             r = route.request
             if r.resource_type in ("image", "font", "media"):
@@ -494,12 +519,10 @@ async def main():
 
         page = await context.new_page()
 
-        # Entrar a página inicial
         await safe_goto(page, START, wait_css="body", timeout=60000)
         await try_close_cookie_banner(page)
         await page.wait_for_selector("script", state="attached", timeout=60000)
 
-        # Paginación total
         last_page = await get_last_page(page)
         if MAX_LIST_PAGES is not None:
             last_page = min(last_page, MAX_LIST_PAGES)
@@ -544,20 +567,29 @@ async def main():
                     ad = await scrape_detail(page, detail_url, ad_id)
                 except PWTimeoutError:
                     print(f"   ❌ Timeout en detalle: {detail_url} (skip)")
-                    # Volver al listado y seguir
                     await safe_goto(page, list_url, wait_css="body", timeout=60000)
                     await asyncio.sleep(0.2)
                     continue
 
-                # Guardado local (respaldo + persistencia)
+                # Validación obligatoria: si no hay precio válido, NO guardar
+                if ad.precio is None or ad.precio <= 0:
+                    print(
+                        f"   ⚠️ SKIP sin precio válido | ad_id={ad_id} "
+                        f"precio_texto={ad.precio_texto!r} precio={ad.precio} url={detail_url}"
+                    )
+                    await asyncio.sleep(SLEEP_DETAIL)
+                    await safe_goto(page, list_url, wait_css="body", timeout=60000)
+                    await asyncio.sleep(0.1)
+                    continue
+
                 append_jsonl(out_jsonl, ad)
                 append_csv(out_csv, ad)
                 seen.add(ad_id)
                 total_new += 1
                 print(asdict(ad))
-                
+
                 guarda_yapo(asdict(ad))
-                
+
                 print(
                     f"   ✅ NUEVO {total_new} | ad_id={ad_id} "
                     f"titulo={ad.titulo!r} publicado={ad.fecha_publicado_texto!r} ({ad.fecha_publicado_iso}) "
@@ -567,7 +599,6 @@ async def main():
 
                 await asyncio.sleep(SLEEP_DETAIL)
 
-                # Volver al listado para seguir iterando (1 sola pestaña)
                 await safe_goto(page, list_url, wait_css="body", timeout=60000)
                 await asyncio.sleep(0.1)
 

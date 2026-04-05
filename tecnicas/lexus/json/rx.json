@@ -1,0 +1,197 @@
+{
+    "vehiculo": {
+        "marca": "Lexus",
+        "modelo": "RX",
+        "año": null,
+        "versiones": [
+            "PLUS",
+            "LUX_4x4",
+            "F-SPORT_4x4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PLUS": "A25A-FXS",
+            "LUX_4x4": "A25A-FXS",
+            "F-SPORT_4x4": "T24A-FTS (HV)"
+        },
+        "cilindrada": {
+            "PLUS": "2.487 cc / 4 en línea",
+            "LUX_4x4": "2.487 cc / 4 en línea",
+            "F-SPORT_4x4": "2.393 cc turbo / 4 en línea"
+        },
+        "potencia_hp": {
+            "PLUS": "246 hp",
+            "LUX_4x4": "246 hp",
+            "F-SPORT_4x4": "366 hp"
+        },
+        "potencia_rpm": {
+            "PLUS": "6.000",
+            "LUX_4x4": "6.000",
+            "F-SPORT_4x4": "6.000"
+        },
+        "torque_nm": {
+            "PLUS": "239 nm",
+            "LUX_4x4": "239 nm",
+            "F-SPORT_4x4": "460 nm"
+        },
+        "torque_rpm": {
+            "PLUS": "4.300-4.500",
+            "LUX_4x4": "4.300-4.500",
+            "F-SPORT_4x4": "2.000-3.000"
+        },
+        "combustible": "Eléctrico-Híbrido Auto Recargable",
+        "transmision": {
+            "PLUS": "CVT",
+            "LUX_4x4": "CVT",
+            "F-SPORT_4x4": "6AT"
+        },
+        "traccion": "4x4"
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": "235 / 50R21",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4890,
+        "ancho_mm": 1920,
+        "alto_mm": 1695,
+        "distancia_ejes_mm": 2850,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 612,
+        "capacidad_estanque_lts": 65
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta aleación",
+            "PLUS": "21\"",
+            "LUX_4x4": "21\"",
+            "F-SPORT_4x4": "21\" F-Sport"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Head up display",
+                "PLUS": false,
+                "LUX_4x4": true,
+                "F-SPORT_4x4": true
+            },
+            {
+                "caracteristica": "Luces altas automáticas",
+                "PLUS": "AHB",
+                "LUX_4x4": "AHB",
+                "F-SPORT_4x4": "AHS"
+            },
+            {
+                "caracteristica": "Asistencia estacionamiento inteligente",
+                "PLUS": false,
+                "LUX_4x4": true,
+                "F-SPORT_4x4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento conductor y pasajero ajuste lumbar",
+                "PLUS": "Sí, 2 direcciones",
+                "LUX_4x4": "Sí, 4 direcciones",
+                "F-SPORT_4x4": "Sí, 2 direcciones"
+            },
+            {
+                "caracteristica": "Ajuste asientos delanteros",
+                "PLUS": "D+P eléctrico",
+                "LUX_4x4": "D+P eléctrico con memoria",
+                "F-SPORT_4x4": "D+P eléctrico"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados y climatizados",
+                "PLUS": "Delanteros",
+                "LUX_4x4": "Delanteros y traseros",
+                "F-SPORT_4x4": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Espejo retrovisor",
+                "PLUS": "Electrocromático",
+                "LUX_4x4": "Electrocromático",
+                "F-SPORT_4x4": "Electrocromático digital"
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "PLUS": "12 parlantes",
+                "LUX_4x4": "12 parlantes",
+                "F-SPORT_4x4": "21 parlantes Mark Levinson"
+            },
+            {
+                "caracteristica": "Tapizado asientos",
+                "PLUS": "Cuero suave",
+                "LUX_4x4": "Cuero semi anilina",
+                "F-SPORT_4x4": "Cuero suave"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Cámara retroceso",
+                "PLUS": "Sí",
+                "LUX_4x4": "Panorámica (360°)",
+                "F-SPORT_4x4": "Panorámica (360°)"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Suspensión variable adaptativa (AVS)",
+                "PLUS": false,
+                "LUX_4x4": true,
+                "F-SPORT_4x4": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Lexus Safety System+ 3",
+            "Detector punto ciego (BSM) con RCTA y SEA",
+            "Control crucero adaptativo rango completo",
+            "ABS",
+            "VSC",
+            "PKSB",
+            "Sensores delanteros y traseros",
+            "HAC + DAC",
+            "7 Airbags"
+        ],
+        "interior": [
+            "Climatizador Tri-zona",
+            "Cargador inalámbrico",
+            "EPB con Brake Hold",
+            "Puertos USB 3C y 1A delanteros + 2C traseros",
+            "Pantalla Touch 14\" con Apple CarPlay inalámbrico y Android Auto",
+            "Sunroof panorámico",
+            "Velocímetro 12,3\"",
+            "Modos conducción Eco / Normal / Sport / Custom"
+        ],
+        "exterior": [
+            "Focos LED",
+            "Sensor lluvia",
+            "DRL LED",
+            "Neblineros delanteros",
+            "Portalón eléctrico manos libres"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "FICHA_ESP_ONLINE_LEXUS_RX1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Las columnas del documento son Plus, Lux (4x4) y F-Sport (4x4). Se respetaron textos literales del cuadro técnico."
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "KONA Hibrido",
+        "año": null,
+        "versiones": [
+            "1.6_AT_HEV_PLUS",
+            "1.6_AT_HEV_DESIGN"
+        ]
+    },
+    "motor": {
+        "tipo": "GDI - CVVT",
+        "cilindrada": "1.580 cc",
+        "potencia_hp": {
+            "motor_combustion": "104 hp a 5.700 rpm",
+            "motor_electrico": "43 hp (32 kW)",
+            "combinada": "139 hp"
+        },
+        "potencia_rpm": "5.700",
+        "torque_nm": {
+            "motor_combustion": "144 Nm",
+            "motor_electrico": "170 Nm"
+        },
+        "torque_rpm": "4.000",
+        "combustible": "Gasolina",
+        "transmision": "Automática DCT 6",
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi Link",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "1.6_AT_HEV_PLUS": "215/60R17",
+            "1.6_AT_HEV_DESIGN": "215/55R18"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4350,
+        "ancho_mm": 1825,
+        "alto_mm": 1580,
+        "distancia_ejes_mm": 2660,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 1950,
+        "capacidad_maletero_lts": "466 (min) / 1.241 (max)",
+        "capacidad_estanque_lts": 38
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "1.6_AT_HEV_PLUS": "17\"",
+            "1.6_AT_HEV_DESIGN": "18\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Km/L Ciudad",
+            "1.6_AT_HEV_PLUS": "40,1",
+            "1.6_AT_HEV_DESIGN": "40,1"
+        },
+        {
+            "caracteristica": "Consumo Km/L Mixto",
+            "1.6_AT_HEV_PLUS": "25,8",
+            "1.6_AT_HEV_DESIGN": "25,8"
+        },
+        {
+            "caracteristica": "Consumo Km/L Carretera",
+            "1.6_AT_HEV_PLUS": "21,4",
+            "1.6_AT_HEV_DESIGN": "21,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "FCA",
+                "1.6_AT_HEV_PLUS": "Frontal",
+                "1.6_AT_HEV_DESIGN": "Frontal/Cruces/Giros"
+            },
+            {
+                "caracteristica": "BCA",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "RCCA",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "SSC - Control crucero adaptativo",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "Asistencia de luces altas",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "Advertencia atención conductor",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster de supervisión digital",
+                "1.6_AT_HEV_PLUS": "TFT 4\"",
+                "1.6_AT_HEV_DESIGN": "12,3\""
+            },
+            {
+                "caracteristica": "Control crucero",
+                "1.6_AT_HEV_PLUS": true,
+                "1.6_AT_HEV_DESIGN": "Adaptativo"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "1.6_AT_HEV_PLUS": "Tela",
+                "1.6_AT_HEV_DESIGN": "Eco-Cuero"
+            },
+            {
+                "caracteristica": "Asiento conductor con soporte lumbar eléctrico",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste eléctrico",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "1.6_AT_HEV_PLUS": false,
+                "1.6_AT_HEV_DESIGN": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras LED",
+                "1.6_AT_HEV_PLUS": true,
+                "1.6_AT_HEV_DESIGN": "Proyección + Señalizador LED"
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "HAC",
+            "ISOFIX",
+            "ESC",
+            "MCB",
+            "TPMS",
+            "Sensor estacionamiento delantero y trasero",
+            "Cámara retroceso con guías dinámicas",
+            "LKA",
+            "LFA"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos totales",
+            "Asientos abatibles 60/40",
+            "Asiento conductor regulable altura",
+            "Apoyabrazos trasero",
+            "Barras techo",
+            "Cargador inalámbrico",
+            "Climatizador",
+            "Cobertor maletero",
+            "Control audio bluetooth volante",
+            "Encendido automático luces",
+            "Freno mano electrónico Auto Hold",
+            "Llave inteligente botón encendido",
+            "Luces traseras LED",
+            "Luz día LED",
+            "Neblinero trasero",
+            "Paddle Shift",
+            "Radio Touch 12,3\" Apple CarPlay & Android Auto inalámbrico",
+            "Retrovisores eléctricos abatibles",
+            "Selección modo manejo (Eco/Sport/Nieve)",
+            "Tweeters",
+            "Vidrios traseros privacidad",
+            "Volante regulable altura y profundidad",
+            "Volante forrado en cuero",
+            "Salida aire plazas traseras",
+            "Número USB's: 2 delanteros y 2 traseros"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-kona-sx2-hev.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual."
+    }
+}

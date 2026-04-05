@@ -1,0 +1,442 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "Nuevo Haval H6",
+        "año": null,
+        "versiones": [
+            "ELITE_2WD",
+            "DELUXE_2WD",
+            "DELUXE_4WD",
+            "PHEV_DELUXE_2WD",
+            "PHEV_DELUXE_4WD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ELITE_2WD": "Turbo 4 cilindros 16V",
+            "DELUXE_2WD": "Turbo 4 cilindros 16V",
+            "DELUXE_4WD": "Turbo 4 cilindros 16V",
+            "PHEV_DELUXE_2WD": "Turbo 4 cilindros 16V + eléctrico",
+            "PHEV_DELUXE_4WD": "Turbo 4 cilindros 16V + eléctrico"
+        },
+        "cilindrada": {
+            "ELITE_2WD": 2.0,
+            "DELUXE_2WD": 2.0,
+            "DELUXE_4WD": 2.0,
+            "PHEV_DELUXE_2WD": 1.5,
+            "PHEV_DELUXE_4WD": 1.5
+        },
+        "potencia_hp": {
+            "ELITE_2WD": "235",
+            "DELUXE_2WD": "235",
+            "DELUXE_4WD": "235",
+            "PHEV_DELUXE_2WD": "147",
+            "PHEV_DELUXE_4WD": "147"
+        },
+        "potencia_rpm": {
+            "ELITE_2WD": "6.000-6.300",
+            "DELUXE_2WD": "6.000-6.300",
+            "DELUXE_4WD": "6.000-6.300",
+            "PHEV_DELUXE_2WD": "5.500-6.000",
+            "PHEV_DELUXE_4WD": "5.500-6.000"
+        },
+        "torque_nm": {
+            "ELITE_2WD": "385",
+            "DELUXE_2WD": "385",
+            "DELUXE_4WD": "385",
+            "PHEV_DELUXE_2WD": "240",
+            "PHEV_DELUXE_4WD": "240"
+        },
+        "torque_rpm": {
+            "ELITE_2WD": "1.500-4.400",
+            "DELUXE_2WD": "1.500-4.400",
+            "DELUXE_4WD": "1.500-4.400",
+            "PHEV_DELUXE_2WD": "1.800-4.000",
+            "PHEV_DELUXE_4WD": "1.800-4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "ELITE_2WD": "DCT 9",
+            "DELUXE_2WD": "DCT 9",
+            "DELUXE_4WD": "DCT 9",
+            "PHEV_DELUXE_2WD": "Automática con motor eléctrico incorporado",
+            "PHEV_DELUXE_4WD": "Automática con motor eléctrico incorporado"
+        },
+        "traccion": {
+            "ELITE_2WD": "2WD",
+            "DELUXE_2WD": "2WD",
+            "DELUXE_4WD": "AWD",
+            "PHEV_DELUXE_2WD": "2WD",
+            "PHEV_DELUXE_4WD": "AWD HI4"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": null,
+        "rueda_repuesto": {
+            "ELITE_2WD": "Provisoria",
+            "DELUXE_2WD": "Provisoria",
+            "DELUXE_4WD": "Provisoria",
+            "PHEV_DELUXE_2WD": "Kit reparación neumáticos",
+            "PHEV_DELUXE_4WD": "Kit reparación neumáticos"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4703,
+        "ancho_mm": 1886,
+        "alto_mm": 1730,
+        "distancia_ejes_mm": 2738,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "ELITE_2WD": 2050,
+            "DELUXE_2WD": 2135,
+            "DELUXE_4WD": 2070,
+            "PHEV_DELUXE_2WD": 1915,
+            "PHEV_DELUXE_4WD": 2070
+        },
+        "capacidad_maletero_lts": {
+            "ELITE_2WD": 600,
+            "DELUXE_2WD": 560,
+            "DELUXE_4WD": 560,
+            "PHEV_DELUXE_2WD": 560,
+            "PHEV_DELUXE_4WD": 560
+        },
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia eléctrica (HP)",
+            "ELITE_2WD": null,
+            "DELUXE_2WD": null,
+            "DELUXE_4WD": null,
+            "PHEV_DELUXE_2WD": "174",
+            "PHEV_DELUXE_4WD": "Del:107 / Tras:201"
+        },
+        {
+            "caracteristica": "Potencia combinada (HP)",
+            "ELITE_2WD": null,
+            "DELUXE_2WD": null,
+            "DELUXE_4WD": null,
+            "PHEV_DELUXE_2WD": "322",
+            "PHEV_DELUXE_4WD": "359"
+        },
+        {
+            "caracteristica": "Torque eléctrico (Nm)",
+            "ELITE_2WD": null,
+            "DELUXE_2WD": null,
+            "DELUXE_4WD": null,
+            "PHEV_DELUXE_2WD": "300",
+            "PHEV_DELUXE_4WD": "Del:170 / Tras:350"
+        },
+        {
+            "caracteristica": "Torque combinado (Nm)",
+            "ELITE_2WD": null,
+            "DELUXE_2WD": null,
+            "DELUXE_4WD": null,
+            "PHEV_DELUXE_2WD": "540",
+            "PHEV_DELUXE_4WD": "760"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "ELITE_2WD": "19\" negras",
+            "DELUXE_2WD": "19\" negras",
+            "DELUXE_4WD": "19\" negras",
+            "PHEV_DELUXE_2WD": "19\" negras",
+            "PHEV_DELUXE_4WD": "19\" negras"
+        },
+        {
+            "caracteristica": "Rueda repuesto",
+            "ELITE_2WD": "Provisoria",
+            "DELUXE_2WD": "Provisoria",
+            "DELUXE_4WD": "Provisoria",
+            "PHEV_DELUXE_2WD": "Kit reparación neumáticos",
+            "PHEV_DELUXE_4WD": "Kit reparación neumáticos"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Cámara 360 + chasis transparente",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Estacionamiento asistido",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Conector carga CCS2",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Cargador viaje 2kW",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "HUD",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Modos conducción básico",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": false,
+                "PHEV_DELUXE_4WD": false
+            },
+            {
+                "caracteristica": "Modos conducción offroad",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico 6 posiciones",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": false,
+                "PHEV_DELUXE_4WD": false
+            },
+            {
+                "caracteristica": "Asiento conductor 6 posiciones + lumbar",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Asiento conductor memoria + bienvenida",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Asiento copiloto manual 4 posiciones",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": false,
+                "PHEV_DELUXE_4WD": false
+            },
+            {
+                "caracteristica": "Asiento copiloto eléctrico 4 posiciones",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Espejo interior manual",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": false,
+                "PHEV_DELUXE_4WD": false
+            },
+            {
+                "caracteristica": "Espejo interior electrocrómico",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico apertura pie",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            },
+            {
+                "caracteristica": "Rueda repuesto provisoria",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": true,
+                "DELUXE_4WD": true,
+                "PHEV_DELUXE_2WD": false,
+                "PHEV_DELUXE_4WD": false
+            },
+            {
+                "caracteristica": "Kit reparación neumáticos",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": false,
+                "DELUXE_4WD": false,
+                "PHEV_DELUXE_2WD": true,
+                "PHEV_DELUXE_4WD": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Número parlantes",
+                "ELITE_2WD": "8",
+                "DELUXE_2WD": "8 + Subwoofer",
+                "DELUXE_4WD": "8 + Subwoofer",
+                "PHEV_DELUXE_2WD": "8 + Subwoofer",
+                "PHEV_DELUXE_4WD": "8 + Subwoofer"
+            }
+        ],
+        "adas": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ABS + EBD",
+            "ESP",
+            "TCS",
+            "HBA",
+            "RMI",
+            "HHC",
+            "HDC",
+            "TPMS",
+            "Sensores delanteros",
+            "Sensores traseros",
+            "ISOFIX (2)",
+            "Inmovilizador + alarma"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Salidas aire traseras",
+            "Indicador temperatura exterior",
+            "Alzavidrios one-touch anti-atrape todos",
+            "Cierre centralizado",
+            "Control multifunción apertura remota",
+            "Botón keyless",
+            "Start/Stop",
+            "Computador a bordo",
+            "Panel digital 10.25\"",
+            "Comando por voz",
+            "Pantalla 14.6\"",
+            "CarPlay Android Auto inalámbrico",
+            "Volumen radio automático",
+            "USB delanteros (2)",
+            "USB segunda fila (A + C)",
+            "USB parabrisas delantero",
+            "Sistema sonido DTS",
+            "Cargador inalámbrico",
+            "Freno mano eléctrico",
+            "Autohold",
+            "Volante ecocuero",
+            "Selector marchas electrónico columna",
+            "Volante ajustable altura profundidad",
+            "Tapiz ecocuero",
+            "Apoyabrazos delantero y trasero",
+            "Asientos traseros 3 apoyacabezas",
+            "Asientos traseros 60:40",
+            "Toma 12V maletero",
+            "Parasol con espejo y luz",
+            "Luz techo LED",
+            "Luz techo central",
+            "Luces laterales lectura",
+            "Cubre equipaje desmontable"
+        ],
+        "exterior": [
+            "Focos LED regulación altura",
+            "Luces traseras LED",
+            "DRL",
+            "Sensor luces automático",
+            "Follow me home",
+            "Neblinero trasero LED",
+            "Espejos eléctricos plegables",
+            "Vidrios traseros tinteados",
+            "Sensor lluvia",
+            "Spoiler trasero",
+            "Barras techo",
+            "Llantas 19\" negras"
+        ],
+        "tecnologia": [],
+        "adas": [
+            "AAC",
+            "IACC",
+            "TJA",
+            "LDW",
+            "LKA",
+            "LCA",
+            "BSW",
+            "ELK",
+            "FCW",
+            "RCW",
+            "AEB",
+            "AEB-P",
+            "AEB-B",
+            "TSR",
+            "DOW",
+            "Frenado tráfico cruzado"
+        ]
+    },
+    "colores": [
+        "Gris Metalizado",
+        "Blanco Titanio",
+        "Negro",
+        "Marfil"
+    ],
+    "garantia": [
+        "5 años o 150.000 km",
+        "8 años o 150.000 km sistema híbrido"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización a formato estándar (sin cambiar contenido)",
+        "fuente": "ficha-te-cnica-new-h6plusphev-140126.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se reestructuró el extracto por versiones a llaves fijas (ELITE_2WD, DELUXE_2WD, DELUXE_4WD, PHEV_DELUXE_2WD, PHEV_DELUXE_4WD). Los datos PHEV (potencia/torque eléctricos y combinados) se dejaron en tabla_comparativa_rendimiento."
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "X70 PLUS",
+        "año": null,
+        "versiones": [
+            "X70_PLUS_1.5T_6DCT_FL",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "X70_PLUS_1.5T_6DCT_FL": "1.5 Turbo",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "1.6 Turbo"
+        },
+        "cilindrada": {
+            "X70_PLUS_1.5T_6DCT_FL": 1.498,
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": 1.598
+        },
+        "potencia_hp": {
+            "X70_PLUS_1.5T_6DCT_FL": "145",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "188"
+        },
+        "potencia_rpm": {
+            "X70_PLUS_1.5T_6DCT_FL": "5500",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "5500"
+        },
+        "torque_nm": {
+            "X70_PLUS_1.5T_6DCT_FL": "210",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "275"
+        },
+        "torque_rpm": {
+            "X70_PLUS_1.5T_6DCT_FL": "5500",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "5500"
+        },
+        "combustible": {
+            "X70_PLUS_1.5T_6DCT_FL": "Gasolina",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "X70_PLUS_1.5T_6DCT_FL": "Inyección multipunto",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "Inyección directa"
+        },
+        "norma_emisiones": {
+            "X70_PLUS_1.5T_6DCT_FL": "Euro 6C",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "Euro 6C"
+        },
+        "transmision": {
+            "X70_PLUS_1.5T_6DCT_FL": "DCT",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "DCT"
+        },
+        "traccion": {
+            "X70_PLUS_1.5T_6DCT_FL": "2WD",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "EPS (Dirección asistida eléctrica)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente Macpherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco Sólido",
+        "freno_de_mano": "Electrónico + Autohold",
+        "neumaticos": {
+            "X70_PLUS_1.5T_6DCT_FL": "255 / 45 R20",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "255 / 45 R20"
+        },
+        "rueda_repuesto": "Uso temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4749,
+        "ancho_mm": 1900,
+        "alto_mm": 1720,
+        "distancia_ejes_mm": 2720,
+        "numero_pasajeros": 7,
+        "capacidad_estanque_lts": 57,
+        "capacidad_maletero_lts": {
+            "solo": 94,
+            "segunda_tercera_fila_abatibles": 1688
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "X70_PLUS_1.5T_6DCT_FL": "8,9",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "8,9"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "X70_PLUS_1.5T_6DCT_FL": "15,2",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "14,5"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "X70_PLUS_1.5T_6DCT_FL": "12,1",
+            "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "11,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "X70_PLUS_1.5T_6DCT_FL": false,
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con sensor de lluvia",
+                "X70_PLUS_1.5T_6DCT_FL": false,
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Modos de conducción",
+                "X70_PLUS_1.5T_6DCT_FL": "Eco / Sport",
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": "Eco / Normal / Sport"
+            },
+            {
+                "caracteristica": "Reposabrazos trasero",
+                "X70_PLUS_1.5T_6DCT_FL": false,
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "X70_PLUS_1.5T_6DCT_FL": false,
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": true
+            },
+            {
+                "caracteristica": "Climatizador dual",
+                "X70_PLUS_1.5T_6DCT_FL": false,
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags de cortina",
+                "X70_PLUS_1.5T_6DCT_FL": false,
+                "X70_PLUS_1.6L_GDI_7DCT_LUX_FL": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación",
+            "Cierre automático al salir del vehículo",
+            "Luces delanteras (Halógeno)",
+            "Luces diurnas (DLR)",
+            "Luces traseras LED",
+            "Lux auxiliar de dirección",
+            "Luces automáticas",
+            "Luces regulables en altura",
+            "Cámara de retroceso",
+            "Sunroof panorámico",
+            "Cámara 360° HD",
+            "Espejos retrovisores eléctricos",
+            "Espejos retrovisores abatibles electrónicamente",
+            "Espejos retrovisores abatibles calefaccionados",
+            "Señalizadores en los retrovisores",
+            "Portalón trasero eléctrico",
+            "Sensor de estacionamiento trasero",
+            "Barras en el techo",
+            "Limpiaparabrisas trasero"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos (one button up & down)",
+            "Asiento conductor ajuste eléctrico",
+            "Asientos traseros abatibles 60 / 40",
+            "Bluetooth",
+            "Conectividad: Carplay / Android auto inalámbrico",
+            "Cierre centralizado",
+            "Control de audio al volante",
+            "Volante forrado en altura y profundidad",
+            "Smart key y botón de encendido",
+            "Aire acondicionado eléctrico",
+            "Salida aire acondicionado segunda fila",
+            "Parasoles delanteros con espejo y luz de cortesía",
+            "Luz en el maletero",
+            "Estuche para lentes",
+            "Reposabrazos con guantera refrigerada"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Doble airbags delanteros",
+            "Airbags laterales delanteros",
+            "Anclaje ISOFIX",
+            "Recordatorio de cinturón de seguridad en todos los asientos",
+            "TPMS: Sistema de monitoreo de presión de neumáticos",
+            "EBA: Asistencia electrónica de frenado",
+            "TCS: Sistema de control de tracción",
+            "ESP: Control de estabilidad",
+            "HHC: Control de partida en pendiente",
+            "HDC: Control de descenso en pendiente",
+            "RMI: Sistema de mitigación de vuelco",
+            "CCS: Control crucero",
+            "LDW: Sistema de advertencia de cambio de carril",
+            "BSD: Detección de punto ciego",
+            "HAZ: Advertencia de peligro",
+            "Alerta de fatiga de conductor",
+            "Inmovilizador"
+        ]
+    },
+    "colores": [
+        "Blanco",
+        "Azul",
+        "Gris",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (●=true, -=false, columna única=aplica a todas las versiones)",
+        "fuente": "JETOUR_FT X70 PLUS NEW (12.feb).pdf",
+        "versiones_en_documento": 2,
+        "notas": null
+    }
+}

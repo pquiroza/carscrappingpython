@@ -1,0 +1,472 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "CX-30",
+        "año": null,
+        "versiones": [
+            "ENTRY 2.0 7G 6AT E6C EX",
+            "CORE 2.0 7G 6MT E6C EX",
+            "CORE 2.0 7G 6AT E6C EX",
+            "CORE PLUS 2.0 7G 6AT E6C EX",
+            "HIGH 2.5 AWD 6AT 7G E6C"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ENTRY 2.0 7G 6AT E6C EX": "2.0",
+            "CORE 2.0 7G 6MT E6C EX": "2.0",
+            "CORE 2.0 7G 6AT E6C EX": "2.0",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "2.0",
+            "HIGH 2.5 AWD 6AT 7G E6C": "2.5"
+        },
+        "cilindrada": {
+            "ENTRY 2.0 7G 6AT E6C EX": null,
+            "CORE 2.0 7G 6MT E6C EX": null,
+            "CORE 2.0 7G 6AT E6C EX": null,
+            "CORE PLUS 2.0 7G 6AT E6C EX": null,
+            "HIGH 2.5 AWD 6AT 7G E6C": null
+        },
+        "potencia_hp": {
+            "ENTRY 2.0 7G 6AT E6C EX": "153",
+            "CORE 2.0 7G 6MT E6C EX": "153",
+            "CORE 2.0 7G 6AT E6C EX": "153",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "153",
+            "HIGH 2.5 AWD 6AT 7G E6C": "186"
+        },
+        "potencia_rpm": {
+            "ENTRY 2.0 7G 6AT E6C EX": "6.000",
+            "CORE 2.0 7G 6MT E6C EX": "6.000",
+            "CORE 2.0 7G 6AT E6C EX": "6.000",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "6.000",
+            "HIGH 2.5 AWD 6AT 7G E6C": "6.000"
+        },
+        "torque_nm": {
+            "ENTRY 2.0 7G 6AT E6C EX": "200",
+            "CORE 2.0 7G 6MT E6C EX": "200",
+            "CORE 2.0 7G 6AT E6C EX": "200",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "200",
+            "HIGH 2.5 AWD 6AT 7G E6C": "252"
+        },
+        "torque_rpm": {
+            "ENTRY 2.0 7G 6AT E6C EX": "4.000",
+            "CORE 2.0 7G 6MT E6C EX": "4.000",
+            "CORE 2.0 7G 6AT E6C EX": "4.000",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "4.000",
+            "HIGH 2.5 AWD 6AT 7G E6C": "4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "ENTRY 2.0 7G 6AT E6C EX": "Automática",
+            "CORE 2.0 7G 6MT E6C EX": "Manual",
+            "CORE 2.0 7G 6AT E6C EX": "Automática",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "Automática",
+            "HIGH 2.5 AWD 6AT 7G E6C": "Automática"
+        },
+        "traccion": {
+            "ENTRY 2.0 7G 6AT E6C EX": null,
+            "CORE 2.0 7G 6MT E6C EX": null,
+            "CORE 2.0 7G 6AT E6C EX": null,
+            "CORE PLUS 2.0 7G 6AT E6C EX": null,
+            "HIGH 2.5 AWD 6AT 7G E6C": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de mano eléctrico",
+        "neumaticos": {
+            "ENTRY 2.0 7G 6AT E6C EX": "215/65 R16",
+            "CORE 2.0 7G 6MT E6C EX": "215/55 R18",
+            "CORE 2.0 7G 6AT E6C EX": "215/55 R18",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "215/55 R18",
+            "HIGH 2.5 AWD 6AT 7G E6C": "215/55 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4395,
+        "ancho_mm": 1795,
+        "alto_mm": 1540,
+        "distancia_ejes_mm": 2655,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": {
+            "ENTRY 2.0 7G 6AT E6C EX": 1936,
+            "CORE 2.0 7G 6MT E6C EX": 1900,
+            "CORE 2.0 7G 6AT E6C EX": 1936,
+            "CORE PLUS 2.0 7G 6AT E6C EX": 1936,
+            "HIGH 2.5 AWD 6AT 7G E6C": 2022
+        },
+        "capacidad_maletero_lts": {
+            "ENTRY 2.0 7G 6AT E6C EX": 430,
+            "CORE 2.0 7G 6MT E6C EX": 430,
+            "CORE 2.0 7G 6AT E6C EX": 430,
+            "CORE PLUS 2.0 7G 6AT E6C EX": 430,
+            "HIGH 2.5 AWD 6AT 7G E6C": 422
+        },
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (Km/L)",
+            "ENTRY 2.0 7G 6AT E6C EX": "14,6",
+            "CORE 2.0 7G 6MT E6C EX": "14,8",
+            "CORE 2.0 7G 6AT E6C EX": "14,6",
+            "CORE PLUS 2.0 7G 6AT E6C EX": "14,6",
+            "HIGH 2.5 AWD 6AT 7G E6C": "14,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales eléctricos abatibles",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": "Calefaccionados"
+            },
+            {
+                "caracteristica": "Espejo lateral exterior piloto con antideslumbramiento",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": false,
+                "HIGH 2.5 AWD 6AT 7G E6C": "Automático"
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": false,
+                "HIGH 2.5 AWD 6AT 7G E6C": false
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "ENTRY 2.0 7G 6AT E6C EX": "215/65 R16",
+                "CORE 2.0 7G 6MT E6C EX": "215/55 R18",
+                "CORE 2.0 7G 6AT E6C EX": "215/55 R18",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "215/55 R18",
+                "HIGH 2.5 AWD 6AT 7G E6C": "215/55 R18"
+            },
+            {
+                "caracteristica": "Color llantas",
+                "ENTRY 2.0 7G 6AT E6C EX": "Grafito",
+                "CORE 2.0 7G 6MT E6C EX": "Plata metalizado",
+                "CORE 2.0 7G 6AT E6C EX": "Plata metalizado",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Plata metalizado",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Gris metalizado"
+            },
+            {
+                "caracteristica": "Luces diurnas",
+                "ENTRY 2.0 7G 6AT E6C EX": "Halógenas",
+                "CORE 2.0 7G 6MT E6C EX": "Halógenas",
+                "CORE 2.0 7G 6AT E6C EX": "Halógenas",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "LED",
+                "HIGH 2.5 AWD 6AT 7G E6C": "LED"
+            },
+            {
+                "caracteristica": "Foco principal LED",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Apertura eléctrica de maletera",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla Multimedia Mazda Connect",
+                "ENTRY 2.0 7G 6AT E6C EX": "8,8\"",
+                "CORE 2.0 7G 6MT E6C EX": "8,8\"",
+                "CORE 2.0 7G 6AT E6C EX": "8,8\"",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "10,25\"",
+                "HIGH 2.5 AWD 6AT 7G E6C": "10,25\""
+            },
+            {
+                "caracteristica": "Conectividad",
+                "ENTRY 2.0 7G 6AT E6C EX": "USB Tipo C",
+                "CORE 2.0 7G 6MT E6C EX": "USB Tipo C",
+                "CORE 2.0 7G 6AT E6C EX": "USB Tipo C",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "USB Tipo C",
+                "HIGH 2.5 AWD 6AT 7G E6C": "USB Tipo C"
+            },
+            {
+                "caracteristica": "Android Auto",
+                "ENTRY 2.0 7G 6AT E6C EX": "Con cable",
+                "CORE 2.0 7G 6MT E6C EX": "Con cable",
+                "CORE 2.0 7G 6AT E6C EX": "Con cable",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Con cable",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Con cable"
+            },
+            {
+                "caracteristica": "Apple Carplay",
+                "ENTRY 2.0 7G 6AT E6C EX": "Con cable",
+                "CORE 2.0 7G 6MT E6C EX": "Con cable",
+                "CORE 2.0 7G 6AT E6C EX": "Con cable",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Inalámbrico",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Inalámbrico"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": false,
+                "HIGH 2.5 AWD 6AT 7G E6C": false
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Limpia parabrisas con sensor de lluvia e intermitencia ajustable",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": false,
+                "HIGH 2.5 AWD 6AT 7G E6C": false
+            },
+            {
+                "caracteristica": "Sistema de Audio",
+                "ENTRY 2.0 7G 6AT E6C EX": "8 parlantes",
+                "CORE 2.0 7G 6MT E6C EX": "8 parlantes",
+                "CORE 2.0 7G 6AT E6C EX": "8 parlantes",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "8 parlantes",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Bose 12 parlantes"
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antideslumbramiento",
+                "ENTRY 2.0 7G 6AT E6C EX": "Manual",
+                "CORE 2.0 7G 6MT E6C EX": "Manual",
+                "CORE 2.0 7G 6AT E6C EX": "Manual",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Automático",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Automático sin bordes"
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Volante",
+                "ENTRY 2.0 7G 6AT E6C EX": "Uretano",
+                "CORE 2.0 7G 6MT E6C EX": "Cuero",
+                "CORE 2.0 7G 6AT E6C EX": "Cuero",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Cuero",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Cuero"
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": false,
+                "HIGH 2.5 AWD 6AT 7G E6C": false
+            },
+            {
+                "caracteristica": "Climatizador",
+                "ENTRY 2.0 7G 6AT E6C EX": "Bizona con salida trasera",
+                "CORE 2.0 7G 6MT E6C EX": "Bizona con salida trasera",
+                "CORE 2.0 7G 6AT E6C EX": "Bizona con salida trasera",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Bizona con salida trasera",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Bizona con salida trasera"
+            },
+            {
+                "caracteristica": "Asientos",
+                "ENTRY 2.0 7G 6AT E6C EX": "Ajuste manual",
+                "CORE 2.0 7G 6MT E6C EX": "Ajuste manual",
+                "CORE 2.0 7G 6AT E6C EX": "Ajuste manual",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Ajuste manual",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Eléctrico conductor (con memoria)"
+            },
+            {
+                "caracteristica": "Tapiz asientos",
+                "ENTRY 2.0 7G 6AT E6C EX": "Tela",
+                "CORE 2.0 7G 6MT E6C EX": "Tela",
+                "CORE 2.0 7G 6AT E6C EX": "Tela",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Tela",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Cuero"
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": false,
+                "HIGH 2.5 AWD 6AT 7G E6C": "Delanteros"
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "ENTRY 2.0 7G 6AT E6C EX": 7,
+                "CORE 2.0 7G 6MT E6C EX": 7,
+                "CORE 2.0 7G 6AT E6C EX": 7,
+                "CORE PLUS 2.0 7G 6AT E6C EX": 7,
+                "HIGH 2.5 AWD 6AT 7G E6C": 7
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "ENTRY 2.0 7G 6AT E6C EX": "Delanteros y traseros",
+                "CORE 2.0 7G 6MT E6C EX": "Delanteros y traseros",
+                "CORE 2.0 7G 6AT E6C EX": "Delanteros y traseros",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Delanteros y traseros",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Asistencia al arranque en pendientes (HLA)",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Señal de frenado de emergencia (ESS)",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso con líneas de guía",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Sistema de apertura",
+                "ENTRY 2.0 7G 6AT E6C EX": "Keyless",
+                "CORE 2.0 7G 6MT E6C EX": "Smart Keyless",
+                "CORE 2.0 7G 6AT E6C EX": "Smart Keyless",
+                "CORE PLUS 2.0 7G 6AT E6C EX": "Smart Keyless",
+                "HIGH 2.5 AWD 6AT 7G E6C": "Smart Keyless"
+            },
+            {
+                "caracteristica": "Bloqueo automático de puertas en movimiento",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "i- STOP: Sistema de apagado y encendido automático del motor",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "G-Vectoring Control Plus (GVC Plus)",
+                "ENTRY 2.0 7G 6AT E6C EX": true,
+                "CORE 2.0 7G 6MT E6C EX": true,
+                "CORE 2.0 7G 6AT E6C EX": true,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Modo Manejo Sport",
+                "ENTRY 2.0 7G 6AT E6C EX": false,
+                "CORE 2.0 7G 6MT E6C EX": false,
+                "CORE 2.0 7G 6AT E6C EX": false,
+                "CORE PLUS 2.0 7G 6AT E6C EX": true,
+                "HIGH 2.5 AWD 6AT 7G E6C": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Perla",
+        "Blanco Cerámico",
+        "Gris Polymetal",
+        "Azul Oscuro Metalizado",
+        "Negro",
+        "Plata Cuarzo",
+        "Rojo Cristal",
+        "Gris Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_mazda-cx-30_2025-awd-6at-7g-11.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

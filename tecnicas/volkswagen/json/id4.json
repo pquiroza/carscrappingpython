@@ -1,0 +1,179 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Nuevo ID.4",
+        "año": 2025,
+        "versiones": [
+            "ID.4 77 kWh 210 kW"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ID.4 77 kWh 210 kW": "Motor eléctrico"
+        },
+        "cilindrada": {
+            "ID.4 77 kWh 210 kW": null
+        },
+        "potencia_hp": {
+            "ID.4 77 kWh 210 kW": "286"
+        },
+        "potencia_rpm": {
+            "ID.4 77 kWh 210 kW": null
+        },
+        "torque_nm": {
+            "ID.4 77 kWh 210 kW": "545"
+        },
+        "torque_rpm": {
+            "ID.4 77 kWh 210 kW": null
+        },
+        "combustible": "Eléctrico",
+        "transmision": {
+            "ID.4 77 kWh 210 kW": "Automática 1 velocidad"
+        },
+        "traccion": "4x2 Trasera"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Electromecánico con AutoHold",
+        "neumaticos": {
+            "ID.4 77 kWh 210 kW": "Delantero 235/50 R20 - Trasero 255/45 R20"
+        },
+        "rueda_repuesto": "Kit de movilidad de neumático"
+    },
+    "dimensiones": {
+        "largo_mm": 4584,
+        "ancho_mm": 1852,
+        "alto_mm": 1634,
+        "distancia_ejes_mm": 2771,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2690,
+        "capacidad_maletero_lts": {
+            "sin_asientos_abatidos": 543,
+            "segunda_fila_abatida": 1575
+        },
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía ciudad (km)",
+            "ID.4 77 kWh 210 kW": "710"
+        },
+        {
+            "caracteristica": "Autonomía combinado (km)",
+            "ID.4 77 kWh 210 kW": "556"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación 20”",
+            "Luces principales IQ LIGHT LED MATRIX",
+            "Luces traseras 3D LED",
+            "Luces diurnas LED",
+            "Luz de curva dinámica",
+            "Luces de carretera LED “Light Assist”",
+            "Firma lumínica delantera LED de foco a foco",
+            "Retrovisores exteriores abatibles eléctricamente y térmicos con tilt down",
+            "Vidrios tintados para ventanas traseras",
+            "Barras de techo en plata anonizada",
+            "Sunroof panorámico",
+            "Manillas aerodinámicas con iluminación LED",
+            "Parabrisas anti infrarrojos térmico",
+            "Sensor de rotura de cristal en luneta trasera"
+        ],
+        "interior": [
+            "Tapiz de asientos en ArtVelours bicolor",
+            "Asientos delanteros con soporte ajustable para muslos",
+            "Asientos delanteros con ajuste eléctrico",
+            "Asientos delanteros con memoria",
+            "Asientos delanteros con ajuste lumbar eléctrico",
+            "Asientos delanteros calefaccionados",
+            "Asientos delanteros con función de masaje",
+            "Asientos traseros abatibles",
+            "Reposabrazos para asientos delanteros",
+            "Retrovisor interior antideslumbrante automático",
+            "Volante multifunción en cuero",
+            "Volante calefaccionado y con touch control",
+            "Luces ambientales interiores con 30 colores seleccionables",
+            "Pedales de acero inoxidable con diseño Play & Pause",
+            "Climatizador automático de 3 zonas \"Climatronic\"",
+            "Radio touchscreen de 12,9\"",
+            "App Connect inalámbrico con Apple Carplay y Android Auto",
+            "7 parlantes",
+            "Cargador inalámbrico con iluminación",
+            "Puertos USB-C",
+            "Control por voz",
+            "Info display digital de 5,4”",
+            "Sensor de lluvia",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Area View: Cámara 360°",
+            "Keyless Entry y botón de encendido",
+            "Portalón trasero eléctrico \"Easy Open & Easy Close”",
+            "Control crucero adaptativo (ACC) con limitador de velocidad",
+            "Modos de conducción",
+            "Detector de fatiga",
+            "Ecualizador de sonido",
+            "Selector de marchas con función de regeneración de energía"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Airbag central",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de tracción (ASR)",
+            "Distribución electrónica de frenado (EBD)",
+            "Sistema de regulación del motor (MSR)",
+            "Alarma antirrobo con inmovilizador eléctrico",
+            "Anclajes ISOFIX",
+            "Front Assist: Asistente de frenado de emergencia",
+            "Sistema de detección de peatones y ciclistas",
+            "Sistema de monitoreo de la presión de los neumáticos",
+            "Lane Assist: Asistente de mantenimiento de carril",
+            "Travel Assist: Sistema de ayuda a la conducción",
+            "Side Assist: detector de punto ciego",
+            "Emergency Assist",
+            "Asistente de tráfico cruzado trasero",
+            "Pre-Crash"
+        ],
+        "tecnologia": [
+            "Conector de carga CCS2",
+            "Tipo de batería Li-Ni-Co-Mn",
+            "Contenido energético batería 77 kW (neto)",
+            "Tiempo de carga 0-100% AC 7:30 h (11 kW)",
+            "Tiempo de carga 10-80% DC 28 min (135 kW)",
+            "Garantía batería 8 años / 160.000 km",
+            "Velocidad máxima 180 km/h",
+            "Aceleración 0-100 km/h 6,7 s"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Azul Anochecer",
+        "Plata",
+        "Gris Piedra Luna",
+        "Azul Costa"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=de serie, -=no disponible; valores exactos del documento).",
+        "fuente": "Ficha-Tecnica-(Nuevo-ID4)-VW-SEP-25.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajeron todos los datos técnicos eléctricos (autonomía WLTP, potencia, torque, tiempos de carga, batería), dimensiones, capacidades, equipamiento interior/exterior/seguridad y colores exactamente como figuran en la ficha."
+    }
+}

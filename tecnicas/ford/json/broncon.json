@@ -1,0 +1,343 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "BRONCO",
+        "año": null,
+        "versiones": [
+            "BADLANDS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "BADLANDS": "2.7L Ecoboost® V6 Bi Turbo"
+        },
+        "cilindrada": 2.7,
+        "potencia_hp": {
+            "BADLANDS": "334"
+        },
+        "potencia_rpm": {
+            "BADLANDS": "5500"
+        },
+        "torque_nm": {
+            "BADLANDS": "562"
+        },
+        "torque_rpm": {
+            "BADLANDS": "3250"
+        },
+        "combustible": null,
+        "transmision": {
+            "BADLANDS": "Automática de 10 velocidades"
+        },
+        "traccion": {
+            "BADLANDS": "4x4 (4WD)"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": {
+            "BADLANDS": "LT315/70R17 Mud-Terrain (M/T)"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4839,
+        "ancho_mm": 2189,
+        "alto_mm": 1877,
+        "distancia_ejes_mm": 2948,
+        "despeje_suelo_mm": 292,
+        "peso_bruto_kg": {
+            "BADLANDS": 2348
+        },
+        "capacidad_maletero_lts": 1008,
+        "capacidad_estanque_lts": 79
+    },
+    "tabla_comparativa_offroad": [
+        {
+            "caracteristica": "Capacidad vadeo (mm)",
+            "BADLANDS": 850
+        },
+        {
+            "caracteristica": "Ángulo ataque (°)",
+            "BADLANDS": "43,2°"
+        },
+        {
+            "caracteristica": "Ángulo salida (°)",
+            "BADLANDS": "37,0°"
+        },
+        {
+            "caracteristica": "Ángulo ventral (°)",
+            "BADLANDS": "26,3°"
+        },
+        {
+            "caracteristica": "Recorrido suspensión (mm del/tras)",
+            "BADLANDS": "231 / 251"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "offroad": [
+            {
+                "caracteristica": "Terrain Management System",
+                "BADLANDS": "G.O.A.T con 7 modos: Normal, Eco, Rock Crawl, Resbaladizo, Lodos/Surcos, Arena y Baja"
+            },
+            {
+                "caracteristica": "Bloqueo diferencial delantero y trasero",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Barra estabilizadora desconectable",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Trail Control",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Trail Turn Assist",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Modo 1-Pedal Off Road",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Cubrecárter metálico",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Rock Rails",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Sasquatch Package",
+                "BADLANDS": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Espejos eléctricos",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Señalizador integrado",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Color espejos",
+                "BADLANDS": "Negro"
+            },
+            {
+                "caracteristica": "Luz de acercamiento",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Techo y puertas desmontables",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Luces neblineras LED",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Parachoque delantero acero negro",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Pisaderas laterales",
+                "BADLANDS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "BADLANDS": "Cuero Black Onyx con costuras grises"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "BADLANDS": "Eléctrico / 10 posiciones"
+            },
+            {
+                "caracteristica": "Asiento pasajero",
+                "BADLANDS": "Eléctrico / 8 posiciones"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "BADLANDS": "Bi-zona"
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Alzavidrios One Touch",
+                "BADLANDS": "Todos los vidrios"
+            },
+            {
+                "caracteristica": "Tablero digital",
+                "BADLANDS": "LCD 12\""
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "EBA",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "ESC",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "EBD",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Control tracción",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "ITPMS",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Airbags cortina",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Alarma perimetral",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Latch (3 puntos)",
+                "BADLANDS": "3"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema audio",
+                "BADLANDS": "B&O Bang & Olufsen®"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "BADLANDS": 12
+            },
+            {
+                "caracteristica": "Subwoofer",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Sync 4",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Pantalla central",
+                "BADLANDS": "12\""
+            },
+            {
+                "caracteristica": "Apple CarPlay / Android Auto inalámbrico",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Carga inalámbrica",
+                "BADLANDS": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "HLA",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "HDC",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Sensores retroceso",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Cámara retroceso",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Auto High Beam",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "BLIS",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo Stop & Go",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "Mantenimiento carril",
+                "BADLANDS": true
+            },
+            {
+                "caracteristica": "AEB",
+                "BADLANDS": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Gris Azulado",
+        "Gris Carbonizado",
+        "Gris Pantano",
+        "Beige Arena",
+        "Verde Acacia",
+        "Negro Universo",
+        "Azul Velocidad"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por versión única",
+        "fuente": "fcl-bronco-ficha-tecnica.pdf",
+        "versiones_en_documento": 1,
+        "notas": null
+    }
+}

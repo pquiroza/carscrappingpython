@@ -1,0 +1,165 @@
+{
+    "vehiculo": {
+        "marca": "CHERY",
+        "modelo": "TIGGO 8 PRO MAX",
+        "año": null,
+        "versiones": [
+            "1_6T_DCT_GLS",
+            "1_6T_DCT_GLX"
+        ]
+    },
+    "motor": {
+        "tipo": "1.6 Turbo",
+        "combustible": "Gasolina",
+        "cilindrada": "1598",
+        "potencia_hp": "183",
+        "potencia_rPM": "5500",
+        "torque_nm": "275",
+        "torque_rpm": "2000-4000",
+        "modos_conduccion": "ECO - NORMAL - SPORT",
+        "norma_emisiones": "EURO 6C"
+    },
+    "transmision": {
+        "tipo": "DCT 7 Vel",
+        "traccion": "Delantera",
+        "palanca": "E-Shift"
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multilink Independiente",
+        "sistema_frenos": "ABS + EBD + BAS + BOS",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco",
+        "freno_mano_electronico": true,
+        "autohold": true
+    },
+    "dimensiones": {
+        "plazas": 7,
+        "largo_mm": "4725",
+        "ancho_mm": "1860",
+        "alto_mm": "1705",
+        "distancia_ejes_mm": "2710",
+        "capacidad_maletero_lts": "890",
+        "capacidad_estanque_lts": "57"
+    },
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "AQS - Sistema calidad aire automático",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Ionización y purificación cabina",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Salidas aire 3a fila",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Apoyo lumbar eléctrico",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Asiento conductor calefacción",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Asiento conductor ventilación",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Asiento copiloto eléctrico",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Sensor estacionamiento delantero",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Cámara 540° HD",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            },
+            {
+                "caracteristica": "Apertura maletero manos libres",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            }
+        ],
+        "ADAS": [
+            {
+                "caracteristica": "ADAS completo",
+                "1_6T_DCT_GLS": false,
+                "1_6T_DCT_GLX": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Sistema fragancias",
+            "Filtro cabina N95",
+            "Botón encendido",
+            "Start/Stop",
+            "Alzavidrios eléctricos",
+            "Tapiz eco cuero",
+            "Pantalla 15.6\"",
+            "Panel LCD 10.25\"",
+            "Apple CarPlay inalámbrico",
+            "Android Auto inalámbrico",
+            "Audio Sony 8 parlantes"
+        ],
+        "exterior": [
+            "Faros LED automáticos",
+            "Luz diurna LED",
+            "Luz trasera LED",
+            "Spoiler",
+            "Llantas 18\"",
+            "Barras techo",
+            "Maletero eléctrico"
+        ],
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "Airbag rodilla",
+            "ESP",
+            "HAC",
+            "HDC",
+            "TCS",
+            "TPMS",
+            "ISOFIX"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "Ficha Tiggo 8 Pro Max",
+        "versiones_en_documento": 2,
+        "notas": "Datos tomados literalmente del PDF oficial."
+    }
+}

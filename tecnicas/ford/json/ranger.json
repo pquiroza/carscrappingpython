@@ -1,0 +1,250 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "RANGER",
+        "año": null,
+        "versiones": [
+            "4x2 XL",
+            "4x4 XL",
+            "4x2 XLS",
+            "4x4 XLS",
+            "4x2 XLT",
+            "4x4 XLT",
+            "4x4 XLT V6",
+            "4x4 LIMITED"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4x2 XL": "2.0L Panther Turbo",
+            "4x4 XL": "2.0L Panther Turbo",
+            "4x2 XLS": "2.0L Panther Turbo",
+            "4x4 XLS": "2.0L Panther Turbo",
+            "4x2 XLT": "2.0L Panther Bi-Turbo",
+            "4x4 XLT": "2.0L Panther Bi-Turbo",
+            "4x4 XLT V6": "3.0L V6 LION",
+            "4x4 LIMITED": "3.0L V6 LION"
+        },
+        "cilindrada": {
+            "4x2 XL": 1.996,
+            "4x4 XL": 1.996,
+            "4x2 XLS": 1.996,
+            "4x4 XLS": 1.996,
+            "4x2 XLT": 1.996,
+            "4x4 XLT": 1.996,
+            "4x4 XLT V6": 2.993,
+            "4x4 LIMITED": 2.993
+        },
+        "potencia_hp": {
+            "4x2 XL": null,
+            "4x4 XL": null,
+            "4x2 XLS": null,
+            "4x4 XLS": null,
+            "4x2 XLT": null,
+            "4x4 XLT": null,
+            "4x4 XLT V6": null,
+            "4x4 LIMITED": null
+        },
+        "potencia_rpm": {
+            "4x2 XL": "3500",
+            "4x4 XL": "3500",
+            "4x2 XLS": "3500",
+            "4x4 XLS": "3500",
+            "4x2 XLT": "3750",
+            "4x4 XLT": "3750",
+            "4x4 XLT V6": "3250",
+            "4x4 LIMITED": "3250"
+        },
+        "potencia_cv": {
+            "4x2 XL": "170",
+            "4x4 XL": "170",
+            "4x2 XLS": "170",
+            "4x4 XLS": "170",
+            "4x2 XLT": "205",
+            "4x4 XLT": "205",
+            "4x4 XLT V6": "241",
+            "4x4 LIMITED": "241"
+        },
+        "torque_nm": {
+            "4x2 XL": "405",
+            "4x4 XL": "405",
+            "4x2 XLS": "405",
+            "4x4 XLS": "405",
+            "4x2 XLT": "500",
+            "4x4 XLT": "500",
+            "4x4 XLT V6": "600",
+            "4x4 LIMITED": "600"
+        },
+        "torque_rpm": {
+            "4x2 XL": "1750-2500",
+            "4x4 XL": "1750-2500",
+            "4x2 XLS": "1750-2500",
+            "4x4 XLS": "1750-2500",
+            "4x2 XLT": "1750-2000",
+            "4x4 XLT": "1750-2000",
+            "4x4 XLT V6": "1750-2250",
+            "4x4 LIMITED": "1750-2250"
+        },
+        "combustible": {
+            "4x2 XL": "Diésel",
+            "4x4 XL": "Diésel",
+            "4x2 XLS": "Diésel",
+            "4x4 XLS": "Diésel",
+            "4x2 XLT": "Diésel",
+            "4x4 XLT": "Diésel",
+            "4x4 XLT V6": "Diésel",
+            "4x4 LIMITED": "Diésel"
+        },
+        "transmision": {
+            "4x2 XL": "Manual - 6 Velocidades",
+            "4x4 XL": "Manual - 6 Velocidades",
+            "4x2 XLS": "Manual - 6 Velocidades",
+            "4x4 XLS": "Manual - 6 Velocidades",
+            "4x2 XLT": "Automática Secuencial - 10 Velocidades",
+            "4x4 XLT": "Automática Secuencial - 10 Velocidades",
+            "4x4 XLT V6": "Automática Secuencial - 10 Velocidades",
+            "4x4 LIMITED": "Automática Secuencial - 10 Velocidades"
+        },
+        "traccion": {
+            "4x2 XL": "4x2",
+            "4x4 XL": "4x4",
+            "4x2 XLS": "4x2",
+            "4x4 XLS": "4x4",
+            "4x2 XLT": "4x2",
+            "4x4 XLT": "4x4",
+            "4x4 XLT V6": "4x4",
+            "4x4 LIMITED": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "neumaticos": null,
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5370,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": 235,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_dimensiones": [
+        {
+            "caracteristica": "Ángulo de ataque",
+            "4x2 XL": "30°",
+            "4x4 XL": "30°",
+            "4x2 XLS": "30°",
+            "4x4 XLS": "30°",
+            "4x2 XLT": "30°",
+            "4x4 XLT": "30°",
+            "4x4 XLT V6": "30°",
+            "4x4 LIMITED": "30°"
+        },
+        {
+            "caracteristica": "Ángulo de salida",
+            "4x2 XL": "26°",
+            "4x4 XL": "26°",
+            "4x2 XLS": "26°",
+            "4x4 XLS": "26°",
+            "4x2 XLT": "26°",
+            "4x4 XLT": "26°",
+            "4x4 XLT V6": "26°",
+            "4x4 LIMITED": "26°"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "7 Airbags",
+                "4x2 XL": true,
+                "4x4 XL": true,
+                "4x2 XLS": true,
+                "4x4 XLS": true,
+                "4x2 XLT": true,
+                "4x4 XLT": true,
+                "4x4 XLT V6": true,
+                "4x4 LIMITED": true
+            },
+            {
+                "caracteristica": "Control de Estabilidad (ESP), TCS y ROM",
+                "4x2 XL": true,
+                "4x4 XL": true,
+                "4x2 XLS": true,
+                "4x4 XLS": true,
+                "4x2 XLT": true,
+                "4x4 XLT": true,
+                "4x4 XLT V6": true,
+                "4x4 LIMITED": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "4x2 XL": true,
+                "4x4 XL": true,
+                "4x2 XLS": true,
+                "4x4 XLS": true,
+                "4x2 XLT": true,
+                "4x4 XLT": true,
+                "4x4 XLT V6": true,
+                "4x4 LIMITED": true
+            },
+            {
+                "caracteristica": "Control de Descenso (HDC)",
+                "4x2 XL": false,
+                "4x4 XL": true,
+                "4x2 XLS": false,
+                "4x4 XLS": true,
+                "4x2 XLT": false,
+                "4x4 XLT": true,
+                "4x4 XLT V6": true,
+                "4x4 LIMITED": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial trasero 100% (LRD)",
+                "4x2 XL": false,
+                "4x4 XL": true,
+                "4x2 XLS": false,
+                "4x4 XLS": true,
+                "4x2 XLT": false,
+                "4x4 XLT": true,
+                "4x4 XLT V6": true,
+                "4x4 LIMITED": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "7 Airbags",
+            "Control de Estabilidad (ESP), TCS y ROM",
+            "ISOFIX"
+        ],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Azul Belice",
+        "Blanco Oxford",
+        "Gris Magnético",
+        "Naranja Terra",
+        "Negro Perlado",
+        "Plata Metalizado",
+        "Rojo Bari"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por múltiples versiones",
+        "fuente": "fcl-ficha-tecnica-ranger.pdf",
+        "versiones_en_documento": 8,
+        "notas": null
+    }
+}

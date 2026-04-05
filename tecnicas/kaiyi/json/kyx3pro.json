@@ -1,0 +1,293 @@
+{
+    "vehiculo": {
+        "marca": "Kaiyi",
+        "modelo": "KYX3 PRO",
+        "año": null,
+        "versiones": [
+            "KYX3_PRO_1.5T_CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "KYX3_PRO_1.5T_CVT": "1.5T"
+        },
+        "cilindrada": {
+            "KYX3_PRO_1.5T_CVT": 1.498
+        },
+        "potencia_hp": {
+            "KYX3_PRO_1.5T_CVT": "145"
+        },
+        "potencia_rpm": {
+            "KYX3_PRO_1.5T_CVT": "5.500"
+        },
+        "torque_nm": {
+            "KYX3_PRO_1.5T_CVT": "230"
+        },
+        "torque_rpm": {
+            "KYX3_PRO_1.5T_CVT": "4.000"
+        },
+        "combustible": {
+            "KYX3_PRO_1.5T_CVT": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "KYX3_PRO_1.5T_CVT": "Inyección electrónica multipunto secuencial / Turbo"
+        },
+        "norma_emisiones": {
+            "KYX3_PRO_1.5T_CVT": "Euro 6c"
+        },
+        "transmision": {
+            "KYX3_PRO_1.5T_CVT": "Automática CVT"
+        },
+        "traccion": {
+            "KYX3_PRO_1.5T_CVT": null
+        }
+    },
+    "direccion": {
+        "tipo": "Piñón cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco",
+        "freno_de_mano": "Electrónico + Autohold",
+        "neumaticos": {
+            "KYX3_PRO_1.5T_CVT": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4400,
+        "ancho_mm": 1831,
+        "alto_mm": 1653,
+        "distancia_ejes_mm": 2632,
+        "numero_pasajeros": 5,
+        "capacidad_estanque_lts": 51,
+        "capacidad_maletero_lts": 342
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo km/l (Ciudad, Carretera, Mixto)",
+            "KYX3_PRO_1.5T_CVT": "10,2 / 15,2 / 12,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas Aleación 17\"",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Barras en techo",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores Calefaccionados",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles electrónicamente",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejos retrovisores",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Spoiler Trasero",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Manillas color carrocería",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Techo Panorámico",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Luces delanteras Led",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Luces traseras Led",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Luces diurnas",
+                "KYX3_PRO_1.5T_CVT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire Acondicionado",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Control Crucero",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Modo de conducción (Sport Mode)",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos delanteros y traseros",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Asientos tapiz eco-cuero",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste eléctrico",
+                "KYX3_PRO_1.5T_CVT": "6 posiciones"
+            },
+            {
+                "caracteristica": "Asiento copiloto ajuste manual",
+                "KYX3_PRO_1.5T_CVT": "4 posiciones"
+            },
+            {
+                "caracteristica": "Asiento trasero abatible",
+                "KYX3_PRO_1.5T_CVT": "60/40"
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos (one button up & down)",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Parasoles delanteros con espejo de cortesía",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Porta anteojos",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Cargador Celular Inalámbrico",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Control Audio al volante",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Smart Key y Botón de encendido",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Tablero instrumentos color 7\"",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Radio touch 10.25\"",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Puertos USB frontales",
+                "KYX3_PRO_1.5T_CVT": "2"
+            },
+            {
+                "caracteristica": "Puertos USB traseros",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Cierre Centralizado",
+                "KYX3_PRO_1.5T_CVT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS + EBD",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "EBA: Asistencia electrónica de frenado",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "HDC: Control de partida en descenso",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "ESP: Control de estabilidad",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "TCS: Control de tracción",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "HHC: Control de partida en pendiente",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros ajustable en altura",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad del medio de tres puntas",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Anclaje ISOFIX",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Doble Airbag Delantero",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Airbag laterales",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad trasero",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos (TPMS)",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "KYX3_PRO_1.5T_CVT": true
+            },
+            {
+                "caracteristica": "Seguro de niños en puertas traseras",
+                "KYX3_PRO_1.5T_CVT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [
+        "Rojo",
+        "Gris",
+        "Azul",
+        "Blanco",
+        "Celeste"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (●=true, vacío o -=false, columna única=aplica a todas las versiones).",
+        "fuente": "FICHA TECNICA KYX3 PRO.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Agosto 2023"
+    }
+}

@@ -1,0 +1,476 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "F-150",
+        "año": null,
+        "versiones": [
+            "DOBLE CABINA 5.0L 4X4 XLT",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "5.0L Ti-VCT V8",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "5.0L Ti-VCT V8",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "5.0L Ti-VCT V8",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "3.5L V6 GTDI Ecoboost",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "3.5L V6 GTDI Ecoboost"
+        },
+        "cilindrada": {
+            "DOBLE CABINA 5.0L 4X4 XLT": 5.0,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": 5.0,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": 5.0,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": 3.5,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": 3.5
+        },
+        "potencia_hp": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "400",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "400",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "400",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "400",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "394"
+        },
+        "potencia_rpm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "6000",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "6000",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "6000",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "6.000",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "6.000"
+        },
+        "torque_nm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "556",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "556",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "556",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "678",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "667"
+        },
+        "torque_rpm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "4250",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "4250",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "4250",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "3100",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "3000"
+        },
+        "motor_electrico_potencia_hp": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "44"
+        },
+        "motor_electrico_potencia_rpm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "3500"
+        },
+        "motor_electrico_torque_nm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "300"
+        },
+        "motor_electrico_torque_rpm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "500"
+        },
+        "potencia_combinada_hp": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "430"
+        },
+        "potencia_combinada_rpm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "6000"
+        },
+        "torque_combinado_nm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "772"
+        },
+        "torque_combinado_rpm": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "3000"
+        },
+        "bateria_kwh": {
+            "DOBLE CABINA 5.0L 4X4 XLT": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": null,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": null,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "1,5"
+        },
+        "combustible": null,
+        "transmision": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "Automática 10 vel",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Automática 10 vel",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Automática 10 vel",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Automática 10 vel",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Automática 10 vel"
+        },
+        "traccion": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "4x4 electrónica",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "4x4 electrónica con modo automático",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "4x4 electrónica con modo automático",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "4x4 electrónica con modo automático",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "4x4 electrónica con modo automático"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección electrónicamente asistida (EPAS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "Disco ventilado",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Disco ventilado",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Disco ventilado",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Disco ventilado",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Disco ventilado"
+        },
+        "frenos_traseros": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "Disco ventilado",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Disco ventilado",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Disco ventilado",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Disco ventilado",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Disco ventilado"
+        },
+        "neumaticos": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "P275/65 R18",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "P275/60R20",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "P275/60 R20",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "P275/60 R20",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "P275/60 R20"
+        },
+        "llantas": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "Aluminio negras 18\"",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Aluminio sport 20\"",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Aluminio con tapa cromada 20\"",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Aluminio negras 20\"",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Aluminio negras 20\""
+        },
+        "rueda_repuesto": {
+            "DOBLE CABINA 5.0L 4X4 XLT": "Rueda de repuesto (fierro negro)",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Rueda de repuesto (fierro negro)",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Rueda de repuesto (fierro negro)",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Rueda de repuesto (fierro negro)",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Rueda de repuesto (fierro negro)"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": {
+            "DOBLE CABINA 5.0L 4X4 XLT": 136,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": 136,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": 136,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": 136,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": 98
+        },
+        "capacidad_carga_kg": {
+            "DOBLE CABINA 5.0L 4X4 XLT": 927,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": 927,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": 927,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": 876,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": 790
+        }
+    },
+    "tabla_comparativa_modos_manejo": [
+        {
+            "caracteristica": "Modos de manejo",
+            "DOBLE CABINA 5.0L 4X4 XLT": "Normal, ECO, Sport, Tow/Haul, Slippery, Off-Road",
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Normal, ECO, Sport, Tow/Haul, Slippery, Off-Road, Rock Crawl",
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Normal, ECO, Sport, Tow/Haul, Slippery, Off-Road, Rock Crawl",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Normal, ECO, Sport, Tow/Haul, Slippery, Off-Road",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Normal, ECO, Sport, Tow/Haul, Slippery, Off-Road"
+        },
+        {
+            "caracteristica": "Auto start / stop",
+            "DOBLE CABINA 5.0L 4X4 XLT": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": false
+        },
+        {
+            "caracteristica": "Transmisión con funcion SelectshiftTM",
+            "DOBLE CABINA 5.0L 4X4 XLT": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+        },
+        {
+            "caracteristica": "Trailer brake controller",
+            "DOBLE CABINA 5.0L 4X4 XLT": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+        },
+        {
+            "caracteristica": "Pro trailer backup assist",
+            "DOBLE CABINA 5.0L 4X4 XLT": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+        },
+        {
+            "caracteristica": "Paquete Off-Road con diferencial trasero bloqueable (control descenso en pendientes, suspensión Off-Road, protectores inferiores)",
+            "DOBLE CABINA 5.0L 4X4 XLT": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+            "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+            "DOBLE CABINA 3.5L 4X4 PLATINUM": "Diferencial trasero bloqueable",
+            "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Diferencial trasero bloqueable"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Tela",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Active X",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Active X",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Cuero",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Cuero"
+            },
+            {
+                "caracteristica": "Asiento de conductor y pasajero eléctrico",
+                "DOBLE CABINA 5.0L 4X4 XLT": "8 Tipos de ajustes conductor y multiajustable pasajero",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "10 Tipos de ajustes conductor y multiajustable pasajero",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "10 Tipos de ajustes conductor y multiajustable pasajero",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "10 Tipos de ajustes conductor y multiajustable pasajero",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "10 Tipos de ajustes conductor y multiajustable pasajero"
+            },
+            {
+                "caracteristica": "Climatizador de asientos delanteros",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Calor 3 niveles",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Calor/frío 3 niveles",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Calor/frío 3 niveles",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Calor/frío 3 niveles",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Calor/frío 3 niveles"
+            },
+            {
+                "caracteristica": "Asiento pasajeros trasero calefaccionado",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "2 Niveles de calefacción",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "2 Niveles de calefacción",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "2 Niveles de calefacción"
+            },
+            {
+                "caracteristica": "Audio",
+                "DOBLE CABINA 5.0L 4X4 XLT": "AM / FM stereo / reloj n (6 parlantes)",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "B&O PLAY Premium Audio System (8 parlantes incluye Subwoofer)",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "B&O PLAY Premium Audio System (14 parlantes incluye Subwoofer)",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "B&O PLAY Premium Audio System (14 parlantes incluye Subwoofer)",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "B&O PLAY Premium Audio System (14 parlantes incluye Subwoofer)"
+            },
+            {
+                "caracteristica": "Control velocidad crucero al volante",
+                "DOBLE CABINA 5.0L 4X4 XLT": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": false,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": false,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": false
+            },
+            {
+                "caracteristica": "Portalón Pro-access",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Manillas",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Color",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Color",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Cromados",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Color",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Color"
+            },
+            {
+                "caracteristica": "Parachoques",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Color",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Color",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Cromados",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Color",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Color"
+            },
+            {
+                "caracteristica": "Focos con sistema dinámico",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            },
+            {
+                "caracteristica": "Focos traseros LED",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sync®4",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Con pantalla touch screen 12\"",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Con pantalla touch screen 12\"",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Con pantalla touch screen 12\"",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Con pantalla touch screen 12\"",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Con pantalla touch screen 12\""
+            },
+            {
+                "caracteristica": "Centro de mensajes",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Pantalla 12\" LCD",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Pantalla 12\" LCD",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Pantalla 12\" LCD",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Pantalla 12\" LCD",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Pantalla 12\" LCD"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "DOBLE CABINA 5.0L 4X4 XLT": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS en las 4 ruedas",
+                "DOBLE CABINA 5.0L 4X4 XLT": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": false,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": false
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor de punto ciego (BLIS) con alerta de tráfico cruzado",
+                "DOBLE CABINA 5.0L 4X4 XLT": "Cobertura de trailer",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "Cobertura de trailer",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "Cobertura de trailer",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "Cobertura de trailer",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "Cobertura de trailer"
+            },
+            {
+                "caracteristica": "Sensor de retroceso",
+                "DOBLE CABINA 5.0L 4X4 XLT": "■ + Delanteros",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "■ + Delanteros",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "■ + Delanteros",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "■ + delanteros",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "■ + delanteros"
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "DOBLE CABINA 5.0L 4X4 XLT": "360° (sin Cámara en Caja de Carga)",
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": "360° (sin Cámara en Caja de Carga)",
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": "360° (sin Cámara en Caja de Carga)",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": "360° (sin Cámara en Caja de Carga)",
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": "360° (sin Cámara en Caja de Carga)"
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo con Stop & Go",
+                "DOBLE CABINA 5.0L 4X4 XLT": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            },
+            {
+                "caracteristica": "Sistema de centrado en carril",
+                "DOBLE CABINA 5.0L 4X4 XLT": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": true,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            },
+            {
+                "caracteristica": "Asistente de dirección evasiva",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            },
+            {
+                "caracteristica": "Asistente de intersección",
+                "DOBLE CABINA 5.0L 4X4 XLT": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT BLACK": false,
+                "DOBLE CABINA 5.0L 4X4 LARIAT LUXURY": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM": true,
+                "DOBLE CABINA 3.5L 4X4 PLATINUM FHEV": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro Universo",
+        "Azul Antimateria",
+        "Gris Carbonizado",
+        "Gris Piedra",
+        "Blanco Oxford",
+        "Café Metálico",
+        "Plata Metálico",
+        "Verde Petrol",
+        "Azul Velocidad",
+        "Blanco Metálico",
+        "Azul Ocaso",
+        "Rojo Fuerte",
+        "Blanco Espacio"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por múltiples versiones",
+        "fuente": "fcl-f150-hev-ficha-tecnica.pdf",
+        "versiones_en_documento": 5,
+        "notas": null
+    }
+}

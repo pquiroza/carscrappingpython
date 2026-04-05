@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "NEW PICK UP D1",
+        "año": null,
+        "versiones": [
+            "NEW D1 4x2 MT",
+            "NEW D1 4x4 MT",
+            "NEW D1 4x4 AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4x2 MT": "M9T",
+            "4x4 MT": "M9T",
+            "4x4 AT": "M9T"
+        },
+        "cilindrada": {
+            "4x2 MT": 2.298,
+            "4x4 MT": 2.298,
+            "4x4 AT": 2.298
+        },
+        "potencia_hp": {
+            "4x2 MT": "145",
+            "4x4 MT": "145",
+            "4x4 AT": "161"
+        },
+        "potencia_rpm": {
+            "4x2 MT": null,
+            "4x4 MT": null,
+            "4x4 AT": null
+        },
+        "torque_nm": {
+            "4x2 MT": "380",
+            "4x4 MT": "380",
+            "4x4 AT": "380"
+        },
+        "torque_rpm": {
+            "4x2 MT": null,
+            "4x4 MT": null,
+            "4x4 AT": null
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "4x2 MT": "Mecánica 6 velocidades",
+            "4x4 MT": "Mecánica 6 velocidades",
+            "4x4 AT": "Automática 8 velocidades"
+        },
+        "traccion": {
+            "4x2 MT": "4x2",
+            "4x4 MT": "4x4",
+            "4x4 AT": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": "Hidráulica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente doble bandeja",
+        "suspension_trasera": "Resorte tipo ballesta",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "4x2 MT": "255/70R16",
+            "4x4 MT": "255/70R16",
+            "4x4 AT": "255/70R16"
+        },
+        "rueda_repuesto": "Sí"
+    },
+    "dimensiones": {
+        "largo_mm": 5290,
+        "ancho_mm": 1850,
+        "alto_mm": 1810,
+        "distancia_ejes_mm": 3150,
+        "despeje_suelo_mm": 207,
+        "peso_bruto_kg": {
+            "4x2 MT": 2810,
+            "4x4 MT": 2810,
+            "4x4 AT": 2825
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 73,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "WLTP Urbano sin Autopista (km/l)",
+            "4x2 MT": "8,9",
+            "4x4 MT": "8,9",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "WLTP Urbano con Autopista (km/l)",
+            "4x2 MT": "12,3",
+            "4x4 MT": "12,3",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "WLTP Rural con Autopista (km/l)",
+            "4x2 MT": "13,5",
+            "4x4 MT": "13,5",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "WLTP Autopista Interurbana (km/l)",
+            "4x2 MT": "10,8",
+            "4x4 MT": "10,8",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "WLTP Combinado (km/l)",
+            "4x2 MT": "11,5",
+            "4x4 MT": "11,5",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "NEDC Ciudad (km/l)",
+            "4x2 MT": null,
+            "4x4 MT": null,
+            "4x4 AT": "10,4"
+        },
+        {
+            "caracteristica": "NEDC Mixto (km/l)",
+            "4x2 MT": null,
+            "4x4 MT": null,
+            "4x4 AT": "12,5"
+        },
+        {
+            "caracteristica": "NEDC Carretera (km/l)",
+            "4x2 MT": null,
+            "4x4 MT": null,
+            "4x4 AT": "14,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Pisaderas laterales",
+                "4x2 MT": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "4x2 MT": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Selector electrónico de tracción de marcha (2H/4H/4L)",
+                "4x2 MT": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Focos principales con regulación de altura",
+            "Focos principales con sensor automático",
+            "Luces LED de conducción diurna (DRL)",
+            "Neblineros delanteros",
+            "Neblineros traseros",
+            "Parabrisas Delantero con Filtro UV",
+            "Espejos laterales ajustables eléctricamente",
+            "Luneta trasera con defroster",
+            "Protector de Pick Up tipo Bedliner",
+            "Barra en el pick up",
+            "Ganchos de amarre exteriores e interiores en pick up",
+            "Llantas de aleación bitono aro 16\"",
+            "Rueda de repuesto",
+            "Smart Key y encendido por botón",
+            "Capot con amortiguación"
+        ],
+        "interior": [
+            "Aire acondicionado con climatizador",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Cuadro de instrumentos 3,5\"",
+            "Ajuste eléctrico de altura de luces",
+            "Luces de lectura interior y de techo",
+            "Radio touch 10\" con conexión Bluetooth AA + AC",
+            "Número de parlantes (2)",
+            "Volante con control de radio, teléfono y velocidad crucero",
+            "Volante ajustable en altura (cuero)",
+            "Asiento conductor con regulación manual de 6 posiciones",
+            "Asiento copiloto con regulación manual en 4 posiciones",
+            "Tapiz Ecocuero",
+            "Apoyabrazos delantero central con compartimento",
+            "Boton de regeneración forzada DPF",
+            "Porta anteojos"
+        ],
+        "seguridad": [
+            "Doble Airbag Frontal (conductor y pasajero)",
+            "Frenos ABS + EBD",
+            "Asistencia de frenado (HBA)",
+            "Distribución electrónica de frenado (EBD)",
+            "Sistema de control de estabilidad (ESP)",
+            "Control de partida en Pendiente (HHC)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Control de Tracción (TCS)",
+            "Sensor de retroceso",
+            "Cámara de retroceso",
+            "Anclaje Isofix",
+            "Seguro de niños puertas traseras",
+            "Cinturones de seguridad de 3 puntas en los 5 asientos",
+            "Apoya cabezas central trasero"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro",
+        "Blanco",
+        "Gris Claro",
+        "Azul Índigo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (●=true, -=false; texto/valores tal cual)",
+        "fuente": "ficha-new-d1.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó todo el equipamiento del documento. En la tabla de especificaciones, los valores comunes mostrados agrupados para 4x2 MT y 4x4 MT se replicaron en ambas versiones para mantener la estructura. La medida de pickup indicada en el documento es 1.510 x 1.562 x 475 mm y el ángulo de ataque / salida es 31 / 26."
+    }
+}

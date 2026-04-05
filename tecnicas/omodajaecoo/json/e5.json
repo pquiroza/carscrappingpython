@@ -1,0 +1,127 @@
+{
+    "vehiculo": {
+        "marca": "Omoda-jaecoo",
+        "modelo": "E5",
+        "versiones": [
+            "EV"
+        ]
+    },
+    "motorizacion": {
+        "tipo": "Eléctrico",
+        "potencia_hp": 201,
+        "potencia_kw": 150,
+        "torque_nm": 340,
+        "aceleracion_0_100_seg": 7.6,
+        "traccion": "FWD",
+        "modos_manejo": 3,
+        "direccion": "Asistida eléctricamente (EPS)",
+        "transmision": "Automática / Eléctrica"
+    },
+    "bateria": {
+        "tipo": "LFP (Litio-Ferrofosfato)",
+        "capacidad_kwh": 60,
+        "capacidad_ah_2h": 165,
+        "autonomia_nedc_km": 636,
+        "autonomia_wltp_km": 430,
+        "consumo_km_kwh": 7.7,
+        "dc_charge": "80kW",
+        "ac_trifasico": "9,9kW",
+        "ac_monofasico": "6,6kW",
+        "cargador_emergencia": "220V / 8A",
+        "tipo_conector": "CCS Tipo 2"
+    },
+    "suspension": {
+        "delantera": "McPherson",
+        "trasera": "Independiente Multi-link"
+    },
+    "dimensiones": {
+        "largo_mm": 4424,
+        "ancho_mm": 1830,
+        "alto_mm": 1588,
+        "distancia_entre_ejes_mm": 2630,
+        "despeje_suelo_mm": 152,
+        "angulo_ataque_grados": 19.7,
+        "angulo_salida_grados": 24.9,
+        "peso_neto_kg": 1785,
+        "peso_bruto_kg": 2246,
+        "capacidad_carga_kg": 461,
+        "maletero_1ra_fila_l": 1075,
+        "maletero_2da_fila_l": 360,
+        "capacidad_remolque_kg": 750,
+        "pasajeros": 5
+    },
+    "ruedas": {
+        "llantas": "18\"",
+        "neumaticos": "215/55R18"
+    },
+    "interior": {
+        "pantalla_touch": "12,3\"",
+        "cluster": "12,3\"",
+        "head_up_display": true,
+        "audio": "Premium Sony 8 parlantes",
+        "cargador_inalambrico": "50W",
+        "asientos_delanteros": "Eléctricos y ventilados",
+        "tapiz": "EcoCuero negro",
+        "climatizador": "Bi-Zona automático",
+        "purificador_aire": "PM2.5",
+        "portalón_electrico": true,
+        "smart_key_multifuncion": true
+    },
+    "exterior": {
+        "faros": "Proyector LED automático con ajuste de intensidad",
+        "drl_led": true,
+        "focos_traseros_led": true,
+        "sunroof": true,
+        "sensor_lluvia": true,
+        "espejos_electricos_calefaccionados": true,
+        "barra_techo": true,
+        "protector_cubre_carter": true,
+        "gancho_tiro_delantero": true,
+        "cable_cargador_portatil": true
+    },
+    "seguridad": {
+        "airbags": 6,
+        "abs_ebd": true,
+        "eba": true,
+        "mcb": true,
+        "bos": true,
+        "esp": true,
+        "tcs": true,
+        "rsc": true,
+        "hsa": true,
+        "hdc": true,
+        "tpms": true,
+        "epb": true,
+        "isofix": true,
+        "top_tether": true
+    },
+    "adas": [
+        "ACC",
+        "ICA",
+        "TJA",
+        "FCW",
+        "RCW",
+        "AEB",
+        "RCTAB",
+        "LDW",
+        "LCA",
+        "LKA",
+        "ELK",
+        "IES",
+        "DOW",
+        "DMS",
+        "BSP",
+        "RCTA"
+    ],
+    "colores": [
+        "Gris",
+        "Plata",
+        "Blanco",
+        "Rojo",
+        "Verde",
+        "Negro",
+        "Plata / Techo negro",
+        "Blanco / Techo negro",
+        "Azul Oscuro"
+    ]
+}

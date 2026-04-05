@@ -1,0 +1,228 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "3",
+        "año": null,
+        "versiones": [
+            "ENTRY 2.0 7G 6MT",
+            "CORE 2.0 7G 6MT",
+            "CORE 2.0 7G 6AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ENTRY 2.0 7G 6MT": "2.0",
+            "CORE 2.0 7G 6MT": "2.0",
+            "CORE 2.0 7G 6AT": "2.0"
+        },
+        "cilindrada": {
+            "ENTRY 2.0 7G 6MT": null,
+            "CORE 2.0 7G 6MT": null,
+            "CORE 2.0 7G 6AT": null
+        },
+        "potencia_hp": {
+            "ENTRY 2.0 7G 6MT": "153",
+            "CORE 2.0 7G 6MT": "153",
+            "CORE 2.0 7G 6AT": "153"
+        },
+        "potencia_rpm": {
+            "ENTRY 2.0 7G 6MT": "6.000",
+            "CORE 2.0 7G 6MT": "6.000",
+            "CORE 2.0 7G 6AT": "6.000"
+        },
+        "torque_nm": {
+            "ENTRY 2.0 7G 6MT": "200",
+            "CORE 2.0 7G 6MT": "200",
+            "CORE 2.0 7G 6AT": "200"
+        },
+        "torque_rpm": {
+            "ENTRY 2.0 7G 6MT": "4.000",
+            "CORE 2.0 7G 6MT": "4.000",
+            "CORE 2.0 7G 6AT": "4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "ENTRY 2.0 7G 6MT": "Manual",
+            "CORE 2.0 7G 6MT": "Manual",
+            "CORE 2.0 7G 6AT": "Automática"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno de mano eléctrico",
+        "neumaticos": {
+            "ENTRY 2.0 7G 6MT": "205/60 R16",
+            "CORE 2.0 7G 6MT": "215/45 R18",
+            "CORE 2.0 7G 6AT": "215/45 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4460,
+        "ancho_mm": 2025,
+        "alto_mm": 1440,
+        "distancia_ejes_mm": 2725,
+        "despeje_suelo_mm": 140,
+        "peso_bruto_kg": {
+            "ENTRY 2.0 7G 6MT": 1857,
+            "CORE 2.0 7G 6MT": 1857,
+            "CORE 2.0 7G 6AT": 1870
+        },
+        "capacidad_maletero_lts": 454,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "ENTRY 2.0 7G 6MT": "15,1",
+            "CORE 2.0 7G 6MT": "15,1",
+            "CORE 2.0 7G 6AT": "14,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "ENTRY 2.0 7G 6MT": "205/60 R16",
+                "CORE 2.0 7G 6MT": "215/45 R18",
+                "CORE 2.0 7G 6AT": "215/45 R18"
+            },
+            {
+                "caracteristica": "Luces diurnas",
+                "ENTRY 2.0 7G 6MT": "Halógenas",
+                "CORE 2.0 7G 6MT": "LED",
+                "CORE 2.0 7G 6AT": "LED"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla multimedia Mazda connect",
+                "ENTRY 2.0 7G 6MT": "8\"",
+                "CORE 2.0 7G 6MT": "10\"",
+                "CORE 2.0 7G 6AT": "10\""
+            },
+            {
+                "caracteristica": "Apple Carplay",
+                "ENTRY 2.0 7G 6MT": "Con cable",
+                "CORE 2.0 7G 6MT": "Inalámbrico",
+                "CORE 2.0 7G 6AT": "Inalámbrico"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true
+            },
+            {
+                "caracteristica": "Head Up Display (HUD)",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antideslumbramiento",
+                "ENTRY 2.0 7G 6MT": "Manual",
+                "CORE 2.0 7G 6MT": "Automático",
+                "CORE 2.0 7G 6AT": "Automático"
+            },
+            {
+                "caracteristica": "Paddle Shift",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de apertura",
+                "ENTRY 2.0 7G 6MT": "Keyless",
+                "CORE 2.0 7G 6MT": "Smart Keyless",
+                "CORE 2.0 7G 6AT": "Smart Keyless"
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitoreo de punto ciego (BSM)",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": true,
+                "CORE 2.0 7G 6AT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Modo Manejo Sport",
+                "ENTRY 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6MT": false,
+                "CORE 2.0 7G 6AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos laterales eléctricos abatibles",
+            "Color llantas: Plata",
+            "Foco principal LED",
+            "Máscara Frontal Cromada"
+        ],
+        "interior": [
+            "Conectividad USB Tipo C",
+            "Android Auto Con cable",
+            "Limpia parabrisas con sensor de lluvia e intermitencia ajustable",
+            "Sistema de Audio 8 parlantes",
+            "Freno de mano eléctrico",
+            "Control Crucero",
+            "Volante forrado en cuero",
+            "Climatizador Bizona con salida trasera",
+            "Asientos Ajuste manual",
+            "Tapiz asientos Tela"
+        ],
+        "seguridad": [
+            "Airbag 7",
+            "Sensores de estacionamiento Traseros",
+            "Asistencia al arranque en pendientes (HLA)",
+            "Señal de frenado de emergencia (ESS)",
+            "Cámara de retroceso con líneas de guía",
+            "Bloqueo automático de puertas en movimiento",
+            "ISOFIX",
+            "i- STOP: Sistema de apagado y encendido automático del motor",
+            "G-vectoring Control Plus (GVC Plus)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Cristal",
+        "Blanco Perla",
+        "Gris Metálico",
+        "Gris Polymetal",
+        "Blanco Cerámico",
+        "Plata Cuarzo"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_mazda-3-sedan-octubre-2025.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

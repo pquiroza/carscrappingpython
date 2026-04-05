@@ -1,0 +1,253 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Nuevo Tiguan",
+        "año": null,
+        "versiones": [
+            "Comfortline",
+            "R-Line"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline": "1.4L TSI",
+            "R-Line": "1.4L TSI"
+        },
+        "cilindrada": {
+            "Comfortline": 1.4,
+            "R-Line": 1.4
+        },
+        "potencia_hp": {
+            "Comfortline": "150",
+            "R-Line": "150"
+        },
+        "potencia_rpm": {
+            "Comfortline": "5.000-6.000",
+            "R-Line": "5.000-6.000"
+        },
+        "torque_nm": {
+            "Comfortline": "250",
+            "R-Line": "250"
+        },
+        "torque_rpm": {
+            "Comfortline": "1.500-3.500",
+            "R-Line": "1.500-3.500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfortline": "DSG 7",
+            "R-Line": "DSG 7"
+        },
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Eléctrico con Auto-Hold",
+        "neumaticos": {
+            "Comfortline": "235/50 R19",
+            "R-Line": "255/45 R19"
+        },
+        "rueda_repuesto": "Sí"
+    },
+    "dimensiones": {
+        "largo_mm": 4670,
+        "ancho_mm": 1866,
+        "alto_mm": 1665,
+        "distancia_ejes_mm": 2791,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": {
+            "sin_asientos_abatidos": 652,
+            "segunda_fila_abatida": 1650
+        },
+        "capacidad_estanque_lts": 55,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline": "10,5",
+            "R-Line": "10,5"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline": "13,5",
+            "R-Line": "13,5"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline": "16,3",
+            "R-Line": "16,3"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo panorámico",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Insertos en madera",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Pedales en acero inoxidable",
+                "Comfortline": false,
+                "R-Line": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado asientos",
+                "Comfortline": "Cuero Sintético",
+                "R-Line": "Cuero"
+            },
+            {
+                "caracteristica": "Tipo de asientos",
+                "Comfortline": "Standard",
+                "R-Line": "Comfort"
+            },
+            {
+                "caracteristica": "Asientos delanteros eléctricos",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con climatización activa",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con memoria",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con masaje",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Volante calefactable",
+                "Comfortline": false,
+                "R-Line": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara 360°",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Head Up Display",
+                "Comfortline": false,
+                "R-Line": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Travel Assist",
+                "Comfortline": false,
+                "R-Line": true
+            },
+            {
+                "caracteristica": "Emergency Assist",
+                "Comfortline": false,
+                "R-Line": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación 19”",
+            "Luces delanteras LED Matrix IQ Lights",
+            "Luces diurnas LED (DRL)",
+            "Luz de curva dinámica",
+            "Coming/Leaving Home",
+            "Luces traseras LED",
+            "Firma lumínica delantera y trasera de foco a foco",
+            "Retrovisores exteriores ajustables, abatibles eléctricamente, térmicos y con memoria",
+            "Retrovisores exteriores y manillas color carrocería",
+            "Barras en el techo color plata anodizada"
+        ],
+        "interior": [
+            "Asientos delanteros con ajuste de altura",
+            "Asiento conductor con soporte lumbar con ajuste eléctrico",
+            "Asiento pasajero con soporte lumbar con ajuste eléctrico",
+            "Reposabrazos central delantero",
+            "Espejo retrovisor interior antideslumbrante",
+            "Volante multifunción en cuero con Paddle Shift",
+            "Luz de ambiente",
+            "10 colores (Comfortline) / 30 colores (R-Line)"
+        ],
+        "seguridad": [
+            "6 airbags",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de tracción (ASR)",
+            "Distribución electrónica de frenado (EBD)",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema de frenado multicolisión (MCB)",
+            "Sistema de regulación del motor (MSR)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Anclaje ISOFIX",
+            "Inmovilizador electrónico con sistema de alarma antirrobo",
+            "Front Assist",
+            "Indicador de presión de neumáticos",
+            "Asistente de ascenso en pendientes",
+            "Sistema de detección de peatones",
+            "Asistente de punto ciego (Side Assist)",
+            "Asistente de mantenimiento de carril (Lane Assist)",
+            "Asistente de tráfico cruzado"
+        ],
+        "tecnologia": [
+            "Aire acondicionado automático tri-zona",
+            "Radio touchscreen 12,9” (Comfortline) / 15” (R-Line)",
+            "App Connect inalámbrico",
+            "6 altavoces",
+            "Puertos USB",
+            "Control por voz",
+            "Cuadro de instrumentos digital 10,25”",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Asistente de estacionamiento Park Assist",
+            "Cámara de retroceso",
+            "Keyless Entry y botón de encendido",
+            "Portalón trasero eléctrico con Easy Open y Easy Close",
+            "ACC - Control crucero adaptativo",
+            "Modos de manejo",
+            "Cargador inalámbrico",
+            "Sensor de lluvia",
+            "Detector de fatiga",
+            "Freno de estacionamiento eléctrico con Auto-Hold",
+            "Navegación"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Plata Pirita",
+        "Gris Ascot",
+        "Gris Platino",
+        "Verde Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=Disponible, -=No disponible; texto exacto del documento).",
+        "fuente": "Ficha-nuevo-Tiguan-2025-VF.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajeron datos técnicos, consumos, dimensiones, equipamiento exterior/interior/seguridad/ADAS y colores según tabla Comfortline y R-Line."
+    }
+}

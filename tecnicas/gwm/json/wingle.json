@@ -1,0 +1,165 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "NUEVA WINGLE 7",
+        "año": null,
+        "versiones": [
+            "GASOLINA_4X2_DELUXE",
+            "GASOLINA_4X4_DELUXE",
+            "DIESEL_4X2_DELUXE",
+            "DIESEL_4X4_DELUXE"
+        ]
+    },
+    "pdf": "ficha-técnica-wingle-7_-010925_v1.pdf",
+    "motor": {
+        "tipo": {
+            "GASOLINA_4X2_DELUXE": "Gasolina 4 cilindros 16 válvulas con Admisión Variable",
+            "GASOLINA_4X4_DELUXE": "Gasolina 4 cilindros 16 válvulas con Admisión Variable",
+            "DIESEL_4X2_DELUXE": "Diesel Common Rail con VGT",
+            "DIESEL_4X4_DELUXE": "Diesel Common Rail con VGT"
+        },
+        "cilindrada_l": {
+            "GASOLINA_4X2_DELUXE": 2.4,
+            "GASOLINA_4X4_DELUXE": 2.4,
+            "DIESEL_4X2_DELUXE": 2.0,
+            "DIESEL_4X4_DELUXE": 2.0
+        },
+        "potencia_hp_rpm": {
+            "GASOLINA_4X2_DELUXE": "148 / 5500",
+            "GASOLINA_4X4_DELUXE": "148 / 5500",
+            "DIESEL_4X2_DELUXE": "161 / 3600",
+            "DIESEL_4X4_DELUXE": "161 / 3600"
+        },
+        "torque_nm_rpm": {
+            "GASOLINA_4X2_DELUXE": "220 / 4000",
+            "GASOLINA_4X4_DELUXE": "220 / 4000",
+            "DIESEL_4X2_DELUXE": "400 / 1500-2500",
+            "DIESEL_4X4_DELUXE": "400 / 1500-2500"
+        },
+        "traccion": {
+            "GASOLINA_4X2_DELUXE": "4x2",
+            "GASOLINA_4X4_DELUXE": "4x4",
+            "DIESEL_4X2_DELUXE": "4x2",
+            "DIESEL_4X4_DELUXE": "4x4"
+        },
+        "norma_emision": {
+            "GASOLINA_4X2_DELUXE": "Euro VI C",
+            "GASOLINA_4X4_DELUXE": "Euro VI C",
+            "DIESEL_4X2_DELUXE": "Euro VI C",
+            "DIESEL_4X4_DELUXE": "Euro VI C"
+        }
+    },
+    "transmision_y_chasis": {
+        "transmision": {
+            "GASOLINA_4X2_DELUXE": "Mecánica 5 velocidades",
+            "GASOLINA_4X4_DELUXE": "Mecánica 5 velocidades",
+            "DIESEL_4X2_DELUXE": "Mecánica 6 velocidades",
+            "DIESEL_4X4_DELUXE": "Mecánica 6 velocidades"
+        },
+        "direccion": {
+            "GASOLINA_4X2_DELUXE": "Asistida hidráulicamente",
+            "GASOLINA_4X4_DELUXE": "Asistida hidráulicamente",
+            "DIESEL_4X2_DELUXE": "Asistida hidráulicamente",
+            "DIESEL_4X4_DELUXE": "Asistida hidráulicamente"
+        },
+        "estructura": "Chasis reforzado",
+        "suspension_delantera": "Independiente por barra de torsión",
+        "suspension_trasera": "Eje rígido con paquete de resortes",
+        "frenos": "Discos delanteros y traseros"
+    },
+    "dimensiones_y_capacidades": {
+        "largo_ancho_alto_mm": "5395 x 1800 x 1760",
+        "pickup_largo_ancho_alto_mm": "1680 x 1460 x 480",
+        "distancia_entre_ejes_mm": "3350",
+        "distancia_minima_suelo_mm": "194",
+        "angulo_ataque_salida_grados": "29 / 23",
+        "peso_bruto_vehicular_kg": {
+            "GASOLINA_4X2_DELUXE": "2745",
+            "GASOLINA_4X4_DELUXE": "2855",
+            "DIESEL_4X2_DELUXE": "2875",
+            "DIESEL_4X4_DELUXE": "2975"
+        },
+        "estanque_l": "70",
+        "capacidad_carga_kg": "1050",
+        "neumaticos": "235/70 R16",
+        "rendimiento_ciudad_km_l": {
+            "GASOLINA_4X2_DELUXE": "7,3",
+            "GASOLINA_4X4_DELUXE": "7,3",
+            "DIESEL_4X2_DELUXE": "10,6",
+            "DIESEL_4X4_DELUXE": "10,6"
+        },
+        "rendimiento_mixto_km_l": {
+            "GASOLINA_4X2_DELUXE": "9,4",
+            "GASOLINA_4X4_DELUXE": "9,4",
+            "DIESEL_4X2_DELUXE": "12,3",
+            "DIESEL_4X4_DELUXE": "12,3"
+        },
+        "rendimiento_carretera_km_l": {
+            "GASOLINA_4X2_DELUXE": "11,5",
+            "GASOLINA_4X4_DELUXE": "11,5",
+            "DIESEL_4X2_DELUXE": "13,6",
+            "DIESEL_4X4_DELUXE": "13,6"
+        }
+    },
+    "equipamiento_diferencial": {
+        "selector_traccion_2h_4h_4l": {
+            "GASOLINA_4X2_DELUXE": false,
+            "GASOLINA_4X4_DELUXE": true,
+            "DIESEL_4X2_DELUXE": false,
+            "DIESEL_4X4_DELUXE": true
+        }
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Aire acondicionado climatizador",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Alzavidrio conductor one-touch anti-atrape",
+            "Cierre centralizado",
+            "Cuadro instrumentos 3,5\"",
+            "Computador a bordo",
+            "Radio touch con Bluetooth",
+            "Volante multifunción",
+            "Volante ajustable en altura",
+            "Asiento conductor eléctrico 6 posiciones",
+            "Tapiz ecocuero",
+            "Asientos delanteros calefaccionados"
+        ],
+        "exterior": [
+            "Focos halógenos con regulación altura",
+            "Focos con sensor automático",
+            "Luces diurnas (DRL)",
+            "Neblineros delanteros",
+            "Neblineros traseros",
+            "Limpia parabrisas con sensor lluvia",
+            "Espejos eléctricos con defroster",
+            "Bedliner",
+            "Barra pickup",
+            "Llantas aleación bitono 16\"",
+            "Llave con control y paleta"
+        ],
+        "seguridad": [
+            "Doble airbag frontal",
+            "Airbags laterales (2)",
+            "Airbags cortina (2)",
+            "ABS + EBD",
+            "BA",
+            "ESP",
+            "HDC",
+            "TPMS",
+            "Sensor retroceso",
+            "Cámara retroceso",
+            "ISOFIX (2)",
+            "Alerta cinturón todos pasajeros"
+        ]
+    },
+    "colores": [
+        "Blanco",
+        "Plata",
+        "Gris"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización estructurada por versiones, sin agregar información externa",
+        "versiones_en_documento": 4
+    }
+}

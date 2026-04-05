@@ -1,0 +1,347 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "Hunter REEV",
+        "año": 2025,
+        "versiones": [
+            "4X2 LUXURY",
+            "4X4 ELITE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4X2 LUXURY": "Gasolina turboalimentado de 2.0 litros",
+            "4X4 ELITE": "Gasolina turboalimentado de 2.0 litros"
+        },
+        "cilindrada": {
+            "4X2 LUXURY": 1996,
+            "4X4 ELITE": 1996
+        },
+        "potencia_hp": {
+            "4X2 LUXURY": "268",
+            "4X4 ELITE": "470"
+        },
+        "potencia_rpm": {
+            "4X2 LUXURY": null,
+            "4X4 ELITE": null
+        },
+        "torque_nm": {
+            "4X2 LUXURY": "470",
+            "4X4 ELITE": "470"
+        },
+        "torque_rpm": {
+            "4X2 LUXURY": null,
+            "4X4 ELITE": null
+        },
+        "combustible": "Gasolina 93 Octanos",
+        "transmision": {
+            "4X2 LUXURY": "E-CVT",
+            "4X4 ELITE": "E-CVT"
+        },
+        "traccion": {
+            "4X2 LUXURY": "Trasera",
+            "4X4 ELITE": "Delantera y Trasera"
+        }
+    },
+    "direccion": {
+        "tipo": "Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Suspensión Multi-Link",
+        "frenos_delanteros": "Disco sólido",
+        "frenos_traseros": "Disco sólido",
+        "freno_estacionamiento": "Freno de mano automático",
+        "neumaticos": {
+            "4X2 LUXURY": "245/70R17",
+            "4X4 ELITE": "265/60R18"
+        },
+        "rueda_repuesto": "Kit antipinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 5380,
+        "ancho_mm": 1980,
+        "alto_mm": {
+            "4X2 LUXURY": 1885,
+            "4X4 ELITE": 1875
+        },
+        "distancia_ejes_mm": 3180,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "4X2 LUXURY": 3140,
+            "4X4 ELITE": 3290
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 70,
+        "numero_pasajeros": 5,
+        "dimensiones_zona_carga_mm": "1600*1595*520",
+        "capacidad_carga_total_kg": {
+            "4X2 LUXURY": 940,
+            "4X4 ELITE": 900
+        },
+        "capacidad_arrastre": "2500 kg. con freno / 750 kg. sin freno"
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento combustible (km/L)",
+            "4X2 LUXURY": "12,7",
+            "4X4 ELITE": "11,8"
+        },
+        {
+            "caracteristica": "Rendimiento ponderado (km/L)",
+            "4X2 LUXURY": "71,4",
+            "4X4 ELITE": "71,4"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica pura NEDC (km)",
+            "4X2 LUXURY": "131",
+            "4X4 ELITE": "131"
+        },
+        {
+            "caracteristica": "Autonomía gasolina (km)",
+            "4X2 LUXURY": "900",
+            "4X4 ELITE": "900"
+        },
+        {
+            "caracteristica": "Autonomía total (km)",
+            "4X2 LUXURY": "1031",
+            "4X4 ELITE": "1031"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Bloqueo electrónico de zona de carga",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Conector 220V/16 A en zona de carga",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas automáticos con sensor de lluvia",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Desbloqueo seguro puertas por proximidad, sin llave",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "4X2 LUXURY": "Tela - ecocuero / Negro",
+                "4X4 ELITE": "Ecocuero / Negro"
+            },
+            {
+                "caracteristica": "Climatizador",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Butacas integrales (deportivas)",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de purificación de aire",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Pantalla infoentretenimiento touch",
+                "4X2 LUXURY": "12,3”",
+                "4X4 ELITE": "12,3”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital",
+                "4X2 LUXURY": "7,5\" LCD",
+                "4X4 ELITE": "7,5\" LCD"
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Volante",
+                "4X2 LUXURY": "Microfibra",
+                "4X4 ELITE": "Microfibra"
+            },
+            {
+                "caracteristica": "Ajuste volante",
+                "4X2 LUXURY": "Regulable en altura",
+                "4X4 ELITE": "Regulable en altura"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "4X2 LUXURY": "Manual - 6 posiciones",
+                "4X4 ELITE": "Electrónico - 6 posiciones"
+            },
+            {
+                "caracteristica": "Asiento acompañante",
+                "4X2 LUXURY": "Manual - 4 posiciones",
+                "4X4 ELITE": "Electrónico - 4 posiciones"
+            },
+            {
+                "caracteristica": "Asiento conductor/copiloto calefaccionables",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Alzavidrios delanteros / traseros",
+                "4X2 LUXURY": "Manual",
+                "4X4 ELITE": "Eléctricos - One touch up/down (4) antipinch"
+            },
+            {
+                "caracteristica": "Apertura remota de ventanas",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Cierre de ventanas automático al alejarse",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "4X2 LUXURY": "6 parlantes",
+                "4X4 ELITE": "8 parlantes"
+            },
+            {
+                "caracteristica": "Entradas USB-A",
+                "4X2 LUXURY": 3,
+                "4X4 ELITE": 3
+            },
+            {
+                "caracteristica": "Conector de 12V",
+                "4X2 LUXURY": true,
+                "4X4 ELITE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "4X2 LUXURY": 4,
+                "4X4 ELITE": 6
+            },
+            {
+                "caracteristica": "Alerta de salida de carril (LDW)",
+                "4X2 LUXURY": false,
+                "4X4 ELITE": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Conectividad Android auto / Apple Carplay",
+                "4X2 LUXURY": "Inalámbricos",
+                "4X4 ELITE": "Inalámbricos"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Puerta de caja con peldaño en zona de carga",
+            "Cobertor zona de carga",
+            "Puerta hidráulica zona de carga",
+            "Luz en zona de carga",
+            "Panel de descarga de 3,3 kW (interfaz de 220 V/10 A. Interfaz de 220 V/16 A, interruptor de control maestro) en zona de carga",
+            "Fuente externa de descarga (3,3 kW, 20 kW, descarga de auto bloqueado, descarga estacionado)",
+            "Antena tipo aleta de tiburón",
+            "Manillas cromadas",
+            "Pisadera lateral aleación en aluminio",
+            "Espejos laterales ajustables eléctricamente y plegables automáticamente al cerrar",
+            "Desempañador espejos laterales",
+            "Luces diurnas (DRL)",
+            "Función \"follow me home\"",
+            "Luces automáticas",
+            "Luces delanteras led con encendido automático",
+            "Luces traseras led",
+            "Luces antiniebla delanteras y traseras",
+            "Luces ajustables en altura",
+            "Control de ventanas y seguro puertas a distancia"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Apoyabrazos delantero",
+            "Salida de aire en plazas traseras",
+            "Asientos segunda fila abatibles",
+            "Espejo de cortesía pasajero delantero",
+            "Comandos en volante",
+            "Conectividad Android auto / Apple Carplay",
+            "Compartimiento inferior plazas traseras",
+            "Compartimiento trasero en plazas traseras",
+            "Manillas para pasajeros",
+            "Manillas en pilar A y B",
+            "Compartimiento para anteojos"
+        ],
+        "seguridad": [
+            "Alerta de cinturones delanteros desabrochados (sonido y luz)",
+            "Alerta de límite de velocidad",
+            "Asistencia de arranque en pendiente (HHC)",
+            "Control de descenso en pendiente (HDC)",
+            "Asistencia de frenado (BA)",
+            "Bloqueo electrónico de diferencial trasero",
+            "Cámara 360° con vista 540°",
+            "Función antibloqueo accidental (llave olvidada en interior)",
+            "Control de estabilidad lateral en virajes (AYC)",
+            "Control crucero",
+            "Control de estabilidad electrónica (ESC/ESP)",
+            "Control de balanceo de remolque (TSC)",
+            "Desbloqueo por proximidad",
+            "Dirección electrónica asistida",
+            "Corte suministro de combustible en caso de colisión",
+            "Distribución electrónica de frenada (EBD)",
+            "Freno de mano automático",
+            "Monitoreo de presión de neumáticos (TPMS)",
+            "Grabador de video HD (memoria no incluida)",
+            "Inmovilizador antirrobo",
+            "Jaula antivuelco integrada",
+            "Retención automática del vehículo (AVH)",
+            "Seguro de niño",
+            "Sensores de estacionamiento traseros (n°): 2",
+            "Sistema de alerta acústica de vehículo (AVAS)",
+            "Sistema de control de tracción (TCS)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Sistema de alerta para frenado de emergencia",
+            "Sistema isofix (2)",
+            "Bloqueo automático de puertas en velocidad",
+            "Desbloqueo automático de puertas por colisión",
+            "Desbloqueo automático de puertas al estacionar",
+            "Cinturones de seguridad frontales y traseros de 3 puntas",
+            "Sistema de partida con botón"
+        ],
+        "tecnologia": [
+            "Cable con conector tipo 2"
+        ],
+        "adas": [
+            "Modos de dirección: Light, Comfort, Sport",
+            "Modos de manejo: Eco, comfort, sport"
+        ]
+    },
+    "colores": [
+        "Azul",
+        "Blanco",
+        "Gris",
+        "Plata",
+        "Negro",
+        "Rojo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (check=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_hunter-reev_21-5x28_2025_v6_0110_.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó la información técnica, batería, rendimiento, colores y equipamiento estándar/diferenciado por versión. Donde el PDF no permite distinguir con claridad una asignación exacta por columna, se mantuvo únicamente lo visible y verificable."
+    }
+}

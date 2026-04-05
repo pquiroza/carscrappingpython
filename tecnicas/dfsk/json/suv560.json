@@ -1,0 +1,207 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "SUV 560",
+        "año": null,
+        "versiones": [
+            "1.8L COMFORT 2R",
+            "1.8L COMFORT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.8L COMFORT 2R": "SFG18",
+            "1.8L COMFORT": "SFG18"
+        },
+        "cilindrada": {
+            "1.8L COMFORT 2R": 1800,
+            "1.8L COMFORT": 1800
+        },
+        "potencia_hp": {
+            "1.8L COMFORT 2R": "138",
+            "1.8L COMFORT": "138"
+        },
+        "potencia_rpm": {
+            "1.8L COMFORT 2R": "5.600",
+            "1.8L COMFORT": "5.600"
+        },
+        "torque_nm": {
+            "1.8L COMFORT 2R": "187",
+            "1.8L COMFORT": "187"
+        },
+        "torque_rpm": {
+            "1.8L COMFORT 2R": null,
+            "1.8L COMFORT": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.8L COMFORT 2R": "5MT",
+            "1.8L COMFORT": "5MT"
+        },
+        "traccion": {
+            "1.8L COMFORT 2R": "4x2",
+            "1.8L COMFORT": "4x2"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Independiente con barra de torsión",
+        "frenos_delanteros": {
+            "1.8L COMFORT 2R": "Delanteros",
+            "1.8L COMFORT": "Delanteros y Traseros"
+        },
+        "frenos_traseros": {
+            "1.8L COMFORT 2R": "Delanteros",
+            "1.8L COMFORT": "Delanteros y Traseros"
+        },
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.8L COMFORT 2R": "215/60 R-17",
+            "1.8L COMFORT": "215/60 R-17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4515,
+        "ancho_mm": 1735,
+        "alto_mm": 1815,
+        "distancia_ejes_mm": 2690,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.8L COMFORT 2R": 1990,
+            "1.8L COMFORT": 1990
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": {
+            "1.8L COMFORT 2R": 50,
+            "1.8L COMFORT": 58
+        },
+        "numero_pasajeros": {
+            "1.8L COMFORT 2R": 5,
+            "1.8L COMFORT": 7
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/lt)",
+            "1.8L COMFORT 2R": "12",
+            "1.8L COMFORT": "12"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales con regulador eléctrico",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Antena tipo aleta de tiburón",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Número de parlantes",
+                "1.8L COMFORT 2R": 2,
+                "1.8L COMFORT": 4
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Salida de aire trasera",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": "7''"
+            },
+            {
+                "caracteristica": "Control de radio al volante",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Android Auto / Car play",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Velocidad Crucero",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara retroceso",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad trasero",
+                "1.8L COMFORT 2R": false,
+                "1.8L COMFORT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Manillas cromadas",
+            "Barras porta equipaje",
+            "Espejos laterales con señalador de viraje",
+            "Defroster luneta trasera",
+            "Limpia parabrisas trasero",
+            "Neblineros traseros",
+            "Regulador de altura de luces",
+            "Alarma de luces encendidas",
+            "Llantas aleación"
+        ],
+        "interior": [
+            "Tapiz Ecocuero",
+            "Cubre maleta",
+            "Aire acondicionado",
+            "Alzavidrios eléctricos",
+            "Alzavidrios de un toque",
+            "Apertura y cierre de vidrios a distancia",
+            "USB / Auxiliar",
+            "Apertura y cierre a distancia"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Control de estabilidad (ESP)",
+            "Airbag frontales"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Si=true, vacío/-=false; texto/valores tal cual)",
+        "fuente": "ficha-suv560-2025-copia.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó toda la información visible en la tabla. No se indican colores, despeje_suelo_mm, capacidad_maletero_lts, torque_rpm ni rueda_repuesto en el documento. La fila 'Frenos de disco' aparece como 'Delanteros' para 1.8L COMFORT 2R y 'Delanteros y Traseros' para 1.8L COMFORT, por lo que se mantuvo tal cual."
+    }
+}

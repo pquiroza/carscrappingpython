@@ -1,0 +1,154 @@
+{
+    "vehiculo": {
+        "marca": "CUPRA",
+        "modelo": "FORMENTOR E-HYBRID",
+        "año": null,
+        "versiones": [
+            "E-HYBRID"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "E-HYBRID": "Motor 1.5 TSI e-Hybrid (Híbrido enchufable)"
+        },
+        "cilindrada": {
+            "E-HYBRID": 1498
+        },
+        "potencia_hp": {
+            "E-HYBRID": "204"
+        },
+        "potencia_rpm": {
+            "E-HYBRID": null
+        },
+        "torque_nm": {
+            "E-HYBRID": "350"
+        },
+        "torque_rpm": {
+            "E-HYBRID": "850 - 4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "E-HYBRID": "DSG 6"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson con muelles helicoidales y amortiguador hidráulico",
+        "suspension_trasera": "Eje multilink con muelles helicoidales y amortiguador hidráulico",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos ventilados",
+        "freno_estacionamiento": "Freno de mano electromecánico (con Auto Hold)",
+        "neumaticos": {
+            "E-HYBRID": "245/45 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4451,
+        "ancho_mm": 1839,
+        "alto_mm": 1508,
+        "distancia_ejes_mm": 2681,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 345,
+        "capacidad_estanque_lts": 40,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ponderado de combustible (km/l)",
+            "E-HYBRID": "111,1"
+        },
+        {
+            "caracteristica": "Rendimiento ponderado eléctrico (km/kWh)",
+            "E-HYBRID": "5,5"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aleación 18”",
+            "Neumáticos 245/45 R18",
+            "Espejos exteriores con ajuste eléctrico, térmicos",
+            "Espejos exteriores abatibles eléctricos",
+            "Luces diurnas LED",
+            "Luces principales LED",
+            "Luces traseras LED",
+            "Neblineros",
+            "Techo corredizo panorámico",
+            "Vidrios traseros tinteados"
+        ],
+        "interior": [
+            "Asientos con ajuste en altura eléctricos (Delanteros y memoria conductor)",
+            "Asientos con ajuste lumbar eléctrico (Delanteros)",
+            "Reposabrazo central delantero",
+            "Asientos / tapizado Bucket / Cuero",
+            "Asientos delanteros calefaccionados",
+            "Volante multifuncional con botones satélite",
+            "Retrovisor interior antideslumbrante automático"
+        ],
+        "seguridad": [
+            "ABS (Sistema de Frenos Antibloqueo)",
+            "ASR (Control de Tracción)",
+            "EDS (Bloqueo Electrónico del Diferencial)",
+            "ESC (Control Electrónico de Estabilidad)",
+            "Anclajes de asiento infantil. Sistema ISOFIX",
+            "Airbag frontal para conductor y pasajero delantero",
+            "Airbags laterales delanteros y traseros",
+            "Airbags de cortina",
+            "Airbag central delantero",
+            "Airbag de rodilla para el conductor",
+            "Inmovilizador electrónico",
+            "10 airbags"
+        ],
+        "tecnologia": [
+            "Bluetooth",
+            "Cámara de retroceso",
+            "Cargador inalámbrico",
+            "Cierre centralizado con control remoto",
+            "Climatizador automático de 3 zonas",
+            "Control crucero",
+            "Digital Cockpit 10,25”",
+            "Encendido automático de las luces",
+            "Entradas USB",
+            "Freno de mano electromecánico",
+            "Full Link inalámbrico (Android Auto & CarPlay)",
+            "Indicador de presión de neumáticos",
+            "Keyless Entry y botón de encendido",
+            "Levas de cambio / Paddle Shifters",
+            "Parlantes (11 + subwoofer)",
+            "Radio touchscreen de 12,9”",
+            "Sensor de lluvia",
+            "Sensores de estacionamiento delanteros y traseros",
+            "Sistema de sonido Sennheiser con subwoofer",
+            "Alarma volumétrica"
+        ],
+        "adas": [
+            "Front Assist con función de aviso y frenado para vehículos, peatones y bicicletas",
+            "Sistema de detección de cansancio y distracciones"
+        ]
+    },
+    "colores": [
+        "Blanco Glacial",
+        "Azul Fiord",
+        "Gris Grafeno",
+        "Gris Magnético Met",
+        "Negro Media Noche"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica CUPRA (S=true, -=false; textos/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Cupra-Formentor-PHEV_nov.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Documento con una sola versión (E-HYBRID). El equipamiento aparece como estándar (marcado con 'S'). Se incluyeron además datos técnicos, tren motriz, batería/recarga, capacidades, desempeño, rendimiento/consumo y colores."
+    }
+}

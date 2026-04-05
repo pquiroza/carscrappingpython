@@ -1,0 +1,158 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Grand i10 Sedán",
+        "año": null,
+        "versiones": [
+            "1.2_MT_PLUS",
+            "1.2_AT_PLUS",
+            "1.2_MT_DESIGN"
+        ]
+    },
+    "motor": {
+        "tipo": "MPI DCVVT",
+        "cilindrada": "1.197 cc",
+        "potencia_hp": "83 Hp",
+        "potencia_rpm": "6.000 RPM",
+        "torque_nm": "114 Nm",
+        "torque_rpm": "4.000",
+        "combustible": "Gasolina",
+        "transmision": {
+            "1.2_MT_PLUS": "Mecánica / 5",
+            "1.2_AT_PLUS": "Automática / 4",
+            "1.2_MT_DESIGN": "Mecánica / 5"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctricamente asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Barra de Torsión",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos": "175/60R15",
+        "rueda_repuesto": "Rueda de Repuesto 14\""
+    },
+    "dimensiones": {
+        "largo_mm": 3995,
+        "ancho_mm": 1680,
+        "alto_mm": 1520,
+        "distancia_ejes_mm": 2450,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "1.2_MT_PLUS": 1400,
+            "1.2_AT_PLUS": 1420,
+            "1.2_MT_DESIGN": 1400
+        },
+        "capacidad_maletero_lts": 402,
+        "capacidad_estanque_lts": 37
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de Aleación Bicolor Diamantadas",
+            "1.2_MT_PLUS": "15\"",
+            "1.2_AT_PLUS": "15\"",
+            "1.2_MT_DESIGN": "15\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Parrilla con acabado negro brillante",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Botón de encendido con llave inteligente",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con señalizador incorporado",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores plegables eléctricamente",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Luces Día LED (DRL)",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            },
+            {
+                "caracteristica": "Manillas exteriores cromadas",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "1.2_MT_PLUS": false,
+                "1.2_AT_PLUS": false,
+                "1.2_MT_DESIGN": true
+            }
+        ],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "Anclaje Isofix",
+            "Control de Estabilidad (ESC)",
+            "Asistente de arranque en pendiente (HAC)",
+            "Carrocería de deformación programada",
+            "Cinturones de seguridad 3 puntas con pre-tensores delanteros y traseros",
+            "Cámara de retroceso",
+            "Inmovilizador",
+            "Seguro para niños en puertas traseras",
+            "Sensores de estacionamiento trasero",
+            "Volante colapsable"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Salida de aire para plazas traseras",
+            "Alzavidrios eléctricos totales",
+            "Alarma",
+            "Asiento regulable en altura",
+            "Bluetooth",
+            "Llave plegable",
+            "Cierre centralizado puertas",
+            "Control de audio al volante",
+            "Dirección eléctricamente asistida",
+            "Espejo en parasol copiloto",
+            "Luces traseras LED + ampolleta freno",
+            "Pedaleras con iluminación",
+            "Puerto USB para carga (1-USB C / 2-USB)",
+            "Radio 9\" Apple CarPlay & Android Auto",
+            "Retrovisores exteriores eléctricos",
+            "Volante regulable en altura",
+            "Sensor de luces"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura visual estricta tabla PDF página 2",
+        "fuente": "ft-grand-i10-sdn.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual."
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "vehiculo": {
+        "marca": "Volkswagen",
+        "modelo": "Nuevo T-Cross",
+        "año": null,
+        "versiones": [
+            "Comfortline 200 TSI AT",
+            "Highline 200 TSI AT",
+            "Highline Sport S 200 TSI AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfortline 200 TSI AT": "1.0 TSI",
+            "Highline 200 TSI AT": "1.0 TSI",
+            "Highline Sport S 200 TSI AT": "1.0 TSI"
+        },
+        "cilindrada": {
+            "Comfortline 200 TSI AT": 1.0,
+            "Highline 200 TSI AT": 1.0,
+            "Highline Sport S 200 TSI AT": 1.0
+        },
+        "potencia_hp": {
+            "Comfortline 200 TSI AT": "116",
+            "Highline 200 TSI AT": "116",
+            "Highline Sport S 200 TSI AT": "116"
+        },
+        "potencia_rpm": {
+            "Comfortline 200 TSI AT": "5.500",
+            "Highline 200 TSI AT": "5.500",
+            "Highline Sport S 200 TSI AT": "5.500"
+        },
+        "torque_nm": {
+            "Comfortline 200 TSI AT": "200",
+            "Highline 200 TSI AT": "200",
+            "Highline Sport S 200 TSI AT": "200"
+        },
+        "torque_rpm": {
+            "Comfortline 200 TSI AT": "1.500 - 4.250",
+            "Highline 200 TSI AT": "1.500 - 4.250",
+            "Highline Sport S 200 TSI AT": "1.500 - 4.250"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Comfortline 200 TSI AT": "AT 6",
+            "Highline 200 TSI AT": "AT 6",
+            "Highline Sport S 200 TSI AT": "AT 6"
+        },
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfortline 200 TSI AT": "205/55 R17",
+            "Highline 200 TSI AT": "205/55 R17",
+            "Highline Sport S 200 TSI AT": "205/55 R17"
+        },
+        "rueda_repuesto": {
+            "Comfortline 200 TSI AT": true,
+            "Highline 200 TSI AT": true,
+            "Highline Sport S 200 TSI AT": true
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4199,
+        "ancho_mm": 1760,
+        "alto_mm": 1568,
+        "distancia_ejes_mm": 2651,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 420,
+        "capacidad_estanque_lts": 52,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "Comfortline 200 TSI AT": "12,4",
+            "Highline 200 TSI AT": "12,4",
+            "Highline Sport S 200 TSI AT": "12,4"
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "Comfortline 200 TSI AT": "16,1",
+            "Highline 200 TSI AT": "16,1",
+            "Highline Sport S 200 TSI AT": "16,1"
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "Comfortline 200 TSI AT": "19,4",
+            "Highline 200 TSI AT": "19,4",
+            "Highline Sport S 200 TSI AT": "19,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "Comfortline 200 TSI AT": "17\"",
+                "Highline 200 TSI AT": "17\"",
+                "Highline Sport S 200 TSI AT": "17\" en negro"
+            },
+            {
+                "caracteristica": "Barras longitudinales en techo",
+                "Comfortline 200 TSI AT": "Negro",
+                "Highline 200 TSI AT": "Cromado",
+                "Highline Sport S 200 TSI AT": "Negro"
+            },
+            {
+                "caracteristica": "Color techo",
+                "Comfortline 200 TSI AT": "Carrocería",
+                "Highline 200 TSI AT": "Carrocería",
+                "Highline Sport S 200 TSI AT": "Negro"
+            },
+            {
+                "caracteristica": "Franja lumínica entre foco y foco",
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            },
+            {
+                "caracteristica": "Sunroof Panorámico",
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": false,
+                "Highline Sport S 200 TSI AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapizado de asientos",
+                "Comfortline 200 TSI AT": "Cuero sintético",
+                "Highline 200 TSI AT": "Cuero",
+                "Highline Sport S 200 TSI AT": "Cuero"
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antideslumbrante",
+                "Comfortline 200 TSI AT": "Manual",
+                "Highline 200 TSI AT": "Automático",
+                "Highline Sport S 200 TSI AT": "Automático"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor Punto Ciego",
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            },
+            {
+                "caracteristica": "Mantenimiento cambio de carril “Lane Assist”",
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "Comfortline 200 TSI AT": false,
+                "Highline 200 TSI AT": true,
+                "Highline Sport S 200 TSI AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Cuadro de instrumentos digital",
+                "Comfortline 200 TSI AT": "8\"",
+                "Highline 200 TSI AT": "10,25\"",
+                "Highline Sport S 200 TSI AT": "10,25\""
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Luces principales LED",
+            "Luces diurnas LED (DRL)",
+            "Coming / Leaving Home",
+            "Luces traseras LED",
+            "Neblineros traseros",
+            "Retrovisores exteriores eléctricos y abatibles",
+            "Retrovisores exteriores y manillas color carrocería"
+        ],
+        "interior": [
+            "Asiento del conductor con ajuste de altura",
+            "Asientos traseros abatibles",
+            "Asiento del conductor con soporte lumbar",
+            "Reposabrazos central delantero",
+            "Luz ambiente",
+            "Volante multifunción en cuero",
+            "Volante con Paddle Shift"
+        ],
+        "seguridad": [
+            "Airbags frontales (conductor y acompañante)",
+            "Airbags laterales delanteros",
+            "Airbags de cortinas",
+            "Bloqueo electrónico del diferencial (EDL)",
+            "Control electrónico de tracción (ASR)",
+            "Sistema antibloqueo de frenado (ABS)",
+            "Sistema electrónico de estabilización (ESC)",
+            "Anclaje ISOFIX para asientos de niños",
+            "Inmovilizador electrónico con sistema de alarma antirrobo",
+            "Control de asistencia para arranque en pendientes",
+            "Rueda de repuesto",
+            "Indicador de presión de neumáticos",
+            "Front Assist (peatones/ciclistas)"
+        ],
+        "tecnologia": [
+            "Climatizador automático (Climatronic)",
+            "Radio Touchscreen 10,1” con VW Play",
+            "App Connect inalámbrico con Apple CarPlay y Android Auto",
+            "Parlantes (6)",
+            "Puertos USB Tipo C",
+            "Sensores de estacionamiento trasero y delantero",
+            "Cámara de retroceso",
+            "Control de velocidad crucero adaptativo",
+            "Cargador inalámbrico",
+            "Keyless Entry y botón de encendido",
+            "Start & Stop",
+            "Park Assist",
+            "Sensor de lluvia",
+            "Detector de fatiga"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Plata Reflejo",
+        "Gris Platino",
+        "Rojo Metálico",
+        "Blanco Puro",
+        "Azul Noruega",
+        "Negro Ninja",
+        "Gris Ascot"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura directa de ficha técnica Volkswagen (X=Disponible, -=No disponible; cuando hay una sola columna aplica a todas las versiones).",
+        "fuente": "FT-T-cross-202512-TIER-3.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajeron todos los datos técnicos (TIER3 BIN 70, consumo homologado, garantía 3 años o 100.000 kms.), dimensiones, capacidades y equipamiento completo diferenciando por versión exactamente como figura en la tabla."
+    }
+}

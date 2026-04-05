@@ -1,0 +1,349 @@
+{
+    "vehiculo": {
+        "marca": "Geely",
+        "modelo": "NEW COOLRAY",
+        "año": null,
+        "versiones": [
+            "COMFORT",
+            "SPORT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "COMFORT": null,
+            "SPORT": null
+        },
+        "cilindrada": {
+            "COMFORT": 1499,
+            "SPORT": 1499
+        },
+        "potencia_hp": {
+            "COMFORT": "174",
+            "SPORT": "174"
+        },
+        "potencia_rpm": {
+            "COMFORT": "5500",
+            "SPORT": "5500"
+        },
+        "torque_nm": {
+            "COMFORT": "290",
+            "SPORT": "290"
+        },
+        "torque_rpm": {
+            "COMFORT": "2000-3500",
+            "SPORT": "2000-3500"
+        },
+        "combustible": null,
+        "transmision": {
+            "COMFORT": "Transmisión de doble embrague de 7 velocidades",
+            "SPORT": "Transmisión de doble embrague de 7 velocidades"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "EPS (Dirección asistida eléctrica)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Macpherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_estacionamiento": "Eléctrico (EPB)",
+        "neumaticos": {
+            "COMFORT": "Llantas de aleación 17\"",
+            "SPORT": "Llantas de aleación 18\" — Sporty Black Edition"
+        },
+        "rueda_repuesto": "T125/80 D16 (acero)"
+    },
+    "dimensiones": {
+        "largo_mm": 4380,
+        "ancho_mm": 1810,
+        "alto_mm": 1615,
+        "distancia_ejes_mm": 2600,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "COMFORT": 1325,
+            "SPORT": 1370
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "COMFORT": "18,4",
+            "SPORT": "18,4"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "COMFORT": "14,8",
+            "SPORT": "14,8"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "COMFORT": "10,8",
+            "SPORT": "10,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Techo y carrocería bi-tono",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Llantas de aleación 17\"",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Llantas de aleación 18\" — Sporty Black Edition",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Espejos laterales con decoración tipo fibra de carbono",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Spoiler trasero deportivo",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Calipers de freno en color deportivo",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Alerón deportivo",
+                "COMFORT": false,
+                "SPORT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla táctil central 8\"",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Pantalla táctil central 14,6\"",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Tablero de instrumentos 8,8\" display segmentado",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Tablero de instrumentos 8,8\" TFT",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Parasol delantero con espejo de cortesía",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Parasol delantero translúcido con espejo y luz",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Nº de parlantes",
+                "COMFORT": 4,
+                "SPORT": 6
+            },
+            {
+                "caracteristica": "Iluminación ambiental",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Volante multifunción con revestimiento espumado",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Volante multifunción forrado en cuero",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico en 6 vías",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste manual en 6 vías",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Asientos deportivos",
+                "COMFORT": false,
+                "SPORT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara panorámica 540°",
+                "COMFORT": false,
+                "SPORT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control de crucero (CC)",
+                "COMFORT": true,
+                "SPORT": false
+            },
+            {
+                "caracteristica": "Control crucero adaptativo (ACC)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (AEB-C/U/P)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Alerta de salida de carril (LDW)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Detección de punto ciego (BSD)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril (LCA)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Alerta de apertura de puertas (DOW)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asistencia de mitigación de colisión trasera (CMSR)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero (RCTA)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril de emergencia (ELK)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Control inteligente de luces altas (IHBC)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Reconocimiento de señales de tránsito (TSR)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Información de límite de velocidad (SLIF)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asistente en tráfico denso (TJA)",
+                "COMFORT": false,
+                "SPORT": true
+            },
+            {
+                "caracteristica": "Asistente de conducción integrada (ICA)",
+                "COMFORT": false,
+                "SPORT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "COMFORT": false,
+                "SPORT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Neumático de repuesto: T125/80 D16 (acero)",
+            "Barras de techo",
+            "Focos LED automáticos",
+            "Regulación eléctrica de altura de focos",
+            "Luces diurnas LED (DRL)",
+            "Luces traseras combinadas LED",
+            "Luz trasera continua LED",
+            "Tercera luz de freno LED",
+            "Espejos laterales con señalizadores"
+        ],
+        "interior": [
+            "Color de interior: negro",
+            "Apple CarPlay & Android Auto",
+            "Mirror Link",
+            "Bluetooth",
+            "A/C automático",
+            "Salidas de aire traseras",
+            "Puertos USB (delanteros: 2, traseros: 1)",
+            "Toma de 12 V",
+            "Asientos de eco cuero perforados",
+            "Asiento copiloto con ajuste manual en 4 vías",
+            "Apoyacabezas ajustables en 2 vías (todos los asientos)",
+            "Apoyacabezas central trasero",
+            "Apoyabrazos central trasero con portavasos",
+            "Asientos traseros abatibles 60/40",
+            "Anclajes ISOFIX para sillas infantiles"
+        ],
+        "seguridad": [
+            "6 airbags",
+            "ABS + EBD",
+            "HBA (asistente hidráulico de frenado)",
+            "TCS (control de tracción)",
+            "ESC (control electrónico de estabilidad)",
+            "Asistente de partida en pendiente y control de descenso",
+            "TPMS (monitoreo de presión de neumáticos)",
+            "Cinturones delanteros con pretensor",
+            "Regulador de altura de cinturones",
+            "Cinturones traseros con recordatorio de no abrochado",
+            "Cinturones traseros con detección de ocupante trasero",
+            "Seguridad en colisión: corte de combustible",
+            "Seguridad en colisión: desbloqueo automático de puertas",
+            "Modos de conducción (Sport, Comfort, Eco, Smart)",
+            "Sensores de estacionamiento traseros",
+            "Cámara de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Geely (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "A6-FICHA-TECNICA.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se consolidaron las múltiples tablas del documento en el mismo formato JSON usado anteriormente. Donde el documento no indica explícitamente el dato, se dejó null o lista vacía."
+    }
+}

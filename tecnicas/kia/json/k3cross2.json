@@ -1,0 +1,415 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "K3 Cross",
+        "año": null,
+        "versiones": [
+            "EX 1.4L 6MT",
+            "EX 1.6L 6MT",
+            "EX 1.6L 6AT",
+            "EX 1.6L 6MT FULL",
+            "EX 1.6L 6AT FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EX 1.4L 6MT": "Inyección multipunto (MPI)",
+            "EX 1.6L 6MT": "Inyección multipunto (MPI)",
+            "EX 1.6L 6AT": "Inyección multipunto (MPI)",
+            "EX 1.6L 6MT FULL": "Inyección multipunto (MPI)",
+            "EX 1.6L 6AT FULL": "Inyección multipunto (MPI)"
+        },
+        "cilindrada": {
+            "EX 1.4L 6MT": 1368,
+            "EX 1.6L 6MT": 1591,
+            "EX 1.6L 6AT": 1591,
+            "EX 1.6L 6MT FULL": 1591,
+            "EX 1.6L 6AT FULL": 1591
+        },
+        "potencia_hp": {
+            "EX 1.4L 6MT": "98",
+            "EX 1.6L 6MT": "121",
+            "EX 1.6L 6AT": "121",
+            "EX 1.6L 6MT FULL": "121",
+            "EX 1.6L 6AT FULL": "121"
+        },
+        "potencia_rpm": {
+            "EX 1.4L 6MT": "6.000",
+            "EX 1.6L 6MT": "6.300",
+            "EX 1.6L 6AT": "6.300",
+            "EX 1.6L 6MT FULL": "6.300",
+            "EX 1.6L 6AT FULL": "6.300"
+        },
+        "torque_nm": {
+            "EX 1.4L 6MT": "133,4",
+            "EX 1.6L 6MT": "151",
+            "EX 1.6L 6AT": "151",
+            "EX 1.6L 6MT FULL": "151",
+            "EX 1.6L 6AT FULL": "151"
+        },
+        "torque_rpm": {
+            "EX 1.4L 6MT": "4.000",
+            "EX 1.6L 6MT": "4.850",
+            "EX 1.6L 6AT": "4.850",
+            "EX 1.6L 6MT FULL": "4.850",
+            "EX 1.6L 6AT FULL": "4.850"
+        },
+        "combustible": "Gasolina (95)",
+        "transmision": {
+            "EX 1.4L 6MT": "Mecánica 6 velocidades",
+            "EX 1.6L 6MT": "Mecánica 6 velocidades",
+            "EX 1.6L 6AT": "Automática secuencial de 6 velocidades",
+            "EX 1.6L 6MT FULL": "Mecánica 6 velocidades",
+            "EX 1.6L 6AT FULL": "Automática secuencial de 6 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de torsión tubular",
+        "frenos_delanteros": "Frenos ABS con EBD",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "EX 1.4L 6MT": "205 / 55 R16",
+            "EX 1.6L 6MT": "205 / 55 R16",
+            "EX 1.6L 6AT": "205 / 55 R16",
+            "EX 1.6L 6MT FULL": "205 / 50 R17",
+            "EX 1.6L 6AT FULL": "205 / 50 R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4295,
+        "ancho_mm": 1765,
+        "alto_mm": 1495,
+        "distancia_ejes_mm": 2670,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": {
+            "EX 1.4L 6MT": 1600,
+            "EX 1.6L 6MT": 1610,
+            "EX 1.6L 6AT": 1640,
+            "EX 1.6L 6MT FULL": 1610,
+            "EX 1.6L 6AT FULL": 1640
+        },
+        "capacidad_maletero_lts": 390,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo ciudad (km/l)",
+            "EX 1.4L 6MT": "12,7",
+            "EX 1.6L 6MT": "11,4",
+            "EX 1.6L 6AT": "10,9",
+            "EX 1.6L 6MT FULL": "11,4",
+            "EX 1.6L 6AT FULL": "10,9"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "EX 1.4L 6MT": "20,4",
+            "EX 1.6L 6MT": "18,8",
+            "EX 1.6L 6AT": "18,2",
+            "EX 1.6L 6MT FULL": "18,8",
+            "EX 1.6L 6AT FULL": "18,2"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "EX 1.4L 6MT": "16,7",
+            "EX 1.6L 6MT": "15,2",
+            "EX 1.6L 6AT": "14,6",
+            "EX 1.6L 6MT FULL": "15,2",
+            "EX 1.6L 6AT FULL": "14,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación aro 16\"",
+                "EX 1.4L 6MT": true,
+                "EX 1.6L 6MT": true,
+                "EX 1.6L 6AT": true,
+                "EX 1.6L 6MT FULL": false,
+                "EX 1.6L 6AT FULL": false
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": true,
+                "EX 1.6L 6AT": true,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED con Static Bending",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Luces diurnas (DRL) LED",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17\"",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Beltline cromado",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Sunroof delantero",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cargador inalámbrico para celulares",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": true,
+                "EX 1.6L 6AT": true,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Radio touch con pantalla LCD 10,25\"",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Volante regulable en profundidad",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de eco-cuero",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Volante forrado en eco-cuero",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Palanca de cambios forrada en eco-cuero",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Alzavidrio del conductor con función Auto Up/Down & Stop",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Smartkey con botón de encendido",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Climatizador dual",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Asistente de luces altas (HBA)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Sistema de detección de punto ciego (BSD)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Sistema de detección de tráfico cruzado (RCTA)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Asistente de intervención de punto ciego (BCA)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Alerta de salida segura (SEW)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Alerta de atención al conductor (DAW)",
+                "EX 1.4L 6MT": false,
+                "EX 1.6L 6MT": false,
+                "EX 1.6L 6AT": false,
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Asistente de colisión frontal (FCA)**",
+                "EX 1.4L 6MT": "Opcional (※)",
+                "EX 1.6L 6MT": "Opcional (※)",
+                "EX 1.6L 6AT": "Opcional (※)",
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)**",
+                "EX 1.4L 6MT": "Opcional (※)",
+                "EX 1.6L 6MT": "Opcional (※)",
+                "EX 1.6L 6AT": "Opcional (※)",
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            },
+            {
+                "caracteristica": "Asistente de seguimiento de carril (LFA)**",
+                "EX 1.4L 6MT": "Opcional (※)",
+                "EX 1.6L 6MT": "Opcional (※)",
+                "EX 1.6L 6AT": "Opcional (※)",
+                "EX 1.6L 6MT FULL": true,
+                "EX 1.6L 6AT FULL": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos calefaccionados con señalizador",
+            "Espejos exteriores abatibles eléctricamente",
+            "Guardafangos delanteros y traseros",
+            "Vidrios tintados",
+            "Barras de techo",
+            "Luces delanteras halógenas (4-MFR)"
+        ],
+        "interior": [
+            "Radio touch con pantalla LCD 8”",
+            "Conectividad inalámbrica Apple CarPlay & Android Auto",
+            "Clúster de supervisión LCD 4,2” a color",
+            "Bluetooth con reconocimiento de voz",
+            "Control de audio en volante",
+            "Tweeters",
+            "Conexión frontal USB x2 y toma corriente 12V",
+            "Asiento del conductor regulable en altura",
+            "Apoyabrazo central con compartimiento",
+            "Control crucero",
+            "Asientos traseros abatibles 60/40",
+            "Alzavidrios eléctricos totales",
+            "Alzavidrios conductor con función Auto Down",
+            "Encendido automático de luces",
+            "Volante regulable en altura",
+            "Parasol con espejo iluminado para conductor y pasajero",
+            "Aire acondicionado"
+        ],
+        "seguridad": [
+            "Airbags frontales delanteros",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Anclaje ISOFIX",
+            "Barras de protección doble en las puertas",
+            "Carrocería con deformación programada",
+            "Estructura de acero de alta resistencia",
+            "Cierre centralizado",
+            "Columna de dirección colapsable",
+            "Inmovilizador",
+            "Cinturones de seguridad delanteros con altura regulable",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad traseros de 3 puntas",
+            "Control de estabilidad (ESC)",
+            "Frenos ABS con EBD",
+            "Asistente de partida en pendiente (HAC)",
+            "Sensor de proximidad delantero y trasero",
+            "Cámara de retroceso integrada a radio con líneas adaptativas",
+            "Frenos de disco traseros"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura de ficha técnica KIA K3 Cross (punto negro=true, punto blanco=false; símbolo ※=equipamiento opcional; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Kia-K3Cross.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Segundo bloque del PDF. Códigos de versión: 2366, 2367, 2368, 2369 y 2370."
+    }
+}

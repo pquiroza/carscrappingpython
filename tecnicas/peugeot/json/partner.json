@@ -1,0 +1,121 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "PARTNER",
+        "año": null,
+        "versiones": [
+            "L1",
+            "L2"
+        ]
+    },
+    "motor": {
+        "tipo": "DV5 Turbo Diesel",
+        "cilindrada": "1499",
+        "potencia_hp": "100",
+        "potencia_rpm": "3750",
+        "torque_nm": "230",
+        "torque_rpm": "1750",
+        "combustible": "Diesel",
+        "transmision": "Mecánica",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "205/60 R16",
+        "rueda_repuesto": "Homogénea"
+    },
+    "dimensiones": {
+        "largo_mm": "4403 / 4753",
+        "ancho_mm": "2107 / 1921",
+        "alto_mm": "1840 / 1849",
+        "distancia_ejes_mm": "2785 / 2975",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "2400",
+        "capacidad_maletero_lts": "3.3–4.4 m3",
+        "capacidad_estanque_lts": "53"
+    },
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso vacío (kg)",
+            "L1": "1395",
+            "L2": "1448"
+        },
+        {
+            "caracteristica": "Carga útil (kg)",
+            "L1": "1000",
+            "L2": "950"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Remolque con freno (kg)",
+            "L1": "1350",
+            "L2": "1050"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "L1": "16.5",
+            "L2": "16.5"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "L1": "20.7",
+            "L2": "20.7"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "L1": "18.9",
+            "L2": "18.9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Peugeot i-Cockpit",
+            "Aire acondicionado",
+            "Alzavidrios eléctricos",
+            "Cierre centralizado",
+            "Banqueta delantera 2 plazas Multiflex",
+            "Regulador / limitador de velocidad",
+            "Volante regulable altura y profundidad",
+            "Freno de mano eléctrico"
+        ],
+        "exterior": [
+            "Faros halógenos",
+            "Intermitentes laterales",
+            "Protecciones laterales negras",
+            "Llantas acero 16\""
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "Airbag conductor",
+            "Airbag pasajero",
+            "ESP",
+            "AFU",
+            "Sensor retroceso",
+            "Cámara retroceso",
+            "Anti-arranque electrónico",
+            "ISOFIX"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Peugeot Partner 2024/2025",
+        "versiones_en_documento": 2,
+        "notas": "Versiones L1 y L2 comparten equipamiento; solo cambian dimensiones y capacidades."
+    }
+}

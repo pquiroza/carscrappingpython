@@ -1,0 +1,169 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Creta Grand",
+        "año": null,
+        "versiones": [
+            "2.0_MT_GO_FL",
+            "2.0_AT_PLUS_FL"
+        ]
+    },
+    "motor": {
+        "tipo": "DOHC D-CVVT 4 en Línea 16V",
+        "cilindrada": "2000 cc",
+        "potencia_hp": "157 Hp",
+        "potencia_rpm": "6.500",
+        "torque_nm": "191 Nm",
+        "torque_rpm": "4.500",
+        "combustible": "Gasolina",
+        "transmision": {
+            "2.0_MT_GO_FL": "6MT",
+            "2.0_AT_PLUS_FL": "6AT"
+        },
+        "traccion": "2WD"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "CTBA",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "215/60R17",
+        "rueda_repuesto": "Rueda repuesto tamaño completo (fierro)"
+    },
+    "dimensiones": {
+        "largo_mm": 4560,
+        "ancho_mm": 1800,
+        "alto_mm": 1670,
+        "distancia_ejes_mm": 2760,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2.0_MT_GO_FL": 2040,
+            "2.0_AT_PLUS_FL": 2070
+        },
+        "capacidad_maletero_lts": {
+            "detalle": "VDA (asientos levantados / tercera corrida abatida / segunda y tercera corrida abatidas)",
+            "valores": "180 / 561 / 1.670"
+        },
+        "capacidad_estanque_lts": 50
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas",
+            "2.0_MT_GO_FL": "17\"",
+            "2.0_AT_PLUS_FL": "17\" (bi-tono)"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Asistente de estacionamiento",
+                "2.0_MT_GO_FL": "Trasero",
+                "2.0_AT_PLUS_FL": "Delantero / Trasero"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "2.0_MT_GO_FL": true,
+                "2.0_AT_PLUS_FL": false
+            },
+            {
+                "caracteristica": "Climatizador Dual",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Retrovisores abatibles electrónicamente",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Llave plegable",
+                "2.0_MT_GO_FL": true,
+                "2.0_AT_PLUS_FL": false
+            },
+            {
+                "caracteristica": "Botón de encendido y llave inteligente",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras",
+                "2.0_MT_GO_FL": "Halógenas de Proyección",
+                "2.0_AT_PLUS_FL": "LED"
+            },
+            {
+                "caracteristica": "Luces traseras",
+                "2.0_MT_GO_FL": "Halógenas",
+                "2.0_AT_PLUS_FL": "LED"
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS",
+            "Control de estabilidad (ESC)",
+            "Asistente arranque en pendiente (HAC)",
+            "Alarma",
+            "Anclaje Isofix",
+            "Cámara de retroceso con guías dinámicas",
+            "Inmovilizador"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos totales (Conductor Auto Up/Down Anti-apriete)",
+            "Asiento conductor regulable en altura",
+            "Asientos tercera corrida plegables 50/50",
+            "Asientos traseros plegables 60/40",
+            "Bluetooth con reconocimiento de voz",
+            "Cierre centralizado",
+            "Tablero digital 4,2\"",
+            "Control audio al volante",
+            "Radio 8\" Apple CarPlay & AndroidAuto inalámbrico",
+            "Retrovisores eléctricos",
+            "Retrovisores con señalizadores",
+            "Salida aire plazas traseras",
+            "Salida aire tercera corrida",
+            "Sensor de luces",
+            "Tapiz Tela",
+            "Volante regulable en altura (MT) / altura y profundidad (AT)",
+            "Número de parlantes 6",
+            "4 USB-C y 1 USB-A"
+        ],
+        "exterior": [
+            "Luz día DRL LED"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-creta-grand.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual."
+    }
+}

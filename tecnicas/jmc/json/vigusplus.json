@@ -1,0 +1,372 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "ALL NEW VIGUS PLUS",
+        "año": null,
+        "versiones": [
+            "4X2 LX",
+            "4X4 LX"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4X2 LX": "MOTOR JMC TURBO DIÉSEL 2.500 CC",
+            "4X4 LX": "MOTOR JMC TURBO DIÉSEL 2.500 CC"
+        },
+        "cilindrada": {
+            "4X2 LX": "2.5 TURBO",
+            "4X4 LX": "2.5 TURBO"
+        },
+        "potencia_hp": {
+            "4X2 LX": "161",
+            "4X4 LX": "161"
+        },
+        "potencia_rpm": {
+            "4X2 LX": "3400",
+            "4X4 LX": "3400"
+        },
+        "torque_nm": {
+            "4X2 LX": "410",
+            "4X4 LX": "410"
+        },
+        "torque_rpm": {
+            "4X2 LX": null,
+            "4X4 LX": null
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "4X2 LX": "MECÁNICA 6 VELOCIDADES",
+            "4X4 LX": "MECÁNICA 6 VELOCIDADES"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "DIRECCIÓN ASISTIDA HIDRÁULICA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "SUSPENSIÓN DE BALLESTAS DEPENDIENTE - POR ENCIMA DEL EJE",
+        "frenos_delanteros": "DISCOS",
+        "frenos_traseros": "DISCOS",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "4X2 LX": "265/65R17",
+            "4X4 LX": "265/65R17"
+        },
+        "rueda_repuesto": "RUEDA DE REPUESTO CON LLANTA DE ACERO"
+    },
+    "dimensiones": {
+        "largo_mm": 5335,
+        "ancho_mm": 1882,
+        "alto_mm": 1892,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2830,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 73,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "4X2 LX": "265/65R17",
+                "4X4 LX": "265/65R17"
+            },
+            {
+                "caracteristica": "Función \"Follow me home\"",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Intermitentes LED en retrovisores",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Luces diurnas LED",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Tercera luz de freno",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Faros antiniebla delanteros",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Faros antiniebla traseros",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Parachoques delantero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Parachoques trasero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Ventanas eléctricas",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Llantas de aleación de aluminio",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Rueda de repuesto con llanta de acero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Manijas exteriores cromadas",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas intermitente",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Revestimiento adhesivo resistente al desgaste para contenedor",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Estribos laterales",
+                "4X2 LX": true,
+                "4X4 LX": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Alerta de luces encendidas",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Pantalla a color de 12.8 pulgadas (MP5)",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Carplay y Android Auto",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos LCD flotante de 7 pulgadas",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Altavoces",
+                "4X2 LX": 4,
+                "4X4 LX": 4
+            },
+            {
+                "caracteristica": "Entrada sin llave y arranque por botón",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Puerto USB de carga separado en la parte delantera",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Control de crucero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Volante ajustable (2 vías)",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Volante de cuero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Volante multifunción (control de audio)",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Ventanas eléctricas",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Cierre centralizado y control remoto plegable",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Bloqueo automático del tren",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Asientos de cuero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto ajustable manualmente en 4 direcciones",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable manualmente en 6 direcciones",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior antideslumbrante",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Aire acondicionado eléctrico",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Filtración de polen y PM2.5",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Luz de lectura",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Luz del techo",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Freno de mano mecánico",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "PDC (Control de distancia de estacionamiento)",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Radar delantero",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Cámara de reversa (sonda única visible)",
+                "4X2 LX": true,
+                "4X4 LX": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ISOFIX",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "ABS + EBD",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "ESP (Programa electrónico de estabilidad)",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Asistencia de arranque en pendiente",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad de tres puntos en la segunda fila",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Recordatorio cinturón de seguridad del conductor no abrochado",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Airbag del conductor",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Airbag del copiloto",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "4 Airbags",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Botón de arranque antirrobo PEPS",
+                "4X2 LX": true,
+                "4X4 LX": true
+            },
+            {
+                "caracteristica": "Seguro para niños",
+                "4X2 LX": true,
+                "4X4 LX": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Plata",
+        "Negro",
+        "Rojo",
+        "Verde",
+        "Gris Grafito"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.NEWVIGUS.PLUS-101025.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Motor 2.5 Turbo Diésel 161 HP / 3400 RPM; torque 410 Nm; relación de compresión 16:1; capacidad tanque 73 L. Tracción 4WD por tiempo compartido + 4L + 4H: N/A en 4X2 LX y presente (X) en 4X4 LX."
+    }
+}

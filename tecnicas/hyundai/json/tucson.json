@@ -1,0 +1,213 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Tucson",
+        "año": null,
+        "versiones": [
+            "2.0_MT_GO_FL",
+            "2.0_AT_PLUS_FL",
+            "2.0_AT_BLACKLINE_FL",
+            "1.5T_AT_4WD_PLUS_FL"
+        ]
+    },
+    "motor": {
+        "tipo": "16V",
+        "cilindrada": {
+            "2.0_MT_GO_FL": "2.000 cc",
+            "2.0_AT_PLUS_FL": "2.000 cc",
+            "2.0_AT_BLACKLINE_FL": "2.000 cc",
+            "1.5T_AT_4WD_PLUS_FL": "1.500 cc"
+        },
+        "potencia_hp": {
+            "2.0_MT_GO_FL": "154 Hp a 6.200 Rpm",
+            "2.0_AT_PLUS_FL": "154 Hp a 6.200 Rpm",
+            "2.0_AT_BLACKLINE_FL": "154 Hp a 6.200 Rpm",
+            "1.5T_AT_4WD_PLUS_FL": "178 hp a 5.500 rpm"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "2.0_MT_GO_FL": "192 Nm",
+            "2.0_AT_PLUS_FL": "192 Nm",
+            "2.0_AT_BLACKLINE_FL": "192 Nm",
+            "1.5T_AT_4WD_PLUS_FL": "253 Nm"
+        },
+        "torque_rpm": {
+            "2.0_MT_GO_FL": "4.500",
+            "2.0_AT_PLUS_FL": "4.500",
+            "2.0_AT_BLACKLINE_FL": "4.500",
+            "1.5T_AT_4WD_PLUS_FL": "2.000 ~ 4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "2.0_MT_GO_FL": "6 MT",
+            "2.0_AT_PLUS_FL": "6 AT",
+            "2.0_AT_BLACKLINE_FL": "6 AT",
+            "1.5T_AT_4WD_PLUS_FL": "8 AT"
+        },
+        "traccion": {
+            "2.0_MT_GO_FL": "2WD",
+            "2.0_AT_PLUS_FL": "2WD",
+            "2.0_AT_BLACKLINE_FL": "2WD",
+            "1.5T_AT_4WD_PLUS_FL": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Mc Pherson",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos Sólidos",
+        "neumaticos": {
+            "2.0_MT_GO_FL": "235/65R17",
+            "2.0_AT_PLUS_FL": "235/60R18",
+            "2.0_AT_BLACKLINE_FL": "235/60R18",
+            "1.5T_AT_4WD_PLUS_FL": "235/60R18"
+        },
+        "rueda_repuesto": "Rueda de Repuesto tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 4670,
+        "ancho_mm": 1865,
+        "alto_mm": 1665,
+        "distancia_ejes_mm": 2755,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "2.0_MT_GO_FL": 1955,
+            "2.0_AT_PLUS_FL": 1990,
+            "2.0_AT_BLACKLINE_FL": 1990,
+            "1.5T_AT_4WD_PLUS_FL": 2090
+        },
+        "capacidad_maletero_lts": 539,
+        "capacidad_estanque_lts": 54
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas de aleación",
+            "2.0_MT_GO_FL": "17\"",
+            "2.0_AT_PLUS_FL": "18\"",
+            "2.0_AT_BLACKLINE_FL": "18\"",
+            "1.5T_AT_4WD_PLUS_FL": "18\""
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Control de tracción avanzado H-Track (4WD)",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": false,
+                "1.5T_AT_4WD_PLUS_FL": true
+            },
+            {
+                "caracteristica": "BCA - Asistencia punto ciego",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": true,
+                "1.5T_AT_4WD_PLUS_FL": false
+            },
+            {
+                "caracteristica": "RCCA - Alerta tráfico cruzado",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": true,
+                "1.5T_AT_4WD_PLUS_FL": false
+            },
+            {
+                "caracteristica": "SSC - Control crucero adaptativo",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": true,
+                "1.5T_AT_4WD_PLUS_FL": false
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "2.0_MT_GO_FL": true,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": false,
+                "1.5T_AT_4WD_PLUS_FL": false
+            },
+            {
+                "caracteristica": "Climatizador dual",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": true,
+                "2.0_AT_BLACKLINE_FL": true,
+                "1.5T_AT_4WD_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Audio Premium Bose",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": true,
+                "1.5T_AT_4WD_PLUS_FL": false
+            },
+            {
+                "caracteristica": "Selector de marchas al volante (E-Shift By Wire)",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": false,
+                "1.5T_AT_4WD_PLUS_FL": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico inteligente",
+                "2.0_MT_GO_FL": false,
+                "2.0_AT_PLUS_FL": false,
+                "2.0_AT_BLACKLINE_FL": true,
+                "1.5T_AT_4WD_PLUS_FL": false
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "ABS + EBD",
+            "Control de Estabilidad",
+            "HAC + DBC",
+            "Cámara de retroceso",
+            "TPMS",
+            "LKA",
+            "LFA",
+            "Asistencia luces altas",
+            "Advertencia atención conductor",
+            "Alerta pasajeros traseros"
+        ],
+        "interior": [
+            "Alza vidrios eléctricos totales",
+            "Asientos traseros 60/40",
+            "Barras de techo",
+            "Bluetooth",
+            "Cluster digital 4,2\" TFT LCD",
+            "Cobertor maletero",
+            "Espejos eléctricos calefaccionados",
+            "Espejos plegables eléctricos",
+            "Radio 12,3\" Apple CarPlay & Android Auto",
+            "Cargador inalámbrico",
+            "Luces DRL LED",
+            "Salidas aire plazas traseras",
+            "Volante regulable altura y profundidad",
+            "Selector modos manejo (Eco, Normal, Sport, My drive)"
+        ],
+        "exterior": [
+            "Luces delanteras LED",
+            "Luces traseras LED",
+            "Neblinero trasero LED",
+            "Sensor de luces"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas PDF páginas 2 y 3",
+        "fuente": "ficha-tecnica-tucson-gasolina.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos exactamente desde la tabla comparativa visual del documento."
+    }
+}

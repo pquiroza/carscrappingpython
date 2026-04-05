@@ -1,0 +1,300 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "CS15",
+        "año": null,
+        "versiones": [
+            "Comfort"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfort": "BlueCore 1,5L DOHC 16 válvulas 4 cilindros VVT"
+        },
+        "cilindrada": {
+            "Comfort": 1500
+        },
+        "potencia_hp": {
+            "Comfort": "100"
+        },
+        "potencia_rpm": {
+            "Comfort": "5.500"
+        },
+        "torque_nm": {
+            "Comfort": "145"
+        },
+        "torque_rpm": {
+            "Comfort": "3.500-4.500"
+        },
+        "combustible": "Gasolina 93 octanos",
+        "transmision": {
+            "Comfort": "Manual de 5 velocidades"
+        },
+        "traccion": {
+            "Comfort": "Delantera (FWD)"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección de asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Barra de torsión con barra estabilizadora",
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfort": "205/55 R16"
+        },
+        "rueda_repuesto": "195/65 R15"
+    },
+    "dimensiones": {
+        "largo_mm": 4100,
+        "ancho_mm": 1740,
+        "alto_mm": 1635,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 180,
+        "peso_bruto_kg": 1585,
+        "capacidad_maletero_lts": 361,
+        "capacidad_estanque_lts": 44,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "Comfort": "11,2"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "Comfort": "16,7"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "Comfort": "14,1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación aro 16\"",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Barras de techo longitudinales",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Espejos exteriores ajustables eléctricamente desde el interior",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Espejos laterales con luces de viraje LED",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Máscara frontal cromada",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Limpia y lava luneta trasera",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Luces con función Follow Me Home",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros y traseros",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Parachoque delantero y trasero bicolor",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Spoiler trasero color carrocería",
+                "Comfort": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos delanteros y traseros",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Botón de cierre centralizado en puerta conductor",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Bloqueo de apertura de ventanas",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Cenicero y encendedor",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Computador a bordo",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Compartimientos de almacenamiento al costado de asientos delanteros",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Compartimientos de almacenamiento en maletero",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Consola central de cuero con apoyabrazos",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Detalles cromados en puertas y tablero frontal",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Luces independientes para asientos delanteros",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Puertas delanteras con luces de apertura",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Radio con Bluetooth y entrada USB",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Tablero con ajuste automático al prender / apagar luces",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Tapa cubre maletas",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Toma de corriente 12V",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Apple CarPlay y Android Auto opcional",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Asientos de tela color negro con costuras rojas deportivas",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Asiento de conductor con regulación en 6 direcciones",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con cinturones de seguridad con limitadores de fuerza",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Asientos traseros con respaldo abatible en 2 secciones 60/40",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Asientos traseros con cinturones de seguridad ALR de 3 puntas",
+                "Comfort": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "(2) Airbags frontales (conductor y copiloto) en dos etapas",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Alarma",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Barras protectoras laterales en las puertas",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable con absorción de energía",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Carrocería \"HEEAB\" auto soportante, rígida y resistente a la torsión, fabricada en acero de alta resistencia, con zonas de deformación controlada en las secciones delantera y trasera",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Inmovilizador antirrobo",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Luneta trasera con desempañado eléctrico",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Puertas traseras con seguro de niños",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Recordatorio cinturón de seguridad asiento conductor",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Sistema de anclaje para silla de bebés \"ISOFIX\" en asientos traseros",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Seguro de niños en puertas traseras",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Frenos con sistema de frenos antibloqueo (ABS), distribución electrónica (EBD) y asistencia de frenado (BA)",
+                "Comfort": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "Comfort": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Apple CarPlay y Android Auto opcional",
+                "Comfort": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata",
+        "Rojo",
+        "Negro",
+        "Blanco",
+        "Azul"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (ticket=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_cs15_201224pdf.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información visible del documento para la versión Comfort. Donde el PDF no muestra explícitamente un dato, se dejó en null."
+    }
+}

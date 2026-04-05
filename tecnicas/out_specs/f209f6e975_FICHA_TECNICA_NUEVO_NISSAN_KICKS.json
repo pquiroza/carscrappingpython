@@ -1,0 +1,21 @@
+{
+  "pdf": "out_nissan_brand/pdfs/f209f6e975_FICHA_TECNICA_NUEVO_NISSAN_KICKS.pdf",
+  "versions": [],
+  "base_specs_or_equipment": {},
+  "specs_by_version": {},
+  "equipment_by_version": {},
+  "debug": {
+    "boxes_found": [
+      [
+        259,
+        5510,
+        5740,
+        16435
+      ]
+    ],
+    "picked_kv_box": null,
+    "picked_comp_box": null,
+    "comp_matrix_preview": [],
+    "kv_matrix_preview": []
+  }
+}

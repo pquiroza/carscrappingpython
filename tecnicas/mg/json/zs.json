@@ -1,0 +1,144 @@
+{
+    "vehiculo": {
+        "marca": "MG",
+        "modelo": "All New ZS",
+        "año": 2025,
+        "versiones": [
+            "1.5L_MT",
+            "1.5L_MT_plus",
+            "1.5L_CVT",
+            "1.5T_CVT_LUX",
+            "1.5L_CVT_plus"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": {
+            "1.5L_MT": "1.5L",
+            "1.5L_MT_plus": "1.5L",
+            "1.5L_CVT": "1.5L",
+            "1.5T_CVT_LUX": "1.5T",
+            "1.5L_CVT_plus": "1.5L"
+        },
+        "potencia_hp": {
+            "1.5L_*": "114",
+            "1.5T_CVT_LUX": "168"
+        },
+        "torque_nm": {
+            "1.5L_*": "148",
+            "1.5T_CVT_LUX": "275"
+        },
+        "transmision": {
+            "1.5L_MT": "5MT",
+            "1.5L_MT_plus": "5MT",
+            "1.5L_CVT": "CVT",
+            "1.5T_CVT_LUX": "CVT",
+            "1.5L_CVT_plus": "CVT"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "neumaticos": {
+            "18\"": "215/50 R18",
+            "17\"": "215/55 R17",
+            "16\"": "215/60 R16"
+        },
+        "rueda_repuesto": "Uso temporal"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_rendimiento": [],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [],
+    "tabla_comparativa_ruedas": [],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "ACC",
+                "1.5L_MT": false,
+                "1.5L_MT_plus": false,
+                "1.5L_CVT": false,
+                "1.5T_CVT_LUX": true,
+                "1.5L_CVT_plus": false
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "1.5L_MT": false,
+                "1.5L_MT_plus": false,
+                "1.5L_CVT": false,
+                "1.5T_CVT_LUX": true,
+                "1.5L_CVT_plus": false
+            },
+            {
+                "caracteristica": "Blind Spot Monitoring",
+                "1.5L_MT": false,
+                "1.5L_MT_plus": false,
+                "1.5L_CVT": false,
+                "1.5T_CVT_LUX": true,
+                "1.5L_CVT_plus": false
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Sunroof panorámico",
+                "1.5L_MT": false,
+                "1.5L_MT_plus": false,
+                "1.5L_CVT": false,
+                "1.5T_CVT_LUX": true,
+                "1.5L_CVT_plus": false
+            }
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "ESP",
+            "ABS",
+            "TPMS",
+            "ISOFIX",
+            "Airbags frontales",
+            "Recordatorio cinturones"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Volante multifunción",
+            "Pantalla touch",
+            "Bluetooth",
+            "USB",
+            "Asientos plegables 60/40"
+        ],
+        "exterior": [
+            "DRL",
+            "Neblineros traseros",
+            "Espejos eléctricos",
+            "Rieles de techo"
+        ],
+        "tecnologia": [
+            "Android Auto",
+            "Apple CarPlay"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "mg-zs_2025.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Tabla muy extensa. Se extrajeron diferencias clave y equipamiento común. Celdas S/- mapeadas a boolean."
+    }
+}

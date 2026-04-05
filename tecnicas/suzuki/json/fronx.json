@@ -1,0 +1,411 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Fronx Hybrid",
+        "año": null,
+        "versiones": [
+            "GL MT",
+            "GL AT",
+            "GLX MT",
+            "GLX AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL MT": "K15C Micro híbrido 12V-ISG",
+            "GL AT": "K15C Micro híbrido 12V-ISG",
+            "GLX MT": "K15C Micro híbrido 12V-ISG",
+            "GLX AT": "K15C Micro híbrido 12V-ISG"
+        },
+        "cilindrada": {
+            "GL MT": 1462,
+            "GL AT": 1462,
+            "GLX MT": 1462,
+            "GLX AT": 1462
+        },
+        "potencia_hp": {
+            "GL MT": "102",
+            "GL AT": "102",
+            "GLX MT": "102",
+            "GLX AT": "102"
+        },
+        "potencia_rpm": {
+            "GL MT": "6.000",
+            "GL AT": "6.000",
+            "GLX MT": "6.000",
+            "GLX AT": "6.000"
+        },
+        "torque_nm": {
+            "GL MT": "136,8",
+            "GL AT": "136,8",
+            "GLX MT": "136,8",
+            "GLX AT": "136,8"
+        },
+        "torque_rpm": {
+            "GL MT": "4.400",
+            "GL AT": "4.400",
+            "GLX MT": "4.400",
+            "GLX AT": "4.400"
+        },
+        "combustible": null,
+        "transmision": {
+            "GL MT": "Manual",
+            "GL AT": "Automática",
+            "GLX MT": "Manual",
+            "GLX AT": "Automática"
+        },
+        "traccion": "4X2"
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente con cremallera y piñón"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor y zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GL MT": "195/60 R16",
+            "GL AT": "195/60 R16",
+            "GLX MT": "195/60 R16",
+            "GLX AT": "195/60 R16"
+        },
+        "rueda_repuesto": "195/60 R16 acero"
+    },
+    "dimensiones": {
+        "largo_mm": 3995,
+        "ancho_mm": 1765,
+        "alto_mm": 1550,
+        "distancia_ejes_mm": 2520,
+        "despeje_suelo_mm": 170,
+        "peso_bruto_kg": {
+            "GL MT": 1480,
+            "GL AT": 1480,
+            "GLX MT": 1480,
+            "GLX AT": 1480
+        },
+        "capacidad_maletero_lts": {
+            "maleta": 304,
+            "maleta_asientos_abatidos": 1009
+        },
+        "capacidad_estanque_lts": 37,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GL MT": "16,7",
+            "GL AT": "16,7",
+            "GLX MT": "16,7",
+            "GLX AT": "16,7"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GL MT": "19,2",
+            "GL AT": "18,9",
+            "GLX MT": "19,2",
+            "GLX AT": "18,9"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GL MT": "21,3",
+            "GL AT": "20,4",
+            "GLX MT": "21,3",
+            "GLX AT": "20,4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación 16\"",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Llantas de aleación 16\" bitono",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Barras de techo color plata",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Encendido automático de luces",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Luces con sistema Follow Me Home",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Acceso manos libres (Keyless Entry)",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos, abatibles manualmente",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos, abatibles automáticamente",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cargador inalámbrico Qi",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Botón de partida (Keyless Start)",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Sistema de apertura sin llave",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil de 7\"",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil de 9\"",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "4 parlantes",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "6 parlantes",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Cambios al volante (Paddle Shift)",
+                "GL MT": false,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Climatizador automático",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor día/noche manual",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": false,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Espejo retrovisor día/noche automático",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Parasoles con espejo e iluminación",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Guantera con iluminación",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Iluminación consola central y pies",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Luz maletero",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensores de estacionamiento trasero",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Head up display",
+                "GL MT": false,
+                "GL AT": false,
+                "GLX MT": true,
+                "GLX AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Android Auto / Apple CarPlay inalámbrico",
+                "GL MT": true,
+                "GL AT": true,
+                "GLX MT": true,
+                "GLX AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Rueda de repuesto 195/60 R16 acero",
+            "Barras de techo color negro",
+            "Embellecedor máscara frontal cromada",
+            "Manillas exteriores color carrocería",
+            "Vidrios delanteros con filtro UV",
+            "Luces principales delanteras LED",
+            "Luces LED de conducción diurna (DRL)",
+            "Regulación manual de altura de luces",
+            "Luz de posición trasera y freno LED",
+            "Antena tipo tiburón",
+            "Espejos laterales con intermitentes integrados"
+        ],
+        "interior": [
+            "Cierre central de puertas con comando a distancia",
+            "Cargador USB tipo A y C plazas traseras",
+            "Salida ventilación asientos traseros",
+            "Comando de radio al volante",
+            "Control crucero",
+            "Computador a bordo de 4,2” a color",
+            "Asiento de conductor ajustable en altura",
+            "Tapiz de tela",
+            "Bolsillo en respaldo de asiento copiloto",
+            "Asientos traseros abatibles 60/40",
+            "Alarma luces encendidas",
+            "Apoyabrazos delantero",
+            "Salida 12 V en consola central",
+            "Cubrepisos de alfombra"
+        ],
+        "seguridad": [
+            "ABS + EBD + BAS",
+            "Programa de estabilidad electrónica (ESP)",
+            "Asistencia en pendiente - Hill Hold Control",
+            "Doble airbag frontal",
+            "Doble airbag lateral",
+            "Doble airbag cortina",
+            "Pilares con absorción de energía",
+            "Inmovilizador antirrobo",
+            "Anclajes Isofix (2)",
+            "Cinturones delanteros con regulación de altura",
+            "Cinturones delanteros con limitación de fuerza",
+            "Cinturones traseros de tres puntas en tres posiciones"
+        ],
+        "tecnologia": [
+            "Android Auto / Apple CarPlay inalámbrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Metálico Perlado Techo Negro",
+        "Plata Metálico Perlado Techo Negro",
+        "Blanco Perla",
+        "Negro Metálico Perlado",
+        "Azul Metálico Perlado",
+        "Gris Metálico Perlado",
+        "Plata Metálico Perlado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_fronx-hybrid.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

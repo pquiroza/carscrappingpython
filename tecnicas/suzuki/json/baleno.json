@@ -1,0 +1,338 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Baleno",
+        "año": null,
+        "versiones": [
+            "GLS MT",
+            "GLX MT",
+            "GLS AT",
+            "GLX AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLS MT": null,
+            "GLX MT": null,
+            "GLS AT": null,
+            "GLX AT": null
+        },
+        "cilindrada": {
+            "GLS MT": 1462,
+            "GLX MT": 1462,
+            "GLS AT": 1462,
+            "GLX AT": 1462
+        },
+        "potencia_hp": {
+            "GLS MT": "103",
+            "GLX MT": "103",
+            "GLS AT": "103",
+            "GLX AT": "103"
+        },
+        "potencia_rpm": {
+            "GLS MT": "6.000",
+            "GLX MT": "6.000",
+            "GLS AT": "6.000",
+            "GLX AT": "6.000"
+        },
+        "torque_nm": {
+            "GLS MT": "138",
+            "GLX MT": "138",
+            "GLS AT": "138",
+            "GLX AT": "138"
+        },
+        "torque_rpm": {
+            "GLS MT": "4.400",
+            "GLX MT": "4.400",
+            "GLS AT": "4.400",
+            "GLX AT": "4.400"
+        },
+        "combustible": null,
+        "transmision": {
+            "GLS MT": "Mecánica de 5 velocidades",
+            "GLX MT": "Mecánica de 5 velocidades",
+            "GLS AT": "Automática de 4 velocidades",
+            "GLX AT": "Automática de 4 velocidades"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Espirales y barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor y zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLS MT": "195/55 R16",
+            "GLX MT": "195/55 R16",
+            "GLS AT": "195/55 R16",
+            "GLX AT": "195/55 R16"
+        },
+        "rueda_repuesto": "T135/70 R15 (Uso temporal)"
+    },
+    "dimensiones": {
+        "largo_mm": 3990,
+        "ancho_mm": 1745,
+        "alto_mm": 1500,
+        "distancia_ejes_mm": 2520,
+        "despeje_suelo_mm": 150,
+        "peso_bruto_kg": 1430,
+        "capacidad_maletero_lts": 314,
+        "capacidad_estanque_lts": 37,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GLS MT": "14,0",
+            "GLX MT": "14,0",
+            "GLS AT": "14,2",
+            "GLX AT": "14,2"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GLS MT": "17,5",
+            "GLX MT": "17,5",
+            "GLS AT": "17,2",
+            "GLX AT": "17,2"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GLS MT": "20,5",
+            "GLX MT": "20,5",
+            "GLS AT": "19,7",
+            "GLX AT": "19,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Encendido automático de luces",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Llantas de aleación bitono",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Luces LED de conducción diurna (DRL)",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Luces principales delanteras LED",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Manillas exteriores cromadas",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Molduras cromadas en puertas y maleta",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros y luneta oscurecidos",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento conductor ajustable en altura",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Botón de encendido y apagado (Keyless Start)",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento 360°",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "GLS MT": true,
+                "GLX MT": false,
+                "GLS AT": true,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Cantidad de parlantes",
+                "GLS MT": 4,
+                "GLX MT": 6,
+                "GLS AT": 4,
+                "GLX AT": 6
+            },
+            {
+                "caracteristica": "Computador a bordo con pantalla monocromática",
+                "GLS MT": true,
+                "GLX MT": false,
+                "GLS AT": true,
+                "GLX AT": false
+            },
+            {
+                "caracteristica": "Computador a bordo con pantalla LCD color 4.2\"",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor día/noche automático",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Head-up display (HUD)",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Luz de cortesía maletero",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Manillas interiores cromadas",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Tapiz de puertas con inserto de ecocuero delantero y trasero",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en profundidad",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag de cortina (2)",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            },
+            {
+                "caracteristica": "Airbag laterales (2)",
+                "GLS MT": false,
+                "GLX MT": true,
+                "GLS AT": false,
+                "GLX AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos retrovisores color carrocería con señalizador LED",
+            "Llantas de aleación",
+            "Máscara cromada",
+            "Neblineros delanteros",
+            "Regulación de altura de luces",
+            "Spoiler trasero"
+        ],
+        "interior": [
+            "Aire acondicionado con climatizador",
+            "Alarma de luces encendidas y aviso de llave",
+            "Alzavidrios eléctricos delanteros y traseros",
+            "Apertura de tapa bencina desde el interior",
+            "Asientos traseros abatibles 60:40",
+            "Cargadores USB traseros (2)",
+            "Cierre centralizado con comando a distancia",
+            "Consola central con apoya brazos",
+            "Control de radio y teléfono al volante",
+            "Control de velocidad crucero",
+            "Luces de techo delantera y central",
+            "Puerto USB frontal",
+            "Radio multimedia con pantalla táctil y Bluetooth",
+            "Sistema Android Auto y Apple CarPlay",
+            "Retrovisores exteriores abatibles y ajustables eléctricamente",
+            "Salidas de aire traseras",
+            "Tapiz de asientos de tela",
+            "Volante forrado en cuero",
+            "Volante regulable en altura"
+        ],
+        "seguridad": [
+            "ABS + EBD + BAS",
+            "Sistema de control de estabilidad (ESP)",
+            "Alarma antirrobo",
+            "Anclaje Isofix (2)",
+            "Asistencia en pendiente (Hill hold control)",
+            "Barras de protección en las puertas",
+            "Carrocería con deformación programada",
+            "Cinturones traseros de tres puntas (3)",
+            "Cinturones delanteros con pre-tensionador y limitador de fuerza",
+            "Columna de dirección colapsable",
+            "Doble airbag frontal",
+            "Inmovilizador antirrobo",
+            "Seguro niños puertas traseras",
+            "Sensor de retroceso"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Perla",
+        "Azul Metálico Perlado",
+        "Rojo Metálico Perlado",
+        "Plata Metálico Perlado",
+        "Gris Metálico Perlado",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_baleno.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

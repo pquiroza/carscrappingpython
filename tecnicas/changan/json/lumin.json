@@ -1,0 +1,241 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "LUMIN",
+        "año": null,
+        "versiones": [
+            "EV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EV": "Síncrono de imanes permanentes"
+        },
+        "cilindrada": {
+            "EV": null
+        },
+        "potencia_hp": {
+            "EV": "46"
+        },
+        "potencia_rpm": {
+            "EV": null
+        },
+        "torque_nm": {
+            "EV": "83"
+        },
+        "torque_rpm": {
+            "EV": null
+        },
+        "combustible": "Eléctrico",
+        "transmision": {
+            "EV": "Electrónica"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo MacPherson",
+        "suspension_trasera": "Eje rígido",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos de tambor",
+        "freno_estacionamiento": "Manual",
+        "neumaticos": {
+            "EV": "165/70 (R14)"
+        },
+        "rueda_repuesto": "Kit de emergencia antipinchazos"
+    },
+    "dimensiones": {
+        "largo_mm": 3270,
+        "ancho_mm": 1700,
+        "alto_mm": 1545,
+        "distancia_ejes_mm": 1980,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 915,
+        "capacidad_maletero_lts": 101,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 4
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía NEDC (km)",
+            "EV": "301"
+        },
+        {
+            "caracteristica": "Consumo energético (km/kW/h)",
+            "EV": "9,7"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "EV": "110"
+        },
+        {
+            "caracteristica": "Capacidad de batería (kW/h)",
+            "EV": "28,08"
+        },
+        {
+            "caracteristica": "Carga media (3,3 kW/h)",
+            "EV": "<7,5 hr."
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Manillas ocultas",
+                "EV": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros (n°)",
+                "EV": 2
+            },
+            {
+                "caracteristica": "Cámara trasera",
+                "EV": true
+            },
+            {
+                "caracteristica": "Tercera luz de freno",
+                "EV": true
+            },
+            {
+                "caracteristica": "Reflectantes exteriores",
+                "EV": true
+            },
+            {
+                "caracteristica": "Luz antiniebla trasera",
+                "EV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "EV": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "EV": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento",
+                "EV": "Manual"
+            },
+            {
+                "caracteristica": "Ajuste luces delanteras",
+                "EV": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "EV": "7\""
+            },
+            {
+                "caracteristica": "Pantalla touch LCD",
+                "EV": "9\""
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "EV": "Manual"
+            },
+            {
+                "caracteristica": "Asiento acompañante",
+                "EV": "Manual"
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital",
+                "EV": true
+            },
+            {
+                "caracteristica": "Toma de corriente 12 V",
+                "EV": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "EV": "Tela"
+            },
+            {
+                "caracteristica": "Alzavidrios delanteros",
+                "EV": "Eléctricos"
+            },
+            {
+                "caracteristica": "Altavoces",
+                "EV": 2
+            },
+            {
+                "caracteristica": "Entradas USB-A",
+                "EV": 1
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "EV": 2
+            },
+            {
+                "caracteristica": "Distribución electrónica de frenada (EBD)",
+                "EV": true
+            },
+            {
+                "caracteristica": "Control electrónico de estabilidad (ESC)",
+                "EV": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "EV": true
+            },
+            {
+                "caracteristica": "Sistema ISOFIX",
+                "EV": true
+            },
+            {
+                "caracteristica": "Desbloqueo de puertas por colisión",
+                "EV": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos (TPMS)",
+                "EV": true
+            },
+            {
+                "caracteristica": "Asistencia de arranque en pendiente (HAC)",
+                "EV": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Conectividad",
+                "EV": "Apple CarPlay y Android Auto"
+            },
+            {
+                "caracteristica": "Modos de manejo",
+                "EV": "Eco - Sport"
+            },
+            {
+                "caracteristica": "Tipo de conector de carga",
+                "EV": "Tipo 2"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas de aluminio"
+        ],
+        "interior": [
+            "Asientos traseros abatibles 50/50"
+        ],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Amarillo",
+        "Blanco",
+        "Gris",
+        "Verde"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-29",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-te-cnica-lumin-2026.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó la información visible en las tablas de especificaciones generales, batería, equipamiento interior, exterior, seguridad y colores."
+    }
+}

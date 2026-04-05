@@ -1,0 +1,180 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "308",
+        "año": 2025,
+        "versiones": [
+            "1.2 Gasolina 130 MT",
+            "1.2 Gasolina 130 AT",
+            "1.5 Diesel 130 AT",
+            "1.2 Hybrid 136 AT"
+        ]
+    },
+    "motor": {
+        "tipo": "1.2 Gasolina / 1.5 Diesel / 1.2 Hybrid",
+        "cilindrada": "1199 / 1499",
+        "potencia_hp": "130 / 130 / 136",
+        "potencia_rpm": "5500 / 3750 / 5500",
+        "torque_nm": "230 / 300 / 230",
+        "torque_rpm": "1750 / 1750 / 1750",
+        "combustible": "Gasolina / Diesel / Híbrido",
+        "transmision": "MT6 / AT6 / AT8",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Pseudo McPherson",
+        "suspension_trasera": "Travesaño deformable",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "225/45 R17",
+        "rueda_repuesto": "Temporal tipo galleta"
+    },
+    "dimensiones": {
+        "largo_mm": "4367",
+        "ancho_mm": "2062 / 1859",
+        "alto_mm": "1441",
+        "distancia_ejes_mm": "2675",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "1790 / 1850 / 1940 / 2010",
+        "capacidad_maletero_lts": "384 / 1302",
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "MT130": "225/45 R17",
+            "AT130": "225/45 R17",
+            "DIESEL130": "225/45 R17",
+            "HYBRID136": "225/45 R17"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso vacío (kg)",
+            "MT130": "1258",
+            "AT130": "1288",
+            "DIESEL130": "1361",
+            "HYBRID136": "1400"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Peso remolcable (kg)",
+            "MT130": "600",
+            "AT130": "600",
+            "DIESEL130": "600",
+            "HYBRID136": "600"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "MT130": "16.6",
+            "AT130": "16.5",
+            "DIESEL130": "22.5",
+            "HYBRID136": "26.4"
+        },
+        {
+            "caracteristica": "Consumo extra urbano (km/l)",
+            "MT130": "21.6",
+            "AT130": "20.9",
+            "DIESEL130": "26.9",
+            "HYBRID136": "20.2"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "MT130": "19.5",
+            "AT130": "19.0",
+            "DIESEL130": "25.1",
+            "HYBRID136": "22.2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "ALLURE": "TEP / tela",
+                "GT": "TEP / Alcantara"
+            },
+            {
+                "caracteristica": "Asiento eléctrico conductor",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "ALLURE": false,
+                "GT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "ALLURE": "17\"",
+                "GT": "18\""
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sensor punto ciego",
+                "ALLURE": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Alerta tráfico cruzado",
+                "ALLURE": false,
+                "GT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Display i-Cockpit",
+                "ALLURE": "10\"",
+                "GT": "10\" 3D"
+            },
+            {
+                "caracteristica": "Faros delanteros",
+                "ALLURE": "LED",
+                "GT": "Matrix LED"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador bi-zona",
+            "Volante cuero",
+            "Alzavidrios eléctricos",
+            "Espejos eléctricos abatibles",
+            "Pantalla táctil 10\"",
+            "Bluetooth",
+            "Android Auto / CarPlay",
+            "6 parlantes"
+        ],
+        "exterior": [
+            "Faros LED",
+            "Faros traseros LED",
+            "Manillas color carrocería"
+        ],
+        "seguridad": [
+            "ABS + REF",
+            "ESP",
+            "ASR",
+            "Hill Assist",
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags cortina",
+            "ISOFIX",
+            "TPMS"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Peugeot 308 2025",
+        "versiones_en_documento": 4,
+        "notas": "Datos tomados de la tabla técnica principal."
+    }
+}

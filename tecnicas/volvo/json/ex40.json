@@ -1,0 +1,381 @@
+{
+    "vehiculo": {
+        "marca": "Volvo",
+        "modelo": "EX40",
+        "año": null,
+        "versiones": [
+            "Single Motor (P6 Core)",
+            "Twin Motor (P8)"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Single Motor (P6 Core)": null,
+            "Twin Motor (P8)": "Twin Motor (P8)"
+        },
+        "cilindrada": {
+            "Single Motor (P6 Core)": null,
+            "Twin Motor (P8)": null
+        },
+        "potencia_hp": {
+            "Single Motor (P6 Core)": "238",
+            "Twin Motor (P8)": "408"
+        },
+        "potencia_rpm": {
+            "Single Motor (P6 Core)": null,
+            "Twin Motor (P8)": null
+        },
+        "torque_nm": {
+            "Single Motor (P6 Core)": "420",
+            "Twin Motor (P8)": "670"
+        },
+        "torque_rpm": {
+            "Single Motor (P6 Core)": null,
+            "Twin Motor (P8)": null
+        },
+        "combustible": null,
+        "transmision": {
+            "Single Motor (P6 Core)": "Electric Drive Train 1 veloc.",
+            "Twin Motor (P8)": "Electric Drive Train 1 veloc."
+        },
+        "traccion": {
+            "Single Motor (P6 Core)": "RWD",
+            "Twin Motor (P8)": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Single Motor (P6 Core)": null,
+            "Twin Motor (P8)": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Batería (kWh)",
+            "Single Motor (P6 Core)": "69",
+            "Twin Motor (P8)": "78"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/hr)",
+            "Single Motor (P6 Core)": "180",
+            "Twin Motor (P8)": "180"
+        },
+        {
+            "caracteristica": "Aceleración de 0 - 100 (seg)",
+            "Single Motor (P6 Core)": "7,4",
+            "Twin Motor (P8)": "4,8"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica (km) hasta*",
+            "Single Motor (P6 Core)": "490",
+            "Twin Motor (P8)": "520"
+        },
+        {
+            "caracteristica": "* Ciclo WLTP combinado",
+            "Single Motor (P6 Core)": null,
+            "Twin Motor (P8)": null
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras LED activas",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": "Pixel technology"
+            },
+            {
+                "caracteristica": "Neblineros con Sistema Cornering Lights",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Rieles de techo",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "Single Motor (P6 Core)": "A",
+                "Twin Motor (P8)": "B"
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Techo color negro",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Portalón eléctrico",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico eléctrico",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Retrovisores retráctiles",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Vidrios tinteados",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "A: 19’’ 5-Spoke Black Diamond cut",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": false
+            },
+            {
+                "caracteristica": "B: 20’’ 6-Spoke Black Diamond cut",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Alarma con sensor de movimiento interior",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Climatizador 2 zonas",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital 12,3\"",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Pantalla Central Touch de 9\" + Sistema de navegación Google Maps integrado",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Cargador de smartphone inalámbrico",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Google Service y Apple Car Play",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "Single Motor (P6 Core)": "High Performance Sound",
+                "Twin Motor (P8)": "Harman Kardon"
+            },
+            {
+                "caracteristica": "Keyless entry",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Toma corriente 12V en maletero",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Volante de cuero ecológico deportivo",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Decoración interior",
+                "Single Motor (P6 Core)": "Aluminum",
+                "Twin Motor (P8)": "Topography"
+            },
+            {
+                "caracteristica": "Iluminación interior",
+                "Single Motor (P6 Core)": "High Level",
+                "Twin Motor (P8)": "High Level"
+            },
+            {
+                "caracteristica": "Sensor delantero y trasero",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Cámara trasera",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Vidrios templados, ventanas laterales y traseras",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Retrovisor interior y exteriores antideslumbrantes",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Asientos microfibra",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico y con memoria",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Asiento acompañante eléctrico",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con soporte lumbar eléctrico",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con extensión de asiento",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Asientos delanteros y traseros calefaccionados",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            }
+        ],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Pilot Assist - Conjunto de tecnologías capaces de proporcionar una conducción asistida hasta 130 km/h",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Safe Space Technology - Conjunto de tecnologías de asistencia para tu seguridad",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Google System - Sistema de infoentretenimiento y conectividad intuitiva, incluye control por voz",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Drive-e - Motores con la mezcla perfecta entre rendimiento y eficiencia",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Clean Zone - Tecnología que filtra impurezas y mejora la calidad del aire",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Lane Keeping Aid - Ayuda de permanencia en el carril",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Soporte de Mitigación de colisión trasera",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Soporte de Mitigación de colisión delantera",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "Single Motor (P6 Core)": false,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Blind spot con alerta de tráfico cruzado",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            },
+            {
+                "caracteristica": "Volvo Cars APP",
+                "Single Motor (P6 Core)": true,
+                "Twin Motor (P8)": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            "Safe space technology - Detecta ciclistas, peatones y animales grandes; con frenado autónomo",
+            "Airbag delanteros (2) con inflado de dos etapas",
+            "Airbags laterales (2)",
+            "Airbags de Cortinas inflables laterales (2)",
+            "Airbag de rodilla para conductor (1)",
+            "Cinturones de seguridad con pretensores y limitador de carga",
+            "SIPS - Sistema de protección contra impactos laterales",
+            "WHIPS - Protección contra latigazos en asientos delanteros",
+            "CMSF - Soporte de mitigación de colisiones frontal",
+            "Alerta de distancia y limitador de velocidad",
+            "Safety Cage - Cabina de seguridad para pasajeros de acero reforzado",
+            "ABS con EBD - Sistema electrónico de distribución de frenado",
+            "EBA - Sistema electrónico con asistencia de frenado",
+            "ESC - Control electrónico de estabilidad",
+            "Estructura interior absorbente de energía ante impacto",
+            "HDC - Control de descenso en pendiente",
+            "HSA - Asistente de partida en pendientes",
+            "ISOFIX - Sistema de anclaje para sillas de seguridad de niños",
+            "EBL - Luz de freno parpadeante y advertencia de peligro",
+            "Cierre electrónico de seguridad para niños",
+            "TPMS - Monitoreo de presión de neumáticos"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Volvo (ticket/✓=true, -=false/vacío; texto/valores tal cual)",
+        "fuente": "volvo___ft_ex40_my26_13_02.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se incluyó: especificaciones técnicas, tecnologías, equipamiento interior, equipamiento exterior y bloque de Seguridad Estándar. Los valores tipo A/B y textos (p. ej., Pixel technology, High Performance Sound, Harman Kardon, Aluminum, Topography, High Level) se conservaron tal cual aparecen en la tabla."
+    }
+}

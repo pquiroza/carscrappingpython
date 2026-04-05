@@ -1,0 +1,594 @@
+{
+    "vehiculo": {
+        "marca": "Mitsubishi",
+        "modelo": "L200",
+        "año": null,
+        "versiones": [
+            "WORK XR",
+            "KATANA XR",
+            "KATANA XRT",
+            "DAKAR XR MT",
+            "DAKAR XR AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "WORK XR": "2.4 Biturbo Diesel Intercooler",
+            "KATANA XR": "2.4 Biturbo Diesel Intercooler",
+            "KATANA XRT": "2.4 Biturbo Diesel Intercooler",
+            "DAKAR XR MT": "2.4 Biturbo Diesel Intercooler",
+            "DAKAR XR AT": "2.4 Biturbo Diesel Intercooler"
+        },
+        "cilindrada": {
+            "WORK XR": 2442,
+            "KATANA XR": 2442,
+            "KATANA XRT": 2442,
+            "DAKAR XR MT": 2442,
+            "DAKAR XR AT": 2442
+        },
+        "potencia_hp": {
+            "WORK XR": "201",
+            "KATANA XR": "201",
+            "KATANA XRT": "201",
+            "DAKAR XR MT": "201",
+            "DAKAR XR AT": "201"
+        },
+        "potencia_rpm": {
+            "WORK XR": "3500",
+            "KATANA XR": "3500",
+            "KATANA XRT": "3500",
+            "DAKAR XR MT": "3500",
+            "DAKAR XR AT": "3500"
+        },
+        "torque_nm": {
+            "WORK XR": "470",
+            "KATANA XR": "470",
+            "KATANA XRT": "470",
+            "DAKAR XR MT": "470",
+            "DAKAR XR AT": "470"
+        },
+        "torque_rpm": {
+            "WORK XR": "1500-2750",
+            "KATANA XR": "1500-2750",
+            "KATANA XRT": "1500-2750",
+            "DAKAR XR MT": "1500-2750",
+            "DAKAR XR AT": "1500-2750"
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "WORK XR": "6MT",
+            "KATANA XR": "6MT",
+            "KATANA XRT": "6MT",
+            "DAKAR XR MT": "6MT",
+            "DAKAR XR AT": "6AT"
+        },
+        "traccion": {
+            "WORK XR": "4X2",
+            "KATANA XR": "4X2",
+            "KATANA XRT": "4X4",
+            "DAKAR XR MT": "4X4",
+            "DAKAR XR AT": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble brazo, resortes helicoidales y barra estabilizadora",
+        "suspension_trasera": "Paquete de resortes",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "WORK XR": "265/70R16",
+            "KATANA XR": "265/70R16",
+            "KATANA XRT": "265/70R16",
+            "DAKAR XR MT": "265/60R18",
+            "DAKAR XR AT": "265/60R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5320,
+        "ancho_mm": 1865,
+        "alto_mm": 1795,
+        "distancia_ejes_mm": 3130,
+        "despeje_suelo_mm": 228,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 75,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "WORK XR": "10,4",
+            "KATANA XR": "10,4",
+            "KATANA XRT": "10,1",
+            "DAKAR XR MT": "10,1",
+            "DAKAR XR AT": "9,4"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "WORK XR": "15,5",
+            "KATANA XR": "15,5",
+            "KATANA XRT": "15,2",
+            "DAKAR XR MT": "15,2",
+            "DAKAR XR AT": "14,6"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "WORK XR": "13,1",
+            "KATANA XR": "13,1",
+            "KATANA XRT": "12,8",
+            "DAKAR XR MT": "12,8",
+            "DAKAR XR AT": "12,1"
+        },
+        {
+            "caracteristica": "Peso en orden de marcha (kg)",
+            "WORK XR": "2000",
+            "KATANA XR": "2000",
+            "KATANA XRT": "2110",
+            "DAKAR XR MT": "2120",
+            "DAKAR XR AT": "2120"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "WORK XR": "3000",
+            "KATANA XR": "3000",
+            "KATANA XRT": "3010",
+            "DAKAR XR MT": "3020",
+            "DAKAR XR AT": "3020"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "WORK XR": "1000",
+            "KATANA XR": "1000",
+            "KATANA XRT": "900",
+            "DAKAR XR MT": "900",
+            "DAKAR XR AT": "900"
+        },
+        {
+            "caracteristica": "Capacidad estanque urea (lts)",
+            "WORK XR": "17",
+            "KATANA XR": "17",
+            "KATANA XRT": "17",
+            "DAKAR XR MT": "17",
+            "DAKAR XR AT": "17"
+        },
+        {
+            "caracteristica": "Capacidad de remolque (carro con frenos) (kg)",
+            "WORK XR": "3500",
+            "KATANA XR": "3500",
+            "KATANA XRT": "3500",
+            "DAKAR XR MT": "3500",
+            "DAKAR XR AT": "3500"
+        },
+        {
+            "caracteristica": "Caja de transferencia 4x4",
+            "WORK XR": "-",
+            "KATANA XR": "-",
+            "KATANA XRT": "Easy select",
+            "DAKAR XR MT": "Super Select 4WD-II",
+            "DAKAR XR AT": "Super Select 4WD-II"
+        },
+        {
+            "caracteristica": "Radio de giro (mt)",
+            "WORK XR": "6,6",
+            "KATANA XR": "6,6",
+            "KATANA XRT": "6,6",
+            "DAKAR XR MT": "6,6",
+            "DAKAR XR AT": "6,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores cromados",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con plegado eléctrico, calefaccionados y luces de viraje",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Luces traseras combinadas LED",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Manillas exteriores cromadas",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Vidrios traseros con lamina polarizada",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": false,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 16",
+                "WORK XR": true,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Cubre Pick-Up sobre riel original",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Parachoque delantero (Color de la carrocería con biseles frontales cromados)",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Parrilla delantera (Negro piano)",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio con pantalla LCD 8\" touch a color",
+                "WORK XR": true,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Radio con pantalla LCD 9\" touch a color con sistema de navegación",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Puertos USB trasero tipo A",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "WORK XR": true,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Climatizador",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Climatizador bi-zona",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Modo de selección de manejo (7 modos)",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Keyless Entry (Apertura sin llave)",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Keyless Operation System (KOS) Botón de encendido",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "WORK XR": true,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Volante de cuero",
+                "WORK XR": true,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": false
+            },
+            {
+                "caracteristica": "Volante y palanca de cambio de cuero",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Alza vidrios totales con función \"Anti trapping\" en lado de conductor",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior electrocromático",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Asiento conductor con soporte lumbar eléctrico",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de cuero",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de retroceso",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento 360° con detección de objetos en movimiento",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero y trasero",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Control de descenso en pendiente (HDC)",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": false,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Active Yaw Control (AYC)",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos",
+                "WORK XR": false,
+                "KATANA XR": false,
+                "KATANA XRT": false,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Luces altas automáticas (AHB)",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Mitigación de colisión frontal (FCM) con detección de peatones",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Alerta de trafico cruzado (RCTA)",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Asistente de cambio de carril (LCA)",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril (LDW)",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            },
+            {
+                "caracteristica": "Advertencia de Punto ciego (BSW) con asistencia de cambio de carril LCA (luz testigo + sonido)",
+                "WORK XR": false,
+                "KATANA XR": true,
+                "KATANA XRT": true,
+                "DAKAR XR MT": true,
+                "DAKAR XR AT": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos",
+            "Desempañador de luneta trasera con temporizador",
+            "Luces de circulación diurnas (D.R.L)",
+            "Encendido automático de luces"
+        ],
+        "interior": [
+            "Conectividad Apple CarPlay & Android Auto",
+            "Control crucero",
+            "Control de audio en volante",
+            "Puertos USB delantero tipo A y C",
+            "Salida 12V",
+            "Filtro de polen (aire acondicionado)",
+            "Alza vidrios totales",
+            "Cerradura de puerta trasera",
+            "Tablero combinado con pantalla LCD 7\" a color",
+            "Consola central con apoya brazos delantera",
+            "Apoya brazos central trasero con porta vasos",
+            "Limpiaparabrisas delantero con sensor de lluvia"
+        ],
+        "seguridad": [
+            "Columna de dirección colapsable",
+            "Pedal de freno retractil",
+            "Carrocería con deformación programada (RISE Body)",
+            "Barras laterales de puertas",
+            "Anclaje ISOFIX",
+            "Inmovilizador",
+            "Cierre centralizado",
+            "Cierre centralizado automático por sensor de velocidad",
+            "Cinturón de seguridad de 3 puntos (todas posiciones)",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Recordatorio de cinturón de seguridad (todas las posiciones)",
+            "Apoya cabeza para 5 usuarios",
+            "Airbags dobles delanteros",
+            "Airbags laterales y cortina",
+            "Airbags rodilla conductor",
+            "Frenos ABS con EBD",
+            "Señal de frenado de emergencia (ESS)",
+            "Control activo de estabilidad (ASC)",
+            "Asistente de estabilidad de remolque (TSA)",
+            "Asistente de partida en pendiente (HSA)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo",
+        "Azul metálico",
+        "Grafito",
+        "Plata",
+        "Naranjo diamante",
+        "Blanco diamante",
+        "Blanco",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura de tablas ficha técnica Mitsubishi (ticket verde=true, x roja=false; texto/valores tal cual)",
+        "fuente": "FICHA-L200_DESKTOP-6B.pdf",
+        "versiones_en_documento": 5,
+        "notas": "En la fila 'Conectividad Apple CarPlay & Android Auto' las versiones DAKAR indican '+ Car Play inalámbrico' en la tabla. En 'Luces de circulación diurnas (D.R.L)' y 'Neblineros delanteros' las versiones DAKAR muestran '(LED)'."
+    }
+}

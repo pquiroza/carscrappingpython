@@ -1,0 +1,874 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "SILVERADO",
+        "año": 2024,
+        "versiones": [
+            "LT TRAIL BOSS Z71 5.3L V8",
+            "ZR2 6.2L V8",
+            "HIGH COUNTRY 3.0TD 6L"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LT TRAIL BOSS Z71 5.3L V8": "EcoTec3 5.3L V8, DFM Inyección Directa, Apertura de Válvulas Variable (VVT)",
+            "ZR2 6.2L V8": "EcoTec3 6.2L V8, DFM Inyección Directa, Apertura de Válvulas Variable (VVT)",
+            "HIGH COUNTRY 3.0TD 6L": "Duramax 3.0L Turbo Diesel - 6L"
+        },
+        "cilindrada": {
+            "LT TRAIL BOSS Z71 5.3L V8": "5.3L",
+            "ZR2 6.2L V8": "6.2L",
+            "HIGH COUNTRY 3.0TD 6L": "3.0L"
+        },
+        "potencia_hp": {
+            "LT TRAIL BOSS Z71 5.3L V8": "355",
+            "ZR2 6.2L V8": "420",
+            "HIGH COUNTRY 3.0TD 6L": "305"
+        },
+        "potencia_rpm": {
+            "LT TRAIL BOSS Z71 5.3L V8": "5600",
+            "ZR2 6.2L V8": "5600",
+            "HIGH COUNTRY 3.0TD 6L": "3600"
+        },
+        "torque_nm": {
+            "LT TRAIL BOSS Z71 5.3L V8": "518",
+            "ZR2 6.2L V8": "624",
+            "HIGH COUNTRY 3.0TD 6L": "671"
+        },
+        "torque_rpm": {
+            "LT TRAIL BOSS Z71 5.3L V8": "4100",
+            "ZR2 6.2L V8": "4100",
+            "HIGH COUNTRY 3.0TD 6L": "1600"
+        },
+        "combustible": {
+            "LT TRAIL BOSS Z71 5.3L V8": null,
+            "ZR2 6.2L V8": null,
+            "HIGH COUNTRY 3.0TD 6L": "Turbo Diesel"
+        },
+        "transmision": {
+            "LT TRAIL BOSS Z71 5.3L V8": "Automática de 10 velocidades",
+            "ZR2 6.2L V8": "Automática de 10 velocidades",
+            "HIGH COUNTRY 3.0TD 6L": "Automática de 10 velocidades"
+        },
+        "traccion": {
+            "LT TRAIL BOSS Z71 5.3L V8": "4x4",
+            "ZR2 6.2L V8": "4x4",
+            "HIGH COUNTRY 3.0TD 6L": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección asistida eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LT TRAIL BOSS Z71 5.3L V8": "LT275/65R18 (Goodyear Wrangler Duratrac M/T)",
+            "ZR2 6.2L V8": "LT275/70R18 C 115/2Q (Goodyear Wrangler Territory M/T)",
+            "HIGH COUNTRY 3.0TD 6L": "P275/60R20 (SL 115S BW - Bridgestone Dueler A/T)"
+        },
+        "rueda_repuesto": {
+            "LT TRAIL BOSS Z71 5.3L V8": "Llanta de repuesto de acero 17\"x 8\" (43.2 cm) / Neumático de repuesto P265/70R17 - 115S (BW SPR)",
+            "ZR2 6.2L V8": "Llanta de repuesto de acero 18 x 8,5\" (45,7 cm) / Neumático de repuesto LT275/70R18 C 115/2Q",
+            "HIGH COUNTRY 3.0TD 6L": "Llanta de repuesto de acero 17\"x 8\" (43.2 cm) / Neumático de repuesto P255/80R17 - 115S BW SPR"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "LT TRAIL BOSS Z71 5.3L V8": 5913,
+            "ZR2 6.2L V8": 5922,
+            "HIGH COUNTRY 3.0TD 6L": 5890
+        },
+        "ancho_mm": {
+            "LT TRAIL BOSS Z71 5.3L V8": 2478,
+            "ZR2 6.2L V8": 2478,
+            "HIGH COUNTRY 3.0TD 6L": 2478
+        },
+        "alto_mm": {
+            "LT TRAIL BOSS Z71 5.3L V8": 1990,
+            "ZR2 6.2L V8": 1997,
+            "HIGH COUNTRY 3.0TD 6L": 1945
+        },
+        "distancia_ejes_mm": {
+            "LT TRAIL BOSS Z71 5.3L V8": 3745,
+            "ZR2 6.2L V8": 3745,
+            "HIGH COUNTRY 3.0TD 6L": 3745
+        },
+        "despeje_suelo_mm": {
+            "LT TRAIL BOSS Z71 5.3L V8": 274,
+            "ZR2 6.2L V8": 284,
+            "HIGH COUNTRY 3.0TD 6L": 206
+        },
+        "peso_bruto_kg": {
+            "LT TRAIL BOSS Z71 5.3L V8": 3130,
+            "ZR2 6.2L V8": 3221,
+            "HIGH COUNTRY 3.0TD 6L": 3266
+        },
+        "capacidad_maletero_lts": {
+            "LT TRAIL BOSS Z71 5.3L V8": 1353,
+            "ZR2 6.2L V8": 1353,
+            "HIGH COUNTRY 3.0TD 6L": 1353
+        },
+        "capacidad_estanque_lts": {
+            "LT TRAIL BOSS Z71 5.3L V8": 91,
+            "ZR2 6.2L V8": 91,
+            "HIGH COUNTRY 3.0TD 6L": 91
+        },
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Sistema Start Stop (Desactivable)",
+            "LT TRAIL BOSS Z71 5.3L V8": true,
+            "ZR2 6.2L V8": true,
+            "HIGH COUNTRY 3.0TD 6L": true
+        },
+        {
+            "caracteristica": "N° Cilindros",
+            "LT TRAIL BOSS Z71 5.3L V8": "8",
+            "ZR2 6.2L V8": "8",
+            "HIGH COUNTRY 3.0TD 6L": "6"
+        },
+        {
+            "caracteristica": "Caja de transferencia electrónica (4x4)",
+            "LT TRAIL BOSS Z71 5.3L V8": "Autotrac™",
+            "ZR2 6.2L V8": "Autotrac™ + Terrain mode",
+            "HIGH COUNTRY 3.0TD 6L": "Autotrac™"
+        },
+        {
+            "caracteristica": "Suspensión",
+            "LT TRAIL BOSS Z71 5.3L V8": "Z71 + 2\" kit levantamiento",
+            "ZR2 6.2L V8": "ZR2 + kit levantamiento",
+            "HIGH COUNTRY 3.0TD 6L": "Z71"
+        },
+        {
+            "caracteristica": "Relación del eje",
+            "LT TRAIL BOSS Z71 5.3L V8": "Relación 3.23",
+            "ZR2 6.2L V8": "Relación 3.23",
+            "HIGH COUNTRY 3.0TD 6L": "Relación 3.23"
+        },
+        {
+            "caracteristica": "Amortiguadores traseros Rancho™",
+            "LT TRAIL BOSS Z71 5.3L V8": true,
+            "ZR2 6.2L V8": false,
+            "HIGH COUNTRY 3.0TD 6L": true
+        },
+        {
+            "caracteristica": "Amortiguadores traseros y delanteros Multimatic DSSV",
+            "LT TRAIL BOSS Z71 5.3L V8": false,
+            "ZR2 6.2L V8": true,
+            "HIGH COUNTRY 3.0TD 6L": false
+        },
+        {
+            "caracteristica": "Alternador 170 amps.",
+            "LT TRAIL BOSS Z71 5.3L V8": true,
+            "ZR2 6.2L V8": true,
+            "HIGH COUNTRY 3.0TD 6L": false
+        },
+        {
+            "caracteristica": "Alternador 220 amps.",
+            "LT TRAIL BOSS Z71 5.3L V8": false,
+            "ZR2 6.2L V8": false,
+            "HIGH COUNTRY 3.0TD 6L": true
+        },
+        {
+            "caracteristica": "Transmisión automática de 10 velocidades",
+            "LT TRAIL BOSS Z71 5.3L V8": true,
+            "ZR2 6.2L V8": true,
+            "HIGH COUNTRY 3.0TD 6L": true
+        },
+        {
+            "caracteristica": "Selector electrónico de velocidad con paddle shifter",
+            "LT TRAIL BOSS Z71 5.3L V8": false,
+            "ZR2 6.2L V8": true,
+            "HIGH COUNTRY 3.0TD 6L": true
+        },
+        {
+            "caracteristica": "Capacidad de carga Útil (kg)",
+            "LT TRAIL BOSS Z71 5.3L V8": "848",
+            "ZR2 6.2L V8": "653",
+            "HIGH COUNTRY 3.0TD 6L": "708"
+        },
+        {
+            "caracteristica": "Capacidad de remolque (kg)",
+            "LT TRAIL BOSS Z71 5.3L V8": "4.355",
+            "ZR2 6.2L V8": "4.355",
+            "HIGH COUNTRY 3.0TD 6L": "4.355"
+        },
+        {
+            "caracteristica": "Diámetro de giro (m)",
+            "LT TRAIL BOSS Z71 5.3L V8": "14",
+            "ZR2 6.2L V8": "14",
+            "HIGH COUNTRY 3.0TD 6L": "14"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Spray-on Liner - Cubre Pick Up de alta durabilidad (DURABED)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Espejos exteriores color negro brillante",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Espejos exteriores cromados",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Espejos exteriores eléctricos, calefaccionados",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Espejos exteriores eléctricos, abatibles electricamente, calefaccionados",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Focos delanteros tipo proyector LED",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Luces delanteras Intellibeam",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Focos traseros LED",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Ganchos de carga para Pick Up (12 puntos)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Ganchos de remolque delanteros",
+                "LT TRAIL BOSS Z71 5.3L V8": "ROJOS",
+                "ZR2 6.2L V8": "ROJOS",
+                "HIGH COUNTRY 3.0TD 6L": "CROMADOS"
+            },
+            {
+                "caracteristica": "Grilla cromada",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Kit de arrastre",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Llantas de aluminio",
+                "LT TRAIL BOSS Z71 5.3L V8": "18\"x 8,5\" (45,7 cm x 21,6 cm)",
+                "ZR2 6.2L V8": "18\"x 8,5\" (45,7 cm x 21,6 cm)",
+                "HIGH COUNTRY 3.0TD 6L": "20\"x 9\" (50,8 cm x 22,9 cm)"
+            },
+            {
+                "caracteristica": "Luces de conducción diurnas LED (DRL)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Luces LED en Pickup para carga",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Manillas color negro brillante",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Manillas cromadas",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Neblineros LED",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Parachoques frontal y grilla color negro",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Parachoques posterior color negro",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Parachoques posterior color carrocería",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Parachoques frontal color carroceria y grilla cromada",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Parachoques frontales y posteriores de acero",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Protector inferior de aluminio",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Pisadera posterior CornerStep",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Pisadera fija",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Pisaderas eléctricas de 3 posiciones",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico (apertura)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Portalón trasero electrico (apertura y cierre)",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Portalón trasero con bloqueo a distancia",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Rueda de repuesto con llave",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado con climatizador dual",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Ajuste eléctrico para asiento del piloto de 10 posiciones",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Ajuste eléctrico para asiento del piloto y copiloto de 10 posiciones",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Alarma luces encendidas y llaves puestas",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Asiento delantero tipo banca 40/20/40 para 3 personas",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Asiento posterior tipo banca 60/40 para 3 personas",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Asientos delanteros tipo butaca para 2 personas",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Asiento piloto con memoria",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Bluetooth® conectividad manos libres hasta 2 teléfonos en simultáneo, audio streaming y conexión a smart trailer",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Centro de información al piloto (DIC) configurable con pantalla de 12,3\"",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Cobertores de piso de goma",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Cobertores de piso \"Floor Liner\" brandeados de calce perfecto con inserción de alfombre",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Consola central con compartimentos para almacenaje; puertos USB y USB-C",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Headup display de 15\" multicromático",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Espejo interior retrovisor electrocromático y full video display",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Luz interior y luz de lectura LED",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Manilla de asistencia de acceso para copilotos",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Parasol piloto y copiloto con espejo",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Parasol piloto y copiloto con espejo y luz LED",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "4 Puertos duales USB + USB-C: Panel central (2) y parte posterior (2)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "6 Puertos duales USB + USB-C: Panel central (2), compartimiento apoya brazos central (2) y parte posterior (2)",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de apertura de portón universal Home Remote",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de audio MyLink, con pantalla touch color de 13,4\" pulgadas compatible con Apple CarPlay™ y Android Auto™, radio FM/AM",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Reconocimiento de voz avanzado",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Google Built-in integrado con aplicaciones en vehículo",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de audio con 6 parlantes",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Sistema de audio premium BOSE con 7 parlantes con subwoofer enriquecido",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de encendido remoto motor",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema Onstar (requiere plan de datos activo)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de internet 4G LTE (requiere plan de datos activo)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema One Pedal Driving",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Selector electrónico de modo de conducción",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Tapiz de asientos",
+                "LT TRAIL BOSS Z71 5.3L V8": "Cuero color negro Jet Black",
+                "ZR2 6.2L V8": "Cuero gris costuras Strike Yellow",
+                "HIGH COUNTRY 3.0TD 6L": "Cuero perforado color negro Jet black"
+            },
+            {
+                "caracteristica": "Ventana trasera eléctrica",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Volante con calefacción",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero con control de audio y crucero",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura y profundidad electrónicamente con memoria de conductor",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Asiento piloto con sistema de alertas de seguridad por vibración",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Asistente de partida en pendientes",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de detección de peatón delantero",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de detección de peatón posterior",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de punto ciego",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de frenado automático a baja velocidad",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Sistema de frenado automático mejorado en velocidad carretera",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de cámara de retroceso alta definicion 360° y sistema de monitoreo trailer",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Cámara interior de pickup",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Control de freno de trailer integrado",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Control de tracción",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Diferencial trasero autoblocante automático",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial delantero y posterior electrónico manual",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Doble airbag de cortina",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Doble airbag frontal",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Doble airbag lateral delantero",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Frenos con sistema ABS en las cuatro ruedas",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Frenos de disco en las 4 ruedas con rotores Duralife®",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema antirrobo",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de colisión frontal",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de LATCH para sillas de niños",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Stabilitrak: Control de estabilidad incluye sistema antivuelco con control de balanceo de remolque",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Sistema de alerta de punto ciego",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de alerta de colisión frontal",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de detección de peatón delantero",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de detección de peatón posterior",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de frenado automático a baja velocidad",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": false
+            },
+            {
+                "caracteristica": "Sistema de frenado automático mejorado en velocidad carretera",
+                "LT TRAIL BOSS Z71 5.3L V8": false,
+                "ZR2 6.2L V8": false,
+                "HIGH COUNTRY 3.0TD 6L": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema Onstar (requiere plan de datos activo)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Sistema de internet 4G LTE (requiere plan de datos activo)",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            },
+            {
+                "caracteristica": "Google Built-in integrado con aplicaciones en vehículo",
+                "LT TRAIL BOSS Z71 5.3L V8": true,
+                "ZR2 6.2L V8": true,
+                "HIGH COUNTRY 3.0TD 6L": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco invierno",
+        "Blanco perla",
+        "Negro",
+        "Plata",
+        "Rojo brillante",
+        "Duna de Arena",
+        "Azul brillante metálico",
+        "Azul oscuro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Chevrolet (ticket negro=presente; -/vacío=no presente; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-silverado-2024.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajeron características técnicas, dimensiones/capacidades, equipamiento interior/exterior/seguridad y tabla de colores por versión, según el marcado del PDF."
+    }
+}

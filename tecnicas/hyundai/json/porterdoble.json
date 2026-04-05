@@ -1,0 +1,129 @@
+{
+    "vehiculo": {
+        "marca": "Hyundai",
+        "modelo": "Porter Doble Cabina",
+        "año": null,
+        "versiones": [
+            "GL_DC"
+        ]
+    },
+    "motor": {
+        "tipo": "CRDI 16V",
+        "cilindrada": "2.500 cc",
+        "potencia_hp": "128 HP a 3.600 Rpm",
+        "potencia_rpm": "3.600",
+        "torque_nm": "255 Nm",
+        "torque_rpm": "1.500 ~ 3.500",
+        "combustible": "Diesel",
+        "transmision": "Mecánica 6 velocidades",
+        "traccion": "4x2"
+    },
+    "direccion": {
+        "tipo": "Servoasistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Bandejas con barra de torsión y amortiguadores",
+        "suspension_trasera": "Paquete de resortes y amortiguadores",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos_delanteros": "195 / 70 R15 8PR",
+        "neumaticos_traseros": "145 / R13 8PR (Rodado Doble)",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5120,
+        "ancho_mm": 1965,
+        "alto_mm": 1740,
+        "distancia_ejes_mm": 2430,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 3390,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 65
+    },
+    "tabla_comparativa_ruedas": [],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "GL_DC": 3390
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad de remolque con frenos (kg)",
+            "GL_DC": 1200
+        },
+        {
+            "caracteristica": "Capacidad de remolque sin frenos (kg)",
+            "GL_DC": 750
+        },
+        {
+            "caracteristica": "Capacidad de carga sobre chasis (kg)",
+            "GL_DC": "hasta 1.494 kg (hasta 1.600 kg reforzado)"
+        },
+        {
+            "caracteristica": "Capacidad de carga sobre pick-up (kg)",
+            "GL_DC": "hasta 1.294 kg (hasta 1.400 kg reforzado)"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Asiento pasajero reclinable",
+                "GL_DC": true
+            },
+            {
+                "caracteristica": "Sensor de retroceso",
+                "GL_DC": true
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos",
+                "GL_DC": "Delanteros"
+            }
+        ],
+        "seguridad": [],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Barra de acero en puertas",
+            "Carrocería deformación programada",
+            "Chasis y carrocería reforzada",
+            "Estanque combustible poliuretano",
+            "Estanque Urea",
+            "Focos halógenos gran tamaño",
+            "Refuerzo acero en puertas",
+            "Señalizadores laterales independientes",
+            "Volante colapsable",
+            "Doble Airbag",
+            "ABS + EBD",
+            "ESP"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Asiento conductor reclinable",
+            "Cierre centralizado",
+            "Dirección servoasistida",
+            "Inmovilizador",
+            "Limpia parabrisas 3 velocidades",
+            "Neblineros",
+            "Computador a bordo",
+            "Parachoques color carrocería",
+            "Radio Touch 7\" Bluetooth USB AUX",
+            "Cámara retroceso",
+            "Tapa bencina y urea con llave",
+            "Tapabarros plástico delantero y trasero",
+            "Volante regulable en altura"
+        ],
+        "exterior": [],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tabla PDF página 2",
+        "fuente": "ft-porter (1).pdf",
+        "versiones_en_documento": 1,
+        "notas": "Datos extraídos únicamente desde la columna GL DC del documento."
+    }
+}

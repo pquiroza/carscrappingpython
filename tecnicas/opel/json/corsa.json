@@ -1,0 +1,222 @@
+{
+    "vehiculo": {
+        "marca": "Opel",
+        "modelo": "Corsa",
+        "año": null,
+        "versiones": [
+            "EDITION_MT",
+            "EDITION_AT",
+            "GS"
+        ]
+    },
+    "motor": {
+        "tipo": "1.200 cc Turbo",
+        "cilindrada": "1.200 cc",
+        "potencia_hp": "100 HP @ 5.500 rpm",
+        "potencia_rpm": "5.500",
+        "torque_nm": "205 Nm",
+        "torque_rpm": "1.750",
+        "combustible": "Gasolina",
+        "transmision": {
+            "EDITION_MT": "Mecánica 6 velocidades",
+            "EDITION_AT": "Automática 8 velocidades",
+            "GS": "Automática 8 velocidades"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": {
+            "EDITION_MT": "Tambor",
+            "EDITION_AT": "Disco rígido",
+            "GS": "Disco rígido"
+        },
+        "neumaticos": {
+            "EDITION_MT": "195/55 R16",
+            "EDITION_AT": "195/55 R16",
+            "GS": "205/45 R17"
+        },
+        "rueda_repuesto": "Repuesto convencional de 16''"
+    },
+    "dimensiones": {
+        "largo_mm": 4060,
+        "ancho_mm": 1960,
+        "alto_mm": 1433,
+        "distancia_ejes_mm": 2538,
+        "numero_plazas": 5,
+        "capacidad_maletero_lts": {
+            "min": 309,
+            "max": 1081
+        },
+        "peso_bruto_kg": {
+            "EDITION_MT": 1175,
+            "EDITION_AT": 1203,
+            "GS": 1233
+        },
+        "capacidad_estanque_lts": 44
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llanta de aleación",
+            "EDITION_MT": "16\"",
+            "EDITION_AT": "16\"",
+            "GS": "17\" Bi-Tono"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "EDITION_MT": 1175,
+            "EDITION_AT": 1203,
+            "GS": 1233
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Máximo peso remolcable (kg)",
+            "EDITION_MT": 580,
+            "EDITION_AT": 610,
+            "GS": 610
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Urbano (km/l)",
+            "EDITION_MT": 17.2,
+            "EDITION_AT": 19,
+            "GS": 19
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "EDITION_MT": 21.3,
+            "EDITION_AT": 22.2,
+            "GS": 22.2
+        },
+        {
+            "caracteristica": "Consumo Extraurbano (km/l)",
+            "EDITION_MT": 25,
+            "EDITION_AT": 24.6,
+            "GS": 24.6
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "EDITION_MT": 194,
+            "EDITION_AT": 192,
+            "GS": 208
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Paddleshift",
+                "EDITION_MT": false,
+                "EDITION_AT": true,
+                "GS": true
+            },
+            {
+                "caracteristica": "Pantalla touch 10'' + Panel Digital 7''",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero y calefaccionado",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Techo panorámico",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Llantas 17\" Bi-Tono",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            },
+            {
+                "caracteristica": "Techo color negro",
+                "EDITION_MT": false,
+                "EDITION_AT": false,
+                "GS": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Doble Airbag frontal - Lateral - Cortina (6)",
+            "Asistente de Carril",
+            "Asistente de Partida en Pendientes (HSA)",
+            "Alerta de conductor cansado",
+            "Cámara de Retroceso 180°",
+            "Control de Tracción",
+            "Control de Estabilidad ESP",
+            "Detector de presión de Neumáticos",
+            "Frenos ABS + EBD",
+            "Reconocimiento de señales de tráfico",
+            "Sensor de colisión frontal",
+            "Sensor de estacionamiento trasero",
+            "Sensor de estacionamiento delantero",
+            "Sensor de Punto Ciego"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Alzavidrios delanteros y traseros one-touch",
+            "Conectividad Apple CarPlay & Android Auto inalámbrica",
+            "Botón de encendido",
+            "Cierre centralizado",
+            "Computador de abordo",
+            "Control de radio al volante",
+            "Control de velocidad crucero y limitador",
+            "Espejo retrovisor electrocromático",
+            "Volante con ajuste en altura y profundidad"
+        ],
+        "exterior": [
+            "Espejos exteriores abatibles eléctricamente",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Luces delanteras ECO LED",
+            "Luces de conducción diurna LED (DRL)",
+            "Luces de encendido automático",
+            "Neblineros delanteros LED",
+            "Opel Vizor"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 2 y 3",
+        "fuente": "FT NEW CORSA.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Datos extraídos únicamente desde las tablas comparativas visuales."
+    }
+}

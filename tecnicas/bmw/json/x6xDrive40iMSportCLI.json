@@ -1,0 +1,173 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X6",
+        "año": null,
+        "versiones": [
+            "xDrive40i M Sport LCI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "xDrive40i M Sport LCI": "Mild Hybrid 48V. Gasolina 6 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "xDrive40i M Sport LCI": 2998
+        },
+        "potencia_hp": {
+            "xDrive40i M Sport LCI": "381"
+        },
+        "potencia_rpm": {
+            "xDrive40i M Sport LCI": "5,200 - 6,250"
+        },
+        "torque_nm": {
+            "xDrive40i M Sport LCI": "540"
+        },
+        "torque_rpm": {
+            "xDrive40i M Sport LCI": "1,850 - 5,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "xDrive40i M Sport LCI": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": "xDrive"
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "xDrive40i M Sport LCI": "Neumáticos Runflat a prueba de pinchazos"
+        },
+        "rueda_repuesto": "Neumático de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 4960,
+        "ancho_mm": 2004,
+        "alto_mm": 1700,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 216,
+        "peso_bruto_kg": 2165,
+        "capacidad_maletero_lts": "580 L (ampliables a 1530 L con asientos reclinados)",
+        "capacidad_estanque_lts": 83,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado (km/l)",
+            "xDrive40i M Sport LCI": "10.4"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "xDrive40i M Sport LCI": "5.4"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant Plus",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de reversa",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Surround View con Top View",
+            "Panorama View y 3D View",
+            "Neumáticos Runflat a prueba de pinchazos",
+            "BMW Welcome Light Carpet",
+            "Llantas de aleación ligera M de radios en Y de 21\" (estilo 741 M) bicolor, con neumáticos de diferentes dimensiones",
+            "BMW Kidney \"Iconic Glow\" iluminación de parrilla frontal",
+            "Sunroof panorámico",
+            "Suspensión neumática regulable en altura",
+            "Paquete deportivo M",
+            "Paquete aerodinámico M",
+            "BMW Individual Shadow Line de brillo intenso",
+            "Barras de techo negro brillante"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático de 4 zonas",
+            "Paquete de iluminación ambiental",
+            "Alfombrillas velours",
+            "Asientos delanteros eléctricos con memoria y soporte lumbar",
+            "Asientos de Sensafin (delanteros deportivos)",
+            "Asientos calefaccionados delanteros y traseros",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Sistema de acceso Comfort Access con apertura y cierre por proximidad",
+            "Cierre de puertas automático Softclose",
+            "Aplicaciones de cristal en mando de caja de cambios, controlador Drive y botón de volumen (\"Crafted Clarity\")",
+            "Volante deportivo M de cuero multifunción",
+            "Operación automática de maletero",
+            "Terminaciones interiores en aluminio Tetragon"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza delanteros y otros",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenado (DBC)",
+            "Función de secado de frenos",
+            "Neumático de emergencia",
+            "Indicador de falla en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido surround Harman Kardon (16 altavoces y amplificador de 464W de 9 canales)",
+            "BMW Live Cockpit Professional",
+            "Combinación de pantallas de diseño curvado con cuadro de instrumentos de 12,3\" y display de control touch de 14,9\"",
+            "BMW Operating System 8 con widgets variables y configurables que muestran información en tiempo real",
+            "Navegación con BMW Maps",
+            "BMW Intelligent Personal Assistant (control por voz natural mediante el comando \"Hey BMW\")",
+            "BMW Head-up Display",
+            "Augmented View en pantalla de información central (CID)",
+            "Control por gestos",
+            "Interfaz Bluetooth/Wi-Fi con sistema de manos libres",
+            "Bandeja para carga inalámbrica de Smartphones",
+            "Preparación para Apple CarPlay/Android Auto",
+            "Permite conexión inalámbrica con iPhone®/Smartphones Android (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros)"
+        ],
+        "adas": [
+            "Faros delanteros de LED adaptativos con iluminación en curva y opacamiento selectivo para evitar deslumbramientos",
+            "Asistente de luces en carretera",
+            "Sensores de lluvia y luz",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero activo con Stop & Go con control de aproximación",
+            "Función Start-off assistant",
+            "Driving Assistant Professional",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Asistente de control de línea",
+            "Asistente de evasión",
+            "Advertencia de intersección",
+            "Advertencia de sentido contrario",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura visual de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_the_new_bmw_x6_xdrive40i_m_sport_lci.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente visible en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

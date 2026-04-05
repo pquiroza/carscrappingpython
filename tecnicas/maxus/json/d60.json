@@ -1,0 +1,339 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "D60",
+        "año": null,
+        "versiones": [
+            "ELITE_7DCT_4X2",
+            "LUXURY_7DCT_4X2"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ELITE_7DCT_4X2": null,
+            "LUXURY_7DCT_4X2": null
+        },
+        "cilindrada": {
+            "ELITE_7DCT_4X2": null,
+            "LUXURY_7DCT_4X2": null
+        },
+        "potencia_hp": {
+            "ELITE_7DCT_4X2": "180",
+            "LUXURY_7DCT_4X2": "180"
+        },
+        "potencia_rpm": {
+            "ELITE_7DCT_4X2": null,
+            "LUXURY_7DCT_4X2": null
+        },
+        "torque_nm": {
+            "ELITE_7DCT_4X2": "285",
+            "LUXURY_7DCT_4X2": "285"
+        },
+        "torque_rpm": {
+            "ELITE_7DCT_4X2": null,
+            "LUXURY_7DCT_4X2": null
+        },
+        "combustible": {
+            "ELITE_7DCT_4X2": "Gasolina",
+            "LUXURY_7DCT_4X2": "Gasolina"
+        },
+        "sistema_alimentacion": {
+            "ELITE_7DCT_4X2": null,
+            "LUXURY_7DCT_4X2": null
+        },
+        "norma_emisiones": {
+            "ELITE_7DCT_4X2": "Euro 6C",
+            "LUXURY_7DCT_4X2": "Euro 6C"
+        },
+        "transmision": {
+            "ELITE_7DCT_4X2": "7 DCT",
+            "LUXURY_7DCT_4X2": "7 DCT"
+        },
+        "traccion": {
+            "ELITE_7DCT_4X2": "4X2",
+            "LUXURY_7DCT_4X2": "4X2"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión independiente McPherson",
+        "suspension_trasera": "Independiente Multilink",
+        "frenos_delanteros": "Discos delanteros y traseros",
+        "frenos_traseros": "Discos delanteros y traseros",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "ELITE_7DCT_4X2": "235 / 55 R18 Dunlop",
+            "LUXURY_7DCT_4X2": "235 / 55 R18 Dunlop"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4720,
+        "ancho_mm": 1860,
+        "alto_mm": 1736,
+        "distancia_ejes_mm": 2760,
+        "numero_pasajeros": 7,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Asientos (configuración)",
+            "ELITE_7DCT_4X2": "7 (2 + 3 + 2)",
+            "LUXURY_7DCT_4X2": "7 (2 + 3 + 2)"
+        },
+        {
+            "caracteristica": "Neumáticos",
+            "ELITE_7DCT_4X2": "235 / 55 R18 Dunlop",
+            "LUXURY_7DCT_4X2": "235 / 55 R18 Dunlop"
+        },
+        {
+            "caracteristica": "Tipo de llanta",
+            "ELITE_7DCT_4X2": "Aleación de 18\"",
+            "LUXURY_7DCT_4X2": "Aleación de 18\""
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Focos principales",
+                "ELITE_7DCT_4X2": "Halógenos",
+                "LUXURY_7DCT_4X2": "LED"
+            },
+            {
+                "caracteristica": "Luces encendido automático",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Espejos con ajuste eléctricos y calefaccionados",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Espejos abatibles electrónicamente",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Spoiler trasero",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Apertura maletero",
+                "ELITE_7DCT_4X2": "Manual",
+                "LUXURY_7DCT_4X2": "Automático"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado automático",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Salidas de aire para plazas traseras",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "ELITE_7DCT_4X2": "Eco cuero",
+                "LUXURY_7DCT_4X2": "Eco cuero"
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable en 6 posiciones",
+                "ELITE_7DCT_4X2": "Eléctrico",
+                "LUXURY_7DCT_4X2": "Eléctrico"
+            },
+            {
+                "caracteristica": "Asiento del acompañante ajuste eléctrico",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Asiento del acompañante ajuste manual",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": false
+            },
+            {
+                "caracteristica": "Cargador de celular inalámbrico",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Panel de instrumentos digital",
+                "ELITE_7DCT_4X2": "7\"",
+                "LUXURY_7DCT_4X2": "12,3\""
+            },
+            {
+                "caracteristica": "Calefactor de asientos delanteros",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Keyless entry con botón de encendido",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Conectividad",
+                "ELITE_7DCT_4X2": "2 USB + Bluetooth",
+                "LUXURY_7DCT_4X2": "2 USB + Bluetooth"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "ELITE_7DCT_4X2": "10\"",
+                "LUXURY_7DCT_4X2": "10\""
+            },
+            {
+                "caracteristica": "Parlantes",
+                "ELITE_7DCT_4X2": "6",
+                "LUXURY_7DCT_4X2": "6"
+            },
+            {
+                "caracteristica": "Apple CarPlay + Android QD Link",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Alza vidrios eléctricos",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Auto up - down / antiatrapamiento",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Vidrios tinteados",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": "Traseros"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS + EBD + EBA",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Doble airbag frontal",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente (HHC)",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos (TPMS)",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Monitor de punto ciego (BSM)",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antirreflejo automático",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delantero",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento trasero",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Freno de estacionamiento electrónico + auto hold",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "ELITE_7DCT_4X2": false,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Inmovilizador de motor",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            },
+            {
+                "caracteristica": "Anclajes de seguridad ISOFIX",
+                "ELITE_7DCT_4X2": true,
+                "LUXURY_7DCT_4X2": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; columna única=aplica a todas las versiones).",
+        "fuente": "MAXUS_FT-D60_Web (2).pdf",
+        "versiones_en_documento": 2,
+        "notas": null
+    }
+}

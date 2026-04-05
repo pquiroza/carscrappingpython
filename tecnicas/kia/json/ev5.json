@@ -1,0 +1,427 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "EV5",
+        "año": null,
+        "versiones": [
+            "EV LIGHT 64.2KWH",
+            "EV WAVE 88.1KWH AWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EV LIGHT 64.2KWH": "Permanent Magnet Synchronous Motor (PMSM)",
+            "EV WAVE 88.1KWH AWD": "Permanent Magnet Synchronous Motor (PMSM)"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "EV LIGHT 64.2KWH": "215",
+            "EV WAVE 88.1KWH AWD": "308"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "EV LIGHT 64.2KWH": "310",
+            "EV WAVE 88.1KWH AWD": "480"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": {
+            "EV LIGHT 64.2KWH": "Caja reductora de velocidad única (SSRG)",
+            "EV WAVE 88.1KWH AWD": "Caja reductora de velocidad única (SSRG)"
+        },
+        "traccion": {
+            "EV LIGHT 64.2KWH": "FWD/2WD",
+            "EV WAVE 88.1KWH AWD": "e-AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (C-MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson strut multi-link",
+        "suspension_trasera": "Multi-link (5-link)",
+        "frenos_delanteros": null,
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Freno de estacionamiento electrónico (EPB) con Autohold",
+        "neumaticos": {
+            "EV LIGHT 64.2KWH": "225/60R18",
+            "EV WAVE 88.1KWH AWD": "235/55R19"
+        },
+        "rueda_repuesto": "Kit temporal de movilidad (TMK)"
+    },
+    "dimensiones": {
+        "largo_mm": 4615,
+        "ancho_mm": 1875,
+        "alto_mm": 1715,
+        "distancia_ejes_mm": 2750,
+        "despeje_suelo_mm": {
+            "EV LIGHT 64.2KWH": 175,
+            "EV WAVE 88.1KWH AWD": 166
+        },
+        "peso_bruto_kg": {
+            "EV LIGHT 64.2KWH": 2320,
+            "EV WAVE 88.1KWH AWD": 2640
+        },
+        "capacidad_maletero_lts": "1713 / 513",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia total (kW)",
+            "EV LIGHT 64.2KWH": "160",
+            "EV WAVE 88.1KWH AWD": "230"
+        },
+        {
+            "caracteristica": "Potencia total (Hp)",
+            "EV LIGHT 64.2KWH": "215",
+            "EV WAVE 88.1KWH AWD": "308"
+        },
+        {
+            "caracteristica": "Torque total (Nm)",
+            "EV LIGHT 64.2KWH": "310",
+            "EV WAVE 88.1KWH AWD": "480"
+        },
+        {
+            "caracteristica": "Potencia motor trasero (kW/rpm)",
+            "EV LIGHT 64.2KWH": "O",
+            "EV WAVE 88.1KWH AWD": "70 / 4.000~7.800"
+        },
+        {
+            "caracteristica": "Torque motor trasero (Nm/rpm)",
+            "EV LIGHT 64.2KWH": "O",
+            "EV WAVE 88.1KWH AWD": "170 / 0~3.800"
+        },
+        {
+            "caracteristica": "Potencia motor delantero (kW/rpm)",
+            "EV LIGHT 64.2KWH": "160 / 4.000~7.800",
+            "EV WAVE 88.1KWH AWD": "160 / 4.000~7.800"
+        },
+        {
+            "caracteristica": "Torque motor delantero (Nm/rpm)",
+            "EV LIGHT 64.2KWH": "310 / 0~3.800",
+            "EV WAVE 88.1KWH AWD": "310 / 0~3.800"
+        },
+        {
+            "caracteristica": "0 a 100 km/h",
+            "EV LIGHT 64.2KWH": "8,5s",
+            "EV WAVE 88.1KWH AWD": "6,1s"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "EV LIGHT 64.2KWH": "185",
+            "EV WAVE 88.1KWH AWD": "185"
+        },
+        {
+            "caracteristica": "Emisiones CO2",
+            "EV LIGHT 64.2KWH": "0g/km",
+            "EV WAVE 88.1KWH AWD": "0g/km"
+        },
+        {
+            "caracteristica": "Capacidad de energía (kWh)",
+            "EV LIGHT 64.2KWH": "64,2",
+            "EV WAVE 88.1KWH AWD": "88,1 (Long Range)"
+        },
+        {
+            "caracteristica": "Cantidad de celdas",
+            "EV LIGHT 64.2KWH": "124",
+            "EV WAVE 88.1KWH AWD": "126"
+        },
+        {
+            "caracteristica": "Voltaje (V)",
+            "EV LIGHT 64.2KWH": "396,8",
+            "EV WAVE 88.1KWH AWD": "399,4"
+        },
+        {
+            "caracteristica": "Peso (kg)",
+            "EV LIGHT 64.2KWH": "428",
+            "EV WAVE 88.1KWH AWD": "574"
+        },
+        {
+            "caracteristica": "Autonomía - AER (km)",
+            "EV LIGHT 64.2KWH": "437",
+            "EV WAVE 88.1KWH AWD": "537"
+        },
+        {
+            "caracteristica": "ICCU - OBC potencia máxima (kW)",
+            "EV LIGHT 64.2KWH": "6,6 (monofásico) / 11 (trifásico)",
+            "EV WAVE 88.1KWH AWD": "6,6 (monofásico) / 11 (trifásico)"
+        },
+        {
+            "caracteristica": "Carga lenta AC-Type2 / carga de emergencia (0~100%)",
+            "EV LIGHT 64.2KWH": "27h 54m (220V / 10A)",
+            "EV WAVE 88.1KWH AWD": "38h 18m (220V / 10A)"
+        },
+        {
+            "caracteristica": "Carga lenta AC-Type2 / carga domiciliaria o wallbox (0~100%)",
+            "EV LIGHT 64.2KWH": "10h 48m (220V / 32A)",
+            "EV WAVE 88.1KWH AWD": "14h 12m (220V / 32A)"
+        },
+        {
+            "caracteristica": "Carga lenta AC-Type2 / carga pública 11kW (0~100%)",
+            "EV LIGHT 64.2KWH": "O",
+            "EV WAVE 88.1KWH AWD": "9h 6m (220V / 16A*3F)"
+        },
+        {
+            "caracteristica": "Carga rápida DC-CCS2 / carga pública 50kW (10~80%)",
+            "EV LIGHT 64.2KWH": "54m",
+            "EV WAVE 88.1KWH AWD": "1h 12m"
+        },
+        {
+            "caracteristica": "Carga rápida DC-CCS2 / carga pública 102/141kW (30~80%)",
+            "EV LIGHT 64.2KWH": "27m (102kW)",
+            "EV WAVE 88.1KWH AWD": "27m (141kW)"
+        },
+        {
+            "caracteristica": "Sistema de frenado regenerativo inteligente",
+            "EV LIGHT 64.2KWH": true,
+            "EV WAVE 88.1KWH AWD": true
+        },
+        {
+            "caracteristica": "Sistema de carga bi-direccional (V2V/V2L)",
+            "EV LIGHT 64.2KWH": false,
+            "EV WAVE 88.1KWH AWD": true
+        },
+        {
+            "caracteristica": "Frunk - Maletero delantero (l)",
+            "EV LIGHT 64.2KWH": "67 (25kg)",
+            "EV WAVE 88.1KWH AWD": "67 (25kg)"
+        },
+        {
+            "caracteristica": "Remolque con frenos (kg)",
+            "EV LIGHT 64.2KWH": "300",
+            "EV WAVE 88.1KWH AWD": "1.250"
+        },
+        {
+            "caracteristica": "Remolque sin frenos (kg)",
+            "EV LIGHT 64.2KWH": "300",
+            "EV WAVE 88.1KWH AWD": "750"
+        },
+        {
+            "caracteristica": "Barras de techo (kg)",
+            "EV LIGHT 64.2KWH": "100",
+            "EV WAVE 88.1KWH AWD": "100"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación aro 18\"",
+                "EV LIGHT 64.2KWH": true,
+                "EV WAVE 88.1KWH AWD": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 19\"",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Manillas exteriores ocultas con apertura automática",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos con tapiz de tela y eco-cuero",
+                "EV LIGHT 64.2KWH": true,
+                "EV WAVE 88.1KWH AWD": false
+            },
+            {
+                "caracteristica": "Asientos con tapiz de eco-cuero",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico con memoria",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asiento pasajero eléctrico con ajuste en altura eléctrico",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asiento pasajero con soporte lumbar",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados y calefaccionados",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Retrovisor electrocrómatio (ECM)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Luces de ambiente (Mood lamps)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Conector portátil V2L/V2V (V-type)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Salida interior V2L (Máx. 250V/16A)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Bandeja plegable en asientos traseros",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Puerta trasera inteligente",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Sistema de audio premium Harman/Kardon (8 parlantes)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": "Opcional (※)"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Asistente de intervención de punto ciego (BCA)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asistente de intervención de tráfico cruzado (RCCA)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asistente de salida segura (SEA)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Sensores de proximidad laterales",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Control de tracción avanzado en curvas (AWD)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Monitor de punto ciego (BVM)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento 360° con visión 3D (AVM)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            },
+            {
+                "caracteristica": "Asistente de colisión en estacionamiento en reversa (PCA)",
+                "EV LIGHT 64.2KWH": false,
+                "EV WAVE 88.1KWH AWD": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Espejos exteriores con señalizador/abatibles eléctricamente",
+            "Vidrios tintados tipo solar",
+            "Barras de techo",
+            "Beltline cromado",
+            "Spoiler trasero con 3ra luz de freno LED integrada",
+            "Luces delanteras LED",
+            "Luces diurnas (DRL) LED",
+            "Luces traseras LED"
+        ],
+        "interior": [
+            "Radio con pantalla LCD 12,3\" touch a color",
+            "Conectividad inalámbrica Apple CarPlay y Android Auto",
+            "Cluster de supervisión LCD color 12,3\"",
+            "Bluetooth con reconocimiento de voz",
+            "Control de audio en volante",
+            "Múltiples puertos USB (4) y Toma corriente 12V",
+            "Cargador inalámbrico para celulares",
+            "Climatizador dual digital LCD 5\" touch",
+            "Tweeters",
+            "Sensor de lluvia",
+            "Asientos traseros abatibles 60:40",
+            "Encendido automático de luces",
+            "Smart key y botón de encendido",
+            "Modo de selección de manejo (Eco/Normal/Sport/Smart)",
+            "Palanca de cambios electrónica (E-Shift)",
+            "Freno de estacionamiento eléctrico (EPB) con Autohold",
+            "Modo de pedal inteligente (i-Pedal)",
+            "Volante regulable en altura y profundidad",
+            "Volante forrado en eco-cuero",
+            "Alzavidrios eléctricos totales con función Auto Up/Down",
+            "Alzavidrios eléctricos totales con función Auto Stop",
+            "Apoyabrazo central con compartimiento inferior",
+            "Asiento conductor eléctrico con soporte lumbar",
+            "Paddle shifter",
+            "Ganchos en maletero multipropósito"
+        ],
+        "seguridad": [
+            "Cierre centralizado automático con apertura frente a impacto",
+            "Cierre centralizado por sensor de velocidad (20km/h)",
+            "Cinturones de seguridad delanteros con altura regulable",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad 3 puntas en todos los asientos",
+            "Alerta de pasajero en asiento trasero con sensor (ROA)",
+            "Anclaje ISOFIX",
+            "Seguro de niño en puertas automático",
+            "Inmovilizador y alarma",
+            "Frenos de disco traseros y delanteros",
+            "Airbags frontales delanteros",
+            "Airbags laterales delanteros",
+            "Airbags de cortina",
+            "Sensores de proximidad traseros y delanteros",
+            "Cámara de retroceso con líneas adaptativas",
+            "Frenos ABS con EBD",
+            "Frenos de colisión múltiple (MCB)",
+            "Control de estabilidad (ESC)",
+            "Sistema de estabilidad (VSM)",
+            "Asistente de partida en pendiente (HAC)",
+            "Asistente de descenso en pendiente (DBC)",
+            "Monitor de presión de neumáticos (TPMS)",
+            "Alerta de atención al conductor (DAW)",
+            "Asistente de colisión frontal (FCA)",
+            "Asistente de colisión frontal en giro/cruces (FCA -JX)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Asistente de seguimiento de carril (LFA)",
+            "Asistente de luces altas (HBA)",
+            "Control crucero inteligente (SCC) con Stop & Go"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura visual de ficha técnica KIA EV5 (punto negro=true, punto blanco=false; símbolo ※=equipamiento opcional; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-EV5.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajo toda la información visible de especificaciones técnicas, carga eléctrica, capacidad, suspensión, neumáticos, equipamiento interior/exterior, seguridad y códigos de versión 2378 y 2379."
+    }
+}

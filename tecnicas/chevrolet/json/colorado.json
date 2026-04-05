@@ -1,0 +1,714 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "Colorado",
+        "año": null,
+        "versiones": [
+            "WT MT 2WD",
+            "WT MT 4WD",
+            "WT AT 4WD",
+            "Z71 AT 4WD",
+            "LTZ AT 4WD",
+            "HIGH COUNTRY AT 4WD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "WT MT 2WD": "Motor 2.8 Duramax",
+            "WT MT 4WD": "Motor 2.8 Duramax",
+            "WT AT 4WD": "Motor 2.8 Duramax",
+            "Z71 AT 4WD": "Motor 2.8 Duramax",
+            "LTZ AT 4WD": "Motor 2.8 Duramax",
+            "HIGH COUNTRY AT 4WD": "Motor 2.8 Duramax"
+        },
+        "cilindrada": {
+            "WT MT 2WD": 2800,
+            "WT MT 4WD": 2800,
+            "WT AT 4WD": 2800,
+            "Z71 AT 4WD": 2800,
+            "LTZ AT 4WD": 2800,
+            "HIGH COUNTRY AT 4WD": 2800
+        },
+        "potencia_hp": {
+            "WT MT 2WD": "204",
+            "WT MT 4WD": "204",
+            "WT AT 4WD": "204",
+            "Z71 AT 4WD": "204",
+            "LTZ AT 4WD": "204",
+            "HIGH COUNTRY AT 4WD": "204"
+        },
+        "potencia_rpm": {
+            "WT MT 2WD": "3400",
+            "WT MT 4WD": "3400",
+            "WT AT 4WD": "3400",
+            "Z71 AT 4WD": "3400",
+            "LTZ AT 4WD": "3400",
+            "HIGH COUNTRY AT 4WD": "3400"
+        },
+        "torque_nm": {
+            "WT MT 2WD": "460",
+            "WT MT 4WD": "460",
+            "WT AT 4WD": "460",
+            "Z71 AT 4WD": "510",
+            "LTZ AT 4WD": "510",
+            "HIGH COUNTRY AT 4WD": "510"
+        },
+        "torque_rpm": {
+            "WT MT 2WD": "2000",
+            "WT MT 4WD": "2000",
+            "WT AT 4WD": "2000",
+            "Z71 AT 4WD": "2000",
+            "LTZ AT 4WD": "2000",
+            "HIGH COUNTRY AT 4WD": "2000"
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "WT MT 2WD": "MT de 6 velocidades",
+            "WT MT 4WD": "MT de 6 velocidades",
+            "WT AT 4WD": "AT de 8 velocidades",
+            "Z71 AT 4WD": "AT de 8 velocidades",
+            "LTZ AT 4WD": "AT de 8 velocidades",
+            "HIGH COUNTRY AT 4WD": "AT de 8 velocidades"
+        },
+        "traccion": {
+            "WT MT 2WD": "2WD",
+            "WT MT 4WD": "4x4",
+            "WT AT 4WD": "4x4",
+            "Z71 AT 4WD": "4x4",
+            "LTZ AT 4WD": "4x4",
+            "HIGH COUNTRY AT 4WD": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "WT MT 2WD": "245/70R16",
+            "WT MT 4WD": "245/70R16",
+            "WT AT 4WD": "265/60R18",
+            "Z71 AT 4WD": "265/60R18",
+            "LTZ AT 4WD": "265/60R18",
+            "HIGH COUNTRY AT 4WD": "265/60R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5344,
+        "ancho_mm": 2132,
+        "alto_mm": 2071,
+        "distancia_ejes_mm": 3095,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Peso neto vehicular (kg)",
+            "WT MT 2WD": "2041",
+            "WT MT 4WD": "2131",
+            "WT AT 4WD": "2123",
+            "Z71 AT 4WD": "2210",
+            "LTZ AT 4WD": "2160",
+            "HIGH COUNTRY AT 4WD": "2208"
+        },
+        {
+            "caracteristica": "Capacidad de carga útil (kg)",
+            "WT MT 2WD": "1059",
+            "WT MT 4WD": "969",
+            "WT AT 4WD": "977",
+            "Z71 AT 4WD": "890",
+            "LTZ AT 4WD": "940",
+            "HIGH COUNTRY AT 4WD": "892"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación Z71 color negro",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Manijas de puerta color negro brillante",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Luces frontales Halógenas",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Luces frontales LED",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Pisaderas tubulares exclusivas Z71",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Luces oscurecidas parcialmente",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Adhesivos laterales y en caja de carga",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Letras en portalón trasero negros",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Emblema Chevrolet en negro",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Emblemas Z71 en grilla, puertas y adhesivos laterales",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Barra antivuelco extendida",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Sensor de Encendido de Luces Automáticas",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Ajuste de altura de luces electrónico",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Lona marítima",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Climatizador automático delantero",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Control de velocidad crucero",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con regulación manual en 6 posiciones",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Asiento del copiloto con regulación manual en 4 posiciones",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con regulación eléctrica en 6 posiciones",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sistema Keyless con Botón de encendido",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Smart entry",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Toma auxiliar de 12v delantera",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Parasoles con espejo de cortesía en acompañante",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Asientos con interiores tapizados en tela",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Asientos con interiores tapizados en ecocuero Jet Black",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Asientos con interiores tapizados en ecocuero bitono",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Asientos con interiores tapizados en ecocuero bitono Brownstone",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag frontal para conductor y acompañante",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Airbag laterales",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Airbag de cortina",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sistema de detección frontal de peatones (FPD)",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sistema de frenado automático de emergencia (low speed)",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Alerta de cambio de carril",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Alerta de Punto Ciego",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Alarma antirrobo",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Control de estabilidad y tracción (ESC)",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Control de descenso (HDC)",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Asistente de partida en pendientes (HSA)",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Luces DRL LED",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sistema de monitoreo de presión de neumáticos",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Protector Cubre carter",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Tecnología My Link: Pantalla táctil de 11\", Bluetooth, USB",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Compatible con conexión vía cable de Apple CarPlay & Android Auto",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": false,
+                "HIGH COUNTRY AT 4WD": false
+            },
+            {
+                "caracteristica": "Compatible con conexión inalámbrica de Apple CarPlay & Android Auto",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Tecnología Onstar con WIFI 4G LTE",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "WT MT 2WD": 4,
+                "WT MT 4WD": 4,
+                "WT AT 4WD": 4,
+                "Z71 AT 4WD": 6,
+                "LTZ AT 4WD": 6,
+                "HIGH COUNTRY AT 4WD": 6
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Cámara de visión trasera",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Cargador de teléfono inalámbrico",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Control de radio en el volante",
+                "WT MT 2WD": true,
+                "WT MT 4WD": true,
+                "WT AT 4WD": true,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Volante de cuero multifunción",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": true,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sistema de encendido de motor remoto \"remote start system\" con encendido de aire acondicionado",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Espejo interior fotocromático",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "WT MT 2WD": false,
+                "WT MT 4WD": false,
+                "WT AT 4WD": false,
+                "Z71 AT 4WD": false,
+                "LTZ AT 4WD": true,
+                "HIGH COUNTRY AT 4WD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Metálico",
+        "Negro Metálico",
+        "Plata Oscuro Metálico",
+        "Azul oscuro Metálico",
+        "Gris Petróleo Metálico",
+        "Rojo Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Chevrolet Colorado (●=true, ○=false; texto/valores tal cual)",
+        "fuente": "ft-colorado-cl.pdf",
+        "versiones_en_documento": 6,
+        "notas": "El documento incluye Performance, Dimensiones y capacidades, Colores, y tablas de Equipamiento (Exterior/Interior/Tecnología/Seguridad). Indica 'Emitido abril 2025'."
+    }
+}

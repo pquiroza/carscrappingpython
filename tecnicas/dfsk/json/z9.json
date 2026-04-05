@@ -1,0 +1,448 @@
+{
+    "vehiculo": {
+        "marca": "DFSK",
+        "modelo": "NEW PICK UP Z9",
+        "año": null,
+        "versiones": [
+            "Z9 4x2 MT",
+            "Z9 4x2 MT LITE",
+            "Z9 4x4 MT",
+            "Z9 4x4 AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4x2 MT": "M9T",
+            "4x2 MT Lite": "M9T",
+            "4x4 MT": "M9T",
+            "4x4 AT": "M9T"
+        },
+        "cilindrada": {
+            "4x2 MT": "2.3T",
+            "4x2 MT Lite": "2.3T",
+            "4x4 MT": "2.3T",
+            "4x4 AT": "2.3T"
+        },
+        "potencia_hp": {
+            "4x2 MT": "148",
+            "4x2 MT Lite": "148",
+            "4x4 MT": "148",
+            "4x4 AT": "190"
+        },
+        "potencia_rpm": {
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": null
+        },
+        "torque_nm": {
+            "4x2 MT": "380",
+            "4x2 MT Lite": "380",
+            "4x4 MT": "380",
+            "4x4 AT": "500"
+        },
+        "torque_rpm": {
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": null
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "4x2 MT": "Mecánica 6 velocidades",
+            "4x2 MT Lite": "Mecánica 6 velocidades",
+            "4x4 MT": "Mecánica 6 velocidades",
+            "4x4 AT": "Automática 8 Velocidades"
+        },
+        "traccion": {
+            "4x2 MT": "4x2",
+            "4x2 MT Lite": "4x2",
+            "4x4 MT": "4x4",
+            "4x4 AT": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": {
+            "4x2 MT": "Asistida hidráulica",
+            "4x2 MT Lite": "Asistida hidráulica",
+            "4x4 MT": "Asistida hidráulica",
+            "4x4 AT": "Asistida eléctrica"
+        }
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla con barra estabilizadora",
+        "suspension_trasera": {
+            "4x2 MT": "Ballestas",
+            "4x2 MT Lite": "Ballestas",
+            "4x4 MT": "Ballestas",
+            "4x4 AT": "Multilink con resortes helicoidales"
+        },
+        "frenos_delanteros": "Disco en las 4 ruedas",
+        "frenos_traseros": "Disco en las 4 ruedas",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "4x2 MT": "265/70 R17",
+            "4x2 MT Lite": "265/70 R17",
+            "4x4 MT": "265/70 R17 AT (All Terrain)",
+            "4x4 AT": "265/65 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5520,
+        "ancho_mm": 1960,
+        "alto_mm": 1950,
+        "distancia_ejes_mm": 3300,
+        "despeje_suelo_mm": 240,
+        "peso_bruto_kg": 3055,
+        "capacidad_maletero_lts": {
+            "volumen_carga_pick_up": "1.332 Lt",
+            "volumen_carga_segunda_fila_asientos_abatidos": "970 Lt"
+        },
+        "capacidad_estanque_lts": 73,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento NEDC Ciudad (km/l)",
+            "4x2 MT": "9,8",
+            "4x2 MT Lite": "9,8",
+            "4x4 MT": "9,5",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "Rendimiento NEDC Carretera (km/l)",
+            "4x2 MT": "14,5",
+            "4x2 MT Lite": "14,5",
+            "4x4 MT": "13,2",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "Rendimiento NEDC Mixto (km/l)",
+            "4x2 MT": "14,4",
+            "4x2 MT Lite": "14,4",
+            "4x4 MT": "11,5",
+            "4x4 AT": null
+        },
+        {
+            "caracteristica": "Rendimiento 4x4 AT WLTP Urbano sin Autopista (km/l)",
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": "8,5"
+        },
+        {
+            "caracteristica": "Rendimiento 4x4 AT WLTP Urbano con Autopista (km/l)",
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": "11,6"
+        },
+        {
+            "caracteristica": "Rendimiento 4x4 AT WLTP Rural con Autopista (km/l)",
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": "12,7"
+        },
+        {
+            "caracteristica": "Rendimiento 4x4 AT WLTP Autopista Interurbana (km/l)",
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": "10,4"
+        },
+        {
+            "caracteristica": "Rendimiento 4x4 AT WLTP Combinado (km/l)",
+            "4x2 MT": null,
+            "4x2 MT Lite": null,
+            "4x4 MT": null,
+            "4x4 AT": "10,9"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "4x2 MT": "1.000",
+            "4x2 MT Lite": "1.000",
+            "4x4 MT": "1.000",
+            "4x4 AT": "815"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación",
+                "4x2 MT": "17\"",
+                "4x2 MT Lite": null,
+                "4x4 MT": "17\"",
+                "4x4 AT": "18\""
+            },
+            {
+                "caracteristica": "Espejos laterales con defroster",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Control multifunción (2) con apertura y encendido remoto",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Barras de techo en aluminio",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sunroof Eléctrico",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Creep Mode",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Tank Turning",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "8 Modos de Manejo",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla Touch con Bluetooth/Apple Carplay y Android Auto",
+                "4x2 MT": "12\"",
+                "4x2 MT Lite": "12\"",
+                "4x4 MT": "12\"",
+                "4x4 AT": "12,8\""
+            },
+            {
+                "caracteristica": "Puerto USB fila trasera",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Número de parlantes",
+                "4x2 MT": 4,
+                "4x2 MT Lite": 4,
+                "4x4 MT": 4,
+                "4x4 AT": 6
+            },
+            {
+                "caracteristica": "Selector electrónico de tracción de marcha (2H/ 4H/ 4L)",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Volante ajustable en profundidad",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asiento conductor con regulación manual de 6 posiciones",
+                "4x2 MT": true,
+                "4x2 MT Lite": true,
+                "4x4 MT": true,
+                "4x4 AT": false
+            },
+            {
+                "caracteristica": "Asiento conductor con regulación eléctrica de 6 posiciones",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asiento copiloto con regulación manual de 4 posiciones",
+                "4x2 MT": true,
+                "4x2 MT Lite": true,
+                "4x4 MT": false,
+                "4x4 AT": false
+            },
+            {
+                "caracteristica": "Asiento copiloto con regulación eléctrica de 4 posiciones",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con Ventilación",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros Calefaccionados",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Luz de techo central",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags laterales (2)",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": true,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Airbags de cortina (2)",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Autohold",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento delantero",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            },
+            {
+                "caracteristica": "Cierre centralizado de portalón",
+                "4x2 MT": false,
+                "4x2 MT Lite": false,
+                "4x4 MT": false,
+                "4x4 AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Cierre centralizado de portalón",
+            "Portalón con sistema de amortiguación",
+            "Luces LED de conducción diurna (DLR)",
+            "Luces principales (alta y baja) LED",
+            "Sistema Follow Me Home",
+            "Neblineros delanteros con encendido al girar",
+            "Neblineros traseros",
+            "Espejos laterales con ajuste eléctrico",
+            "Vidrio trasero con defroster",
+            "Limpiaparabrisas con sensor de lluvia",
+            "Capa protectora de pick up",
+            "Ganchos de amarre",
+            "Pisaderas laterales",
+            "Antena tipo aleta con amplificador de señal",
+            "Apertura de puertas delanteras sin llave (keyless)",
+            "Barra Antivuelco",
+            "Apertura de puertas traseras en 90°"
+        ],
+        "interior": [
+            "Climatizador",
+            "Alza Vidrio eléctrico en todas las ventanas, anti atrape solo en conductor",
+            "Cierre centralizado",
+            "Botón keyless de encendido y apagado de motor",
+            "Panel de instrumentos 10,25\"",
+            "Ajuste eléctrico de altura de luces",
+            "Puerto USB en consola central delantera",
+            "Control crucero",
+            "Volante con control de radio, teléfono y velocidad crucero",
+            "Volante forrado en ecocuero",
+            "Volante ajustable en altura",
+            "Asientos traseros plegables 90º",
+            "Tapiz asientos de ecocuero",
+            "Apoyabrazos delantero central con compartimiento",
+            "Asientos traseros con 3 apoyacabeza",
+            "Luces de techo",
+            "Toma de corriente 12V"
+        ],
+        "seguridad": [
+            "Doble Airbag frontal (conductor y pasajero)",
+            "Columna de dirección colapsable",
+            "Frenos con ABS y EBD",
+            "Control electrónico de estabilidad (ESP)",
+            "Control de tracción (TCS)",
+            "Sistema anti-vuelco (RMI)",
+            "Asistencia de frenado (BAS)",
+            "Asistente de partida en pendiente (HHC)",
+            "Control de descenso (HDC)",
+            "Vehicle Dynamic Control (VDC)",
+            "Asistencia de Luces Altas (HBA)",
+            "Asistencia de luces de emergencia (HAZ)",
+            "Monitoreo de presión de neumáticos (TPMS)",
+            "Capot con amortiguador",
+            "Sensores de estacionamiento trasero",
+            "Cámaras de retroceso 540°",
+            "Cinturones de 3 puntas en asientos traseros (3)",
+            "Anclaje ISOFIX asientos traseros (2)",
+            "Seguro puertas traseras para niños",
+            "Cierre automático de seguro de puertas",
+            "Aviso de puertas abiertas"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro",
+        "Blanco",
+        "Gris Oscuro",
+        "Dorado",
+        "Naranjo"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-17",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica DFSK (Sí=true, No=false; texto/valores tal cual)",
+        "fuente": "ficha_tecnica-z9.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó toda la información visible del documento. En especificaciones, los valores agrupados para 4x2 MT / 4x2 MT Lite se replicaron en ambas versiones. La ficha muestra 'Frenos: Disco en las 4 ruedas', por lo que se dejó igual para delanteros y traseros. La tabla indica 'Llantas de aleación' solo para 4x2 MT, 4x4 MT y 4x4 AT; 4x2 MT Lite no especifica medida visible. El documento muestra además largo x ancho x alto de caja de carga de 1.520 x 1.600 x 550 mm."
+    }
+}

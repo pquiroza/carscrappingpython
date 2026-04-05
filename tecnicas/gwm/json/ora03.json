@@ -1,0 +1,332 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "ORA 03",
+        "año": 2025,
+        "versiones": [
+            "SR",
+            "GT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SR": "Eléctrico",
+            "GT": "Eléctrico"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "SR": "169",
+            "GT": "169"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "SR": "250",
+            "GT": "250"
+        },
+        "torque_rpm": null,
+        "combustible": null,
+        "transmision": {
+            "SR": "Automática",
+            "GT": "Automática"
+        },
+        "traccion": "FWD"
+    },
+    "direccion": {
+        "tipo": "Electrónicamente asistida"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo Mc-Pherson",
+        "suspension_trasera": "Eje rígido con barra de torsión",
+        "frenos_delanteros": "Discos",
+        "frenos_traseros": "Discos",
+        "neumaticos": {
+            "todas_versiones": "215/50 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "SR": 4235,
+            "GT": 4254
+        },
+        "ancho_mm": 1825,
+        "alto_mm": 1603,
+        "distancia_ejes_mm": 2650,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "SR": 1970,
+            "GT": 1970
+        },
+        "capacidad_maletero_lts": {
+            "todas_versiones": "228 / 858"
+        },
+        "capacidad_estanque_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0 a 100 km/hr",
+            "SR": "8,6 seg.",
+            "GT": "8,6 seg."
+        },
+        {
+            "caracteristica": "Autonomía NEDC (km)",
+            "SR": "374",
+            "GT": "500"
+        },
+        {
+            "caracteristica": "Autonomía WLTP (km)",
+            "SR": "310",
+            "GT": "400"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad batería (kWh)",
+            "SR": "47,8",
+            "GT": "59,1"
+        },
+        {
+            "caracteristica": "Voltaje (V)",
+            "SR": "364,8",
+            "GT": "337,6"
+        },
+        {
+            "caracteristica": "Tipo batería",
+            "SR": "Litio de hierro fosfato",
+            "GT": "Litio Ternaria"
+        },
+        {
+            "caracteristica": "Conector de carga",
+            "SR": "Tipo 2 y Combo 2",
+            "GT": "Tipo 2 y Combo 2"
+        },
+        {
+            "caracteristica": "Carga lenta (20-100%)",
+            "SR": "20 hr",
+            "GT": "20 hr"
+        },
+        {
+            "caracteristica": "Carga semi rápida (20-100%)",
+            "SR": "5 hr",
+            "GT": "5 hr"
+        },
+        {
+            "caracteristica": "Carga rápida (20-100%)",
+            "SR": "1 hr",
+            "GT": "1 hr"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "SR": "215/50 R18",
+            "GT": "215/50 R18"
+        },
+        {
+            "caracteristica": "Llantas",
+            "SR": "Aleación 18\"",
+            "GT": "Aleación 18\""
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensor delantero",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento asistido",
+                "SR": false,
+                "GT": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Efecto de iluminación de bienvenida",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con ajuste eléctrico y plegable electrónicamente, con desempañador y luz intermitente",
+                "SR": true,
+                "GT": false
+            },
+            {
+                "caracteristica": "Espejos retrovisores con asistencia de memoria, ajuste eléctrico y plegable electrónicamente, con desempañador y luz intermitente",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Calefacción del parabrisas delantero",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Portón trasero manual",
+                "SR": true,
+                "GT": false
+            },
+            {
+                "caracteristica": "Portón trasero inductivo",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "SR": false,
+                "GT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Carga inalámbrica para celulares",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con regulación eléctrica en 6 posiciones",
+                "SR": true,
+                "GT": false
+            },
+            {
+                "caracteristica": "Asiento del conductor con regulación eléctrica en 6 posiciones con asistencia de memoria",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con ventilación y masaje",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos central trasero con portavasos",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central anti-encandilamiento eléctrico",
+                "SR": false,
+                "GT": true
+            },
+            {
+                "caracteristica": "Parasol piloto y copiloto con espejo",
+                "SR": true,
+                "GT": false
+            },
+            {
+                "caracteristica": "Parasol piloto y copiloto con espejo y luz",
+                "SR": false,
+                "GT": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Portón trasero inductivo",
+                "SR": false,
+                "GT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "7 airbags",
+            "Frenos ABS y EBD",
+            "Control electrónico de estabilidad (ESP)",
+            "Control de tracción (TCS)",
+            "Sistema electrónico de antivuelco (RMI)",
+            "Asistente de partida en pendiente (HHC)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Asistencia en cruces (AEB-JA)",
+            "Reconocimiento de señales de tránsito (TSR)",
+            "Asistencia de cambio de carril (LCA)",
+            "Advertencia de apertura de puertas (DOW)",
+            "Sensores traseros",
+            "Cámara 360°",
+            "Interruptor de desactivación del airbag del pasajero",
+            "Cierre automático de puertas durante la conducción",
+            "Bloqueo de seguridad infantil manual",
+            "Cinturón delantero con pretensor y limitador de carga",
+            "Cinturones laterales traseros con pretensor y limitador de carga (2 lados)",
+            "Aviso de cinturón desabrochado en asientos delanteros y traseros",
+            "ISOFIX",
+            "Alzavidrios de todos los pasajeros con anti atrape y one touch",
+            "Nivel de recuperación de energía ajustable",
+            "Conducción de un solo pedal",
+            "Advertencia de exceso de velocidad"
+        ],
+        "interior": [
+            "Aire acondicionado automático",
+            "Panel de instrumentos digital de 10.25\"",
+            "Pantalla touch de 10.25\" con Bluetooth, Apple CarPlay inalámbrico",
+            "Puertos USB delanteros y traseros",
+            "6 parlantes con ajuste de volumen sensible a la velocidad",
+            "Cambio de marchas electrónico",
+            "Asistencia de frenado en detención (Auto hold)",
+            "Inicio rápido inteligente",
+            "Modos de conducción (Estándar, ECO, Sport, Automático, ECO+)",
+            "Modo de conducción: FWD",
+            "Ajuste manual en cuatro direcciones del volante",
+            "Freno de mano eléctrico",
+            "Asiento del pasajero con regulación eléctrica en 4 posiciones",
+            "Asientos de cuero",
+            "Reposacabezas central trasero",
+            "Toma de corriente de respaldo 12V",
+            "Desempañador automático interior",
+            "Tablero cubre maletero"
+        ],
+        "exterior": [
+            "Focos principales LED con regulación de altura",
+            "Focos automáticos",
+            "Focos con función follow me home",
+            "Focos (luz alta) de modo automático (HMA)",
+            "Neblineros traseros",
+            "Luces diurnas",
+            "Desempañador de luneta trasera",
+            "Vidrios traseros tinteados",
+            "Llanta de aleación de 18\"",
+            "Antena de tiburón",
+            "Manijas de las puertas del color de la carrocería",
+            "Llave inteligente (2)",
+            "Apertura y cierre de puertas sin llave (keyless)"
+        ],
+        "tecnologia": [
+            "Apple CarPlay inalámbrico",
+            "Cámara 360°",
+            "HMA (luces altas automáticas)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Lectura estricta PDF (●=true, -=false)",
+        "fuente": "ficha-técnica-ora-03-090625.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se extrajeron todas las filas de Especificaciones (motor/batería/dimensiones), Equipamiento Interior/Exterior, Seguridad y colores; GT agrega equipamiento adicional (memoria asiento conductor, calefacción parabrisas, estacionamiento asistido, techo panorámico, portón inductivo, etc.)."
+    },
+    "colores": {
+        "SR": [
+            "Verde Cerceta",
+            "Rojo",
+            "Blanco",
+            "Verde Cerceta - Blanco",
+            "Rojo - Negro",
+            "Blanco - Negro",
+            "Beige - Negro"
+        ],
+        "GT": [
+            "Rojo",
+            "Blanco",
+            "Gris",
+            "Negro"
+        ]
+    },
+    "garantia": {
+        "vehiculo": "6 años o 160.000 kms",
+        "bateria_potencia": "8 años o 150.000 kms"
+    }
+}

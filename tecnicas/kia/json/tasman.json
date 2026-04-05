@@ -1,0 +1,851 @@
+{
+    "vehiculo": {
+        "marca": "Kia",
+        "modelo": "Tasman",
+        "año": 2025,
+        "versiones": [
+            "LX 2.2T DSL 6MT 4X2 LL",
+            "LX 2.2T DSL 6MT 4X4 LL",
+            "EX 2.2T DSL 6MT 4X4 FULL",
+            "EX 2.2T DSL 8AT 4X4 FULL",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LX 2.2T DSL 6MT 4X2 LL": "2.2 Turbo Diésel",
+            "LX 2.2T DSL 6MT 4X4 LL": "2.2 Turbo Diésel",
+            "EX 2.2T DSL 6MT 4X4 FULL": "2.2 Turbo Diésel",
+            "EX 2.2T DSL 8AT 4X4 FULL": "2.2 Turbo Diésel",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "2.2 Turbo Diésel"
+        },
+        "cilindrada": {
+            "LX 2.2T DSL 6MT 4X2 LL": 2151,
+            "LX 2.2T DSL 6MT 4X4 LL": 2151,
+            "EX 2.2T DSL 6MT 4X4 FULL": 2151,
+            "EX 2.2T DSL 8AT 4X4 FULL": 2151,
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": 2151
+        },
+        "potencia_hp": {
+            "LX 2.2T DSL 6MT 4X2 LL": "207",
+            "LX 2.2T DSL 6MT 4X4 LL": "207",
+            "EX 2.2T DSL 6MT 4X4 FULL": "207",
+            "EX 2.2T DSL 8AT 4X4 FULL": "207",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "207"
+        },
+        "potencia_rpm": {
+            "LX 2.2T DSL 6MT 4X2 LL": "3.800",
+            "LX 2.2T DSL 6MT 4X4 LL": "3.800",
+            "EX 2.2T DSL 6MT 4X4 FULL": "3.800",
+            "EX 2.2T DSL 8AT 4X4 FULL": "3.800",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "3.800"
+        },
+        "torque_nm": {
+            "LX 2.2T DSL 6MT 4X2 LL": "440",
+            "LX 2.2T DSL 6MT 4X4 LL": "440",
+            "EX 2.2T DSL 6MT 4X4 FULL": "440",
+            "EX 2.2T DSL 8AT 4X4 FULL": "440",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "440"
+        },
+        "torque_rpm": {
+            "LX 2.2T DSL 6MT 4X2 LL": "1.750~2.750",
+            "LX 2.2T DSL 6MT 4X4 LL": "1.750~2.750",
+            "EX 2.2T DSL 6MT 4X4 FULL": "1.750~2.750",
+            "EX 2.2T DSL 8AT 4X4 FULL": "1.750~2.750",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "1.750~2.750"
+        },
+        "combustible": "Diésel",
+        "transmision": {
+            "LX 2.2T DSL 6MT 4X2 LL": "Mecánica 6 velocidades",
+            "LX 2.2T DSL 6MT 4X4 LL": "Mecánica 6 velocidades",
+            "EX 2.2T DSL 6MT 4X4 FULL": "Mecánica 6 velocidades",
+            "EX 2.2T DSL 8AT 4X4 FULL": "Automática secuencial 8 velocidades",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "Automática secuencial 8 velocidades"
+        },
+        "traccion": {
+            "LX 2.2T DSL 6MT 4X2 LL": "4X2 (RWD)",
+            "LX 2.2T DSL 6MT 4X4 LL": "4X4 (4WD)",
+            "EX 2.2T DSL 6MT 4X4 FULL": "4X4 (4WD)",
+            "EX 2.2T DSL 8AT 4X4 FULL": "4X4 (4WD)",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "4X4 (4WD)"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida Eléctricamente (C-MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla de montaje alto",
+        "suspension_trasera": "Eje rígido con ballestas",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Freno eléctrico (EPB)",
+        "neumaticos": {
+            "LX 2.2T DSL 6MT 4X2 LL": "265/65R17",
+            "LX 2.2T DSL 6MT 4X4 LL": "265/65R17",
+            "EX 2.2T DSL 6MT 4X4 FULL": "265/65R17",
+            "EX 2.2T DSL 8AT 4X4 FULL": "265/65R17",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "265/70R17"
+        },
+        "rueda_repuesto": {
+            "LX 2.2T DSL 6MT 4X2 LL": "Full size",
+            "LX 2.2T DSL 6MT 4X4 LL": "Full size",
+            "EX 2.2T DSL 6MT 4X4 FULL": "Full size (Aleación)",
+            "EX 2.2T DSL 8AT 4X4 FULL": "Full size (Aleación)",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "Full size"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 5410,
+        "ancho_mm": 1930,
+        "alto_mm": {
+            "LX 2.2T DSL 6MT 4X2 LL": 1870,
+            "LX 2.2T DSL 6MT 4X4 LL": 1870,
+            "EX 2.2T DSL 6MT 4X4 FULL": 1870,
+            "EX 2.2T DSL 8AT 4X4 FULL": 1870,
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": 1920
+        },
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": {
+            "LX 2.2T DSL 6MT 4X2 LL": 231,
+            "LX 2.2T DSL 6MT 4X4 LL": 231,
+            "EX 2.2T DSL 6MT 4X4 FULL": 224,
+            "EX 2.2T DSL 8AT 4X4 FULL": 224,
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": 252
+        },
+        "peso_bruto_kg": {
+            "LX 2.2T DSL 6MT 4X2 LL": 3240,
+            "LX 2.2T DSL 6MT 4X4 LL": 3250,
+            "EX 2.2T DSL 6MT 4X4 FULL": 3250,
+            "EX 2.2T DSL 8AT 4X4 FULL": 3250,
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": 3250
+        },
+        "capacidad_maletero_lts": "1.173",
+        "capacidad_estanque_lts": 80,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado/Mixto (km/l)",
+            "LX 2.2T DSL 6MT 4X2 LL": "11,5",
+            "LX 2.2T DSL 6MT 4X4 LL": "11,5",
+            "EX 2.2T DSL 6MT 4X4 FULL": "11,5",
+            "EX 2.2T DSL 8AT 4X4 FULL": "10,4",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "10,4"
+        },
+        {
+            "caracteristica": "Urbano sin autopista (km/l)",
+            "LX 2.2T DSL 6MT 4X2 LL": "9,9",
+            "LX 2.2T DSL 6MT 4X4 LL": "9,9",
+            "EX 2.2T DSL 6MT 4X4 FULL": "9,9",
+            "EX 2.2T DSL 8AT 4X4 FULL": "8,3",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "8,3"
+        },
+        {
+            "caracteristica": "Urbano con autopista urbana (km/l)",
+            "LX 2.2T DSL 6MT 4X2 LL": "11,7",
+            "LX 2.2T DSL 6MT 4X4 LL": "11,7",
+            "EX 2.2T DSL 6MT 4X4 FULL": "11,7",
+            "EX 2.2T DSL 8AT 4X4 FULL": "11,0",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "11,0"
+        },
+        {
+            "caracteristica": "Rural con autopista rural (km/l)",
+            "LX 2.2T DSL 6MT 4X2 LL": "13,6",
+            "LX 2.2T DSL 6MT 4X4 LL": "13,6",
+            "EX 2.2T DSL 6MT 4X4 FULL": "13,6",
+            "EX 2.2T DSL 8AT 4X4 FULL": "12,5",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "12,5"
+        },
+        {
+            "caracteristica": "Autopista interurbana (km/l)",
+            "LX 2.2T DSL 6MT 4X2 LL": "10,5",
+            "LX 2.2T DSL 6MT 4X4 LL": "10,5",
+            "EX 2.2T DSL 6MT 4X4 FULL": "10,5",
+            "EX 2.2T DSL 8AT 4X4 FULL": "9,7",
+            "X-PRO 2.2T DSL 8AT 4X4 FULL": "9,7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces delanteras LED (MFR 3-cube)",
+                "LX 2.2T DSL 6MT 4X2 LL": true,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17\"",
+                "LX 2.2T DSL 6MT 4X2 LL": true,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Espejos exteriores abatibles eléctricamente",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados tipo privacy glass",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Luces Turn-Signal LED",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros LED",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Pisaderas laterales (Board type)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Pisaderas laterales tubulares (X-Pro type)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Barras de techo elevadas X-Pro",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17” (Black)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Neumáticos All-Terrain (A/T)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Luces delanteras Full LED (Vertical Projection 6-cube)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Sunroof delantero",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Almacenamiento lateral exterior (Side Storage & Table)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Vidrios delanteros tintados tipo solar",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Barra deportiva con protección de luneta",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Barra de remolque con tiro de arrastre",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Ganchos de rescate trasero (2)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster de supervisión LCD color 4,2\"",
+                "LX 2.2T DSL 6MT 4X2 LL": true,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "LX 2.2T DSL 6MT 4X2 LL": true,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Modo de selección de tracción (2H, 4A, 4H, 4L)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Smart key y botón de encendido",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático (ECM)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asientos con tapiz de eco-cuero",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asiento conductor eléctrico con soporte lumbar",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Bolsillo de respaldo premium con cierre",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Modo de selección de terreno (Nieve/Barro/Arena)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Modo de selección de terreno (Nieve/Barro/Arena/Roca)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Modo de selección de remolque (Light/Medium/Heavy)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Modo de control crucero X-TREK",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Paddle shifter",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Climatizador dual digital con pantalla LCD 5\"",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Desempañador automático (auto defog)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Cluster de supervisión LCD color 12,3\"",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "2 Cargadores USB-C en 2da fila",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "2 Cargadores USB-C en panel superior frontal",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Compartimiento frontal superior",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asiento pasajero eléctrico con ajuste en altura eléctrico",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Sistema de audio premium Harman/Kardon (8 parlantes)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Palanca de cambios E-Shift (SBW)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Pisos interiores All-weather",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asiento pasajero con función Walk-in",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asientos traseros con reclinación (22~30°)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Mesa plegable en apoyabrazo central",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Apoyabrazo central trasero",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Luces de ambiente (Mood lamp)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Alzavidrios delanteros con función Auto Up/Down & Safety",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Pedales de aluminio",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico dual para celulares",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de tracción avanzado total (AWD)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial mecánico (M-LD)",
+                "LX 2.2T DSL 6MT 4X2 LL": true,
+                "LX 2.2T DSL 6MT 4X4 LL": true,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": false
+            },
+            {
+                "caracteristica": "Asistente de luces altas (HBA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de colisión frontal (FCA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de colisión frontal en giro/cruces (FCA -JX)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de seguimiento de carril 2 (LFA2)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Alerta de atención al conductor (DAW)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de intervención de punto ciego (BCA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de intervención de tráfico cruzado (RCCA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de salida segura (SEA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": true,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Control crucero inteligente con Stop & Go 2 (SCC2)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": true,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente de colisión frontal 2 (FCA2)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Sensor de proximidad laterales",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Cámara de estacionamiento 360° (SVM)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Monitor de punto ciego (BVM)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Bloqueo diferencial electrónico (E-LD)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos (TPMS)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Controlador de frenos de remolque integrado (iTBC)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            },
+            {
+                "caracteristica": "Asistente anticolisión de estacionamiento de marcha atrás (PCA)",
+                "LX 2.2T DSL 6MT 4X2 LL": false,
+                "LX 2.2T DSL 6MT 4X4 LL": false,
+                "EX 2.2T DSL 6MT 4X4 FULL": false,
+                "EX 2.2T DSL 8AT 4X4 FULL": false,
+                "X-PRO 2.2T DSL 8AT 4X4 FULL": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena tiburón",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Espejos exteriores con señalizador",
+            "Guardafangos delanteros y traseros",
+            "Vidrios tintados",
+            "Rueda de repuesto full size",
+            "Ganchos para sujeción/amarre de carga (4) en pick-up",
+            "Rieles logísticos con enganches en pick-up",
+            "Escalón en esquina de pick-up (Corner step)",
+            "Bed liner (Cubre pick-up)",
+            "Toma de corriente 220V (Máx. 200W) en pick-up",
+            "Portalón pick-up con asistencia en apertura",
+            "Iluminación en pick-up",
+            "Ganchos de rescate delantero (2)",
+            "Luces diurnas (DRL) LED",
+            "Luces traseras LED"
+        ],
+        "interior": [
+            "Radio con pantalla LCD 12,3\" touch a color",
+            "Conectividad inalámbrica Apple CarPlay & Android Auto",
+            "Bluetooth con reconocimiento de voz",
+            "Cargador inalámbrico para celulares",
+            "2 Cargadores USB-C frontales",
+            "Control de audio en volante",
+            "Control crucero",
+            "Encendido automático de luces",
+            "Ajuste de nivelación de luces delanteras",
+            "Asientos traseros abatibles 60/40",
+            "Asientos traseros con compartimiento inferior",
+            "Freno de estacionamiento eléctrico con Autohold (EPB)",
+            "Asiento conductor y pasajero con ajuste en altura",
+            "Apoyabrazo central con compartimiento",
+            "Parasol con espejo iluminado para conductor y pasajero",
+            "Volante regulable en altura y profundidad",
+            "Alzavidrios eléctricos totales",
+            "Alzavidrio conductor con función Auto Up/Down & Safety",
+            "Apertura remota de puertas (Keyless entry)",
+            "Tweeters",
+            "Toma de corriente 12V",
+            "Modo de selección de manejo (Eco/Normal/Sport/My Drive)"
+        ],
+        "seguridad": [
+            "Airbags frontales delanteros",
+            "Airbags laterales y airbags de cortina",
+            "Cámara de retroceso con líneas adaptativas",
+            "Sensor de proximidad trasero y delantero",
+            "Estructura de acero de alta resistencia",
+            "Anclajes ISOFIX (Sistema de sujeción para niños)",
+            "Inmovilizador",
+            "Alarma antirrobo",
+            "Cierre centralizado en ambas puertas",
+            "Cierre centralizado por sensor de velocidad (15 km/h)",
+            "Cierre centralizado con detección de impacto (desbloqueo)",
+            "Cint. de seguridad delanteros pretensionados con altura regulable",
+            "Cint. de seguridad 3 puntas con recordatorio en todos los asientos",
+            "Seguro de puertas para niños",
+            "Limitador de velocidad (MSLA)",
+            "Frenos de disco ventilados traseros y delanteros",
+            "Frenos ABS con EBD",
+            "Sistema de asistencia de frenado (BAS)",
+            "Control de estabilidad (ESC)",
+            "Sistema de estabilidad (VSM)",
+            "Asistente de partida en pendiente (HAC)",
+            "Asistente de descenso en pendiente (DBC)",
+            "Asistente de estabilidad de remolque (TSA)",
+            "Frenado de colisión múltiple (MCB)",
+            "Alerta de pasajero en asiento trasero (ROA)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "GRIS ACERO (KLG)",
+        "GRIS ESTELAR (AGT)",
+        "BEIGE SAND (TAM)",
+        "VERDE URBANO (CGE)",
+        "BLANCO SNOW (SWP)",
+        "ROJO CÁLIDO (CR5)",
+        "AZUL DENIM (DNB)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2025-12-01",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Kia (punto negro=true, punto blanco o -=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-Tasman-2025.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó toda la información visible del documento, separando equipamiento diferencial y estándar. Se conservaron datos específicos de pick-up, capacidades, colores, código de versión, plan de mantenciones, garantía, repuestos y origen dentro de los valores extraídos al esquema solicitado."
+    }
+}

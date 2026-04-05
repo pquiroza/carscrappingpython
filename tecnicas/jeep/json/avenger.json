@@ -1,0 +1,204 @@
+{
+    "vehiculo": {
+        "marca": "Jeep",
+        "modelo": "Avenger",
+        "año": null,
+        "versiones": [
+            "ALTITUDE_ICE",
+            "ALTITUDE_MHEV",
+            "SUMMIT_MHEV",
+            "SUMMIT_BEV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "ALTITUDE_ICE": "1.2L Turbo 3 cilindros W/ESS G2",
+            "ALTITUDE_MHEV": "1.2L Turbo 3 cilindros Mild Hybrid W/ESS",
+            "SUMMIT_MHEV": "1.2L Turbo 3 cilindros Mild Hybrid W/ESS",
+            "SUMMIT_BEV": "Eléctrico de imán permanente"
+        },
+        "cilindrada": {
+            "ALTITUDE_ICE": "1199 cc / 1.2L",
+            "ALTITUDE_MHEV": "1199 cc / 1.2L",
+            "SUMMIT_MHEV": "1199 cc / 1.2L",
+            "SUMMIT_BEV": null
+        },
+        "disposicion_cilindros": {
+            "ALTITUDE_ICE": "3 cilindros en línea",
+            "ALTITUDE_MHEV": "3 cilindros en línea / Eje delantero eléctrico",
+            "SUMMIT_MHEV": "3 cilindros en línea / Eje delantero eléctrico",
+            "SUMMIT_BEV": null
+        },
+        "potencia_hp": {
+            "ALTITUDE_ICE": "100 CV (74 kW)",
+            "ALTITUDE_MHEV": "100 CV (74 kW) + 21 kW eléctrico",
+            "SUMMIT_MHEV": "100 CV (74 kW) + 21 kW eléctrico",
+            "SUMMIT_BEV": "156 CV (115 kW)"
+        },
+        "torque_nm": {
+            "ALTITUDE_ICE": "205 Nm",
+            "ALTITUDE_MHEV": "205 + 55 Nm",
+            "SUMMIT_MHEV": "205 + 55 Nm",
+            "SUMMIT_BEV": "260 Nm"
+        },
+        "transmision": {
+            "ALTITUDE_ICE": "MT 6 velocidades",
+            "ALTITUDE_MHEV": "Automática DCT 6 velocidades",
+            "SUMMIT_MHEV": "Automática DCT 6 velocidades",
+            "SUMMIT_BEV": "Automática"
+        },
+        "traccion": "FWD",
+        "combustible": {
+            "ALTITUDE_ICE": "Gasolina",
+            "ALTITUDE_MHEV": "Híbrido",
+            "SUMMIT_MHEV": "Híbrido",
+            "SUMMIT_BEV": "Eléctrico"
+        }
+    },
+    "direccion": {
+        "tipo": "Dirección de piñón y cremallera con asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson con barra estabilizadora",
+        "suspension_trasera": "Multilink con barra estabilizadora",
+        "neumaticos": {
+            "ALTITUDE_ICE": "215/60R17",
+            "ALTITUDE_MHEV": "215/60R17",
+            "SUMMIT_MHEV": "215/55R18",
+            "SUMMIT_BEV": "215/55R18"
+        },
+        "rueda_repuesto": {
+            "ALTITUDE_ICE": "Compacta",
+            "ALTITUDE_MHEV": "Compacta",
+            "SUMMIT_MHEV": "Compacta",
+            "SUMMIT_BEV": "Kit reparación pinchaduras"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4084,
+        "ancho_mm": 1808,
+        "alto_mm": 1536,
+        "distancia_ejes_mm": 2557,
+        "volumen_maletero_lts": 500,
+        "capacidad_carga_max_kg": 360,
+        "peso_bruto_kg": {
+            "ALTITUDE_ICE": 1180,
+            "SUMMIT_BEV": 1520
+        },
+        "capacidad_tanque_lts": 44
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Ciudad (km/l)",
+            "ALTITUDE_ICE": 17.7,
+            "ALTITUDE_MHEV": 29.4,
+            "SUMMIT_MHEV": 29.4,
+            "SUMMIT_BEV": null
+        },
+        {
+            "caracteristica": "Consumo Carretera (km/l)",
+            "ALTITUDE_ICE": 22.5,
+            "ALTITUDE_MHEV": 22.5,
+            "SUMMIT_MHEV": 22.5,
+            "SUMMIT_BEV": null
+        },
+        {
+            "caracteristica": "Consumo Mixto (km/l)",
+            "ALTITUDE_ICE": 20.4,
+            "ALTITUDE_MHEV": 24.4,
+            "SUMMIT_MHEV": 24.4,
+            "SUMMIT_BEV": null
+        },
+        {
+            "caracteristica": "Rendimiento eléctrico (km/kWh)",
+            "SUMMIT_BEV": 6.1
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas 17\"",
+                "ALTITUDE_ICE": true,
+                "ALTITUDE_MHEV": true,
+                "SUMMIT_MHEV": false,
+                "SUMMIT_BEV": false
+            },
+            {
+                "caracteristica": "Llantas 18\"",
+                "ALTITUDE_ICE": false,
+                "ALTITUDE_MHEV": false,
+                "SUMMIT_MHEV": true,
+                "SUMMIT_BEV": true
+            },
+            {
+                "caracteristica": "Sunroof eléctrico",
+                "ALTITUDE_ICE": false,
+                "ALTITUDE_MHEV": false,
+                "SUMMIT_MHEV": true,
+                "SUMMIT_BEV": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Luz ambiental selección color",
+                "ALTITUDE_ICE": false,
+                "ALTITUDE_MHEV": false,
+                "SUMMIT_MHEV": true,
+                "SUMMIT_BEV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Monitor punto ciego (BSD)",
+                "ALTITUDE_ICE": false,
+                "ALTITUDE_MHEV": false,
+                "SUMMIT_MHEV": true,
+                "SUMMIT_BEV": true
+            },
+            {
+                "caracteristica": "Asistente centrado de carril",
+                "ALTITUDE_ICE": false,
+                "ALTITUDE_MHEV": false,
+                "SUMMIT_MHEV": true,
+                "SUMMIT_BEV": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "6 Airbags",
+            "Asistencia de frenado de emergencia (PBA)",
+            "Control crucero adaptativo (ACC)",
+            "Asistente mantenimiento de carril (LKA)",
+            "Detección de fatiga conductor (DDD)",
+            "Sistema anclaje asientos niños",
+            "Control descenso pendientes (HDC)",
+            "Control electrónico estabilidad (ESC)",
+            "Cámara retroceso ParkView",
+            "Freno estacionamiento electrónico",
+            "Jeep Selec-Terrain"
+        ],
+        "interior": [
+            "Climatizador",
+            "Asiento trasero 60/40",
+            "Pantalla TFT 10.25''",
+            "Volante cuero",
+            "Uconnect pantalla 10\"",
+            "Apple CarPlay / Android Auto",
+            "Encendido botón",
+            "Control automático luces altas"
+        ],
+        "tecnologia": [
+            "6 parlantes",
+            "Media Hub 2 USB",
+            "Toma auxiliar 12V"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta tablas páginas 1 y 2",
+        "fuente": "FT-AVENGER-26.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos extraídos exclusivamente desde tablas visuales del documento."
+    }
+}

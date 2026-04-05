@@ -1,0 +1,211 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "SPARK EUV",
+        "año": null,
+        "versiones": [
+            "SPARK EUV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SPARK EUV": "Eléctrico"
+        },
+        "cilindrada": {
+            "SPARK EUV": null
+        },
+        "potencia_hp": {
+            "SPARK EUV": "100,5 HP"
+        },
+        "potencia_rpm": {
+            "SPARK EUV": null
+        },
+        "torque_nm": {
+            "SPARK EUV": "180 Nm FRT"
+        },
+        "torque_rpm": {
+            "SPARK EUV": null
+        },
+        "combustible": "Vehículo eléctrico",
+        "transmision": {
+            "SPARK EUV": null
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Manual asistida eléctricamente, piñón y cremallera"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Barra de torsión suspensión trasera semi-independiente con muelles helicoidales",
+        "frenos_delanteros": "Discos",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": "Eléctrico sobre ruedas posteriores",
+        "neumaticos": {
+            "SPARK EUV": "205/60R16"
+        },
+        "rueda_repuesto": "Kit de inflado con compresor"
+    },
+    "dimensiones": {
+        "largo_mm": 4003,
+        "ancho_mm": 1760,
+        "alto_mm": 1726,
+        "distancia_ejes_mm": 2560,
+        "despeje_suelo_mm": 140,
+        "peso_bruto_kg": 1700,
+        "capacidad_maletero_lts": "549 / 1.493",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía (km) NEDC",
+            "SPARK EUV": "360"
+        },
+        {
+            "caracteristica": "Autonomía (km) WLTP",
+            "SPARK EUV": "298"
+        },
+        {
+            "caracteristica": "Capacidad de batería (kWh)",
+            "SPARK EUV": "41,9"
+        },
+        {
+            "caracteristica": "Capacidad máxima de carga DC (kW)",
+            "SPARK EUV": "50"
+        },
+        {
+            "caracteristica": "0-100 km/h",
+            "SPARK EUV": "11,2 segundos"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "SPARK EUV": "150"
+        },
+        {
+            "caracteristica": "Tiempo de carga",
+            "SPARK EUV": "Desde 30% a 80% en 35 min con carga DC"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Puerto de carga Tipo 2 (EURO TYPE CCS2), 6.6 kW AC",
+            "Faros delanteros LED High End con foco tipo proyector",
+            "Faros posteriores LED High End",
+            "Regulación manual de altura de luces",
+            "Luces diurnas automáticas (DRL)",
+            "Luz halógena antiniebla trasera",
+            "Luz de cortesía para porta placas posterior",
+            "Rieles de techo en acabado Negro/Gris",
+            "Grilla delantera plana en Negro High Gloss",
+            "Manijas exteriores en color de la carrocería",
+            "Compuerta posterior con apertura lateral eléctrica remota",
+            "Espejos exteriores eléctricos, calefaccionados, abatibles eléctricamente, con direccional integrada",
+            "Espejos retrovisores exteriores en acabado Negro/Body color",
+            "Vidrio de la compuerta posterior tinturado",
+            "Rines 16\" de aluminio",
+            "Llantas 205/60R16",
+            "Llanta de emergencia: Kit de inflado con compresor"
+        ],
+        "interior": [
+            "Aire acondicionado con control de temperatura digital/climatizador",
+            "Clúster Digital Full color HD 8,8\"",
+            "Controles manuales de A/C en panel",
+            "Asientos con tapizado premium en ecocuero Beige o Negro Dark Atmosphere",
+            "Asiento del conductor con ajuste eléctrico de 6 posiciones",
+            "Asiento posterior tipo banca abatible 50/50 a nivel del piso",
+            "Interior en acabados premium tonalidad Beige o Negro Dark Atmosphere",
+            "Viseras conductor y pasajero con espejos de vanidad",
+            "Toma de corriente 12V en consola central frontal",
+            "Cordset de carga lenta incluido - 110V y 220V",
+            "Chevrolet Infotainment inteligente, con pantalla táctil LCD de 10,1\" full HD, integración de teléfonos inteligentes, radio AM/FM, transmisión de audio, conexión Bluetooth para configuraciones móviles y del vehículo",
+            "Compatibilidad con Apple CarPlay® / Android Auto™ con cable",
+            "Sistema de audio con 6 parlantes (4 parlantes + 2 tweeters)",
+            "Consola central entre los asientos delanteros, con apoyabrazos, compartimiento portaobjetos y portavasos",
+            "Puerto USB tipo A (carga) en la parte posterior, ubicada en la consola central entre los asientos delanteros",
+            "Puerto USB C (carga) en consola central entre los asientos delanteros",
+            "Puerto USB A (carga y datos) en consola central entre los asientos delanteros",
+            "Volante con control de radio y llamada",
+            "Volante deportivo de 3 radios, con base plana, recubrimiento premium y acabado negro High Gloss con emblema Black Bowtie",
+            "Luz de cortesía posterior en área de carga",
+            "Elevavidrios eléctricos (delanteros y traseros) con función express up/down y protección antiatrapamiento para conductor y pasajero",
+            "Manijas interiores de las puertas en detalle cromado",
+            "Filtro de aire de cabina (filtro de polen)",
+            "Columna de dirección con ajuste de altura",
+            "Parabrisas (del) con alta resistencia acústica y tinturado"
+        ],
+        "seguridad": [
+            "Encendido inteligente sin botón",
+            "Inmovilizador",
+            "Asientos delanteros y posteriores con cabeceras por cada puesto",
+            "Sistema de distribución electrónica de frenado (EBD)",
+            "Encendido automático de faros mediante sensor de luz exterior",
+            "Sistema de frenos ABS",
+            "Control de tracción (TC)",
+            "Control electrónico de establidad (ESC)",
+            "Asistente de arranque en pendiente (HAC / HSA)",
+            "Sistema de control Auto Hold",
+            "Acceso inteligente por proximidad con PEPS en la puerta del conductor y pasajero",
+            "Tercera luz de freno LED montada en el alerón de la compuerta posterior",
+            "Sensor de presión de neumáticos con alerta incluida",
+            "Bloqueo automático de seguros al avanzar en D",
+            "6 bolsas de aire (frontales / laterales / tipo cortina)",
+            "Alerta y recordatorio auditivo de uso del cinturón de seguridad para todos los ocupantes",
+            "Cinturones de seguridad retráctiles con pretensionador y anclaje de tres puntos en asientos delanteros",
+            "Cinturones de seguridad retráctiles con pretensionador y anclaje de tres puntos en la segunda fila de asientos",
+            "Anclajes ISOFIX y Top Tether para sillas infantiles (estándar)",
+            "Detección de vehículos, obstáculos y peatones",
+            "Cámara 360°",
+            "Kit de inflado de emergencia",
+            "Bloqueo manual de la tapa del puerto de carga",
+            "Sensores de parqueo delanteros",
+            "Sensores de parqueo posteriores",
+            "Desbloqueo automático de seguros en caso de colisión",
+            "Desempañador de vidrio posterior",
+            "Carrocería reforzada con barras de protección contra impactos en las cuatro puertas",
+            "Sensor de lluvia con ajuste automático de intensidad",
+            "Seguro para niños en puertas posteriores",
+            "Columna de dirección colapsable y con absorción en caso de impacto",
+            "Líneas guía en cámara de reversa",
+            "Espejo retrovisor interior día/noche con puerto USB tipo A para DVR y EDR (Event Data Recorder)",
+            "AFL (Adaptive Forward Light) ajuste automático de intensidad de luces"
+        ],
+        "tecnologia": [
+            "Chevrolet Infotainment inteligente con pantalla táctil LCD de 10,1\" full HD",
+            "Radio AM/FM",
+            "Conexión Bluetooth",
+            "Compatibilidad con Apple CarPlay® / Android Auto™ con cable",
+            "Puertos USB (USB A carga/datos, USB C carga, USB A carga posterior)",
+            "Clúster Digital Full color HD 8,8\""
+        ],
+        "adas": [
+            "Alerta y asistencia inteligente de cambio de carril (LDW / ELK)",
+            "Control crucero adaptativo automático",
+            "Sensor de seguimiento de distancia frontal",
+            "Alerta de colisión frontal (Front Collision Alert) con asistente inteligente de frenado",
+            "RDP (Road Departure Prevention)",
+            "Frenado autónomo de emergencia"
+        ]
+    },
+    "colores": [
+        "Blanco Destello",
+        "Negro Galaxia",
+        "Gris Nube Bitono Techo Negro",
+        "Azul Tormenta Bitono Techo Negro",
+        "Azul Aqua Bitono Techo Blanco"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (● negro=true, ○ blanco/vacío=false; texto/valores tal cual)",
+        "fuente": "ft-spark-euv-cl.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento presenta una sola configuración (SPARK EUV). No se identifican variaciones por versión, por lo que todo el equipamiento se dejó como estándar."
+    }
+}

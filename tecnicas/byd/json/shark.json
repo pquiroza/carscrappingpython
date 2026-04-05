@@ -1,0 +1,452 @@
+{
+    "vehiculo": {
+        "marca": "BYD",
+        "modelo": "SHARK",
+        "año": null,
+        "versiones": [
+            "DMO"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "DMO": "2 motores eléctricos (uno por eje) y motor 1.5 T"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "DMO": "430 HP"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "DMO": "650"
+        },
+        "torque_rpm": null,
+        "combustible": "Híbrido enchufable",
+        "transmision": {
+            "DMO": "Automática"
+        },
+        "traccion": {
+            "DMO": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "EPS - Dirección de Asistencia Electrónica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Doble horquilla",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "EPB - Freno de Mano Eléctrico",
+        "neumaticos": {
+            "DMO": "265/65 R18"
+        },
+        "rueda_repuesto": "Rueda de repuesto tamaño normal"
+    },
+    "dimensiones": {
+        "largo_mm": 5457,
+        "ancho_mm": 1971,
+        "alto_mm": 1925,
+        "distancia_ejes_mm": 3260,
+        "despeje_suelo_mm": 157,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 1450,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ponderado (km/L)",
+            "DMO": "48,1"
+        },
+        {
+            "caracteristica": "Rendimiento EV (km/kwh)",
+            "DMO": "4,7"
+        },
+        {
+            "caracteristica": "Rendimiento combustible (km/L)",
+            "DMO": "19,2"
+        },
+        {
+            "caracteristica": "Tipo Batería",
+            "DMO": "BLADE - LFP Fosfato de Hierro y Litio"
+        },
+        {
+            "caracteristica": "Capacidad Batería (kW)",
+            "DMO": "29,6"
+        },
+        {
+            "caracteristica": "Conector de Carga",
+            "DMO": "AC Tipo 2 / DC CCS2"
+        },
+        {
+            "caracteristica": "30% - 80% Carga",
+            "DMO": "15 min"
+        },
+        {
+            "caracteristica": "Aceleración 0 - 100 Km/h",
+            "DMO": "5,7 segundos"
+        },
+        {
+            "caracteristica": "Distancia mínima del suelo con carga máxima (mm)",
+            "DMO": "157"
+        },
+        {
+            "caracteristica": "Diámetros mínimo de giro (m)",
+            "DMO": "13,5"
+        },
+        {
+            "caracteristica": "Espacio entre las piernas (mm)",
+            "DMO": "880,4"
+        },
+        {
+            "caracteristica": "Ancho interior (mm)",
+            "DMO": "1,571"
+        },
+        {
+            "caracteristica": "Peso (Kg)",
+            "DMO": "2710"
+        },
+        {
+            "caracteristica": "Airbags",
+            "DMO": "6"
+        },
+        {
+            "caracteristica": "Máxima capacidad de carga útil",
+            "DMO": "850"
+        },
+        {
+            "caracteristica": "Máxima capacidad de remolque",
+            "DMO": "Hasta 2500"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Barras porta equipaje de aluminio",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Rueda de repuesto tamaño normal",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Smart Key",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Focos Delanteros",
+                "DMO": "Led"
+            },
+            {
+                "caracteristica": "Focos Traseros",
+                "DMO": "Led"
+            },
+            {
+                "caracteristica": "HMA - Asistencia de luces altas y bajas",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Luces antiniebla traseras",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Retrovisores Eléctricos",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Enchufe 220v Exterior en Pick Up",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Toma corriente interior 12V",
+                "DMO": "3"
+            },
+            {
+                "caracteristica": "Sensor Presión Neumáticos",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Sensor Encendido Automático Luz",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Sensor Lluvia para Limpia parabrisas",
+                "DMO": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asiento del conductor con ajuste eléctrico",
+                "DMO": "6 posiciones"
+            },
+            {
+                "caracteristica": "Asiento del pasajero delantero con ajuste eléctrico",
+                "DMO": "4 posiciones"
+            },
+            {
+                "caracteristica": "Audio",
+                "DMO": "8 altavoces"
+            },
+            {
+                "caracteristica": "Altavoz marca Dirac",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Aire acondicionado con filtro PM2.5 de alta eficiencia",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Climatización Automática Bi Zona",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Car Play inalámbrico / Android Auto inalámbrico",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Comando por Voz",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Conectividad 4G",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Iluminación Interior",
+                "DMO": "Led"
+            },
+            {
+                "caracteristica": "Panel de Instrumentos",
+                "DMO": "10,8\""
+            },
+            {
+                "caracteristica": "Pantalla táctil giratoria eléctrica",
+                "DMO": "12,8\""
+            },
+            {
+                "caracteristica": "Función Karaoke",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "DMO": "Eco Cuero"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "ABS",
+                "DMO": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Asistente Conducción",
+                "DMO": "DiPilot (ADAS)"
+            },
+            {
+                "caracteristica": "Asistente Cámara Estacionamiento 360°",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Imágenes Panorámicas HD 540°",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Asistente Panorámico 3D",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Cámara de Retroceso",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Sistema de frenado inteligente",
+                "DMO": true
+            },
+            {
+                "caracteristica": "BSD - Detección Punto Ciego",
+                "DMO": true
+            },
+            {
+                "caracteristica": "W-HUD - Pantalla frontal del parabrisas",
+                "DMO": true
+            },
+            {
+                "caracteristica": "ACC - Control Crucero Adaptativo",
+                "DMO": true
+            },
+            {
+                "caracteristica": "TJA - Sigue al auto de adelante a baja velocidad",
+                "DMO": true
+            },
+            {
+                "caracteristica": "AEB - Freno Automático de Emergencia",
+                "DMO": true
+            },
+            {
+                "caracteristica": "LKS - Sistema Automático Mantención de Carril",
+                "DMO": true
+            },
+            {
+                "caracteristica": "LCA - Alerta al cambio de carril cuando viene un auto detrás",
+                "DMO": true
+            },
+            {
+                "caracteristica": "DOW - Alerta al abrir puerta si algo se acerca por la puerta",
+                "DMO": true
+            },
+            {
+                "caracteristica": "IPB - Sistema Integrado que mejora el frenado",
+                "DMO": true
+            },
+            {
+                "caracteristica": "ESC - Control electrónico de estabilidad",
+                "DMO": true
+            },
+            {
+                "caracteristica": "HBB - Sistema de frenado asistido por potencia hidráulica",
+                "DMO": true
+            },
+            {
+                "caracteristica": "HBA - Asistencia de frenado hidráulico",
+                "DMO": true
+            },
+            {
+                "caracteristica": "CDP - Sistema de control de desaceleración del freno de estacionamiento",
+                "DMO": true
+            },
+            {
+                "caracteristica": "RMI - Intervención de movimiento de balanceo",
+                "DMO": true
+            },
+            {
+                "caracteristica": "CST - Asistente de Frenado Cómodo",
+                "DMO": true
+            },
+            {
+                "caracteristica": "ESP - Programa de Estabilidad Electrónico",
+                "DMO": true
+            },
+            {
+                "caracteristica": "ABS - Sistema Freno Anti Bloqueo",
+                "DMO": true
+            },
+            {
+                "caracteristica": "EBD - Distribuidor Eléctrico de Frenado",
+                "DMO": true
+            },
+            {
+                "caracteristica": "TCS - Sistema Control de Tracción",
+                "DMO": true
+            },
+            {
+                "caracteristica": "VDC - Sistema Control Dinámico Vehículo",
+                "DMO": true
+            },
+            {
+                "caracteristica": "HHC - Asistente Partida en Pendiente",
+                "DMO": true
+            },
+            {
+                "caracteristica": "HDC - Control de Descenso en Pendiente",
+                "DMO": true
+            },
+            {
+                "caracteristica": "AVH - Freno Automático (Stop & Go)",
+                "DMO": true
+            },
+            {
+                "caracteristica": "EPB - Freno de Mano Eléctrico",
+                "DMO": true
+            },
+            {
+                "caracteristica": "EPS - Dirección de Asistencia Electrónica",
+                "DMO": true
+            },
+            {
+                "caracteristica": "BOS - Sistema de anulación de frenos",
+                "DMO": true
+            },
+            {
+                "caracteristica": "ICC - Sistema de navegación inteligente",
+                "DMO": true
+            },
+            {
+                "caracteristica": "ISLI - Alarma de límite de velocidad inteligente",
+                "DMO": true
+            },
+            {
+                "caracteristica": "TSR - Reconocimiento de señales de tráfico",
+                "DMO": true
+            },
+            {
+                "caracteristica": "FCW - Advertencia de colisión frontal",
+                "DMO": true
+            },
+            {
+                "caracteristica": "RCW - Advertencia de colisión trasera",
+                "DMO": true
+            },
+            {
+                "caracteristica": "LDA - Asistencia de salida de carril",
+                "DMO": true
+            },
+            {
+                "caracteristica": "LKA - Asistencia de mantenimiento de carril",
+                "DMO": true
+            },
+            {
+                "caracteristica": "4 Radares de marcha atrás delanteros",
+                "DMO": true
+            },
+            {
+                "caracteristica": "4 Radares de marcha atrás traseros",
+                "DMO": true
+            },
+            {
+                "caracteristica": "TPMS - Sistema de monitoreo directo de la presión de los neumáticos",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Bloqueo automático de detección de velocidad",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Bloqueo de control remoto",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Seguro mecánico para niños",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Sistema antirrobo electrónico de carrocería",
+                "DMO": true
+            },
+            {
+                "caracteristica": "Alarma de intrusión",
+                "DMO": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro",
+        "Azul",
+        "Blanco"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de flyer BYD (ticket/✔=presente, -/vacío=no presente; valores tal cual)",
+        "fuente": "Flyer-Shark-CL.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incorporó la tabla completa de DIMENSIONES, el listado completo de ASISTENCIA Y TECNOLOGÍA y las tablas de EQUIPAMIENTO con valores (LED, pulgadas, cantidades)."
+    }
+}

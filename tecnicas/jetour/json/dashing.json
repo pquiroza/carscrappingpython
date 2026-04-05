@@ -1,0 +1,448 @@
+{
+    "vehiculo": {
+        "marca": "Jetour",
+        "modelo": "DASHING",
+        "año": null,
+        "versiones": [
+            "6MT 1.5L TURBO SPECIAL EDITION FL",
+            "6MT 1.5L TURBO LUX FL",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL",
+            "6DCT 1.5L TURBO LUX FL",
+            "7DCT 1.6L TURBO GDI LIMITED FL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "1.5 Turbo",
+            "6MT 1.5L TURBO LUX FL": "1.5 Turbo",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "1.5 Turbo",
+            "6DCT 1.5L TURBO LUX FL": "1.5 Turbo",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "1.6 Turbo"
+        },
+        "cilindrada": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": 1498,
+            "6MT 1.5L TURBO LUX FL": 1498,
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": 1498,
+            "6DCT 1.5L TURBO LUX FL": 1498,
+            "7DCT 1.6L TURBO GDI LIMITED FL": 1598
+        },
+        "potencia_hp": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "145",
+            "6MT 1.5L TURBO LUX FL": "145",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "145",
+            "6DCT 1.5L TURBO LUX FL": "145",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "188"
+        },
+        "potencia_rpm": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "5.500",
+            "6MT 1.5L TURBO LUX FL": "5.500",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "5.500",
+            "6DCT 1.5L TURBO LUX FL": "5.500",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "5.500"
+        },
+        "torque_nm": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "210",
+            "6MT 1.5L TURBO LUX FL": "210",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "210",
+            "6DCT 1.5L TURBO LUX FL": "210",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "275"
+        },
+        "torque_rpm": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "1.750 - 4.000",
+            "6MT 1.5L TURBO LUX FL": "1.750 - 4.000",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "1.750 - 4.000",
+            "6DCT 1.5L TURBO LUX FL": "1.750 - 4.000",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "1.750 - 4.000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "Mecánica 6MT",
+            "6MT 1.5L TURBO LUX FL": "Mecánica 6MT",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "Automática 6DCT",
+            "6DCT 1.5L TURBO LUX FL": "Automática 6DCT",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "Automática 7DCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "EPS (Dirección asistida eléctrica)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente MCPherson",
+        "suspension_trasera": "Multilink",
+        "frenos_delanteros": "Disco Ventilado",
+        "frenos_traseros": "Disco Sólido",
+        "freno_estacionamiento": "Electrónico + Autohold",
+        "neumaticos": {
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "235 / 60 R18",
+            "6MT 1.5L TURBO LUX FL": "235 / 55 R19",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "235 / 60 R18",
+            "6DCT 1.5L TURBO LUX FL": "235 / 55 R19",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "255 / 45 R20"
+        },
+        "rueda_repuesto": "Uso temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4590,
+        "ancho_mm": 1900,
+        "alto_mm": 1685,
+        "distancia_ejes_mm": 2720,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "486 / 977",
+        "capacidad_estanque_lts": 57,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "10",
+            "6MT 1.5L TURBO LUX FL": "10",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "9,2",
+            "6DCT 1.5L TURBO LUX FL": "9,2",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "9,2"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "15",
+            "6MT 1.5L TURBO LUX FL": "15",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "15,1",
+            "6DCT 1.5L TURBO LUX FL": "15,1",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "15,1"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "6MT 1.5L TURBO SPECIAL EDITION FL": "12,7",
+            "6MT 1.5L TURBO LUX FL": "12,7",
+            "6DCT 1.5L TURBO SPECIAL EDITION FL": "12,2",
+            "6DCT 1.5L TURBO LUX FL": "12,2",
+            "7DCT 1.6L TURBO GDI LIMITED FL": "12,2"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Limpiaparabrisas trasero",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": true,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Manilla de puertas con sensor oculto",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Encendido remoto del vehículo",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": true,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Portalón trasero eléctrico",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con sensor de lluvia",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores eléctricos calefaccionados",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles electrónicamente",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Memoria del espejo retrovisor",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Radio touch con conectividad (pulgadas)",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": "12,8\"",
+                "6MT 1.5L TURBO LUX FL": "12,8\"",
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": "12,8\"",
+                "6DCT 1.5L TURBO LUX FL": "12,8\"",
+                "7DCT 1.6L TURBO GDI LIMITED FL": "15,6\""
+            },
+            {
+                "caracteristica": "Parlantes",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": 4,
+                "6MT 1.5L TURBO LUX FL": 4,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": 4,
+                "6DCT 1.5L TURBO LUX FL": 6,
+                "7DCT 1.6L TURBO GDI LIMITED FL": 8
+            },
+            {
+                "caracteristica": "Asiento conductor ajuste eléctrico",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": true,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Asiento conductor calefaccionado y ventilado",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Parasoles delanteros con espejo y luz de cortesía",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Reposabrazos trasero",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Parlantes SONY",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Modos de conducción",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": "Eco / Sport",
+                "6DCT 1.5L TURBO LUX FL": "Eco / Sport",
+                "7DCT 1.6L TURBO GDI LIMITED FL": "Eco / Normal / Sport"
+            },
+            {
+                "caracteristica": "Memoria asiento conductor",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara panorámica 360°",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Cámara chasis transparente 180°",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "BDS: Detector de punto ciego",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión lateral (DOW, LDW)",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "RCTA: Advertencia de colisión trasera",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "AEBS: Sistema avanzado de frenado de emergencia",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "LDWS: Sistema de advertencia de cambio de carril",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "ACC: Control crucero adaptativo",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "ICA: Asistencia de crucero integrado",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6MT 1.5L TURBO LUX FL": false,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": false,
+                "6DCT 1.5L TURBO LUX FL": false,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Carplay / Android Auto Inalámbrico",
+                "6MT 1.5L TURBO SPECIAL EDITION FL": true,
+                "6MT 1.5L TURBO LUX FL": true,
+                "6DCT 1.5L TURBO SPECIAL EDITION FL": true,
+                "6DCT 1.5L TURBO LUX FL": true,
+                "7DCT 1.6L TURBO GDI LIMITED FL": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llanta deportiva",
+            "Alzavidrios automáticos al salir del vehículo",
+            "Cierre automático al salir del vehículo",
+            "Luces delanteras LED",
+            "Luces diurnas LED (DLR)",
+            "Luces traseras LED",
+            "Luces automáticas",
+            "Luces delanteras regulables en altura",
+            "Espejos retrovisores eléctricos",
+            "Señalizadores en espejos retrovisores"
+        ],
+        "interior": [
+            "Tapiz Eco - cuero",
+            "Reposabrazos delantero",
+            "Puertos USB (5)",
+            "Alzavidrios eléctricos (one button & down)",
+            "Asientos traseros abatibles 60 / 40",
+            "Bluetooth",
+            "Volante forrado eco-cuero",
+            "Volante ajustable en altura y profundidad",
+            "Smart key y botón de encendido",
+            "Aire acondicionado eléctrico",
+            "Salida aire acondicionado trasera",
+            "Estuche para lentes"
+        ],
+        "seguridad": [
+            "ABS + EBD",
+            "Doble airbag delantero",
+            "Airbags laterales delanteras",
+            "Anclaje ISOFIX",
+            "Cinturones de seguridad de tres puntas totales",
+            "EBA: Asistencia electrónica de frenado",
+            "TCS: Control de tracción",
+            "ESC: Control electrónico de estabilidad",
+            "HHC: Control de partida en pendiente",
+            "HDC: Control de partida en descenso",
+            "RMI: Sistema de control anti vuelco",
+            "TPMS: Monitor de presión de neumáticos",
+            "Seguro de niños en puerta trasera",
+            "Inmovilizador",
+            "Sensor de estacionamiento trasero",
+            "Desbloqueo por colisión automáticamente",
+            "Cámara de retroceso",
+            "CCS: Control crucero"
+        ],
+        "tecnologia": [
+            "Carplay / Android Auto Inalámbrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Azul Glacier",
+        "Negro",
+        "Verde",
+        "Blanco",
+        "Gris"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Jetour (●=true, -=false; texto/valores tal cual)",
+        "fuente": "JETOUR_FT Dashing (nov).pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se incluyó todo el equipamiento: diferenciado por versión (cuando hay variación) y estándar (cuando aparece para todas las versiones)."
+    }
+}

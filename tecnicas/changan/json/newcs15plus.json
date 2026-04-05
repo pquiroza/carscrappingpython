@@ -1,0 +1,441 @@
+{
+    "vehiculo": {
+        "marca": "Changan",
+        "modelo": "New CS15 Plus",
+        "año": null,
+        "versiones": [
+            "Comfort MT",
+            "Luxury MT",
+            "Elite MT",
+            "Elite AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Comfort MT": "1.5L",
+            "Luxury MT": "1.5L",
+            "Elite MT": "1.5L",
+            "Elite AT": "1.5L"
+        },
+        "cilindrada": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Elite MT": null,
+            "Elite AT": null
+        },
+        "potencia_hp": {
+            "Comfort MT": "99",
+            "Luxury MT": "99",
+            "Elite MT": "99",
+            "Elite AT": "99"
+        },
+        "potencia_rpm": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Elite MT": null,
+            "Elite AT": null
+        },
+        "torque_nm": {
+            "Comfort MT": "145",
+            "Luxury MT": "145",
+            "Elite MT": "145",
+            "Elite AT": "145"
+        },
+        "torque_rpm": {
+            "Comfort MT": null,
+            "Luxury MT": null,
+            "Elite MT": null,
+            "Elite AT": null
+        },
+        "combustible": null,
+        "transmision": {
+            "Comfort MT": "5MT",
+            "Luxury MT": "5MT",
+            "Elite MT": "5MT",
+            "Elite AT": "5DCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Comfort MT": "205/55R16",
+            "Luxury MT": "205/55R16",
+            "Elite MT": "205/50R17",
+            "Elite AT": "205/50R17"
+        },
+        "rueda_repuesto": true
+    },
+    "dimensiones": {
+        "largo_mm": 4135,
+        "ancho_mm": 1740,
+        "alto_mm": 1630,
+        "distancia_ejes_mm": 2520,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "Comfort MT": 1585,
+            "Luxury MT": 1585,
+            "Elite MT": 1610,
+            "Elite AT": 1610
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "Comfort MT": "10,8",
+            "Luxury MT": "10,8",
+            "Elite MT": "10,8",
+            "Elite AT": "10"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "Comfort MT": "16,7",
+            "Luxury MT": "16,7",
+            "Elite MT": "16,7",
+            "Elite AT": "15,4"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "Comfort MT": "13,9",
+            "Luxury MT": "13,9",
+            "Elite MT": "13,9",
+            "Elite AT": "12,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": "Panorama Sunroof"
+            },
+            {
+                "caracteristica": "Espejos laterales abatibles",
+                "Comfort MT": "Manual",
+                "Luxury MT": "Manual",
+                "Elite MT": "Manual",
+                "Elite AT": "Eléctrico"
+            },
+            {
+                "caracteristica": "Espejos ajustables eléctricamente desde interior",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Luces automáticas",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Luces diurnas (DLR)",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Luz trasera antiniebla",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Cámara trasera",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros (3)",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Defroster espejos laterales",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "Comfort MT": "Aleación de aluminio",
+                "Luxury MT": "Aleación de aluminio",
+                "Elite MT": "Aleación de aluminio bitono",
+                "Elite AT": "Aleación de aluminio bitono"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Botón de partida",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Salida de aire en plazas traseras",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "Comfort MT": "Tela",
+                "Luxury MT": "Tela",
+                "Elite MT": "Eco cuero",
+                "Elite AT": "Eco cuero"
+            },
+            {
+                "caracteristica": "Pantalla touch central",
+                "Comfort MT": "10\"",
+                "Luxury MT": "10\"",
+                "Elite MT": "10\"",
+                "Elite AT": "10\""
+            },
+            {
+                "caracteristica": "Conectividad",
+                "Comfort MT": "Android Auto / Apple Carplay inalámbrico",
+                "Luxury MT": "Android Auto / Apple Carplay inalámbrico",
+                "Elite MT": "Android Auto / Apple Carplay inalámbrico",
+                "Elite AT": "Android Auto / Apple Carplay inalámbrico"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "Comfort MT": "Ajuste manual",
+                "Luxury MT": "Ajuste manual",
+                "Elite MT": "Ajuste manual",
+                "Elite AT": "Ajuste manual"
+            },
+            {
+                "caracteristica": "Asiento acompañante",
+                "Comfort MT": "Ajuste manual",
+                "Luxury MT": "Ajuste manual",
+                "Elite MT": "Ajuste manual",
+                "Elite AT": "Ajuste manual"
+            },
+            {
+                "caracteristica": "Espejo retrovisor antiencandilamiento",
+                "Comfort MT": "Ajuste manual",
+                "Luxury MT": "Ajuste manual",
+                "Elite MT": "Ajuste manual",
+                "Elite AT": "Ajuste manual"
+            },
+            {
+                "caracteristica": "Alzavidrios eléctricos delanteros / traseros",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Volante",
+                "Comfort MT": "Regulable en altura",
+                "Luxury MT": "Regulable en altura",
+                "Elite MT": "Regulable en altura",
+                "Elite AT": "Regulable en altura"
+            },
+            {
+                "caracteristica": "Altavoces",
+                "Comfort MT": 4,
+                "Luxury MT": 4,
+                "Elite MT": 4,
+                "Elite AT": 4
+            },
+            {
+                "caracteristica": "Entradas USB",
+                "Comfort MT": "(1) USB Tipo A, (1) USB Tipo C delanteros / (1) USB Tipo C trasero",
+                "Luxury MT": "(1) USB Tipo A, (1) USB Tipo C delanteros / (1) USB Tipo C trasero",
+                "Elite MT": "(1) USB Tipo A, (1) USB Tipo C delanteros / (1) USB Tipo C trasero",
+                "Elite AT": "(1) USB Tipo A, (1) USB Tipo C delanteros / (1) USB Tipo C trasero"
+            },
+            {
+                "caracteristica": "Toma de corriente 12V",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Cubre equipaje",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "Comfort MT": 2,
+                "Luxury MT": 2,
+                "Elite MT": 2,
+                "Elite AT": 4
+            },
+            {
+                "caracteristica": "Control crucero",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Asistencia de frenado (BA)",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad (ESP)",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Distribución electrónica de frenada (EBD)",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador antirrobo",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Seguro de niño",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "Comfort MT": false,
+                "Luxury MT": false,
+                "Elite MT": false,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Sistema Isofix (x2)",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad frontales y traseros de 3 puntas",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Alerta de cinturones desabrochados (5)",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad delanteros ajustables en altura",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Android Auto / Apple Carplay inalámbrico",
+                "Comfort MT": true,
+                "Luxury MT": true,
+                "Elite MT": true,
+                "Elite AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Negro",
+        "Rojo",
+        "Blanco",
+        "Azul",
+        "Plata"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-30",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Changan (punto=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-te-cnica-new-cs15-plus_.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajo la información visible de especificaciones generales, equipamiento exterior, interior, seguridad, rendimiento y colores. En celdas fusionadas del documento se respetó el valor centrado para las columnas agrupadas; donde el PDF no entrega un dato técnico explícito, se dejó en null."
+    }
+}

@@ -1,0 +1,683 @@
+{
+    "vehiculo": {
+        "marca": "Kia",
+        "modelo": "Sorento",
+        "año": 2026,
+        "versiones": [
+            "EX 2.5L GSL 6AT 2WD",
+            "EX 2.5L GSL 6AT AWD",
+            "EX 3.5L GSL 8AT AWD FULL",
+            "EX 2.2L DSL 8DCT 2WD",
+            "EX 2.2L DSL 8DCT AWD",
+            "EX 2.2L DSL 8DCT AWD FULL",
+            "EX 1.6T HEV 6AT 2WD",
+            "EX 1.6T HEV 6AT AWD FULL"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "EX 2.5L GSL 6AT 2WD": "2.5 GSL",
+            "EX 2.5L GSL 6AT AWD": "2.5 GSL",
+            "EX 3.5L GSL 8AT AWD FULL": "3.5 GSL",
+            "EX 2.2L DSL 8DCT 2WD": "2.2 DSL",
+            "EX 2.2L DSL 8DCT AWD": "2.2 DSL",
+            "EX 2.2L DSL 8DCT AWD FULL": "2.2 DSL",
+            "EX 1.6T HEV 6AT 2WD": "1.6T HEV",
+            "EX 1.6T HEV 6AT AWD FULL": "1.6T HEV"
+        },
+        "cilindrada": {
+            "EX 2.5L GSL 6AT 2WD": 2497,
+            "EX 2.5L GSL 6AT AWD": 2497,
+            "EX 3.5L GSL 8AT AWD FULL": 3470,
+            "EX 2.2L DSL 8DCT 2WD": 2151,
+            "EX 2.2L DSL 8DCT AWD": 2151,
+            "EX 2.2L DSL 8DCT AWD FULL": 2151,
+            "EX 1.6T HEV 6AT 2WD": 1598,
+            "EX 1.6T HEV 6AT AWD FULL": 1598
+        },
+        "potencia_hp": {
+            "EX 2.5L GSL 6AT 2WD": "178",
+            "EX 2.5L GSL 6AT AWD": "178",
+            "EX 3.5L GSL 8AT AWD FULL": "268",
+            "EX 2.2L DSL 8DCT 2WD": "199",
+            "EX 2.2L DSL 8DCT AWD": "199",
+            "EX 2.2L DSL 8DCT AWD FULL": "199",
+            "EX 1.6T HEV 6AT 2WD": "178",
+            "EX 1.6T HEV 6AT AWD FULL": "178"
+        },
+        "potencia_rpm": {
+            "EX 2.5L GSL 6AT 2WD": "6.000",
+            "EX 2.5L GSL 6AT AWD": "6.000",
+            "EX 3.5L GSL 8AT AWD FULL": "6400",
+            "EX 2.2L DSL 8DCT 2WD": "3.800",
+            "EX 2.2L DSL 8DCT AWD": "3.800",
+            "EX 2.2L DSL 8DCT AWD FULL": "3.800",
+            "EX 1.6T HEV 6AT 2WD": "5.500",
+            "EX 1.6T HEV 6AT AWD FULL": "5.500"
+        },
+        "torque_nm": {
+            "EX 2.5L GSL 6AT 2WD": "232",
+            "EX 2.5L GSL 6AT AWD": "232",
+            "EX 3.5L GSL 8AT AWD FULL": "331",
+            "EX 2.2L DSL 8DCT 2WD": "440",
+            "EX 2.2L DSL 8DCT AWD": "440",
+            "EX 2.2L DSL 8DCT AWD FULL": "440",
+            "EX 1.6T HEV 6AT 2WD": "265",
+            "EX 1.6T HEV 6AT AWD FULL": "265"
+        },
+        "torque_rpm": {
+            "EX 2.5L GSL 6AT 2WD": "4.000",
+            "EX 2.5L GSL 6AT AWD": "4.000",
+            "EX 3.5L GSL 8AT AWD FULL": "5.000",
+            "EX 2.2L DSL 8DCT 2WD": "2.750",
+            "EX 2.2L DSL 8DCT AWD": "2.750",
+            "EX 2.2L DSL 8DCT AWD FULL": "2.750",
+            "EX 1.6T HEV 6AT 2WD": "1.500~4.500",
+            "EX 1.6T HEV 6AT AWD FULL": "1.500~4.500"
+        },
+        "combustible": {
+            "EX 2.5L GSL 6AT 2WD": "Gasolina (95)",
+            "EX 2.5L GSL 6AT AWD": "Gasolina (95)",
+            "EX 3.5L GSL 8AT AWD FULL": "Gasolina (95)",
+            "EX 2.2L DSL 8DCT 2WD": "Diésel",
+            "EX 2.2L DSL 8DCT AWD": "Diésel",
+            "EX 2.2L DSL 8DCT AWD FULL": "Diésel",
+            "EX 1.6T HEV 6AT 2WD": "Gasolina (95)",
+            "EX 1.6T HEV 6AT AWD FULL": "Gasolina (95)"
+        },
+        "transmision": {
+            "EX 2.5L GSL 6AT 2WD": "Automática Secuencial 6AT",
+            "EX 2.5L GSL 6AT AWD": "Automática Secuencial 6AT",
+            "EX 3.5L GSL 8AT AWD FULL": "Automática Secuencial 8AT",
+            "EX 2.2L DSL 8DCT 2WD": "Automática Secuencial 8DCT",
+            "EX 2.2L DSL 8DCT AWD": "Automática Secuencial 8DCT",
+            "EX 2.2L DSL 8DCT AWD FULL": "Automática Secuencial 8DCT",
+            "EX 1.6T HEV 6AT 2WD": "Automática Secuencial 6AT",
+            "EX 1.6T HEV 6AT AWD FULL": "Automática Secuencial 6AT"
+        },
+        "traccion": {
+            "EX 2.5L GSL 6AT 2WD": "2WD",
+            "EX 2.5L GSL 6AT AWD": "AWD",
+            "EX 3.5L GSL 8AT AWD FULL": "AWD",
+            "EX 2.2L DSL 8DCT 2WD": "2WD",
+            "EX 2.2L DSL 8DCT AWD": "AWD",
+            "EX 2.2L DSL 8DCT AWD FULL": "AWD",
+            "EX 1.6T HEV 6AT 2WD": "2WD",
+            "EX 1.6T HEV 6AT AWD FULL": "AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente (MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MacPherson Strut",
+        "suspension_trasera": "Multi-Link",
+        "frenos_delanteros": "Disco",
+        "frenos_traseros": "Disco",
+        "freno_estacionamiento": "Electrónico (EPB)",
+        "neumaticos": {
+            "EX 2.5L GSL 6AT 2WD": "235/60R18",
+            "EX 2.5L GSL 6AT AWD": "235/60R18",
+            "EX 3.5L GSL 8AT AWD FULL": "255/45R20",
+            "EX 2.2L DSL 8DCT 2WD": "235/60R18",
+            "EX 2.2L DSL 8DCT AWD": "255/45R20",
+            "EX 2.2L DSL 8DCT AWD FULL": "255/45R20",
+            "EX 1.6T HEV 6AT 2WD": "235/65R17",
+            "EX 1.6T HEV 6AT AWD FULL": "235/55R19"
+        },
+        "rueda_repuesto": "Temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4815,
+        "ancho_mm": 1900,
+        "alto_mm": 1700,
+        "distancia_ejes_mm": 2815,
+        "despeje_suelo_mm": {
+            "EX 2.5L GSL 6AT 2WD": 176,
+            "EX 2.5L GSL 6AT AWD": 176,
+            "EX 3.5L GSL 8AT AWD FULL": 176,
+            "EX 2.2L DSL 8DCT 2WD": 176,
+            "EX 2.2L DSL 8DCT AWD": 176,
+            "EX 2.2L DSL 8DCT AWD FULL": 176,
+            "EX 1.6T HEV 6AT 2WD": 174,
+            "EX 1.6T HEV 6AT AWD FULL": 174
+        },
+        "peso_bruto_kg": {
+            "EX 2.5L GSL 6AT 2WD": 2500,
+            "EX 2.5L GSL 6AT AWD": 2600,
+            "EX 3.5L GSL 8AT AWD FULL": 2600,
+            "EX 2.2L DSL 8DCT 2WD": 2600,
+            "EX 2.2L DSL 8DCT AWD": 2600,
+            "EX 2.2L DSL 8DCT AWD FULL": 2600,
+            "EX 1.6T HEV 6AT 2WD": 2580,
+            "EX 1.6T HEV 6AT AWD FULL": 2640
+        },
+        "capacidad_maletero_lts": "1.996 / 608~813 / 179",
+        "capacidad_estanque_lts": 67,
+        "numero_pasajeros": 7
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo NEDC ciudad (km/l)",
+            "EX 2.5L GSL 6AT 2WD": "8,5",
+            "EX 2.5L GSL 6AT AWD": "8,0",
+            "EX 3.5L GSL 8AT AWD FULL": "6,7",
+            "EX 2.2L DSL 8DCT 2WD": "11,9",
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": null,
+            "EX 1.6T HEV 6AT AWD FULL": null
+        },
+        {
+            "caracteristica": "Consumo NEDC carretera (km/l)",
+            "EX 2.5L GSL 6AT 2WD": "14,8",
+            "EX 2.5L GSL 6AT AWD": "13,7",
+            "EX 3.5L GSL 8AT AWD FULL": "12,6",
+            "EX 2.2L DSL 8DCT 2WD": "19,4",
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": null,
+            "EX 1.6T HEV 6AT AWD FULL": null
+        },
+        {
+            "caracteristica": "Consumo NEDC mixto (km/l)",
+            "EX 2.5L GSL 6AT 2WD": "11,7",
+            "EX 2.5L GSL 6AT AWD": "10,9",
+            "EX 3.5L GSL 8AT AWD FULL": "9,6",
+            "EX 2.2L DSL 8DCT 2WD": "15,7",
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": null,
+            "EX 1.6T HEV 6AT AWD FULL": null
+        },
+        {
+            "caracteristica": "Combinado/Mixto (km/l)",
+            "EX 2.5L GSL 6AT 2WD": null,
+            "EX 2.5L GSL 6AT AWD": null,
+            "EX 3.5L GSL 8AT AWD FULL": null,
+            "EX 2.2L DSL 8DCT 2WD": null,
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": "14,8",
+            "EX 1.6T HEV 6AT AWD FULL": "14,0"
+        },
+        {
+            "caracteristica": "Urbano sin autopista (km/l)",
+            "EX 2.5L GSL 6AT 2WD": null,
+            "EX 2.5L GSL 6AT AWD": null,
+            "EX 3.5L GSL 8AT AWD FULL": null,
+            "EX 2.2L DSL 8DCT 2WD": null,
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": "13,8",
+            "EX 1.6T HEV 6AT AWD FULL": "15,1"
+        },
+        {
+            "caracteristica": "Urbano con autopista urbana (km/l)",
+            "EX 2.5L GSL 6AT 2WD": null,
+            "EX 2.5L GSL 6AT AWD": null,
+            "EX 3.5L GSL 8AT AWD FULL": null,
+            "EX 2.2L DSL 8DCT 2WD": null,
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": "19,4",
+            "EX 1.6T HEV 6AT AWD FULL": "15,9"
+        },
+        {
+            "caracteristica": "Rural con autopista rural (km/l)",
+            "EX 2.5L GSL 6AT 2WD": null,
+            "EX 2.5L GSL 6AT AWD": null,
+            "EX 3.5L GSL 8AT AWD FULL": null,
+            "EX 2.2L DSL 8DCT 2WD": null,
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": "17,6",
+            "EX 1.6T HEV 6AT AWD FULL": "16,1"
+        },
+        {
+            "caracteristica": "Autopista interurbana (km/l)",
+            "EX 2.5L GSL 6AT 2WD": null,
+            "EX 2.5L GSL 6AT AWD": null,
+            "EX 3.5L GSL 8AT AWD FULL": null,
+            "EX 2.2L DSL 8DCT 2WD": null,
+            "EX 2.2L DSL 8DCT AWD": null,
+            "EX 2.2L DSL 8DCT AWD FULL": null,
+            "EX 1.6T HEV 6AT 2WD": "11,8",
+            "EX 1.6T HEV 6AT AWD FULL": "12,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación aro 18''",
+                "EX 2.5L GSL 6AT 2WD": true,
+                "EX 2.5L GSL 6AT AWD": true,
+                "EX 3.5L GSL 8AT AWD FULL": false,
+                "EX 2.2L DSL 8DCT 2WD": true,
+                "EX 2.2L DSL 8DCT AWD": true,
+                "EX 2.2L DSL 8DCT AWD FULL": false,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 17'' (B-Type)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": false,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": false,
+                "EX 1.6T HEV 6AT 2WD": true,
+                "EX 1.6T HEV 6AT AWD FULL": false
+            },
+            {
+                "caracteristica": "Vidrios tintados tipo solar",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 20\" (B-type)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": false
+            },
+            {
+                "caracteristica": "Llantas de aleación aro 19\"",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": false,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": false,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Luces delanteras LED (4-Cube Projection)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cluster de supervisión digital 12,3\"",
+                "EX 2.5L GSL 6AT 2WD": true,
+                "EX 2.5L GSL 6AT AWD": true,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": true,
+                "EX 2.2L DSL 8DCT AWD": true,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Cluster de supervisión digital 4,2\" (12,3\")",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": false,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": false,
+                "EX 1.6T HEV 6AT 2WD": true,
+                "EX 1.6T HEV 6AT AWD FULL": false
+            },
+            {
+                "caracteristica": "Modo de selección de terreno (Nieve/Barro/Arena)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": true,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": true,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Palanca de cambios dial (E-Shift)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": true,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Asiento conductor y pasajero eléctrico",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Asiento conductor con soporte lumbar",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Asiento conductor con memoria",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados y ventilados",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "2 Cargadores USB-C en 2da fila",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "2 Cargadores USB-C en 3ra fila",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Luz de ambiente (Mood lamp)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Alzavidrios totales con Auto Up/Down & Safety",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Sistema de audio Premium Bose (12 parlantes)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático (ECM)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Paddle Shifter",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": true,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Cortinas traseras",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Frenos de disco trasero 17\"",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": false,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": false,
+                "EX 1.6T HEV 6AT 2WD": true,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Control de tracción avanzado en curvas (ATCC)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": true,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": true,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamientos laterales",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Cámara 360° con visión 3D (AVM)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            },
+            {
+                "caracteristica": "Monitor de punto ciego (BVM)",
+                "EX 2.5L GSL 6AT 2WD": false,
+                "EX 2.5L GSL 6AT AWD": false,
+                "EX 3.5L GSL 8AT AWD FULL": true,
+                "EX 2.2L DSL 8DCT 2WD": false,
+                "EX 2.2L DSL 8DCT AWD": false,
+                "EX 2.2L DSL 8DCT AWD FULL": true,
+                "EX 1.6T HEV 6AT 2WD": false,
+                "EX 1.6T HEV 6AT AWD FULL": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena Tiburón",
+            "Barras en techo",
+            "Beltline cromado",
+            "Espejos ext. con señalizador/abat. eléctricamente",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Guardafangos delanteros y traseros",
+            "Manillas cromadas",
+            "Limpiaparabrisas trasero oculto",
+            "Vidrios tintados traseros tipo privacy glass",
+            "Spoiler trasero",
+            "Luces delanteras LED (3-Cube MFR)",
+            "Luces diurnas (DRL) LED",
+            "Neblineros delanteros LED"
+        ],
+        "interior": [
+            "Radio touch LCD 12,3\"",
+            "Conect. inalámbrica Apple CarPlay & Android Auto",
+            "Bluetooth con reconocimiento de voz",
+            "Cargador inalámbrico para celulares",
+            "Control de audio en volante",
+            "Tweeters",
+            "2 Cargadores USB-C en consola central",
+            "Salida 12V en las tres filas de asientos",
+            "Asientos abatibles 60:40 2da fila",
+            "Asientos abatibles 50:50 3ra fila",
+            "Asientos 2da y 3ra fila con \"Walk-in\"",
+            "Cubre equipaje",
+            "Smart key y botón de encendido",
+            "Partida de motor a distancia",
+            "Climatizador dual",
+            "Modo de selección de manejo (Eco/Normal/Sport/Smart)",
+            "Volante regulable en altura y profundidad",
+            "Volante y palanca de cambio de cuero",
+            "Alzavidrio conductor con Auto Up/Down & Safety",
+            "Sensor de lluvia",
+            "Freno de estacionamiento eléctrico (EPB)",
+            "Encendido automático de luces",
+            "Asientos de cuero",
+            "Puerta trasera inteligente"
+        ],
+        "seguridad": [
+            "Anclaje ISOFIX",
+            "Inmovilizador",
+            "Alarma",
+            "Cierre centralizado por sensor de velocidad (20km/h)",
+            "Cint. de seguridad de 3 puntas en todos los asientos",
+            "Cinturón de seguridad delanteros pretensionados",
+            "Alerta de cint. de seguridad para todos los asientos",
+            "Alerta asiento pasajero trasero (ROA)",
+            "Frenos de disco trasero y delantero",
+            "Airbags frontales delanteros",
+            "Airbags laterales y airbags de cortina",
+            "Cámara de retroceso con líneas adaptativas",
+            "Sensor de proximidad delantero y trasero",
+            "Frenos ABS con EBD",
+            "Control de estabilidad (ESC)",
+            "Sistema de estabilidad (VSM)",
+            "Asistente de partida en pendiente (HAC)",
+            "Asistente de descenso en pendiente (DBC)",
+            "Asistente de estabilidad de remolque (TSA)",
+            "Sistema de asistencia de frenado (BAS)",
+            "Asistente de luces altas (HBA)",
+            "Alerta de atención al conductor (DAW)",
+            "Asistente de salida segura (SEA)",
+            "Asistente de colisión frontal (FCA)",
+            "Asistente de colisión frontal en giro/cruces (FCA-JX)",
+            "Asistente de intervención de punto ciego (BCA)",
+            "Asistente de seguimiento de carril (LFA)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Sistema de detección de punto ciego (BSD)",
+            "Sistema de detección de tráfico cruzado (RCTA)",
+            "Control crucero inteligente con Stop & Go (SCC)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO INVIERNO (UD)",
+        "GRIS ACERO (KLG)",
+        "GRIS ESTELAR (AGT)",
+        "CAFÉ VOLCÁNICO (BN4)",
+        "AZUL GRAVEDAD (B4U)",
+        "VERDE URBANO (CGE)",
+        "AZUL MINERAL (M4B)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-16",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Kia (punto negro=true, punto blanco o -=false; texto/valores tal cual)",
+        "fuente": "Ficha Técnica - Sorento (MQ4 PE) 2026 02.pdf",
+        "versiones_en_documento": 8,
+        "notas": "Se incluyó toda la información visible del documento, separando equipamiento diferencial y estándar. En rendimiento se respetaron las filas NEDC para versiones GSL/DSL y las filas WLTP para versiones HEV, dejando null donde la ficha no informa valor para esa fila."
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "520i",
+        "año": null,
+        "versiones": [
+            "Heritage"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Heritage": "Gasolina. 4 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "Heritage": 1998
+        },
+        "potencia_hp": {
+            "Heritage": "190"
+        },
+        "potencia_rpm": {
+            "Heritage": "4,400 – 6,500"
+        },
+        "torque_nm": {
+            "Heritage": "310"
+        },
+        "torque_rpm": {
+            "Heritage": "1,500 – 4,000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Heritage": "Automática Steptronic de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Heritage": "Neumáticos mixtos y deportivos"
+        },
+        "rueda_repuesto": "Neumático de emergencia"
+    },
+    "dimensiones": {
+        "largo_mm": 5060,
+        "ancho_mm": 1900,
+        "alto_mm": 1515,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 154,
+        "peso_bruto_kg": 1725,
+        "capacidad_maletero_lts": 520,
+        "capacidad_estanque_lts": 60,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Combinado (km/l)",
+            "Heritage": "14,9"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "Heritage": "8.1"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant Plus",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de reversa",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Surround View con Top View",
+            "Panorama View y 3D View",
+            "Llantas aerodinámicas 20\" bicolor plata",
+            "Techo panorámico de grandes dimensiones (sin apertura)",
+            "Paquete de iluminación exterior BMW Iconic Glow"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático bizona",
+            "Paquete de iluminación ambiental",
+            "Alfombrillas de velours",
+            "Asientos de cuero vegano Veganza",
+            "Asientos delanteros eléctricos con memoria y calefaccionados",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Sistema de acceso sin llaves Comfort Access",
+            "Volante deportivo de cuero multifunción",
+            "Operación automática de maletero",
+            "Terminaciones interiores Dunkelsilver combinado con madera noble de fresno Graublau de poros abiertos",
+            "Sistema de conexión de accesorios (incluye USB-C) en respaldo asientos delanteros Travel & Comfort System"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Monitor de presión de neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Neumático de emergencia"
+        ],
+        "tecnologia": [
+            "Sistema de sonido Harman Kardon (12 altavoces y amplificador de 205W)",
+            "Cuadro de instrumentos multifunción de 12,3\" completamente digital",
+            "Display de control de 14,9\" de alta resolución",
+            "Sistema Operativo BMW 9 con interfaz de usuario Maps Centric optimizada para el uso táctil",
+            "Asistente personal inteligente de BMW (“Hey BMW”)",
+            "Control táctil en la pantalla de control",
+            "Controlador iDrive Touch con función de giro y empuje",
+            "Opción de marcado directo solo con un toque",
+            "Acceso directo a aplicaciones de terceros con Apple Carplay/Android Auto",
+            "Control por gestos",
+            "Bandeja para carga inalámbrica de Smartphones",
+            "BMW Head-Up Display",
+            "Vista aumentada con asistencia al conductor y guía de navegación con elementos de realidad aumentada"
+        ],
+        "adas": [
+            "Faros delanteros de LED",
+            "Luces de freno dinámicas",
+            "Asistente de luces en carretera",
+            "Sensores de lluvia y luz",
+            "Dirección eléctrica Servotronic",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control de velocidad crucero",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-08",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_all_new_bmw_520i_heritage_.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

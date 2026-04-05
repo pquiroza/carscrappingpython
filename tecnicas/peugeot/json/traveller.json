@@ -1,0 +1,141 @@
+{
+    "vehiculo": {
+        "marca": "PEUGEOT",
+        "modelo": "TRAVELLER",
+        "año": 2025,
+        "versiones": [
+            "Business AT"
+        ]
+    },
+    "motor": {
+        "tipo": "Turbo Diésel BlueHDi",
+        "cilindrada": "1997",
+        "potencia_hp": "180",
+        "potencia_rpm": "3750",
+        "torque_nm": "400",
+        "torque_rpm": "2000",
+        "combustible": "Diésel",
+        "transmision": "Automática 8 velocidades",
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Asistida variable"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo pseudo McPherson y barra anti-torsión",
+        "suspension_trasera": "Ruedas independientes con brazo inferior triangulado",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "neumaticos": "215/60 R17",
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "5309",
+        "ancho_mm": "1920",
+        "alto_mm": "1935",
+        "distancia_ejes_mm": "3275",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": "3000",
+        "capacidad_maletero_lts": "933 / 1181",
+        "capacidad_estanque_lts": "69"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "BUSINESS_AT": "215/60 R17"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso en vacío (kg)",
+            "BUSINESS_AT": "1997"
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga útil (kg)",
+            "BUSINESS_AT": "980"
+        },
+        {
+            "caracteristica": "Remolque con freno (kg)",
+            "BUSINESS_AT": "2000"
+        },
+        {
+            "caracteristica": "Carga techo (kg)",
+            "BUSINESS_AT": "170"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "BUSINESS_AT": "170"
+        },
+        {
+            "caracteristica": "0-100 km/h (s)",
+            "BUSINESS_AT": "9"
+        },
+        {
+            "caracteristica": "Consumo urbano (km/l)",
+            "BUSINESS_AT": "12"
+        },
+        {
+            "caracteristica": "Consumo carretera (km/l)",
+            "BUSINESS_AT": "16"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "BUSINESS_AT": "14"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [],
+        "exterior": [],
+        "seguridad": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Climatizador con control independiente trasero",
+            "Alzavidrios eléctricos secuenciales",
+            "Sensor lluvia y luz",
+            "Volante cuero regulable",
+            "Retrovisor electrocromático",
+            "Guantera refrigerada",
+            "Mesas en respaldo asientos",
+            "Control crucero",
+            "Asistente mantención carril",
+            "Cluster digital 10\"",
+            "Pantalla táctil 10\"",
+            "Android Auto / Apple CarPlay",
+            "Bluetooth",
+            "Comando por voz"
+        ],
+        "exterior": [
+            "Puertas laterales corredizas dobles",
+            "Portalón con luneta",
+            "Vidrios tinteados",
+            "Llantas 17\"",
+            "Faros LED",
+            "DRL LED"
+        ],
+        "seguridad": [
+            "ABS",
+            "AFU",
+            "ESP",
+            "ASR",
+            "Airbags frontales + laterales + cabeza",
+            "ISOFIX 2da y 3ra fila",
+            "Sensor estacionamiento trasero",
+            "Cámara retroceso",
+            "TPMS",
+            "Protector cárter"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "Ficha Técnica Traveller K0 MCA 2025",
+        "versiones_en_documento": 1,
+        "notas": "Documento contiene solo versión Business AT."
+    }
+}

@@ -64,54 +64,49 @@ def try_dismiss_overlays(page: Page):
         except Exception:
             pass
 
-def ensure_detail_ready(page: Page, timeout_ms: int = 20000):
-    # estabiliza carga de la página de detalle
+def ensure_detail_ready(page: Page, timeout_ms: int = 25000):
     try:
-        page.wait_for_load_state("domcontentloaded", timeout=timeout_ms//3)
+        page.wait_for_load_state("domcontentloaded", timeout=timeout_ms//2)
     except Exception:
         pass
     try:
-        page.wait_for_load_state("networkidle", timeout=timeout_ms//3)
+        page.wait_for_load_state("networkidle", timeout=timeout_ms//2)
     except Exception:
         pass
 
     try_dismiss_overlays(page)
 
-    any_section = page.locator("#price-section, #details-section").first
-    any_section.wait_for(state="attached", timeout=timeout_ms//2)
-
+    # Si redirige al listado (defensivo)
     try:
-        any_section.scroll_into_view_if_needed()
+        if page.locator("h1:has-text('Chevrolet Nuevos en Coseche')").count() > 0:
+            raise RuntimeError("Redirección al listado, no al detalle.")
     except Exception:
         pass
 
-    try:
-        for _ in range(3):
-            page.mouse.wheel(0, 900)
-            page.wait_for_timeout(120)
-        page.mouse.wheel(0, -1500)
-        page.wait_for_timeout(120)
-    except Exception:
-        pass
+    # Señales reales del detalle
+    candidates = [
+        "h1",
+        "text=Versiones disponibles",
+        "a:has-text('VER VERSIÓN')",
+        r"text=/\$\s?\d{1,3}(?:\.\d{3})+/",  # ✅ Playwright text engine con regex
+    ]
 
-    # señales de render de precio/CTA (sin clases con [])
+    last_err = None
+    for sel in candidates:
+        try:
+            page.locator(sel).first.wait_for(state="visible", timeout=timeout_ms//3)
+            break
+        except Exception as e:
+            last_err = e
+    else:
+        raise RuntimeError(f"No apareció contenido esperado del detalle. Último error: {last_err}")
+
     try:
-        page.wait_for_function(
-            r"""
-            () => {
-              const root = document.querySelector('#price-section') || document;
-              if (!root) return false;
-              const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
-              let n, txt = '';
-              while ((n = walker.nextNode())) txt += n.textContent || '';
-              if (/\$\s?\d/.test(txt)) return true;
-              if (document.querySelector("a[href^='/reservation-payment']")) return true;
-              if (/whatsapp/i.test(document.body.innerText || '')) return true;
-              return false;
-            }
-            """,
-            timeout=timeout_ms//2
-        )
+        page.wait_for_timeout(250)
+        page.mouse.wheel(0, 900)
+        page.wait_for_timeout(150)
+        page.mouse.wheel(0, -900)
+        page.wait_for_timeout(150)
     except Exception:
         pass
 
@@ -212,67 +207,101 @@ def read_variant_card(a) -> Dict:
 # ----------------------------
 # Detalle del modelo (core)
 # ----------------------------
+
+def extract_variants_from_versions_grid(page: Page) -> List[Dict]:
+    # Grilla de "Versiones disponibles"
+    page.locator("text=Versiones disponibles").first.wait_for(timeout=12000)
+
+    cards = page.locator("article:has(a:has-text('VER VERSIÓN')), div:has(a:has-text('VER VERSIÓN'))")
+    out = []
+    seen = set()
+
+    for i in range(cards.count()):
+        card = cards.nth(i)
+
+        a = card.locator("a:has-text('VER VERSIÓN')").first
+        href = a.get_attribute("href") or ""
+        vurl = urljoin(BASE, href) if href else None
+
+        # nombre: intenta h3/h2 primero
+        name = ""
+        for sel in ["h3", "h2", "p.font-bold", "span.font-bold"]:
+            loc = card.locator(sel).first
+            if loc.count():
+                name = norm(loc.inner_text())
+                if name:
+                    break
+
+        # precio dentro del card (primer $... que aparezca)
+        mloc = card.locator(r"text=/\$\s?\d{1,3}(?:\.\d{3})+/").first
+        mtxt = norm(mloc.inner_text()) if mloc.count() else None
+
+        key = (vurl, name)
+        if key in seen:
+            continue
+        seen.add(key)
+
+        out.append({
+            "variant_href": vurl,
+            "variant_name": name or None,
+            "variant_price_raw": mtxt,
+            "variant_price_int": money_to_int(mtxt) if mtxt else None,
+            "fuel": None,
+            "transmission": None,
+        })
+    return out
+
+
+
 def extract_detail_core(page: Page) -> Dict:
-    ensure_detail_ready(page, timeout_ms=20000)
+    ensure_detail_ready(page, timeout_ms=25000)
 
-    brand = None
-    model = None
-    ref_text = None
+    title = norm(page.locator("h1").first.inner_text()) if page.locator("h1").count() else ""
+    # Ej: "Nuevo CHEVROLET SAIL HB Coseche"
+    clean = re.sub(r"^Nuevo\s+", "", title, flags=re.IGNORECASE).strip()
+    clean = re.sub(r"\s+Coseche$", "", clean, flags=re.IGNORECASE).strip()
 
-    brand_node = page.locator("#details-section p.text-lg.font-bold").first
-    if brand_node.count() == 0:
-        brand_node = page.locator("p:text-matches('CHEVROLET', 'i')").first
-    if brand_node.count() > 0:
-        brand = norm(brand_node.inner_text())
+    # Como este scraper es de Chevrolet, podemos fijar marca si viene vacía
+    brand = "CHEVROLET"
+    model = clean or None
 
-    model_node = page.locator("#details-section p.text-2xl.font-bold").first
-    if model_node.count() == 0:
-        model_node = page.locator("#details-section h1, #details-section h2").first
-    if model_node.count() > 0:
-        model = norm(model_node.inner_text())
+    # Primer monto visible (normalmente el "Desde $xx.xxx.xxx")
 
-    ref_node = page.locator("#details-section span:text-matches('^REF\\s*:', 'i')").first
-    if ref_node.count() > 0:
-        ref_text = norm(ref_node.inner_text())
-        ref_text = re.sub(r"^REF\s*:?\s*", "", ref_text, flags=re.IGNORECASE)
-
-    # "Desde" del detalle (solo para páginas sin variantes)
-    price_box = page.locator("#price-section :text-matches('^\\$\\s?\\d', 'i')").first
-    if price_box.count() == 0:
-        price_box = page.locator("#price-section .font-bold:has-text('$')").first
-    if price_box.count() == 0:
-        price_box = page.locator("#price-section .text-\\[25px\\].font-bold").first
-
-    price_desde_raw = norm(price_box.inner_text()) if price_box.count() > 0 else None
+    money_loc = page.locator(r"text=/\$\s?\d{1,3}(?:\.\d{3})+/").first
+    price_desde_raw = norm(money_loc.inner_text()) if money_loc.count() else None
     price_desde_int = money_to_int(price_desde_raw) if price_desde_raw else None
 
-    # Opciones de pago
+    price_desde_raw = norm(money_loc.inner_text()) if money_loc.count() else None
+    price_desde_int = money_to_int(price_desde_raw) if price_desde_raw else None
+
+    # Opciones de pago: busca por label + price sin asumir contenedor fijo
     pago = {"inteligente": None, "convencional": None, "todo_medio": None}
-    payment_root = page.locator("#price-section .payment-options ul").first
-    if payment_root.count() == 0:
-        payment_root = page.locator(".payment-options ul").first
-    if payment_root.count() > 0:
-        lis = payment_root.locator("li")
-        for i in range(lis.count()):
-            li = lis.nth(i)
-            label = norm(li.locator(".label").first.inner_text()) if li.locator(".label").count() > 0 else ""
-            price = norm(li.locator(".price").first.inner_text()) if li.locator(".price").count() > 0 else ""
-            price_int = money_to_int(price)
-            labu = label.lower()
-            if "inteligente" in labu:
-                pago["inteligente"] = price_int
-            elif "convencional" in labu:
-                pago["convencional"] = price_int
-            elif "todo medio" in labu:
-                pago["todo_medio"] = price_int
+    try:
+        items = page.locator("li:has(.label):has(.price)")
+        for i in range(min(items.count(), 20)):
+            li = items.nth(i)
+            label = norm(li.locator(".label").first.inner_text())
+            price = norm(li.locator(".price").first.inner_text())
+            val = money_to_int(price)
+            lab = label.lower()
+            if "inteligente" in lab or "siempre" in lab:
+                pago["inteligente"] = val
+            elif "convencional" in lab:
+                pago["convencional"] = val
+            elif "todo medio" in lab:
+                pago["todo_medio"] = val
+    except Exception:
+        pass
 
     return {
         "brand": brand,
         "model": model,
-        "ref": ref_text,
+        "ref": None,
         "price_desde_int": price_desde_int,
         "pago": pago,
     }
+
+
 
 def extract_variants(page: Page) -> List[Dict]:
     variants: List[Dict] = []
@@ -409,7 +438,9 @@ def main(headless: bool = False):
                 try:
                     page.goto(c.href, wait_until="domcontentloaded")
                     page.wait_for_timeout(500)
-
+                    if "/marcas/chevrolet/nuevo" == page.url.rstrip("/"):
+                        page.goto(c.href, wait_until="networkidle")
+                        page.wait_for_timeout(400)
                     core = extract_detail_core(page)           # info base del modelo
                     variants = extract_variants(page)          # variantes del carrusel
 
@@ -511,7 +542,7 @@ def main(headless: bool = False):
         print("-"*100)
 
     print(f"[OK] {out_json} → {len(results)} elementos")
-
+    print("RUN_OK")
 if __name__ == "__main__":
     headless = os.getenv("HEADLESS", "true").lower() == "true"
-    main(headless=headless)
+    main(headless=False)

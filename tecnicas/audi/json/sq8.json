@@ -1,0 +1,236 @@
+{
+    "vehiculo": {
+        "marca": "Audi",
+        "modelo": "SQ8",
+        "año": null,
+        "versiones": [
+            "PI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PI": "Motor V8 Biturbo 4.0 TFSI"
+        },
+        "cilindrada": {
+            "PI": null
+        },
+        "potencia_hp": {
+            "PI": "507"
+        },
+        "potencia_rpm": {
+            "PI": "5.500"
+        },
+        "torque_nm": {
+            "PI": "770"
+        },
+        "torque_rpm": {
+            "PI": "2.000-4.000"
+        },
+        "combustible": null,
+        "transmision": {
+            "PI": "Tiptronic 8 velocidades"
+        },
+        "traccion": {
+            "PI": "Integral permanente quattro con diferencial deportivo"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Control electrónico de estabilidad",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "PI": "Audi Sport 285/40 R22”"
+        },
+        "rueda_repuesto": "Rueda de repuesto y pernos de seguridad antirrobo"
+    },
+    "dimensiones": {
+        "largo_mm": 5004,
+        "ancho_mm": 2190,
+        "alto_mm": 1708,
+        "distancia_ejes_mm": 2998,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 2315,
+        "capacidad_maletero_lts": "605 / 1755",
+        "capacidad_estanque_lts": 85,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento [km/l]*",
+            "PI": "8,4"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "PI": "4,1 seg"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "PI": "250 km/h"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Comfort Key",
+                "PI": true
+            },
+            {
+                "caracteristica": "Estacionamiento",
+                "PI": "Sensor trasero y delantero, con cámara 360° y park assist"
+            },
+            {
+                "caracteristica": "Focos delanteros",
+                "PI": "Matrix LED con indicador dinámico y lavafaros"
+            },
+            {
+                "caracteristica": "Focos traseros",
+                "PI": "LED con indicador dinámico"
+            },
+            {
+                "caracteristica": "Neumáticos/llantas",
+                "PI": "Audi Sport 285/40 R22”"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "PI": true
+            },
+            {
+                "caracteristica": "Paquete de diseño",
+                "PI": "Retrovisores exteriores en carbono. Parrilla frontal y detalles exteriores en negro. Pinzas de freno en color rojo."
+            },
+            {
+                "caracteristica": "Vidrios traseros tintados",
+                "PI": true
+            },
+            {
+                "caracteristica": "Portalón",
+                "PI": "Apertura y cierre eléctrico con control gestual con el pie"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores",
+                "PI": "Eléctricos con memoria, calefactados, abatibles eléctricamente y antideslumbrantes"
+            },
+            {
+                "caracteristica": "Suspensión",
+                "PI": "Tren de rodaje deportivo con suspensión neumática"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Audi Drive Select",
+                "PI": true
+            },
+            {
+                "caracteristica": "Climatización",
+                "PI": "Automática 4 zonas"
+            },
+            {
+                "caracteristica": "Iluminación",
+                "PI": "LED Multicolor (30 colores), Proyección LED en puertas con logo"
+            },
+            {
+                "caracteristica": "Infotainment",
+                "PI": "MMI Navigation Plus con pantalla Touch 10,1”"
+            },
+            {
+                "caracteristica": "Panel de instrumentos",
+                "PI": "Virtual Cockpit Plus 12,3”"
+            },
+            {
+                "caracteristica": "Phone Box*",
+                "PI": "Sí, con carga inalámbrica para Smartphones"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "PI": "Bang & Olufsen con sonido 3D 19 altavoces + subwoofer - 730W"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "PI": "Cuero Valcona con costura en panal de abejas, logo S en relieve y techo interior en negro"
+            },
+            {
+                "caracteristica": "Conectividad",
+                "PI": "Apple Car Play y Android Auto"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "PI": "Deportivos con ajuste eléctrico y función memoria (conductor), calefactados y con soporte lumbar"
+            },
+            {
+                "caracteristica": "Volante",
+                "PI": "Deportivo multifunción en cuero con costuras rojas y levas de cambio"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Aviso de presión de neumáticos",
+                "PI": true
+            },
+            {
+                "caracteristica": "Airbags frontales, laterales delanteros y de cortina",
+                "PI": true
+            },
+            {
+                "caracteristica": "Audi Pre Sense Basic, Rear y Front",
+                "PI": true
+            },
+            {
+                "caracteristica": "Control Crucero Adaptativo",
+                "PI": true
+            },
+            {
+                "caracteristica": "Retrovisor interior con función antideslumbrante automática",
+                "PI": true
+            },
+            {
+                "caracteristica": "Rueda de repuesto y pernos de seguridad antirrobo",
+                "PI": true
+            },
+            {
+                "caracteristica": "Sensor lluvia y luz",
+                "PI": true
+            },
+            {
+                "caracteristica": "Sistema Start/Stop",
+                "PI": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril, Asistente de frenado avanzado, Attention Assist, Detector de punto ciego, Exit Warning System y Rear Cross Traffic Alert",
+                "PI": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [
+            "Control electrónico de estabilidad"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Plata Satélite",
+        "Blanco Glaciar",
+        "Rojo Fénix",
+        "Azul Ascari",
+        "Gris Daytona",
+        "Negro Mitos",
+        "Azul Waitomo",
+        "Café Sakhir"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-24",
+        "metodo_extraccion": "Lectura directa de ficha técnica Audi (texto/valores tal cual del PDF; 'Sí' -> true cuando aplica)",
+        "fuente": "SQ8-PI.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El documento incluye colores de interior (Negro) además de los colores exteriores."
+    }
+}

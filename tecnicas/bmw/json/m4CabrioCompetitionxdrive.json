@@ -1,0 +1,175 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "M4 Cabrio",
+        "año": null,
+        "versiones": [
+            "Competition xDrive"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Competition xDrive": "6 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "Competition xDrive": 2993
+        },
+        "potencia_hp": {
+            "Competition xDrive": "510"
+        },
+        "potencia_rpm": {
+            "Competition xDrive": "6,250"
+        },
+        "torque_nm": {
+            "Competition xDrive": "650"
+        },
+        "torque_rpm": {
+            "Competition xDrive": "2,750 – 5,500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Competition xDrive": "Automática Steptronic M de 8 velocidades con levas en el volante con Drivelogic (3 modos de ajuste)"
+        },
+        "traccion": "Sistema de tracción integral inteligente M xDrive y diferencial activo M basado en tracción trasera: Opción 4WD, 4WD Sport y 2WD para pura tracción trasera con el control de estabilidad desactivado"
+    },
+    "direccion": {
+        "tipo": "Dirección deportiva M Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Frenos compuestos M rojos con 6 pistones, discos delanteros de 380 mm",
+        "frenos_traseros": "Frenos compuestos M rojos con 1 pistón, discos traseros de 370 mm",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Competition xDrive": "Neumáticos mixtos"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4794,
+        "ancho_mm": 1887,
+        "alto_mm": 1395,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 121,
+        "peso_bruto_kg": 1920,
+        "capacidad_maletero_lts": "385 (300 con capota abierta)",
+        "capacidad_estanque_lts": 59,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "Competition xDrive": "9.8"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "Competition xDrive": "3.7"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros de LED adaptativo",
+            "Faros Láser en luces de carretera automáticas",
+            "Luces de frenos dinámicas",
+            "Sensores de lluvia y luz",
+            "Sensores de estacionamiento delantero y trasero (PDC)",
+            "Cámara de retroceso",
+            "Pintura de acabado metálico",
+            "Llantas de aleación M Competition de rayos dobles forjadas aro 19 delante y aro 20 atrás bicolores con neumáticos mixtos",
+            "Sistema de cámaras en 360° “Surround View”",
+            "Sistema de estacionamiento automático (paralelo)",
+            "Capota eléctrica de tela negra",
+            "Suspensión adaptativa M",
+            "Spoiler trasero M",
+            "Bordes ventanas negro-brillantes BMW Individual Shadow Line",
+            "Deflector de viento",
+            "Edición Competition: Parrilla frontal, espejos retrovisores, spoiler trasero y difusor en negro brillante",
+            "Faros delanteros Shadow Line (oscurecidos)",
+            "Incremento de potencia desde 480 hasta 510 hp",
+            "Sistema de escape M Sport"
+        ],
+        "interior": [
+            "Dirección deportiva M Servotronic",
+            "Computador de abordo",
+            "Modos de conducción Comfort – Sport – Sport+",
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Sistema de acceso sin llaves “Comfort Access”",
+            "Climatizador automático bizona",
+            "Asientos de cuero Merino con contenido extendido",
+            "Asientos delanteros deportivos M multifuncionales con memoria, calefacción y ventilación activa",
+            "Cinturones de seguridad M",
+            "Control de velocidad crucero activo con Stop & Go",
+            "Volante M de cuero deportivo multifunción",
+            "Retrovisor (int/ext) anti-deslumbramiento automático y espejos retrovisores plegables eléctricamente",
+            "Terminaciones interiores en fibra de carbono",
+            "Paquete de iluminación (11 combinaciones)"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Alarma volumétrica",
+            "Kit de reparación de neumáticos",
+            "Start-off Assistant (partida en pendientes)",
+            "Monitor de presión de neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "BMW Active Protection (cierre de vidrios, desbloqueo de puertas en caso de choque)"
+        ],
+        "tecnologia": [
+            "Sistema de sonido surround Harman Kardon (16 altavoces, amplificador de 464W y 9 canales)",
+            "BMW Live Cockpit Professional",
+            "Pantalla de panel de instrumentos digital de 12,3’’",
+            "Pantalla de control de alta resolución (1920x720 pixeles) de 10,25’’",
+            "Sistema operativo BMW iDrive 7.0 con widgets y pantallas personalizables",
+            "Navegador con puntos de referencia en 3D",
+            "Modelos de Micro City",
+            "Búsqueda de direcciones en texto libre y destinos especiales",
+            "Instrucciones y guías con auto zoom",
+            "BMW Intelligent Personal Assistant (“Hola BMW”)",
+            "Mando iDrive Touch",
+            "Bluetooth (streaming/phone)",
+            "Sistema de carga inalámbrica de smartphones",
+            "BMW Head-Up Display (Proyección a todo color en el parabrisas de información relacionada con la conducción y específica de la situación, con control automático de brillo, gráficos 3D para vista de mapas)",
+            "Llave “BMW Display Key” con pantalla táctil e información del vehículo",
+            "Preparación para Apple CarPlay",
+            "Permite conexión inalámbrica con iPhone®",
+            "Visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, TuneIn Radio, Audiobooks)",
+            "M Drive Professional: Incluye M Track Mode, M Laptimer, M Traction control (10 etapas) y M Drift Analyser"
+        ],
+        "adas": [
+            "Driving Assistant Professional",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Asistente de control de línea",
+            "Asistente de evasión",
+            "Advertencia de intersección",
+            "Advertencia de sentido contrario",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura directa de ficha técnica BMW en texto corrido, manteniendo solo datos explícitos del documento",
+        "fuente": "ficha_tecnica_all_new_bmw_m4_cabrio_competition_xdrive.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información explícita de la ficha. Garantía y mantenimiento informados en el documento: Programa BMW 3x3x3 (3 años de mantenciones gratis, asistencia en ruta y garantía)."
+    }
+}

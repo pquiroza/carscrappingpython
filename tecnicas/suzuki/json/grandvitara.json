@@ -1,0 +1,432 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Grand Vitara Hybrid",
+        "año": null,
+        "versiones": [
+            "GL MT 4X2",
+            "GL AT 4X2",
+            "GLX MT 4X2",
+            "GLX AT 4X2",
+            "LIMITED AT 4X4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL MT 4X2": "K15C Micro híbrido 12V-ISG",
+            "GL AT 4X2": "K15C Micro híbrido 12V-ISG",
+            "GLX MT 4X2": "K15C Micro híbrido 12V-ISG",
+            "GLX AT 4X2": "K15C Micro híbrido 12V-ISG",
+            "LIMITED AT 4X4": "K15C Micro híbrido 12V-ISG"
+        },
+        "cilindrada": {
+            "GL MT 4X2": 1462,
+            "GL AT 4X2": 1462,
+            "GLX MT 4X2": 1462,
+            "GLX AT 4X2": 1462,
+            "LIMITED AT 4X4": 1462
+        },
+        "potencia_hp": {
+            "GL MT 4X2": "101",
+            "GL AT 4X2": "101",
+            "GLX MT 4X2": "101",
+            "GLX AT 4X2": "101",
+            "LIMITED AT 4X4": "101"
+        },
+        "potencia_rpm": {
+            "GL MT 4X2": "6.000",
+            "GL AT 4X2": "6.000",
+            "GLX MT 4X2": "6.000",
+            "GLX AT 4X2": "6.000",
+            "LIMITED AT 4X4": "6.000"
+        },
+        "torque_nm": {
+            "GL MT 4X2": "136,8",
+            "GL AT 4X2": "136,8",
+            "GLX MT 4X2": "136,8",
+            "GLX AT 4X2": "136,8",
+            "LIMITED AT 4X4": "136,8"
+        },
+        "torque_rpm": {
+            "GL MT 4X2": "4.400",
+            "GL AT 4X2": "4.400",
+            "GLX MT 4X2": "4.400",
+            "GLX AT 4X2": "4.400",
+            "LIMITED AT 4X4": "4.400"
+        },
+        "combustible": null,
+        "transmision": {
+            "GL MT 4X2": "5MT",
+            "GL AT 4X2": "6AT",
+            "GLX MT 4X2": "5MT",
+            "GLX AT 4X2": "6AT",
+            "LIMITED AT 4X4": "6AT"
+        },
+        "traccion": {
+            "GL MT 4X2": "4X2",
+            "GL AT 4X2": "4X2",
+            "GLX MT 4X2": "4X2",
+            "GLX AT 4X2": "4X2",
+            "LIMITED AT 4X4": "ALLGRIP 4WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente con cremallera y piñón"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GL MT 4X2": "215/60 R17",
+            "GL AT 4X2": "215/60 R17",
+            "GLX MT 4X2": "215/60 R17",
+            "GLX AT 4X2": "215/60 R17",
+            "LIMITED AT 4X4": "215/60 R17"
+        },
+        "rueda_repuesto": "215/60 R17 Acero"
+    },
+    "dimensiones": {
+        "largo_mm": 4345,
+        "ancho_mm": 1795,
+        "alto_mm": 1645,
+        "distancia_ejes_mm": 2600,
+        "despeje_suelo_mm": 210,
+        "peso_bruto_kg": {
+            "GL MT 4X2": 1650,
+            "GL AT 4X2": 1680,
+            "GLX MT 4X2": 1650,
+            "GLX AT 4X2": 1680,
+            "LIMITED AT 4X4": 1755
+        },
+        "capacidad_maletero_lts": {
+            "maleta": 373,
+            "maleta_asientos_abatidos": 1147
+        },
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GL MT 4X2": "14,5",
+            "GL AT 4X2": "16,1",
+            "GLX MT 4X2": "14,5",
+            "GLX AT 4X2": "16,1",
+            "LIMITED AT 4X4": "16,1"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GL MT 4X2": "17,2",
+            "GL AT 4X2": "18,5",
+            "GLX MT 4X2": "17,2",
+            "GLX AT 4X2": "18,5",
+            "LIMITED AT 4X4": "18,5"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GL MT 4X2": "19,6",
+            "GL AT 4X2": "20,0",
+            "GLX MT 4X2": "19,6",
+            "GLX AT 4X2": "20,0",
+            "LIMITED AT 4X4": "20,0"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas de aleación 17\"",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "Llantas de aleación 17\" bitono",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Barras de techo color negro",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "Barras de techo color plata",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Vidrios traseros tinteados",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cargador inalámbrico Qi",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Cargador USB tipo A y C plazas traseras",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil de 7\"",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil de 9\"",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "4 parlantes",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "4 parlantes + 2 tweeters",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Tapiz de tela",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "Tapiz de ecocuero",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor día/noche manual",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": false
+            },
+            {
+                "caracteristica": "Espejo retrovisor día/noche automático",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Parasoles con espejo e iluminación",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Guantera con iluminación",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Iluminación consola central y pies",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Salida 12 V en maletero",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Luz de ambiente habitáculo",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Luz maletero",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Asistencia en descenso - Hill Descent Control",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": false,
+                "GLX AT 4X2": false,
+                "LIMITED AT 4X4": true
+            },
+            {
+                "caracteristica": "Head up display",
+                "GL MT 4X2": false,
+                "GL AT 4X2": false,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Android Auto y Apple CarPlay inalámbrico",
+                "GL MT 4X2": true,
+                "GL AT 4X2": true,
+                "GLX MT 4X2": true,
+                "GLX AT 4X2": true,
+                "LIMITED AT 4X4": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Rueda de repuesto 215/60 R17 Acero",
+            "Embellecedor máscara frontal cromada",
+            "Manillas exteriores color carrocería",
+            "Luces principales delanteras LED",
+            "Luces LED de conducción diurna (DRL)",
+            "Encendido automático de luces",
+            "Luz de posición trasera y freno LED",
+            "Acceso manos libres (Keyless Entry)",
+            "Antena tipo tiburón",
+            "Embellecedor parachoques delantero y trasero color plata",
+            "Espejos retrovisores ajustables eléctricamente",
+            "Espejos retrovisores abatibles eléctricamente",
+            "Espejos retrovisores con intermitentes integrados"
+        ],
+        "interior": [
+            "Cierre central de puertas con comando a distancia",
+            "Salida ventilación asientos traseros",
+            "Botón de partida (Keyless Start)",
+            "Comando de radio al volante",
+            "Control crucero",
+            "Computador a bordo de 4,2\" a color",
+            "Volante regulable en altura y profundidad",
+            "Volante forrado en cuero",
+            "Asiento de conductor ajustable en altura",
+            "Asientos traseros abatibles 60:40",
+            "Climatizador automático",
+            "Alarma luces encendidas",
+            "Apoyabrazos delantero y trasero",
+            "Cubrepisos de alfombra"
+        ],
+        "seguridad": [
+            "ABS + EBD + BAS",
+            "Programa de estabilidad electrónica (ESP)",
+            "Asistencia en pendiente - Hill Hold Control",
+            "Doble airbag frontal",
+            "Doble airbag lateral",
+            "Doble airbag cortina",
+            "Pilares con absorción de energía",
+            "Sensor de estacionamiento trasero",
+            "Inmovilizador antirrobo",
+            "Anclajes Isofix (2)",
+            "Cinturones delanteros con regulación de altura",
+            "Cinturones delanteros con limitación de fuerza",
+            "Cinturones traseros de tres puntas en tres posiciones"
+        ],
+        "tecnologia": [
+            "Android Auto y Apple CarPlay inalámbrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Plata Metálico Perlado",
+        "Azul Metálico Perlado",
+        "Rojo Metálico Perlado",
+        "Blanco Perla",
+        "Café Metálico Perlado",
+        "Gris Metálico Perlado",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica_grand-vitara-hybrid.pdf",
+        "versiones_en_documento": 5,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

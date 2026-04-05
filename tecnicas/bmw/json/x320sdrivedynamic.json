@@ -1,0 +1,149 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "año": null,
+        "versiones": [
+            "20 sDrive Dynamic"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "20 sDrive Dynamic": "Gasolina Mild Hybrid, 4 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "20 sDrive Dynamic": 1998
+        },
+        "potencia_hp": {
+            "20 sDrive Dynamic": "190"
+        },
+        "potencia_rpm": {
+            "20 sDrive Dynamic": "4,400-6,500"
+        },
+        "torque_nm": {
+            "20 sDrive Dynamic": "310"
+        },
+        "torque_rpm": {
+            "20 sDrive Dynamic": "1,500 – 4,000"
+        },
+        "combustible": "Gasolina Mild Hybrid",
+        "transmision": {
+            "20 sDrive Dynamic": "Automática Steptronic de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "20 sDrive Dynamic": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4755,
+        "ancho_mm": 1920,
+        "alto_mm": 1660,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 216,
+        "peso_bruto_kg": 1855,
+        "capacidad_maletero_lts": "570 L (ampliables a 1700 L con asientos reclinados)",
+        "capacidad_estanque_lts": 65,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "20 sDrive Dynamic": "8.5"
+        },
+        {
+            "caracteristica": "Combinado (km/l)",
+            "20 sDrive Dynamic": "13.6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Pintura de acabado metálico",
+            "Llantas de aleación aro 19”",
+            "Rieles de techo portaequipajes en aluminio satinado"
+        ],
+        "interior": [
+            "Climatizador automático bizona",
+            "Asientos Veganza perforado",
+            "Paquete de iluminación interior (incluye Welcome Light Carpet y 6 alternativas)",
+            "Asientos delanteros deportivos con ajuste eléctrico y memoria en piloto",
+            "Operación automática de maletero",
+            "Espejos exteriores abatibles eléctricamente",
+            "Volante deportivo de cuero multifunción",
+            "Revestimiento interior en negro brillante “Dark Graphite”",
+            "Alfombrillas de velours"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Recuperación de energía en frenada",
+            "Control de descenso en pendiente (HDC)",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX"
+        ],
+        "tecnologia": [
+            "Sistema de sonido HiFi",
+            "BMW Live Cockpit Plus: Pantalla de panel de instrumentos digital de 10,25’’ (1920x720 pixeles) y Pantalla de control de alta resolución (1920x960 pixeles) de 10,7’’",
+            "Sistema operativo BMW iDrive 9.0 con widgets y pantallas personalizables",
+            "Preparación para Apple CarPlay y Android Auto",
+            "Permite conexión inalámbrica con iPhone® y dispositivo Android® (visualización de contenido del smartphone: Música, Mensajes/SMS, Teléfono, Apps de terceros seleccionadas (Spotify, Pandora, iHeart Radio, Audiobooks))",
+            "Bandeja para carga inalámbrica de dispositivos móviles"
+        ],
+        "adas": [
+            "Faros delanteros de LED",
+            "Luces de día LED",
+            "Luces de freno dinámicas",
+            "Sensores de lluvia y luz",
+            "Paquete de luces (luces de bienvenida en las puertas, luces ambientes interior: estación de carga smartphone, posavasos)",
+            "Paquete Parking Assistant",
+            "Asistente de estacionamiento automático en paralelo (volante, aceleración, frenos y marchas)",
+            "Control activo de distancia de estacionamiento (previene o minimiza el daño al estacionar en reversa hasta 5 km/h, alertando o frenando el vehículo)",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Modos de conducción (Eco-Pro, Comfort y Sport)",
+            "Función Auto Start-Stop",
+            "Retrovisor int. / ext. anti-deslumbramiento automático",
+            "Start-off Assistant (asistente de partida en pendiente)",
+            "Control de velocidad crucero con función de frenado en pendiente",
+            "Driving Assistant",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-06",
+        "metodo_extraccion": "Lectura de ficha técnica BMW en texto",
+        "fuente": "ficha_tecnica_new_bmw_x3_20_sdrive_dynamic.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo únicamente la información explícitamente indicada en la ficha. Los campos no informados se dejaron en null o vacíos."
+    }
+}

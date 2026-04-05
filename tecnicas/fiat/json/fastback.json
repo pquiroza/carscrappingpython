@@ -1,0 +1,157 @@
+{
+    "vehiculo": {
+        "marca": "Fiat",
+        "modelo": "Fastback",
+        "año": 2026,
+        "versiones": [
+            "DRIVE_TURBO_AT",
+            "IMPETUS_TURBO_AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "DRIVE_TURBO_AT": "1.0 200NM TURBONAFTA",
+            "IMPETUS_TURBO_AT": "1.0 200NM TURBONAFTA"
+        },
+        "numero_cilindros": "3 en línea",
+        "valvulas_por_cilindro": 4,
+        "cilindrada_cc": 999,
+        "potencia_hp": "120 / 5.750",
+        "torque_nm": "200 / 1.750",
+        "combustible": "Nafta",
+        "inyeccion": "Inyección electrónica multipunto",
+        "distribucion": "Cadena \"for life\""
+    },
+    "transmision": {
+        "traccion": "4x2 Delantera",
+        "caja_cambios": "Automática 7 vel. Variador continuo"
+    },
+    "direccion": {
+        "tipo": "Asistencia eléctrica",
+        "diametro_giro_m": 10.5
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson con brazos oscilantes transversales, resortes helicoidales y barra estabilizadora",
+        "suspension_trasera": "Eje de torsión con ruedas semi independientes, resortes helicoidales",
+        "frenos": "Disco / Tambor autocentrante",
+        "neumaticos": {
+            "DRIVE_TURBO_AT": "205 / 50 R17",
+            "IMPETUS_TURBO_AT": "215 / 45 R18"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4427,
+        "ancho_mm": 1774,
+        "alto_mm": 1573,
+        "distancia_ejes_mm": 2533,
+        "despeje_suelo_mm": "192 / 217",
+        "capacidad_baul_lts": 600,
+        "tanque_combustible_lts": 47,
+        "peso_orden_marcha_kg": {
+            "DRIVE_TURBO_AT": 1250,
+            "IMPETUS_TURBO_AT": 1261
+        }
+    },
+    "tabla_comparativa_prestaciones": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "DRIVE_TURBO_AT": 190,
+            "IMPETUS_TURBO_AT": 190
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "DRIVE_TURBO_AT": 10.2,
+            "IMPETUS_TURBO_AT": 10.2
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "diseno": [
+            {
+                "caracteristica": "Carrocería bi-tono",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Tapizado en cuero ecológico",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Llantas 17”",
+                "DRIVE_TURBO_AT": true,
+                "IMPETUS_TURBO_AT": false
+            },
+            {
+                "caracteristica": "Llantas 18” negras",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Techo solar panorámico",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de mantención en carril (LKA)",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Sistema de mantenimiento de cambio de carril activo",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            },
+            {
+                "caracteristica": "Frenado autónomo de emergencia (AEB)",
+                "DRIVE_TURBO_AT": false,
+                "IMPETUS_TURBO_AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "2 Airbags frontales",
+            "2 Airbags laterales (protección tórax y cabeza)",
+            "Alarma",
+            "ESC + TC",
+            "ABS + EBD",
+            "Control de tracción avanzado + ABS off road",
+            "HLA",
+            "TPMS",
+            "ISOFIX",
+            "Cinturones delanteros regulables en altura",
+            "Cinturones posteriores de 3 puntos"
+        ],
+        "confort": [
+            "Climatizador digital automático",
+            "Cierre centralizado + TC",
+            "Levantacristales eléctricos one-touch",
+            "Dirección asistida eléctricamente",
+            "Control de velocidad crucero",
+            "Freno de parking eléctrico y autohold",
+            "Asiento posterior plegable"
+        ],
+        "tecnologia": [
+            "Central multimedia 8,4” (Drive)",
+            "Central multimedia 10,1” NAV (Impetus)",
+            "Android Auto & Apple CarPlay inalámbrico",
+            "Cargador inalámbrico",
+            "Puertos USB tipo A+C",
+            "Paddle Shift"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta de tablas comparativas PDF",
+        "fuente": "FIAT New Fastback Ficha Técnica 2026.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se respetaron marcadores de presencia/ausencia según tabla visual."
+    }
+}

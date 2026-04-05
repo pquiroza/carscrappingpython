@@ -1,0 +1,223 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "TANK 500",
+        "año": null,
+        "versiones": [
+            "4WD"
+        ]
+    },
+    "pdf": "ficha-tank-500_euro-6-c_290925_v1.pdf",
+    "motor": {
+        "tipo": {
+            "4WD": "Gasolina V6 3.0 Turbo"
+        },
+        "cilindrada_l": {
+            "4WD": "3.0 Turbo"
+        },
+        "potencia_hp_rpm": {
+            "4WD": "349 / 6.000"
+        },
+        "torque_nm_rpm": {
+            "4WD": "500 / 1.800 - 4.500"
+        },
+        "traccion": {
+            "4WD": "4x4 con caja reductora"
+        },
+        "norma_emision": {
+            "4WD": "Euro VI C"
+        },
+        "transmision": {
+            "4WD": "Automática de 9 velocidades"
+        },
+        "direccion": {
+            "4WD": "Piñón y cremallera"
+        }
+    },
+    "chasis_y_suspension": {
+        "suspension_delantera": {
+            "4WD": "Independiente de doble brazo oscilante"
+        },
+        "suspension_trasera": {
+            "4WD": "Dependiente de enlace múltiple"
+        },
+        "frenos": {
+            "4WD": "Discos delanteros / traseros"
+        },
+        "neumaticos": {
+            "4WD": "265/55 R19 marca Continental"
+        }
+    },
+    "dimensiones_y_capacidades": {
+        "largo_ancho_alto_mm": {
+            "4WD": "5.078 x 1.934 x 1905"
+        },
+        "distancia_entre_ejes_mm": {
+            "4WD": "2.850"
+        },
+        "peso_bruto_vehicular_kg": {
+            "4WD": "3.040"
+        },
+        "pasajeros": {
+            "4WD": 7
+        },
+        "maletero_l": {
+            "4WD": "795 / 1.489 (3ra fila / 2da abatida)"
+        },
+        "estanque_l": {
+            "4WD": "80"
+        },
+        "rendimiento_ciudad_km_l": {
+            "4WD": "6,1"
+        },
+        "rendimiento_mixto_km_l": {
+            "4WD": "8,6"
+        },
+        "rendimiento_carretera_km_l": {
+            "4WD": "11,1"
+        }
+    },
+    "equipamiento": {
+        "interior": [
+            "Climatizador bizona primera fila",
+            "Climatizador segunda fila",
+            "Salida superior aire tercera fila",
+            "Purificador de aire",
+            "Modo confort aire acondicionado",
+            "Sistema de fragancias",
+            "Alzavidrios antiatrape one touch 1ra y 2da fila",
+            "Botón keyless",
+            "HUD",
+            "Panel digital 12.3\"",
+            "Pantalla 14.6\" CarPlay Android Auto inalámbrico",
+            "Cargador inalámbrico",
+            "USB parabrisas",
+            "USB piloto (A + C)",
+            "USB doble segunda fila",
+            "Sistema audio Infinity 12 parlantes",
+            "Revestimiento suave puertas delanteras",
+            "Interior detalles madera",
+            "Freno mano electrónico",
+            "Autohold",
+            "Palanca cambios electrónica",
+            "Volante ecocuero calefaccionado",
+            "Volante eléctrico con memoria",
+            "Volante 3 niveles rigidez",
+            "Paletas cambio",
+            "Start/Stop",
+            "Parasol espejo y luz",
+            "Cortina segunda fila",
+            "Reloj análogo panel",
+            "Tapiz ecocuero",
+            "Asientos 1ra y 2da fila calefaccionados ventilados",
+            "Asientos delanteros con masaje",
+            "Asiento conductor eléctrico 8p memoria",
+            "Asiento pasajero eléctrico 6p memoria",
+            "Soporte lumbar eléctrico 4p",
+            "Memoria asiento conductor + espejos + volante",
+            "Asiento segunda fila 60:40",
+            "Tercera fila eléctrica",
+            "Apoyabrazos delantero refrigerado",
+            "Apoyabrazos segunda fila",
+            "Luz techo",
+            "Luces lectura",
+            "Luz maletero y 3ra fila",
+            "Estuche gafas",
+            "Espejo central electrocrómico",
+            "Toma 12V delantera y trasera",
+            "Enchufe 220V maletero 400W",
+            "Asa pilar 1ra y 2da fila",
+            "Cubre equipaje desmontable"
+        ],
+        "exterior": [
+            "Luces principales LED automáticas",
+            "Neblineros delanteros con encendido al girar",
+            "Neblineros traseros LED",
+            "Luces altas inteligentes",
+            "Luneta trasera con defroster",
+            "Señalización LED",
+            "Luces traseras LED",
+            "Follow me home",
+            "Llanta aleación aro 19\"",
+            "Portalón manual auto-succión",
+            "Entrada sin llave proximidad",
+            "Llaves inteligentes (2)",
+            "Sensor lluvia",
+            "Barras techo",
+            "Pisaderas eléctricas",
+            "Techo panorámico configurable",
+            "Espejos defroster plegables con luz señalización"
+        ],
+        "seguridad": [
+            "Airbags frontales / laterales / cortina",
+            "ESP Bosch",
+            "TCS",
+            "RMI",
+            "SCM",
+            "HHC",
+            "HDC",
+            "TPMS",
+            "Sensores delanteros (6) y traseros (6)",
+            "Cámara 360°",
+            "Cinturones con pretensor",
+            "Cinturones 3 puntas todos ocupantes",
+            "Aviso cinturones desabrochados 1ra y 2da fila",
+            "ISOFIX (2)",
+            "Seguro niños eléctrico",
+            "Cierre automático conducción",
+            "Aviso puertas abiertas",
+            "Inmovilizador",
+            "Desbloqueo automático por colisión",
+            "Corte automático combustible"
+        ],
+        "adas": [
+            "ACC",
+            "IACC",
+            "Asistente curvas inteligente",
+            "LDW",
+            "LKA",
+            "ELK + asistente rebase",
+            "TSR",
+            "Alarma exceso velocidad",
+            "SAS",
+            "RCTA + RCTB",
+            "FCW",
+            "AEB",
+            "AEB-P y AEB-B",
+            "DOW",
+            "RCW",
+            "Estacionamiento asistido",
+            "BSW"
+        ],
+        "offroad": {
+            "control_crucero_offroad": true,
+            "modos_conduccion": "Auto, Normal, Sport, Eco, Nieve, Lodo, Arena, 4H, 4L, Roca",
+            "modo_experto_configurable": true,
+            "informacion_offroad_en_pantalla": true,
+            "brujula": true,
+            "indicador_angulos_altitud_presion": true,
+            "bloqueo_diferencial_trasero_electrico": true,
+            "asistente_giro_frenado_tab": true,
+            "camara_chasis_transparente": true,
+            "despeje_suelo_mm": "224",
+            "capacidad_vadeo_mm": "700",
+            "angulo_ataque_salida": "30º / 24º",
+            "capacidad_arrastre_kg_con_sin_freno": "2.500 / 750",
+            "chasis_tipo_bastidor": true,
+            "rueda_repuesto_tamano_completo": true
+        }
+    },
+    "colores": [
+        "Blanco",
+        "Plata"
+    ],
+    "garantia": {
+        "general": "6 años o 200.000 km",
+        "motor_transmision": "10 años o 1.000.000 km"
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Normalización estructurada desde extracto entregado, sin agregar información externa",
+        "versiones_en_documento": 1
+    }
+}

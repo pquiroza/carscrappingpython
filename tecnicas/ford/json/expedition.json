@@ -1,0 +1,280 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "EXPEDITION",
+        "año": null,
+        "versiones": [
+            "PLATINUM"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "PLATINUM": "3.5L Ecoboost V6"
+        },
+        "cilindrada": 3.5,
+        "potencia_hp": {
+            "PLATINUM": "400"
+        },
+        "potencia_rpm": {
+            "PLATINUM": "5200"
+        },
+        "torque_nm": {
+            "PLATINUM": "650"
+        },
+        "torque_rpm": {
+            "PLATINUM": "3300"
+        },
+        "combustible": null,
+        "transmision": {
+            "PLATINUM": "10AT Select Shift"
+        },
+        "traccion": {
+            "PLATINUM": "4WD"
+        }
+    },
+    "direccion": {
+        "tipo": "EPAS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": {
+            "PLATINUM": "Disco"
+        },
+        "frenos_traseros": {
+            "PLATINUM": "Disco"
+        },
+        "neumaticos": {
+            "PLATINUM": "P275/50R22 All season"
+        },
+        "llantas": {
+            "PLATINUM": "22” Ebony Bright Machined Face Aluminum Wheels"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5332,
+        "ancho_mm": "2403 / 2070 / 2149",
+        "alto_mm": 1981,
+        "distancia_ejes_mm": 3112,
+        "despeje_suelo_mm": 221,
+        "peso_bruto_kg": {
+            "PLATINUM": 2571
+        },
+        "capacidad_maletero_lts": {
+            "3ra_fila_l": 612,
+            "2da_fila_l": 1722,
+            "maxima_l": 3072
+        },
+        "capacidad_estanque_lts": 89
+    },
+    "tabla_comparativa_tecnica": [
+        {
+            "caracteristica": "Terrain Management System",
+            "PLATINUM": "Normal, Eco, Deportivo, Remolque, Resbaladizo, Todoterreno"
+        },
+        {
+            "caracteristica": "Auto Start-Stop",
+            "PLATINUM": true
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Barras techo",
+                "PLATINUM": "Cromadas"
+            },
+            {
+                "caracteristica": "Techo panorámico eléctrico",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Iluminación 360°",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Portalón trasero multifunción",
+                "PLATINUM": "Eléctrico / apertura dividida / convertible en asiento o plataforma de carga"
+            },
+            {
+                "caracteristica": "Kit remolque",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Estribos eléctricos",
+                "PLATINUM": "Pintadas en negro Ebony"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla panorámica configurable",
+                "PLATINUM": "24\""
+            },
+            {
+                "caracteristica": "Climatizador",
+                "PLATINUM": "3 Zonas"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "PLATINUM": "Eléctrico 10 posiciones / climatizados (calor/frío) / memoria"
+            },
+            {
+                "caracteristica": "Asiento pasajero",
+                "PLATINUM": "Eléctrico 8 posiciones / climatizados (calor/frío)"
+            },
+            {
+                "caracteristica": "Segunda fila",
+                "PLATINUM": "40/20/40 calefaccionada / abatimiento eléctrico"
+            },
+            {
+                "caracteristica": "Tercera fila",
+                "PLATINUM": "40/20/40 reclinación y abatimiento eléctrico"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "PLATINUM": "Cuero perforado"
+            },
+            {
+                "caracteristica": "Volante",
+                "PLATINUM": "Eléctrico / memoria / calefaccionado / forrado en cuero"
+            },
+            {
+                "caracteristica": "Pedales ajustables eléctricos",
+                "PLATINUM": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags conductor y pasajero",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Airbags cortina (incluye tercera fila)",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Airbags laterales delanteros",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Alarma perimetral",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Sistema Securilock",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "ABS 4 ruedas",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Control electrónico estabilidad",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Control tracción",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "TPMS",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Sistema frenado post-colisión",
+                "PLATINUM": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "SYNC 4",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Pantalla central",
+                "PLATINUM": "13.2\""
+            },
+            {
+                "caracteristica": "Sistema audio",
+                "PLATINUM": "Bang & Olufsen / 22 parlantes con subwoofer"
+            },
+            {
+                "caracteristica": "Carga inalámbrica",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Puertos USB",
+                "PLATINUM": "6 (2 delanteros A/C, 2 segunda fila A/C, 2 tercera fila A)"
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control crucero adaptativo Stop & Go",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Lane Centering",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Auto High-Beam",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "BLIS con seguimiento remolque",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Reconocimiento señales velocidad",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Asistente precolisión con AEB",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Asistente frenado reversa",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Asistente intersección 2.2",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "Pro Trailer Backup Assist",
+                "PLATINUM": true
+            },
+            {
+                "caracteristica": "ELSD",
+                "PLATINUM": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [],
+        "interior": [],
+        "exterior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Gris Celeste",
+        "Gris Glaciar",
+        "Gris Oscuro",
+        "Negro Universo",
+        "Blanco Oxford",
+        "Blanco Metálico",
+        "Azul Mineral"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por versión única",
+        "fuente": "fcl-ficha-tecnica-expedition.pdf",
+        "versiones_en_documento": 1,
+        "notas": null
+    }
+}

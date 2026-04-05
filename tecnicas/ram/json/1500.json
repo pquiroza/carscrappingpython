@@ -1,0 +1,666 @@
+{
+    "vehiculo": {
+        "marca": "RAM",
+        "modelo": "1500",
+        "año": 2026,
+        "versiones": [
+            "BIGHORN NIGHT EDITION",
+            "BIGHORN",
+            "REBEL",
+            "LARAMIE"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "BIGHORN NIGHT EDITION": "Pentastar E-torque Mild Hybrid",
+            "BIGHORN": "Hurricane 6 SO",
+            "REBEL": "Hurricane 6 SO",
+            "LARAMIE": "Hurricane 6 SO"
+        },
+        "cilindrada": {
+            "BIGHORN NIGHT EDITION": "3.6L",
+            "BIGHORN": "3.0L",
+            "REBEL": "3.0L",
+            "LARAMIE": "3.0L"
+        },
+        "potencia_hp": {
+            "BIGHORN NIGHT EDITION": "305",
+            "BIGHORN": "420",
+            "REBEL": "420",
+            "LARAMIE": "420"
+        },
+        "potencia_rpm": {
+            "BIGHORN NIGHT EDITION": "6.400",
+            "BIGHORN": "5.000",
+            "REBEL": "5.000",
+            "LARAMIE": "5.000"
+        },
+        "torque_nm": {
+            "BIGHORN NIGHT EDITION": "365",
+            "BIGHORN": "635",
+            "REBEL": "635",
+            "LARAMIE": "635"
+        },
+        "torque_rpm": {
+            "BIGHORN NIGHT EDITION": "4.800",
+            "BIGHORN": "3.500",
+            "REBEL": "3.500",
+            "LARAMIE": "3.500"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "BIGHORN NIGHT EDITION": "AT 8",
+            "BIGHORN": "AT 8",
+            "REBEL": "AT 8",
+            "LARAMIE": "AT 8"
+        },
+        "traccion": "4x4"
+    },
+    "direccion": {
+        "tipo": "Piñon y cremallera con asistencia eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión independiente con resortes helicoidales, bandeja superior e inferior, con amortiguadores heavy duty y barras estabilizadoras",
+        "suspension_trasera": "Suspensión multilink independiente con resortes helicoidales, bandeja superior e inferior, con amortiguadores heavy duty y barras estabilizadoras",
+        "frenos_delanteros": "Frenos de disco en las 4 ruedas con sistema ABS",
+        "frenos_traseros": "Frenos de disco en las 4 ruedas con sistema ABS",
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "BIGHORN NIGHT EDITION": "275/55R20 AS LRR",
+            "BIGHORN": "275/55R20 BSW All Terrain",
+            "REBEL": "LT275/70R18 BSW All Terrain",
+            "LARAMIE": "275/55R20 AS LRR"
+        },
+        "rueda_repuesto": "18\""
+    },
+    "dimensiones": {
+        "largo_mm": {
+            "BIGHORN NIGHT EDITION": 5916,
+            "BIGHORN": 5916,
+            "REBEL": 5916,
+            "LARAMIE": 5916
+        },
+        "ancho_mm": {
+            "BIGHORN NIGHT EDITION": 2310,
+            "BIGHORN": 2310,
+            "REBEL": 2340,
+            "LARAMIE": 2320
+        },
+        "alto_mm": {
+            "BIGHORN NIGHT EDITION": 1971,
+            "BIGHORN": 1971,
+            "REBEL": 1971,
+            "LARAMIE": "1.971 (modo normal)"
+        },
+        "distancia_ejes_mm": {
+            "BIGHORN NIGHT EDITION": 3670,
+            "BIGHORN": 3670,
+            "REBEL": 3670,
+            "LARAMIE": 3670
+        },
+        "despeje_suelo_mm": {
+            "BIGHORN NIGHT EDITION": 221,
+            "BIGHORN": 221,
+            "REBEL": 274,
+            "LARAMIE": 300
+        },
+        "peso_bruto_kg": {
+            "BIGHORN NIGHT EDITION": 3130,
+            "BIGHORN": 3130,
+            "REBEL": 3220,
+            "LARAMIE": 3220
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": {
+            "BIGHORN NIGHT EDITION": 98,
+            "BIGHORN": 98,
+            "REBEL": 98,
+            "LARAMIE": 98
+        },
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento Mixto",
+            "BIGHORN NIGHT EDITION": "9,3",
+            "BIGHORN": "8,3",
+            "REBEL": "8,3",
+            "LARAMIE": "8,3"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad",
+            "BIGHORN NIGHT EDITION": "6,2",
+            "BIGHORN": "6,4",
+            "REBEL": "6,4",
+            "LARAMIE": "6,4"
+        },
+        {
+            "caracteristica": "Rendimiento carretera",
+            "BIGHORN NIGHT EDITION": "12,9",
+            "BIGHORN": "10",
+            "REBEL": "10",
+            "LARAMIE": "10"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Capot de diseño deportivo",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Placas de protección para tanque de combustible, caja de transferencia, suspensión delantera y mecanismo de dirección",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio 20\" color negro brillante",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio 20\" cromadas",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio 18\" color negro",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Llantas de aluminio 20\" diamantadas bitono",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Parachoques color carrocería",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Parachoques cromados",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Parachoques negros con diseño off road",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Pisaderas fijas color negro",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Pisaderas fijas cromadas",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Pisaderas eléctricas desplegables automáticamente",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos calefaccionados color negro",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Espejos laterales eléctricos calefaccionados color negro brillante",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Espejos laterales con memoria",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Head-Up display",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": "Opcional",
+                "LARAMIE": "Opcional"
+            },
+            {
+                "caracteristica": "Manejo avanzado con autonomía Hands free",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": "Opcional"
+            },
+            {
+                "caracteristica": "Sensor Lluvia",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asientos traseros calefaccionados",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros ventilados",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con memoria",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con ajuste lumbar eléctrico",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asientos en tela",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Asientos en cuero",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asientos trasero abatible 60/40",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Asientos trasero reclinable 60/40",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asiento del conductor con ajuste eléctrico en 8 posiciones",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asiento del pasajero con ajuste eléctrico en 8 posiciones",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asiento del pasajero con ajuste manual en 4 posiciones",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Pedales eléctricos ajustables",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Pedales eléctricos ajustables con memoria",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Sunroof doble panorámico",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control de descenso Selec-Speed*",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "6 airbags",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Sistema de anclaje para asientos infantiles LATCH",
+                "BIGHORN NIGHT EDITION": 3,
+                "BIGHORN": 3,
+                "REBEL": 3,
+                "LARAMIE": 3
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Encendido automático de luces y control automáticos de faros de luz alta",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Control de crucero adaptativo con sistema stop and go",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asistente activo de mantenimiento de carril",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Reconocimiento de señales de tráfico",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Alerta de colisión frontal",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Frenado de emergencia para peatones o ciclistas",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Frenado automático de emergencia",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamientos delanteros y traseros",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado trasero",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asistente a la colisión de tráfico cruzado",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asistencia de maniobra evasiva",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Cámara de visión trasera parkview",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Sistema de detección de fatiga",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Asistencia de frenado avanzado",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Google Android auto/ Apple Carplay",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Puerto USB tipo C",
+                "BIGHORN NIGHT EDITION": 4,
+                "BIGHORN": 4,
+                "REBEL": 5,
+                "LARAMIE": 5
+            },
+            {
+                "caracteristica": "Puerto USB tipo A",
+                "BIGHORN NIGHT EDITION": 2,
+                "BIGHORN": 2,
+                "REBEL": 3,
+                "LARAMIE": 3
+            },
+            {
+                "caracteristica": "Entrada HDMI",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Tablero de instrumentos 7\"",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": false,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Tablero de instrumentos 12\"",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": true,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Pantalla táctil 12\"",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Pantalla táctil 14.4\"",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Pantalla interactiva pasajero delantero",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "BIGHORN NIGHT EDITION": 1,
+                "BIGHORN": 1,
+                "REBEL": 2,
+                "LARAMIE": 2
+            },
+            {
+                "caracteristica": "Sonido con 9 parlantes amplificados subwoofer",
+                "BIGHORN NIGHT EDITION": true,
+                "BIGHORN": true,
+                "REBEL": false,
+                "LARAMIE": false
+            },
+            {
+                "caracteristica": "Sonido premium Harman Kardon® con 19 parlantes",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            },
+            {
+                "caracteristica": "Espejos laterales con memoria",
+                "BIGHORN NIGHT EDITION": false,
+                "BIGHORN": false,
+                "REBEL": true,
+                "LARAMIE": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Ganchos para tiro y gancho para remolque",
+            "Enganche receptor de clase IV",
+            "Vidrio protector tintado con protector solar",
+            "Ventana corrediza eléctrica trasera",
+            "Neblineros delanteros LED",
+            "Neblineros traseros",
+            "Rueda de repuesto 18\"",
+            "Toma corriente exterior 115V",
+            "Cubre pickup con protección bedliner",
+            "Espejos de abatimiento eléctrico y automático"
+        ],
+        "interior": [
+            "Climatizador dual",
+            "Volante calefaccionado",
+            "Volante cuero con ajuste en altura y profundidad",
+            "Almacenamiento de compartimiento debajo del asiento trasero",
+            "Compartimientos de almacenamiento en el piso de segunda fila",
+            "Pisos de calce perfecto delanteros y traseros"
+        ],
+        "seguridad": [
+            "Alarma",
+            "Control electrónico de estabilidad (ESC)",
+            "Asistencia de arranque en pendientes",
+            "Control de tracción",
+            "Mitigación electrónica antivuelco",
+            "Amortiguación de balanceo del remolque",
+            "Detección de punto ciego y cruce de trayectoria",
+            "Frenos de disco en las 4 ruedas con sistema ABS",
+            "6 airbags",
+            "Freno de estacionamiento eléctrico",
+            "Control de freno del remolque",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)"
+        ],
+        "tecnologia": [
+            "Navegación GPS",
+            "Sistema de arranque remoto con sistema Keyless",
+            "Botón de arranque",
+            "Entrada remota sin llave",
+            "Sistema follow me home",
+            "Espejos laterales eléctricos con desempañador y luz de cortesia",
+            "Espejos laterales abatibles electricamente con luz de giro",
+            "Sensor apagado de faros",
+            "Freno de mano eléctrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Molten",
+        "Rojo Delmonico",
+        "Azul Hydro",
+        "Blanco Alaska",
+        "Blanco Ivory",
+        "Plata Zynith",
+        "Gris Granite",
+        "Negro Diamond",
+        "Azul Forged",
+        "Verde Canyon",
+        "Verde Serrano"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica RAM (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "RAM-1500_2026 (1).pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó la información técnica, dimensiones, pickup, equipamiento diferencial por versión y equipamiento estándar cuando aparece en todas las versiones. Los campos marcados como opcional se dejaron como texto \"Opcional\"."
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "vehiculo": {
+        "marca": "GWM",
+        "modelo": "Haval Jolion Híbrido",
+        "año": 2026,
+        "versiones": [
+            "ELITE_2WD",
+            "DELUXE_2WD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "todas_versiones": "1.5 (ICE) 4 cilindros 16V + motor eléctrico"
+        },
+        "cilindrada": 1.5,
+        "potencia_hp": {
+            "ELITE_2WD": "94 (ICE) + 154 (Eléctrica)",
+            "DELUXE_2WD": "94 (ICE) + 154 (Eléctrica)"
+        },
+        "potencia_rpm": {
+            "ELITE_2WD": "6000 (ICE)",
+            "DELUXE_2WD": "6000 (ICE)"
+        },
+        "torque_nm": {
+            "ELITE_2WD": "125 (ICE) + 250 (Eléctrico)",
+            "DELUXE_2WD": "125 (ICE) + 250 (Eléctrico)"
+        },
+        "torque_rpm": {
+            "ELITE_2WD": "4400-5200 (ICE)",
+            "DELUXE_2WD": "4400-5200 (ICE)"
+        },
+        "combustible": null,
+        "transmision": {
+            "todas_versiones": "Automática DHT"
+        },
+        "traccion": {
+            "todas_versiones": "2WD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente de tipo McPherson",
+        "suspension_trasera": "Barra de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "todas_versiones": "225/55 R18"
+        },
+        "rueda_repuesto": "Kit de reparación de neumáticos"
+    },
+    "dimensiones": {
+        "largo_mm": 4472,
+        "ancho_mm": 1841,
+        "alto_mm": 1574,
+        "distancia_ejes_mm": 2700,
+        "despeje_suelo_mm": 163,
+        "peso_bruto_kg": {
+            "ELITE_2WD": 1940,
+            "DELUXE_2WD": 1940
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 55
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento (ciudad) Km/L",
+            "ELITE_2WD": "30,4",
+            "DELUXE_2WD": "30,4"
+        },
+        {
+            "caracteristica": "Rendimiento (mixto) Km/L",
+            "ELITE_2WD": "18,2",
+            "DELUXE_2WD": "18,2"
+        },
+        {
+            "caracteristica": "Rendimiento (carretera) Km/L",
+            "ELITE_2WD": "14,8",
+            "DELUXE_2WD": "14,8"
+        }
+    ],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "ELITE_2WD": "225/55 R18",
+            "DELUXE_2WD": "225/55 R18"
+        },
+        {
+            "caracteristica": "Llantas",
+            "ELITE_2WD": "Aleación bi-tono aro 18\"",
+            "DELUXE_2WD": "Aleación bi-tono aro 18\""
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto vehicular (Kg)",
+            "ELITE_2WD": 1940,
+            "DELUXE_2WD": 1940
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad de pasajeros",
+            "ELITE_2WD": 5,
+            "DELUXE_2WD": 5
+        },
+        {
+            "caracteristica": "Capacidad estanque de combustible (L)",
+            "ELITE_2WD": 55,
+            "DELUXE_2WD": 55
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "ELITE_2WD": "Trasero (3)",
+                "DELUXE_2WD": "Trasero (6) + delanteros (6)"
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Sistema de estacionamiento asistido",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales con defroster",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Sunroof panorámico con apertura y cortina",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Dos llaves inteligentes",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Apertura de puertas delanteras sin llave (Keyless)",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Alzavidrios one-touch anti-atrape",
+                "ELITE_2WD": "Conductor (one-touch + anti-atrape)",
+                "DELUXE_2WD": "Cuatro puertas (one-touch + anti-atrape)"
+            },
+            {
+                "caracteristica": "Radio touch (tamaño)",
+                "ELITE_2WD": "10,3\"",
+                "DELUXE_2WD": "12,3\""
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celulares",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": false
+            },
+            {
+                "caracteristica": "Selector de modos de conducción",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": "Estándar, Eco, Sport, Nieve"
+            },
+            {
+                "caracteristica": "Modos de dirección",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": "Sport, Comfort, Leve"
+            },
+            {
+                "caracteristica": "Asiento conductor",
+                "ELITE_2WD": "Manual 6 posiciones",
+                "DELUXE_2WD": "Eléctrico 6 posiciones"
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central anti-encandilamiento",
+                "ELITE_2WD": "Manual",
+                "DELUXE_2WD": "Eléctrico"
+            },
+            {
+                "caracteristica": "Luz central de techo",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Luces laterales asientos traseros",
+                "ELITE_2WD": true,
+                "DELUXE_2WD": false
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio touch (tamaño)",
+                "ELITE_2WD": "10,3\"",
+                "DELUXE_2WD": "12,3\""
+            },
+            {
+                "caracteristica": "Cargador inalámbrico para celulares",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "AAC",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "IACC",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Líneas auxiliares de pista en tablero",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "LDW",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "LKA",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "LCK",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "LCA",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "BSW",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "ELK",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "FCW",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "AEB",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "AEB-P",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "AEB-B",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Frenado automático en curva",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Asistencia de esquiva de emergencia",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "Aviso de tráfico trasero y frenado automático",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            },
+            {
+                "caracteristica": "TSR",
+                "ELITE_2WD": false,
+                "DELUXE_2WD": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales (2)",
+            "Airbags laterales (2)",
+            "Airbags cortina (2)",
+            "Columna de dirección colapsable",
+            "Frenos de discos en las 4 ruedas",
+            "Frenos con ABS y EBD",
+            "Control electrónico de estabilidad Bosch (ESP)",
+            "Control de tracción (TCS)",
+            "Asistencia hidráulica al frenado (HBA)",
+            "Sistema electrónico de anti vuelco (RMI)",
+            "Asistencia de frenado de colisión secundaria (SCM)",
+            "Sistema de anulación de frenos",
+            "Asistente de partida en pendiente (HHC)",
+            "Control de descenso (HDC)",
+            "Sistema de monitoreo de presión de neumáticos (TPMS)",
+            "Cámara de retroceso",
+            "Cinturones de seguridad de 3 puntas con pretensor",
+            "Aviso de cinturón desabrochado en asientos delanteros",
+            "Anclaje ISOFIX asientos traseros (2)",
+            "Seguro puertas para niños",
+            "Cierre automático de puertas (15 km/h)",
+            "Aviso de puertas abiertas",
+            "Aviso de luces encendidas",
+            "Inmovilizador antirrobo y alarma",
+            "Desbloqueo de puertas automático en caso de colisión",
+            "Corte automático de combustible en caso de colisión",
+            "Activación señalizadores en frenado de emergencia"
+        ],
+        "interior": [
+            "Climatizador bizona",
+            "Salidas de aire para asientos traseros",
+            "Indicador temperatura exterior",
+            "Alzavidrios eléctricos",
+            "Cierre centralizado",
+            "Botón keyless de encendido y apagado de motor",
+            "Computador a bordo",
+            "Panel de instrumentos digital de 7\" (LCD)",
+            "Volumen de la radio con ajuste automático",
+            "Puerto USB en parabrisas delantero",
+            "Puerto USBs en consola central delantera (2) y asientos traseros (2)",
+            "Número de parlantes (6)",
+            "Freno de mano eléctrico",
+            "Asistencia de frenado en detención (Autohold)",
+            "Volante con control de radio, teléfono y velocidad crucero",
+            "Volante forrado en ecocuero",
+            "Volante ajustable en altura",
+            "Asiento copiloto con regulación manual de 4 posiciones",
+            "Asientos con tapiz de ecocuero",
+            "Apoyabrazos delantero y trasero con posavasos",
+            "Asientos traseros con 3 apoyacabezas",
+            "Asientos traseros abatibles 60:40",
+            "Toma de corriente 12V",
+            "Parasol piloto con espejo y luz",
+            "Luz trasera en sector de equipaje",
+            "Cubre equipaje desmontable",
+            "Kit de reparación de neumáticos"
+        ],
+        "exterior": [
+            "Focos principales LED con regulación de altura",
+            "Luces de circulación diurna",
+            "Sensor de encendido automático de luces",
+            "Focos con función follow me home",
+            "Neblinero trasero",
+            "Espejos retrovisores laterales con ajuste eléctrico",
+            "Espejos retrovisores plegables electrónicamente",
+            "Señalizador de viraje en espejos retrovisores laterales",
+            "Luneta trasera con defroster",
+            "Vidrios traseros tinteados (laterales y traseros)",
+            "Limpiaparabrisas con sensor de lluvia",
+            "Spoiler trasero",
+            "Barras de techo",
+            "Llantas de aleación bi-tono aro 18\"",
+            "Antena tipo aleta con amplificador de señal",
+            "Cierre de vidrios a distancia"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Gris metalizado",
+        "Blanco titanio",
+        "Azul zafiro",
+        "Rojo granate",
+        "Negro perlado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-20",
+        "metodo_extraccion": "Conversión de JSON de ficha técnica a formato estándar (●=true, -=false)",
+        "fuente": "ficha-jolion-hibrido-02_2026.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Se convirtió desde base_specs_or_equipment (Especificaciones/Interior/Exterior/Seguridad Activa y Pasiva/Asistencia Avanzada a la Conducción) al formato estándar de tu pipeline."
+    }
+}

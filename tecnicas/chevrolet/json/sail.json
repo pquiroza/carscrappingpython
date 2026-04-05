@@ -1,0 +1,249 @@
+{
+    "vehiculo": {
+        "marca": "Chevrolet",
+        "modelo": "SAIL",
+        "año": null,
+        "versiones": [
+            "SAIL NB 1.5L LT MT",
+            "SAIL NB 1.5L LTZ MT",
+            "SAIL NB 1.5L LTZ CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "SAIL NB 1.5L LT MT": "1.5, DOHC",
+            "SAIL NB 1.5L LTZ MT": "1.5, DOHC",
+            "SAIL NB 1.5L LTZ CVT": "1.5, DOHC"
+        },
+        "cilindrada": {
+            "SAIL NB 1.5L LT MT": 1.5,
+            "SAIL NB 1.5L LTZ MT": 1.5,
+            "SAIL NB 1.5L LTZ CVT": 1.5
+        },
+        "potencia_hp": {
+            "SAIL NB 1.5L LT MT": "98",
+            "SAIL NB 1.5L LTZ MT": "98",
+            "SAIL NB 1.5L LTZ CVT": "98"
+        },
+        "potencia_rpm": {
+            "SAIL NB 1.5L LT MT": "5.800 rpm",
+            "SAIL NB 1.5L LTZ MT": "5.800 rpm",
+            "SAIL NB 1.5L LTZ CVT": "5.800 rpm"
+        },
+        "torque_nm": {
+            "SAIL NB 1.5L LT MT": "142",
+            "SAIL NB 1.5L LTZ MT": "142",
+            "SAIL NB 1.5L LTZ CVT": "142"
+        },
+        "torque_rpm": {
+            "SAIL NB 1.5L LT MT": "4.400 rpm",
+            "SAIL NB 1.5L LTZ MT": "4.400 rpm",
+            "SAIL NB 1.5L LTZ CVT": "4.400 rpm"
+        },
+        "combustible": null,
+        "transmision": {
+            "SAIL NB 1.5L LT MT": "Manual de 6 velocidades",
+            "SAIL NB 1.5L LTZ MT": "Manual de 6 velocidades",
+            "SAIL NB 1.5L LTZ CVT": "Automática (Continua Variable)"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente Mc Pherson",
+        "suspension_trasera": "Eje de torsión",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "SAIL NB 1.5L LT MT": "185/60R15",
+            "SAIL NB 1.5L LTZ MT": "185/60R15",
+            "SAIL NB 1.5L LTZ CVT": "185/60R15"
+        },
+        "rueda_repuesto": "√"
+    },
+    "dimensiones": {
+        "largo_mm": 4490,
+        "ancho_mm": 1695,
+        "alto_mm": 1490,
+        "distancia_ejes_mm": 2550,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": {
+            "SAIL NB 1.5L LT MT": 1550,
+            "SAIL NB 1.5L LTZ MT": 1550,
+            "SAIL NB 1.5L LTZ CVT": 1600
+        },
+        "capacidad_maletero_lts": 475,
+        "capacidad_estanque_lts": 45,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento carretera (Km/Lt)",
+            "SAIL NB 1.5L LT MT": "18,6",
+            "SAIL NB 1.5L LTZ MT": "18,6",
+            "SAIL NB 1.5L LTZ CVT": "18,9"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (Km/Lt)",
+            "SAIL NB 1.5L LT MT": "15,0",
+            "SAIL NB 1.5L LTZ MT": "15,0",
+            "SAIL NB 1.5L LTZ CVT": "14,7"
+        },
+        {
+            "caracteristica": "Rendimiento ciudad (Km/Lt)",
+            "SAIL NB 1.5L LT MT": "11,3",
+            "SAIL NB 1.5L LTZ MT": "11,3",
+            "SAIL NB 1.5L LTZ CVT": "10,6"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Antena en el techo tipo tiburon",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Parrilla con detalles cromados y negro brillante",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Tapas de ruedas",
+                "SAIL NB 1.5L LT MT": true,
+                "SAIL NB 1.5L LTZ MT": false,
+                "SAIL NB 1.5L LTZ CVT": false
+            },
+            {
+                "caracteristica": "Tipo de llantas",
+                "SAIL NB 1.5L LT MT": "Acero, 15",
+                "SAIL NB 1.5L LTZ MT": "Aleación, 15",
+                "SAIL NB 1.5L LTZ CVT": "Aleación, 15 Bitono"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado manual",
+                "SAIL NB 1.5L LT MT": true,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": false
+            },
+            {
+                "caracteristica": "Aire acondicionado con Display digital en pantalla de radio",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": false,
+                "SAIL NB 1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Apoyabrazos central",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": false,
+                "SAIL NB 1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Asientos de Tela",
+                "SAIL NB 1.5L LT MT": "Negro",
+                "SAIL NB 1.5L LTZ MT": "Gris Oscuro",
+                "SAIL NB 1.5L LTZ CVT": "Gris Oscuro"
+            },
+            {
+                "caracteristica": "Asientos traseros abatibles",
+                "SAIL NB 1.5L LT MT": "100",
+                "SAIL NB 1.5L LTZ MT": "60/40",
+                "SAIL NB 1.5L LTZ CVT": "60/40"
+            },
+            {
+                "caracteristica": "Radio USB, AUX y Bluetooth",
+                "SAIL NB 1.5L LT MT": true,
+                "SAIL NB 1.5L LTZ MT": false,
+                "SAIL NB 1.5L LTZ CVT": false
+            },
+            {
+                "caracteristica": "Radio Touchscreen de 8\" con Android auto y Carplay",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cámara de Retroceso con líneas guía",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": true
+            },
+            {
+                "caracteristica": "Sensor de retroceso",
+                "SAIL NB 1.5L LT MT": false,
+                "SAIL NB 1.5L LTZ MT": true,
+                "SAIL NB 1.5L LTZ CVT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos retrovisores externos color carrocería, con ajuste eléctrico y luz direccional",
+            "Focos delanteros tipo proyector hálogenos",
+            "Focos traseros LED",
+            "Limpiaparabrisas delantero intermitente con velocidad variable",
+            "Luces de conducción diurna LED",
+            "Rueda de Repuesto"
+        ],
+        "interior": [
+            "Alzavidrios eléctricos en 4 puertas (Conductor One Touch)",
+            "Asiento conductor y copiloto regulable en profundidad y reclinables",
+            "Cierre centralizado",
+            "Cierre centralizado a distancia",
+            "Pantalla de información 3.5\" (TFT)",
+            "4 parlantes",
+            "Control de radio al volante",
+            "Espejos retrovisor interior manual (día/noche)",
+            "2 puertos USB: 1 de carga y 1 de transmisión de datos",
+            "1 conexión de 12V en la segunda fila"
+        ],
+        "seguridad": [
+            "6 Airbags: frontales (2), laterales (2) y cortina (2)",
+            "Alerta de cinturón de seguridad en todas las posiciones (delanteras y traseras)",
+            "Frenos ABS + EBD",
+            "Control electrónico de estabilidad (ESC)",
+            "Tensionador de cinturones",
+            "Anclajes ISOFIX",
+            "Inmovilizador Antirobo",
+            "Apoyacabezas regulables en altura",
+            "Carrocería con zonas de deformación programada",
+            "Cinturones delanteros y traseros de 3 puntas",
+            "Seguro para niños en puertas traseras",
+            "Sistema de monitoreo de presión de neumáticos (TPMS) (Indirecto)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Burdeo Metálico",
+        "Blanco Metálico",
+        "Azul Cielo Metálico",
+        "Gris Metálico",
+        "Plata Metálico",
+        "Negro Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-25",
+        "metodo_extraccion": "Lectura de ficha técnica Chevrolet (ticket negro=presente, -=no presente; texto/valores tal cual)",
+        "fuente": "ft-sail-chile.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Se extrajo la tabla completa (Interior, Exterior, Motor, Dimensiones y Capacidades, Seguridad, Rendimientos y Colores). En 'Negro Metálico' aparece como no disponible para SAIL NB 1.5L LTZ CVT (marcado con -)."
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A 200",
+        "año": null,
+        "versiones": [
+            "A 200 Progressive Pure",
+            "A 200 Progressive Advanced",
+            "A 200 AMG Advanced"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "A 200 Progressive Pure": "4 cilindros en línea",
+            "A 200 Progressive Advanced": "4 cilindros en línea",
+            "A 200 AMG Advanced": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "A 200 Progressive Pure": 1332,
+            "A 200 Progressive Advanced": 1332,
+            "A 200 AMG Advanced": 1332
+        },
+        "potencia_hp": {
+            "A 200 Progressive Pure": "163 CV (+14CV)",
+            "A 200 Progressive Advanced": "163 CV (+14CV)",
+            "A 200 AMG Advanced": "163 CV (+14CV)"
+        },
+        "potencia_rpm": {
+            "A 200 Progressive Pure": null,
+            "A 200 Progressive Advanced": null,
+            "A 200 AMG Advanced": null
+        },
+        "torque_nm": {
+            "A 200 Progressive Pure": "270 Nm (+150NM)",
+            "A 200 Progressive Advanced": "270 Nm (+150NM)",
+            "A 200 AMG Advanced": "270 Nm (+150NM)"
+        },
+        "torque_rpm": {
+            "A 200 Progressive Pure": null,
+            "A 200 Progressive Advanced": null,
+            "A 200 AMG Advanced": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "A 200 Progressive Pure": "7G-DCT",
+            "A 200 Progressive Advanced": "7G-DCT",
+            "A 200 AMG Advanced": "7G-DCT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "A 200 Progressive Pure": null,
+            "A 200 Progressive Advanced": null,
+            "A 200 AMG Advanced": null
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "355 / 820",
+        "capacidad_estanque_lts": 43,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (Km/l)",
+            "A 200 Progressive Pure": "17,1",
+            "A 200 Progressive Advanced": "17,1",
+            "A 200 AMG Advanced": "17,1"
+        },
+        {
+            "caracteristica": "Velocidad máxima (Km/h)",
+            "A 200 Progressive Pure": "225",
+            "A 200 Progressive Advanced": "225",
+            "A 200 AMG Advanced": "225"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "A 200 Progressive Pure": "8,2s",
+            "A 200 Progressive Advanced": "8,2s",
+            "A 200 AMG Advanced": "8,2s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Línea exterior",
+                "A 200 Progressive Pure": "Progressive Package Line",
+                "A 200 Progressive Advanced": "Progressive Package Line",
+                "A 200 AMG Advanced": "AMG Package Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "A 200 Progressive Pure": "17 pulgadas y 5 radios dobles color negro",
+                "A 200 Progressive Advanced": "17 pulgadas y 5 radios dobles color negro",
+                "A 200 AMG Advanced": "18 pulgadas y 5 radios dobles color negro"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": "Incluye sistema de antideslumbrante automático",
+                "A 200 AMG Advanced": "Incluye sistema de antideslumbrante automático"
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": "Con tecnología de cierre automático en caso de lluvia",
+                "A 200 AMG Advanced": "Con tecnología de cierre automático en caso de lluvia"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "A 200 Progressive Pure": "Cuero ARTICO",
+                "A 200 Progressive Advanced": "Cuero ARTICO",
+                "A 200 AMG Advanced": "Cuero ARTICO con microfibra"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "A 200 Progressive Pure": "Confort con apoyo lumbar",
+                "A 200 Progressive Advanced": "Con ajuste eléctrico y función memoria",
+                "A 200 AMG Advanced": "Con ajuste eléctrico y función memoria"
+            },
+            {
+                "caracteristica": "Volante",
+                "A 200 Progressive Pure": "Deportivo multifunción en cuero con levas en los costados",
+                "A 200 Progressive Advanced": "Deportivo multifunción en cuero con levas en los costados",
+                "A 200 AMG Advanced": "Deportivo multifunción en cuero con levas en los costados"
+            },
+            {
+                "caracteristica": "Molduras",
+                "A 200 Progressive Pure": "En efecto carbono oscuro",
+                "A 200 Progressive Advanced": "En efecto carbono oscuro",
+                "A 200 AMG Advanced": "Microfibra"
+            },
+            {
+                "caracteristica": "Respaldos traseros abatibles (40/20/40)",
+                "A 200 Progressive Pure": "Aumentando espacio en maletero a 820 Litros",
+                "A 200 Progressive Advanced": "Aumentando espacio en maletero a 820 Litros",
+                "A 200 AMG Advanced": "Aumentando espacio en maletero a 820 Litros"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Incluye Windowbags y Airbags de Rodillas",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Acceso Keyless-Go",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia Activo",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": "Incluye alarma con sensores volumétricos",
+                "A 200 AMG Advanced": "Incluye alarma con sensores volumétricos"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara marcha atrás",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": "Incluye asistencia al estacionado PARKTRONIC",
+                "A 200 AMG Advanced": "Incluye asistencia al estacionado PARKTRONIC"
+            },
+            {
+                "caracteristica": "Faros LED High Performance",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": "Incluye luces de carretera automáticas con cálido tono blanco uniforme",
+                "A 200 AMG Advanced": "Incluye luces de carretera automáticas con cálido tono blanco uniforme"
+            },
+            {
+                "caracteristica": "Neumáticos con propiedades de rodaje de emergencia",
+                "A 200 Progressive Pure": false,
+                "A 200 Progressive Advanced": "Neumáticos con pared lateral para soportar el peso del vehículo si el neumático pierde aire",
+                "A 200 AMG Advanced": "Neumáticos con pared lateral para soportar el peso del vehículo si el neumático pierde aire"
+            },
+            {
+                "caracteristica": "Información desgaste de frenos y presión de neumáticos",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Asistente activo para viento lateral",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Attention Assist (Aviso de cansancio)",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Función Hold para retención",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Perfiles MBUX personalizables",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "A 200 Progressive Pure": "<<Hey Mercedes>>",
+                "A 200 Progressive Advanced": "<<Hey Mercedes>>",
+                "A 200 AMG Advanced": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador del cuadro de instrumentos digital",
+                "A 200 Progressive Pure": "Pantalla de 10,25 pulgadas",
+                "A 200 Progressive Advanced": "Pantalla de 10,25 pulgadas",
+                "A 200 AMG Advanced": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "A 200 Progressive Pure": "Pantalla de 10,25 pulgadas",
+                "A 200 Progressive Advanced": "Pantalla de 10,25 pulgadas",
+                "A 200 AMG Advanced": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Integración Smartphone inalámbrico",
+                "A 200 Progressive Pure": "Incluye sistema de carga inalámbrico delante",
+                "A 200 Progressive Advanced": "Incluye sistema de carga inalámbrico delante",
+                "A 200 AMG Advanced": "Incluye sistema de carga inalámbrico delante"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "A 200 Progressive Pure": "Incluye manejo de temperatura por voz",
+                "A 200 Progressive Advanced": "Incluye manejo de temperatura por voz",
+                "A 200 AMG Advanced": "Incluye manejo de temperatura por voz"
+            },
+            {
+                "caracteristica": "Paquete USB Plus de carga rápida",
+                "A 200 Progressive Pure": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras",
+                "A 200 Progressive Advanced": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras",
+                "A 200 AMG Advanced": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "A 200 Progressive Pure": "Permite una adaptación personalizada en10 niveles de atenuación y en 4 zonas",
+                "A 200 Progressive Advanced": "Permite una adaptación personalizada en10 niveles de atenuación y en 4 zonas",
+                "A 200 AMG Advanced": "Permite una adaptación personalizada en10 niveles de atenuación y en 4 zonas"
+            },
+            {
+                "caracteristica": "Tempomat - Control crucero",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            },
+            {
+                "caracteristica": "Aviso del uso de cinturones de seguridad traseros",
+                "A 200 Progressive Pure": true,
+                "A 200 Progressive Advanced": true,
+                "A 200 AMG Advanced": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-27",
+        "metodo_extraccion": "Lectura de tablas de ficha técnica Mercedes-Benz (✓=true, vacío=false; regla adicional: si el ✓ o el texto está centrado, aplica a todas las versiones; texto/valores tal cual)",
+        "fuente": "Ficha _tecnica Clase A compacta - Digital.pdf",
+        "versiones_en_documento": 3,
+        "notas": "Corrección aplicada: cuando el ✓ o el valor aparece centrado (celda fusionada), se replicó en las 3 versiones."
+    }
+}

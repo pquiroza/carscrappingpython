@@ -1,0 +1,203 @@
+{
+  "vehiculo": {
+    "marca": "TOYOTA",
+    "modelo": "Yaris Cross",
+    "año": null,
+    "versiones": [
+      "XI eCVT",
+      "XG eCVT"
+    ]
+  },
+  "motor": {
+    "tipo": "Híbrido",
+    "cilindrada": "1496",
+    "potencia_hp": "90",
+    "potencia_rpm": "5500",
+    "torque_nm": "141",
+    "torque_rpm": "3600",
+    "combustible": "Gasolina",
+    "transmision": "eCVT",
+    "traccion": "4X2"
+  },
+  "direccion": {
+    "tipo": "Eléctrica"
+  },
+  "suspension_frenos": {
+    "suspension_delantera": "McPherson",
+    "suspension_trasera": "Barra de torsión",
+    "frenos_delanteros": "Discos Ventilados",
+    "frenos_traseros": "Discos",
+    "neumaticos": "215/60 R17",
+    "rueda_repuesto": "195/65R16"
+  },
+  "dimensiones": {
+    "largo_mm": "4310",
+    "ancho_mm": "1770",
+    "alto_mm": "1615",
+    "distancia_ejes_mm": null,
+    "despeje_suelo_mm": "210",
+    "peso_bruto_kg": null,
+    "capacidad_maletero_lts": "466",
+    "capacidad_estanque_lts": "36"
+  },
+  "tabla_comparativa_ruedas": [
+    {
+      "caracteristica": "Llantas",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    }
+  ],
+  "tabla_comparativa_peso": [
+    {
+      "caracteristica": "Peso neto (kg)",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    }
+  ],
+  "tabla_comparativa_capacidades": [
+    {
+      "caracteristica": "Carga útil (kg)",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    },
+    {
+      "caracteristica": "Número de pasajeros",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    }
+  ],
+  "tabla_comparativa_rendimiento": [
+    {
+      "caracteristica": "Ciudad (km/lts)",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    },
+    {
+      "caracteristica": "Carretera (km/lts)",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    },
+    {
+      "caracteristica": "Mixto (km/lts)",
+      "XI eCVT": "",
+      "XG eCVT": ""
+    }
+  ],
+  "equipamiento_diferencial_detallado": {
+    "interior": [
+      {
+        "caracteristica": "Sistema de iluminacion interior",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Sistema de Control de Luces",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Techo panoramico",
+        "XI eCVT": false,
+        "XG eCVT": true
+      }
+    ],
+    "exterior": [
+      {
+        "caracteristica": "Smart Door",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Focos delanteros",
+        "XI eCVT": "LED",
+        "XG eCVT": "LED High"
+      },
+      {
+        "caracteristica": "Sensor estacionamiento",
+        "XI eCVT": "Trasero",
+        "XG eCVT": "Delantero + Trasero"
+      }
+    ],
+    "seguridad": [
+      {
+        "caracteristica": "Sistema de Pre-Colision (PCW - PCB)",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Sistema de Luces Altas Automaticas (AHB)",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Control de Velocidad Crucero Adaptativo (ACC)",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Control de mantenimiento de carril (LKA)",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Aviso de salida de carril (LDW)",
+        "XI eCVT": false,
+        "XG eCVT": true
+      },
+      {
+        "caracteristica": "Prevención de salida de carril (LDP)",
+        "XI eCVT": false,
+        "XG eCVT": true
+      }
+    ],
+    "tecnologia": [
+      {
+        "caracteristica": "Aire Acondicionado",
+        "XI eCVT": "A/C",
+        "XG eCVT": "Climatizador"
+      }
+    ]
+  },
+  "equipamiento_estandar_todas_versiones": {
+    "interior": [
+      "Pantalla Informacion tablero TFT 7\"",
+      "Audio 10,1\" con Android Auto y Apple Car Play inalambrico",
+      "Parlantes 6",
+      "Mando al volante",
+      "Puerto USB-C (Delantero + Trasero)",
+      "Freno Mano EPD (Eléctronico)",
+      "Espejo retrovisor Day & Night",
+      "Material asientos Tela",
+      "Ajuste asiento delantero Manual",
+      "Cubre equipaje",
+      "Asientos traseros abatibles 60:40"
+    ],
+    "exterior": [
+      "Llanta aleacion 17\"",
+      "Sistema de llave inteligente - Smart Key",
+      "Camara retroceso Trasera",
+      "Spoiler de techo",
+      "Rieles de techo",
+      "Limpia parabrisas delantero Con ajuste de velocidad",
+      "Ajuste Luces Delanteras",
+      "Neblineros",
+      "Luces diurnas",
+      "Espejo retrovisor Eléctricos + Señ."
+    ],
+    "seguridad": [
+      "Alerta cinturón de seguridad (conductor + pasajero + segunda corrida)",
+      "Frenos ABS con distribución electronica de frenado (EBD)",
+      "Control de estabilidad (VSC)",
+      "Asistencia de Arranque en Pendientes (HAC)",
+      "Anclaje ISOFIX",
+      "N° Airbag 6"
+    ]
+  },
+  "metadata": {
+    "fecha_extraccion": "2026-02-17",
+    "metodo_extraccion": "OCR + Claude API",
+    "fuente": "Yaris_Cross_ViboVe1.pdf",
+    "versiones_en_documento": 2,
+    "notas": "Vehículo híbrido con motor 1.5L + sistema eléctrico de 35HP. Potencia máxima combinada según fabricante."
+  }
+}

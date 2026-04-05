@@ -1,0 +1,586 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "GS3 POWER",
+        "año": null,
+        "versiones": [
+            "1.5 GS MT",
+            "1.5 GS AT",
+            "1.5T GB MT",
+            "1.5 GB AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "1.5 GS MT": "E-Turbo/GCCS/DCVVT",
+            "1.5 GS AT": "E-Turbo/GCCS/DCVVT",
+            "1.5T GB MT": "E-Turbo/GCCS/DCVVT",
+            "1.5 GB AT": "E-Turbo/GCCS/DCVVT"
+        },
+        "cilindrada": {
+            "1.5 GS MT": 1493,
+            "1.5 GS AT": 1495,
+            "1.5T GB MT": 1493,
+            "1.5 GB AT": 1495
+        },
+        "potencia_hp": {
+            "1.5 GS MT": "147",
+            "1.5 GS AT": "157",
+            "1.5T GB MT": "147",
+            "1.5 GB AT": "157"
+        },
+        "potencia_rpm": {
+            "1.5 GS MT": "5500",
+            "1.5 GS AT": "5500",
+            "1.5T GB MT": "5500",
+            "1.5 GB AT": "5500"
+        },
+        "torque_nm": {
+            "1.5 GS MT": "220",
+            "1.5 GS AT": "250",
+            "1.5T GB MT": "220",
+            "1.5 GB AT": "250"
+        },
+        "torque_rpm": {
+            "1.5 GS MT": "1500 - 4000",
+            "1.5 GS AT": "1700 - 4000",
+            "1.5T GB MT": "1500 - 4000",
+            "1.5 GB AT": "1700 - 4000"
+        },
+        "combustible": null,
+        "transmision": {
+            "1.5 GS MT": "6 MT",
+            "1.5 GS AT": "6 AT",
+            "1.5T GB MT": "6 MT",
+            "1.5 GB AT": "6 AT"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electroasistida EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Frontal: McPherson Independent Suspension",
+        "suspension_trasera": "Trasera: Barra de torsión",
+        "frenos_delanteros": "Discos 4 Ruedas",
+        "frenos_traseros": "Discos 4 Ruedas",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "1.5 GS MT": "215 / 60 R17",
+            "1.5 GS AT": "215 / 60 R17",
+            "1.5T GB MT": "215 / 60 R17",
+            "1.5 GB AT": "215 / 55 R18"
+        },
+        "rueda_repuesto": "Uso temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4350,
+        "ancho_mm": 1825,
+        "alto_mm": 1685,
+        "distancia_ejes_mm": 2560,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "370 / 780L",
+        "capacidad_estanque_lts": 50,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo Km/L (Urbano)",
+            "1.5 GS MT": "11,9",
+            "1.5 GS AT": "9,7",
+            "1.5T GB MT": "11,9",
+            "1.5 GB AT": "9,7"
+        },
+        {
+            "caracteristica": "Consumo Km/L (Mixto)",
+            "1.5 GS MT": "15,4",
+            "1.5 GS AT": "12,8",
+            "1.5T GB MT": "15,4",
+            "1.5 GB AT": "12,8"
+        },
+        {
+            "caracteristica": "Consumo Km/L (Carretera)",
+            "1.5 GS MT": "18,5",
+            "1.5 GS AT": "15,8",
+            "1.5T GB MT": "18,5",
+            "1.5 GB AT": "15,8"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Llantas",
+                "1.5 GS MT": "Aleación",
+                "1.5 GS AT": "Aleación",
+                "1.5T GB MT": "Aleación",
+                "1.5 GB AT": "Aleación"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "1.5 GS MT": "215 / 60 R17",
+                "1.5 GS AT": "215 / 60 R17",
+                "1.5T GB MT": "215 / 60 R17",
+                "1.5 GB AT": "215 / 55 R18"
+            },
+            {
+                "caracteristica": "Rueda de repuesto uso temporal",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Compresor de emergencia para neumáticos",
+                "1.5 GS MT": true,
+                "1.5 GS AT": false,
+                "1.5T GB MT": false,
+                "1.5 GB AT": false
+            },
+            {
+                "caracteristica": "Faros delanteros",
+                "1.5 GS MT": "Halógenos / Leading lights",
+                "1.5 GS AT": "LED / Leading lights",
+                "1.5T GB MT": "Halógenos / Leading lights",
+                "1.5 GB AT": "LED / Leading lights"
+            },
+            {
+                "caracteristica": "Luces traseras LED",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Luces LED modo diurno",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Luces antiniebla delanteras",
+                "1.5 GS MT": false,
+                "1.5 GS AT": false,
+                "1.5T GB MT": false,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Luces antiniebla traseras",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Espejos laterales con ajuste eléctricos",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Luz interior",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Espejo de cortesía",
+                "1.5 GS MT": 2,
+                "1.5 GS AT": 2,
+                "1.5T GB MT": 2,
+                "1.5 GB AT": 2
+            },
+            {
+                "caracteristica": "Parasol",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Porta anteojos",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Porta documentos",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Porta vasos",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Climatizador",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "1.5 GS MT": true,
+                "1.5 GS AT": false,
+                "1.5T GB MT": false,
+                "1.5 GB AT": false
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "1.5 GS MT": "Mix tela Eco-Cuero",
+                "1.5 GS AT": "Mix tela Eco-Cuero",
+                "1.5T GB MT": "Eco-Cuero",
+                "1.5 GB AT": "Eco-Cuero"
+            },
+            {
+                "caracteristica": "Asiento del conductor con ajuste manual en 6 posiciones",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Asientos calefaccionados",
+                "1.5 GS MT": false,
+                "1.5 GS AT": false,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Alza vidrio conductor one touch",
+                "1.5 GS MT": "Piloto",
+                "1.5 GS AT": "Piloto",
+                "1.5T GB MT": "Piloto",
+                "1.5 GB AT": "Piloto"
+            },
+            {
+                "caracteristica": "Apoya brazos central de la segunda fila con portavasos",
+                "1.5 GS MT": false,
+                "1.5 GS AT": false,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado de segunda fila",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Asientos abatibles 60/40 segunda fila",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Parabrisas trasero desempañado y descongelado",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Techo corredizo eléctrico con protección contra atascos",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag frontal delantero",
+                "1.5 GS MT": "Piloto/Copiloto",
+                "1.5 GS AT": "Piloto/Copiloto",
+                "1.5T GB MT": "Piloto/Copiloto",
+                "1.5 GB AT": "Piloto/Copiloto"
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "1.5 GS MT": 2,
+                "1.5 GS AT": 2,
+                "1.5T GB MT": 2,
+                "1.5 GB AT": 2
+            },
+            {
+                "caracteristica": "Freno de mano eléctrico",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": false,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Control de presión de neumáticos (TPMS)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Asientos delanteros con cinturones de seguridad pretensionados",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Asientos de la segunda fila con cinturones de seguridad de tres puntos",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Alarma de no uso de cinturón de seguridad asiento del conductor (luz y campanilla)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Alarma desatada del cinturón de seguridad del asiento del pasajero delantero (luz y campanilla)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Distribución de fuerza de frenado eléctrico (EBD)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Control electrónico de estabilidad (ESP)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Ayuda de arranque en pendiente (HHC)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Ayuda de descenso en pendientes (HDC)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Anclajes de asiento de seguridad para niños ISOFix",
+                "1.5 GS MT": 2,
+                "1.5 GS AT": 2,
+                "1.5T GB MT": 2,
+                "1.5 GB AT": 2
+            },
+            {
+                "caracteristica": "Seguro de niños en puertas trasera",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Desbloqueo de puerta con sensor de impacto",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador del motor (con alarma antirrobo)",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Radio",
+                "1.5 GS MT": null,
+                "1.5 GS AT": "Touch 10,25”",
+                "1.5T GB MT": "Touch 10,25”",
+                "1.5 GB AT": "Touch 10,25”"
+            },
+            {
+                "caracteristica": "Sistema de audio y video",
+                "1.5 GS MT": null,
+                "1.5 GS AT": "CarPlay",
+                "1.5T GB MT": "CarPlay",
+                "1.5 GB AT": "CarPlay"
+            },
+            {
+                "caracteristica": "Parlantes",
+                "1.5 GS MT": 2,
+                "1.5 GS AT": 4,
+                "1.5T GB MT": 4,
+                "1.5 GB AT": 4
+            },
+            {
+                "caracteristica": "Puerto USB primera fila",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Puerto USB segunda fila",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Sistema de teléfono manos libre Bluetooth",
+                "1.5 GS MT": true,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Control de crucero",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso con sistema de guías dinámicas de estacionamiento",
+                "1.5 GS MT": false,
+                "1.5 GS AT": false,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Botón START/STOP",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Modo de conducción ECO DRIVE",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": false,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Modo de conducción SPORT",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": false,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Encendido motor a distancia",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            },
+            {
+                "caracteristica": "Sistema de apertura y cierre de puertas por proximidad",
+                "1.5 GS MT": false,
+                "1.5 GS AT": true,
+                "1.5T GB MT": true,
+                "1.5 GB AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Llantas (Aleación)",
+            "Luces traseras LED",
+            "Luces antiniebla traseras",
+            "Espejos laterales con ajuste eléctricos"
+        ],
+        "interior": [
+            "Luz interior",
+            "Espejo de cortesía (2)",
+            "Parasol",
+            "Porta anteojos",
+            "Porta documentos",
+            "Porta vasos",
+            "Volante multifuncional",
+            "Asiento del conductor con ajuste manual en 6 posiciones",
+            "Asientos abatibles 60/40 segunda fila",
+            "Parabrisas trasero desempañado y descongelado",
+            "Alza vidrio conductor one touch (Piloto)"
+        ],
+        "seguridad": [
+            "Airbag frontal delantero (Piloto/Copiloto)",
+            "Airbags laterales (2)",
+            "Control de presión de neumáticos (TPMS)",
+            "Asientos delanteros con cinturones de seguridad pretensionados",
+            "Asientos de la segunda fila con cinturones de seguridad de tres puntos",
+            "Alarma de no uso de cinturón de seguridad asiento del conductor (luz y campanilla)",
+            "Alarma desatada del cinturón de seguridad del asiento del pasajero delantero (luz y campanilla)",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Distribución de fuerza de frenado eléctrico (EBD)",
+            "Control electrónico de estabilidad (ESP)",
+            "Ayuda de arranque en pendiente (HHC)",
+            "Ayuda de descenso en pendientes (HDC)",
+            "Anclajes de asiento de seguridad para niños ISOFix (2)",
+            "Seguro de niños en puertas trasera",
+            "Desbloqueo de puerta con sensor de impacto",
+            "Inmovilizador del motor (con alarma antirrobo)"
+        ],
+        "tecnologia": [
+            "Puerto USB primera fila",
+            "Sistema de teléfono manos libre Bluetooth"
+        ],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_GS3-POWER.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Colores aparecen solo como muestras sin nombre en el documento."
+    }
+}

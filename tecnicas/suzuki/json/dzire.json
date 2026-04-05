@@ -1,0 +1,337 @@
+{
+    "vehiculo": {
+        "marca": "Suzuki",
+        "modelo": "Dzire Hybrid",
+        "año": null,
+        "versiones": [
+            "GL MT",
+            "GL CVT",
+            "GLX MT",
+            "GLX CVT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GL MT": "Z12E mild hybrid",
+            "GL CVT": "Z12E mild hybrid",
+            "GLX MT": "Z12E mild hybrid",
+            "GLX CVT": "Z12E mild hybrid"
+        },
+        "cilindrada": {
+            "GL MT": 1197,
+            "GL CVT": 1197,
+            "GLX MT": 1197,
+            "GLX CVT": 1197
+        },
+        "potencia_hp": {
+            "GL MT": "80",
+            "GL CVT": "80",
+            "GLX MT": "80",
+            "GLX CVT": "80"
+        },
+        "potencia_rpm": {
+            "GL MT": "5.700",
+            "GL CVT": "5.700",
+            "GLX MT": "5.700",
+            "GLX CVT": "5.700"
+        },
+        "torque_nm": {
+            "GL MT": "111,7",
+            "GL CVT": "111,7",
+            "GLX MT": "111,7",
+            "GLX CVT": "111,7"
+        },
+        "torque_rpm": {
+            "GL MT": "4.300",
+            "GL CVT": "4.300",
+            "GLX MT": "4.300",
+            "GLX CVT": "4.300"
+        },
+        "combustible": null,
+        "transmision": {
+            "GL MT": "Mecánica",
+            "GL CVT": "CVT",
+            "GLX MT": "Mecánica",
+            "GLX CVT": "CVT"
+        },
+        "traccion": "Delantera"
+    },
+    "direccion": {
+        "tipo": "Piñón y cremallera asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Tipo McPherson",
+        "suspension_trasera": "Barra de torsión con resorte",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Tambor y Zapata",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GL MT": "165/80 R14",
+            "GL CVT": "165/80 R14",
+            "GLX MT": "185/65 R15",
+            "GLX CVT": "185/65 R15"
+        },
+        "rueda_repuesto": "135/70 R15 uso temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 3995,
+        "ancho_mm": 1735,
+        "alto_mm": 1525,
+        "distancia_ejes_mm": 2450,
+        "despeje_suelo_mm": 145,
+        "peso_bruto_kg": {
+            "GL MT": 1375,
+            "GL CVT": 1400,
+            "GLX MT": 1375,
+            "GLX CVT": 1400
+        },
+        "capacidad_maletero_lts": 378,
+        "capacidad_estanque_lts": 37,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "GL MT": "22,2",
+            "GL CVT": "23,3",
+            "GLX MT": "22,2",
+            "GLX CVT": "23,3"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "GL MT": "24,4",
+            "GL CVT": "24,4",
+            "GLX MT": "24,4",
+            "GLX CVT": "24,4"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "GL MT": "26,3",
+            "GL CVT": "24,4",
+            "GLX MT": "26,3",
+            "GLX CVT": "24,4"
+        },
+        {
+            "caracteristica": "Norma de emisiones",
+            "GL MT": "Euro 6C",
+            "GL CVT": "Euro 6C",
+            "GLX MT": "Euro 6C",
+            "GLX CVT": "Euro 6C"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Luces LED con encendido automático",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Luces halógenas",
+                "GL MT": true,
+                "GL CVT": true,
+                "GLX MT": false,
+                "GLX CVT": false
+            },
+            {
+                "caracteristica": "Neblineros delanteros LED",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Luces de posición trasera y freno LED",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Luces con sistema Follow Me Home",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Moldura cromada en ventanas laterales",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Llantas de acero R14",
+                "GL MT": true,
+                "GL CVT": true,
+                "GLX MT": false,
+                "GLX CVT": false
+            },
+            {
+                "caracteristica": "Llantas de aleación R15 bitono",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "GL MT": true,
+                "GL CVT": true,
+                "GLX MT": false,
+                "GLX CVT": false
+            },
+            {
+                "caracteristica": "Aire acondicionado con climatizador",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Botón de partida (Keyless Start)",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Apertura de maleta a distancia",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles eléctricamente",
+                "GL MT": true,
+                "GL CVT": true,
+                "GLX MT": false,
+                "GLX CVT": false
+            },
+            {
+                "caracteristica": "Espejos retrovisores abatibles eléctricamente (Auto)",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil 7 pulgadas",
+                "GL MT": true,
+                "GL CVT": true,
+                "GLX MT": false,
+                "GLX CVT": false
+            },
+            {
+                "caracteristica": "Radio multimedia con pantalla táctil 9 pulgadas",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            },
+            {
+                "caracteristica": "Cantidad de parlantes",
+                "GL MT": 4,
+                "GL CVT": 4,
+                "GLX MT": "4 parlantes + 2 tweeters",
+                "GLX CVT": "4 parlantes + 2 tweeters"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema de iluminación diurna DRL",
+                "GL MT": false,
+                "GL CVT": false,
+                "GLX MT": true,
+                "GLX CVT": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Android Auto / CarPlay inalámbrico",
+                "GL MT": true,
+                "GL CVT": true,
+                "GLX MT": true,
+                "GLX CVT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Espejos retrovisores color carrocería con señalizador LED",
+            "Manillas exteriores de puertas color carrocería"
+        ],
+        "interior": [
+            "Comando de radio al volante",
+            "Cierre centralizado con comando a distancia",
+            "Espejos retrovisores ajustables eléctricamente",
+            "Alzavidrios eléctricos",
+            "Volante ajustable en altura",
+            "Apertura de tapa gasolina del interior",
+            "Portavasos delanteros",
+            "Salida de 12V",
+            "Sistema Start/Stop",
+            "Puerto USB tipo A delantero",
+            "Puerto USB tipo A y C trasero",
+            "Alerta de luces encendidas",
+            "Apertura y cierre remoto",
+            "Bolsillo en respaldo de asiento de pasajero",
+            "Consola central porta objetos",
+            "Regulador de nivel de luces manual",
+            "Espejo retrovisor interior día / noche manual",
+            "Indicador de temperatura exterior",
+            "Control de velocidad crucero",
+            "Salida de aire trasera",
+            "Apoyabrazos trasero central"
+        ],
+        "seguridad": [
+            "ABS + EBD + BAS",
+            "Programa de estabilidad electrónica (ESP)",
+            "Asistencia en pendiente - Hill Hold Control",
+            "Doble airbag frontal",
+            "Airbags laterales (2) y cortina (2)",
+            "Anclaje Isofix (2)",
+            "Seguro niños puertas traseras",
+            "Barras de protección laterales en las puertas",
+            "Inmovilizador antirrobo",
+            "Alarma antirrobo",
+            "Cinturones de seguridad delanteros de 3 puntas con pretensores y limitador de fuerza",
+            "Cinturones traseros de 3 puntas (3)",
+            "Alerta uso de cinturones de seguridad delanteros y traseros",
+            "Cámara de retroceso",
+            "Sensor de retroceso",
+            "Sensor de presión de neumáticos (TPMS)"
+        ],
+        "tecnologia": [
+            "Android Auto / CarPlay inalámbrico"
+        ],
+        "adas": []
+    },
+    "colores": [
+        "Blanco Perla",
+        "Gris Magma",
+        "Plata Metálico Perlado",
+        "Azul Metálico Perlado"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-24",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Suzuki (ticket negro/√=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "suzuki_new-dzire-hybrid_ficha-tecnica_v2_web.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se extrajo la información visible en la ficha técnica. Cuando un dato no aparece explícitamente en el documento se dejó en null."
+    }
+}

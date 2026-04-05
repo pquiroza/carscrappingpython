@@ -1,0 +1,255 @@
+{
+    "vehiculo": {
+        "marca": "TOYOTA",
+        "modelo": "RAIZE",
+        "año": null,
+        "versiones": [
+            "i MT",
+            "E MT",
+            "E CVT",
+            "G CVT"
+        ]
+    },
+    "motor": {
+        "tipo": "WA-VE",
+        "cilindrada": "1.198",
+        "potencia_hp": "87",
+        "potencia_rpm": "6000",
+        "torque_nm": "113",
+        "torque_rpm": "4500",
+        "combustible": "Gasolina",
+        "transmision": null,
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Tambor",
+        "neumaticos": null,
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": "4.030",
+        "ancho_mm": "1.710",
+        "alto_mm": "1.635",
+        "distancia_ejes_mm": "2.525",
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": "369",
+        "capacidad_estanque_lts": "36"
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "I_MT": null,
+            "E_MT": "205/65R16",
+            "E_CVT": "205/65R16",
+            "G_CVT": "205/60R17"
+        },
+        {
+            "caracteristica": "Llantas de aleación",
+            "I_MT": "NO",
+            "E_MT": "SI",
+            "E_CVT": "SI",
+            "G_CVT": null
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso neto (kg)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_CVT": null
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Carga util (kg)",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_CVT": null
+        },
+        {
+            "caracteristica": "Numero de pasajeros",
+            "I_MT": null,
+            "E_MT": null,
+            "E_CVT": null,
+            "G_CVT": null
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Carretera (km/lts)",
+            "I_MT": "21,3",
+            "E_MT": "21,3",
+            "E_CVT": "20,8",
+            "G_CVT": "20,8"
+        },
+        {
+            "caracteristica": "Ciudad (km/lts)",
+            "I_MT": "15,4",
+            "E_MT": "15,4",
+            "E_CVT": "14,5",
+            "G_CVT": "14,5"
+        },
+        {
+            "caracteristica": "Mixto (km/lts)",
+            "I_MT": "18,9",
+            "E_MT": "18,9",
+            "E_CVT": "17,9",
+            "G_CVT": "17,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "I_MT": "SI",
+                "E_MT": "SI",
+                "E_CVT": "SI",
+                "G_CVT": "Climatizador"
+            },
+            {
+                "caracteristica": "Tablero",
+                "I_MT": "Un dial mas LCD",
+                "E_MT": "Dos diales mas LCD",
+                "E_CVT": "Dos diales mas LCD",
+                "G_CVT": "TFT 7\""
+            },
+            {
+                "caracteristica": "Llave inteligente",
+                "I_MT": "NO",
+                "E_MT": "NO",
+                "E_CVT": "NO",
+                "G_CVT": "SI"
+            },
+            {
+                "caracteristica": "Material Asientos",
+                "I_MT": "Tela",
+                "E_MT": "Tela con acentos rojos",
+                "E_CVT": "Tela con acentos rojos",
+                "G_CVT": "Tela/Cuero"
+            },
+            {
+                "caracteristica": "Control de mandos al volante",
+                "I_MT": "NO",
+                "E_MT": null,
+                "E_CVT": "SI",
+                "G_CVT": null
+            },
+            {
+                "caracteristica": "Compartimiento bajo asiento pasajero",
+                "I_MT": "NO",
+                "E_MT": null,
+                "E_CVT": "SI",
+                "G_CVT": null
+            },
+            {
+                "caracteristica": "Volante forrado en cuero",
+                "I_MT": null,
+                "E_MT": "NO",
+                "E_CVT": "NO",
+                "G_CVT": "SI"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "I_MT": null,
+                "E_MT": null,
+                "E_CVT": "7 \"",
+                "G_CVT": null
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Faros LED",
+                "I_MT": "NO",
+                "E_MT": "SI",
+                "E_CVT": "SI",
+                "G_CVT": "SI (con sensor)"
+            },
+            {
+                "caracteristica": "Neblineros",
+                "I_MT": null,
+                "E_MT": "NO",
+                "E_CVT": null,
+                "G_CVT": "SI"
+            },
+            {
+                "caracteristica": "Espejos exteriores eléctricos",
+                "I_MT": "NO",
+                "E_MT": "SI",
+                "E_CVT": "SI",
+                "G_CVT": "Abatible"
+            },
+            {
+                "caracteristica": "Espejos exteriores con señalizador",
+                "I_MT": null,
+                "E_MT": "SI",
+                "E_CVT": null,
+                "G_CVT": "Secuencial en foco"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbags",
+                "I_MT": "2",
+                "E_MT": "2",
+                "E_CVT": "2",
+                "G_CVT": "6"
+            },
+            {
+                "caracteristica": "Sensor de proximidad Delantero y Trasero",
+                "I_MT": "NO",
+                "E_MT": null,
+                "E_CVT": "SI",
+                "G_CVT": null
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Transmisión",
+                "I_MT": "Mecánica (5 vel)",
+                "E_MT": "Mecánica (5 vel)",
+                "E_CVT": "CVT",
+                "G_CVT": "CVT"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Alzavidrios eléctrico (SI)",
+            "Asientos traseros abatibles 60/40 (SI)",
+            "Cierre centralizado (SI)",
+            "Volante regulable en altura (SI)",
+            "Android auto/ Carplay inalambrico (SI)",
+            "Cargador inalambrico (SI)"
+        ],
+        "exterior": [],
+        "seguridad": [
+            "Anclajes ISOFIX (SI)",
+            "Barras laterales (SI)",
+            "Carrocería con Deformación Programada (GOA) (SI)",
+            "Frenos delanteros (Discos Ventilados)",
+            "Frenos traseros (Tambor)",
+            "Sistema de frenos ABS + EBD (SI)",
+            "Inmovilizador de motor (SI)",
+            "Seguro para niños en puertas traseras (SI)",
+            "VSC (Control de Estabilidad) (SI)",
+            "HAC (Control Asistencia en Pendiente) (SI)",
+            "Cámara retroceso (SI)"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-17",
+        "metodo_extraccion": "Lectura estricta sin inferencia",
+        "fuente": "FT_2.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Datos copiados desde la tabla 'ESPECIFICACIONES TÉCNICAS'. Donde una celda está vacía en la tabla, se dejó null. Gasolina recomendada: 93 octanos."
+    }
+}

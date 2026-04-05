@@ -1,0 +1,171 @@
+{
+    "vehiculo": {
+        "marca": "BMW",
+        "modelo": "M850i Coupé",
+        "año": null,
+        "versiones": [
+            "LCI"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LCI": "8 cilindros BMW TwinPower Turbo"
+        },
+        "cilindrada": {
+            "LCI": 4395
+        },
+        "potencia_hp": {
+            "LCI": "530"
+        },
+        "potencia_rpm": {
+            "LCI": "5,500 – 6,000"
+        },
+        "torque_nm": {
+            "LCI": "750"
+        },
+        "torque_rpm": {
+            "LCI": "1,800 – 4,600"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "LCI": "Automática Steptronic deportiva de 8 velocidades con levas en el volante"
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Dirección eléctrica Servotronic"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "LCI": "Runflat"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4851,
+        "ancho_mm": 1902,
+        "alto_mm": 1346,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": 128,
+        "peso_bruto_kg": 1940,
+        "capacidad_maletero_lts": "420",
+        "capacidad_estanque_lts": 68,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "LCI": "9,6"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "LCI": "3.9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Paquete Parking Assistant Plus",
+            "Asistente de estacionamiento en paralelo",
+            "Control activo de la distancia de estacionamiento trasero",
+            "Asistente de reversa",
+            "Sensores de estacionamiento del. y tras. (PDC)",
+            "Cámara de retroceso",
+            "Surround View con Top View, Panorama View y 3D View",
+            "Neumáticos Runflat a prueba de pinchazos",
+            "BMW Welcome Light Carpet",
+            "Llantas de aleación de rayos en V BMW Individual aro 20 estilo 730 con neumáticos mixtos",
+            "Suspensión adaptativa M",
+            "Dirección integral activa (ruedas traseras doblan levemente para mejorar maniobrabilidad)",
+            "Faros delanteros BMW Laserlights para luces altas",
+            "Faros de LED adaptativo",
+            "Luces de frenos dinámicas",
+            "Asistente de luces en carretera",
+            "Neblineros LED",
+            "Sensores de lluvia y luz"
+        ],
+        "interior": [
+            "Computador de abordo",
+            "Climatizador automático bizona",
+            "Paquete de iluminación ambiental",
+            "Alfombrillas velours",
+            "Asientos de cuero BMW Individual 'Merino' con contenido extendido",
+            "Asientos delanteros M multifunción",
+            "Asientos delanteros eléctricos con memoria, soporte lumbar, calefacción y ventilación activa",
+            "Volante deportivo de cuero M multifunción",
+            "Retrovisor interior y exterior anti-deslumbramiento automático",
+            "Espejos exteriores abatibles eléctricamente",
+            "Sistema de acceso sin llaves “Comfort Access”",
+            "Sistema de cierre de puertas automático Soft Close",
+            "Techo de fibra de carbono M",
+            "Aplicaciones de cristal en mando de caja de cambios, controlador iDrive y botón de volumen (“Crafted Clarity”)",
+            "Operación automática de maletero",
+            "Terminaciones interiores en madera noble veta de fresno gris metalizado de brillo intenso",
+            "Techo interior en terminaciones Alcántara Antracita"
+        ],
+        "seguridad": [
+            "Airbags frontales (Conductor y Acompañante)",
+            "Airbags laterales delanteros (Conductor y Acompañante)",
+            "Airbags de cabeza adelante y atrás",
+            "Sistema de frenos ABS",
+            "Control dinámico de estabilidad (DSC)",
+            "Control dinámico de propulsión (DTC)",
+            "Control de frenada en curva (CBC)",
+            "Control dinámico de frenada (DBC)",
+            "Función de secado de frenos",
+            "Indicador de fallas en neumáticos",
+            "Fijaciones para sillas de niños ISOFIX",
+            "Alarma volumétrica antirrobo"
+        ],
+        "tecnologia": [
+            "Sistema de sonido surround Bowers & Wilkins Diamond (16 altavoces y amplificador activo de 1400W, 10 Canales)",
+            "BMW Live Cockpit Professional",
+            "Pantalla de panel de instrumentos digital de 12,3’’",
+            "Pantalla de control de alta resolución (1920x720 pixeles) de 10,25’’",
+            "Sistema operativo BMW iDrive 7.0 con widgets y pantallas personalizables",
+            "Navegador con puntos de referencia en 3D",
+            "Modelos de Micro City",
+            "Búsqueda de direcciones en texto libre y destinos especiales",
+            "Instrucciones y guías con auto zoom",
+            "BMW Intelligent Personal Assistant (“Hola BMW”)",
+            "Mando iDrive Touch",
+            "Bluetooth (streaming/phone)",
+            "Preparación para Apple CarPlay"
+        ],
+        "adas": [
+            "Función Auto Start-Stop",
+            "Recuperación de energía en frenada",
+            "Control velocidad crucero activo con Stop & Go con control de aproximación",
+            "Función Start-off assistant",
+            "Driving Assistant Professional",
+            "Advertencia de salida de carril con vibraciones en volante",
+            "Advertencia de cambio de carril con monitoreo de punto ciego",
+            "Asistente de control de línea",
+            "Asistente de evasión",
+            "Advertencia de intersección",
+            "Advertencia de sentido contrario",
+            "Advertencia de colisión frontal con intervención de frenos",
+            "Advertencia de tráfico cruzado en la parte trasera",
+            "Prevención de colisión trasera"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-10",
+        "metodo_extraccion": "Lectura directa de ficha técnica BMW en texto corrido, manteniendo solo datos explícitos del documento",
+        "fuente": "ficha_tecnica_bmw_m850i_coupe_lci.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información explícita de la ficha. Garantía y mantenimiento informados en el documento: 5 años de mantenciones, 3 años de garantía y asistencia en ruta."
+    }
+}

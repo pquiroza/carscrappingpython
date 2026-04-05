@@ -1,0 +1,321 @@
+{
+    "vehiculo": {
+        "marca": "KGM",
+        "modelo": "TORRES EVX",
+        "año": null,
+        "versiones": [
+            "LIMITED",
+            "LIMITED PLUS"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "LIMITED": "Sincrono interior de imanes permanentes",
+            "LIMITED PLUS": "Sincrono interior de imanes permanentes"
+        },
+        "cilindrada": {
+            "LIMITED": null,
+            "LIMITED PLUS": null
+        },
+        "potencia_hp": {
+            "LIMITED": "204",
+            "LIMITED PLUS": "204"
+        },
+        "potencia_rpm": {
+            "LIMITED": null,
+            "LIMITED PLUS": null
+        },
+        "torque_nm": {
+            "LIMITED": "339",
+            "LIMITED PLUS": "339"
+        },
+        "torque_rpm": {
+            "LIMITED": null,
+            "LIMITED PLUS": null
+        },
+        "combustible": "Eléctrico",
+        "transmision": {
+            "LIMITED": "AT",
+            "LIMITED PLUS": "AT"
+        },
+        "traccion": {
+            "LIMITED": "2 WD (delantera)",
+            "LIMITED PLUS": "2 WD (delantera)"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida electrónicamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson",
+        "suspension_trasera": "Multi-link",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": "Eléctrico",
+        "neumaticos": {
+            "LIMITED": "Llantas de aleación de 18\" con neumáticos 225/60R",
+            "LIMITED PLUS": "Llantas de aleación de 20\" con neumáticos 245/45R"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 4715,
+        "ancho_mm": 1890,
+        "alto_mm": 1715,
+        "distancia_ejes_mm": 2680,
+        "despeje_suelo_mm": 169,
+        "peso_bruto_kg": 2425,
+        "capacidad_maletero_lts": "839 / 1,662 (2° Fila 100% plegada)",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Autonomía eléctrica en ciudad (km) (WLTP)",
+            "LIMITED": "635",
+            "LIMITED PLUS": "635"
+        },
+        {
+            "caracteristica": "Autonomía eléctrica mixto (km) (WLTP)",
+            "LIMITED": "462",
+            "LIMITED PLUS": "462"
+        },
+        {
+            "caracteristica": "Consumo de energía eléctrica (kW/km) ciudad",
+            "LIMITED": "0,135",
+            "LIMITED PLUS": "0,135"
+        },
+        {
+            "caracteristica": "Consumo de energía eléctrica (kW/km) mixto",
+            "LIMITED": "0,186",
+            "LIMITED PLUS": "0,186"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (seg)",
+            "LIMITED": "8,11",
+            "LIMITED PLUS": "8,11"
+        },
+        {
+            "caracteristica": "Velocidad máx. (km/h)",
+            "LIMITED": "175",
+            "LIMITED PLUS": "175"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Sunroof",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Apertura y cierre eléctrico del portalón y a distancia",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Cámara 360",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Cargador inalámbrico de celular",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Cantidad de airbags",
+                "LIMITED": 7,
+                "LIMITED PLUS": 8
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Frenada autónoma de emergencia (AEBS)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión frontal (AEB-HO)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión en giro en cruces (AEB-JT)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio involuntario de carril (LDWS)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril (LKAS)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril en emergencia (ELK)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de avance de vehículo delantero (FVSA)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de cansancio del conductor (DAA)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo inteligente (IACC)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de distancia de seguridad (SDW)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente de límite de velocidad (SDA)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Dirección autónoma de emergencia (AES)",
+                "LIMITED": true,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente a la dirección de emergencia (ESA)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente de mantenimiento de carril centrado (CLKA)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de cambio de carril con vehículo adyacente (LCW)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de colisión trasera (RCW)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Sistema de detección de punto ciego trasero (BSD)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Sistema de detección de punto ciego (BSW)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente de colisión de punto ciego (BSA)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de salida del modo seguro (SEW)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Advertencia de tráfico trasero cruzado (RCTW)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            },
+            {
+                "caracteristica": "Asistente de colisión de tráfico cruzado trasero (RCTA)",
+                "LIMITED": false,
+                "LIMITED PLUS": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Retrovisores eléctricos",
+            "Señalizador LED en los espejos",
+            "Faros delanteros Full LED",
+            "Luces LED delanteras y traseras",
+            "Luz de carretera inteligente (SHB)",
+            "Barras en techo",
+            "Control apertura y cierre de ventanas a distancia"
+        ],
+        "interior": [
+            "Climatizador bizona delantero",
+            "Sistema de desempañado automático",
+            "Smart Audio de 12,3\" compatible con CarPlay y Android Auto",
+            "Panel de instrumentos de 12,3\"",
+            "Sistema de audio con Bluetooth y manos libres",
+            "Control de audio al volante",
+            "6 altavoces",
+            "Puertos USB C (2 delanteros y 2 traseros)",
+            "Smart Key con botón de encendido",
+            "Cierre centralizado de puertas",
+            "Apertura de puertas a distancia",
+            "Carga desde el vehículo (V2L) 3,5 kW/h",
+            "Sensor de estacionamiento delantero y trasero",
+            "Cámara de retroceso",
+            "Volante de cuero regulable en altura y profundidad",
+            "Asientos tapizados en cuero",
+            "Asientos conductor y copiloto con regulación eléctrica",
+            "Asientos delanteros ventilados y calefaccionados",
+            "Asientos traseros calefaccionados",
+            "Asiento trasero abatible en proporción 40:60",
+            "Reposabrazos central",
+            "Paddle shift para control regenerativo de energía (int. - 3 niveles)",
+            "Modos de conducción (Confort, Sport, Eco)"
+        ],
+        "seguridad": [
+            "Interruptor para activar/desactivar airbag del asiento delantero acompañante",
+            "Estructura de carrocería monocasco reforzada",
+            "Vigas de impacto en las puertas para una protección óptima frente a impactos laterales",
+            "Frenos ABS",
+            "Sistema de asistencia al frenar (BAS)",
+            "Sistema de frenado multicolisión (MCB)",
+            "Señal de parada de emergencia (ESS)",
+            "Asistente de frenado hidráulico (HBA)",
+            "Sistema activo antivuelco (ARP)",
+            "Control electrónico de estabilidad (ESC)",
+            "Sistema de apoyo a la estabilidad del remolque (TSA)",
+            "Sistema de control de tracción (TCS)",
+            "Sistema de arranque en pendiente (HSA)",
+            "Control de descenso en pendiente (HDC)",
+            "Sistema de anclaje ISO FIX para sillas de seguridad de niños",
+            "Alarma",
+            "Neblineros delanteros con luces LED",
+            "Neblineros traseros"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Blanco",
+        "Gris",
+        "Gris Platino",
+        "Azul Metálico"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica KGM SsangYong (ticket negro=true, -=false; texto/valores tal cual)",
+        "fuente": "FICHA-TECNICA_TORRES_EVX-1.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Batería: Fosfato de litio y hierro (LifeP04). Tecnología: Blade battery (cell to pack). Capacidad batería (kW/h): 73,4. Tiempos de carga: 350 kW/h - 28 min. (10-80%); 100 kW/h - 37 min. (20-80%); 11 kW/h - 9 hrs. (0-100%); 2 kW/h - 30 hrs. (0-100%). Voltaje (V): 390,4. Heat pump: presente. Ángulo de ataque (grados): 18,3. Ángulo de salida (grados): 20,8. Capacidad remolque con frenos (kg): 1500. Capacidad remolque sin frenos (kg): 500. País de fabricación: Corea del Sur."
+    }
+}

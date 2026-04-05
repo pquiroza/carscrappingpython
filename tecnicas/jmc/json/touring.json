@@ -1,0 +1,305 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "TOURING",
+        "año": null,
+        "versiones": [
+            "NEW TOURING"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "NEW TOURING": "JX4D Ford Puma"
+        },
+        "cilindrada": {
+            "NEW TOURING": "2.0 TURBO"
+        },
+        "potencia_hp": {
+            "NEW TOURING": "146"
+        },
+        "potencia_rpm": {
+            "NEW TOURING": "3200"
+        },
+        "torque_nm": {
+            "NEW TOURING": "355"
+        },
+        "torque_rpm": {
+            "NEW TOURING": "1400-2600"
+        },
+        "combustible": "DIESEL",
+        "transmision": {
+            "NEW TOURING": "T/M"
+        },
+        "traccion": "TRASERA"
+    },
+    "direccion": {
+        "tipo": "HIDRAULICA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MACPHERSON",
+        "suspension_trasera": "PAQUETE DE RESORTE INDEPENDIENTE",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "DISCOS",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "NEW TOURING": "185/75R16C"
+        },
+        "rueda_repuesto": "185/75R16C"
+    },
+    "dimensiones": {
+        "largo_mm": 5998,
+        "ancho_mm": 2098,
+        "alto_mm": 2620,
+        "distancia_ejes_mm": 3750,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": 4250,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 80,
+        "numero_pasajeros": "14 + 1"
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores abatibles",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Cierre con comando a distancia puertas",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Follow me home",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Parachoques a tono de carrocería",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Faros",
+                "NEW TOURING": "HALÓGENOS"
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Camara de retroceso",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Guardafangos",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "NEW TOURING": "ACERO"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "NEW TOURING": "185/75R16C"
+            },
+            {
+                "caracteristica": "Neumático de repuesto tipo / medida",
+                "NEW TOURING": "185/75R16C"
+            },
+            {
+                "caracteristica": "Presión de inflado PSI",
+                "NEW TOURING": "DEL 61 PSI/TRAS 55 PSI"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Trip computer (consumo instantáneo)",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "NEW TOURING": "TELA"
+            },
+            {
+                "caracteristica": "Apertura desde el interior de la tapa de bencina",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Asiento del piloto ajustable manual",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto deslizable y con ajuste manual",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Bolsillo porta mapa puertas delanteras",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Bolsillo porta revista respaldo de asientos delanteros",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Radio",
+                "NEW TOURING": "USB/ 4 PARLANTES"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "NEW TOURING": "10’’ MP5"
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Luz delantera para lectura de mapas",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Parasol con espejo de cortesía",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Portavasos",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antireflejo",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Regulador de altura de faros",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Tacómetro",
+                "NEW TOURING": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema antirrobo (llave codificada)",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Asistente en pendientes",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Sistema de regeneración selectivo",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "NEW TOURING": 2
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Sistema de arranque",
+                "NEW TOURING": "LLAVE PALETA"
+            },
+            {
+                "caracteristica": "Alarma",
+                "NEW TOURING": "ALARMA DE LUCES"
+            },
+            {
+                "caracteristica": "Apoya cabezas delanteros y traseros",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Airbags delanteros",
+                "NEW TOURING": 2
+            },
+            {
+                "caracteristica": "ABS (control antideslizante)",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Barra acero laterales de puerta",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Carrocería con zona de deformación programada",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros con bloqueo de emergencia",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Cinturones traseros laterales tres puntas",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Cinturones de seguridad tres puntas",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Luz indicador del no uso del cinturon de seguridad del conductor",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Carroceria y jaula integrada",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Parachoques con sistema de absorción de impactos",
+                "NEW TOURING": true
+            },
+            {
+                "caracteristica": "Alarma puerta abierta (luz piloto en tablero)",
+                "NEW TOURING": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "PLATA",
+        "BLANCO"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.TOURING-07112525.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Motor: distribución (accionamiento) CADENA; encendido ELECTRÓNICO; convertidor catalítico 4 VÍAS; tipo de aceite MOBIL 5W-30; norma emisiones EURO 6C. Capacidad estanque urea 11 L; peso bruto 4250 kg; capacidad carga 1510 kg; neumático repuesto 185/75R16C; presión inflado del 61 psi / tras 55 psi."
+    }
+}

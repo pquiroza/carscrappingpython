@@ -1,0 +1,420 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "Maverick",
+        "año": null,
+        "versiones": [
+            "XLT 2.0L 4X4",
+            "LARIAT BLACK 2.0L 4X4",
+            "TREMOR 2.0L 4X4",
+            "LARIAT 2.5L FHEV 4X4"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "XLT 2.0L 4X4": null,
+            "LARIAT BLACK 2.0L 4X4": null,
+            "TREMOR 2.0L 4X4": null,
+            "LARIAT 2.5L FHEV 4X4": null
+        },
+        "cilindrada": {
+            "XLT 2.0L 4X4": 1.992,
+            "LARIAT BLACK 2.0L 4X4": 1.992,
+            "TREMOR 2.0L 4X4": 1.992,
+            "LARIAT 2.5L FHEV 4X4": 2.488
+        },
+        "potencia_hp": {
+            "XLT 2.0L 4X4": "238",
+            "LARIAT BLACK 2.0L 4X4": "238",
+            "TREMOR 2.0L 4X4": "238",
+            "LARIAT 2.5L FHEV 4X4": "162"
+        },
+        "potencia_rpm": {
+            "XLT 2.0L 4X4": "5.500",
+            "LARIAT BLACK 2.0L 4X4": "5.500",
+            "TREMOR 2.0L 4X4": "5.500",
+            "LARIAT 2.5L FHEV 4X4": "5.600"
+        },
+        "torque_nm": {
+            "XLT 2.0L 4X4": "375",
+            "LARIAT BLACK 2.0L 4X4": "375",
+            "TREMOR 2.0L 4X4": "375",
+            "LARIAT 2.5L FHEV 4X4": "210"
+        },
+        "torque_rpm": {
+            "XLT 2.0L 4X4": "3.000",
+            "LARIAT BLACK 2.0L 4X4": "3.000",
+            "TREMOR 2.0L 4X4": "3.000",
+            "LARIAT 2.5L FHEV 4X4": "4.000"
+        },
+        "combustible": {
+            "XLT 2.0L 4X4": "Gasolina",
+            "LARIAT BLACK 2.0L 4X4": "Gasolina",
+            "TREMOR 2.0L 4X4": "Gasolina",
+            "LARIAT 2.5L FHEV 4X4": "Gasolina (híbrido no enchufable)"
+        },
+        "transmision": {
+            "XLT 2.0L 4X4": "Automática (8 velocidades)",
+            "LARIAT BLACK 2.0L 4X4": "Automática (8 velocidades)",
+            "TREMOR 2.0L 4X4": "Automática (8 velocidades)",
+            "LARIAT 2.5L FHEV 4X4": "Automática (CVT)"
+        },
+        "traccion": {
+            "XLT 2.0L 4X4": "4x4",
+            "LARIAT BLACK 2.0L 4X4": "4x4",
+            "TREMOR 2.0L 4X4": "4x4",
+            "LARIAT 2.5L FHEV 4X4": "4x4"
+        },
+        "start_stop": {
+            "XLT 2.0L 4X4": true,
+            "LARIAT BLACK 2.0L 4X4": true,
+            "TREMOR 2.0L 4X4": true,
+            "LARIAT 2.5L FHEV 4X4": false
+        },
+        "freno_regenerativo": {
+            "XLT 2.0L 4X4": false,
+            "LARIAT BLACK 2.0L 4X4": false,
+            "TREMOR 2.0L 4X4": false,
+            "LARIAT 2.5L FHEV 4X4": true
+        },
+        "potencia_combinada_hp": {
+            "XLT 2.0L 4X4": null,
+            "LARIAT BLACK 2.0L 4X4": null,
+            "TREMOR 2.0L 4X4": null,
+            "LARIAT 2.5L FHEV 4X4": "194"
+        },
+        "torque_combinado_nm": {
+            "XLT 2.0L 4X4": null,
+            "LARIAT BLACK 2.0L 4X4": null,
+            "TREMOR 2.0L 4X4": null,
+            "LARIAT 2.5L FHEV 4X4": "347"
+        },
+        "bateria_kwh": {
+            "XLT 2.0L 4X4": null,
+            "LARIAT BLACK 2.0L 4X4": null,
+            "TREMOR 2.0L 4X4": null,
+            "LARIAT 2.5L FHEV 4X4": "1,1"
+        },
+        "bateria_tipo": {
+            "XLT 2.0L 4X4": null,
+            "LARIAT BLACK 2.0L 4X4": null,
+            "TREMOR 2.0L 4X4": null,
+            "LARIAT 2.5L FHEV 4X4": "Iones de litio"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida eléctricamente"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Independiente tipo McPherson",
+        "suspension_trasera": "Independiente multibrazo",
+        "frenos_delanteros": "Discos ventilados",
+        "frenos_traseros": "Discos sólidos",
+        "neumaticos": {
+            "XLT 2.0L 4X4": "225/65R17",
+            "LARIAT BLACK 2.0L 4X4": "225/65R17",
+            "TREMOR 2.0L 4X4": "235/65R17",
+            "LARIAT 2.5L FHEV 4X4": "225/65R17"
+        },
+        "rueda_repuesto": "Tamaño completo"
+    },
+    "dimensiones": {
+        "largo_mm": 5072,
+        "ancho_mm": 1844,
+        "alto_mm": 1745,
+        "distancia_ejes_mm": 3076,
+        "despeje_suelo_mm": 211,
+        "peso_bruto_kg": {
+            "XLT 2.0L 4X4": 2245,
+            "LARIAT BLACK 2.0L 4X4": 2245,
+            "TREMOR 2.0L 4X4": 2245,
+            "LARIAT 2.5L FHEV 4X4": 2245
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 68,
+        "capacidad_carga_kg": 613,
+        "capacidad_arrastre_kg": 907,
+        "caja_carga_mm": {
+            "largo": 1393,
+            "ancho": 1333,
+            "alto": 532
+        }
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento ciudad (km/l)",
+            "XLT 2.0L 4X4": "7,6",
+            "LARIAT BLACK 2.0L 4X4": "7,6",
+            "TREMOR 2.0L 4X4": "7,6",
+            "LARIAT 2.5L FHEV 4X4": "17,9"
+        },
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "XLT 2.0L 4X4": "9,8",
+            "LARIAT BLACK 2.0L 4X4": "9,8",
+            "TREMOR 2.0L 4X4": "9,8",
+            "LARIAT 2.5L FHEV 4X4": "19,6"
+        },
+        {
+            "caracteristica": "Rendimiento carretera (km/l)",
+            "XLT 2.0L 4X4": "12,1",
+            "LARIAT BLACK 2.0L 4X4": "12,1",
+            "TREMOR 2.0L 4X4": "12,1",
+            "LARIAT 2.5L FHEV 4X4": "21,9"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "offroad": [
+            {
+                "caracteristica": "Placa protectora inferior",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Ganchos de rescate delanteros",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Amortiguación off-road",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Bloqueo electrónico de diferencial trasero",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Bloqueo mecánico de diferencial trasero",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Tracción 4x4 con bloqueo mecánico",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Levas al volante",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Neblineros delanteros",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Espejos con plegado eléctrico",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Espejos con luz direccional",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Sensor de lluvia",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Enganche de remolque",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Climatizador",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": false,
+                "LARIAT 2.5L FHEV 4X4": false
+            },
+            {
+                "caracteristica": "Tapiz",
+                "XLT 2.0L 4X4": "Tela",
+                "LARIAT BLACK 2.0L 4X4": "Ecocuero",
+                "TREMOR 2.0L 4X4": "Ecocuero",
+                "LARIAT 2.5L FHEV 4X4": "Ecocuero"
+            },
+            {
+                "caracteristica": "Asiento conductor con ajuste eléctrico",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Volante calefaccionado",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Cargador inalámbrico",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Toma 110V/220V",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": false
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de audio",
+                "XLT 2.0L 4X4": "6 parlantes",
+                "LARIAT BLACK 2.0L 4X4": "8 parlantes",
+                "TREMOR 2.0L 4X4": "8 parlantes",
+                "LARIAT 2.5L FHEV 4X4": "8 parlantes"
+            },
+            {
+                "caracteristica": "Cámara 360°",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": false,
+                "LARIAT 2.5L FHEV 4X4": false
+            }
+        ],
+        "seguridad": [],
+        "adas": [
+            {
+                "caracteristica": "Monitor de punto ciego (BLIS)",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": true,
+                "TREMOR 2.0L 4X4": true,
+                "LARIAT 2.5L FHEV 4X4": true
+            },
+            {
+                "caracteristica": "Control crucero adaptativo",
+                "XLT 2.0L 4X4": false,
+                "LARIAT BLACK 2.0L 4X4": false,
+                "TREMOR 2.0L 4X4": false,
+                "LARIAT 2.5L FHEV 4X4": false
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Airbags frontales",
+            "Airbags laterales",
+            "Airbags de cortina",
+            "Control de estabilidad (ESC)",
+            "Control de tracción (TCS)",
+            "Asistente de partida en pendiente",
+            "ISOFIX"
+        ],
+        "interior": [
+            "Aire acondicionado",
+            "Volante forrado en ecocuero",
+            "Panel digital 8\"",
+            "Freno de mano eléctrico",
+            "Autohold",
+            "Toma 12V"
+        ],
+        "exterior": [
+            "Parrilla frontal",
+            "Luces principales LED",
+            "Luces diurnas (DRL) LED",
+            "Luces traseras LED",
+            "Espejos eléctricos",
+            "Vidrios traseros tintados"
+        ],
+        "tecnologia": [
+            "Pantalla central 8\"",
+            "SYNC® 4",
+            "Apple CarPlay / Android Auto",
+            "Conectividad inalámbrica",
+            "Bluetooth",
+            "Puertos USB",
+            "Cámara de retroceso"
+        ],
+        "adas": [
+            "Asistente pre-colisión con frenado automático (AEB)",
+            "Alerta de colisión frontal",
+            "Asistente de mantenimiento de carril"
+        ]
+    },
+    "colores": [
+        "Gris Azulado",
+        "Rojo Ruby",
+        "Negro Profundo",
+        "Blanco Oxford",
+        "Gris Carbonizado",
+        "Beige Arena",
+        "Azul Velocidad",
+        "Blanco Espacial",
+        "Verde"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de estructura Ford (versions/base_specs_or_equipment) a formato estándar por múltiples versiones",
+        "fuente": "fcl-maverick-ficha-tecnica.pdf",
+        "versiones_en_documento": 4,
+        "notas": null
+    }
+}

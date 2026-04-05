@@ -1,0 +1,218 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "CLE",
+        "año": null,
+        "versiones": [
+            "CLE 300 4MATIC Coupé"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CLE 300 4MATIC Coupé": null
+        },
+        "cilindrada": {
+            "CLE 300 4MATIC Coupé": 1999
+        },
+        "potencia_hp": {
+            "CLE 300 4MATIC Coupé": "258 CV (+23 CV)"
+        },
+        "potencia_rpm": {
+            "CLE 300 4MATIC Coupé": null
+        },
+        "torque_nm": {
+            "CLE 300 4MATIC Coupé": "400 Nm (+205 Nm)"
+        },
+        "torque_rpm": {
+            "CLE 300 4MATIC Coupé": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "CLE 300 4MATIC Coupé": "Automática 9G-TRONIC"
+        },
+        "traccion": {
+            "CLE 300 4MATIC Coupé": "Integral"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Con sistema de amortiguación selectiva",
+        "suspension_trasera": "Con sistema de amortiguación selectiva",
+        "frenos_delanteros": "Discos de mayores dimensiones en eje delantero",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CLE 300 4MATIC Coupé": "Eje delantero: 245/40 R19 - Eje trasero: 275/35 R19"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 420,
+        "capacidad_estanque_lts": 66,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "CLE 300 4MATIC Coupé": "13,5 km/L"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "CLE 300 4MATIC Coupé": "6,2 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "CLE 300 4MATIC Coupé": "AMG"
+            },
+            {
+                "caracteristica": "Faros",
+                "CLE 300 4MATIC Coupé": "DIGITAL LIGHT"
+            },
+            {
+                "caracteristica": "Cristales traseros",
+                "CLE 300 4MATIC Coupé": "Calorífugos tinteados con protección UV"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "CLE 300 4MATIC Coupé": "Incluye función de cerrado autónomo en caso de lluvia"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "CLE 300 4MATIC Coupé": "AMG de 19\" en diseño multiradio con propiedades aerodinámicas color negro"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Línea interior",
+                "CLE 300 4MATIC Coupé": "AMG"
+            },
+            {
+                "caracteristica": "Tapiz",
+                "CLE 300 4MATIC Coupé": "Cuero ARTICO / microfibra MICROCUT"
+            },
+            {
+                "caracteristica": "Molduras",
+                "CLE 300 4MATIC Coupé": "Elementos de adorno en estructura de metal"
+            },
+            {
+                "caracteristica": "Asientos delanteros con aproximador de cinturón",
+                "CLE 300 4MATIC Coupé": "Incluye kit de memorias y calefacción"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "CLE 300 4MATIC Coupé": "Automática Bizona"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "10 Airbags de serie",
+                "CLE 300 4MATIC Coupé": "Incluye Windowbags + Central + Rodillas"
+            },
+            {
+                "caracteristica": "Asistente activo de estacionamiento PARKTRONIC",
+                "CLE 300 4MATIC Coupé": "Incluye cámara 360°"
+            },
+            {
+                "caracteristica": "Neumáticos RUNFLAT",
+                "CLE 300 4MATIC Coupé": "Neumáticos con paredes reforzados"
+            },
+            {
+                "caracteristica": "Sistema de seguridad PRE-SAFE®",
+                "CLE 300 4MATIC Coupé": "Protección preventiva de los ocupantes ante posible colisión"
+            },
+            {
+                "caracteristica": "Sistema ATTENTION ASSIST",
+                "CLE 300 4MATIC Coupé": "Sistema de aviso por señales de somnolencia"
+            },
+            {
+                "caracteristica": "Asistente de frenado activo",
+                "CLE 300 4MATIC Coupé": "Aviso visual, acústico e intervención de frenos"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "CLE 300 4MATIC Coupé": "Incluye función de advertencia de salida"
+            },
+            {
+                "caracteristica": "Protección Vehiculo GUARD 360°",
+                "CLE 300 4MATIC Coupé": "Incluye alarmas volumétricas"
+            },
+            {
+                "caracteristica": "Avisador de presión de los neumáticos",
+                "CLE 300 4MATIC Coupé": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX",
+                "CLE 300 4MATIC Coupé": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "CLE 300 4MATIC Coupé": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "CLE 300 4MATIC Coupé": "12,3\""
+            },
+            {
+                "caracteristica": "Visualizador de cuadro de instrumentos digital",
+                "CLE 300 4MATIC Coupé": "11,9\""
+            },
+            {
+                "caracteristica": "Realidad aumentada para navegación",
+                "CLE 300 4MATIC Coupé": "Información gráfica sobre la navegación en visualizador"
+            },
+            {
+                "caracteristica": "Integración Smartphone Inalámbrico",
+                "CLE 300 4MATIC Coupé": "Con sistema de carga inalámbrico"
+            },
+            {
+                "caracteristica": "Paquete Confort Keyless Go",
+                "CLE 300 4MATIC Coupé": "Incluye Hands Free Access y acceso Keyless"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente plus",
+                "CLE 300 4MATIC Coupé": "Incluye apoyo visual en control de punto ciego"
+            },
+            {
+                "caracteristica": "Sistema de sonido",
+                "CLE 300 4MATIC Coupé": "Surround Burmester® 3D con 15 altavoces"
+            },
+            {
+                "caracteristica": "Paquete USB",
+                "CLE 300 4MATIC Coupé": "3 entradas USB-C para carga rápida"
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles eléctricamente",
+                "CLE 300 4MATIC Coupé": "Incluye función antideslumbrante"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz CLE (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha_Tecnica_CLE_300 4Matic_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior para CLE 300 4MATIC Coupé."
+    }
+}

@@ -1,0 +1,369 @@
+{
+    "vehiculo": {
+        "marca": "GAC",
+        "modelo": "AION Y",
+        "año": null,
+        "versiones": [
+            "AION Y"
+        ]
+    },
+    "motor": {
+        "tipo": null,
+        "cilindrada": null,
+        "potencia_hp": {
+            "AION Y": "201"
+        },
+        "potencia_rpm": {
+            "AION Y": null
+        },
+        "torque_nm": {
+            "AION Y": "225"
+        },
+        "torque_rpm": {
+            "AION Y": null
+        },
+        "combustible": null,
+        "transmision": {
+            "AION Y": null
+        },
+        "traccion": null
+    },
+    "direccion": {
+        "tipo": "Electroasistida EPS"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Delantera: McPherson suspensión independiente",
+        "suspension_trasera": "Trasera: Barra de torsión",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "AION Y": "215/55 R17"
+        },
+        "rueda_repuesto": "Bomba de aire + sellador de neumáticos; Neumático de repuesto temporal"
+    },
+    "dimensiones": {
+        "largo_mm": 4535,
+        "ancho_mm": 1870,
+        "alto_mm": 1650,
+        "distancia_ejes_mm": 2750,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 405,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento (km/kWh)",
+            "AION Y": "7,2"
+        },
+        {
+            "caracteristica": "Rango de autonomía (km)",
+            "AION Y": "455 km Autonomía según homologación de Centro de Control y Certificación Vehicular 3CV"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Faros LED",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Luces LED de circulación diurna (DRL)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Luces antiniebla traseras",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Retrovisores laterales con intermitentes",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Retrovisores laterales eléctricos ajustables",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Retrovisores laterales plegables eléctricamente",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Retrovisores laterales calefaccionados",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delanteros con sensor de lluvia",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Manillas ocultas",
+                "AION Y": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado automático",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Filtro de aire (PM2,5)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Ventilación del aire acondicionado de la segunda fila",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Volante tapizado en eco cuero",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Asientos tapizados en eco cuero",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Asiento del conductor ajustable eléctricamente en 6 direcciones",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Ventanas delanteras y traseras Subir y bajar con un solo toque (antipellizco)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Apoya cabeza asiento central",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Techo panorámico",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Respaldo del asiento del conductor totalmente plegable",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Segunda fila de asientos plegables divididos 40/60",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Tomacorriente de 12 V en la primera fila",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Posa vasos en asiento central",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Parasoles con espejo de cortesía",
+                "AION Y": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Bomba de aire + sellador de neumáticos",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Neumático de repuesto temporal",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de frenos antibloqueo (ABS)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Programa Electrónico de Estabilidad (ESP)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Distribución electrónica de la fuerza de frenado (EBD)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de recuperación de energía de frenado",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "AION Y": 2
+            },
+            {
+                "caracteristica": "Airbags frontales laterales",
+                "AION Y": 2
+            },
+            {
+                "caracteristica": "Airbags laterales de cortina",
+                "AION Y": 2
+            },
+            {
+                "caracteristica": "Cinturones de seguridad con limitadores de fuerza en asientos de la primera fila",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Alarma de cinturón de seguridad desatado del asiento delantero (luz y timbre)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Anclajes ISOFIX para asientos de seguridad para niños",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Auto Hold",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de control de tracción (TCS)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de control indirecto de la presión de los neumáticos TPMS",
+                "AION Y": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Control de crucero",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento traseros",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de cámara con visión HD de 360°",
+                "AION Y": true
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "I PEDAL (Pedal electrónico)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Entrada sin llave",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Cuadro de instrumentos LCD",
+                "AION Y": "10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Pantalla táctil",
+                "AION Y": "14,6 pulgadas"
+            },
+            {
+                "caracteristica": "Sistema de audio y vídeo en español",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de teléfono manos libres Bluetooth",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "6 Parlantes",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Luces ambientales",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Puertos USB frontal y segunda fila",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor interior con puerto USB (5V)",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Sistema de audio y video",
+                "AION Y": "Apple Carplay / FunDrive Link"
+            },
+            {
+                "caracteristica": "Modo de conducción ECO",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Modo de conducción NORMAL",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Modo de conducción SPORT",
+                "AION Y": true
+            },
+            {
+                "caracteristica": "Modo de conducción I-PEDAL",
+                "AION Y": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Faros LED",
+            "Luces LED de circulación diurna (DRL)",
+            "Luces antiniebla traseras",
+            "Retrovisores laterales con intermitentes",
+            "Retrovisores laterales eléctricos ajustables",
+            "Retrovisores laterales plegables eléctricamente",
+            "Retrovisores laterales calefaccionados",
+            "Limpiaparabrisas delanteros con sensor de lluvia",
+            "Manillas ocultas"
+        ],
+        "interior": [
+            "Aire acondicionado automático",
+            "Filtro de aire (PM2,5)",
+            "Ventilación del aire acondicionado de la segunda fila",
+            "Volante tapizado en eco cuero",
+            "Volante multifunción",
+            "Asientos tapizados en eco cuero",
+            "Apoya cabeza asiento central",
+            "Techo panorámico",
+            "Respaldo del asiento del conductor totalmente plegable",
+            "Segunda fila de asientos plegables divididos 40/60",
+            "Tomacorriente de 12 V en la primera fila",
+            "Posa vasos en asiento central",
+            "Parasoles con espejo de cortesía",
+            "Asiento del conductor ajustable eléctricamente en 6 direcciones",
+            "Ventanas delanteras y traseras Subir y bajar con un solo toque (antipellizco)"
+        ],
+        "seguridad": [
+            "Cinturones de seguridad con limitadores de fuerza en asientos de la primera fila",
+            "Alarma de cinturón de seguridad desatado del asiento delantero (luz y timbre)",
+            "Sistema de control indirecto de la presión de los neumáticos TPMS",
+            "Anclajes ISOFIX para asientos de seguridad para niños",
+            "Bomba de aire + sellador de neumáticos",
+            "Neumático de repuesto temporal",
+            "Sistema de frenos antibloqueo (ABS)",
+            "Programa Electrónico de Estabilidad (ESP)",
+            "Distribución electrónica de la fuerza de frenado (EBD)",
+            "Sistema de recuperación de energía de frenado",
+            "Airbags frontales (2)",
+            "Airbags frontales laterales (2)",
+            "Airbags laterales de cortina (2)",
+            "Auto Hold",
+            "Sistema de control de tracción (TCS)"
+        ],
+        "tecnologia": [
+            "Apple Carplay / FunDrive Link"
+        ],
+        "adas": [
+            "Control de crucero",
+            "Sensores de estacionamiento traseros",
+            "Sistema de cámara con visión HD de 360°"
+        ]
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tablas ficha técnica GAC (●=true, vacío=false; texto/valores tal cual)",
+        "fuente": "FT_GAC_Motor_AION-Y_151025.pdf",
+        "versiones_en_documento": 1,
+        "notas": "En el documento no se indican versiones/trim distintos; se mantiene una sola entrada 'AION Y'. Colores aparecen solo como muestras sin nombre."
+    }
+}

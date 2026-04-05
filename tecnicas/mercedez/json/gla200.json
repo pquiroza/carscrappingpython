@@ -1,0 +1,226 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLA",
+        "año": null,
+        "versiones": [
+            "GLA 200 Progressive Pure"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GLA 200 Progressive Pure": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "GLA 200 Progressive Pure": 1332
+        },
+        "potencia_hp": {
+            "GLA 200 Progressive Pure": "163 CV (+13CV)"
+        },
+        "potencia_rpm": {
+            "GLA 200 Progressive Pure": null
+        },
+        "torque_nm": {
+            "GLA 200 Progressive Pure": "270 Nm (+150 Nm)"
+        },
+        "torque_rpm": {
+            "GLA 200 Progressive Pure": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "GLA 200 Progressive Pure": "7G-DCT"
+        },
+        "traccion": {
+            "GLA 200 Progressive Pure": null
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "GLA 200 Progressive Pure": "235/55 R18"
+        },
+        "rueda_repuesto": "TIREFIT"
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 425,
+        "capacidad_estanque_lts": 43,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "GLA 200 Progressive Pure": "15,9 Km/l"
+        },
+        {
+            "caracteristica": "Velocidad máxima",
+            "GLA 200 Progressive Pure": "210 Km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h",
+            "GLA 200 Progressive Pure": "8,9 s"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Línea exterior",
+                "GLA 200 Progressive Pure": "Progressive Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "GLA 200 Progressive Pure": "18 pulgadas y 5 radios dobles color negro"
+            },
+            {
+                "caracteristica": "Barras en el techo",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Tren de rodaje",
+                "GLA 200 Progressive Pure": "Confort"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "GLA 200 Progressive Pure": "Cuero ARTICO"
+            },
+            {
+                "caracteristica": "Asientos delanteros",
+                "GLA 200 Progressive Pure": "Confort con apoyo lumbar"
+            },
+            {
+                "caracteristica": "Volante",
+                "GLA 200 Progressive Pure": "Deportivo multifunción en cuero con levas en los costados"
+            },
+            {
+                "caracteristica": "Molduras",
+                "GLA 200 Progressive Pure": "En efecto carbono oscuro"
+            },
+            {
+                "caracteristica": "Respaldos traseros abatibles (40/20/40)",
+                "GLA 200 Progressive Pure": "Aumentando espacio en maletero a 820 Litros"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "GLA 200 Progressive Pure": "Incluye Windowbags y Airbags de Rodillas"
+            },
+            {
+                "caracteristica": "Acceso Keyless-Go",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Servofreno de emergencia Activo",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Paquete de retrovisores abatibles",
+                "GLA 200 Progressive Pure": "Incluye sistema de antideslumbrante automático"
+            },
+            {
+                "caracteristica": "Paquete de aparcamiento con cámara marcha atrás",
+                "GLA 200 Progressive Pure": "Incluye asistencia al estacionado PARKTRONIC"
+            },
+            {
+                "caracteristica": "Faros LED High Performance",
+                "GLA 200 Progressive Pure": "Incluye luces de carretera automáticas con cálido tono blanco uniforme"
+            },
+            {
+                "caracteristica": "TIREFIT",
+                "GLA 200 Progressive Pure": "Hermetizante para daños de neumáticos con compresor de inflado de neumáticos"
+            },
+            {
+                "caracteristica": "Información desgaste de frenos y presión de neumáticos",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Asistente activo para viento lateral",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Attention Assist (Aviso de cansancio)",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Función Hold para retención",
+                "GLA 200 Progressive Pure": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Perfiles MBUX personalizables",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "GLA 200 Progressive Pure": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizados del cuadro de instrumentos digital",
+                "GLA 200 Progressive Pure": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "GLA 200 Progressive Pure": "Pantalla de 10,25 pulgadas"
+            },
+            {
+                "caracteristica": "Integración Smartphone inalámbrico",
+                "GLA 200 Progressive Pure": "Incluye sistema de carga inalámbrico delante"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "GLA 200 Progressive Pure": "Incluye manejo de temperatura por voz"
+            },
+            {
+                "caracteristica": "Paquete USB Plus de carga rápida",
+                "GLA 200 Progressive Pure": "3 puertos USB-C para plazas delanteras + 2 Puertos USB-C para plazas traseras"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente con 64 colores",
+                "GLA 200 Progressive Pure": "Permite una adaptación personalizada en 10 niveles de atenuación y en 4 zonas"
+            },
+            {
+                "caracteristica": "Tempomat - Control crucero",
+                "GLA 200 Progressive Pure": true
+            },
+            {
+                "caracteristica": "Aviso del uso de cinturones de seguridad traseros",
+                "GLA 200 Progressive Pure": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha técnica GLA 200 Pure - Digital_compressed.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se incluyó toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior."
+    }
+}

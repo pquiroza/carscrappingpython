@@ -1,0 +1,288 @@
+{
+    "vehiculo": {
+        "marca": "KIA",
+        "modelo": "EV6",
+        "año": null,
+        "versiones": [
+            "GT-LINE 84.0KWH AWD"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "GT-LINE 84.0KWH AWD": "Permanent Magnet Synchoronous Motor (PMSM)"
+        },
+        "cilindrada": null,
+        "potencia_hp": {
+            "GT-LINE 84.0KWH AWD": "321"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "GT-LINE 84.0KWH AWD": "605"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico",
+        "transmision": {
+            "GT-LINE 84.0KWH AWD": "Caja reductora de velocidad única (accionamiento automático)"
+        },
+        "traccion": {
+            "GT-LINE 84.0KWH AWD": "e-AWD"
+        }
+    },
+    "direccion": {
+        "tipo": "Asistida Eléctricamente (C-MDPS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "McPherson strut",
+        "suspension_trasera": "Multi-Link (5-link)",
+        "frenos_delanteros": null,
+        "frenos_traseros": "Frenos de disco traseros y delanteros",
+        "freno_estacionamiento": "Freno de estacionamiento eléctrico (EPB) con Autohold",
+        "neumaticos": {
+            "GT-LINE 84.0KWH AWD": "255/45R20"
+        },
+        "rueda_repuesto": "Kit temporal de movilidad (TMK)"
+    },
+    "dimensiones": {
+        "largo_mm": 4695,
+        "ancho_mm": 1890,
+        "alto_mm": 1550,
+        "distancia_ejes_mm": 2900,
+        "despeje_suelo_mm": 160,
+        "peso_bruto_kg": 2600,
+        "capacidad_maletero_lts": "1.290 / 520",
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Motor trasero",
+            "GT-LINE 84.0KWH AWD": true
+        },
+        {
+            "caracteristica": "Motor delantero",
+            "GT-LINE 84.0KWH AWD": true
+        },
+        {
+            "caracteristica": "Potencia total (kW)",
+            "GT-LINE 84.0KWH AWD": "239"
+        },
+        {
+            "caracteristica": "Potencia total (Hp)",
+            "GT-LINE 84.0KWH AWD": "321"
+        },
+        {
+            "caracteristica": "Torque total (Nm)",
+            "GT-LINE 84.0KWH AWD": "605"
+        },
+        {
+            "caracteristica": "Potencia motor trasero (kW/rpm)",
+            "GT-LINE 84.0KWH AWD": "165 / 4.600-9.200"
+        },
+        {
+            "caracteristica": "Torque motor trasero (hp/rpm)",
+            "GT-LINE 84.0KWH AWD": "350 / 4.400"
+        },
+        {
+            "caracteristica": "Potencia motor delantero (kW/rpm)",
+            "GT-LINE 84.0KWH AWD": "74 / 2.800-6.200"
+        },
+        {
+            "caracteristica": "Torque motor delantero (hp/rpm)",
+            "GT-LINE 84.0KWH AWD": "255 / 2.600"
+        },
+        {
+            "caracteristica": "0 a 100 km/h",
+            "GT-LINE 84.0KWH AWD": "5,3 s"
+        },
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "GT-LINE 84.0KWH AWD": "188"
+        },
+        {
+            "caracteristica": "Autonomía WLTP - AER (km)",
+            "GT-LINE 84.0KWH AWD": "470 ~ 522"
+        },
+        {
+            "caracteristica": "Capacidad energía (kWh)",
+            "GT-LINE 84.0KWH AWD": "84,0 (Long-range)"
+        },
+        {
+            "caracteristica": "Voltaje (V)",
+            "GT-LINE 84.0KWH AWD": "697"
+        },
+        {
+            "caracteristica": "Peso batería (kg)",
+            "GT-LINE 84.0KWH AWD": "476,2"
+        },
+        {
+            "caracteristica": "ICCU - OBC potencia máxima (kW)",
+            "GT-LINE 84.0KWH AWD": "7 (monofásico) / 10,5 (trifásico)"
+        },
+        {
+            "caracteristica": "ICCU - LDC potencia máxima (kW)",
+            "GT-LINE 84.0KWH AWD": "1,8"
+        },
+        {
+            "caracteristica": "Carga lenta AC-Type2 / cargador de emergencia (10~100%)",
+            "GT-LINE 84.0KWH AWD": "34h 40m (230V / 12A)"
+        },
+        {
+            "caracteristica": "Carga lenta AC-Type2 / carga domiciliaria o wallbox (10~100%)",
+            "GT-LINE 84.0KWH AWD": "10h 52m (230V / 12A)"
+        },
+        {
+            "caracteristica": "Carga lenta AC-Type2 / carga pública 11kW (10~100%)",
+            "GT-LINE 84.0KWH AWD": "7h 35m (230V / 16A)"
+        },
+        {
+            "caracteristica": "Carga rápida DC-CCS2 / carga pública 50kW (10~80%)",
+            "GT-LINE 84.0KWH AWD": "81m (Máx. 125A)"
+        },
+        {
+            "caracteristica": "Carga rápida DC-CCS2 / carga pública 350kW (10~80%)",
+            "GT-LINE 84.0KWH AWD": "18m (Máx. 200A)"
+        },
+        {
+            "caracteristica": "Sistema de fuente de energía (V2V-V2L-V2G)",
+            "GT-LINE 84.0KWH AWD": "3,6 kW (120~230V)"
+        },
+        {
+            "caracteristica": "Sistema de frenado regenerativo inteligente",
+            "GT-LINE 84.0KWH AWD": true
+        },
+        {
+            "caracteristica": "Capacidad compartimiento delantero (l)",
+            "GT-LINE 84.0KWH AWD": "20"
+        },
+        {
+            "caracteristica": "Capacidad detrás de 1ra/2da corrida de asientos (l)",
+            "GT-LINE 84.0KWH AWD": "1.290 / 520"
+        },
+        {
+            "caracteristica": "Capacidad de remolque frenado (kg)",
+            "GT-LINE 84.0KWH AWD": "1.800"
+        },
+        {
+            "caracteristica": "Capacidad de remolque sin frenos (kg)",
+            "GT-LINE 84.0KWH AWD": "750"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [
+            "Antena tiburón",
+            "Espejos exteriores color Black High Glossy",
+            "Espejos exteriores eléctricos y calefaccionados",
+            "Espejos exteriores con señalizador/abatibles eléctricamente",
+            "Manillas exteriores ocultas con apertura automática",
+            "Molduras superior llantas color carrocería",
+            "Vidrios tintados tipo solar y privacy glass",
+            "Spoiler trasero con luces de cortesía laterales",
+            "Luces delanteras de proyección LED con Dynamic bending",
+            "Luces diurnas (DRL) LED",
+            "Neblineros traseros LED",
+            "Luces traseras LED",
+            "Llantas de aleación aro 20'' (Bi-tono black glossy diamantadas)",
+            "Sunroof delantero"
+        ],
+        "interior": [
+            "Radio con pantalla LCD 12,3\" touch a color",
+            "Conectividad inalámbrica Apple Carplay & Android Auto",
+            "Cluster de supervisión LCD color 12,3\"",
+            "Bluetooth con reconocimiento de voz",
+            "Control de audio en volante",
+            "Múltiples puertos USB (5)",
+            "Cargador inalámbrico para celulares",
+            "Climatizador dual digital con touch switch",
+            "Sensor de lluvia",
+            "Encendido automático de luces",
+            "Smart key y botón de encendido",
+            "Encendido de motor a distancia",
+            "Asientos traseros abatibles 60/40 con función remota",
+            "Apoyabrazo central con compartimiento",
+            "Apoyabrazo central trasero con posavasos",
+            "Parasol con espejo iluminado para conductor y pasajero",
+            "Volante regulable electrónicamente en altura y profundidad",
+            "Volante forrado en eco-cuero",
+            "Alzavidrios eléctricos totales con Auto Up/Down & Safety",
+            "Espejo retrovisor electrocromático",
+            "Modo de selección de manejo (Eco/Normal/Sport/Snow)",
+            "Palanca de cambios dial (E-Shift)",
+            "Freno de estacionamiento eléctrico (EPB) con Autohold",
+            "Luces de ambiente (Mood lamp)",
+            "Modo de pedal inteligente (i-Pedal)",
+            "Asiento conductor eléctrico con función Premium Relaxion",
+            "Asientos delanteros con soporte lumbar eléctrico",
+            "Asiento conductor eléctrico con memoria",
+            "Asiento pasajero eléctrico con ajuste en altura eléctrico",
+            "Asientos con tapiz de eco-cuero tipo gamuza",
+            "Asientos delanteros y traseros calefaccionados",
+            "Asientos delanteros ventilados",
+            "Volante calefaccionado",
+            "Sistema de audio premium Meridian",
+            "Sistema de sonido activo (ASD)",
+            "Puerta trasera inteligente",
+            "Pedales de aluminio"
+        ],
+        "seguridad": [
+            "Anclaje ISOFIX",
+            "Inmovilizador y alarma",
+            "Seguro de niño en puertas automático",
+            "Cierre Centralizado",
+            "Cierre centralizado automático con apertura frente a impacto",
+            "Cierre centralizado por sensor de velocidad (20km/h)",
+            "Cinturones de seguridad delanteros con altura regulable",
+            "Cinturones de seguridad delanteros pretensionados",
+            "Cinturones de seguridad 3 puntas en todos los asientos",
+            "Alerta de cint. de seguridad para todos los asientos",
+            "Frenos de disco traseros y delanteros",
+            "Airbags frontales delanteros",
+            "Airbags laterales y airbags de cortina",
+            "Sensores de proximidad traseros y delanteros",
+            "Sensores de estacionamientos laterales",
+            "Frenos ABS con EBD",
+            "Frenos de colisión múltiple (MCB)",
+            "Control de estabilidad (ESC)",
+            "Sistema de estabilidad (VSM)",
+            "Asistente de partida en pendiente (HAC)",
+            "Monitor de presión de neumáticos (TPMS)",
+            "Alerta de pasajero en asiento trasero (ROA)",
+            "Asistente de salida segura (SEA)",
+            "Alerta de atención al conductor (DAW)",
+            "Limitador de velocidad inteligente (ISLA)",
+            "Asistente de luces altas (HBA)",
+            "Sistema de luces frontales inteligente (IFS)",
+            "Asistente de intervención de punto ciego (BCA)",
+            "Asistente de intervención de tráfico cruzado (RCCA)",
+            "Asistente de mantenimiento de carril (LKA)",
+            "Asistente de seguimiento de carril (LFA)",
+            "Asistente de colisión frontal 2 (FCA2)",
+            "Asistente de colisión frontal en giro/cruces (FCA -JX)",
+            "Control crucero inteligente (SCC) con Stop & Go",
+            "Asistente de colisión en estacionamiento (PCA)",
+            "Control de Tracción Avanzado en Curvas (ATCC)",
+            "Monitor de punto ciego (BVM)",
+            "Cámara de estacionamiento 360° con visión 3D (SVM)"
+        ],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "BLANCO SNOW (SWP)",
+        "GRIS WOLF (C7S)",
+        "ROJO CÁLIDO (CR5)"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-03-11",
+        "metodo_extraccion": "Lectura de ficha técnica KIA EV6 (punto negro=true, punto blanco=false; texto/valores tal cual)",
+        "fuente": "Ficha-Tecnica-NuevoEV6.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información visible del documento para la versión GT-LINE 84.0KWH AWD. Código versión: 2409."
+    }
+}

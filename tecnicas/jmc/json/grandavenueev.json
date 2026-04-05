@@ -1,0 +1,316 @@
+{
+    "vehiculo": {
+        "marca": "JMC",
+        "modelo": "NEW GRAND AVENUE EV",
+        "año": null,
+        "versiones": [
+            "NEW GRAND AVENUE EV"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "NEW GRAND AVENUE EV": "DE IMÁN PERMANENTE SINCRÓNICO"
+        },
+        "cilindrada": {
+            "NEW GRAND AVENUE EV": null
+        },
+        "potencia_hp": {
+            "NEW GRAND AVENUE EV": "241"
+        },
+        "potencia_rpm": {
+            "NEW GRAND AVENUE EV": null
+        },
+        "torque_nm": {
+            "NEW GRAND AVENUE EV": "385"
+        },
+        "torque_rpm": {
+            "NEW GRAND AVENUE EV": null
+        },
+        "combustible": "CORRIENTE",
+        "transmision": {
+            "NEW GRAND AVENUE EV": "ACCIONAMIENTO ELÉCTRICO"
+        },
+        "traccion": "TRASERA"
+    },
+    "direccion": {
+        "tipo": "ELECTROASISTIDA"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "MCPHERSON",
+        "suspension_trasera": "PAQUETE DE RESORTE INDEPENDIENTE",
+        "frenos_delanteros": "DISCO VENTILADO",
+        "frenos_traseros": "DISCOS",
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "NEW GRAND AVENUE EV": "265/65 R17"
+        },
+        "rueda_repuesto": "265/65 R17"
+    },
+    "dimensiones": {
+        "largo_mm": 5475,
+        "ancho_mm": 1935,
+        "alto_mm": 1866,
+        "distancia_ejes_mm": 3270,
+        "despeje_suelo_mm": 230,
+        "peso_bruto_kg": 3100,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": null,
+        "numero_pasajeros": 5
+    },
+    "tabla_comparativa_rendimiento": [],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos retrovisores eléctricos",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Espejos retrovisores con apertura y cierre eléctrico",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Señalizadores en espejo retrovisor",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Cierre de puertas con comando a distancia",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Follow me home",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Parachoques a tono de carrocería",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Faros LED",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Luz diurna",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento delantero",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso con sist 360°",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Guardafangos",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Sensor de estacionamiento trasero",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Llantas",
+                "NEW GRAND AVENUE EV": "ALEACIÓN"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "NEW GRAND AVENUE EV": "265/65 R17"
+            },
+            {
+                "caracteristica": "Neumático de repuesto tipo / medida",
+                "NEW GRAND AVENUE EV": "265/65 R17"
+            },
+            {
+                "caracteristica": "Presión de inflado PSI",
+                "NEW GRAND AVENUE EV": "32"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Aire acondicionado",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Anti trap",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Tapiz",
+                "NEW GRAND AVENUE EV": "ECO CUERO"
+            },
+            {
+                "caracteristica": "Asiento del piloto ajustable electrico",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Asiento del copiloto deslizable y con ajuste manual",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Bolsillo porta mapa puertas delanteras",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Sensor de presión de neumáticos",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Bolsillo porta revista respaldo de asientos delanteros",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Volante regulable en altura",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Volante multifuncional",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Control crucero",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Radio",
+                "NEW GRAND AVENUE EV": "CAR PLAY ANDROIDE AUTO INALÁMBRICA"
+            },
+            {
+                "caracteristica": "Pantalla touch",
+                "NEW GRAND AVENUE EV": "10\""
+            },
+            {
+                "caracteristica": "Bluetooth",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Luz delantera para lectura de mapas",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Portavasos",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Espejo retrovisor central antirreflejo",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Regulador de altura de faros",
+                "NEW GRAND AVENUE EV": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Sistema antirrobo (llave codificada)",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Alarma",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Apoya cabezas delanteros y traseros",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Airbags",
+                "NEW GRAND AVENUE EV": 6
+            },
+            {
+                "caracteristica": "ABS (control antideslizante)",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Barra acero laterales de puerta",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Carrocería con zona de deformación programada",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Cinturones delanteros con bloqueo de emergencia",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Cinturones traseros laterales de tres puntas",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Cinturón trasero central",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Luz indicador del no uso del cinturón de seguridad del conductor",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Columna de dirección colapsable",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Parachoques con sistema de absorción de impactos",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Carrocería y jaula integrada",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Seguros de niños en puertas traseras",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Alarma puerta abierta (luz piloto en tablero)",
+                "NEW GRAND AVENUE EV": true
+            },
+            {
+                "caracteristica": "Alarma de olvido de llaves",
+                "NEW GRAND AVENUE EV": true
+            }
+        ],
+        "adas": [],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "VERDE",
+        "GRAFITO",
+        "NEGRO",
+        "PLATA",
+        "BLANCO PERLA"
+    ],
+    "metadata": {
+        "fecha_extraccion": "2026-02-26",
+        "metodo_extraccion": "Lectura de tabla de ficha técnica JMC (●=true, vacío/○=false; texto/valores tal cual)",
+        "fuente": "JMC.FICHA_.GAEV-080925-1.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Batería: fosfato de hierro y litio; capacidad acumulación energía 88 kWh; sistema voltaje AC&DC; capacidad de carga baterías 173 A; entrada voltaje carga vehículo IEC (EUROPEO); autonomía máxima NEDC 423; velocidad máxima 160 km/h; normativa EUROPEA; consumo de energía 20,9 kWh/100 km. Recarga: carga rápida ≤120 kW (0-80% 30 min), carga lenta (0-80% 8 horas). Carga domiciliaria: conector AC CCS2 hacia vehículo y lado red eléctrica, tensión nominal 220V, corriente máxima 250A. Carga rápida red pública: modo 3/4, conector CCS2, tensión nominal 376V, corriente máxima 173A. Suspensión/frenos: ABS + EBD; voladizo trasero 1260 mm; voladizo delantero 905 mm; máxima capacidad de ascenso 30%; capacidad de arranque en pendiente 25%; capacidad de carga 820 kg. Garantía batería principal: 6 años o 300.000 km."
+    }
+}

@@ -1,0 +1,717 @@
+{
+    "vehiculo": {
+        "marca": "Maxus",
+        "modelo": "T60 GL / GLX",
+        "año": null,
+        "versiones": [
+            "4X2_GL_6MT",
+            "4X2_GL_6MT_4AB",
+            "4X2_GL_6AT",
+            "4X2_GL_8AT_4AB",
+            "4X4_GL_6MT",
+            "4X4_GL_6MT_4AB",
+            "4X4_GLX_6AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "4X2_GL_6MT": "SAIC D20 TURBO",
+            "4X2_GL_6MT_4AB": "SAIC D20 TURBO",
+            "4X2_GL_6AT": "SAIC D20 TURBO",
+            "4X2_GL_8AT_4AB": "SAIC D20 TURBO",
+            "4X4_GL_6MT": "SAIC D20 TURBO",
+            "4X4_GL_6MT_4AB": "SAIC D20 TURBO",
+            "4X4_GLX_6AT": "SAIC D20 TURBO"
+        },
+        "cilindrada": {
+            "4X2_GL_6MT": 1.996,
+            "4X2_GL_6MT_4AB": 1.996,
+            "4X2_GL_6AT": 1.996,
+            "4X2_GL_8AT_4AB": 1.996,
+            "4X4_GL_6MT": 1.996,
+            "4X4_GL_6MT_4AB": 1.996,
+            "4X4_GLX_6AT": 1.996
+        },
+        "potencia_hp": {
+            "4X2_GL_6MT": "163",
+            "4X2_GL_6MT_4AB": "163",
+            "4X2_GL_6AT": "163",
+            "4X2_GL_8AT_4AB": "163",
+            "4X4_GL_6MT": "163",
+            "4X4_GL_6MT_4AB": "163",
+            "4X4_GLX_6AT": "163"
+        },
+        "potencia_rpm": {
+            "4X2_GL_6MT": null,
+            "4X2_GL_6MT_4AB": null,
+            "4X2_GL_6AT": null,
+            "4X2_GL_8AT_4AB": null,
+            "4X4_GL_6MT": null,
+            "4X4_GL_6MT_4AB": null,
+            "4X4_GLX_6AT": null
+        },
+        "torque_nm": {
+            "4X2_GL_6MT": "400",
+            "4X2_GL_6MT_4AB": "400",
+            "4X2_GL_6AT": "400",
+            "4X2_GL_8AT_4AB": "400",
+            "4X4_GL_6MT": "400",
+            "4X4_GL_6MT_4AB": "400",
+            "4X4_GLX_6AT": "400"
+        },
+        "torque_rpm": {
+            "4X2_GL_6MT": null,
+            "4X2_GL_6MT_4AB": null,
+            "4X2_GL_6AT": null,
+            "4X2_GL_8AT_4AB": null,
+            "4X4_GL_6MT": null,
+            "4X4_GL_6MT_4AB": null,
+            "4X4_GLX_6AT": null
+        },
+        "combustible": {
+            "4X2_GL_6MT": "Diesel",
+            "4X2_GL_6MT_4AB": "Diesel",
+            "4X2_GL_6AT": "Diesel",
+            "4X2_GL_8AT_4AB": "Diesel",
+            "4X4_GL_6MT": "Diesel",
+            "4X4_GL_6MT_4AB": "Diesel",
+            "4X4_GLX_6AT": "Diesel"
+        },
+        "sistema_alimentacion": {
+            "4X2_GL_6MT": null,
+            "4X2_GL_6MT_4AB": null,
+            "4X2_GL_6AT": null,
+            "4X2_GL_8AT_4AB": null,
+            "4X4_GL_6MT": null,
+            "4X4_GL_6MT_4AB": null,
+            "4X4_GLX_6AT": null
+        },
+        "norma_emisiones": {
+            "4X2_GL_6MT": "Euro 6C",
+            "4X2_GL_6MT_4AB": "Euro 6C",
+            "4X2_GL_6AT": "Euro 6C",
+            "4X2_GL_8AT_4AB": "Euro 6C",
+            "4X4_GL_6MT": "Euro 6C",
+            "4X4_GL_6MT_4AB": "Euro 6C",
+            "4X4_GLX_6AT": "Euro 6C"
+        },
+        "transmision": {
+            "4X2_GL_6MT": "MT 6 velocidades",
+            "4X2_GL_6MT_4AB": "MT 6 velocidades",
+            "4X2_GL_6AT": "AT 6 velocidades",
+            "4X2_GL_8AT_4AB": "AT ZF 8 velocidades",
+            "4X4_GL_6MT": "MT 6 velocidades",
+            "4X4_GL_6MT_4AB": "MT 6 velocidades",
+            "4X4_GLX_6AT": "AT 6 velocidades"
+        },
+        "traccion": {
+            "4X2_GL_6MT": "4X2",
+            "4X2_GL_6MT_4AB": "4X2",
+            "4X2_GL_6AT": "4X2",
+            "4X2_GL_8AT_4AB": "4X2",
+            "4X4_GL_6MT": "4X4",
+            "4X4_GL_6MT_4AB": "4X4",
+            "4X4_GLX_6AT": "4X4"
+        }
+    },
+    "direccion": {
+        "tipo": "Hidráulica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Doble horquilla",
+        "suspension_trasera": "Ballestas",
+        "frenos_delanteros": "Disco (en 4 ruedas)",
+        "frenos_traseros": "Disco (en 4 ruedas)",
+        "freno_de_mano": null,
+        "neumaticos": {
+            "4X2_GL_6MT": "245/65 R17",
+            "4X2_GL_6MT_4AB": "245/65 R17",
+            "4X2_GL_6AT": "245/65 R17",
+            "4X2_GL_8AT_4AB": "245/65 R17",
+            "4X4_GL_6MT": "245/65 R17",
+            "4X4_GL_6MT_4AB": "245/65 R17",
+            "4X4_GLX_6AT": "245/65 R17"
+        },
+        "rueda_repuesto": {
+            "4X2_GL_6MT": "245/65 R17",
+            "4X2_GL_6MT_4AB": "245/65 R17",
+            "4X2_GL_6AT": "245/65 R17",
+            "4X2_GL_8AT_4AB": "245/65 R17",
+            "4X4_GL_6MT": "245/65 R17",
+            "4X4_GL_6MT_4AB": "245/65 R17",
+            "4X4_GLX_6AT": "245/65 R17"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 5365,
+        "ancho_mm": 1900,
+        "alto_mm": 1809,
+        "distancia_ejes_mm": 3155,
+        "numero_pasajeros": null,
+        "capacidad_estanque_lts": null,
+        "capacidad_maletero_lts": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Capacidad de arrastre (kg) (carro con frenos)",
+            "4X2_GL_6MT": "3000",
+            "4X2_GL_6MT_4AB": "3000",
+            "4X2_GL_6AT": "3000",
+            "4X2_GL_8AT_4AB": "3000",
+            "4X4_GL_6MT": "3000",
+            "4X4_GL_6MT_4AB": "3000",
+            "4X4_GLX_6AT": "3000"
+        },
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "4X2_GL_6MT": "800",
+            "4X2_GL_6MT_4AB": "1115",
+            "4X2_GL_6AT": "800",
+            "4X2_GL_8AT_4AB": "1085",
+            "4X4_GL_6MT": "800",
+            "4X4_GL_6MT_4AB": "1035",
+            "4X4_GLX_6AT": "800"
+        },
+        {
+            "caracteristica": "Peso bruto vehicular (kg)",
+            "4X2_GL_6MT": "2850",
+            "4X2_GL_6MT_4AB": "3000",
+            "4X2_GL_6AT": "2850",
+            "4X2_GL_8AT_4AB": "3000",
+            "4X4_GL_6MT": "3050",
+            "4X4_GL_6MT_4AB": "3050",
+            "4X4_GLX_6AT": "3050"
+        },
+        {
+            "caracteristica": "Despeje mínimo del suelo (mm)",
+            "4X2_GL_6MT": "215",
+            "4X2_GL_6MT_4AB": "215",
+            "4X2_GL_6AT": "215",
+            "4X2_GL_8AT_4AB": "215",
+            "4X4_GL_6MT": "215",
+            "4X4_GL_6MT_4AB": "215",
+            "4X4_GLX_6AT": "215"
+        },
+        {
+            "caracteristica": "Llantas de aleación",
+            "4X2_GL_6MT": "17\"",
+            "4X2_GL_6MT_4AB": "17\"",
+            "4X2_GL_6AT": "17\"",
+            "4X2_GL_8AT_4AB": "17\"",
+            "4X4_GL_6MT": "17\"",
+            "4X4_GL_6MT_4AB": "17\"",
+            "4X4_GLX_6AT": "17\""
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos exteriores abatibles eléctricamente",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Espejos exteriores color carrocería",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": false
+            },
+            {
+                "caracteristica": "Espejos exteriores cromados",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Parachoques trasero color carrocería",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": false
+            },
+            {
+                "caracteristica": "Parachoques trasero cromado",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Espejos exteriores con ajuste eléctrico",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Manilla portalón con cerradura",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Iluminación exterior frontal",
+                "4X2_GL_6MT": "Halógena con lupa",
+                "4X2_GL_6MT_4AB": "Halógena con lupa",
+                "4X2_GL_6AT": "Halógena con lupa",
+                "4X2_GL_8AT_4AB": "Halógena con lupa",
+                "4X4_GL_6MT": "Halógena con lupa",
+                "4X4_GL_6MT_4AB": "Halógena con lupa",
+                "4X4_GLX_6AT": "LED"
+            },
+            {
+                "caracteristica": "Iluminación exterior trasera",
+                "4X2_GL_6MT": "Halógena",
+                "4X2_GL_6MT_4AB": "Halógena",
+                "4X2_GL_6AT": "Halógena",
+                "4X2_GL_8AT_4AB": "Halógena",
+                "4X4_GL_6MT": "Halógena",
+                "4X4_GL_6MT_4AB": "Halógena",
+                "4X4_GLX_6AT": "Halógena"
+            },
+            {
+                "caracteristica": "Iluminación LED diurna",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Neblineros delanteros",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Neblineros traseros",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Limpiaparabrisas delantero automático",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Ganchos de carga",
+                "4X2_GL_6MT": "Interiores",
+                "4X2_GL_6MT_4AB": "Interiores",
+                "4X2_GL_6AT": "Interiores",
+                "4X2_GL_8AT_4AB": "Interiores",
+                "4X4_GL_6MT": "Interiores",
+                "4X4_GL_6MT_4AB": "Interiores",
+                "4X4_GLX_6AT": "Interiores"
+            },
+            {
+                "caracteristica": "Pisaderas",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": false
+            },
+            {
+                "caracteristica": "Barras de techo",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Asientos delanteros calefaccionados",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Regulador de luces altas",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Volante forrado en ecocuero",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Volante multifunción",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Volante ajustable en altura",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Ajuste asiento conductor",
+                "4X2_GL_6MT": "Manual 6 posiciones",
+                "4X2_GL_6MT_4AB": "Manual 6 posiciones",
+                "4X2_GL_6AT": "Manual 6 posiciones",
+                "4X2_GL_8AT_4AB": "Manual 6 posiciones",
+                "4X4_GL_6MT": "Manual 6 posiciones",
+                "4X4_GL_6MT_4AB": "Manual 6 posiciones",
+                "4X4_GLX_6AT": "Eléctrico 4 posiciones"
+            },
+            {
+                "caracteristica": "Ajuste asiento copiloto",
+                "4X2_GL_6MT": "Manual 4 posiciones",
+                "4X2_GL_6MT_4AB": "Manual 4 posiciones",
+                "4X2_GL_6AT": "Manual 4 posiciones",
+                "4X2_GL_8AT_4AB": "Manual 4 posiciones",
+                "4X4_GL_6MT": "Manual 4 posiciones",
+                "4X4_GL_6MT_4AB": "Manual 4 posiciones",
+                "4X4_GLX_6AT": "Eléctrico 4 posiciones"
+            },
+            {
+                "caracteristica": "Tapiz de asientos",
+                "4X2_GL_6MT": "Tela",
+                "4X2_GL_6MT_4AB": "Tela",
+                "4X2_GL_6AT": "Tela",
+                "4X2_GL_8AT_4AB": "Tela",
+                "4X4_GL_6MT": "Tela",
+                "4X4_GL_6MT_4AB": "Tela",
+                "4X4_GLX_6AT": "Ecocuero"
+            },
+            {
+                "caracteristica": "Computador a bordo",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Radio Touchscreen 10,25\"",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Llave con control remoto",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": false
+            },
+            {
+                "caracteristica": "Botón de encendido",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Sistema Keyless",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Aire acondicionado",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Conectividad Apple Car Play / Android Auto",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Parlantes",
+                "4X2_GL_6MT": "4",
+                "4X2_GL_6MT_4AB": "4",
+                "4X2_GL_6AT": "4",
+                "4X2_GL_8AT_4AB": "4",
+                "4X4_GL_6MT": "4",
+                "4X4_GL_6MT_4AB": "4",
+                "4X4_GLX_6AT": "6"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Control crucero",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Asistente de inicio en pendiente",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Control de descenso",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Sistema antibloqueo de frenos ABS",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Asistente de frenado de emergencia EBA",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad ESP",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Sistema de protección antivuelco",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Monitor de presión de neumáticos TPMS",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": false
+            },
+            {
+                "caracteristica": "Airbags frontales",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Airbags laterales",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Airbags de cortina",
+                "4X2_GL_6MT": false,
+                "4X2_GL_6MT_4AB": false,
+                "4X2_GL_6AT": false,
+                "4X2_GL_8AT_4AB": false,
+                "4X4_GL_6MT": false,
+                "4X4_GL_6MT_4AB": false,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Cámara de retroceso",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": "SI - HD",
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": "SI - HD",
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": "SI - HD",
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "4X2_GL_6MT": "Traseros",
+                "4X2_GL_6MT_4AB": "Traseros",
+                "4X2_GL_6AT": "Traseros",
+                "4X2_GL_8AT_4AB": "Traseros",
+                "4X4_GL_6MT": "Traseros",
+                "4X4_GL_6MT_4AB": "Traseros",
+                "4X4_GLX_6AT": "Traseros"
+            },
+            {
+                "caracteristica": "Cinturones de seguridad con pretensor",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Sistema para protección de niños ISOFIX",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Cierre centralizado",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            },
+            {
+                "caracteristica": "Inmovilizador",
+                "4X2_GL_6MT": true,
+                "4X2_GL_6MT_4AB": true,
+                "4X2_GL_6AT": true,
+                "4X2_GL_8AT_4AB": true,
+                "4X4_GL_6MT": true,
+                "4X4_GL_6MT_4AB": true,
+                "4X4_GLX_6AT": true
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Conversión de ficha técnica a formato estándar (SI=true, NO=false; cuando el dato aparece como una sola celda en la tabla, aplica a todas las versiones).",
+        "fuente": "MAXUS_FT-T60 GL-GLX (1).pdf",
+        "versiones_en_documento": 7,
+        "notas": null
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "año": null,
+        "versiones": [
+            "Mercedes-Benz Clase E 300"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "Mercedes-Benz Clase E 300": "4 cilindros en línea"
+        },
+        "cilindrada": {
+            "Mercedes-Benz Clase E 300": 1999
+        },
+        "potencia_hp": {
+            "Mercedes-Benz Clase E 300": "258 CV (+23 CV)"
+        },
+        "potencia_rpm": {
+            "Mercedes-Benz Clase E 300": null
+        },
+        "torque_nm": {
+            "Mercedes-Benz Clase E 300": "400 Nm (+205 Nm)"
+        },
+        "torque_rpm": {
+            "Mercedes-Benz Clase E 300": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "Mercedes-Benz Clase E 300": "9G-TRONIC"
+        },
+        "traccion": {
+            "Mercedes-Benz Clase E 300": "trasera"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión AIRMATIC",
+        "suspension_trasera": "Suspensión AIRMATIC",
+        "frenos_delanteros": "Discos de freno de mayores dimensiones y perforados en el eje delantero",
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "Mercedes-Benz Clase E 300": "Delante 245/40 y Detrás 275/30"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 540,
+        "capacidad_estanque_lts": 66,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "Mercedes-Benz Clase E 300": "219 Km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "Mercedes-Benz Clase E 300": "7,2"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "Mercedes-Benz Clase E 300": "14,2 Km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "Mercedes-Benz Clase E 300": "AMG Line"
+            },
+            {
+                "caracteristica": "Llantas de aleación",
+                "Mercedes-Benz Clase E 300": "AMG de 20\" en diseño multirradio"
+            },
+            {
+                "caracteristica": "Frenos",
+                "Mercedes-Benz Clase E 300": "Frenos especialmente resistentes con discos de freno de mayores dimensiones y perforados en el eje delantero"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "Mercedes-Benz Clase E 300": "Incluye funciones de protección, cierre automático en caso de lluvia y adaptación a la velocidad del vehículo"
+            },
+            {
+                "caracteristica": "Paquete de confort Acústico",
+                "Mercedes-Benz Clase E 300": "Vidrio acústico aislante del calor y el ruido, medidas de insonorización adicionales en carrocería"
+            },
+            {
+                "caracteristica": "Faros DIGITAL LIGHT",
+                "Mercedes-Benz Clase E 300": "Alumbrado frontal HD con más de 1 millón de píxeles por faro"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles electrónicamente",
+                "Mercedes-Benz Clase E 300": "Incluye antideslumbramiento automático"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "Mercedes-Benz Clase E 300": "Cuero ARTICO negro"
+            },
+            {
+                "caracteristica": "Volante",
+                "Mercedes-Benz Clase E 300": "Deportivo multifunción forrado en napa"
+            },
+            {
+                "caracteristica": "Molduras con detalles cromados",
+                "Mercedes-Benz Clase E 300": "Madera de fresno negro de poros abiertos retroiluminada"
+            },
+            {
+                "caracteristica": "Asientos delanteros con ajuste eléctrico",
+                "Mercedes-Benz Clase E 300": "Incluye calefacción de asientos y memorias"
+            },
+            {
+                "caracteristica": "Consola central",
+                "Mercedes-Benz Clase E 300": "Madera de fresno negro de poros abiertos"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "9 Airbags de serie",
+                "Mercedes-Benz Clase E 300": "Incluye Airbag de rodillas y Windowbags en cada ventanilla"
+            },
+            {
+                "caracteristica": "Kit Hermetizante TIREFIT",
+                "Mercedes-Benz Clase E 300": "Incluye compresor de inflado"
+            },
+            {
+                "caracteristica": "Suspensión AIRMATIC",
+                "Mercedes-Benz Clase E 300": "Suspensión neumática con sistema de amortiguación adaptativa"
+            },
+            {
+                "caracteristica": "Eje direccional trasero",
+                "Mercedes-Benz Clase E 300": "Ruedas traseras direccionables con ajuste del ángulo de giro de hasta 4,5"
+            },
+            {
+                "caracteristica": "Paquete GUARD 360°",
+                "Mercedes-Benz Clase E 300": "Incluye alarma antirrobo con sensores volumétricos"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "Mercedes-Benz Clase E 300": "Advierte de colisiones laterales con otros usuarios de la carretera"
+            },
+            {
+                "caracteristica": "Acceso KEYLESS-GO",
+                "Mercedes-Benz Clase E 300": "Comunicación con el vehículo en las inmediaciones de la puerta y maletero"
+            },
+            {
+                "caracteristica": "ENERGIZING AIR CONTROL",
+                "Mercedes-Benz Clase E 300": "Control de la calidad del aire con filtro de habitáculo con efecto antibacteriano"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "Mercedes-Benz Clase E 300": "Incluye cámara 360°"
+            },
+            {
+                "caracteristica": "Servofreno de emergencia activo",
+                "Mercedes-Benz Clase E 300": "Inicia un frenado autónomo para situaciones críticas"
+            },
+            {
+                "caracteristica": "Avisador de presión de neumáticos",
+                "Mercedes-Benz Clase E 300": "Sistema detecta presión de los neumáticos independientemente"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "Mercedes-Benz Clase E 300": "Sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "Mercedes-Benz Clase E 300": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador puesto de conducción",
+                "Mercedes-Benz Clase E 300": "12,3 Pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "Mercedes-Benz Clase E 300": "14,4 Pulgadas"
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "Mercedes-Benz Clase E 300": "Incluye carga inalámbrica delante"
+            },
+            {
+                "caracteristica": "Servocierre",
+                "Mercedes-Benz Clase E 300": "Cómodo cierre y apriete eléctrico de las puertas del vehículo"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "Mercedes-Benz Clase E 300": "Climatización automática con 2 zonas climáticas y filtro de carbón activado para polvo fino"
+            },
+            {
+                "caracteristica": "Sistema de Sonido Surround Burmester®",
+                "Mercedes-Benz Clase E 300": "11 Altavoces con 710W"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente activa",
+                "Mercedes-Benz Clase E 300": "Incluye diez conceptos cromáticos y 64 colores"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha Técnica_E_300_digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior para Clase E 300."
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "vehiculo": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "año": null,
+        "versiones": [
+            "E 450 4MATIC"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "E 450 4MATIC": "6 cilindros en línea"
+        },
+        "cilindrada": {
+            "E 450 4MATIC": 2999
+        },
+        "potencia_hp": {
+            "E 450 4MATIC": "381 CV (+23 CV)"
+        },
+        "potencia_rpm": {
+            "E 450 4MATIC": null
+        },
+        "torque_nm": {
+            "E 450 4MATIC": "500 Nm (+205 Nm)"
+        },
+        "torque_rpm": {
+            "E 450 4MATIC": null
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "E 450 4MATIC": "9G-TRONIC"
+        },
+        "traccion": {
+            "E 450 4MATIC": "Integral Permanente"
+        }
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Suspensión AIRMATIC",
+        "suspension_trasera": "Suspensión AIRMATIC",
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "E 450 4MATIC": "225/55 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": null,
+        "ancho_mm": null,
+        "alto_mm": null,
+        "distancia_ejes_mm": null,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 540,
+        "capacidad_estanque_lts": 66,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Velocidad máxima (km/h)",
+            "E 450 4MATIC": "250 Km/h"
+        },
+        {
+            "caracteristica": "Aceleración 0-100 km/h (s)",
+            "E 450 4MATIC": "4,5"
+        },
+        {
+            "caracteristica": "Consumo mixto (km/l)",
+            "E 450 4MATIC": "12,3 Km/L"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Kit estético exterior",
+                "E 450 4MATIC": "Exclusive Line"
+            },
+            {
+                "caracteristica": "Neumáticos",
+                "E 450 4MATIC": "225/55 R18"
+            },
+            {
+                "caracteristica": "Eje direccional trasero",
+                "E 450 4MATIC": "Ruedas traseras direccionables con ajuste del ángulo de giro de hasta 4,5"
+            },
+            {
+                "caracteristica": "Techo corredizo panorámico",
+                "E 450 4MATIC": "Incluye funciones de protección y cierre automático en caso de lluvia."
+            },
+            {
+                "caracteristica": "Paquete de confort Acústico",
+                "E 450 4MATIC": "Vidrio acústico aislante del calor y el ruido, medidas de insonorización adicionales en carrocería"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Tapiz",
+                "E 450 4MATIC": "Cuero ARTICO negro"
+            },
+            {
+                "caracteristica": "Volante",
+                "E 450 4MATIC": "Volante deportivo multifunción en napa de cuero"
+            },
+            {
+                "caracteristica": "Molduras con detalles cromados",
+                "E 450 4MATIC": "Molduras de madera de fresno negro de poros abiertos"
+            },
+            {
+                "caracteristica": "Asientos delanteros confort con ajuste eléctrico",
+                "E 450 4MATIC": "Incluye climatización de asientos y memorias"
+            },
+            {
+                "caracteristica": "Asientos traseros",
+                "E 450 4MATIC": "De confort Calefactados"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "12 Airbags de serie",
+                "E 450 4MATIC": "Incluye Airbag de rodillas, central, laterales detrás y Windowbags en cada ventanilla"
+            },
+            {
+                "caracteristica": "Asistencia a la conducción Plus",
+                "E 450 4MATIC": "Incluye función de maniobra evasiva"
+            },
+            {
+                "caracteristica": "Control de punto ciego",
+                "E 450 4MATIC": "Advierte de colisiones laterales con otros usuarios de la carretera"
+            },
+            {
+                "caracteristica": "ENERGIZING AIR CONTROL",
+                "E 450 4MATIC": "Control de la calidad del aire con filtro de habitáculo con efecto antibacteriano"
+            },
+            {
+                "caracteristica": "Ayuda activa para estacionar PARKTRONIC",
+                "E 450 4MATIC": "Incluye cámara 360°"
+            },
+            {
+                "caracteristica": "Suspensión AIRMATIC",
+                "E 450 4MATIC": "Suspensión neumática con sistema de amortiguación adaptativa"
+            },
+            {
+                "caracteristica": "Paquete GUARD 360°",
+                "E 450 4MATIC": "Incluye alarma antirrobo con sensores volumétricos"
+            },
+            {
+                "caracteristica": "Acceso KEYLESS-GO",
+                "E 450 4MATIC": "Comunicación con el vehículo en las inmediaciones de la puerta y maletero"
+            },
+            {
+                "caracteristica": "Sistema de seguridad PRE-SAFE",
+                "E 450 4MATIC": "Desplazamiento y amortiguación con especial seguridad gracias a la suspensión neumática AIRMATIC"
+            },
+            {
+                "caracteristica": "Avisador de presión de neumáticos",
+                "E 450 4MATIC": "Sistema detecta presión de los neumáticos independientemente"
+            },
+            {
+                "caracteristica": "Kit Hermetizante TIREFIT",
+                "E 450 4MATIC": "Incluye compresor de inflado"
+            }
+        ],
+        "adas": [],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema multimedia MBUX (Mercedes-Benz User Experience)",
+                "E 450 4MATIC": "Sistema multimedia digitalizado personalizable"
+            },
+            {
+                "caracteristica": "Asistente de mando fónico MBUX",
+                "E 450 4MATIC": "<<Hey Mercedes>>"
+            },
+            {
+                "caracteristica": "Visualizador Puesto de conducción",
+                "E 450 4MATIC": "12,3 Pulgadas"
+            },
+            {
+                "caracteristica": "Visualizador de medios con tecnología Touch Screen",
+                "E 450 4MATIC": "14,4 Pulgadas"
+            },
+            {
+                "caracteristica": "Integración de Smartphone",
+                "E 450 4MATIC": "Incluye carga inalámbrica delante"
+            },
+            {
+                "caracteristica": "Servocierre",
+                "E 450 4MATIC": "Cómodo cierre y apriete eléctrico de las puertas del vehículo"
+            },
+            {
+                "caracteristica": "Climatización THERMATIC",
+                "E 450 4MATIC": "Climatización automática con 2 zonas climáticas y filtro de carbón activado para polvo fino"
+            },
+            {
+                "caracteristica": "Sistema de Sonido Surround Burmester®",
+                "E 450 4MATIC": "11 Altavoces con 710W"
+            },
+            {
+                "caracteristica": "Iluminación de ambiente activa",
+                "E 450 4MATIC": "Incluye diez conceptos cromáticos y 64 colores"
+            },
+            {
+                "caracteristica": "Faros DIGITAL LIGHT",
+                "E 450 4MATIC": "Alumbrado frontal HD con más de 1 millón de píxeles por faro"
+            },
+            {
+                "caracteristica": "Retrovisores exteriores abatibles electrónicamente",
+                "E 450 4MATIC": "Incluye antideslumbramiento automático"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [],
+    "metadata": {
+        "fecha_extraccion": "2026-03-02",
+        "metodo_extraccion": "Lectura completa de ficha técnica Mercedes-Benz (ticket=presente, vacío o -=no presente; texto respetado tal cual documento).",
+        "fuente": "Ficha técnica Clase E 450_Digital.pdf",
+        "versiones_en_documento": 1,
+        "notas": "Se extrajo toda la información de Especificaciones Técnicas, Seguridad, Tecnología, Equipamiento Exterior e Interior para Clase E 450 4MATIC."
+    }
+}

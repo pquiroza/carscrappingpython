@@ -1,0 +1,203 @@
+{
+    "vehiculo": {
+        "marca": "Lexus",
+        "modelo": "UX 300h",
+        "año": 2024,
+        "versiones": [
+            "PREMIUM",
+            "LUXURY"
+        ]
+    },
+    "motor": {
+        "tipo": "M20A-FXS",
+        "cilindrada": "1.987 cc / 4 cilindros",
+        "potencia_hp": {
+            "PREMIUM": "196 hp",
+            "LUXURY": "196 hp"
+        },
+        "potencia_rpm": null,
+        "torque_nm": {
+            "PREMIUM": "206 nm",
+            "LUXURY": "206 nm"
+        },
+        "torque_rpm": null,
+        "combustible": "Eléctrico-Híbrido Auto Recargable",
+        "transmision": "CVT",
+        "traccion": {
+            "PREMIUM": "4x2",
+            "LUXURY": "4x4 (E-Four)"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": "Disco ventilado",
+        "frenos_traseros": "Disco sólido",
+        "neumaticos": {
+            "PREMIUM": "215 / 60 R17",
+            "LUXURY": "225 / 50RF R18"
+        },
+        "rueda_repuesto": {
+            "PREMIUM": "Rueda repuesto reducida 18”",
+            "LUXURY": "No"
+        }
+    },
+    "dimensiones": {
+        "largo_mm": 4495,
+        "ancho_mm": 1840,
+        "alto_mm": 1520,
+        "distancia_ejes_mm": 2640,
+        "despeje_suelo_mm": null,
+        "peso_bruto_kg": null,
+        "capacidad_maletero_lts": 220,
+        "capacidad_estanque_lts": 43
+    },
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Llantas aleación 17”",
+            "PREMIUM": true,
+            "LUXURY": false
+        },
+        {
+            "caracteristica": "Llantas aleación 18”",
+            "PREMIUM": false,
+            "LUXURY": true
+        },
+        {
+            "caracteristica": "Neumáticos",
+            "PREMIUM": "215 / 60 R17",
+            "LUXURY": "225 / 50RF R18"
+        }
+    ],
+    "tabla_comparativa_peso": [],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Depósito combustible (lts)",
+            "PREMIUM": "43",
+            "LUXURY": "43"
+        },
+        {
+            "caracteristica": "Capacidad maleta (lts)",
+            "PREMIUM": "220",
+            "LUXURY": "220"
+        }
+    ],
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Potencia máxima / Torque máximo",
+            "PREMIUM": "196 hp / 206 nm",
+            "LUXURY": "196 hp / 206 nm"
+        },
+        {
+            "caracteristica": "Modos de conducción",
+            "PREMIUM": "Eco / Normal / Sport",
+            "LUXURY": "Eco / Normal / Sport"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "interior": [
+            {
+                "caracteristica": "Pantalla Touch",
+                "PREMIUM": "8”",
+                "LUXURY": "12,3”"
+            },
+            {
+                "caracteristica": "Espejo retrovisor electrocromático",
+                "PREMIUM": false,
+                "LUXURY": "Sí, automático"
+            },
+            {
+                "caracteristica": "Sunroof",
+                "PREMIUM": false,
+                "LUXURY": true
+            },
+            {
+                "caracteristica": "Portalón trasero",
+                "PREMIUM": "Manual",
+                "LUXURY": "Eléctrico + Manos libres"
+            },
+            {
+                "caracteristica": "Tela asientos",
+                "PREMIUM": "Tela",
+                "LUXURY": "Cuero"
+            },
+            {
+                "caracteristica": "Ajuste asiento delantero",
+                "PREMIUM": "Conductor y pasajero eléctrico 8 posiciones",
+                "LUXURY": "Conductor con memoria + Pasajero eléctrico 8 posiciones"
+            },
+            {
+                "caracteristica": "Sistema de audio",
+                "PREMIUM": "6 parlantes con Android Auto y Apple CarPlay",
+                "LUXURY": "10 parlantes con Android Auto y Apple CarPlay"
+            }
+        ],
+        "exterior": [
+            {
+                "caracteristica": "Llantas aleación",
+                "PREMIUM": "17”",
+                "LUXURY": "18”"
+            },
+            {
+                "caracteristica": "Smart Key",
+                "PREMIUM": "Sí",
+                "LUXURY": "Sí + Power Back Door + Manos libres"
+            },
+            {
+                "caracteristica": "Rieles de techo",
+                "PREMIUM": false,
+                "LUXURY": true
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Detector punto ciego (BSM)",
+                "PREMIUM": false,
+                "LUXURY": true
+            }
+        ],
+        "tecnologia": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "interior": [
+            "Volante forrado en cuero y comandos a distancia",
+            "Puerto USB: 2 del + 2 tras (tipo c)",
+            "Freno mano electrónico",
+            "Aire acondicionado: Climatizador Bi-zona",
+            "Asientos delanteros con ajuste lumbar: Sí, 2 movimientos",
+            "Asientos calefaccionados: Sí, conductor y pasajero",
+            "Control crucero: Adaptativo",
+            "Cargador inalámbrico celular: Sí"
+        ],
+        "exterior": [
+            "Cámara retroceso: Sí",
+            "Spoiler: Sí",
+            "Limpiaparabrisas delantero: Con sensor de lluvia",
+            "Focos delanteros: Tri LED con nivelación automática",
+            "Neblineros: LED + Luz de viraje",
+            "Luces diurnas (DRL): Sí"
+        ],
+        "seguridad": [
+            "Lexus Safety System+",
+            "Control crucero adaptativo de rango",
+            "Frenos ABS",
+            "Freno de apoyo de estacionamiento (PKSB)",
+            "Freno mano electrónico EPB con Brake Hold",
+            "Control de estabilidad (VSC)",
+            "Hill-Start Assist Control",
+            "SRS Airbag: 8",
+            "Sensor estacionamiento: 4 Del + 4 Tras"
+        ],
+        "tecnologia": []
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-18",
+        "metodo_extraccion": "Lectura estricta PDF",
+        "fuente": "REF_FICHA_LEXUS_UX_300h_2024_IcKPqWb.pdf",
+        "versiones_en_documento": 2,
+        "notas": "Las columnas del documento son Premium (4x2) y Luxury (4x4 E-Four). Los campos no presentes en el PDF se dejan null."
+    }
+}

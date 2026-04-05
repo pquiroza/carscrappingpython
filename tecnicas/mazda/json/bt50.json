@@ -1,0 +1,395 @@
+{
+    "vehiculo": {
+        "marca": "Mazda",
+        "modelo": "BT-50",
+        "año": null,
+        "versiones": [
+            "CORE 4x4 6MT",
+            "CORE 4x4 6AT",
+            "HIGH 4x4 6AT",
+            "HIGH PLUS 4x4 6AT"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "CORE 4x4 6MT": "3.0",
+            "CORE 4x4 6AT": "3.0",
+            "HIGH 4x4 6AT": "3.0",
+            "HIGH PLUS 4x4 6AT": "3.0"
+        },
+        "cilindrada": {
+            "CORE 4x4 6MT": null,
+            "CORE 4x4 6AT": null,
+            "HIGH 4x4 6AT": null,
+            "HIGH PLUS 4x4 6AT": null
+        },
+        "potencia_hp": {
+            "CORE 4x4 6MT": "188",
+            "CORE 4x4 6AT": "188",
+            "HIGH 4x4 6AT": "188",
+            "HIGH PLUS 4x4 6AT": "188"
+        },
+        "potencia_rpm": {
+            "CORE 4x4 6MT": "3.600",
+            "CORE 4x4 6AT": "3.600",
+            "HIGH 4x4 6AT": "3.600",
+            "HIGH PLUS 4x4 6AT": "3.600"
+        },
+        "torque_nm": {
+            "CORE 4x4 6MT": "450",
+            "CORE 4x4 6AT": "450",
+            "HIGH 4x4 6AT": "450",
+            "HIGH PLUS 4x4 6AT": "450"
+        },
+        "torque_rpm": {
+            "CORE 4x4 6MT": "1.600 - 2.600",
+            "CORE 4x4 6AT": "1.600 - 2.600",
+            "HIGH 4x4 6AT": "1.600 - 2.600",
+            "HIGH PLUS 4x4 6AT": "1.600 - 2.600"
+        },
+        "combustible": "Diesel",
+        "transmision": {
+            "CORE 4x4 6MT": "Manual",
+            "CORE 4x4 6AT": "Automática",
+            "HIGH 4x4 6AT": "Automática",
+            "HIGH PLUS 4x4 6AT": "Automática"
+        },
+        "traccion": "4X4"
+    },
+    "direccion": {
+        "tipo": null
+    },
+    "suspension_frenos": {
+        "suspension_delantera": null,
+        "suspension_trasera": null,
+        "frenos_delanteros": null,
+        "frenos_traseros": null,
+        "freno_estacionamiento": null,
+        "neumaticos": {
+            "CORE 4x4 6MT": "255/65 R17",
+            "CORE 4x4 6AT": "255/65 R17",
+            "HIGH 4x4 6AT": "265/60 R18",
+            "HIGH PLUS 4x4 6AT": "265/60 R18"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5280,
+        "ancho_mm": 2160,
+        "alto_mm": 1810,
+        "distancia_ejes_mm": 3125,
+        "despeje_suelo_mm": {
+            "CORE 4x4 6MT": 235,
+            "CORE 4x4 6AT": 235,
+            "HIGH 4x4 6AT": 240,
+            "HIGH PLUS 4x4 6AT": 240
+        },
+        "peso_bruto_kg": 3100,
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 76,
+        "numero_pasajeros": null
+    },
+    "tabla_comparativa_rendimiento": [
+        {
+            "caracteristica": "Rendimiento mixto (km/l)",
+            "CORE 4x4 6MT": "11",
+            "CORE 4x4 6AT": "11,1",
+            "HIGH 4x4 6AT": "11,1",
+            "HIGH PLUS 4x4 6AT": "11,1"
+        },
+        {
+            "caracteristica": "Capacidad de carga útil (kg)",
+            "CORE 4x4 6MT": "1.085",
+            "CORE 4x4 6AT": "1.085",
+            "HIGH 4x4 6AT": "1.085",
+            "HIGH PLUS 4x4 6AT": "1.085"
+        },
+        {
+            "caracteristica": "Capacidad de arrastre carro sin frenos / con frenos (kg)",
+            "CORE 4x4 6MT": "750/3.500",
+            "CORE 4x4 6AT": "750/3.500",
+            "HIGH 4x4 6AT": "750/3.500",
+            "HIGH PLUS 4x4 6AT": "750/3.500"
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "exterior": [
+            {
+                "caracteristica": "Espejos laterales abatibles eléctricos",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Espejos laterales con defroster",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Pisadera",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Neumáticos y llantas",
+                "CORE 4x4 6MT": "255/65 R17",
+                "CORE 4x4 6AT": "255/65 R17",
+                "HIGH 4x4 6AT": "265/60 R18",
+                "HIGH PLUS 4x4 6AT": "265/60 R18"
+            },
+            {
+                "caracteristica": "Barra de techo longitudinal",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": false,
+                "HIGH PLUS 4x4 6AT": false
+            },
+            {
+                "caracteristica": "Limpiaparabrisas con sensor de lluvia",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Parrilla frontal",
+                "CORE 4x4 6MT": "Negro",
+                "CORE 4x4 6AT": "Negro",
+                "HIGH 4x4 6AT": "Negro brillante",
+                "HIGH PLUS 4x4 6AT": "Negro brillante"
+            },
+            {
+                "caracteristica": "Manillas",
+                "CORE 4x4 6MT": "Color carrocería",
+                "CORE 4x4 6AT": "Color carrocería",
+                "HIGH 4x4 6AT": "Cromadas",
+                "HIGH PLUS 4x4 6AT": "Cromadas"
+            }
+        ],
+        "interior": [
+            {
+                "caracteristica": "Pantalla Multimedia táctil",
+                "CORE 4x4 6MT": "8\"",
+                "CORE 4x4 6AT": "8\"",
+                "HIGH 4x4 6AT": "9\"",
+                "HIGH PLUS 4x4 6AT": "9\""
+            },
+            {
+                "caracteristica": "Pantalla de panel de instrumentos a color",
+                "CORE 4x4 6MT": "4,2\"",
+                "CORE 4x4 6AT": "4,2\"",
+                "HIGH 4x4 6AT": "7\"",
+                "HIGH PLUS 4x4 6AT": "7\""
+            },
+            {
+                "caracteristica": "Conectividad",
+                "CORE 4x4 6MT": "USB tipo C",
+                "CORE 4x4 6AT": "USB tipo C",
+                "HIGH 4x4 6AT": "USB tipo C",
+                "HIGH PLUS 4x4 6AT": "USB tipo C"
+            },
+            {
+                "caracteristica": "Android Auto & Apple Carplay",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Audio",
+                "CORE 4x4 6MT": "6 parlantes",
+                "CORE 4x4 6AT": "6 parlantes",
+                "HIGH 4x4 6AT": "8 parlantes",
+                "HIGH PLUS 4x4 6AT": "8 parlantes"
+            },
+            {
+                "caracteristica": "Control crucero",
+                "CORE 4x4 6MT": "Normal",
+                "CORE 4x4 6AT": "Normal",
+                "HIGH 4x4 6AT": "Adaptativo",
+                "HIGH PLUS 4x4 6AT": "Adaptativo"
+            },
+            {
+                "caracteristica": "Volante cuero",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": false,
+                "HIGH PLUS 4x4 6AT": false
+            },
+            {
+                "caracteristica": "Climatizador",
+                "CORE 4x4 6MT": "Automático Bi-Zona",
+                "CORE 4x4 6AT": "Automático Bi-Zona",
+                "HIGH 4x4 6AT": "Automático Bi-Zona",
+                "HIGH PLUS 4x4 6AT": "Automático Bi-Zona"
+            },
+            {
+                "caracteristica": "Tapizado",
+                "CORE 4x4 6MT": "Tela",
+                "CORE 4x4 6AT": "Tela",
+                "HIGH 4x4 6AT": "Tela",
+                "HIGH PLUS 4x4 6AT": "Cuero negro"
+            },
+            {
+                "caracteristica": "Tipo de regulación asientos",
+                "CORE 4x4 6MT": "Manual",
+                "CORE 4x4 6AT": "Manual",
+                "HIGH 4x4 6AT": "Eléctrico (conductor)",
+                "HIGH PLUS 4x4 6AT": "Eléctrico (conductor)"
+            },
+            {
+                "caracteristica": "Calefaccionados",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": false,
+                "HIGH PLUS 4x4 6AT": "Delanteros"
+            }
+        ],
+        "seguridad": [
+            {
+                "caracteristica": "Airbag",
+                "CORE 4x4 6MT": "2 frontales + 2 laterales + 2 cortina",
+                "CORE 4x4 6AT": "2 frontales + 2 laterales + 2 cortina",
+                "HIGH 4x4 6AT": "2 frontales + 2 laterales + 2 cortina + 1 rodilla",
+                "HIGH PLUS 4x4 6AT": "2 frontales + 2 laterales + 2 cortina + 1 rodilla"
+            },
+            {
+                "caracteristica": "Sensores de estacionamiento",
+                "CORE 4x4 6MT": "Traseros",
+                "CORE 4x4 6AT": "Traseros",
+                "HIGH 4x4 6AT": "Delanteros y traseros",
+                "HIGH PLUS 4x4 6AT": "Delanteros y traseros"
+            },
+            {
+                "caracteristica": "Control de estabilidad dinámico (DSC)",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Control de estabilidad de remolque (TSC)",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Asistencia al arranque en pendientes (HLA) y descenso (HDC)",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Frenado de tráfico cruzado trasero (RCTB)",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Señal de frenado de emergencia (ESS)",
+                "CORE 4x4 6MT": true,
+                "CORE 4x4 6AT": true,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Asistencia frenado de emergencia (AEB)",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Alerta de tráfico cruzado en reversa (RCTA)",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Encendido de motor a distancia",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": false,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "ISOFIX",
+                "CORE 4x4 6MT": "2 traseros laterales",
+                "CORE 4x4 6AT": "2 traseros laterales",
+                "HIGH 4x4 6AT": "2 traseros laterales",
+                "HIGH PLUS 4x4 6AT": "2 traseros laterales"
+            },
+            {
+                "caracteristica": "Bloqueo eléctrico diferencial trasero",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            }
+        ],
+        "adas": [
+            {
+                "caracteristica": "Monitor de punto ciego (BSM)",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Sistema de advertencia de salida de carril (LDWS)",
+                "CORE 4x4 6MT": false,
+                "CORE 4x4 6AT": false,
+                "HIGH 4x4 6AT": true,
+                "HIGH PLUS 4x4 6AT": true
+            },
+            {
+                "caracteristica": "Faros LED",
+                "CORE 4x4 6MT": "LED",
+                "CORE 4x4 6AT": "LED",
+                "HIGH 4x4 6AT": "LED AHB (1)",
+                "HIGH PLUS 4x4 6AT": "LED AHB (1)"
+            }
+        ],
+        "tecnologia": [
+            {
+                "caracteristica": "Sistema de apertura",
+                "CORE 4x4 6MT": "Keyless",
+                "CORE 4x4 6AT": "Keyless",
+                "HIGH 4x4 6AT": "Smart Keyless",
+                "HIGH PLUS 4x4 6AT": "Smart Keyless"
+            }
+        ]
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "exterior": [],
+        "interior": [],
+        "seguridad": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "colores": [
+        "Rojo Solar",
+        "Azul Océano",
+        "Blanco Glaciar",
+        "Gris Concreto",
+        "Blanco",
+        "Plata Metálico",
+        "Negro"
+    ],
+    "metadata": {
+        "fecha_extraccion": null,
+        "metodo_extraccion": "Lectura de tabla de ficha técnica Mazda (●=true, vacío o -=false; texto/valores tal cual)",
+        "fuente": "ficha-tecnica-bt-50.pdf",
+        "versiones_en_documento": 4,
+        "notas": "Se incluyó toda la información visible del documento. Donde la ficha no indica un dato específico, se dejó null."
+    }
+}

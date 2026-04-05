@@ -1,0 +1,166 @@
+{
+    "vehiculo": {
+        "marca": "Ford",
+        "modelo": "F-150 Raptor",
+        "año": null,
+        "versiones": [
+            "F150_RAPTOR"
+        ]
+    },
+    "motor": {
+        "tipo": {
+            "F150_RAPTOR": "3.5L EcoBoost V6 High-Output"
+        },
+        "cilindrada": 3.5,
+        "potencia_hp": {
+            "F150_RAPTOR": "456"
+        },
+        "potencia_rpm": {
+            "F150_RAPTOR": "5850"
+        },
+        "torque_nm": {
+            "F150_RAPTOR": "691"
+        },
+        "torque_rpm": {
+            "F150_RAPTOR": "3000"
+        },
+        "combustible": "Gasolina",
+        "transmision": {
+            "F150_RAPTOR": "Automática secuencial / 10 velocidades (SelectShift)"
+        },
+        "traccion": {
+            "F150_RAPTOR": "4x4"
+        }
+    },
+    "direccion": {
+        "tipo": "Eléctrica Asistida (EPAS)"
+    },
+    "suspension_frenos": {
+        "suspension_delantera": "Amortiguadores de alto desempeño Fox Racing Shox",
+        "suspension_trasera": "Amortiguadores de alto desempeño Fox Racing Shox",
+        "frenos_delanteros": "Discos Ventilados",
+        "frenos_traseros": "Discos Ventilados",
+        "neumaticos": {
+            "F150_RAPTOR": "BF Goodrich All-Terrain T/A KO2 315/70R17"
+        },
+        "rueda_repuesto": null
+    },
+    "dimensiones": {
+        "largo_mm": 5908,
+        "ancho_mm": 2200,
+        "alto_mm": 2027,
+        "distancia_ejes_mm": 3693,
+        "despeje_suelo_mm": 305,
+        "peso_bruto_kg": {
+            "F150_RAPTOR": 3243
+        },
+        "capacidad_maletero_lts": null,
+        "capacidad_estanque_lts": 136
+    },
+    "tabla_comparativa_rendimiento": [],
+    "tabla_comparativa_ruedas": [
+        {
+            "caracteristica": "Neumáticos",
+            "F150_RAPTOR": "BF Goodrich All-Terrain T/A KO2 315/70R17"
+        },
+        {
+            "caracteristica": "Llanta",
+            "F150_RAPTOR": "Aleación - 17”"
+        }
+    ],
+    "tabla_comparativa_peso": [
+        {
+            "caracteristica": "Peso bruto total (kg)",
+            "F150_RAPTOR": 3243
+        }
+    ],
+    "tabla_comparativa_capacidades": [
+        {
+            "caracteristica": "Capacidad de carga (kg)",
+            "F150_RAPTOR": 612
+        },
+        {
+            "caracteristica": "Capacidad máxima de remolque con frenos (kg)",
+            "F150_RAPTOR": 3333
+        },
+        {
+            "caracteristica": "Capacidad estanque combustible (L)",
+            "F150_RAPTOR": 136
+        }
+    ],
+    "equipamiento_diferencial_detallado": {
+        "seguridad": [],
+        "exterior": [],
+        "interior": [],
+        "tecnologia": [],
+        "adas": []
+    },
+    "equipamiento_estandar_todas_versiones": {
+        "seguridad": [
+            "Cámara de retroceso con asistencia de remolque n",
+            "Sensores de retroceso n",
+            "AdvanceTrac® con RSC® y control de tracción n",
+            "Hill Descent Control™ n",
+            "Control electrónico de estabilidad (ESC) n",
+            "Control de tracción (TCS) n",
+            "Sistema de frenos antibloqueo (ABS) n",
+            "Distribución electrónica de frenado (EBD) n",
+            "Asistencia de frenado (BA) n",
+            "Asistencia de partida en pendiente (HHC) n",
+            "Airbags frontales n",
+            "Airbags laterales n",
+            "Airbags de cortina n",
+            "ISOFIX n",
+            "TPMS (monitor presión neumáticos) n",
+            "Sistema antirrobo perimetral n",
+            "Luces altas automáticas n"
+        ],
+        "interior": [
+            "Asientos delanteros con ajuste eléctrico n",
+            "Asiento conductor con memoria n",
+            "Volante multifunción n",
+            "Volante forrado en cuero n",
+            "Volante calefaccionado n",
+            "Climatizador automático n",
+            "Arranque con botón (push start) n",
+            "Control de crucero n",
+            "Pedales ajustables eléctricamente n",
+            "Asientos delanteros calefaccionados n",
+            "Asientos delanteros ventilados n",
+            "Tapiz cuero n"
+        ],
+        "exterior": [
+            "Faros LED n",
+            "Luces diurnas LED (DRL) n",
+            "Neblineros LED n",
+            "Espejos eléctricos n",
+            "Espejos calefaccionados n",
+            "Pisaderas laterales n",
+            "Protecciones exteriores Raptor n",
+            "Bedliner n",
+            "Gancho de remolque n"
+        ],
+        "tecnologia": [
+            "Sistema SYNC® 4 con pantalla táctil n",
+            "Apple CarPlay® n",
+            "Android Auto™ n",
+            "Bluetooth n",
+            "Puertos USB n",
+            "Cargador inalámbrico n",
+            "Panel digital n",
+            "Sistema de audio premium n"
+        ],
+        "adas": [
+            "Lane Keeping System n",
+            "Pre-Collision Assist con AEB n",
+            "BLIS® (punto ciego) n"
+        ]
+    },
+    "metadata": {
+        "fecha_extraccion": "2026-02-23",
+        "metodo_extraccion": "Extracción desde PDF a formato estándar (cuadrado negro=n=true, '-' o vacío=false)",
+        "fuente": "fcl-f150-raptor-ficha-tecnica.pdf",
+        "versiones_en_documento": 1,
+        "notas": "El PDF no incluye rendimiento de combustible ni rueda de repuesto explícita; esos campos quedan null/arrays vacíos. El ancho usado corresponde a 'Sin espejos'."
+    }
+}

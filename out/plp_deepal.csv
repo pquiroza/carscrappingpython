@@ -1,4 +1,11 @@
 marca_filtro,modelo_filtro,brand,model,version,discount_pct,price_main_text,price_main,price_lista,bono_marca,bono_financiamiento,consumo_urbano,traccion,pasajeros,url_modelo
+<<<<<<< HEAD
 Deepal,s07,Deepal,S07,S07 REEV,9.4,$28.990.000*,28990000,31990000,,1700000,,,,https://www.dercocenter.cl/auto/deepal/s07
 Deepal,s07,Deepal,S07,S07 BEV,10.5,$33.990.000*,33990000,37990000,,1500000,,,,https://www.dercocenter.cl/auto/deepal/s07
 Deepal,s05,Deepal,S05,REEV,15.0,$25.490.000*,25490000,29990000,,1600000,,,,https://www.dercocenter.cl/auto/deepal/s05
+=======
+Deepal,s07,Deepal,S07,S07 REEV,9.1,$29.990.000*,29990000,32990000,700000,2300000,,,,https://www.dercocenter.cl/auto/deepal/s07
+Deepal,s07,Deepal,S07,S07 BEV,5.3,$35.990.000*,35990000,37990000,500000,1500000,,,,https://www.dercocenter.cl/auto/deepal/s07
+Deepal,s05,Deepal,S05,REEV,13.3,$25.990.000*,25990000,29990000,2400000,1600000,,,,https://www.dercocenter.cl/auto/deepal/s05
+Deepal,g318,Deepal,G318,REEV,8.7,$41.990.000*,41990000,45990000,1000000,3000000,,,,https://www.dercocenter.cl/auto/deepal/g318
+>>>>>>> 4bbf2dc (nuevos procesos)

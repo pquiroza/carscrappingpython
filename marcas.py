@@ -27,6 +27,11 @@ marcas = {
     "Infiniti": 45,
     "DFSK": 46,
     "Geely": 47,
+<<<<<<< HEAD
+=======
+    "Lynk & Co": 48,
+    "Mahindra":49,
+>>>>>>> 4bbf2dc (nuevos procesos)
     "Suzuki": 17,
     "GWM": 18,
     "Renault": 19,

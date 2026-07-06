@@ -5,10 +5,30 @@ from firebase_admin import firestore
 import time
 from marcas import marcas
 import re
+from datetime import datetime
 import unicodedata
+from zoneinfo import ZoneInfo
+from google.cloud.firestore_v1.base_query import FieldFilter
+
+
 cred = credentials.Certificate('carscrapping-2225c-firebase-adminsdk-fbsvc-6abe929cb8.json')
 app = firebase_admin.initialize_app(cred)
 db = firestore.client()
+
+
+def quitar_palabra(texto, palabra):
+    if not texto or not palabra:
+        return texto
+    
+    # regex para eliminar la palabra completa (case insensitive)
+    patron = r'\b' + re.escape(palabra) + r'\b'
+    
+    resultado = re.sub(patron, '', texto, flags=re.IGNORECASE)
+    
+    # limpiar espacios extra
+    resultado = re.sub(r'\s+', ' ', resultado).strip()
+    
+    return resultado
 
 
 def normalize_text(text: str) -> str:
@@ -82,7 +102,8 @@ def guarda_yapo(record):
           'anio': record['anio'],
           'transmision': record['transmision'],
           'model_norm': datos_b['model_norm'],
-          'model_tokens': datos_b['model_tokens']
+          'model_tokens': datos_b['model_tokens'],
+          'origen': 'yapo.cl'
      }
      doc_ref = db.collection("usados").document()
      print(datac)
@@ -110,7 +131,8 @@ def guarda_usado(record):
           'transmision': record['transmission_detail'],
           'color': record['color_detail'],
           'model_norm': datos_b['model_norm'],
-          'model_tokens': datos_b['model_tokens']
+          'model_tokens': datos_b['model_tokens'],
+          'origen': 'chileautos.cl'
 
 
      }
@@ -139,7 +161,12 @@ def guarda_autocl(record):
         'anio': record['año'],
         'transmision': record['transmision'],
         'model_norm': datos_b['model_norm'],
+<<<<<<< HEAD
         'model_tokens': datos_b['model_tokens']
+=======
+        'model_tokens': datos_b['model_tokens'],
+        'origen': 'auto.cl'
+>>>>>>> 4bbf2dc (nuevos procesos)
     }
     doc_ref = db.collection("usados").document()
     print(datac)
@@ -208,12 +235,22 @@ def saveCar(marca, datos, fuente):
     id_marca = marcas[marca]
 
     # Buscar si ya existe un modelo previo con misma marca + modelo + modelDetail
+<<<<<<< HEAD
     existing_docs = db.collection("modelos") \
         .where("marca", "==", marca) \
         .where("model", "==", datos['modelo']) \
         .where("modelDetail", "==", datos['modelDetail']) \
         .limit(1) \
         .stream()
+=======
+    existing_docs = (
+    db.collection("modelos")
+    .where(filter=FieldFilter("marca", "==", marca))
+    .where(filter=FieldFilter("model", "==", datos['modelo']))
+    .limit(1)
+    .stream()
+    )
+>>>>>>> 4bbf2dc (nuevos procesos)
 
     # Extraer categoria y origen si existen
     categoria = None
@@ -244,4 +281,58 @@ def saveCar(marca, datos, fuente):
 
     print(arreglo)
     doc_ref.set(arreglo)
+<<<<<<< HEAD
+=======
+    print(f"Guardando {marca} {datos}")
+
+
+
+def convertir_date_add_a_timestamp(date_add: str) -> int:
+    
+    dt = datetime.strptime(date_add, "%Y-%m-%d")
+    dt = dt.replace(tzinfo=ZoneInfo("America/Santiago"))
+    return int(dt.timestamp())
+
+def saveCarDate(marca, datos, fuente,date_add):
+    
+    id_marca = marcas[marca]
+
+        # Buscar si ya existe un modelo previo con misma marca + modelo + modelDetail
+    existing_docs = db.collection("modelos") \
+        .where("marca", "==", marca) \
+        .where("model", "==", datos['modelo']) \
+        .limit(1) \
+        .stream()
+
+        # Extraer categoria y origen si existen
+    categoria = None
+    origen = None
+    for doc in existing_docs:
+        existing_data = doc.to_dict()
+        categoria = existing_data.get("categoria")
+        origen = existing_data.get("origen")
+        print(f"Datos previos encontrados → categoria: {categoria}, origen: {origen}")
+        break
+
+    doc_ref = db.collection("modelos").document()
+    doc_id = doc_ref.id
+    timestamp_date_add = convertir_date_add_a_timestamp(date_add)
+
+    arreglo = {
+            'carID': doc_id,
+            'model': datos['modelo'],
+            'modelDetail': datos['modelDetail'],
+            'brandID': id_marca,
+            'marca': marca,
+            'tiposprecio': datos['tiposprecio'],
+            'precio': datos['precio'],
+            'date_add': timestamp_date_add,
+            'fuente': fuente,
+            'categoria': categoria,
+            'origen': origen,
+        }
+
+    print(arreglo)
+    doc_ref.set(arreglo)
+>>>>>>> 4bbf2dc (nuevos procesos)
     print(f"Guardando {marca} {datos}")

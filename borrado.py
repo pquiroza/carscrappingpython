@@ -218,8 +218,14 @@ def borrar_modelos(
 
 # 7) Borrar de verdad todo lo de una marca en un rango
 borrar_modelos(
+<<<<<<< HEAD
     marca="Hyundai",
     fecha_desde="2026-03-29",
     fecha_hasta="2026-04-01",
+=======
+     marca="Suzuki",
+    fecha_desde="2026-04-16",
+    fecha_hasta="2026-04-16",
+>>>>>>> 4bbf2dc (nuevos procesos)
     dry_run=False,
 )

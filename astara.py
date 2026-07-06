@@ -6,6 +6,7 @@ from dataclasses import dataclass, asdict
 from typing import List, Optional, Dict
 from urllib.parse import urljoin
 from utils import saveCar
+from utils import to_title_custom
 from playwright.sync_api import sync_playwright, Page
 
 # ==========================
@@ -13,8 +14,8 @@ from playwright.sync_api import sync_playwright, Page
 # ==========================
 BRANDS = [
     {
-        "brand": "SsangYong",
-        "list_url": "https://astararetail.cl/ssangyong/",
+        "brand": "KGM",
+        "list_url": "https://astararetail.cl/kgm/",
         "base": "https://astararetail.cl",
         # "gallery_selector": "#eael-filter-gallery-wrapper-f2f0bbc",  # opcional
     },
@@ -34,6 +35,52 @@ BRANDS = [
     {
        "brand": "BYD",
          "list_url": "https://astararetail.cl/byd/",
+         "base": "https://astararetail.cl", 
+        
+        
+    },
+     {
+       "brand": "Jeep",
+         "list_url": "https://astararetail.cl/jeep/",
+         "base": "https://astararetail.cl", 
+        
+        
+    },
+     {
+       "brand": "RAM",
+         "list_url": "https://astararetail.cl/ram/",
+         "base": "https://astararetail.cl", 
+        
+        
+    },
+     {
+       "brand": "Fiat",
+         "list_url": "https://astararetail.cl/fiat/",
+         "base": "https://astararetail.cl", 
+        
+        
+    }
+]
+
+
+BRANDS = [
+         {
+       "brand": "Jeep",
+         "list_url": "https://astararetail.cl/jeep/",
+         "base": "https://astararetail.cl", 
+        
+        
+    },
+     {
+       "brand": "RAM",
+         "list_url": "https://astararetail.cl/ram/",
+         "base": "https://astararetail.cl", 
+        
+        
+    },
+     {
+       "brand": "Fiat",
+         "list_url": "https://astararetail.cl/fiat/",
          "base": "https://astararetail.cl", 
         
         
@@ -318,9 +365,16 @@ def main(headless: bool = True):
         }
         print(datos)
         print("-"*50)
-        saveCar(r['marca'],datos,"astararetail.cl")
+        saveCar(to_title_custom(r['marca']),datos,"astararetail.cl")
     print(f"\n[OK] {output} → {len(results)} versiones totales")
     print("RUN_OK")
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 4bbf2dc (nuevos procesos)
 if __name__ == "__main__":
     headless = os.getenv("HEADLESS", "true").lower() == "true"
     main(headless=headless)

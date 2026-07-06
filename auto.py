@@ -127,6 +127,7 @@ def extract_numeric_value(text: str):
 def extract_year(text: str):
     if not text:
         return None
+<<<<<<< HEAD
     match = re.search(r"\b(19|20)\d{2}\b", text)
     return int(match.group(0)) if match else None
 
@@ -175,6 +176,62 @@ def wait_for_cards(page, timeout=45000):
         page.wait_for_timeout(1000)
 
     return 0
+=======
+    match = re.search(r"\b(19\d{2}|20\d{2})\b", text)
+    return int(match.group(1)) if match else None
+
+
+def remove_year_from_version(text: str) -> str:
+    if not text:
+        return ""
+    text = re.sub(r"\b(19\d{2}|20\d{2})\b", "", text)
+    return normalize_text(text)
+
+
+def extract_id_from_href(href: str):
+    """
+    Intenta sacar el id desde la URL:
+    /usados/vehiculo/marca-modelo-2022-123456 -> 123456
+    """
+    if not href:
+        return None
+
+    clean = href.split("?")[0].rstrip("/")
+    last_part = clean.split("/")[-1]
+    match = re.search(r"(\d+)$", last_part)
+    if match:
+        return match.group(1)
+
+    return None
+
+
+def split_marca_modelo(title: str):
+    if not title:
+        return None, None
+
+    title_clean = normalize_text(title)
+
+    for marca in MARCAS_CONOCIDAS:
+        if title_clean.lower().startswith(marca.lower() + " "):
+            modelo = title_clean[len(marca):].strip()
+            return marca, modelo
+
+        if title_clean.lower() == marca.lower():
+            return marca, None
+
+    parts = title_clean.split(" ", 1)
+    marca = parts[0] if parts else None
+    modelo = parts[1] if len(parts) > 1 else None
+    return marca, modelo
+
+
+def wait_for_cards(page, timeout=30000):
+    try:
+        page.wait_for_selector("app-card-used-car", timeout=timeout)
+        return page.locator("app-card-used-car").count()
+    except Exception:
+        return 0
+>>>>>>> 4bbf2dc (nuevos procesos)
 
 
 def force_lazy_render(page):
@@ -261,6 +318,12 @@ def extract_cards_from_page(page, seen_ids: set):
     total = cards.count()
     results = []
 
+<<<<<<< HEAD
+=======
+    # Evita duplicados dentro de la misma página aunque el DOM repita cards
+    page_seen_ids = set()
+
+>>>>>>> 4bbf2dc (nuevos procesos)
     for i in range(total):
         card = cards.nth(i)
 
@@ -271,9 +334,25 @@ def extract_cards_from_page(page, seen_ids: set):
                 continue
 
             item_id = extract_id_from_href(href)
+<<<<<<< HEAD
             if not item_id or item_id in seen_ids:
                 continue
 
+=======
+            if not item_id:
+                continue
+
+            if item_id in seen_ids:
+                continue
+
+            if item_id in page_seen_ids:
+                continue
+
+            # Marcar ANTES de guardar para evitar duplicados
+            page_seen_ids.add(item_id)
+            seen_ids.add(item_id)
+
+>>>>>>> 4bbf2dc (nuevos procesos)
             url = urljoin(BASE_URL, href)
 
             title = ""
@@ -327,6 +406,11 @@ def extract_cards_from_page(page, seen_ids: set):
 
             results.append(item)
             print(item)
+<<<<<<< HEAD
+=======
+
+            # Guardar una sola vez por item ya marcado
+>>>>>>> 4bbf2dc (nuevos procesos)
             guarda_autocl(item)
 
         except Exception as e:
@@ -365,10 +449,25 @@ def main():
     ensure_data_dir()
 
     seen_ids_list = load_json(SEEN_IDS_FILE, [])
+<<<<<<< HEAD
     seen_ids = set(seen_ids_list)
 
     existing_data = load_json(OUTPUT_FILE, [])
 
+=======
+    seen_ids = set(str(x) for x in seen_ids_list)
+
+    existing_data = load_json(OUTPUT_FILE, [])
+
+    # Índice adicional para evitar duplicados en el JSON local
+    existing_ids = set()
+    for row in existing_data:
+        row_id = row.get("id")
+        if row_id is not None:
+            existing_ids.add(str(row_id))
+            seen_ids.add(str(row_id))
+
+>>>>>>> 4bbf2dc (nuevos procesos)
     with sync_playwright() as p:
         browser = p.chromium.launch(
             headless=False,
@@ -403,6 +502,7 @@ def main():
 
                 items = extract_cards_from_page(page, seen_ids)
 
+<<<<<<< HEAD
                 if items:
                     for item in items:
                         existing_data.append(item)
@@ -410,6 +510,20 @@ def main():
                         total_new += 1
 
                     print(f"Página {page_number}: {len(items)} nuevos registros")
+=======
+                new_items = []
+                for item in items:
+                    item_id = str(item["id"])
+                    if item_id in existing_ids:
+                        continue
+                    existing_data.append(item)
+                    existing_ids.add(item_id)
+                    total_new += 1
+                    new_items.append(item)
+
+                if new_items:
+                    print(f"Página {page_number}: {len(new_items)} nuevos registros")
+>>>>>>> 4bbf2dc (nuevos procesos)
                 else:
                     print(f"Página {page_number}: sin nuevos registros")
 

@@ -344,7 +344,11 @@ def print_profiles(profiles: Dict[str, Dict[str, Any]]):
         }
 
         guardaSpecs(
+<<<<<<< HEAD
             to_title_custom(marca),
+=======
+            marca,
+>>>>>>> 4bbf2dc (nuevos procesos)
             to_title_custom(modelo),
             to_title_custom(version),
             datos

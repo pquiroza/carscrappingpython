@@ -15,7 +15,10 @@ from selenium.webdriver.support.ui import Select
 from datetime import datetime
 import requests
 
-
+from utils import to_title_custom
+from utils import quitar_palabra
+from utils import saveCar
+from utils import saveCarDate
 
 import logging
 from bs4 import BeautifulSoup
@@ -30,9 +33,9 @@ from firebase_admin import db
 from firebase_admin import firestore
 
 
-cred = credentials.Certificate('carscrapping-2225c-firebase-adminsdk-fbsvc-6abe929cb8.json')
-app = firebase_admin.initialize_app(cred)
-db = firestore.client()
+#cred = credentials.Certificate('carscrapping-2225c-firebase-adminsdk-fbsvc-6abe929cb8.json')
+#app = firebase_admin.initialize_app(cred)
+#db = firestore.client()
 class Auto:
     
     def __init__(self,id,marca,modelo,categoria,precio,bonos,caracteristicas):
@@ -105,7 +108,7 @@ def setup_driver():
     options = Options()
     options.add_argument("—headless")
     print(options)
-    service = Service('/opt/homebrew/bin/chromedriver')
+    service = Service('/Users/pedro/Downloads/chromedriver/chromedriver')
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
@@ -290,7 +293,13 @@ def toyota(driver):
 
 def bruno(driver):
     #brunos = ["toyota","nissan","peugeot","citroen","ram","chery","mg","lexus","hyundai","opel","jeep","fiat","exeed","omoda-jaecoo"]
+<<<<<<< HEAD
     brunos = ["hyundai"]
+=======
+    #brunos = ["toyota","nissan","peugeot","citroen","ram","chery","mg","lexus","opel","jeep","fiat","exeed","omoda-jaecoo"]
+    brunos = ["hyundai"]
+
+>>>>>>> 4bbf2dc (nuevos procesos)
     id=0
     for b in brunos: 
         id+=1
@@ -307,14 +316,14 @@ def bruno(driver):
             linksmodelos = re.findall(r'href="(.*?)"',str(l))
             modelos.append(linksmodelos[0])
         
-        doc_ref = db.collection("marcas").document()
-        doc_id = doc_ref.id
-        doc_ref.set({
-            'brandID': id,
-            'name': b[0].upper() + b[1:],
-            'website': url
-        })
-        print(id,b,url)
+        #doc_ref = db.collection("marcas").document()
+        #doc_id = doc_ref.id
+        #doc_ref.set({
+        #    'brandID': id,
+        #    'name': b[0].upper() + b[1:],
+        #    'website': url
+        #})
+        #print(id,b,url)
         
         for m in modelos:
             url = "https://www.brunofritsch.cl/"+m
@@ -342,21 +351,33 @@ def bruno(driver):
                     precios.append(p)
                 
                 
-                
-                
-                doc_ref = db.collection("modelos").document()
-                doc_id = doc_ref.id
-                doc_ref.set({
-                'carID': doc_id,
-                'model': nmodelo[0],
-                'modelDetail':ndetallemodelo[0],
-                'brandID': id,
-                'marca':b[0].upper() + b[1:],
-                'tiposprecio':ntiposprecio,
-                'precio':nprecios,
-                'date_add':int(time.time()),
-                'fuente': 'Bruno Fritsch'
-                })
+                modelo = quitar_palabra(nmodelo[0], b)
+                modelo = to_title_custom(modelo)
+                #fecha = datetime(2026, 4, 13)
+                #timestamp = int(fecha.timestamp())
+                #doc_ref = db.collection("modelos").document()
+                #doc_id = doc_ref.id
+                #doc_ref.set({
+                #'carID': doc_id,
+                #'model': modelo,
+                #'modelDetail':ndetallemodelo[0],
+                #'brandID': id,
+                #'marca':b[0].upper() + b[1:],
+                #'tiposprecio':ntiposprecio,
+                #'precio':nprecios,
+                #'date_add':int(time.time()),
+                #'date_add': timestamp,
+                #'fuente': 'Bruno Fritsch'
+                #})
+                datos = {
+                    'modelo': modelo,
+                    'marca':b[0].upper() + b[1:],
+                    'modelDetail': ndetallemodelo[0],
+                    'tiposprecio': ntiposprecio,
+                    'precio': nprecios
+                }
+                print(datos)
+                saveCarDate(b[0].upper() + b[1:],datos,'https://www.brunofritsch.cl/','2026-04-13')
                     
                 print("-"*100)
     print("RUN_OK")
@@ -415,15 +436,15 @@ def main():
     fecha_hoy = datetime.today().strftime('%Y%m%d')
     
 
-    doc_ref = db.collection("fechas").document()
-    doc_id = doc_ref.id
-    doc_ref.set({
-            'fecha': fecha_hoy,
-            'timestamp': int(time.time()),
+    #doc_ref = db.collection("fechas").document()
+    #doc_id = doc_ref.id
+    #doc_ref.set({
+    #        'fecha': fecha_hoy,
+    #        'timestamp': int(time.time()),
           
-        })
+    #    })
     
-    print("Comenzando Proceso")
+    #print("Comenzando Proceso")
     driver = setup_driver()
 
     bruno(driver)

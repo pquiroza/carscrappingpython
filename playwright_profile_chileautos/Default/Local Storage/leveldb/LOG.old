@@ -1,0 +1,6 @@
+2026/05/11-13:10:52.674 1c79124 Reusing MANIFEST /Users/pedro/Downloads/carscrapper/playwright_profile_chileautos/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/11-13:10:52.676 1c79124 Recovering log #4
+2026/05/11-13:10:52.677 1c79124 Reusing old log /Users/pedro/Downloads/carscrapper/playwright_profile_chileautos/Default/Local Storage/leveldb/000004.log 
+2026/05/11-13:11:13.600 1c79127 Level-0 table #8: started
+2026/05/11-13:11:13.603 1c79127 Level-0 table #8: 30805 bytes OK
+2026/05/11-13:11:13.605 1c79127 Delete type=0 #4

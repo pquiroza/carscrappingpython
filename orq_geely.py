@@ -1,0 +1,417 @@
+# geely_scrape_versiones_json.py
+
+import asyncio
+import json
+import re
+import unicodedata
+import os
+import sys
+import traceback
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+from playwright.async_api import async_playwright, TimeoutError as PWTimeout
+from utils import to_title_custom, saveCar
+
+URL_LISTA_MODELOS = "https://geely.cl/modelos/"
+MODELOS_JSON = Path("geely_modelos.json")
+SALIDA_JSON = Path("geely_versiones_formato.json")
+HEADLESS = os.getenv("HEADLESS", "true").lower() == "true"
+
+
+# ---------- Utilidades ----------
+def limpiar_precio(texto: Optional[str]) -> Optional[int]:
+    if not texto:
+        return None
+    t = str(texto).strip().lower().replace("desde", "")
+    m = re.search(r"(\d{1,3}(?:[.\s]\d{3})+|\d+)", t)
+    if not m:
+        return None
+    num = re.sub(r"[.\s,]", "", m.group(1))
+    try:
+        return int(num)
+    except ValueError:
+        return None
+
+
+def norm_text(s: Optional[str]) -> Optional[str]:
+    if s is None:
+        return None
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def strip_accents_lower(s: str) -> str:
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9\s]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def extract_label_value_from_li_text(li_text: str) -> Optional[Dict[str, str]]:
+    txt = norm_text(li_text or "") or ""
+    m = re.search(r"(\$\s*\d[\d.\s]*)", txt)
+    if m:
+        valor = m.group(1)
+        label = txt[:m.start()].strip(":– -").strip()
+        return {"label": label, "valor_texto": valor}
+    return None
+
+
+def safe_subtract(a: Optional[int], b: Optional[int]) -> Optional[int]:
+    if a is None:
+        return None
+    return a - (b or 0)
+
+
+# ---------- Modelos ----------
+async def scrape_modelos(ctx) -> List[Dict[str, Any]]:
+    page = await ctx.new_page()
+    page.set_default_timeout(45000)
+
+    try:
+        await page.goto(URL_LISTA_MODELOS, wait_until="domcontentloaded", timeout=45000)
+        await page.wait_for_selector("ul.model-tabs__content__cards a.card-car__content", timeout=30000)
+
+        for _ in range(4):
+            await page.mouse.wheel(0, 1200)
+            await page.wait_for_timeout(250)
+
+        anchors = await page.query_selector_all("ul.model-tabs__content__cards a.card-car__content")
+        items: List[Dict[str, Any]] = []
+
+        for a in anchors:
+            try:
+                href = await a.get_attribute("href")
+                h3 = await a.query_selector(".card-car__content__details h3")
+                nombre = norm_text(await h3.inner_text()) if h3 else None
+
+                if nombre and href:
+                    items.append({"nombre": nombre, "href": href})
+            except Exception:
+                pass
+
+        seen = set()
+        out = []
+        for it in items:
+            key = (it["href"], it["nombre"])
+            if key not in seen:
+                seen.add(key)
+                out.append(it)
+
+        return out
+
+    finally:
+        await page.close()
+
+
+# ---------- Versiones por modelo ----------
+async def scrape_versiones_de_modelo(ctx, model: Dict[str, Any]) -> List[Dict[str, Any]]:
+    url = model.get("href")
+    nombre_modelo = model.get("nombre")
+    page = await ctx.new_page()
+    page.set_default_timeout(45000)
+
+    versiones_out: List[Dict[str, Any]] = []
+    disclaimer_text: Optional[str] = None
+
+    try:
+        await page.goto(url, wait_until="domcontentloaded", timeout=45000)
+
+        for _ in range(6):
+            await page.mouse.wheel(0, 1200)
+            await page.wait_for_timeout(200)
+
+        try:
+            disc = await page.query_selector(".models-show-versions__content__disclaimer")
+            if disc:
+                disclaimer_text = norm_text(await disc.inner_text())
+        except Exception:
+            pass
+
+        await page.wait_for_selector(".card-version", timeout=30000)
+        cards = await page.query_selector_all(".card-version")
+
+        for card in cards:
+            try:
+                h3 = await card.query_selector(".card-version__title")
+                version_title = norm_text(await h3.inner_text()) if h3 else None
+
+                price = await card.query_selector(".card-version__price")
+                precio_desde_texto = norm_text(await price.inner_text()) if price else None
+                precio_desde = limpiar_precio(precio_desde_texto)
+
+                detalles_node = await card.query_selector(".card-version__details")
+                detalles_texto = norm_text(await detalles_node.inner_text()) if detalles_node else ""
+
+                precio_lista = None
+                bono_financiamiento = None
+                bono_candidatos: List[int] = []
+
+                if detalles_node:
+                    lis = await detalles_node.query_selector_all("li")
+                    for li in lis:
+                        label_node = await li.query_selector(":scope > div:nth-of-type(1), :scope > span:nth-of-type(1), :scope > *:first-child")
+                        valor_node = await li.query_selector(".card-version__details__bold, strong, b, :scope > *:last-child")
+
+                        label_txt = norm_text(await label_node.inner_text()) if label_node else None
+                        valor_txt = norm_text(await valor_node.inner_text()) if valor_node else None
+
+                        if not (label_txt and valor_txt):
+                            li_full = norm_text(await li.inner_text())
+                            pair = extract_label_value_from_li_text(li_full or "")
+                            if pair:
+                                label_txt = pair["label"]
+                                valor_txt = pair["valor_texto"]
+
+                        if not (label_txt and valor_txt):
+                            continue
+
+                        lbl_norm = strip_accents_lower(label_txt)
+                        if "precio" in lbl_norm and "lista" in lbl_norm:
+                            precio_lista = limpiar_precio(valor_txt)
+                        elif "bono" in lbl_norm and "financiamient" in lbl_norm:
+                            val = limpiar_precio(valor_txt)
+                            if val:
+                                bono_candidatos.append(val)
+
+                if precio_lista is None and detalles_texto:
+                    m = re.search(r"precio\s*de\s*lista.*?\$([\d.\s]+)", strip_accents_lower(detalles_texto))
+                    if m:
+                        precio_lista = limpiar_precio(m.group(1))
+
+                if not bono_candidatos and detalles_texto:
+                    for m in re.finditer(r"bono.*?financiamient.*?\$([\d.\s]+)", strip_accents_lower(detalles_texto)):
+                        val = limpiar_precio(m.group(1))
+                        if val:
+                            bono_candidatos.append(val)
+
+                if bono_financiamiento is None and precio_lista and precio_desde and precio_lista > precio_desde:
+                    diff = precio_lista - precio_desde
+                    if diff >= 100000:
+                        bono_candidatos.append(diff)
+
+                if not bono_candidatos and disclaimer_text:
+                    for m in re.finditer(r"bono\s+de\s+\$([\d.\s]+)", strip_accents_lower(disclaimer_text)):
+                        val = limpiar_precio(m.group(1))
+                        if val:
+                            bono_candidatos.append(val)
+
+                if bono_candidatos:
+                    bono_financiamiento = next((x for x in bono_candidatos if isinstance(x, int) and x > 0), None)
+
+                cotizar_url = None
+                for a in await card.query_selector_all(".card-version__buttons a"):
+                    try:
+                        title = (await a.get_attribute("title")) or ""
+                        if "cotizar" in strip_accents_lower(title):
+                            cotizar_url = await a.get_attribute("href")
+                    except Exception:
+                        pass
+
+                row = {
+                    "brand": "GEELY",
+                    "model": (nombre_modelo or "").upper(),
+                    "version": version_title,
+                    "precio_desde_texto": precio_desde_texto,
+                    "precio_desde": precio_desde,
+                    "precio_lista": precio_lista,
+                    "bono_directo": None,
+                    "bono_financiamiento": bono_financiamiento,
+                    "cotizar_url": cotizar_url,
+                    "modelo_filtro": f"GEELY {(nombre_modelo or '').upper()}".strip()
+                }
+
+                if row.get("version") and row.get("precio_desde"):
+                    versiones_out.append(row)
+
+            except Exception as e:
+                versiones_out.append({
+                    "_error": str(e),
+                    "brand": "GEELY",
+                    "model": (nombre_modelo or "").upper(),
+                    "modelo_filtro": f"GEELY {(nombre_modelo or '').upper()}".strip()
+                })
+
+    except PWTimeout:
+        print(f"[WARN] Timeout en modelo: {nombre_modelo} ({url})")
+    finally:
+        await page.close()
+
+    return versiones_out
+
+
+# ---------- Main ----------
+async def scrape():
+    stats = {
+        "models_found": 0,
+        "models_processed": 0,
+        "model_errors": 0,
+        "versions_found": 0,
+        "version_errors": 0,
+        "saved_ok": 0,
+        "save_errors": 0,
+    }
+
+    versiones_formato: List[Dict[str, Any]] = []
+
+    async with async_playwright() as pw:
+        browser = await pw.chromium.launch(headless=HEADLESS)
+        ctx = await browser.new_context(
+            locale="es-CL",
+            user_agent=(
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            ),
+            viewport={"width": 1366, "height": 900},
+        )
+
+        async def route_handler(route):
+            url = route.request.url
+            if any(x in url for x in ["google-analytics", "gtm", "hotjar", "doubleclick"]):
+                return await route.abort()
+            return await route.continue_()
+
+        await ctx.route("**/*", route_handler)
+
+        try:
+            if MODELOS_JSON.exists():
+                modelos = json.loads(MODELOS_JSON.read_text(encoding="utf-8"))
+                print(f"[INFO] Modelos cache: {len(modelos)}")
+            else:
+                print("[INFO] Scrapeando modelos…")
+                modelos = await scrape_modelos(ctx)
+                MODELOS_JSON.write_text(json.dumps(modelos, ensure_ascii=False, indent=2), encoding="utf-8")
+                print(f"[OK] {MODELOS_JSON.resolve()}")
+
+            stats["models_found"] = len(modelos)
+
+            for m in modelos:
+                nombre = m.get("nombre")
+                href = m.get("href")
+
+                if not href:
+                    continue
+
+                print(f"[PW] Versiones -> {nombre} ({href})")
+
+                try:
+                    rows = await scrape_versiones_de_modelo(ctx, m)
+                    stats["models_processed"] += 1
+                    stats["versions_found"] += len([r for r in rows if not r.get("_error")])
+                    stats["version_errors"] += len([r for r in rows if r.get("_error")])
+                    versiones_formato.extend(rows)
+
+                except Exception as e:
+                    stats["model_errors"] += 1
+                    print(f"[WARN] Error en modelo {nombre}: {e}")
+                    traceback.print_exc()
+
+        finally:
+            await ctx.close()
+            await browser.close()
+
+    return versiones_formato, stats
+
+
+def main():
+    try:
+        versiones_formato, stats = asyncio.run(scrape())
+
+        SALIDA_JSON.write_text(
+            json.dumps(versiones_formato, ensure_ascii=False, indent=2),
+            encoding="utf-8"
+        )
+
+        print(f"[OK] JSON -> {SALIDA_JSON.resolve()}")
+        print(f"[INFO] Total versiones: {len(versiones_formato)}")
+
+        for v in versiones_formato:
+            try:
+                if v.get("_error"):
+                    stats["save_errors"] += 1
+                    continue
+
+                precio_lista = v.get("precio_lista")
+                bono_fin = v.get("bono_financiamiento")
+
+                precio = [
+                    safe_subtract(precio_lista, bono_fin),
+                    safe_subtract(precio_lista, bono_fin),
+                    precio_lista,
+                    precio_lista
+                ]
+
+                datos = {
+                    'marca': to_title_custom(v.get('brand')),
+                    'modelo': to_title_custom(v.get('model')),
+                    'modelDetail': to_title_custom(v.get('version')),
+                    'precio': precio,
+                    'tiposprecio': ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']
+                }
+
+                if datos["marca"] and datos["modelo"] and datos["modelDetail"]:
+                    saveCar('Geely', datos, 'https://geely.cl')
+                    stats["saved_ok"] += 1
+                else:
+                    stats["save_errors"] += 1
+
+            except Exception as e:
+                stats["save_errors"] += 1
+                print(f"[ERROR] saveCar falló para fila {v}: {e}")
+                traceback.print_exc()
+
+        summary = {
+            "status": "success",
+            "source": "https://geely.cl",
+            **stats
+        }
+
+        if stats["models_found"] == 0:
+            summary["status"] = "error"
+            print(json.dumps(summary, ensure_ascii=False))
+            print("[ERROR] No se encontraron modelos")
+            sys.exit(1)
+
+        if stats["models_processed"] == 0:
+            summary["status"] = "error"
+            print(json.dumps(summary, ensure_ascii=False))
+            print("[ERROR] No se pudo procesar ningún modelo")
+            sys.exit(1)
+
+        if stats["versions_found"] == 0:
+            summary["status"] = "error"
+            print(json.dumps(summary, ensure_ascii=False))
+            print("[ERROR] No se encontraron versiones")
+            sys.exit(1)
+
+        if stats["saved_ok"] == 0:
+            summary["status"] = "error"
+            print(json.dumps(summary, ensure_ascii=False))
+            print("[ERROR] No se guardó ningún registro en Firebase")
+            sys.exit(1)
+
+        if stats["models_found"] > 0:
+            error_ratio = stats["model_errors"] / stats["models_found"]
+            summary["error_ratio"] = round(error_ratio, 4)
+
+            if error_ratio >= 0.5:
+                summary["status"] = "error"
+                print(json.dumps(summary, ensure_ascii=False))
+                print(f"[ERROR] Demasiados errores de modelo: {stats['model_errors']} de {stats['models_found']}")
+                sys.exit(1)
+
+        print("RUN_OK")
+        print(json.dumps(summary, ensure_ascii=False))
+        sys.exit(0)
+
+    except Exception as e:
+        print(f"[FATAL] {e}")
+        traceback.print_exc()
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

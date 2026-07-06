@@ -389,7 +389,11 @@ def main():
         json.dump(rows, f, ensure_ascii=False, indent=2)
     
     for r in rows:
+<<<<<<< HEAD
         print(r)
+=======
+        
+>>>>>>> 4bbf2dc (nuevos procesos)
         tiposprecio = ['Crédito inteligente', 'Crédito convencional', 'Todo medio de pago', 'Precio de lista']
         precios = [
             r['credito_inteligente'],
@@ -405,7 +409,14 @@ def main():
             'precio': precios
         }
         print(datos)
+<<<<<<< HEAD
         saveCar("Chevrolet",datos,'www.coseche.com')
+=======
+        if(datos['precio'][3]!=None):
+            saveCar("Chevrolet",datos,'www.coseche.com')
+        else:
+            print("No se guardo el auto por Precio Vacio", datos)
+>>>>>>> 4bbf2dc (nuevos procesos)
     print(f"[OK] Guardado: {out_file} | filas: {len(rows)}")
 
 

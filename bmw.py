@@ -334,7 +334,7 @@ async def main():
                         'precio': precio
                     }
                     print(datos)
-                    saveCar('BMW',datos,'www.bmw.cl')
+                    #saveCar('BMW',datos,'www.bmw.cl')
         print(f"OK -> {out_path}")
         print("RUN_OK")
 
